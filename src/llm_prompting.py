@@ -32,7 +32,7 @@ concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts][0:20]
 
 print(len(concepts), concepts)
 
-prompt = f"What is the most salient property <CONCEPT>? Generate only one property. Generate only the property and do not explain the property. The output should be in the form of concept\tproperty"
+prompt = f"What is the most salient property of <CONCEPT>? Generate only the property and do not explain the property."
 concept_prompts = [prompt.replace("<CONCEPT>", con) for con in concepts][0:150]
 
 print(concept_prompts)
