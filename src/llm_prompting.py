@@ -16,8 +16,9 @@ from transformers import (
     TrainingArguments,
     pipeline,
 )
-from peft import LoraConfig, PeftModel, prepare_model_for_kbit_training
-from trl import SFTTrainer
+
+# from peft import LoraConfig, PeftModel, prepare_model_for_kbit_training
+# from trl import SFTTrainer
 
 
 # model = "meta-llama/Llama-2-13b-chat-hf"
