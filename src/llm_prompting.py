@@ -1,24 +1,15 @@
+import os
 import gc
 import torch
 import transformers
 
-from transformers import AutoTokenizer
 
-
-import os
-import torch
-from datasets import load_dataset
 from transformers import (
     AutoModelForCausalLM,
-    AutoTokenizer,
     BitsAndBytesConfig,
     AutoTokenizer,
-    TrainingArguments,
     pipeline,
 )
-
-# from peft import LoraConfig, PeftModel, prepare_model_for_kbit_training
-# from trl import SFTTrainer
 
 
 # model = "meta-llama/Llama-2-13b-chat-hf"
@@ -38,36 +29,14 @@ bnb_config = BitsAndBytesConfig(
     bnb_4bit_use_double_quant=True,
 )
 
-# LoRA configuration
-# peft_config = LoraConfig(
-#     r=16,
-#     lora_alpha=32,
-#     lora_dropout=0.05,
-#     bias="none",
-#     task_type="CAUSAL_LM",
-#     target_modules=[
-#         "up_proj",
-#         "down_proj",
-#         "gate_proj",
-#         "k_proj",
-#         "q_proj",
-#         "v_proj",
-#         "o_proj",
-#     ],
-# )
 
-
-# Load base moodel
+# Load base moodel in quantised form
 model = AutoModelForCausalLM.from_pretrained(
     base_model, quantization_config=bnb_config, device_map={"": 0}
 )
 
-# Cast the layernorm in fp32, make output embedding layer require grads, add the upcasting of the lmhead to fp32
-# model = prepare_model_for_kbit_training(model)
-
-
 print(f"############ Model ############", end="\n\n")
-print(model)
+print(model, end="\n\n")
 
 
 # Tokenizer
@@ -89,7 +58,7 @@ print(len(concepts), concepts)
 
 basic_prompt = f"What is the most salient property of <CONCEPT>? Generate only the property and do not explain the property."
 
-commonsense_prompt = """<s>[INST] <<SYS>>
+commonsense_prompt_1 = """<s>[INST] <<SYS>>
 You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.  
 Please ensure that your responses are socially unbiased and positive in nature.
 If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
@@ -98,12 +67,12 @@ If you don't know the answer, please don't share false information.
 Write the five most salient properties of the following concept. The propeties must be written in a Python list format. Limit the number of properties to 5. Concept: <CONCEPT>
 [/INST]"""
 
-concept_prompts = [commonsense_prompt.replace("<CONCEPT>", con) for con in concepts]
+
+concept_prompts = [commonsense_prompt_1.replace("<CONCEPT>", con) for con in concepts]
 
 print(concept_prompts)
 
-file_name = "commonsense_prompt_llama2_7b_properties_ufet_concepts.txt"
-
+file_name = "4bit_cs_prompt1_commonsense_prompt_llama2_7b_properties_ufet_concepts.txt"
 
 response_list = []
 
@@ -133,8 +102,12 @@ with open(file_name, "w") as out_file:
 
             print("===================================")
 
+        del seq
+        del sequences
+
 del model
 del pipeline
+del concept_prompts
 
 
 gc.collect()
