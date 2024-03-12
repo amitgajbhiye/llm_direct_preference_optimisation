@@ -1,0 +1,47 @@
+commonsense_prompt = """\n
+[INST] From now on, you are a contestant in the general knowledge quiz contest and always answer all kinds of
+common sense questions accurately. I am the moderator of the game and the final is about to start. [/INST] \n
+That sounds like an exciting challenge! I'm ready to participate in the quiz contest as a contestant.
+Please go ahead and start the final round—I'm here to provide accurate answers to your common sense questions.
+[INST] Your answers must be a Python list.  [/INST]
+Ceratinly. I will always output a Python list.
+[INST] What are the most important five properties of <CONCEPT>? [/INST]
+"""
+
+
+<s>[INST] <<SYS>>
+From now on, you are a contestant in the general knowledge quiz contest and always answer all kinds of
+common sense questions accurately. I am the moderator of the game and the final is about to start.
+
+
+Your answers must be a Python list.
+ 
+<</SYS>>
+
+There's a llama in my garden 😱 What should I do? [/INST]
+
+
+
+p5 = """<s>[INST] <<SYS>>
+You are a researcher task in summarizing and writing concise brief of articles.  
+Please ensure that your responses are socially unbiased and positive in nature.
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write a concise TL;DR summary in numeric bullet-points for the following article, 
+don't repeat ideas in bullet points. Limit the number of bullet-point to 5. article: {BODY}
+[/INST]""".format(BODY=text)
+
+commonsense_propmt = """<s>[INST] <<SYS>>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.  
+Please ensure that your responses are socially unbiased and positive in nature.
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write the five most salient properties of the following concept. The propeties must be written in a Python list format. Limit the number of properties to 5. Concept: <CONCEPT>
+[/INST]"""
+
+
+
+
+

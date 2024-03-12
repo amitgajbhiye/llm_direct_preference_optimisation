@@ -28,16 +28,26 @@ pipeline = transformers.pipeline(
 with open(inp_file, "r") as inp_file:
     concepts = inp_file.readlines()
 
-concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts][0:20]
+concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts][0:10]
 
 print(len(concepts), concepts)
 
-prompt = f"What is the most salient property of <CONCEPT>? Generate only the property and do not explain the property."
-concept_prompts = [prompt.replace("<CONCEPT>", con) for con in concepts][0:150]
+basic_prompt = f"What is the most salient property of <CONCEPT>? Generate only the property and do not explain the property."
+
+commonsense_prompt = """<s>[INST] <<SYS>>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.  
+Please ensure that your responses are socially unbiased and positive in nature.
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write the five most salient properties of the following concept. The propeties must be written in a Python list format. Limit the number of properties to 5. Concept: <CONCEPT>
+[/INST]"""
+
+concept_prompts = [commonsense_prompt.replace("<CONCEPT>", con) for con in concepts]
 
 print(concept_prompts)
 
-file_name = "individual_property_llama2_7b_properties_mcrae_concepts.txt"
+file_name = "commonsense_prompt_llama2_7b_properties_ufet_concepts.txt"
 
 
 response_list = []
@@ -45,25 +55,38 @@ response_list = []
 with open(file_name, "w") as out_file:
 
     for concept_prompt in concept_prompts:
-        # print (concept_prompt)
 
-        for i in range(0, 11):
+        sequences = pipeline(
+            concept_prompt,
+            do_sample=True,
+            # top_p=,
+            # top_k=1,
+            num_return_sequences=1,
+            eos_token_id=tokenizer.eos_token_id,
+            max_length=4000,
+            max_new_tokens=2000,
+            return_full_text=False,
+            repetition_penalty=1.0,
+            length_penalty=1.0,
+        )
 
-            print(f"i : {i} : {concept_prompt}")
+        for seq in sequences:
+            response_list.append(f"{seq['generated_text']}\n\n")
+            print(f"{seq['generated_text']}")
 
-            sequences = pipeline(
-                concept_prompt,
-                do_sample=True,
-                top_k=5,
-                num_return_sequences=1,
-                eos_token_id=tokenizer.eos_token_id,
-                max_length=200,
-            )
+            out_file.write(f'{seq["generated_text"]}\n')
 
-            for seq in sequences:
-                response_list.append(f"{seq['generated_text']}\n\n")
-                print(f"{seq['generated_text'][len(concept_prompt):]}")
+            print("===================================")
 
-                out_file.write(f'{seq["generated_text"][len(concept_prompt):]}\n')
 
-                print("===================================")
+# parameters = {
+#     "max_length": 4000,
+#     "max_new_tokens": 1000,
+#     "top_k": 10,
+#     "return_full_text": False,
+#     "do_sample": True,
+#     "num_return_sequences": 1,
+#     "temperature": 0.8,
+#     "repetition_penalty": 1.0,
+#     "length_penalty": 1.0,
+# }
