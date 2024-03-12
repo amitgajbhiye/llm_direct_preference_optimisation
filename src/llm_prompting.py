@@ -76,9 +76,7 @@ tokenizer.pad_token = tokenizer.unk_token
 tokenizer.padding_side = "right"
 
 pipeline = transformers.pipeline(
-    "text-generation",
-    model=model,
-    device_map="auto",
+    "text-generation", model=model, device_map="auto", tokenizer=tokenizer
 )
 
 
