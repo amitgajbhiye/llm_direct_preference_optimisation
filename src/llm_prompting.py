@@ -52,9 +52,10 @@ pipeline = transformers.pipeline(
 with open(inp_file, "r") as inp_file:
     concepts = inp_file.readlines()
 
-concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts][0:10]
+concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 
-print(len(concepts), concepts)
+print(f"Number of concepts: {len(concepts)}")
+
 
 basic_prompt = f"What is the most salient property of <CONCEPT>? Generate only the property and do not explain the property."
 
@@ -79,13 +80,15 @@ Concept: <CONCEPT>
 [/INST]"""
 
 
+print(f"Prompt used is : {commonsense_prompt_2}")
+
 concept_prompts = [commonsense_prompt_2.replace("<CONCEPT>", con) for con in concepts]
 
-print(concept_prompts)
+# print(concept_prompts)
 
 file_name = "4bit_cs_prompt2_commonsense_prompt_llama2_7b_properties_ufet_concepts.txt"
 
-response_list = []
+# response_list = []
 
 with open(file_name, "w") as out_file:
 
@@ -106,8 +109,8 @@ with open(file_name, "w") as out_file:
         )
 
         for seq in sequences:
-            response_list.append(f"{seq['generated_text']}\n\n")
-            print(f"{seq['generated_text']}")
+            # response_list.append(f"{seq['generated_text']}\n\n")
+            print(f"{seq['generated_text']}\n")
 
             out_file.write(f'{seq["generated_text"]}\n')
 
@@ -121,5 +124,6 @@ del pipeline
 del concept_prompts
 
 
+gc.collect()
 gc.collect()
 gc.collect()
