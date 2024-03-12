@@ -70,12 +70,13 @@ Write the five most salient properties of the following concept. The propeties m
 
 
 commonsense_prompt_2 = """<s>[INST] <<SYS>>
-You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.  
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. All output must be in valid JSON. Don't add explanation beyond the JSON.
 Please ensure that your responses are socially unbiased and positive in nature.
 If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
 If you don't know the answer, please don't share false information.
 <</SYS>>
-Write the ten most salient properties of the following concept. Output must be in valid JSON like the following example {{"Concept": person, "Properties": [in_less_than_ten_words]}}. Output must include only JSON.
+Write the ten most salient properties of the following concept. Output must be in valid JSON like the following example {{"concept": concept, "properties": [in_less_than_ten_words]}}. Output must include only JSON.
+All output must be in valid JSON. Don't add any explanations before and after the JSON.
 Concept: <CONCEPT>
 [/INST]"""
 
@@ -97,8 +98,8 @@ with open(file_name, "w") as out_file:
         sequences = pipeline(
             concept_prompt,
             do_sample=True,
-            # top_p=1,
-            # top_k=1,
+            # top_p=,
+            # top_k=,
             num_return_sequences=1,
             eos_token_id=tokenizer.eos_token_id,
             max_length=4000,
@@ -112,7 +113,7 @@ with open(file_name, "w") as out_file:
             # response_list.append(f"{seq['generated_text']}\n\n")
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f'{seq["generated_text"]}\n')
+            out_file.write(f'{seq["generated_text"]}')
 
             print("===================================")
 
