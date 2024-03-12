@@ -74,7 +74,7 @@ Please ensure that your responses are socially unbiased and positive in nature.
 If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
 If you don't know the answer, please don't share false information.
 <</SYS>>
-Write the five most salient properties of the following concept. Output must be in valid JSON like the following example {{"Concept": person, "explanation": [in_less_than_ten_words]}}. Output must include only JSON.
+Write the ten most salient properties of the following concept. Output must be in valid JSON like the following example {{"Concept": person, "Properties": [in_less_than_ten_words]}}. Output must include only JSON.
 Concept: <CONCEPT>
 [/INST]"""
 
