@@ -68,11 +68,22 @@ Write the five most salient properties of the following concept. The propeties m
 [/INST]"""
 
 
-concept_prompts = [commonsense_prompt_1.replace("<CONCEPT>", con) for con in concepts]
+commonsense_prompt_2 = """<s>[INST] <<SYS>>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.  
+Please ensure that your responses are socially unbiased and positive in nature.
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write the five most salient properties of the following concept. Output must be in valid JSON like the following example {{"Concept": person, "explanation": [in_less_than_ten_words]}}. Output must include only JSON.
+Concept: <CONCEPT>
+[/INST]"""
+
+
+concept_prompts = [commonsense_prompt_2.replace("<CONCEPT>", con) for con in concepts]
 
 print(concept_prompts)
 
-file_name = "4bit_cs_prompt1_commonsense_prompt_llama2_7b_properties_ufet_concepts.txt"
+file_name = "4bit_cs_prompt2_commonsense_prompt_llama2_7b_properties_ufet_concepts.txt"
 
 response_list = []
 
@@ -83,7 +94,7 @@ with open(file_name, "w") as out_file:
         sequences = pipeline(
             concept_prompt,
             do_sample=True,
-            # top_p=,
+            # top_p=1,
             # top_k=1,
             num_return_sequences=1,
             eos_token_id=tokenizer.eos_token_id,
@@ -112,15 +123,3 @@ del concept_prompts
 
 gc.collect()
 gc.collect()
-
-# parameters = {
-#     "max_length": 4000,
-#     "max_new_tokens": 1000,
-#     "top_k": 10,
-#     "return_full_text": False,
-#     "do_sample": True,
-#     "num_return_sequences": 1,
-#     "temperature": 0.8,
-#     "repetition_penalty": 1.0,
-#     "length_penalty": 1.0,
-# }
