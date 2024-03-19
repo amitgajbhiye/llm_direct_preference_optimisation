@@ -157,16 +157,11 @@ def get_concept_property_preference_data(
 
     import pandas as pd
 
-    df = pd.DataFrame(data_file, columns=["concept", "preferred", "dispreferred"])
+    # df = pd.DataFrame(data_file, columns=["concept", "preferred", "dispreferred"])
+
+    df = pd.read_csv(data_file, names=["concept", "preferred", "dispreferred"])
 
     dataset = Dataset.from_pandas(df)
-
-    # dataset = load_dataset(
-    #     "lvwerra/stack-exchange-paired",
-    #     split="train",
-    #     cache_dir=cache_dir,
-    #     data_dir=data_dir,
-    # )
 
     original_columns = dataset.column_names
 
