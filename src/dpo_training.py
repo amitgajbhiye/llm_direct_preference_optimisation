@@ -12,6 +12,7 @@ from transformers import (
     AutoTokenizer,
     HfArgumentParser,
     TrainingArguments,
+    BitsAndBytesConfig,
     set_seed,
 )
 
@@ -203,12 +204,22 @@ if __name__ == "__main__":
     elif script_args.model_dtype == "bfloat16":
         torch_dtype = torch.bfloat16
 
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        llm_int8_threshold=6.0,
+        llm_int8_has_fp16_weight=False,
+        bnb_4bit_compute_dtype=torch.bfloat16,
+        bnb_4bit_use_double_quant=True,
+        bnb_4bit_quant_type="nf4",
+    )
+
     model = AutoModelForCausalLM.from_pretrained(
         script_args.model_name_or_path,
         low_cpu_mem_usage=True,
         torch_dtype=torch_dtype,
         load_in_4bit=script_args.load_in_4bit,
-        device_map={"": Accelerator().local_process_index},
+        device_map="auto",
+        quantization_config=bnb_config,
     )
     model.config.use_cache = False
 
