@@ -183,7 +183,7 @@ def get_concept_property_preference_data(
         return_prompt_and_responses,
         batched=True,
         num_proc=num_proc,
-        remove_columns=original_columns,
+        # remove_columns=original_columns,
     )
 
 
