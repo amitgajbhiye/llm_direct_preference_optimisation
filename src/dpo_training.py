@@ -117,7 +117,7 @@ class ScriptArguments:
         default=False, metadata={"help": "only train on 1000 samples"}
     )
     report_to: Optional[str] = field(
-        default="wandb",
+        default="none",
         metadata={
             "help": 'The list of integrations to report the results and logs to. Supported platforms are `"azure_ml"`,'
             '`"comet_ml"`, `"mlflow"`, `"neptune"`, `"tensorboard"`,`"clearml"` and `"wandb"`. '
