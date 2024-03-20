@@ -1,6 +1,7 @@
 # 0. imports
 import os
 import gc
+import pandas as pd
 from dataclasses import dataclass, field
 from typing import Dict, Optional
 
@@ -54,13 +55,13 @@ class ScriptArguments:
     )
 
     per_device_train_batch_size: Optional[int] = field(
-        default=4, metadata={"help": "train batch size per device"}
+        default=8, metadata={"help": "train batch size per device"}
     )
     per_device_eval_batch_size: Optional[int] = field(
-        default=1, metadata={"help": "eval batch size per device"}
+        default=8, metadata={"help": "eval batch size per device"}
     )
     gradient_accumulation_steps: Optional[int] = field(
-        default=4, metadata={"help": "the number of gradient accumulation steps"}
+        default=1, metadata={"help": "the number of gradient accumulation steps"}
     )
     gradient_checkpointing: Optional[bool] = field(
         default=True, metadata={"help": "whether to use gradient checkpointing"}
@@ -80,22 +81,22 @@ class ScriptArguments:
     lora_r: Optional[int] = field(default=8, metadata={"help": "the lora r parameter"})
 
     max_prompt_length: Optional[int] = field(
-        default=128, metadata={"help": "the maximum prompt length"}
+        default=256, metadata={"help": "the maximum prompt length"}
     )
     max_length: Optional[int] = field(
-        default=512, metadata={"help": "the maximum sequence length"}
+        default=1024, metadata={"help": "the maximum sequence length"}
     )
     max_steps: Optional[int] = field(
-        default=10, metadata={"help": "max number of training steps"}
+        default=1000, metadata={"help": "max number of training steps"}
     )
     logging_steps: Optional[int] = field(
-        default=1, metadata={"help": "the logging frequency"}
+        default=10, metadata={"help": "the logging frequency"}
     )
     save_steps: Optional[int] = field(
         default=100, metadata={"help": "the saving frequency"}
     )
     eval_steps: Optional[int] = field(
-        default=1, metadata={"help": "the evaluation frequency"}
+        default=100, metadata={"help": "the evaluation frequency"}
     )
 
     output_dir: Optional[str] = field(
@@ -156,10 +157,6 @@ def get_concept_property_preference_data(
     num_proc=24,
 ) -> Dataset:
 
-    import pandas as pd
-
-    # df = pd.DataFrame(data_file, columns=["concept", "preferred", "dispreferred"])
-
     df = pd.read_csv(data_file, names=["concept", "chosen", "rejected"], sep="\t")
     df.dropna(inplace=True)
 
@@ -180,8 +177,10 @@ def get_concept_property_preference_data(
             "rejected": samples["rejected"],
         }
 
+    print("#" * 50)
     print(f"dataset")
     print(dataset)
+    print("#" * 50)
 
     return dataset.map(
         return_prompt_and_responses,
@@ -226,7 +225,7 @@ if __name__ == "__main__":
         low_cpu_mem_usage=True,
         torch_dtype=torch_dtype,
         # load_in_4bit=script_args.load_in_4bit,
-        device_map={"": Accelerator().local_process_index},
+        device_map="auto",
         quantization_config=bnb_config,
     )
     model.config.use_cache = False
