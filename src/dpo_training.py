@@ -1,5 +1,6 @@
 # 0. imports
 import os
+import gc
 from dataclasses import dataclass, field
 from typing import Dict, Optional
 
@@ -107,7 +108,7 @@ class ScriptArguments:
         default=True, metadata={"help": "whether to load the model in 4bit"}
     )
     model_dtype: Optional[str] = field(
-        default="float16",
+        default="bfloat16",
         metadata={"help": "model_dtype[float16, bfloat16, float] for loading."},
     )
 
@@ -189,6 +190,7 @@ def get_concept_property_preference_data(
 
 
 if __name__ == "__main__":
+
     parser = HfArgumentParser(ScriptArguments)
     script_args = parser.parse_args_into_dataclasses()[0]
 
@@ -212,7 +214,7 @@ if __name__ == "__main__":
 
     model = AutoModelForCausalLM.from_pretrained(
         script_args.model_name_or_path,
-        low_cpu_mem_usage=True,
+        # low_cpu_mem_usage=True,
         torch_dtype=torch_dtype,
         # load_in_4bit=script_args.load_in_4bit,
         device_map="auto",
@@ -314,3 +316,12 @@ if __name__ == "__main__":
     # 7. save
     output_dir = os.path.join(script_args.output_dir, "final_checkpoint")
     dpo_trainer.model.save_pretrained(output_dir)
+
+    del model
+    del dpo_trainer
+    del train_dataset
+    del eval_dataset
+
+    gc.collect()
+    gc.collect()
+    gc.collect()
