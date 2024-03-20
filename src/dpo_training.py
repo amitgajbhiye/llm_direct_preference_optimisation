@@ -160,9 +160,7 @@ def get_concept_property_preference_data(
 
     # df = pd.DataFrame(data_file, columns=["concept", "preferred", "dispreferred"])
 
-    df = pd.read_csv(
-        data_file, names=["concept", "preferred", "dispreferred"], sep="\t"
-    )
+    df = pd.read_csv(data_file, names=["concept", "chosen", "rejected"], sep="\t")
 
     dataset = Dataset.from_pandas(df)
 
@@ -177,8 +175,8 @@ def get_concept_property_preference_data(
                 commonsense_prompt_2.replace("<CONCEPT>", con)
                 for con in samples["concept"]
             ],
-            "chosen": samples["preferred"],
-            "rejected": samples["dispreferred"],
+            "chosen": samples["chosen"],
+            "rejected": samples["rejected"],
         }
 
     return dataset.map(
@@ -190,6 +188,13 @@ def get_concept_property_preference_data(
 
 
 if __name__ == "__main__":
+
+    torch.cuda.empty_cache()
+    torch.cuda.empty_cache()
+
+    gc.collect()
+    gc.collect()
+    gc.collect()
 
     parser = HfArgumentParser(ScriptArguments)
     script_args = parser.parse_args_into_dataclasses()[0]
@@ -321,6 +326,9 @@ if __name__ == "__main__":
     del dpo_trainer
     del train_dataset
     del eval_dataset
+
+    torch.cuda.empty_cache()
+    torch.cuda.empty_cache()
 
     gc.collect()
     gc.collect()
