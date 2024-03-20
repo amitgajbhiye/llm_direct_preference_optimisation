@@ -249,11 +249,8 @@ if __name__ == "__main__":
     print("train_dataset")
     print(train_dataset)
 
-    print(train_dataset.prompt[0:10])
-
-    print(train_dataset.chosen[0:10])
-
-    print(train_dataset.rejected[0:10])
+    print(train_dataset.features)
+    print(train_dataset[0:3])
 
     # train_dataset = train_dataset.filter(
     #     lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
@@ -266,7 +263,8 @@ if __name__ == "__main__":
         data_file=val_file, data_dir=None, sanity_check=False
     )
     print("eval_dataset")
-    print(eval_dataset)
+    print(eval_dataset.features)
+    print(eval_dataset[0:3])
 
     # eval_dataset = eval_dataset.filter(
     #     lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
