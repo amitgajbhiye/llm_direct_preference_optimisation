@@ -226,7 +226,7 @@ if __name__ == "__main__":
         low_cpu_mem_usage=True,
         torch_dtype=torch_dtype,
         # load_in_4bit=script_args.load_in_4bit,
-        device_map="auto",
+        device_map={"": Accelerator().local_process_index},
         quantization_config=bnb_config,
     )
     model.config.use_cache = False
