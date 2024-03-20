@@ -242,6 +242,10 @@ if __name__ == "__main__":
     train_dataset = get_concept_property_preference_data(
         data_file=train_file, data_dir=None, sanity_check=script_args.sanity_check
     )
+
+    print("train_dataset")
+    print(train_dataset)
+
     # train_dataset = train_dataset.filter(
     #     lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
     #     and len(x["prompt"]) + len(x["rejected"]) <= script_args.max_length
@@ -252,6 +256,9 @@ if __name__ == "__main__":
     eval_dataset = get_concept_property_preference_data(
         data_file=val_file, data_dir=None, sanity_check=False
     )
+    print("eval_dataset")
+    print(eval_dataset)
+
     # eval_dataset = eval_dataset.filter(
     #     lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
     #     and len(x["prompt"]) + len(x["rejected"]) <= script_args.max_length
