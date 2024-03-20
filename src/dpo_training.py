@@ -242,7 +242,7 @@ if __name__ == "__main__":
 
     # 2. Load the Stack-exchange paired dataset
 
-    train_file = "data/ufet/train_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.txt"
+    train_file = "data/ufet/train_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.tsv"
     train_dataset = get_concept_property_preference_data(
         data_file=train_file, data_dir=None, sanity_check=script_args.sanity_check
     )
@@ -259,7 +259,7 @@ if __name__ == "__main__":
     # )
 
     # 3. Load evaluation dataset
-    val_file = "data/ufet/val_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.txt"
+    val_file = "data/ufet/val_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.tsv"
     eval_dataset = get_concept_property_preference_data(
         data_file=val_file, data_dir=None, sanity_check=False
     )
