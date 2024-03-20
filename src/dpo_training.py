@@ -55,10 +55,10 @@ class ScriptArguments:
     )
 
     per_device_train_batch_size: Optional[int] = field(
-        default=8, metadata={"help": "train batch size per device"}
+        default=4, metadata={"help": "train batch size per device"}
     )
     per_device_eval_batch_size: Optional[int] = field(
-        default=8, metadata={"help": "eval batch size per device"}
+        default=4, metadata={"help": "eval batch size per device"}
     )
     gradient_accumulation_steps: Optional[int] = field(
         default=1, metadata={"help": "the number of gradient accumulation steps"}
