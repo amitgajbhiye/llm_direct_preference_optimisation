@@ -179,11 +179,14 @@ def get_concept_property_preference_data(
             "rejected": samples["rejected"],
         }
 
+    print(f"dataset")
+    print(dataset)
+
     return dataset.map(
         return_prompt_and_responses,
         batched=True,
         num_proc=num_proc,
-        # remove_columns=original_columns,
+        remove_columns=original_columns,
     )
 
 
@@ -245,6 +248,12 @@ if __name__ == "__main__":
 
     print("train_dataset")
     print(train_dataset)
+
+    print(train_dataset.prompt[0:10])
+
+    print(train_dataset.chosen[0:10])
+
+    print(train_dataset.rejected[0:10])
 
     # train_dataset = train_dataset.filter(
     #     lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
