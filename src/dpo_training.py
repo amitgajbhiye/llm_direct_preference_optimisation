@@ -237,20 +237,20 @@ if __name__ == "__main__":
     train_dataset = get_concept_property_preference_data(
         data_file=train_file, data_dir=None, sanity_check=script_args.sanity_check
     )
-    train_dataset = train_dataset.filter(
-        lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
-        and len(x["prompt"]) + len(x["rejected"]) <= script_args.max_length
-    )
+    # train_dataset = train_dataset.filter(
+    #     lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
+    #     and len(x["prompt"]) + len(x["rejected"]) <= script_args.max_length
+    # )
 
     # 3. Load evaluation dataset
     val_file = "data/ufet/val_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.txt"
     eval_dataset = get_concept_property_preference_data(
         data_file=val_file, data_dir=None, sanity_check=False
     )
-    eval_dataset = eval_dataset.filter(
-        lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
-        and len(x["prompt"]) + len(x["rejected"]) <= script_args.max_length
-    )
+    # eval_dataset = eval_dataset.filter(
+    #     lambda x: len(x["prompt"]) + len(x["chosen"]) <= script_args.max_length
+    #     and len(x["prompt"]) + len(x["rejected"]) <= script_args.max_length
+    # )
 
     # 4. initialize training arguments:
     training_args = TrainingArguments(
