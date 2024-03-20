@@ -80,10 +80,10 @@ class ScriptArguments:
     lora_r: Optional[int] = field(default=8, metadata={"help": "the lora r parameter"})
 
     max_prompt_length: Optional[int] = field(
-        default=512, metadata={"help": "the maximum prompt length"}
+        default=128, metadata={"help": "the maximum prompt length"}
     )
     max_length: Optional[int] = field(
-        default=1024, metadata={"help": "the maximum sequence length"}
+        default=512, metadata={"help": "the maximum sequence length"}
     )
     max_steps: Optional[int] = field(
         default=10, metadata={"help": "max number of training steps"}
