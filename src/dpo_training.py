@@ -161,6 +161,7 @@ def get_concept_property_preference_data(
     # df = pd.DataFrame(data_file, columns=["concept", "preferred", "dispreferred"])
 
     df = pd.read_csv(data_file, names=["concept", "chosen", "rejected"], sep="\t")
+    df.dropna(inplace=True)
 
     dataset = Dataset.from_pandas(df)
 
