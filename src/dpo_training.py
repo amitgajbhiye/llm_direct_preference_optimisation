@@ -81,13 +81,13 @@ class ScriptArguments:
     lora_r: Optional[int] = field(default=8, metadata={"help": "the lora r parameter"})
 
     max_prompt_length: Optional[int] = field(
-        default=256, metadata={"help": "the maximum prompt length"}
+        default=512, metadata={"help": "the maximum prompt length"}
     )
     max_length: Optional[int] = field(
         default=1024, metadata={"help": "the maximum sequence length"}
     )
     max_steps: Optional[int] = field(
-        default=1000, metadata={"help": "max number of training steps"}
+        default=1500, metadata={"help": "max number of training steps"}
     )
     logging_steps: Optional[int] = field(
         default=10, metadata={"help": "the logging frequency"}
@@ -225,10 +225,16 @@ if __name__ == "__main__":
         low_cpu_mem_usage=True,
         torch_dtype=torch_dtype,
         # load_in_4bit=script_args.load_in_4bit,
-        device_map="auto",
+        device_map={"": 0},
         quantization_config=bnb_config,
     )
     model.config.use_cache = False
+
+    print(f"model")
+    print(model)
+    print()
+    print("hf_device_map")
+    print(model.hf_device_map)
 
     if script_args.ignore_bias_buffers:
         # torch distributed hack
