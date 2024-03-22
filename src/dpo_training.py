@@ -213,17 +213,17 @@ if __name__ == "__main__":
 
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
-        llm_int8_threshold=6.0,
-        llm_int8_has_fp16_weight=False,
         bnb_4bit_compute_dtype=torch.bfloat16,
         bnb_4bit_use_double_quant=True,
         bnb_4bit_quant_type="nf4",
+        llm_int8_threshold=6.0,
+        llm_int8_has_fp16_weight=False,
     )
 
     model = AutoModelForCausalLM.from_pretrained(
         script_args.model_name_or_path,
         low_cpu_mem_usage=True,
-        torch_dtype=torch_dtype,
+        # torch_dtype=torch_dtype,
         # load_in_4bit=script_args.load_in_4bit,
         device_map={"": 0},
         quantization_config=bnb_config,
@@ -279,24 +279,26 @@ if __name__ == "__main__":
 
     # 4. initialize training arguments:
     training_args = TrainingArguments(
+        output_dir=script_args.output_dir,
+        overwrite_output_dir=True,
         per_device_train_batch_size=script_args.per_device_train_batch_size,
         per_device_eval_batch_size=script_args.per_device_eval_batch_size,
-        max_steps=script_args.max_steps,
-        logging_steps=script_args.logging_steps,
-        save_steps=script_args.save_steps,
+        max_steps=1,  # script_args.max_steps,
+        logging_steps=1,  # script_args.logging_steps,
+        save_steps=1,  # script_args.save_steps,
         save_strategy="steps",
         save_total_limit=3,
         gradient_accumulation_steps=script_args.gradient_accumulation_steps,
         gradient_checkpointing=script_args.gradient_checkpointing,
         learning_rate=script_args.learning_rate,
-        evaluation_strategy="steps",
-        eval_steps=script_args.eval_steps,
-        output_dir=script_args.output_dir,
+        do_eval=False,
+        evaluation_strategy="no",  # "steps",
+        eval_steps=1,  # script_args.eval_steps,
         report_to=script_args.report_to,
         lr_scheduler_type=script_args.lr_scheduler_type,
         warmup_steps=script_args.warmup_steps,
         optim=script_args.optimizer_type,
-        bf16=True,
+        bf16=False,  # True,
         remove_unused_columns=False,
         run_name="dpo_llama2",
         gradient_checkpointing_kwargs=dict(
