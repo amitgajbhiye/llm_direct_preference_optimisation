@@ -279,7 +279,7 @@ if __name__ == "__main__":
 
     # 4. initialize training arguments:
     training_args = TrainingArguments(
-        output_dir=script_args.output_dir,
+        output_dir="./results",  # script_args.output_dir,
         overwrite_output_dir=True,
         per_device_train_batch_size=script_args.per_device_train_batch_size,
         per_device_eval_batch_size=script_args.per_device_eval_batch_size,
@@ -346,10 +346,10 @@ if __name__ == "__main__":
     output_dir = os.path.join(script_args.output_dir, "final_checkpoint")
     dpo_trainer.model.save_pretrained(output_dir)
 
-    del model
-    del dpo_trainer
-    del train_dataset
-    del eval_dataset
+    # # del model
+    # del dpo_trainer
+    # del train_dataset
+    # del eval_dataset
 
     torch.cuda.empty_cache()
     torch.cuda.empty_cache()
