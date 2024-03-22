@@ -100,7 +100,7 @@ class ScriptArguments:
     )
 
     output_dir: Optional[str] = field(
-        default="./../results", metadata={"help": "the output directory"}
+        default="./results", metadata={"help": "the output directory"}
     )
     log_freq: Optional[int] = field(
         default=1, metadata={"help": "the logging frequency"}
@@ -279,7 +279,7 @@ if __name__ == "__main__":
 
     # 4. initialize training arguments:
     training_args = TrainingArguments(
-        output_dir="./results",  # script_args.output_dir,
+        output_dir=script_args.output_dir,
         overwrite_output_dir=False,
         per_device_train_batch_size=script_args.per_device_train_batch_size,
         per_device_eval_batch_size=script_args.per_device_eval_batch_size,
