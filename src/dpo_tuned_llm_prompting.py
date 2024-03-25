@@ -127,11 +127,11 @@ with open(file_name, "w") as out_file:
 
             concept = concept_prompt[concept_prompt.find("Concept:"):].replace("\n[/INST]", "").replace("Concept:", "").strip()
             gen_props = seq['generated_text']
-            # eval_props = eval(gen_props)
+            split_prop = gen_props.lstrip(', ').split(", ")
 
             print(concept)
             print(gen_props)
-            print (type(gen_props))
+            print (type(split_prop))
 
             out_file.write(f'{concept}\t{gen_props}\n')
 
