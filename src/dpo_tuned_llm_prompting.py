@@ -124,7 +124,7 @@ with open(file_name, "w") as out_file:
             # response_list.append(f"{seq['generated_text']}\n\n")
 
             start_index = commonsense_prompt_2.find("Concept:") + len("Concept:")
-            end_index = commonsense_prompt_2.find(" [/INST]", start_index)
+            end_index = commonsense_prompt_2.find("\n[/INST]", start_index)
             concept = commonsense_prompt_2[start_index:end_index].strip()
 
             print(concept)
