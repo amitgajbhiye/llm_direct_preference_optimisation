@@ -122,11 +122,15 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
-            print (f"concept_prompt")
-            print (concept_prompt)
+
+            start_index = commonsense_prompt_2.find("Concept:") + len("Concept:")
+            end_index = commonsense_prompt_2.find(" [/INST]", start_index)
+            concept = commonsense_prompt_2[start_index:end_index].strip()
+
+            print(concept)
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f'{seq["generated_text"]}')
+            out_file.write(f'{concept}\t{seq["generated_text"]}')
 
             print("===================================")
 
