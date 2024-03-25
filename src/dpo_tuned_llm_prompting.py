@@ -126,12 +126,12 @@ with open(file_name, "w") as out_file:
             # response_list.append(f"{seq['generated_text']}\n\n")
 
             concept = concept_prompt[concept_prompt.find("Concept:"):].replace("\n[/INST]", "").replace("Concept:", "").strip()
-            gen_props = seq['generated_text']
-            split_prop = gen_props.lstrip(', ').split(", ")
+            gen_props = seq['generated_text'].lstrip(', ')
+            # split_prop = gen_props.lstrip(', ').split(", ")
 
             print(concept)
             print(gen_props)
-            print (type(split_prop))
+            # print (type(split_prop))
 
             out_file.write(f'{concept}\t{gen_props}\n')
 
