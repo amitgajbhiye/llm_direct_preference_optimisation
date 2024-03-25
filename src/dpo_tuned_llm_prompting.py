@@ -130,7 +130,7 @@ with open(file_name, "w") as out_file:
             print(concept)
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f'{concept}\t{seq["generated_text"]}')
+            out_file.write(f'{concept}\t{seq["generated_text"]}\n')
 
             print("===================================")
 
