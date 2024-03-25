@@ -11,6 +11,8 @@ from transformers import (
 )
 
 from peft import PeftModel
+from transformers.utils import logging
+logging.set_verbosity_error() 
 
 
 # model = "meta-llama/Llama-2-13b-chat-hf"
