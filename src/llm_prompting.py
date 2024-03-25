@@ -3,13 +3,14 @@ import gc
 import torch
 import transformers
 
-
 from transformers import (
     AutoModelForCausalLM,
     BitsAndBytesConfig,
     AutoTokenizer,
     pipeline,
 )
+
+from peft import PeftModel
 
 
 # model = "meta-llama/Llama-2-13b-chat-hf"
@@ -21,22 +22,45 @@ inp_file = "data/ufet/clean_types.txt"
 
 # Model Prepration
 
+dpo_trained_model = True
+
+
+if not dpo_trained_model:
 # Quantization configuration
-bnb_config = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.float16,
-    bnb_4bit_use_double_quant=True,
-)
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=torch.float16,
+        bnb_4bit_use_double_quant=True,
+    )
 
 
-# Load base moodel in quantised form
-model = AutoModelForCausalLM.from_pretrained(
-    base_model, quantization_config=bnb_config, device_map={"": 0}
-)
+    # Load base moodel in quantised form
+    model = AutoModelForCausalLM.from_pretrained(
+        base_model, quantization_config=bnb_config, device_map={"": 0}
+    )
 
-print(f"############ Model ############", end="\n\n")
-print(model, end="\n\n")
+    print(f"############ Model ############", end="\n\n")
+    print(model, end="\n\n")
+
+else:
+    
+    adapter = "/home/amit/cardiff_work/llm_direct_preference_optimisation/results/final_checkpoint/"
+
+    compute_dtype = getattr(torch, "float16")
+    bnb_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_compute_dtype=compute_dtype,
+            bnb_4bit_use_double_quant=True,
+    )
+    model = AutoModelForCausalLM.from_pretrained(
+            base_model, quantization_config=bnb_config, device_map={"": 0}
+    )
+    model = PeftModel.from_pretrained(model, adapter)
+
+    print (f"Prompting DPO finetuned model")
+
 
 
 # Tokenizer
@@ -87,7 +111,7 @@ concept_prompts = [commonsense_prompt_2.replace("<CONCEPT>", con) for con in con
 
 # print(concept_prompts)
 
-file_name = "4bit_cs_prompt2_commonsense_prompt_llama2_7b_properties_ufet_concepts.txt"
+file_name = "dpo_finetunned_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
 
 # response_list = []
 
