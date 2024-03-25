@@ -125,7 +125,7 @@ with open(file_name, "w") as out_file:
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
 
-            concept = commonsense_prompt_2[commonsense_prompt_2.find("Concept:"):].replace("\n[/INST]", "").replace("Concept:", "").strip()
+            concept = concept_prompt[concept_prompt.find("Concept:"):].replace("\n[/INST]", "").replace("Concept:", "").strip()
 
             print(concept)
             print(f"{seq['generated_text']}\n")
