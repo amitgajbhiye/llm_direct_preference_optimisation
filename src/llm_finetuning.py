@@ -99,20 +99,22 @@ model = prepare_model_for_kbit_training(model)
 training_arguments = TrainingArguments(
     output_dir="./llama_finetuning_results",
     num_train_epochs=1,
-    per_device_train_batch_size=4,
+    per_device_train_batch_size=8,
     gradient_accumulation_steps=1,
+    evaluation_strategy="steps",
+    eval_steps=100,
+    save_steps=100,
+    logging_steps=1,
     optim="paged_adamw_32bit",
-    save_steps=25,
-    logging_steps=25,
     learning_rate=2e-4,
     weight_decay=0.001,
     fp16=False,
     bf16=False,
-    max_grad_norm=0.3,
+    # max_grad_norm=0.3,
     max_steps=-1,
-    warmup_ratio=0.03,
+    warmup_ratio=0.05,
     group_by_length=True,
-    lr_scheduler_type="constant",
+    lr_scheduler_type="linear",
     report_to=None,
 )
 
@@ -132,4 +134,5 @@ trainer = SFTTrainer(
 trainer.train()
 
 # Save trained model
-# trainer.model.save_pretrained(new_model)
+new_model = f"fine_tuned_{base_model}"
+trainer.model.save_pretrained(new_model)
