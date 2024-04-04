@@ -1,4 +1,5 @@
 import os
+import re
 import gc
 import torch
 import transformers
@@ -95,16 +96,16 @@ Write the five most salient properties of the following concept. The propeties m
 [/INST]"""
 
 
-commonsense_prompt_2 = """<s>[INST] <<SYS>>
-You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. All output must be in valid JSON. Don't add explanation beyond the JSON.
-Please ensure that your responses are socially unbiased and positive in nature.
-If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
-If you don't know the answer, please don't share false information.
-<</SYS>>
-Write the ten most salient properties of the following concept. Output must be in valid JSON like the following example {{"concept": concept, "properties": [in_less_than_ten_words]}}. Output must include only JSON.
-All output must be in valid JSON. Don't add any explanations before and after the JSON.
-Concept: <CONCEPT>
-[/INST]"""
+# commonsense_prompt_2 = """<s>[INST] <<SYS>>
+# You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. All output must be in valid JSON. Don't add explanation beyond the JSON.
+# Please ensure that your responses are socially unbiased and positive in nature.
+# If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+# If you don't know the answer, please don't share false information.
+# <</SYS>>
+# Write the ten most salient properties of the following concept. Output must be in valid JSON like the following example {{"concept": concept, "properties": [in_less_than_ten_words]}}. Output must include only JSON.
+# All output must be in valid JSON. Don't add any explanations before and after the JSON.
+# Concept: <CONCEPT>
+# [/INST]"""
 
 
 commonsense_prompt_for_sft = """<s>[INST] <<SYS>>
@@ -133,6 +134,9 @@ with open(file_name, "w") as out_file:
 
     for concept_prompt in concept_prompts:
 
+        match = re.search(r"Concept: <(.*?)>", commonsense_prompt_for_sft)
+        concept = match.group(1)
+
         sequences = pipeline(
             concept_prompt,
             do_sample=True,
@@ -149,9 +153,11 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
+            print (concept)
             print(f"{seq['generated_text']}\n")
-
-            out_file.write(f'{seq["generated_text"]}')
+            
+            out_file.write(f'{concept}\n')
+            out_file.write(f'{seq["generated_text"]}\n')
 
             print("===================================")
 
