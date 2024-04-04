@@ -134,11 +134,6 @@ with open(file_name, "w") as out_file:
 
     for concept_prompt in concept_prompts:
 
-        # match = re.search(r"Concept: <(.*?)>", concept_prompt)
-        # con = [match.group(1)]
-
-        # print (concept_prompt)
-
         start_index = concept_prompt.find("Concept: ") + len("Concept: ")
         end_index = concept_prompt.find("\n", start_index)
         concept = concept_prompt[start_index:end_index].strip()
@@ -158,13 +153,11 @@ with open(file_name, "w") as out_file:
         )
 
         for seq in sequences:
-            # response_list.append(f"{seq['generated_text']}\n\n")
-            # print (concept)
-            # print(f"{seq['generated_text']}\n")
+
             
             prop = str(seq["generated_text"]).lstrip("[").rstrip("]")
             
-            print(f'{concept}:\t{prop}\n')
+            print(f'{concept}:\t{prop.replace("[", "").replace("]", "")}\n')
             out_file.write(f'{concept}\t{prop}\n')
 
             print("===================================")
