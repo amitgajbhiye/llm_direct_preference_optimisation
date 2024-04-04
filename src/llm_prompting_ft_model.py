@@ -47,7 +47,7 @@ else:
     
     # dpo_adapter = "/home/amit/cardiff_work/llm_direct_preference_optimisation/results/final_checkpoint/"
 
-    sft_adapter = "llm_direct_preference_optimisation/llama_finetuning_results/checkpoint-2900/"
+    sft_adapter = "llama_finetuning_results/checkpoint-2900/"
 
     compute_dtype = getattr(torch, "float16")
     bnb_config = BitsAndBytesConfig(
