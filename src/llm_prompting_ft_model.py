@@ -113,7 +113,7 @@ You are a contestant in the general knowledge quiz contest and always answer all
 All output must be in valid Python List. Don't add explanation beyond the Python List. 
 If you don't know the answer, please don't share false information.
 <</SYS>>
-Write the ten most salient properties of the following concept. 
+Write a property of the following concept. 
 Output must be in valid a Python List like the following example [first property of the given concept in less than ten words, second property of the given concept in less than ten words,..., tenth property of the given concept in less than ten words].
 All output must be in a valid Python List. Don't add any explanations before and after the Python List.
 Concept: <CONCEPT>
@@ -134,8 +134,14 @@ with open(file_name, "w") as out_file:
 
     for concept_prompt in concept_prompts:
 
-        match = re.search(r"Concept: <(.*?)>", commonsense_prompt_for_sft)
-        concept = match.group(1)
+        # match = re.search(r"Concept: <(.*?)>", concept_prompt)
+        # con = [match.group(1)]
+
+        # print (concept_prompt)
+
+        start_index = concept_prompt.find("Concept: ") + len("Concept: ")
+        end_index = concept_prompt.find("\n", start_index)
+        concept = concept_prompt[start_index:end_index].strip()
 
         sequences = pipeline(
             concept_prompt,
@@ -153,11 +159,13 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
-            print (concept)
-            print(f"{seq['generated_text']}\n")
+            # print (concept)
+            # print(f"{seq['generated_text']}\n")
             
-            out_file.write(f'{concept}\n')
-            out_file.write(f'{seq["generated_text"]}\n')
+            prop = str(seq["generated_text"]).lstrip("[").rstrip("]")
+            
+            print(f'{concept}:\t{prop}\n')
+            out_file.write(f'{concept}\t{prop}\n')
 
             print("===================================")
 
