@@ -154,11 +154,10 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
 
-            
             prop = str(seq["generated_text"]).lstrip("[").rstrip("]")
             
             print(f'{concept}:\t{prop.replace("[", "").replace("]", "")}\n')
-            out_file.write(f'{concept}\t{prop}\n')
+            out_file.write(f'{concept}\t{prop.replace("[", "").replace("]", "")}\n')
 
             print("===================================")
 
