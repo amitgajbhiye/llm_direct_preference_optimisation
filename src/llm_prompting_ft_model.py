@@ -126,43 +126,43 @@ concept_prompts = [commonsense_prompt_for_sft.replace("<CONCEPT>", con) for con 
 
 # print(concept_prompts)
 
-file_name = "sft_output_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
+file_name = "sft_n_props_output_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
 
 # response_list = []
 
 with open(file_name, "w") as out_file:
 
     for concept_prompt in concept_prompts:
+        for i in range(10):
+            start_index = concept_prompt.find("Concept: ") + len("Concept: ")
+            end_index = concept_prompt.find("\n", start_index)
+            concept = concept_prompt[start_index:end_index].strip()
 
-        start_index = concept_prompt.find("Concept: ") + len("Concept: ")
-        end_index = concept_prompt.find("\n", start_index)
-        concept = concept_prompt[start_index:end_index].strip()
+            sequences = pipeline(
+                concept_prompt,
+                do_sample=True,
+                # top_p=,
+                # top_k=,
+                num_return_sequences=1,
+                eos_token_id=tokenizer.eos_token_id,
+                max_length=4000,
+                max_new_tokens=1000,
+                return_full_text=False,
+                repetition_penalty=1.0,
+                length_penalty=1.0,
+            )
 
-        sequences = pipeline(
-            concept_prompt,
-            do_sample=True,
-            # top_p=,
-            # top_k=,
-            num_return_sequences=1,
-            eos_token_id=tokenizer.eos_token_id,
-            max_length=4000,
-            max_new_tokens=1000,
-            return_full_text=False,
-            repetition_penalty=1.0,
-            length_penalty=1.0,
-        )
+            for seq in sequences:
 
-        for seq in sequences:
+                prop = str(seq["generated_text"]).lstrip("[").rstrip("]")
+                
+                print(f'{i}: {concept}:\t{prop.replace("[", "").replace("]", "")}\n')
+                out_file.write(f'{concept}\t{prop.replace("[", "").replace("]", "")}\n')
 
-            prop = str(seq["generated_text"]).lstrip("[").rstrip("]")
-            
-            print(f'{concept}:\t{prop.replace("[", "").replace("]", "")}\n')
-            out_file.write(f'{concept}\t{prop.replace("[", "").replace("]", "")}\n')
+                print("===================================")
 
-            print("===================================")
-
-        del seq
-        del sequences
+            del seq
+            del sequences
 
 del model
 del pipeline
