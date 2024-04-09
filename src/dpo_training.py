@@ -19,6 +19,7 @@ from transformers import (
 )
 
 from trl import DPOTrainer
+from peft import PeftModel
 
 
 # Define and parse arguments.
@@ -139,13 +140,24 @@ class ScriptArguments:
     )
 
 
+# commonsense_prompt_2 = """<s>[INST] <<SYS>>
+# You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. All output must be in valid JSON. Don't add explanation beyond the JSON.
+# Please ensure that your responses are socially unbiased and positive in nature.
+# If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct.
+# If you don't know the answer, please don't share false information.
+# <</SYS>>
+# Write the most salient properties of the following concept. Concept: <CONCEPT>
+# [/INST]"""
+
+
 commonsense_prompt_2 = """<s>[INST] <<SYS>>
-You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. All output must be in valid JSON. Don't add explanation beyond the JSON.
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+The output must be a valid property of the concept. Don't add explanation beyond the property.
 Please ensure that your responses are socially unbiased and positive in nature.
-If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
 If you don't know the answer, please don't share false information.
 <</SYS>>
-Write the most salient properties of the following concept. Concept: <CONCEPT>
+Write the most salient property of the following concept. The output must be a valid property of the concept. Don't add explanation beyond the property. 
+Concept: <CONCEPT>
 [/INST]"""
 
 
@@ -192,6 +204,8 @@ def get_concept_property_preference_data(
 
 if __name__ == "__main__":
 
+    sft_adapter = "llama_finetuning_results/checkpoint-2900/"
+
     torch.cuda.empty_cache()
     torch.cuda.empty_cache()
 
@@ -228,6 +242,10 @@ if __name__ == "__main__":
         device_map={"": 0},
         quantization_config=bnb_config,
     )
+
+    # Added for loading adapters for supervised finetune model
+    model = PeftModel.from_pretrained(model, sft_adapter)
+
     model.config.use_cache = False
 
     print(f"model")
@@ -247,7 +265,9 @@ if __name__ == "__main__":
 
     # 2. Load the Stack-exchange paired dataset
 
-    train_file = "data/ufet/train_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.tsv"
+    # train_file = "data/ufet/train_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.tsv"
+
+    train_file = "data/ufet/train_dpo_debertaV3large_logits_and_prop_count_filtered_sft_n_uniq_props_output_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
     train_dataset = get_concept_property_preference_data(
         data_file=train_file, data_dir=None, sanity_check=script_args.sanity_check
     )
@@ -264,7 +284,9 @@ if __name__ == "__main__":
     # )
 
     # 3. Load evaluation dataset
-    val_file = "data/ufet/val_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.tsv"
+    # val_file = "data/ufet/val_dpo_inp_con_sorted_con_prop_formatted_4bit_commonsense_prompt2_llama2_7b_properties_ufet_concepts.tsv"
+
+    val_file = "data/ufet/val_dpo_debertaV3large_logits_and_prop_count_filtered_sft_n_uniq_props_output_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
     eval_dataset = get_concept_property_preference_data(
         data_file=val_file, data_dir=None, sanity_check=False
     )
