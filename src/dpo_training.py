@@ -101,7 +101,7 @@ class ScriptArguments:
     )
 
     output_dir: Optional[str] = field(
-        default="./results", metadata={"help": "the output directory"}
+        default="./dpo_fintuned_sft_llama", metadata={"help": "the output directory"}
     )
     log_freq: Optional[int] = field(
         default=1, metadata={"help": "the logging frequency"}
@@ -305,7 +305,8 @@ if __name__ == "__main__":
         overwrite_output_dir=False,
         per_device_train_batch_size=script_args.per_device_train_batch_size,
         per_device_eval_batch_size=script_args.per_device_eval_batch_size,
-        max_steps=1000,  # script_args.max_steps,
+        num_train_epochs=1,
+        max_steps=-1,  # script_args.max_steps,
         logging_steps=1,  # script_args.logging_steps,
         save_steps=100,  # script_args.save_steps,
         save_strategy="steps",
