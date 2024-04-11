@@ -239,7 +239,7 @@ if __name__ == "__main__":
         script_args.model_name_or_path,
         low_cpu_mem_usage=True,
         torch_dtype=torch_dtype,
-        load_in_4bit=True,
+        # load_in_4bit=True,
         device_map={"": 0},
         quantization_config=bnb_config,
     )
