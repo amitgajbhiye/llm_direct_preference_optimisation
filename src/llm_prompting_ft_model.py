@@ -27,14 +27,13 @@ dpo_trained_model = True
 
 
 if not dpo_trained_model:
-# Quantization configuration
+    # Quantization configuration
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
         bnb_4bit_compute_dtype=torch.float16,
         bnb_4bit_use_double_quant=True,
     )
-
 
     # Load base moodel in quantised form
     model = AutoModelForCausalLM.from_pretrained(
@@ -45,25 +44,24 @@ if not dpo_trained_model:
     print(model, end="\n\n")
 
 else:
-    
+
     # dpo_adapter = "/home/amit/cardiff_work/llm_direct_preference_optimisation/results/final_checkpoint/"
 
     sft_adapter = "llama_finetuning_results/checkpoint-2900/"
 
     compute_dtype = getattr(torch, "float16")
     bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=compute_dtype,
-            bnb_4bit_use_double_quant=True,
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=compute_dtype,
+        bnb_4bit_use_double_quant=True,
     )
     model = AutoModelForCausalLM.from_pretrained(
-            base_model, quantization_config=bnb_config, device_map={"": 0}
+        base_model, quantization_config=bnb_config, device_map={"": 0}
     )
     model = PeftModel.from_pretrained(model, sft_adapter)
 
-    print (f"Prompting DPO finetuned model")
-
+    print(f"Prompting DPO finetuned model")
 
 
 # Tokenizer
@@ -99,7 +97,7 @@ Write the five most salient properties of the following concept. The propeties m
 # commonsense_prompt_2 = """<s>[INST] <<SYS>>
 # You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. All output must be in valid JSON. Don't add explanation beyond the JSON.
 # Please ensure that your responses are socially unbiased and positive in nature.
-# If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+# If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct.
 # If you don't know the answer, please don't share false information.
 # <</SYS>>
 # Write the ten most salient properties of the following concept. Output must be in valid JSON like the following example {{"concept": concept, "properties": [in_less_than_ten_words]}}. Output must include only JSON.
@@ -122,7 +120,9 @@ Concept: <CONCEPT>
 
 print(f"Prompt used is : {commonsense_prompt_for_sft}")
 
-concept_prompts = [commonsense_prompt_for_sft.replace("<CONCEPT>", con) for con in concepts]
+concept_prompts = [
+    commonsense_prompt_for_sft.replace("<CONCEPT>", con) for con in concepts
+]
 
 # print(concept_prompts)
 
@@ -155,7 +155,7 @@ with open(file_name, "w") as out_file:
             for seq in sequences:
 
                 prop = str(seq["generated_text"]).lstrip("[").rstrip("]")
-                
+
                 print(f'{i}: {concept}:\t{prop.replace("[", "").replace("]", "")}\n')
                 out_file.write(f'{concept}\t{prop.replace("[", "").replace("]", "")}\n')
 

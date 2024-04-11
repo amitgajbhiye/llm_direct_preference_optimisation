@@ -12,7 +12,8 @@ from transformers import (
 
 from peft import PeftModel
 from transformers.utils import logging
-logging.set_verbosity_error() 
+
+logging.set_verbosity_error()
 
 
 # model = "meta-llama/Llama-2-13b-chat-hf"
@@ -28,14 +29,13 @@ dpo_trained_model = True
 
 
 if not dpo_trained_model:
-# Quantization configuration
+    # Quantization configuration
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
         bnb_4bit_compute_dtype=torch.float16,
         bnb_4bit_use_double_quant=True,
     )
-
 
     # Load base moodel in quantised form
     model = AutoModelForCausalLM.from_pretrained(
@@ -46,23 +46,23 @@ if not dpo_trained_model:
     print(model, end="\n\n")
 
 else:
-    
+
     adapter = "/home/amit/cardiff_work/llm_direct_preference_optimisation/results/final_checkpoint/"
+    sft_adapter = "dpo_fintuned_sft_llama/final_checkpoint/"
 
     compute_dtype = getattr(torch, "float16")
     bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=compute_dtype,
-            bnb_4bit_use_double_quant=True,
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=compute_dtype,
+        bnb_4bit_use_double_quant=True,
     )
     model = AutoModelForCausalLM.from_pretrained(
-            base_model, quantization_config=bnb_config, device_map={"": 0}
+        base_model, quantization_config=bnb_config, device_map={"": 0}
     )
-    model = PeftModel.from_pretrained(model, adapter)
+    model = PeftModel.from_pretrained(model, sft_adapter)
 
-    print (f"Prompting DPO finetuned model")
-
+    print(f"Prompting SFT DPO finetuned model")
 
 
 # Tokenizer
@@ -83,7 +83,6 @@ concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 print(f"Number of concepts: {len(concepts)}")
 
 
-
 commonsense_prompt_2 = """<s>[INST] <<SYS>>
 You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. All output must be in valid JSON. Don't add explanation beyond the JSON.
 Please ensure that your responses are socially unbiased and positive in nature.
@@ -94,13 +93,25 @@ Write the most salient properties of the following concept. Concept: <CONCEPT>
 [/INST]"""
 
 
-print(f"Prompt used is : {commonsense_prompt_2}")
+commonsense_prompt_dpo_sft = """<s>[INST] <<SYS>>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+The output must be a valid property of the concept. Don't add explanation beyond the property.
+Please ensure that your responses are socially unbiased and positive in nature.
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write the most salient property of the following concept. The output must be a valid property of the concept. Don't add explanation beyond the property. 
+Concept: <CONCEPT>
+[/INST]"""
 
-concept_prompts = [commonsense_prompt_2.replace("<CONCEPT>", con) for con in concepts]
+print(f"Prompt used is : {commonsense_prompt_dpo_sft}")
+
+concept_prompts = [
+    commonsense_prompt_dpo_sft.replace("<CONCEPT>", con) for con in concepts
+]
 
 # print(concept_prompts)
 
-file_name = "dpo_finetunned_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
+file_name = "sft_dpo_finetunned_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
 
 # response_list = []
 
@@ -125,15 +136,20 @@ with open(file_name, "w") as out_file:
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
 
-            concept = concept_prompt[concept_prompt.find("Concept:"):].replace("\n[/INST]", "").replace("Concept:", "").strip()
-            gen_props = seq['generated_text'].lstrip(', ')
+            concept = (
+                concept_prompt[concept_prompt.find("Concept:") :]
+                .replace("\n[/INST]", "")
+                .replace("Concept:", "")
+                .strip()
+            )
+            gen_props = seq["generated_text"].lstrip(", ")
             # split_prop = gen_props.lstrip(', ').split(", ")
 
             print(concept)
             print(gen_props)
             # print (type(split_prop))
 
-            out_file.write(f'{concept}\t{gen_props}\n')
+            out_file.write(f"{concept}\t{gen_props}\n")
 
             print("===================================")
 
