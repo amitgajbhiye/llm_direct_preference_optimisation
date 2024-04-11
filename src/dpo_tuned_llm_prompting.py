@@ -93,9 +93,20 @@ Write the most salient properties of the following concept. Concept: <CONCEPT>
 [/INST]"""
 
 
-print(f"Prompt used is : {commonsense_prompt_2}")
+commonsense_prompt_sft = """<s>[INST] <<SYS>>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+The output must be a valid property of the concept. Don't add explanation beyond the property.
+Please ensure that your responses are socially unbiased and positive in nature.
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write the most salient property of the following concept. The output must be a valid property of the concept. Don't add explanation beyond the property. 
+Concept: <CONCEPT>
+[/INST]"""
 
-concept_prompts = [commonsense_prompt_2.replace("<CONCEPT>", con) for con in concepts]
+
+print(f"Prompt used is : {commonsense_prompt_sft}")
+
+concept_prompts = [commonsense_prompt_sft.replace("<CONCEPT>", con) for con in concepts]
 
 # print(concept_prompts)
 
