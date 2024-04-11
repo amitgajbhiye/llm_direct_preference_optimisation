@@ -246,7 +246,7 @@ if __name__ == "__main__":
 
     # Added for loading adapters for supervised finetune model
     model = PeftModel.from_pretrained(
-        model, sft_adapter, is_trainable=True, adapter_name="train"
+        model, sft_adapter, is_trainable=True, adapter_name="train_1"
     )
 
     model.config.use_cache = False
@@ -362,7 +362,7 @@ if __name__ == "__main__":
         peft_config=peft_config,
         max_prompt_length=script_args.max_prompt_length,
         max_length=script_args.max_length,
-        model_adapter_name="train",
+        model_adapter_name="train_1",
         ref_adapter_name="reference",
     )
 
