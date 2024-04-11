@@ -48,7 +48,7 @@ else:
     # dpo_adapter = "/home/amit/cardiff_work/llm_direct_preference_optimisation/results/final_checkpoint/"
 
     # sft_adapter = "llama_finetuning_results/checkpoint-2900/"
-    sft_adapter = "dpo_fintuned_sft_llama/final_checkpoint/"
+    sft_adapter = "dpo_fintuned_sft_llama/"
 
     compute_dtype = getattr(torch, "float16")
     bnb_config = BitsAndBytesConfig(
@@ -128,10 +128,10 @@ Write the most salient property of the following concept. The output must be a v
 Concept: <CONCEPT>
 [/INST]"""
 
-print(f"Prompt used is : {commonsense_prompt_for_sft}")
+print(f"Prompt used is : {commonsense_prompt_dpo_sft}")
 
 concept_prompts = [
-    commonsense_prompt_for_sft.replace("<CONCEPT>", con) for con in concepts
+    commonsense_prompt_dpo_sft.replace("<CONCEPT>", con) for con in concepts
 ]
 
 # print(concept_prompts)
