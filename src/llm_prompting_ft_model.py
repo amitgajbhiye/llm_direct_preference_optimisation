@@ -128,10 +128,10 @@ Write the most salient property of the following concept. The output must be a v
 Concept: <CONCEPT>
 [/INST]"""
 
-print(f"Prompt used is : {commonsense_prompt_dpo_sft}")
+print(f"Prompt used is : {commonsense_prompt_for_sft}")
 
 concept_prompts = [
-    commonsense_prompt_dpo_sft.replace("<CONCEPT>", con) for con in concepts
+    commonsense_prompt_for_sft.replace("<CONCEPT>", con) for con in concepts
 ]
 
 # print(concept_prompts)
