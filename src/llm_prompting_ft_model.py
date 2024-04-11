@@ -47,7 +47,8 @@ else:
 
     # dpo_adapter = "/home/amit/cardiff_work/llm_direct_preference_optimisation/results/final_checkpoint/"
 
-    sft_adapter = "llama_finetuning_results/checkpoint-2900/"
+    # sft_adapter = "llama_finetuning_results/checkpoint-2900/"
+    sft_adapter = "dpo_fintuned_sft_llama/final_checkpoint/"
 
     compute_dtype = getattr(torch, "float16")
     bnb_config = BitsAndBytesConfig(
@@ -62,7 +63,6 @@ else:
     model = PeftModel.from_pretrained(model, sft_adapter)
 
     print(f"Prompting DPO finetuned model")
-
 
 # Tokenizer
 tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=True)
@@ -118,15 +118,27 @@ Concept: <CONCEPT>
 [/INST]"""
 
 
-print(f"Prompt used is : {commonsense_prompt_for_sft}")
+commonsense_prompt_dpo_sft = """<s>[INST] <<SYS>>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.
+The output must be a valid property of the concept. Don't add explanation beyond the property.
+Please ensure that your responses are socially unbiased and positive in nature.
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write the most salient property of the following concept. The output must be a valid property of the concept. Don't add explanation beyond the property.
+Concept: <CONCEPT>
+[/INST]"""
+
+print(f"Prompt used is : {commonsense_prompt_dpo_sft}")
 
 concept_prompts = [
-    commonsense_prompt_for_sft.replace("<CONCEPT>", con) for con in concepts
+    commonsense_prompt_dpo_sft.replace("<CONCEPT>", con) for con in concepts
 ]
 
 # print(concept_prompts)
 
-file_name = "sft_n_props_output_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
+file_name = (
+    "dpo_sft_n_props_output_4bit_cs_prompt2_llama2_7b_properties_ufet_concepts.txt"
+)
 
 # response_list = []
 
