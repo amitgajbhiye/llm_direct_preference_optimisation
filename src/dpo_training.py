@@ -362,7 +362,7 @@ if __name__ == "__main__":
         peft_config=peft_config,
         max_prompt_length=script_args.max_prompt_length,
         max_length=script_args.max_length,
-        model_adapter_name="train_1",
+        # model_adapter_name="train_1",
         ref_adapter_name="reference",
     )
 
