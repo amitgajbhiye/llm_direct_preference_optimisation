@@ -150,13 +150,14 @@ class ScriptArguments:
 # [/INST]"""
 
 
+# Instruction for dpo fintuning of supervised finetuned Llama 2.
 commonsense_prompt_2 = """<s>[INST] <<SYS>>
 You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
 The output must be a valid property of the concept. Don't add explanation beyond the property.
 Please ensure that your responses are socially unbiased and positive in nature.
 If you don't know the answer, please don't share false information.
 <</SYS>>
-Write the most salient property of the following concept. The output must be a valid property of the concept. Don't add explanation beyond the property. 
+Write a property of the following concept. Don't add explanation beyond the property. 
 Concept: <CONCEPT>
 [/INST]"""
 
@@ -237,16 +238,20 @@ if __name__ == "__main__":
     model = AutoModelForCausalLM.from_pretrained(
         script_args.model_name_or_path,
         low_cpu_mem_usage=True,
-        # torch_dtype=torch_dtype,
-        # load_in_4bit=script_args.load_in_4bit,
+        torch_dtype=torch_dtype,
+        load_in_4bit=True,
         device_map={"": 0},
         quantization_config=bnb_config,
     )
 
     # Added for loading adapters for supervised finetune model
-    model = PeftModel.from_pretrained(model, sft_adapter)
+    model = PeftModel.from_pretrained(
+        model, sft_adapter, is_trainable=True, adapter_name="train"
+    )
 
     model.config.use_cache = False
+
+    model.load_adapter(sft_adapter, adapter_name="reference")
 
     print(f"model")
     print(model)
@@ -305,8 +310,7 @@ if __name__ == "__main__":
         overwrite_output_dir=False,
         per_device_train_batch_size=script_args.per_device_train_batch_size,
         per_device_eval_batch_size=script_args.per_device_eval_batch_size,
-        num_train_epochs=1,
-        max_steps=-1,  # script_args.max_steps,
+        max_steps=2000,  # script_args.max_steps,
         logging_steps=1,  # script_args.logging_steps,
         save_steps=100,  # script_args.save_steps,
         save_strategy="steps",
@@ -350,7 +354,6 @@ if __name__ == "__main__":
     # 5. initialize the DPO trainer
     dpo_trainer = DPOTrainer(
         model,
-        ref_model=None,
         args=training_args,
         beta=script_args.beta,
         train_dataset=train_dataset,
@@ -359,6 +362,8 @@ if __name__ == "__main__":
         peft_config=peft_config,
         max_prompt_length=script_args.max_prompt_length,
         max_length=script_args.max_length,
+        model_adapter_name="train",
+        ref_adapter_name="reference",
     )
 
     # 6. train
