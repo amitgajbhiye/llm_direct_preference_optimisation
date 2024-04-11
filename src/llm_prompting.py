@@ -26,14 +26,13 @@ dpo_trained_model = True
 
 
 if not dpo_trained_model:
-# Quantization configuration
+    # Quantization configuration
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
         bnb_4bit_compute_dtype=torch.float16,
         bnb_4bit_use_double_quant=True,
     )
-
 
     # Load base moodel in quantised form
     model = AutoModelForCausalLM.from_pretrained(
@@ -44,23 +43,22 @@ if not dpo_trained_model:
     print(model, end="\n\n")
 
 else:
-    
+
     adapter = "/home/amit/cardiff_work/llm_direct_preference_optimisation/results/final_checkpoint/"
 
     compute_dtype = getattr(torch, "float16")
     bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=compute_dtype,
-            bnb_4bit_use_double_quant=True,
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=compute_dtype,
+        bnb_4bit_use_double_quant=True,
     )
     model = AutoModelForCausalLM.from_pretrained(
-            base_model, quantization_config=bnb_config, device_map={"": 0}
+        base_model, quantization_config=bnb_config, device_map={"": 0}
     )
     model = PeftModel.from_pretrained(model, adapter)
 
-    print (f"Prompting DPO finetuned model")
-
+    print(f"Prompting DPO finetuned model")
 
 
 # Tokenizer
