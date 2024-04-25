@@ -60,6 +60,9 @@ print(non_common_concepts)
 
 print("#" * 50)
 
+print(f"model_vocab")
+print(model_vocab)
+
 
 # pipeline = transformers.pipeline(
 #     "text-generation", model=model, device_map="auto", tokenizer=tokenizer
