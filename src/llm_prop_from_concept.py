@@ -41,14 +41,24 @@ with open(inp_file, "r") as inp_file:
     concepts = inp_file.readlines()
 
 concepts = set([con.strip("\n").replace("_", " ").lower() for con in concepts])
-common_concepts = model_vocab.intersection(concepts)
 
+common_concepts = concepts.intersection(model_vocab)
+non_common_concepts = concepts.difference(model_vocab)
+# non_common_concepts = [con for con in concepts if con not in model_vocab]
+
+print("#" * 50)
 print(f"Vocab: {len(model_vocab)}")
 print(f"Number of concepts: {len(concepts)}")
 
-print("common_concepts")
-print(len(common_concepts))
+print("#" * 50)
+print(f"common_concepts: {len(common_concepts)}")
 print(common_concepts)
+
+print("#" * 50)
+print(f"non_common_concepts: {len(non_common_concepts)}")
+print(non_common_concepts)
+
+print("#" * 50)
 
 
 # pipeline = transformers.pipeline(
