@@ -54,22 +54,21 @@ All output must be in valid JSON. Don't add explanation beyond the JSON.
 Please ensure that your responses are socially unbiased and positive in nature.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
-Write the ten most salient properties of the following concept. 
-Output must be in valid JSON like the following example {{"concept": concept, "properties": [in_less_than_ten_words]}}.
+Write the ten most salient properties of the following concept.
+Output must be in valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
 Output must include only JSON.
 All output must be in valid JSON.
 Don't add any explanations before and after the JSON.
-Concept: <CONCEPT> <|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
+Concept: <CONCEPT> <|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
 
 print(f"Prompt used is : {llama3_8B_prompt}")
 
 concept_prompts = [llama3_8B_prompt.replace("<CONCEPT>", con) for con in concepts]
-
 file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_ueft_concepts_properties.txt".lower()
 
 
 with open(file_name, "w") as out_file:
-
     for concept_prompt in concept_prompts:
         sequences = pipeline(
             concept_prompt,
