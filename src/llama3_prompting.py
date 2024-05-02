@@ -70,6 +70,7 @@ file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_ueft_co
 
 with open(file_name, "w") as out_file:
     for concept_prompt in concept_prompts:
+        print (f"concept_prompt: {concept_prompt}")
         sequences = pipeline(
             concept_prompt,
             do_sample=True,
