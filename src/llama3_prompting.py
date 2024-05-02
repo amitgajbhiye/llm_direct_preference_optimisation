@@ -44,7 +44,6 @@ pipeline = transformers.pipeline(
 
 with open(inp_file, "r") as inp_file:
     concepts = inp_file.readlines()
-
 concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 
 print(f"Number of concepts: {len(concepts)}")
@@ -66,13 +65,12 @@ print(f"Prompt used is : {llama3_8B_prompt}")
 
 concept_prompts = [llama3_8B_prompt.replace("<CONCEPT>", con) for con in concepts]
 
-file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_ueft_concepts_properties.txt"
+file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_ueft_concepts_properties.txt".lower()
 
 
 with open(file_name, "w") as out_file:
 
     for concept_prompt in concept_prompts:
-
         sequences = pipeline(
             concept_prompt,
             do_sample=True,
