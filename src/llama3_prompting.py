@@ -50,18 +50,17 @@ concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 print(f"Number of concepts: {len(concepts)}")
 
 llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-
-{{ You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
 All output must be in valid JSON. Don't add explanation beyond the JSON.
 Please ensure that your responses are socially unbiased and positive in nature.
-If you don't know the answer, please don't share false information. }}<|eot_id|><|start_header_id|>user<|end_header_id|>
-
-{{ Write the ten most salient properties of the following concept. Output must be in valid JSON like the following example {{"concept": concept, "properties": [in_less_than_ten_words]}}.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Write the ten most salient properties of the following concept. 
+Output must be in valid JSON like the following example {{"concept": concept, "properties": [in_less_than_ten_words]}}.
 Output must include only JSON.
-All output must be in valid JSON. 
+All output must be in valid JSON.
 Don't add any explanations before and after the JSON.
-Concept: <CONCEPT> }}<|eot_id|><|start_header_id|>assistant<|end_header_id|>
-"""
+Concept: <CONCEPT> <|eot_id|><|start_header_id|>assistant<|end_header_id|>"""
 
 print(f"Prompt used is : {llama3_8B_prompt}")
 
@@ -81,8 +80,8 @@ with open(file_name, "w") as out_file:
             # top_k=,
             num_return_sequences=1,
             eos_token_id=tokenizer.eos_token_id,
-            max_length=4000,
-            max_new_tokens=1000,
+            max_length=1000,
+            max_new_tokens=800,
             return_full_text=False,
             repetition_penalty=1.0,
             length_penalty=1.0,
