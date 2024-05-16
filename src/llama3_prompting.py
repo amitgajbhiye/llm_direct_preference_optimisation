@@ -56,8 +56,7 @@ If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
 Write the ten most salient properties of the following concept.
 Output must be in valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
-Output must include only JSON.
-All output must be in valid JSON.
+All output must include only valid JSON.
 Don't add any explanations before and after the JSON.
 Concept: <CONCEPT> <|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
