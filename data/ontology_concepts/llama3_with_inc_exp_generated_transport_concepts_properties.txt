@@ -1,5 +1,3 @@
-
-
 {"concept": "railroad company", "properties": ["transport goods", "have trains", "located in cities", "make money"]}
 
 {"concept": "railway vehicle", "properties": ["moves on rails", "used for transportation", "have wheels", "called trains"]}

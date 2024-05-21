@@ -115,14 +115,41 @@ Write the ten most salient properties of the concept "shed".<|eot_id|>
 Write the ten most salient properties of the concept "<CONCEPT>".<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
+llama3_8B_3inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "bike".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "bike", "properties": ['used for riding', 'bicycle', 'capable of crashs', 'capable of skids', 'located in garages', 'located in streets', 'located in toy stores', 'used for commuting', 'used for transport', 'common in asia']}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "boat".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "boat", "properties": ['located in bodies of water', 'made of fiber', 'means of transport', 'used for fishing', 'located in garages', 'used for recreation', 'used for rowing', 'used for travel', 'have motors', 'have sails']<|eot_id|>
+Write the ten most salient properties of the concept "cake".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "cake", "properties": ['deserts', 'used for weddings', 'used for special occasions', 'made of eggs', 'located in bakeries', 'located in birthday parties', 'made of flour', 'located in grocery stores', 'used for birthdays', 'baked in ovens']}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "<CONCEPT>".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+# file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_inc_ex__concepts_properties.txt".lower()
+
+file_name = "llama3_with_3inc_exp_generated_transport_concepts_properties.txt"
 
 print(f"Prompt used is : {llama3_8B_inc_prompt}")
 
 concept_prompts = [llama3_8B_inc_prompt.replace("<CONCEPT>", con) for con in concepts]
-# file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_inc_ex__concepts_properties.txt".lower()
-
-file_name = "llama3_with_inc_exp_generated_transport_concepts_properties.txt"
-
 
 with open(file_name, "w") as out_file:
     for concept_prompt in concept_prompts:
