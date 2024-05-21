@@ -1,0 +1,445 @@
+
+
+{"concept": "railroad company", "properties": ['transport goods', 'transport people', 'used for business', 'used for tourism', 'located in cities', 'used for cargo', 'used for freight', 'used for passenger', 'owned by investors','managed by executives']}
+
+{"concept": "railway vehicle", "properties": ['used for transport','made of steel', 'located on rails', 'used for commuting', 'used for cargo', 'used for passengers', 'have wheels', 'have engines', 'used for freight', 'have compartments']}
+
+{"concept": "body motion", "properties": ['moving limbs','moving torso','moving head', 'used for communication', 'used for self-defense', 'used for sports', 'used for exercise', 'used for dance', 'used for martial arts', 'used for expression']}
+
+{"concept": "pier", "properties": ['located in water', 'used for fishing', 'used for swimming','made of wood', 'used for docking', 'located in lakes', 'located in oceans', 'used for boating', 'have rails', 'used for strolling']}
+
+{"concept": "chemical tanker ship", "properties": ['used for transporting chemicals', 'located in oceans','made of steel', 'used for trade', 'have cargo holds', 'have tankers', 'have propellers', 'have engines', 'used for commerce','require special permits']}
+
+{"concept": "dining car", "properties": ['located on trains','serves food', 'has tables', 'has chairs', 'has menus', 'has waiters', 'has food service', 'has snacks', 'has meals', 'has coffee']}
+
+{"concept": "railway junction", "properties": ['location of multiple tracks', 'used for route changes', 'used for train stops', 'used for train starts', 'used for train turns', 'location of signals', 'location of trains', 'used for train maintenance', 'used for train storage', 'used for train routing']}
+
+{"concept": "flight deck", "properties": ['located on aircraft carriers', 'used for takeoff', 'used for landing', 'used for taxiing', 'used for refueling', 'used for maintenance', 'used for navigation', 'used for communication', 'used for crew control', 'used for flight operations']}
+
+{"concept": "spine car", "properties": ['does not exist', 'not a real concept', 'not a type of vehicle', 'not a mode of transport', 'not a known object', 'no information found', 'not recognized', 'not a thing', 'not a concept', 'not a word']}
+
+{"concept": "tractor trailer", "properties": ['large vehicles', 'used for transport', 'have multiple wheels', 'have trailers', 'used for hauling', 'used for deliveries', 'have engines', 'used for logistics', 'have cabins', 'used for commercial purposes']}
+
+{"concept": "crew list", "properties": ['list of people', 'used on ships', 'used on airplanes', 'contains names', 'contains positions', 'used for organization', 'used for communication', 'used for safety', 'used for emergency', 'contains roles']}
+
+{"concept": "ship hold", "properties": ['located on ships', 'used for storage', 'used for cargo', 'has containers', 'has crates', 'has pallets', 'has boxes', 'has bags', 'has machinery', 'has equipment']}
+
+{"concept": "radar or sonar", "properties": ['used for navigation', 'uses radio waves', 'used for detecting objects', 'used in military', 'used in aviation', 'used in weather forecasting', 'used in air traffic control', 'uses sound waves', 'used in tracking', 'used in monitoring']}
+
+{"concept": "air traffic control tower", "properties": ['located at airports', 'used for guiding planes','staffed by controllers', 'used for monitoring weather', 'used for monitoring traffic', 'used for issuing instructions', 'used for ensuring safety', 'used for coordinating landings', 'used for coordinating takeoffs', 'used for ensuring efficient traffic flow']}
+
+{"concept": "fishing boat", "properties": ['used for fishing', 'located in bodies of water','made of fiber', 'used for recreation', 'used for commercial purposes', 'have motors', 'have nets', 'have rods', 'used for catching fish', 'have fishing gear']}
+
+{"concept": "contract carrier", "properties": ['transport goods', 'hire trucks','make deals', 'deliver products', 'charge fees', 'work with companies', 'have licenses', 'operate fleets', 'negotiate rates','manage logistics']}
+
+{"concept": "airport classification", "properties": ['based on facilities', 'based on services', 'based on size', 'based on complexity', 'used for planning', 'used for operations', 'used for management', 'used for passengers', 'used for cargo', 'used for safety']}
+
+{"concept": "crane ship", "properties": ['large ships', 'used for construction', 'used for heavy lifting', 'located in ports', 'used for building bridges', 'used for building buildings', 'used for offshore oil', 'used for wind turbines', 'used for oil rigs', 'heavy machinery']}
+
+{"concept": "arriving", "properties": ['reaching destination', 'ending journey', 'coming to place','reaching goal','reaching location','reaching point', 'ending travel','reaching endpoint', 'ending trip','reaching target']}
+
+{"concept": "multiple track railway", "properties": ['used for transportation', 'tracks are parallel', 'used for high speed', 'used for freight', 'used for passenger', 'tracks are separated', 'used for commuting', 'used for long distances', 'used for heavy loads', 'used for busy routes']}
+
+{"concept": "water transportation system", "properties": ['uses boats', 'uses ships', 'uses ferries', 'uses canals', 'used for trade', 'used for travel', 'used for cargo', 'used for military', 'has ports', 'has harbors']}
+
+{"concept": "common carrier", "properties": ['transports people', 'charges fees', 'operates buses', 'operates trains', 'operates airplanes', 'operates ships', 'operates trucks', 'has routes', 'has schedules','regulated by government']}
+
+{"concept": "containerization", "properties": ['shipping goods', 'using containers','reducing costs', 'increasing efficiency', 'using standardized sizes', 'used in international trade', 'used in logistics','reducing damage','reducing labor', 'increasing speed']}
+
+{"concept": "flatcar", "properties": ['used for transporting', 'has no sides', 'used for carrying goods', 'used for carrying cars', 'located in rail yards', 'has wheels', 'has tracks', 'used for construction', 'used for transporting vehicles', 'long and flat']}
+
+{"concept": "electric device", "properties": ['powered by electricity', 'uses wires', 'uses batteries', 'has buttons', 'has screens', 'has speakers', 'has microphones', 'has charging ports', 'used for communication', 'used for entertainment']}
+
+{"concept": "container terminal", "properties": ['located near ports', 'used for shipping', 'handles containers', 'used for cargo', 'located in industrial areas', 'used for import', 'used for export','managed by companies', 'have cranes', 'have warehouses']}
+
+{"concept": "petroleum product", "properties": ['made from oil', 'used for fuel', 'used for lubrication', 'used for plastics', 'used for cosmetics', 'used for industrial processes', 'used for transportation', 'used for energy', 'located in refineries', 'used for heating']}
+
+{"concept": "ore carrier ship", "properties": ['used for transporting', 'large size', 'used for commerce', 'located in oceans', 'carries bulk goods','made of steel', 'used for international trade', 'has cargo holds', 'has propellers', 'used for economy']}
+
+{"concept": "set or class", "properties": ['collection of things', 'defined by rules', 'contains elements', 'has no duplicates', 'has a specific number', 'used for categorization', 'used for organization', 'used for grouping', 'used for filtering', 'used for searching']}
+
+{"concept": "ship berthing", "properties": ['used for docking', 'used for anchoring', 'used for refueling', 'used for maintenance', 'used for cargo', 'used for passengers', 'located in ports', 'used for overnight stays', 'used for repairs', 'used for emergencies']}
+
+{"concept": "transportation authority", "properties": ['government agency','regulates traffic', 'issues permits','maintains roads', 'enforces laws','sets speed limits', 'collects taxes', 'coordinates public transportation','sets parking regulations','monitors traffic safety']}
+
+{"concept": "cargo handling", "properties": ['involves moving goods', 'involves loading', 'involves unloading', 'involves transportation', 'involves storage', 'involves logistics', 'involves handling', 'involves care', 'involves management', 'involves efficiency']}
+
+{"concept": "general cargo ship", "properties": ['used for transport','means of shipping', 'carry goods', 'have holds', 'have cranes', 'used for international trade', 'used for domestic trade', 'have crew', 'have captains', 'have navigation systems']}
+
+{"concept": "volume measure", "properties": ['measures space','measured in liters','measured in cubic meters','measured in gallons','measured in milliliters', 'used for liquids', 'used for gases', 'used for solids', 'used in recipes', 'used in science labs']}
+
+{"concept": "glider airplane", "properties": ['no engines', 'uses gravity', 'uses wind', 'used for recreation', 'used for training', 'located in airports', 'used for competitions','made of metals', 'used for observation', 'uses lift']}
+
+{"concept": "intentional process", "properties": ['done on purpose', 'goal-oriented', 'voluntary', 'conscious', 'deliberate', 'planned', 'goal-directed', 'purposive', 'intentional', 'human-made']}
+
+{"concept": "train assembly", "properties": ['made of trains', 'located in train yards', 'used for transportation', 'used for cargo','made of steel', 'used for freight', 'used for passengers', 'assembled by workers', 'located in industrial areas', 'used for goods delivery']}
+
+{"concept": "partial container ship", "properties": ['carries containers','smaller than container ships', 'used for regional trade', 'not fully loaded', 'used for special cargo', 'has limited capacity', 'used for niche markets', 'has less crew', 'has less fuel', 'has lower cost']}
+
+{"concept": "regulatory process", "properties": ['government controlled', 'rule making', 'enforcement', 'compliance', 'laws', 'rules', 'procedures', 'checks and balances', 'public participation','monitoring and evaluation']}
+
+{"concept": "emergency vehicle", "properties": ['used for rescue', 'has sirens', 'has lights', 'used for ambulances', 'used for fire trucks', 'used for police cars', 'has flashing lights', 'used for emergency situations', 'has sirens loudly', 'used for medical help']}
+
+{"concept": "traffic signal", "properties": ['located in roads', 'used for directing','red and green lights', 'used for safety', 'used for flow', 'located in intersections', 'has pedestrian phase', 'has vehicle phase', 'has warning phase','maintained by cities']}
+
+{"concept": "ship deck", "properties": ['located on top of ships', 'used for navigation', 'used for recreation', 'used for sailing', 'have railings', 'have ladders', 'have anchors', 'have masts', 'used for storage', 'have hatches']}
+
+{"concept": "propeller airplane", "properties": ['small size', 'powered by propellers', 'used for private flights', 'used for small groups', 'located in airports','made of metal', 'used for recreation', 'used for training', 'low speed', 'low cost']}
+
+{"concept": "watercraft", "properties": ['located in bodies of water','means of transport', 'used for recreation', 'used for fishing', 'have motors', 'have sails', 'used for travel','made of fiber', 'have propellers', 'used for sailing']}
+
+{"concept": "land area", "properties": ['measured in square meters','measured in acres','measured in square kilometers', 'used for construction', 'used for agriculture', 'used for housing', 'used for business', 'used for recreation', 'used for parks','measured by surveyors']}
+
+{"concept": "emergency road vehicle", "properties": ['used for emergencies', 'equipped with sirens', 'equipped with lights', 'used for rescue', 'used for medical aid', 'used for fire fighting', 'used for police', 'used for ambulance', 'have sirens', 'have flashing lights']}
+
+{"concept": "taking off", "properties": ['means of leaving ground', 'used in flight','means of departure', 'used in airplanes', 'used in rockets', 'used in hot air balloons','means of ascent', 'used in aircraft', 'used in space travel', 'used in aviation']}
+
+{"concept": "navigation", "properties": ['used for finding directions', 'used for traveling', 'uses maps', 'uses compasses', 'uses GPS', 'uses coordinates', 'used for sailing', 'used for flying', 'used for driving', 'used for hiking']}
+
+{"concept": "minivan", "properties": ['used for family transport', 'has sliding doors', 'has multiple seats', 'used for road trips', 'located in suburban areas', 'used for soccer practice', 'has storage compartments', 'has entertainment systems', 'has cup holders', 'used for daily commutes']}
+
+{"concept": "ship cabin", "properties": ['located on ships','small rooms', 'used for sleeping', 'have beds', 'have bathrooms', 'have windows', 'have doors', 'have closets', 'have tables', 'have chairs']}
+
+{"concept": "offshore support ship", "properties": ['large size', 'used for oil rig maintenance', 'located in seas', 'used for supply', 'used for repair', 'have cranes', 'have cargo holds', 'have engines', 'used for construction', 'have anchors']}
+
+{"concept": "vehicle wheel", "properties": ['located on vehicles', 'used for movement','made of rubber', 'have tires', 'have hubs', 'have axles', 'used for suspension', 'used for steering', 'located on cars', 'located on trucks']}
+
+{"concept": "traffic control process", "properties": ['used for safety','regulated by laws','managed by authorities', 'involves signals', 'involves signs', 'involves lights', 'used for order', 'used for efficiency', 'used for speed', 'used for accidents']}
+
+{"concept": "major air carrier", "properties": ['flies internationally', 'has many planes', 'flies to many destinations', 'has frequent flights', 'used for business travel', 'used for vacation', 'has in-flight meals', 'has in-flight entertainment', 'has ticket counter', 'has online booking']}
+
+{"concept": "air route", "properties": ['used for traveling', 'located in skies','means of transportation', 'connected cities', 'used for flights', 'have airports', 'have planes', 'have schedules', 'have routes', 'used for commuting']}
+
+{"concept": "deepwater port", "properties": ['located in coastal areas', 'used for international trade', 'have deep water', 'used for cargo ships', 'used for oil tankers', 'located in busy cities', 'used for international commerce', 'have cranes', 'have warehouses', 'used for economic growth']}
+
+{"concept": "railcar carrier ship", "properties": ['used for transport', 'carries railcars', 'located in seas', 'used for international trade', 'used for domestic trade', 'have cranes', 'have rail tracks', 'used for heavy haulage', 'used for bulk cargo', 'have containers']}
+
+{"concept": "freight car", "properties": ['used for transportation', 'carries goods', 'located in trains', 'used for commerce','made of steel', 'has wheels', 'has doors', 'has tracks', 'used for industries', 'has containers']}
+
+{"concept": "cubic foot", "properties": ['unit of volume', 'used for measuring', 'equal to 1,728 cubic inches', 'used in construction', 'used in engineering', 'used in architecture', 'used in science', 'used in technology', 'used in everyday life', 'used for calculations']}
+
+{"concept": "rolling stock", "properties": ['used for transportation','moving on rails', 'used for freight', 'used for passengers', 'located in train stations', 'used for goods', 'have wheels', 'have engines', 'used for cargo', 'used for commutes']}
+
+{"concept": "ship berth", "properties": ['located in harbors', 'used for docking', 'used for anchoring', 'used for mooring', 'used for storage', 'used for maintenance', 'used for refueling', 'used for repair', 'located in ports', 'used for overnight stays']}
+
+{"concept": "land vehicle", "properties": ['used for transport', 'have wheels', 'located on roads', 'used for commuting', 'used for recreation', 'have engines', 'have brakes', 'have seats', 'used for work', 'used for travel']}
+
+{"concept": "navigation buoy", "properties": ['located in oceans', 'used for navigation', 'have lights', 'have colors', 'have shapes', 'used for warnings', 'used for guidance', 'used for safety', 'have buoys', 'located in harbors']}
+
+{"concept": "tank car", "properties": ['used for transporting liquids', 'used for transporting gases', 'has large capacity', 'used for transporting chemicals', 'used for transporting fuels', 'has protective coating', 'used for transporting food', 'used for transporting water', 'has specialized construction', 'used for industrial purposes']}
+
+{"concept": "railroad bridge", "properties": ['used for transportation', 'located over water', 'used for crossing rivers','made of steel', 'used for railroad tracks', 'located in mountains', 'have supports', 'have pillars', 'have spans', 'used for trains']}
+
+{"concept": "radio navigation beacon", "properties": ['transmit signals', 'used for navigation', 'located on airfields', 'used for airplanes', 'used for ships', 'provide location data', 'provide altitude data', 'provide speed data', 'used for military', 'used for civilian']}
+
+{"concept": "merchant marine", "properties": ['commercial shipping', 'transport goods', 'operates globally','registered with flags','ships carry cargo','ships carry passengers','ships sail through seas','ships sail through oceans','ships sail through lakes','ships sail through rivers']}
+
+{"concept": "cabotage", "properties": ['maritime trade', 'domestic shipping', 'transport of goods', 'within a country','regulated by government', 'used for economy', 'used for commerce', 'used for industry', 'used for agriculture', 'used for national security']}
+
+{"concept": "aid to navigation", "properties": ['used for orientation', 'located on ships', 'used for safety', 'used for directions', 'located in harbors', 'used for pilots', 'used for sailors', 'used for navigation', 'located in lighthouses', 'used for rescue']}
+
+{"concept": "portable bridge", "properties": ['used for crossing', 'lightweight', 'easy to transport', 'temporary structure', 'used for emergencies', 'used for construction', 'used for military operations', 'used for natural disasters', 'easy to assemble', 'used for accessing remote areas']}
+
+{"concept": "canal structure", "properties": ['artificial waterways', 'used for shipping', 'located in cities', 'connected to oceans', 'used for irrigation','made of concrete','made of steel', 'used for recreation', 'located in countryside', 'used for trade']}
+
+{"concept": "cable ship", "properties": ['used for laying cables', 'used for communication', 'located in oceans', 'used for internet', 'used for telephone', 'used for data', 'used for communication lines', 'have cranes', 'have anchors', 'used for laying underwater cables']}
+
+{"concept": "transit shelter", "properties": ['located near bus stops', 'provide shade', 'provide seating', 'used for waiting','made of metal', 'located in cities', 'have benches', 'have roofs', 'have walls', 'provide protection']}
+
+{"concept": "hangar bay", "properties": ['located on aircraft carriers', 'used for storing planes', 'large space', 'used for maintenance', 'used for launching planes', 'connected to runways', 'used for takeoff', 'used for landing', 'used for refueling', 'used for repairs']}
+
+{"concept": "cab car", "properties": ['used for transportation', 'has a driver', 'located in cities', 'used for short distances', 'used for late nights', 'has a meter', 'has a radio', 'has a air conditioning', 'has a GPS', 'used for emergencies']}
+
+{"concept": "fire engine", "properties": ['large vehicles', 'used for firefighting', 'have sirens', 'have lights', 'used for emergencies', 'located in fire stations', 'have hoses', 'have ladders', 'have water tanks', 'used for rescuing']}
+
+{"concept": "fishing vessel", "properties": ['used for catching fish', 'located in oceans', 'used for commercial purposes','made of steel', 'have nets', 'have engines', 'used for fishing industries', 'have fishing gear', 'have crew', 'used for seafood trade']}
+
+{"concept": "rocket engine", "properties": ['used for propulsion', 'used in space exploration', 'uses fuel', 'uses oxidizer', 'produces thrust', 'located in rockets', 'used in military', 'used in research', 'used in space travel','requires precise control']}
+
+{"concept": "refrigerated compartment", "properties": ['keeps food cold', 'located in trucks', 'located in stores', 'used for transportation', 'used for storage','maintains low temperature', 'has insulation', 'has cooling systems', 'used for food preservation', 'found in delivery vehicles']}
+
+{"concept": "attaching", "properties": ['means of holding', 'using glue', 'using screws', 'using nails', 'using tape', 'using magnets', 'using clips', 'using straps', 'using adhesives', 'joining together']}
+
+{"concept": "standard gauge railway", "properties": ['tracks are 1435 mm wide', 'used for passenger transport', 'used for freight transport', 'found in many countries', 'found in europe', 'found in asia', 'found in north america', 'used for high speed transport', 'used for local transport', 'connected to cities']}
+
+{"concept": "diesel fuel", "properties": ['used in vehicles', 'used in generators', 'used in ships', 'used in machines', 'used in agriculture','made of crude oil', 'used in trucks', 'used in construction', 'used in industry', 'used in transportation']}
+
+{"concept": "research ship", "properties": ['used for scientific research', 'located in oceans', 'used for studying marine life', 'equipped with laboratories', 'used for collecting data', 'used for testing equipment', 'have scientists on board', 'used for studying climate', 'used for studying geology', 'used for studying oceanography']}
+
+{"concept": "hopper dredger", "properties": ['used for dredging', 'has a hopper', 'used for ports', 'used for construction', 'has a crane', 'has a propeller', 'used for navigation', 'used for excavation', 'has a hull', 'used for waterways']}
+
+{"concept": "vehicle registration", "properties": ['required by laws', 'needed for insurance', 'done annually', 'done by governments', 'costs money', 'done for cars', 'done for trucks', 'done for motorcycles', 'done for buses', 'done for licenses']}
+
+{"concept": "ship hull", "properties": ['located underwater','made of steel', 'used for buoyancy', 'used for propulsion', 'used for cargo', 'used for transportation', 'used for military', 'used for fishing', 'designed for speed', 'designed for strength']}
+
+{"concept": "animal powered vehicle", "properties": ['pulled by animals', 'used for transportation','made of wood', 'used for farming', 'located in rural areas', 'used for carrying loads', 'used for riding', 'have saddles', 'have harnesses', 'used for recreation']}
+
+{"concept": "etiologic agent", "properties": ['cause diseases','microorganisms', 'bacteria', 'virus', 'fungal', 'protozoa', 'infectious', 'transmitted', 'pathogenic', 'causes illness']}
+
+{"concept": "track gauge", "properties": ['measured in millimeters','standardized worldwide', 'varies by country', 'used for railroads', 'important for train operations', 'different for different countries', 'used for freight', 'used for passengers','measured between rails', 'critical for smooth ride']}
+
+{"concept": "registry ton", "properties": ['unit of measurement', 'used for ships', 'equal to 2,000 pounds', 'used in maritime industry', 'used for cargo capacity', 'used for weight measurement', 'used for ships' size', 'used for shipbuilding', 'used for navigation', 'used for maritime trade']}
+
+{"concept": "commercial shipping", "properties": ['means of transport', 'used for international trade', 'used for global economy', 'carries goods', 'carries containers', 'carries cargo', 'used for supply chain', 'used for exports', 'used for imports','regulated by governments']}
+
+{"concept": "road vehicle", "properties": ['used for transport', 'located on roads', 'have wheels', 'have engines', 'used for commuting', 'used for travel', 'have brakes', 'have seats', 'have doors', 'have license plates']}
+
+{"concept": "petroleum pipeline", "properties": ['used for transportation','made of steel', 'located underground', 'used for oil', 'long distance transportation', 'high pressure', 'used for refineries', 'used for power plants', 'used for industries','managed by companies']}
+
+{"concept": "cargo manifest", "properties": ['list of goods', 'used in logistics', 'document', 'used in shipping', 'contains details', 'contains quantities', 'used in international trade', 'contains weights', 'contains values', 'used in customs']}
+
+{"concept": "government organization", "properties": ['run by officials', 'tax-funded', 'provides services', 'has rules', 'has laws', 'has regulations', 'has employees', 'has departments', 'has ministers', 'has budget']}
+
+{"concept": "personal watercraft", "properties": ['used for recreation', 'used for racing', 'located in lakes', 'located in oceans', 'used for water sports','made of plastic', 'have engines', 'used for transportation', 'have handles', 'used for thrill seeking']}
+
+{"concept": "bill of lading", "properties": ['document', 'used for shipping', 'contains cargo details', 'contains payment details', 'used for international trade', 'used for domestic trade', 'contains weights', 'contains measurements', 'used for customs','required for insurance']}
+
+{"concept": "ship agent", "properties": ['helps ships', 'arranges logistics', 'handles customs', 'handles cargo', 'handles crew', 'located in ports', 'located in harbors', 'located in coastal cities', 'arranges repairs', 'arranges maintenance']}
+
+{"concept": "commercial airport", "properties": ['located in cities', 'used for international travel', 'used for domestic travel', 'have runways', 'have terminals', 'have gates', 'have security checks', 'have check-in counters', 'have baggage claim', 'have air traffic control']}
+
+{"concept": "long ton", "properties": ['unit of weight', 'equals 2,000 pounds', 'used in shipping', 'used in trade', 'used in commerce', 'older unit', 'used in UK', 'used in metric system', 'used in imperial system', 'rarely used']}
+
+{"concept": "bulk cargo", "properties": ['large quantities', 'uncontainerized','moved by ships','moved by barges','moved by trains','moved by trucks', 'includes grains', 'includes minerals', 'includes coal', 'includes ores']}
+
+{"concept": "tugboat", "properties": ['used for towing', 'located in ports', 'used for rescue','made of steel', 'used for navigation', 'have propellers', 'have engines', 'used for docking', 'used for unloading','small in size']}
+
+{"concept": "cargo container", "properties": ['large metal boxes', 'used for shipping', 'filled with goods', 'located in ports','secured with locks', 'used for international trade', 'can be stacked', 'have wheels', 'used for storage', 'can be refrigerated']}
+
+{"concept": "unpaved runway", "properties": ['made of dirt', 'used for small planes', 'not suitable for big jets', 'used in rural areas', 'not marked with lights', 'not marked with lines', 'can be muddy', 'can be dusty', 'used for emergency landings', 'used in remote areas']}
+
+{"concept": "ocean liner", "properties": ['large ships', 'used for travel', 'cross oceans', 'have cabins', 'have restaurants', 'have entertainment', 'have pools', 'have decks', 'used for vacations', 'transports people']}
+
+{"concept": "port city", "properties": ['located near oceans', 'used for shipping', 'used for trade', 'have docks', 'have warehouses', 'used for commerce', 'have ports', 'used for transportation', 'have cargo', 'used for international trade']}
+
+{"concept": "transit route", "properties": ['used for travel', 'have buses', 'have trains', 'have stops', 'have schedules', 'have maps', 'have routes', 'used for commuting', 'used for transportation', 'have fare systems']}
+
+{"concept": "pusher tug", "properties": ['used for towing', 'large and heavy', 'used in ports', 'has engines', 'used for assisting', 'used for maneuvering', 'used in shipyards', 'has propellers', 'used for docking', 'has a flat hull']}
+
+{"concept": "port facility", "properties": ['used for cargo', 'used for ships', 'located in coastal areas', 'used for export', 'used for import', 'have cranes', 'have warehouses', 'have docks', 'have loading areas','managed by authorities']}
+
+{"concept": "dual gauge railway", "properties": ['carries two types of trains', 'used for different gauges', 'allows for multiple uses', 'found in multiple countries', 'used for international transport', 'used for local transport', 'used for freight', 'used for passenger', 'used for tourist', 'found in asia and africa']}
+
+{"concept": "commercial agent", "properties": ['middlemen', 'negotiate deals','represent companies', 'act as mediators', 'located in offices', 'used for marketing', 'used for sales', 'have contracts', 'negotiate prices', 'have expertise']}
+
+{"concept": "canal system", "properties": ['artificial waterways', 'used for navigation', 'located in cities', 'used for trade', 'used for recreation', 'built for transportation','managed by authorities', 'used for irrigation', 'found in holland', 'found in china']}
+
+{"concept": "private railcar", "properties": ['luxurious', 'used for transportation', 'owned by individuals', 'have beds', 'have kitchens', 'have bathrooms', 'have TVs', 'have internet', 'have staff', 'expensive']}
+
+{"concept": "head end car", "properties": ['last car in train', 'located at the front', 'used for locomotive', 'used for passenger transport', 'has distinctive design', 'has special role', 'used for cargo transport', 'has unique features', 'used for freight transport', 'part of train sets']}
+
+{"concept": "electrified railway", "properties": ['runs on electricity', 'used for transportation', 'used for commuting', 'located in cities', 'located in countryside', 'has trains', 'has tracks', 'has stations', 'used for long distance travel', 'used for high speed travel']}
+
+{"concept": "mass measure", "properties": ['measures weight','measures grams','measures kilograms','measures pounds','measures ounces','measures tons','measures metric','measures imperial','measures in scientific use','measures in everyday use']}
+
+{"concept": "paved runway", "properties": ['used for landing', 'used for takeoff','made of asphalt', 'located in airports', 'used for commercial flights', 'used for military flights', 'has lights', 'has signs', 'has markings', 'used for aircraft']}
+
+{"concept": "petroleum product pipeline", "properties": ['used for transporting oil', 'located underground', 'used for transporting gas', 'used for transporting diesel', 'long distances', 'high pressure', 'used for economic purposes', 'used for industries', 'used for transportation', 'built for decades']}
+
+{"concept": "flight schedule", "properties": ['used for planning', 'used for traveling', 'located in airports','showing departure and arrival times','showing dates','showing routes','showing frequencies', 'used for booking', 'updated daily', 'available online']}
+
+{"concept": "fixed bridge", "properties": ['connecting two places','made of steel', 'located in rivers', 'located in oceans','made of concrete', 'used for crossing', 'used for transportation', 'have pillars', 'have foundations', 'built by humans']}
+
+{"concept": "turbojet engine", "properties": ['used in aircraft', 'uses jet propulsion', 'has turbines', 'uses fuel', 'has high speed', 'used in military', 'used in commercial', 'has no propellers', 'used in space travel', 'has high thrust']}
+
+{"concept": "whaling ship", "properties": ['used for whaling', 'located in oceans', 'used for hunting', 'have harpoons', 'have nets', 'used for killing', 'used for catching', 'located in 19th century', 'had crews', 'had captains']}
+
+{"concept": "guiding", "properties": ['involves direction', 'involves leadership', 'involves guidance', 'used in tours', 'used in hiking', 'used in adventures', 'used in exploration', 'used in education', 'used in training', 'used in orientation']}
+
+{"concept": "bulkhead", "properties": ['made of metal', 'used in ships', 'used in construction','separates compartments', 'used in aircraft', 'used in buildings', 'used in submarines', 'used in tanks', 'used in industrial applications', 'used in engineering']}
+
+{"concept": "deck crane", "properties": ['used for lifting', 'located on ships', 'used for cargo','mechanical device', 'used for construction', 'has cables', 'has pulleys', 'has winches', 'used for heavy loads','requires operators']}
+
+{"concept": "electronic signalling", "properties": ['uses electricity', 'transmits information', 'uses wires', 'uses signals', 'used in communication', 'used in computers', 'used in phones', 'used in internet', 'used in radios', 'uses modems']}
+
+{"concept": "sea lane", "properties": ['used for navigation', 'located in oceans', 'used for shipping', 'designated by authorities', 'used for trade', 'have buoys', 'have signs', 'used for recreation', 'used for travel', 'have markers']}
+
+{"concept": "canal lock gate", "properties": ['used for water level control', 'located in canals', 'used for boat traffic', 'operated by humans','mechanical structure', 'water tight', 'used for navigation', 'located in waterways', 'used for water storage', 'controlled by engineers']}
+
+{"concept": "signalling", "properties": ['used for communication', 'used for warning', 'used for information', 'done through lights', 'done through sounds', 'done through messages', 'used in traffic', 'used in sports', 'used in business', 'used in emergencies']}
+
+{"concept": "port crane", "properties": ['used for lifting', 'located in ports', 'large machines', 'used for cargo', 'used for ships', 'used for loading', 'used for unloading', 'have cables', 'have hooks', 'used for logistics']}
+
+{"concept": "river port", "properties": ['located near rivers', 'used for shipping', 'used for trade', 'located in cities', 'used for recreation', 'have docks', 'have warehouses', 'have cranes', 'used for commerce', 'have cargo']}
+
+{"concept": "military watercraft", "properties": ['used for warfare', 'used for transporting troops', 'used for naval battles','made of steel', 'located in harbors', 'have guns', 'have torpedoes', 'used for reconnaissance', 'used for amphibious landings', 'have radar']}
+
+{"concept": "vehicle crew", "properties": ['drivers', 'passengers', 'located in vehicles', 'includes truckers', 'includes taxi drivers', 'includes bus drivers', 'includes train engineers', 'includes pilots', 'includes sailors', 'includes ship captains']}
+
+{"concept": "moving violation", "properties": ['traffic law', 'infraction','speeding','reckless driving', 'failure to stop', 'running red lights', 'failure to yield', 'causes accidents', 'issued by police', 'fineable offense']}
+
+{"concept": "radar facility", "properties": ['used for monitoring', 'used for navigation', 'used for weather forecasting', 'located in airports', 'used for military purposes', 'used for air traffic control', 'uses antennas', 'uses computers', 'located in remote areas', 'used for surveillance']}
+
+{"concept": "electric motor", "properties": ['powered by electricity', 'used in machines', 'used in cars', 'used in fans', 'used in pumps', 'used in refrigerators', 'used in computers', 'converts electricity', 'used in household appliances', 'used in industrial equipment']}
+
+{"concept": "broad gauge railway", "properties": ['tracks are wide', 'used in russia', 'used in united states', 'used in india', 'used in china', 'used in australia', 'used in europe', 'different from standard gauge', 'different from narrow gauge', 'used for heavy loads']}
+
+{"concept": "lighter", "properties": ['used for fire','small device','made of metal', 'used for cigarettes', 'located in pockets', 'used for camping', 'has flint', 'has fuel', 'used for starting fire', 'portable']
+
+{"concept": "material handling equipment", "properties": ['used for lifting', 'used for moving', 'used for stacking', 'used in warehouses', 'used in factories', 'used for heavy loads', 'used for pallets', 'used for boxes','mechanized', 'electrified']}
+
+{"concept": "gallery car", "properties": ['display cars', 'located in museums','showcase art','showcase design', 'used for exhibitions', 'used for art', 'used for design', 'located in cities', 'located in metropolises', 'used for culture']}
+
+{"concept": "light fixture", "properties": ['attached to ceilings', 'used for lighting', 'located in homes', 'located in offices', 'have bulbs', 'have switches', 'have cords','made of plastic','made of metal', 'have shades']}
+
+{"concept": "water area", "properties": ['located in oceans', 'located in lakes', 'located in rivers', 'located in seas', 'located in ponds', 'located in pools', 'used for drinking', 'used for bathing', 'used for swimming', 'used for fishing']}
+
+{"concept": "fish factory ship", "properties": ['located at sea', 'catches fish', 'processes fish','sells fish', 'used for fishing', 'used for commerce', 'has equipment', 'has nets', 'has trawls', 'has refrigerators']}
+
+{"concept": "canal lock", "properties": ['located in canals', 'raises and lowers water', 'used for boat traffic', 'consists of gates', 'used for navigation', 'has chambers', 'has valves', 'used for water conservation', 'used for water control', 'has operators']}
+
+{"concept": "transit stop", "properties": ['located on roads', 'used for buses', 'used for trains', 'used for taxis', 'have signs', 'have shelters', 'have benches', 'have maps', 'have schedules', 'have platforms']}
+
+{"concept": "road transportation system", "properties": ['uses roads', 'uses vehicles', 'uses fuel', 'used for commuting', 'used for travel','managed by government','maintained by government','regulated by laws', 'used for goods', 'used for services']}
+
+{"concept": "dangerous goods", "properties": ['hazardous materials', 'flammable', 'toxic', 'explosive', 'corrosive', 'flammable liquids', 'flammable gases', 'harmful to humans', 'harmful to environment','special handling required']}
+
+{"concept": "ship compartment", "properties": ['located in ships', 'used for storage', 'used for cabins', 'used for cargo', 'used for navigation', 'have doors', 'have windows', 'have lights', 'have ventilation', 'have emergency exits']}
+
+{"concept": "transit terminal", "properties": ['used for public transportation', 'located in cities', 'have bus stations', 'have train stations', 'have taxi stands', 'have parking lots', 'used for commuting', 'used for traveling', 'have food courts', 'have shops']}
+
+{"concept": "waterway junction", "properties": ['connects rivers', 'connects lakes', 'connects oceans', 'used for navigation', 'used for trade', 'used for recreation', 'has locks', 'has dams', 'has bridges', 'used for transportation']}
+
+{"concept": "organizational process", "properties": ['involves steps', 'involves tasks', 'involves roles', 'involves responsibilities', 'involves communication', 'involves decisions', 'involves actions', 'involves planning', 'involves execution', 'involves monitoring']}
+
+{"concept": "truck tractor", "properties": ['large in size', 'used for hauling', 'has multiple wheels', 'used for construction', 'has trailer', 'used for long distance', 'has engine', 'used for transportation', 'has cabin', 'used for heavy loads']}
+
+{"concept": "traffic light", "properties": ['located in intersections','red means stop', 'green means go', 'yellow means caution', 'located in cities', 'used for safety', 'used for order', 'have three colors', 'have buttons', 'have lights']}
+
+{"concept": "rail transportation system", "properties": ['used for long distances', 'used for heavy loads', 'electric or diesel powered', 'used for passenger transport', 'used for freight transport', 'located in tracks','requires infrastructure', 'used in cities', 'used in countryside', 'has stations']}
+
+{"concept": "railroad track", "properties": ['used for transportation','made of steel', 'located in train stations', 'have rails', 'have ties', 'located in countryside', 'have signals', 'have switches', 'have locomotives', 'used for freight']}
+
+{"concept": "passenger ship", "properties": ['used for travel','means of transport', 'located in harbors', 'used for vacations', 'used for business', 'have cabins', 'have restaurants', 'have entertainment', 'have pools', 'cross oceans']}
+
+{"concept": "deck cargo", "properties": ['transported on ships', 'placed on open deck', 'not in containers', 'exposed to weather', 'vulnerable to damage','subject to rough seas', 'often carried by tankers', 'used for bulk goods','requires special handling', 'not protected from sea']
+
+{"concept": "jet engine", "properties": ['used in airplanes', 'uses fuel', 'produces thrust', 'located in planes', 'used for propulsion','made of metal', 'has fans', 'uses air', 'used in airports', 'highly efficient']}
+
+{"concept": "freighter", "properties": ['large ships', 'used for cargo', 'located in oceans','made of steel', 'used for international trade', 'used for transporting goods', 'have cargo holds', 'have engines', 'have crew', 'operate in international waters']}
+
+{"concept": "hoisting device", "properties": ['used for lifting', 'used in construction', 'used in factories', 'used in ships', 'has cables', 'has pulleys', 'has motors', 'used for heavy loads', 'used for lifting people', 'used for lifting objects']}
+
+{"concept": "scale test car", "properties": ['miniature', 'used for testing','made of plastic', 'used for research', 'located in laboratories', 'used for simulations','reduced in size', 'used for prototype', 'used for evaluation','smaller than real cars']}
+
+{"concept": "outfit car", "properties": ['used for driving','made of steel', 'located in roads', 'used for daily life', 'have wheels', 'have doors', 'have seats', 'have engines', 'used for transportation', 'have brakes']}
+
+{"concept": "mode of transit", "properties": ['used for transport', 'used for travel','means of moving', 'can be cars', 'can be buses', 'can be trains', 'can be planes', 'can be boats', 'can be bicycles', 'can be walking']}
+
+{"concept": "single traffic lane", "properties": ['one-way', 'no opposing traffic', 'used for roads', 'used for highways', 'used for city streets', 'used for parking lots', 'used for rural areas', 'used for urban areas', 'used for traffic control', 'used for road safety']}
+
+{"concept": "light truck", "properties": ['used for hauling', 'used for off-road', 'used for towing', 'have four wheels', 'have high ground clearance', 'used for construction', 'used for agriculture', 'have engines', 'have transmissions', 'used for utility']}
+
+{"concept": "port embargo", "properties": ['economic sanctions', 'ban on imports', 'ban on exports', 'government action', 'international trade restriction', 'used for political pressure', 'used for national security', 'used for economic protection', 'imposed by countries', 'affected by international relations']}
+
+{"concept": "container ship", "properties": ['used for transporting goods', 'large vessels', 'used for international trade', 'carry containers', 'located in ports','made of steel', 'used for cargo', 'have cranes', 'have holds','sail across oceans']}
+
+{"concept": "train station", "properties": ['located near tracks', 'used for boarding', 'used for alighting', 'have platforms', 'have schedules', 'have ticket counters', 'have waiting rooms', 'have restrooms', 'have food vendors', 'located in cities']}
+
+{"concept": "electrical signalling", "properties": ['used for communication', 'uses voltage', 'uses current', 'uses frequency', 'used in computers', 'used in phones', 'used in internet', 'uses wires', 'used in automation', 'used in industrial control systems']}
+
+{"concept": "cargo ship", "properties": ['large in size', 'used for transporting goods', 'located in ports', 'have cranes', 'have containers', 'used for international trade', 'used for shipping', 'have engines', 'have propellers', 'used for economy']}
+
+{"concept": "intermodal transportation", "properties": ['combines different modes', 'includes trucking', 'includes rail', 'includes shipping', 'includes air', 'transfers goods', 'efficient for long distances', 'cost-effective','reduces congestion', 'increases efficiency']}
+
+{"concept": "coach railcar", "properties": ['has seats', 'used for transportation', 'located in trains', 'has windows', 'has doors', 'has aisles', 'has rows', 'has luggage storage', 'has food and beverage service', 'has electrical outlets']}
+
+{"concept": "terminal building", "properties": ['located in airports', 'used for check-in', 'used for baggage claim', 'used for departure', 'used for arrival', 'have gates', 'have security checks', 'have ticket counters', 'have restaurants', 'have shops']}
+
+{"concept": "commercial carrier", "properties": ['transport goods', 'have vehicles', 'have drivers', 'deliver packages', 'have routes', 'have schedules', 'charge fees', 'have warehouses', 'have offices', 'have staff']}
+
+{"concept": "department of transportation", "properties": ['government agency','responsible for roads','responsible for traffic','responsible for public transportation','responsible for airports','responsible for highways','responsible for parking','responsible for bike paths','responsible for railroads','responsible for public safety']}
+
+{"concept": "vehicle carrier ship", "properties": ['large ships', 'used for transportation', 'carry cars', 'used for international trade', 'located in oceans', 'used for economies','require large ports','require special equipment', 'used for global commerce', 'are expensive']}
+
+{"concept": "transportation system", "properties": ['used for moving people', 'used for moving goods','made of roads','made of rails','made of airways','made of waterways','managed by governments','managed by private companies', 'used for daily commutes', 'used for long distance travel']}
+
+{"concept": "transitway", "properties": ['used for public transport', 'located in cities', 'used for buses', 'used for trains', 'has tracks', 'has stations', 'used for commuting', 'used for travel','managed by governments', 'has schedules']}
+
+{"concept": "petroleum tanker ship", "properties": ['large ships', 'used for transporting', 'carry liquids','made of steel', 'located in oceans', 'used for trade', 'have engines', 'have propellers', 'have cargo holds', 'used for international trade']}
+
+{"concept": "local transit system", "properties": ['public transportation', 'operates in cities', 'uses buses', 'uses trains', 'uses subways', 'has fixed routes', 'has schedules', 'has fares', 'used for daily commutes','managed by government']}
+
+{"concept": "drilling ship", "properties": ['located in oceans', 'used for oil extraction', 'have drilling equipment', 'have crew', 'used for exploration', 'have cranes', 'used for deep sea', 'have living quarters', 'used for research', 'have drilling rigs']}
+
+{"concept": "full size van", "properties": ['large size', 'used for transporting', 'used for camping', 'used for road trips', 'have sliding doors', 'have large space', 'used for moving', 'have seats for passengers', 'have engine in front', 'used for families']}
+
+{"concept": "maritime blockade", "properties": ['used for economic pressure', 'used in wars', 'prevent ships from entering', 'prevent ships from leaving', 'used for international relations', 'used for sanctions', 'has military implications', 'has economic implications', 'used by navies', 'used for diplomatic purposes']}
+
+{"concept": "dry bulk cargo", "properties": ['carries grains', 'carries minerals', 'carries coal', 'carries iron ore', 'carries steel', 'carries grains', 'carries food', 'carries construction materials', 'carries chemicals', 'carries fertilizers']}
+
+{"concept": "shipping channel", "properties": ['navigable waterway', 'used for international trade', 'located between land', 'used for cargo transport', 'used for oil transport','maintained by authorities','regulated by rules', 'used for passenger transport', 'constructed by humans', 'important for economies']}
+
+{"concept": "transportation device", "properties": ['used for moving', 'used for commuting', 'located in roads', 'located in airports', 'used for travel', 'used for recreation','made of steel','made of rubber', 'used for work', 'used for leisure']}
+
+{"concept": "motor scooter", "properties": ['has engine', 'used for transport', 'has wheels', 'located in cities', 'used for commuting', 'has brakes', 'has gears', 'has handlebars', 'used for recreation', 'has seat']}
+
+{"concept": "fishing trawler", "properties": ['used for fishing', 'located in oceans', 'used for commercial fishing', 'large boats', 'used for catching fish', 'have nets', 'have engines', 'used for deep sea fishing', 'have crews', 'used for seafood harvesting']}
+
+{"concept": "navigation light", "properties": ['located on boats', 'used for safety','red or green', 'used for nighttime', 'used for visibility', 'located on masts', 'used for signaling', 'used for communication','required by law', 'located on ships']}
+
+{"concept": "transportation schedule", "properties": ['lists of times', 'lists of routes','shows arrival and departure','shows bus stops','shows train stations','shows flight times','shows dates','shows times', 'used for planning', 'used for organization']}
+
+{"concept": "managing", "properties": ['involves planning', 'involves decision making', 'involves leadership', 'involves problem solving', 'involves communication', 'involves delegation', 'involves budgeting', 'involves organization', 'involves control', 'involves responsibility']}
+
+{"concept": "turboprop airplane", "properties": ['propellers', 'jet engines', 'used for short distance', 'used for small routes', 'faster than propeller plane', 'used for cargo transport', 'used for passenger transport','made of aluminum', 'located in airports', 'has high efficiency']}
+
+{"concept": "jet airplane", "properties": ['used for long distance travel', 'used for international travel', 'faster than propeller planes', 'used for commercial flights', 'have engines', 'have wings', 'used for business', 'used for vacation', 'have seats', 'have air conditioning']}
+
+{"concept": "organic compound", "properties": ['carbon based', 'found in nature', 'not inorganic', 'can be polymers', 'can be gases', 'can be liquids', 'can be solids', 'can be found in food', 'can be found in plants', 'can be found in animals']}
+
+{"concept": "atmospheric region", "properties": ['located above earth', 'divided into layers', 'contains oxygen', 'contains nitrogen', 'contains carbon dioxide', 'has temperature gradients', 'has pressure gradients', 'has humidity', 'has wind patterns','supports life']}
+
+{"concept": "road junction", "properties": ['where roads meet', 'common in cities', 'used for turns', 'used for directions', 'have traffic lights', 'have signs', 'have lanes', 'have pedestrian crossings', 'used for navigation', 'can be busy']}
+
+{"concept": "passenger car", "properties": ['used for daily commute', 'used for road trips', 'has seats', 'has engine', 'has wheels', 'has doors', 'has windows', 'has air conditioning', 'used for transportation', 'parked in driveways']}
+
+{"concept": "air traffic control procedure", "properties": ['used for safety', 'used for coordination', 'used for communication', 'used for navigation', 'used for weather reporting', 'used for emergency situations', 'used for takeoff', 'used for landing', 'used for air traffic', 'used for pilots']}
+
+{"concept": "keeping", "properties": ['holding something', 'preventing loss','maintaining possession','storing something', 'preserving something','retaining something','safeguarding something', 'custody', 'guarding', 'protecting']}
+
+{"concept": "air traffic control center", "properties": ['located on airports', 'used for guiding planes', 'used for monitoring weather', 'used for monitoring traffic', 'used for issuing instructions', 'used for ensuring safety', 'used for coordinating flights', 'used for handling emergencies', 'used for communicating with pilots','staffed by controllers']}
+
+{"concept": "ship hatch", "properties": ['located on ships', 'used for boarding', 'used for exiting', 'usually small', 'usually metal', 'usually covered', 'usually locked', 'usually opened by keys', 'used for cargo', 'used for passengers']}
+
+{"concept": "ship register", "properties": ['kept by countries', 'list of ships', 'used for taxation', 'used for identification', 'kept by governments', 'contains ship details', 'used for safety', 'used for insurance', 'kept digitally', 'used for regulation']}
+
+{"concept": "shipping lane", "properties": ['used for transportation', 'located in oceans', 'used for cargo', 'used for goods','regulated by laws', 'used for international trade', 'have buoys', 'have markers', 'have traffic rules', 'used for navigation']}
+
+{"concept": "parking garage", "properties": ['used for parking', 'located in cities','made of concrete', 'have ramps', 'have elevators', 'have parking spots', 'have fees', 'located in streets', 'used for daily parking', 'used for monthly parking']}
+
+{"concept": "sport utility vehicle", "properties": ['large size', 'four-wheel drive', 'used for off-road', 'used for towing', 'high ground clearance', 'used for adventure', 'used for camping', 'used for outdoor activities','made of steel', 'used for family trips']}
+
+{"concept": "relational attribute", "properties": ['defines a relationship', 'used in databases', 'used in tables', 'has a domain', 'has a name', 'has a data type', 'used for querying', 'used for filtering', 'used for sorting', 'used in SQL']}
+
+{"concept": "international airport", "properties": ['located near cities', 'have customs', 'have immigration', 'have international flights', 'have duty-free shops', 'have restaurants', 'have parking', 'have security checks', 'have check-in counters', 'have baggage claim areas']}
+
+{"concept": "organic object", "properties": ['found in nature','made of carbon', 'can be plants', 'can be animals', 'can be fungi', 'can be decomposed', 'can be eaten', 'can be poisonous', 'can be used for medicine', 'can be used for food']}
+
+{"concept": "truck trailer", "properties": ['attached to trucks', 'used for transport', 'carries heavy loads', 'has wheels', 'has axles', 'has suspension', 'has brakes', 'has lights', 'has mirrors', 'has hitch']}
+
+{"concept": "legal charge", "properties": ['fine', 'penalty', 'payment for crime', 'amount of money','required by law', 'used for punishment', 'used for compensation', 'used for damages', 'used for fines', 'enforced by courts']}
+
+{"concept": "electronic device", "properties": ['uses electricity', 'has buttons', 'has screens','made of plastic', 'located in homes', 'used for communication', 'used for entertainment', 'has batteries', 'has charging cords','made of metal']}
+
+{"concept": "liner service", "properties": ['provides transportation', 'across bodies of water', 'frequent departures', 'carries cargo', 'carries passengers', 'has regular schedules', 'has routes', 'has ships', 'has crew', 'has captains']}
+
+{"concept": "fuel tank", "properties": ['used for storing', 'used for vehicles','made of metal', 'located under cars', 'filled with liquids', 'connected to engines', 'used for transportation', 'have caps', 'have gauges', 'used for measuring']}
+
+{"concept": "fire boat", "properties": ['used for firefighting', 'located in harbors', 'used for rescues', 'have water cannons', 'have ladders', 'used for saving people', 'located in cities', 'used for extinguishing', 'have hoses', 'used for emergency situations']}
+
+{"concept": "trade embargo", "properties": ['restricts trade', 'imposed by governments', 'limits exports', 'limits imports', 'punitive measure', 'economic sanctions', 'used as diplomatic tool', 'targeted at specific countries', 'can cause economic harm', 'often controversial']}
+
+{"concept": "offshore anchorage", "properties": ['located far from shore', 'used for yachts', 'used for sailboats', 'used for boats', 'provides shelter from wind', 'provides shelter from waves', 'used for navigation', 'used for rest', 'located in oceans','requires anchoring equipment']}
+
+{"concept": "surfaced roadway", "properties": ['made of asphalt', 'used for driving', 'located in cities', 'used for commuting', 'have lanes', 'have traffic signs', 'have traffic lights', 'have pedestrian paths', 'used for transportation', 'have speed limits']}
+
+{"concept": "internal attribute", "properties": ['cannot be seen', 'cannot be touched', 'located within objects', 'cannot be moved', 'cannot be transferred', 'unique to objects', 'cannot be shared', 'cannot be copied', 'cannot be destroyed', 'hidden']}
+
+{"concept": "diesel engine", "properties": ['used in trucks', 'used in cars', 'uses diesel fuel','more efficient', 'used in construction', 'used in agriculture', 'used in ships', 'used in generators', 'used in mining','more powerful']}
+
+{"concept": "transportation company", "properties": ['provide transportation services', 'have vehicles', 'have employees', 'operate buses', 'operate trains', 'operate planes', 'operate ships', 'have routes', 'charge fares', 'have schedules']}
+
+{"concept": "offshore supply ship", "properties": ['used for supply', 'located in oceans', 'used for oil rigs', 'used for workers', 'used for equipment', 'large size', 'used for maintenance', 'used for construction', 'used for repair', 'used for support']}
+
+{"concept": "passenger railway car", "properties": ['moves by rails', 'used for transport', 'has seats', 'has windows', 'has doors', 'has aisles', 'has overhead bins', 'has air conditioning', 'has restrooms','stops at stations']}
