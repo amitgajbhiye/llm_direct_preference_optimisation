@@ -147,9 +147,8 @@ Write the ten most salient properties of the concept "<CONCEPT>".<|eot_id|>
 
 file_name = "llama3_with_3inc_exp_generated_transport_concepts_properties.txt"
 
-print(f"Prompt used is : {llama3_8B_inc_prompt}")
-
-concept_prompts = [llama3_8B_inc_prompt.replace("<CONCEPT>", con) for con in concepts]
+print(f"Prompt used is : {llama3_8B_3inc_prompt}")
+concept_prompts = [llama3_8B_3inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
 with open(file_name, "w") as out_file:
     for concept_prompt in concept_prompts:
