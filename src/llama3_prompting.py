@@ -10,10 +10,8 @@ from transformers import (
     pipeline,
 )
 
-
 base_model = "meta-llama/Meta-Llama-3-8B-Instruct"
-inp_file = "data/ufet/clean_types.txt"
-
+inp_file = "data/ontology_concepts/transport_vocab.txt"
 
 # Quantization configuration
 bnb_config = BitsAndBytesConfig(
