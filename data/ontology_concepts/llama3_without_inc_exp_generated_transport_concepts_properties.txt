@@ -35,7 +35,7 @@
 
 {
 "concept": "spine car",
-"properties": ["mode of transportation", "long and narrow", "carries goods", "supports weight", "flexible", "used in construction", "high-strength steel", "load-bearing", "elevated", "industrial"]
+"properties": ["mode of transportation", "long and narrow", "carries goods", "supports weight", "flexible", "used in construction", "high-strength steel", "load-bearing", "elevated", "industrial"]}
 
 {"concept": "tractor trailer", "properties": ["large truck", "long combination vehicle", "several trailers", "attached to tractor unit", "used for hauling heavy loads", "long distance transportation", "road freight", "heavy-duty equipment", "multiple axle", "high capacity"]}
 
@@ -108,7 +108,7 @@
 "Requires skilled crew and maintenance",
 "Can be self-propelled or towed",
 "Supports global trade and commerce"
-]
+]}
 
 {
 "concept": "arriving",
@@ -226,7 +226,7 @@
 "Requires a runway for takeoff",
 "Has a limited range and speed",
 "Needs a trained pilot for operation"
-]
+]}
 
 {
 "concept": "Intentional Process",
@@ -409,7 +409,7 @@
 "Varying sizes and shapes",
 "Can be customized or modified",
 "Requires maintenance and repair"
-]
+]}
 
 {
 "concept": "navigation buoy",
@@ -628,7 +628,7 @@
 "Popular for thrill-seeking activities",
 "Requires proper licensing and safety gear",
 "Often associated with wakeboarding and skiing"
-]
+]}
 
 {"concept": "bill of lading", "properties": ["document", "shipping", "goods", "transportation", "cargo", "manifest", "inventory", "logistics", "freight", "commerce"]}
 
@@ -647,7 +647,7 @@
 "Provides parking and ground transportation",
 "Has airline check-in and baggage facilities",
 "Regulated by government authorities"
-]
+]}
 
 {
 "concept": "Long Ton",
@@ -998,7 +998,7 @@
 "Potential for environmental damage",
 "Special training and equipment required",
 "Regulations and laws govern handling"
-]
+]}
 
 {"concept": "ship compartment", "properties": ["enclosed space", "watercraft", "partitioned area", "safety zone", "stabilizing factor", "storage capacity", "passenger or cargo area", "separate section", " watertight division", "structural integrity"]}
 
@@ -1220,7 +1220,7 @@
 "Economic and environmental impact",
 "Traffic management and regulation",
 "Global connectivity and accessibility"
-]
+]}
 
 {
 "concept": "transitway",
@@ -1367,7 +1367,7 @@
 "Made of various materials like steel",
 "Has a fuel tank and fuel system",
 "Has a steering system for control"
-]
+]}
 
 {
 "concept": "air traffic control procedure",

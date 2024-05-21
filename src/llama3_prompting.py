@@ -47,7 +47,7 @@ concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 print(f"Number of concepts: {len(concepts)}")
 
 # llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
-# You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+# You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.
 # All output must be in valid JSON. Don't add explanation beyond the JSON.
 # Please ensure that your responses are socially unbiased and positive in nature.
 # If you don't know the answer, please don't share false information.<|eot_id|>
@@ -71,15 +71,62 @@ Don't add any explanations before and after the JSON.
 Concept: <CONCEPT> <|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
-print(f"Prompt used is : {llama3_8B_prompt}")
 
-concept_prompts = [llama3_8B_prompt.replace("<CONCEPT>", con) for con in concepts]
-file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_ueft_concepts_properties.txt".lower()
+llama3_8B_inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "acorn".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "acorn", "properties": ["fruit", "located in trees", "part of oak", "have seeds"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "action figure".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "action figure", "properties": ["doll", "located in toy stores", "used for playing"]}<|eot_id|>
+Write the ten most salient properties of the concept "airplane".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "airplane", "properties": ["a large machine with wings", "have propellers", "used for traveling"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "acne medication".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "acne medication", "properties": ["used for getting rid of pimples", "located in drug stores", "medicine"]}<|end_header_id|
+Write the ten most salient properties of the concept "animals".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "animals", "properties": ["part of ecosystems", "located in pet stores", "have bodies", "used for food"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "shed".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "shed", "properties": ["located in backyard", "used for storage", "have tools"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "<CONCEPT>".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+print(f"Prompt used is : {llama3_8B_inc_prompt}")
+
+concept_prompts = [llama3_8B_inc_prompt.replace("<CONCEPT>", con) for con in concepts]
+# file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_inc_ex__concepts_properties.txt".lower()
+
+file_name = "llama3_with_inc_exp_generated_transport_concepts_properties.txt"
 
 
 with open(file_name, "w") as out_file:
     for concept_prompt in concept_prompts:
-        print (f"concept_prompt: {concept_prompt}")
+        print(f"concept_prompt: {concept_prompt}")
         sequences = pipeline(
             concept_prompt,
             do_sample=True,
