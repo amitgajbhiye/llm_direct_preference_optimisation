@@ -48,15 +48,27 @@ concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 
 print(f"Number of concepts: {len(concepts)}")
 
+# llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+# You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+# All output must be in valid JSON. Don't add explanation beyond the JSON.
+# Please ensure that your responses are socially unbiased and positive in nature.
+# If you don't know the answer, please don't share false information.<|eot_id|>
+# <|start_header_id|>user<|end_header_id|>
+# Write the ten most salient properties of the following concept.
+# Output must be in valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+# All output must include only valid JSON.
+# Don't add any explanations before and after the JSON.
+# Concept: <CONCEPT> <|eot_id|>
+# <|start_header_id|>assistant<|end_header_id|>"""
+
+
 llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
 All output must be in valid JSON. Don't add explanation beyond the JSON.
-Please ensure that your responses are socially unbiased and positive in nature.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
 Write the ten most salient properties of the following concept.
-Output must be in valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
-All output must include only valid JSON.
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
 Don't add any explanations before and after the JSON.
 Concept: <CONCEPT> <|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""

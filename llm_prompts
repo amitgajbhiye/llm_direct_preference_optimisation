@@ -1,3 +1,75 @@
+llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must be in valid JSON. Don't add explanation beyond the JSON.
+Please ensure that your responses are socially unbiased and positive in nature.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Write the ten most salient properties of the following concept.
+Output must be in valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+Concept: <CONCEPT> <|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+
+I have an input file in which records are organised in concept and properties like the following:
+ 
+{
+"concept": "advertisement",
+"properties": [
+"Aims to persuade",
+"Uses various media",
+"Can be informative",
+"Measures response rates",
+"Often features testimonials",
+"May use emotional appeals",
+"Influences consumer choices",
+"Can be regulated",
+"Is a marketing tool",
+"Is a form of communication"
+]}
+
+however, some of the JSON blocks are not complete. There is a missing curly bracket "}" that ends the JSON block FOr example the following record:
+
+{
+"concept": "advertising",
+"properties": [
+"Promotes products or services",
+"Uses various media channels",
+"Targeted to specific audiences",
+"Measures effectiveness",
+"Can be persuasive",
+"Often uses visuals and text",
+"Has various forms (print, digital, etc.)",
+"Influences consumer behavior",
+"Has ethical considerations",
+"Is a multi-billion industry"
+]
+
+Sometimes the curly bracket "}" occurs in the next line after the square bracket "]" like the following record: 
+
+{
+"concept": "advice",
+"properties": [
+"Helpful guidance",
+"Opinion-based",
+"Personal or professional",
+"Given by an expert",
+"Can be explicit or implicit",
+"Intended to benefit",
+"May be sought or given",
+"Can be formal or informal",
+"Can be verbal or written",
+"May be followed or ignored"
+]
+}
+
+I will provide you with a sample file and your job is to extract all "concept" and "properties" pairs keeping in mind the above two types of incomplete records in the file. 
+
+Please find attached the sample file.
+
+
+
 commonsense_prompt = """\n
 [INST] From now on, you are a contestant in the general knowledge quiz contest and always answer all kinds of
 common sense questions accurately. I am the moderator of the game and the final is about to start. [/INST] \n
