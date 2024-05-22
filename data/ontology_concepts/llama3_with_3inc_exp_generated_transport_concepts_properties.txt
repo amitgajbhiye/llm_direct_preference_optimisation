@@ -1,5 +1,3 @@
-
-
 {"concept": "railroad company", "properties": ['transport goods', 'transport people', 'used for business', 'used for tourism', 'located in cities', 'used for cargo', 'used for freight', 'used for passenger', 'owned by investors','managed by executives']}
 
 {"concept": "railway vehicle", "properties": ['used for transport','made of steel', 'located on rails', 'used for commuting', 'used for cargo', 'used for passengers', 'have wheels', 'have engines', 'used for freight', 'have compartments']}

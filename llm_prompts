@@ -1,6 +1,324 @@
 llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
 All output must be in valid JSON. Don't add explanation beyond the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Write the ten most salient properties of the following concept.
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+Concept: <CONCEPT> <|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+
+
+
+llama3_8B_inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "acorn".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "acorn", "properties": ["fruit", "located in trees", "part of oak", "have seeds"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "action figure".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "action figure", "properties": ["doll", "located in toy stores", "used for playing"]}
+Write the ten most salient properties of the concept "airplane".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "airplane", "properties": ["a large machine with wings", "have propellers", "used for traveling"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "acne medication".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "acne medication", "properties": ["used for getting rid of pimples", "located in drug stores", "medicine",]}
+Write the ten most salient properties of the concept "animals".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "animals", "properties": ["part of ecosystems", "located in pet stores", "have bodies", "used for food"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "shed".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "shed", "properties": ["located in backyard", "used for storage", "have tools"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "<CONCEPT>".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+
+{"concept": "bike", "properties": ['used for riding', 'bicycles', 'capable of crashs', 'capable of skids', 'located in garages', 'located in streets', 'located in toy stores', 'used for commuting', 'used for transport', 'common in asia']}
+
+
+{"concept": "boat", "properties": ['located in bodies of water', 'made of fiber', 'means of transport', 'used for fishing', 'located in garages', 'used for recreation', 'used for rowing', 'used for travel', 'have motors', 'have sails']
+
+{"concept": "cake", "properties": ['deserts', 'used for weddings', 'used for special occasions', 'made of eggs', 'located in bakeries', 'located in birthday parties', 'made of flour', 'located in grocery stores', 'used for birthdays', 'baked in ovens']}
+
+
+
+/home/amitgajbhiye/cardiff_work/llm_direct_preference_optimisation/data/ontology_concepts/llama3_with_3inc_exp_generated_transport_concepts_properties.txt
+
+
+isa, hasPart, locatedAt, usedFor
+
+
+{"concept": "acorn", "properties": ["fruit", "located in trees", "part of oak", "have seeds"]}
+
+acorn	located in trees
+acorn	fruit
+acorns	part of oak
+acorns	have seeds
+
+
+{"concept": "action figure", "properties": ["doll", "located in toy stores", "used for playing"]}
+
+action figure	doll
+action figure	located in toy stores
+action figure	used for playing
+
+
+{"concept": "airplane", "properties": ["a large machine with wings", "have propellers", "used for traveling"]}
+
+airplane	aircrafts
+airplane	a large machine with wings
+airplane	used for traveling
+airplane 	have propellers
+
+{"concept": "acne medication", "properties": ["used for getting rid of pimples", "located in drug stores", "medicine",]}
+
+acne medication	used for getting rid of pimples
+acne medication	located in drug stores
+acne medication        medicine
+
+
+{"concept": "animals", "properties": ["part of ecosystems", "located in pet stores", "have bodies", "used for food"]}
+animals	part of ecosystems
+animals	located in pet stores
+animals	have bodies
+animals	used for food
+
+
+{"concept": "banana", "properties": ["edible fruit", "have potassium", "located in stores", "used for eating"]}
+
+bananas	herbs
+bananas	bunchs
+bananas	dessert
+bananas	edible fruit
+bananas	films
+bananas	food
+bananas	fruit
+bananas	hands
+bananas	located in pantries
+bananas	located in stomachs
+bananas	located in stores
+bananas	used for eating
+bananas	yellow
+bananas	have peels
+bananas	have potassium
+
+
+{"concept": "shed", "properties": ["located in backyard", "used for storage", "have tools"]}
+
+sheds	located in ranchs
+sheds	located in backyards
+sheds	used for storage
+sheds	have tools
+
+
+
+animals	located in cafes
+animals	located in fairgrounds
+animals	located in fairs
+animals	located in farms
+
+animals	have meat
+animals	located in pet shops
+animals	located in state parks
+animals	located in woodlands
+animals	located in zoos
+animals	mammals
+animals	organisms
+animals	part of animals
+animals	part of ecology
+animals	part of ecosystems
+animals	part of nature
+animals	singles
+animals	solid objects
+animals	used for companionship
+
+animals	used for fur
+animals	used for pets
+animals	used for petting
+animals	used for races
+animals	desire eats
+animals	have babies
+animals	have bodies
+animals	have bones
+animals	have ears
+animals	have emotion
+animals	have eyes
+animals	have feelings
+animals	have fur
+animals	located in laboratories
+animals	have muscles
+animals	have tails
+
+
+
+
+
+albums	located in book shelfs
+albums	books
+albums	albums
+albums	collections
+albums	located in closets
+albums	located in music stores
+albums	mediums
+albums	sound recordings
+albums	used for launchs
+albums	used for memory
+albums	used for music
+albums	used for play
+albums	used for sells
+albums	have songs
+
+accordions	located in bands
+accordions	located in music stores
+accordions	musical instruments
+accordions	used for fun
+accordions	used for music
+accordions	used for polka music
+accordions	have keyboards
+
+
+
+{"concept": "accelerator", "properties": ["located in vehicles", "part of airplanes", "used for speed"]}
+
+accelerator	located in vehicles
+accelerator	part of airplanes	
+accelerator	used for speed
+
+
+acne medication	located in bathrooms
+acne medication	located in cupboards
+
+acne medication	located in drugstores
+acne medication	located in pharmacies
+acne medication	located in tubes
+acne medication	medicine
+
+
+
+
+airplanes	aircrafts
+airplanes	capable of bombs
+airplanes	capable of stalls
+airplanes	capable of taxis
+airplanes	films
+airplanes	located in air
+airplanes	located in aircraft carriers
+airplanes	located in hangars
+airplanes	located in hangers
+airplanes	located in skies
+airplanes	located in war
+airplanes	used for air transportation
+airplanes	used for cargo
+airplanes	used for flies
+airplanes	used for flight
+airplanes	used for flying
+
+airplanes	used for transportation
+airplanes	used for travel
+airplanes	used for traveling
+airplanes	used for warfare
+airplanes	vehicles
+airplanes	have propellers
+airplanes	have wheels
+airplanes	have wings
+airplanes	capable of crashs
+airplanes	capable of near airports
+
+
+
+acorns	located in forests
+acorns	located in ground
+acorns	located in roofs
+acorns	nuts
+
+acorns	seeds
+
+
+acoustic guitars	acoustic instruments
+acoustic guitars	guitars
+acoustic guitars	located in bands
+acoustic guitars	located in closets
+acoustic guitars	located in houses
+acoustic guitars	located in rock bands
+acoustic guitars	located in studios
+acoustic guitars	used for folk music
+acoustic guitars	used for playing
+acoustic guitars	have string
+
+action figure	doll
+action figure	located in toy stores
+action figure	used for collecting
+action figures	used for fun
+action figures	used for play
+action figures	used for playing
+action figures	used for role playing
+
+
+
+accommodation	id
+accommodation	lteration
+accommodation	helpings
+accommodation	located in inns
+accommodation	located in motels
+accommodation	located in theaters
+accommodation	settlements
+accommodation	used for comfort
+accommodation	used for showers
+accommodation	used for sleep
+accommodation	used for sleeping
+accommodation	used for stays
+
+
+
+subway stations	located in cities
+paddle board	used on water
+scrambled eggs	types of egg dish
+
+
+
+airplanes	used for flying
+
+
+
+acorns	fruit, located in trees, have seeds
+
+acorns	located in forests
+acorns	located in ground
+acorns	located in roofs
+acorns	nuts
+acorns	part of oak
+acorns	seeds
+acorns	
+
+
+llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must be in valid JSON. Don't add explanation beyond the JSON.
 Please ensure that your responses are socially unbiased and positive in nature.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
