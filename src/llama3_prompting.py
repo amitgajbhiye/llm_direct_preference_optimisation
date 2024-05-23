@@ -132,7 +132,7 @@ Write the ten most salient properties of the concept "bike".<|eot_id|>
 Write the ten most salient properties of the concept "boat".<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>
 
-{"concept": "boat", "properties": ["located in bodies of water", "made of fiber", "means of transport", "used for fishing", "located in garages", "used for recreation", "used for rowing", "used for travel", "have motors", "have sails"]<|eot_id|>
+{"concept": "boat", "properties": ["located in bodies of water", "made of fiber", "means of transport", "used for fishing", "located in garages", "used for recreation", "used for rowing", "used for travel", "have motors", "have sails"]}<|eot_id|>
 Write the ten most salient properties of the concept "cake".<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>
 
