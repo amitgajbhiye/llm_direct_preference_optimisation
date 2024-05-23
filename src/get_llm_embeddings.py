@@ -86,7 +86,6 @@ prop_cluster_list = []
 for property_name, cluster_label in property_cluster_map.items():
     prop_cluster_list.append((property_name, cluster_label))
 
-
 print("prop_cluster_list")
 print(prop_cluster_list)
 
@@ -95,7 +94,7 @@ property_cluster_df = pd.DataFrame.from_records(
 )
 
 # property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
-property_cluster_df.sort_values(by="cluster_label", inplace=True)
+property_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
 
 print(f"property_cluster_df")
 print(property_cluster_df)
@@ -104,5 +103,5 @@ property_cluster_df.to_csv("property_cluster_df.txt", sep="\t", index_label=None
 
 
 # Print the properties and their corresponding cluster labels
-for property_name, cluster_label in property_cluster_map.items():
-    print(f"Property: {property_name}, Cluster: {cluster_label}")
+# for property_name, cluster_label in property_cluster_map.items():
+#     print(f"Property: {property_name}, Cluster: {cluster_label}")
