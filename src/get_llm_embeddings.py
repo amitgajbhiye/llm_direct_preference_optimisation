@@ -33,10 +33,7 @@ model = PeftModel.from_pretrained(
 l2v = LLM2Vec(model, tokenizer, pooling_mode="mean", max_length=512)
 
 # Encoding documents. Instruction are not required for documents
-documents = [
-    "As a general guideline, the CDC's average requirement of protein for women ages 19 to 70 is 46 grams per day. But, as you can see from this chart, you'll need to increase that if you're expecting or training for a marathon. Check out the chart below to see how much protein you should be eating each day.",
-    "Definition of summit for English Language Learners. : 1  the highest point of a mountain : the top of a mountain. : 2  the highest level. : 3  a meeting or series of meetings between the leaders of two or more governments.",
-]
+
 
 con_prop_file = "data/ontology_concepts/llama3_with_3inc_exp_con_prop_parsed.txt"
 con_prop_df = pd.read_csv(con_prop_file, sep="\t", names=["concept", "property"])
@@ -49,8 +46,11 @@ print(f"Unique Property")
 
 p_reps = l2v.encode(uniq_props)
 
+print(f"p_reps.shape: {p_reps.shape}")
+
 property_embedding = [(prop, embed) for prop, embed in zip(uniq_props, p_reps)]
 
+print(f"Top 5 props")
 print(property_embedding[0:5])
 
 pickle_output_file = "llm_embeds/llama3_with_3inc_exp_prop_embed.pkl"
