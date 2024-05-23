@@ -1,10 +1,14 @@
-from llm2vec import LLM2Vec
-
-import torch
-import pandas as pd
 import pickle
-from transformers import AutoTokenizer, AutoModel, AutoConfig
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import torch
+from llm2vec import LLM2Vec
 from peft import PeftModel
+from sklearn.cluster import DBSCAN
+from sklearn.preprocessing import StandardScaler
+from transformers import AutoConfig, AutoModel, AutoTokenizer
 
 # Loading base Mistral model, along with custom code that enables bidirectional connections in decoder-only LLMs. MNTP LoRA weights are merged into the base model.
 tokenizer = AutoTokenizer.from_pretrained("McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp")
@@ -43,16 +47,67 @@ print(f"Num Unique Property: {len(uniq_props)}")
 print(f"Unique Property")
 # print(uniq_props)
 
-p_reps = l2v.encode(uniq_props)
+llm_prop_embeds = l2v.encode(uniq_props).detach().cpu().numpy()
 
-print(f"p_reps.shape: {p_reps.shape}")
+print(f"llm_prop_embeds.shape: {llm_prop_embeds.shape}")
 
-property_embedding = [(prop, embed) for prop, embed in zip(uniq_props, p_reps)]
+props_and_embedding = [(prop, embed) for prop, embed in zip(uniq_props, p_reps)]
 
 print(f"Top 5 props")
-print(property_embedding[0:5])
+print(props_and_embedding[0:5])
 
 pickle_output_file = "output_llm_embeds/llama3_with_3inc_exp_prop_embed.pkl"
-
 with open(pickle_output_file, "wb") as pkl_file:
-    pickle.dump(property_embedding, pkl_file)
+    pickle.dump(props_and_embedding, pkl_file)
+
+
+# Assuming 'embeddings' is your array of property embeddings and 'properties' is a list of corresponding property names
+
+# Normalize the embeddings
+scaler = StandardScaler()
+embeddings_normalized = scaler.fit_transform(llm_prop_embeds)
+
+# Perform DBSCAN clustering
+dbscan = DBSCAN(eps=0.5, min_samples=5)
+clusters = dbscan.fit_predict(embeddings_normalized)
+
+# Create a dictionary to map properties to their cluster labels
+property_cluster_map = {
+    property_name: cluster_label
+    for property_name, cluster_label in zip(uniq_props, clusters)
+}
+
+# Print the properties and their corresponding cluster labels
+for property_name, cluster_label in property_cluster_map.items():
+    print(f"Property: {property_name}, Cluster: {cluster_label}")
+
+# Optionally visualize the clusters if the embeddings are 2D or 3D
+# if llm_prop_embeds.shape[1] == 2:
+#     plt.scatter(
+#         embeddings_normalized[:, 0],
+#         embeddings_normalized[:, 1],
+#         c=clusters,
+#         cmap="viridis",
+#     )
+#     plt.title("DBSCAN Clustering (2D Embeddings)")
+#     plt.xlabel("Feature 1")
+#     plt.ylabel("Feature 2")
+#     plt.show()
+
+# elif llm_prop_embeds.shape[1] == 3:
+#     from mpl_toolkits.mplot3d import Axes3D
+
+#     fig = plt.figure()
+#     ax = fig.add_subplot(111, projection="3d")
+#     ax.scatter(
+#         embeddings_normalized[:, 0],
+#         embeddings_normalized[:, 1],
+#         embeddings_normalized[:, 2],
+#         c=clusters,
+#         cmap="viridis",
+#     )
+#     ax.set_title("DBSCAN Clustering (3D Embeddings)")
+#     ax.set_xlabel("Feature 1")
+#     ax.set_ylabel("Feature 2")
+#     ax.set_zlabel("Feature 3")
+#     plt.show()
