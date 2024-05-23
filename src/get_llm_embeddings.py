@@ -70,7 +70,7 @@ scaler = StandardScaler()
 embeddings_normalized = scaler.fit_transform(llm_prop_embeds)
 
 # Perform DBSCAN clustering
-dbscan = DBSCAN(eps=0.5, min_samples=5)
+dbscan = DBSCAN(eps=0.1, min_samples=5)
 clusters = dbscan.fit_predict(embeddings_normalized)
 
 # Create a dictionary to map properties to their cluster labels
@@ -82,34 +82,3 @@ property_cluster_map = {
 # Print the properties and their corresponding cluster labels
 for property_name, cluster_label in property_cluster_map.items():
     print(f"Property: {property_name}, Cluster: {cluster_label}")
-
-# Optionally visualize the clusters if the embeddings are 2D or 3D
-# if llm_prop_embeds.shape[1] == 2:
-#     plt.scatter(
-#         embeddings_normalized[:, 0],
-#         embeddings_normalized[:, 1],
-#         c=clusters,
-#         cmap="viridis",
-#     )
-#     plt.title("DBSCAN Clustering (2D Embeddings)")
-#     plt.xlabel("Feature 1")
-#     plt.ylabel("Feature 2")
-#     plt.show()
-
-# elif llm_prop_embeds.shape[1] == 3:
-#     from mpl_toolkits.mplot3d import Axes3D
-
-#     fig = plt.figure()
-#     ax = fig.add_subplot(111, projection="3d")
-#     ax.scatter(
-#         embeddings_normalized[:, 0],
-#         embeddings_normalized[:, 1],
-#         embeddings_normalized[:, 2],
-#         c=clusters,
-#         cmap="viridis",
-#     )
-#     ax.set_title("DBSCAN Clustering (3D Embeddings)")
-#     ax.set_xlabel("Feature 1")
-#     ax.set_ylabel("Feature 2")
-#     ax.set_zlabel("Feature 3")
-#     plt.show()
