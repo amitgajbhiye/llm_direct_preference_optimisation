@@ -34,7 +34,6 @@ l2v = LLM2Vec(model, tokenizer, pooling_mode="mean", max_length=512)
 
 # Encoding documents. Instruction are not required for documents
 
-
 con_prop_file = "data/ontology_concepts/llama3_with_3inc_exp_con_prop_parsed.txt"
 con_prop_df = pd.read_csv(con_prop_file, sep="\t", names=["concept", "property"])
 
@@ -53,7 +52,7 @@ property_embedding = [(prop, embed) for prop, embed in zip(uniq_props, p_reps)]
 print(f"Top 5 props")
 print(property_embedding[0:5])
 
-pickle_output_file = "llm_embeds/llama3_with_3inc_exp_prop_embed.pkl"
+pickle_output_file = "output_llm_embeds/llama3_with_3inc_exp_prop_embed.pkl"
 
 with open(pickle_output_file, "wb") as pkl_file:
     pickle.dump(property_embedding, pkl_file)
