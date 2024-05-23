@@ -1,6 +1,7 @@
 from llm2vec import LLM2Vec
 
 import torch
+import pandas as pd
 from transformers import AutoTokenizer, AutoModel, AutoConfig
 from peft import PeftModel
 
@@ -36,7 +37,20 @@ documents = [
     "Definition of summit for English Language Learners. : 1  the highest point of a mountain : the top of a mountain. : 2  the highest level. : 3  a meeting or series of meetings between the leaders of two or more governments.",
 ]
 
-d_reps = l2v.encode(documents)
+con_prop_file = "data/ontology_concepts/llama3_with_3inc_exp_con_prop_parsed.txt"
+con_prop_df = pd.read_csv(con_prop_file, sep="\t", names=["concept", "property"])
 
-print("d_reps")
-print(d_reps)
+uniq_props = list(con_prop_df["property"].unique())
+
+print(f"Num Unique Property: {len(uniq_props)}")
+print(f"Unique Property")
+print(uniq_props)
+
+p_reps = l2v.encode(uniq_props)
+
+print("p_reps")
+print(p_reps)
+
+for prop, embed in zip(uniq_props, p_reps):
+    print(prop, embed)
+    print()
