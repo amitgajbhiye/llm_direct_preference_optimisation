@@ -1,16 +1,16 @@
+from llm2vec import LLM2Vec
+
 import torch
 from transformers import AutoTokenizer, AutoModel, AutoConfig
 from peft import PeftModel
 
-from llm2vec import LLM2Vec
-
-MODEL_ID = "McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp-supervised"
-
 # Loading base Mistral model, along with custom code that enables bidirectional connections in decoder-only LLMs. MNTP LoRA weights are merged into the base model.
-tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
-config = AutoConfig.from_pretrained("MODEL_ID", trust_remote_code=True)
+tokenizer = AutoTokenizer.from_pretrained("McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp")
+config = AutoConfig.from_pretrained(
+    "McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp", trust_remote_code=True
+)
 model = AutoModel.from_pretrained(
-    MODEL_ID,
+    "McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp",
     trust_remote_code=True,
     config=config,
     torch_dtype=torch.bfloat16,
@@ -18,12 +18,14 @@ model = AutoModel.from_pretrained(
 )
 model = PeftModel.from_pretrained(
     model,
-    MODEL_ID,
+    "McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp",
 )
 model = model.merge_and_unload()  # This can take several minutes on cpu
 
 # Loading supervised model. This loads the trained LoRA weights on top of MNTP model. Hence the final weights are -- Base model + MNTP (LoRA) + supervised (LoRA).
-model = PeftModel.from_pretrained(model, MODEL_ID)
+model = PeftModel.from_pretrained(
+    model, "McGill-NLP/LLM2Vec-Llama-2-7b-chat-hf-mntp-supervised"
+)
 
 # Wrapper for encoding and pooling operations
 l2v = LLM2Vec(model, tokenizer, pooling_mode="mean", max_length=512)
@@ -45,9 +47,6 @@ documents = [
 ]
 d_reps = l2v.encode(documents)
 
-print("d_reps")
-print(d_reps)
-
 # Compute cosine similarity
 q_reps_norm = torch.nn.functional.normalize(q_reps, p=2, dim=1)
 d_reps_norm = torch.nn.functional.normalize(d_reps, p=2, dim=1)
@@ -55,6 +54,6 @@ cos_sim = torch.mm(q_reps_norm, d_reps_norm.transpose(0, 1))
 
 print(cos_sim)
 """
-tensor([[0.6470, 0.1619],
-        [0.0786, 0.5844]])
+tensor([[0.5417, 0.0780],
+        [0.0627, 0.5726]])
 """
