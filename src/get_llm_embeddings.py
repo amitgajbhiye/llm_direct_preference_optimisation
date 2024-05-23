@@ -2,6 +2,7 @@ from llm2vec import LLM2Vec
 
 import torch
 import pandas as pd
+import pickle
 from transformers import AutoTokenizer, AutoModel, AutoConfig
 from peft import PeftModel
 
@@ -44,13 +45,15 @@ uniq_props = list(con_prop_df["property"].unique())
 
 print(f"Num Unique Property: {len(uniq_props)}")
 print(f"Unique Property")
-print(uniq_props)
+# print(uniq_props)
 
 p_reps = l2v.encode(uniq_props)
 
-print("p_reps")
-print(p_reps)
+property_embedding = [(prop, embed) for prop, embed in zip(uniq_props, p_reps)]
 
-for prop, embed in zip(uniq_props, p_reps):
-    print(prop, embed)
-    print()
+print(property_embedding[0:5])
+
+pickle_output_file = "llm_embeds/llama3_with_3inc_exp_prop_embed.pkl"
+
+with open(pickle_output_file, "wb") as pkl_file:
+    pickle.dump(property_embedding, pkl_file)
