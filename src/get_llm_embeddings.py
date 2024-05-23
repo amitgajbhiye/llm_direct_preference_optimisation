@@ -82,6 +82,7 @@ property_cluster_map = {
 print("property_cluster_map")
 print(property_cluster_map)
 
+
 prop_cluster_list = []
 for property_name, cluster_label in property_cluster_map.items():
     prop_cluster_list.append((property_name, cluster_label))
@@ -99,7 +100,25 @@ property_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=Fals
 print(f"property_cluster_df")
 print(property_cluster_df)
 
-property_cluster_df.to_csv("property_cluster_df.txt", sep="\t", index_label=None)
+property_cluster_df.to_csv("property_cluster_df.txt", sep="\t", index=None)
+
+con_prop_cluster_df = con_prop_df.copy(deep=True)
+
+
+def get_prop_cluster_label(prop):
+    return property_cluster_map[prop]
+
+
+con_prop_cluster_df["cluster_label"] = [
+    get_prop_cluster_label(p) for p in con_prop_cluster_df["property"]
+]
+
+con_prop_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
+
+con_prop_cluster_df.to_csv("con_prop_cluster_df.txt", sep="\t", index=None)
+
+print("con_prop_cluster_df")
+print(con_prop_cluster_df)
 
 
 # Print the properties and their corresponding cluster labels
