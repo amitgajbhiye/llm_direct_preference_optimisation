@@ -79,7 +79,22 @@ property_cluster_map = {
     for property_name, cluster_label in zip(uniq_props, clusters)
 }
 
-property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
+print("property_cluster_map")
+print(property_cluster_map)
+
+prop_cluster_list = []
+for property_name, cluster_label in property_cluster_map.items():
+    prop_cluster_list.append((property_name, cluster_label))
+
+
+print("prop_cluster_list")
+print(prop_cluster_list)
+
+property_cluster_df = pd.DataFrame.from_records(
+    prop_cluster_list, columns=["property", "cluster_label"]
+)
+
+# property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
 property_cluster_df.sort_values(by="cluster_label", inplace=True)
 
 print(f"property_cluster_df")
