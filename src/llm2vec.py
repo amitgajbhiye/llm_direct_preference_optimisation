@@ -1,8 +1,8 @@
-from llm2vec import LLM2Vec
-
 import torch
 from transformers import AutoTokenizer, AutoModel, AutoConfig
 from peft import PeftModel
+
+from llm2vec import LLM2Vec
 
 # Loading base Mistral model, along with custom code that enables bidirectional connections in decoder-only LLMs. MNTP LoRA weights are merged into the base model.
 tokenizer = AutoTokenizer.from_pretrained(
