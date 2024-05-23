@@ -70,7 +70,7 @@ scaler = StandardScaler()
 embeddings_normalized = scaler.fit_transform(llm_prop_embeds)
 
 # Perform DBSCAN clustering
-dbscan = DBSCAN(eps=0.1, min_samples=5)
+dbscan = DBSCAN(eps=1.0, min_samples=5)
 clusters = dbscan.fit_predict(embeddings_normalized)
 
 # Create a dictionary to map properties to their cluster labels
