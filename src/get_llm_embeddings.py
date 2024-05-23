@@ -51,7 +51,9 @@ llm_prop_embeds = l2v.encode(uniq_props).detach().cpu().numpy()
 
 print(f"llm_prop_embeds.shape: {llm_prop_embeds.shape}")
 
-props_and_embedding = [(prop, embed) for prop, embed in zip(uniq_props, p_reps)]
+props_and_embedding = [
+    (prop, embed) for prop, embed in zip(uniq_props, llm_prop_embeds)
+]
 
 print(f"Top 5 props")
 print(props_and_embedding[0:5])
