@@ -79,6 +79,15 @@ property_cluster_map = {
     for property_name, cluster_label in zip(uniq_props, clusters)
 }
 
+property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
+property_cluster_df.sort_values(by="cluster_label", inplace=True)
+
+print(f"property_cluster_df")
+print(property_cluster_df)
+
+property_cluster_df.to_csv("property_cluster_df.txt", sep="\t", index_label=None)
+
+
 # Print the properties and their corresponding cluster labels
 for property_name, cluster_label in property_cluster_map.items():
     print(f"Property: {property_name}, Cluster: {cluster_label}")
