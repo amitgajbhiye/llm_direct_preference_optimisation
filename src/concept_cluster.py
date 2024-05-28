@@ -59,26 +59,32 @@ with open(pickle_output_file, "wb") as pkl_file:
 scaler = StandardScaler()
 embeddings_normalized = scaler.fit_transform(llm_con_embeds)
 
-# Perform DBSCAN clustering
-dbscan = DBSCAN(eps=0.5, min_samples=5, metric="cosine", algorithm="brute")
-clusters = dbscan.fit_predict(embeddings_normalized)
+eps_range = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
+min_samples = [1, 3, 5, 7, 9, 10]
 
-concept_cluster_list = [
-    (con, clus_label) for con, clus_label in zip(concepts, clusters)
-]
+for ep in eps_range:
+    for min in min_samples:
 
-con_cluster_df = pd.DataFrame.from_records(
-    concept_cluster_list, columns=["concept", "cluster_label"]
-)
+        dbscan = DBSCAN(eps=ep, min_samples=min, metric="cosine", algorithm="brute")
+        clusters = dbscan.fit_predict(embeddings_normalized)
 
-# property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
-con_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
+        concept_cluster_list = [
+            (con, clus_label) for con, clus_label in zip(concepts, clusters)
+        ]
 
-print(f"con_cluster_df")
-print(con_cluster_df)
+        con_cluster_df = pd.DataFrame.from_records(
+            concept_cluster_list, columns=["concept", "cluster_label"]
+        )
 
-con_cluster_df.to_csv(
-    "data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/transport_con_cluster_llama38b_embeds.txt",
-    sep="\t",
-    index=None,
-)
+        # property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
+        con_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
+
+        print(f"Eps: {ep}, Min_sam: {min}")
+        print(f"con_cluster_df")
+        print(con_cluster_df)
+
+        con_cluster_df.to_csv(
+            f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/eps{ep}_minsam{min}_transport_con_cluster_llama38b_embeds.txt",
+            sep="\t",
+            index=None,
+        )
