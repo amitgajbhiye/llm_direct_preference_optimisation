@@ -60,8 +60,13 @@ with open(pickle_output_file, "wb") as pkl_file:
 
 
 # Normalize the embeddings
-scaler = StandardScaler()
-embeddings_normalized = scaler.fit_transform(llm_con_embeds)
+# scaler = StandardScaler()
+# embeddings_normalized = scaler.fit_transform(llm_con_embeds)
+
+
+from sklearn.preprocessing import normalize
+normalized_embeddings = normalize(llm_con_embeds, norm='l2')
+
 
 cluster_algo = "HDBSCAN"
 
@@ -100,10 +105,10 @@ if cluster_algo == "HDBSCAN":
 
     def evaluate_hdbscan(min_cluster_size, min_samples):
         clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples, metric='cosine')
-        cluster_labels = clusterer.fit_predict(llm_con_embeds)
+        cluster_labels = clusterer.fit_predict(normalized_embeddings)
         
         if len(set(cluster_labels)) > 1:
-            silhouette_avg = silhouette_score(llm_con_embeds, cluster_labels)
+            silhouette_avg = silhouette_score(normalized_embeddings, cluster_labels)
         else:
             silhouette_avg = -1
         
