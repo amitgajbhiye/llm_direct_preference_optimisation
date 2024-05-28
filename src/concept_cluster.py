@@ -11,7 +11,8 @@ from sklearn.preprocessing import StandardScaler
 from transformers import AutoConfig, AutoModel, AutoTokenizer
 
 from sklearn.metrics import silhouette_score
-
+from scipy.spatial.distance import pdist, squareform
+from sklearn.preprocessing import normalize
 
 # Loading base Mistral model, along with custom code that enables bidirectional connections in decoder-only LLMs.
 tokenizer = AutoTokenizer.from_pretrained(
@@ -59,18 +60,15 @@ with open(pickle_output_file, "wb") as pkl_file:
     pickle.dump(cons_and_embedding, pkl_file)
 
 
-# Normalize the embeddings
-# scaler = StandardScaler()
-# embeddings_normalized = scaler.fit_transform(llm_con_embeds)
-
-
-from sklearn.preprocessing import normalize
-normalized_embeddings = normalize(llm_con_embeds, norm='l2')
-
-
 cluster_algo = "HDBSCAN"
 
 if cluster_algo == "DBSCAN":
+
+    # Normalize the embeddings
+    scaler = StandardScaler()
+    embeddings_normalized = scaler.fit_transform(llm_con_embeds)
+
+
     eps_range = [0.1, 0.3, 0.5, 0.7, 0.9]
     min_samples = [3, 5, 7, 9, 10]
 
@@ -103,9 +101,15 @@ if cluster_algo == "DBSCAN":
 
 if cluster_algo == "HDBSCAN":
 
+    normalized_embeddings = normalize(llm_con_embeds, norm='l2')
+
+    cosine_distances = pdist(normalized_embeddings, metric='cosine')
+    cosine_distance_matrix = squareform(cosine_distances)
+
     def evaluate_hdbscan(min_cluster_size, min_samples):
-        clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples, metric='cosine')
-        cluster_labels = clusterer.fit_predict(normalized_embeddings)
+
+        clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples, metric='precomputed')
+        cluster_labels = clusterer.fit_predict(cosine_distance_matrix)
         
         if len(set(cluster_labels)) > 1:
             silhouette_avg = silhouette_score(normalized_embeddings, cluster_labels)
@@ -128,49 +132,3 @@ if cluster_algo == "HDBSCAN":
     best_min_cluster_size, best_min_samples, best_silhouette, best_cluster_labels = best_result
 
     print(f"Best min_cluster_size: {best_min_cluster_size}, Best min_samples: {best_min_samples}, Best silhouette_score: {best_silhouette}")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    # min_cluster_size = []
-    # min_samples = []
-    
-    # clusters = hdbscan.HDBSCAN(min_cluster_size=2, min_samples=1)
-    # cluster_labels = clusters.fit_predict(llm_con_embeds)
-
-    # concept_cluster_list = [
-    # (con, clus_label) for con, clus_label in zip(concepts, cluster_labels)
-    # ]
-
-    # con_cluster_df = pd.DataFrame.from_records(
-    #     concept_cluster_list, columns=["concept", "cluster_label"]
-    # )
-
-    # con_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
-
-    # print(f"con_cluster_df")
-    # print(con_cluster_df)
-
-    # con_cluster_df.to_csv(
-    #     f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/hdbscan_transport_con_cluster_llama38b_embeds.txt",
-    #     sep="\t",
-    #     index=None,
-    # )
-
-
-
-
