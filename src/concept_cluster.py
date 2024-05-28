@@ -1,6 +1,7 @@
 import pickle
 
 import numpy as np
+import hdbscan
 import pandas as pd
 import torch
 from llm2vec import LLM2Vec
@@ -59,32 +60,63 @@ with open(pickle_output_file, "wb") as pkl_file:
 scaler = StandardScaler()
 embeddings_normalized = scaler.fit_transform(llm_con_embeds)
 
-eps_range = [0.1, 0.3, 0.5, 0.7, 0.9]
-min_samples = [3, 5, 7, 9, 10]
+cluster_algo = "HDBSCAN"
 
-for ep in eps_range:
-    for min in min_samples:
+if cluster_algo == "DBSCAN":
+    eps_range = [0.1, 0.3, 0.5, 0.7, 0.9]
+    min_samples = [3, 5, 7, 9, 10]
 
-        dbscan = DBSCAN(eps=ep, min_samples=min, metric="cosine", algorithm="brute")
-        clusters = dbscan.fit_predict(embeddings_normalized)
+    for ep in eps_range:
+        for min in min_samples:
 
-        concept_cluster_list = [
-            (con, clus_label) for con, clus_label in zip(concepts, clusters)
-        ]
+            dbscan = DBSCAN(eps=ep, min_samples=min, metric="cosine", algorithm="brute")
+            clusters = dbscan.fit_predict(embeddings_normalized)
 
-        con_cluster_df = pd.DataFrame.from_records(
-            concept_cluster_list, columns=["concept", "cluster_label"]
-        )
+            concept_cluster_list = [
+                (con, clus_label) for con, clus_label in zip(concepts, clusters)
+            ]
 
-        # property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
-        con_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
+            con_cluster_df = pd.DataFrame.from_records(
+                concept_cluster_list, columns=["concept", "cluster_label"]
+            )
 
-        print(f"Eps: {ep}, Min_sam: {min}")
-        print(f"con_cluster_df")
-        print(con_cluster_df)
+            # property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
+            con_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
 
-        con_cluster_df.to_csv(
-            f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/eps{str(ep).replace(".", "_")}_minsam{min}_transport_con_cluster_llama38b_embeds.txt",
-            sep="\t",
-            index=None,
-        )
+            print(f"Eps: {ep}, Min_sam: {min}")
+            print(f"con_cluster_df")
+            print(con_cluster_df)
+
+            con_cluster_df.to_csv(
+                f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/eps{str(ep).replace(".", "_")}_minsam{min}_transport_con_cluster_llama38b_embeds.txt",
+                sep="\t",
+                index=None,
+            )
+
+if cluster_algo == "HDBSCAN":
+    
+    clusters = hdbscan.HDBSCAN(min_cluster_size=2, min_samples=1)
+    cluster_labels = clusters.fit_predict(llm_con_embeds)
+
+    concept_cluster_list = [
+    (con, clus_label) for con, clus_label in zip(concepts, cluster_labels)
+    ]
+
+    con_cluster_df = pd.DataFrame.from_records(
+        concept_cluster_list, columns=["concept", "cluster_label"]
+    )
+
+    con_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
+
+    print(f"con_cluster_df")
+    print(con_cluster_df)
+
+    con_cluster_df.to_csv(
+        f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/hdbscan_transport_con_cluster_llama38b_embeds.txt",
+        sep="\t",
+        index=None,
+    )
+
+
+
+
