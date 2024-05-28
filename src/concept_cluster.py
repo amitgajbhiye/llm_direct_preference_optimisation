@@ -59,8 +59,8 @@ with open(pickle_output_file, "wb") as pkl_file:
 scaler = StandardScaler()
 embeddings_normalized = scaler.fit_transform(llm_con_embeds)
 
-eps_range = [0.1, 0.2, 0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9, 1.0]
-min_samples = [1, 3, 5, 7, 9, 10]
+eps_range = [0.1, 0.3, 0.5, 0.7, 0.9]
+min_samples = [3, 5, 7, 9, 10]
 
 for ep in eps_range:
     for min in min_samples:
@@ -84,7 +84,7 @@ for ep in eps_range:
         print(con_cluster_df)
 
         con_cluster_df.to_csv(
-            f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/eps{ep}_minsam{min}_transport_con_cluster_llama38b_embeds.txt",
+            f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/eps{str(ep).replace(".", "_")}_minsam{min}_transport_con_cluster_llama38b_embeds.txt",
             sep="\t",
             index=None,
         )
