@@ -1,19 +1,17 @@
 import os
+
 import pandas as pd
-from datasets import Dataset
 import torch
-from datasets import load_dataset
+from datasets import Dataset, load_dataset
+from peft import LoraConfig, PeftModel, prepare_model_for_kbit_training
 from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
     BitsAndBytesConfig,
-    AutoTokenizer,
     TrainingArguments,
     pipeline,
 )
-from peft import LoraConfig, PeftModel, prepare_model_for_kbit_training
 from trl import SFTTrainer
-
 
 # Model
 base_model = "meta-llama/Llama-2-7b-chat-hf"

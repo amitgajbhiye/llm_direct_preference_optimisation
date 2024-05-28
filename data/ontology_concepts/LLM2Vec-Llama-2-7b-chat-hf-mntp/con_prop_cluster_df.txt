@@ -1,0 +1,2213 @@
+concept	property	cluster_label
+internal attribute	cannot be shared	22
+internal attribute	hidden from view	22
+internal attribute	cannot be seen	22
+internal attribute	cannot be touched	22
+internal attribute	cannot be broken	22
+internal attribute	not visible to naked eye	22
+internal attribute	invisible to human sight	22
+internal attribute	cannot be moved	22
+internal attribute	cannot be copied	22
+keeping	holding onto something	21
+keeping	not throwing something away	21
+keeping	not giving something away	21
+keeping	not losing something	21
+keeping	retaining something	21
+land vehicle	located in parking lots	20
+parking garage	used for parking	20
+department of transportation	responsible for parking	20
+single traffic lane	used for parking	20
+parking garage	have parking spots	20
+land area	used for parks	20
+ship compartment	have walls	19
+light fixture	attached to ceiling	19
+transit shelter	have roofs	19
+transit shelter	have walls	19
+ship compartment	have ceilings	19
+transit shelter	have floors	19
+ship compartment	have floors	19
+canal system	longest in China	18
+broad gauge railway	found in india	18
+broad gauge railway	found in china	18
+broad gauge railway	found in united states	18
+standard gauge railway	found in africa	18
+broad gauge railway	found in russia	18
+fishing trawler	have crews	17
+fish factory ship	has crew	17
+research ship	have crew	17
+fish factory ship	has captain	17
+drilling ship	crewed by professionals	17
+whaling ship	had crews	17
+whaling ship	had captains	17
+freighter	have crew	17
+signalling	used in medicine	16
+refrigerated compartment	used for pharmaceuticals	16
+organic compound	used in medicines	16
+refrigerated compartment	used for medicine	16
+cubic foot	unit of volume	15
+registry ton	unit of measurement	15
+long ton	unit of weight	15
+track gauge	measures width	15
+cubic foot	used for measurement	15
+long ton	used in measurements	15
+registry ton	used in calculating weights	15
+volume measure	measures space	15
+mass measure	used for measuring	15
+mass measure	units of grams	15
+cargo container	have measurements	15
+mass measure	units of kilograms	15
+mass measure	precise measurements	15
+cargo manifest	includes weights	15
+terminal building	used for security checks	14
+radar facility	used for surveillance	14
+deepwater port	have security measures	14
+international airport	have security checks	14
+regulatory process	involves monitoring	14
+commercial airport	have security checks	14
+military watercraft	used for reconnaissance	14
+gallery car	has security	14
+parking garage	have security cameras	14
+intentional process	directed	13
+intentional process	goal-directed	13
+intentional process	purposive	13
+intentional process	goal-oriented	13
+organizational process	involves goals	13
+research ship	used for scientific research	12
+glider airplane	used for research	12
+drilling ship	used for research	12
+signalling	used in science	12
+cubic foot	used in science	12
+volume measure	used in chemistry	12
+scale test car	used in labs	12
+mass measure	used for science	12
+volume measure	used in physics	12
+research ship	have scientists	12
+research ship	have laboratories	12
+tank car	used for chemicals	12
+land area	measured in hectares	11
+volume measure	measured in milliliters	11
+volume measure	measured in cubic feet	11
+volume measure	measured in cubic meters	11
+track gauge	measured in millimeters	11
+volume measure	measured in liters	11
+land area	measured in square kilometers	11
+cubic foot	equals 28.32 liters	11
+land area	measured in acres	11
+land area	measured in square meters	11
+cab car	has meters	11
+volume measure	measured in gallons	11
+crew list	used for organization	10
+relational attribute	used in grouping	10
+set or class	used for grouping	10
+relational attribute	used in sorting	10
+set or class	used for categorization	10
+land vehicle	used for recreation	9
+propeller airplane	used for recreational purposes	9
+fishing boat	used for recreation	9
+water transportation system	used for recreation	9
+watercraft	used for recreation	9
+personal watercraft	used for recreation	9
+passenger ship	have entertainment	9
+electric device	used for entertainment	9
+minivan	has entertainment systems	9
+waterway junction	used for recreation	9
+road vehicle	used for recreation	9
+glider airplane	used for recreational purposes	9
+motor scooter	used for recreation	9
+animal powered vehicle	used for recreation	9
+pier	used for recreation	9
+electronic device	used for entertainment	9
+transportation device	used for recreation	9
+ocean liner	have entertainment	9
+single traffic lane	has no opposite traffic	8
+single traffic lane	has no median	8
+flatcar	has no sides	8
+single traffic lane	has no divider	8
+glider airplane	has no propellers	8
+single traffic lane	has no opposite lane	8
+contract carrier	receive payment	7
+bill of lading	contains payment details	7
+parking garage	have payment systems	7
+legal charge	amount of money	7
+commercial agent	receives commissions	7
+sea lane	subject to weather conditions	6
+atmospheric region	has seasons	6
+air traffic control procedure	used for weather	6
+traffic control process	adjusts according to weather	6
+deck cargo	exposed to weather	6
+radar facility	used for weather forecasting	6
+radar or sonar	used in weather forecasting	6
+atmospheric region	has atmospheric phenomena	6
+deck cargo	not protected from elements	6
+air traffic control center	used for weather reports	6
+research ship	used for studying climate	6
+research ship	used for studying weather	6
+atmospheric region	has weather patterns	6
+department of transportation	responsible for public safety	5
+glider airplane	used for aerodynamics	5
+guiding	providing safety	5
+navigation light	used for safety	5
+scale test car	used for durability testing	5
+scale test car	used for testing	5
+scale test car	used for safety testing	5
+air traffic control procedure	used for safety	5
+scale test car	used for aerodynamics testing	5
+navigation buoy	used for safety	5
+traffic signal	used for safety	5
+petroleum product pipeline	built for safety	5
+scale test car	used for crash testing	5
+petroleum product pipeline	built for durability	5
+air traffic control center	used for safety	5
+scale test car	used for ergonomics testing	5
+traffic light	used for safety	5
+offshore anchorage	requires safety equipment	5
+track gauge	important for safety	5
+crew list	used for safety	5
+air traffic control tower	used for safety	5
+emergency road vehicle	used for emergency	4
+fire engine	used for emergencies	4
+flight deck	used for emergencies	4
+air traffic control center	used for emergency	4
+offshore anchorage	used for emergencies	4
+emergency vehicle	used for ambulance	4
+signalling	used in emergency	4
+fire boat	used for emergencies	4
+road transportation system	used for emergency services	4
+emergency road vehicle	used for ambulance	4
+air traffic control procedure	used for emergencies	4
+traffic control process	prioritizes emergency vehicles	4
+portable bridge	used for emergency situations	4
+minivan	has storage	3
+fishing trawler	used for catching fish	3
+pier	used for fishing	3
+organic object	can be digested	3
+fishing trawler	used for seafood	3
+fishing trawler	have fishing gear	3
+cargo container	used for storage	3
+organic object	can be eaten	3
+ship berth	used for storage	3
+dangerous goods	stored in special facilities	3
+ship compartment	used for storage	3
+refrigerated compartment	used for food storage	3
+terminal building	have restaurants	3
+fish factory ship	used for seafood	3
+fish factory ship	processes fish	3
+ship hold	used for storage	3
+fish factory ship	catches fish	3
+fishing vessel	used for catching fish	3
+organic compound	used in food	3
+dining car	serves food	3
+dining car	has menus	3
+dining car	has waiters	3
+watercraft	used for fishing	3
+dining car	has meals	3
+material handling equipment	used for storage	3
+dining car	has breakfast	3
+commercial shipping	used for refrigerated goods	3
+ocean liner	have restaurants	3
+fishing vessel	used for fishing	3
+refrigerated compartment	used for storage	3
+fishing boat	used for fishing	3
+commercial airport	have restaurants	3
+fishing boat	used for catching fish	3
+mass measure	used for cooking	3
+passenger ship	have restaurants	3
+fishing boat	have storage for fish	3
+chemical tanker ship	have special permits	2
+cabotage	allowed with permits	2
+transportation authority	issues permits	2
+offshore anchorage	requires permits	2
+regulatory process	involves permits	2
+cab car	has special licenses	2
+pier	used for docking	1
+ship berthing	process of docking	1
+pusher tug	used for undocking	1
+petroleum tanker ship	have anchors	1
+ship berthing	requires mooring	1
+ship berthing	requires anchoring	1
+passenger ship	have anchors	1
+ship berth	used for mooring	1
+pusher tug	used for docking	1
+ship berth	used for anchoring	1
+ship berth	used for docking	1
+ship agent	helps with docking	1
+ship deck	have anchors	1
+truck tractor	used for transportation	0
+truck tractor	used for hauling	0
+material handling equipment	used in warehouses	0
+material handling equipment	used in industries	0
+material handling equipment	used for transportation	0
+truck tractor	large vehicles	0
+commercial airport	have gates	0
+material handling equipment	mechanical devices	0
+ship compartment	have doors	0
+light fixture	electrical	0
+material handling equipment	used for manufacturing	0
+organizational process	involves communication	0
+gallery car	has lights	0
+ocean liner	used for vacations	0
+material handling equipment	used for lifting	0
+ocean liner	located in ports	0
+light fixture	provide light	0
+light fixture	located in rooms	0
+waterway junction	used for commerce	0
+waterway junction	used for transportation	0
+ocean liner	used for long distance travel	0
+light fixture	used for illumination	0
+waterway junction	located in ports	0
+material handling equipment	used for moving	0
+lighter	small device	0
+lighter	has ignition	0
+lighter	used for fire starting	0
+radar facility	used for navigation	0
+port city	used for shipping	0
+radar facility	located in airports	0
+truck tractor	used for long distances	0
+port city	used for trade	0
+radar facility	used for military purposes	0
+radar facility	used for air traffic control	0
+traffic light	located in intersections	0
+commercial airport	used for flights	0
+radar facility	located in mountains	0
+radar facility	used for monitoring	0
+moving violation	done in highways	0
+port city	have cargo	0
+moving violation	done in public roads	0
+moving violation	done in buses	0
+moving violation	done in trucks	0
+moving violation	done in cars	0
+port city	located by water	0
+electric motor	powered by electricity	0
+electric motor	used in vehicles	0
+broad gauge railway	used for passengers	0
+lighter	has fuel	0
+light fixture	require wiring	0
+lighter	used for fire	0
+truck tractor	have engines	0
+truck tractor	have wheels	0
+truck tractor	used for construction	0
+ocean liner	used for cruises	0
+broad gauge railway	used for cargo	0
+ocean liner	used for transportation	0
+truck tractor	used for farming	0
+broad gauge railway	used for high speeds	0
+broad gauge railway	used for heavy loads	0
+truck tractor	used for heavy loads	0
+broad gauge railway	tracks are wider	0
+broad gauge railway	used for transportation	0
+electric motor	converts electricity	0
+light fixture	have bulbs	0
+commercial airport	used for international travel	0
+waterway junction	used for navigation	0
+tugboat	located in shipyards	0
+tugboat	have engines	0
+tugboat	used for maritime	0
+cargo container	used for shipping	0
+transit terminal	located in cities	0
+cargo container	used for transportation	0
+transit terminal	used for buses	0
+road transportation system	uses vehicles	0
+bulk cargo	used for international trade	0
+bulk cargo	carried by ships	0
+road transportation system	uses roads	0
+transit stop	have gates	0
+transit stop	have signs	0
+transit stop	have stops	0
+bulk cargo	large quantities	0
+long ton	used in industry	0
+tugboat	used for construction	0
+tugboat	used for navigation	0
+water area	located in nature	0
+road transportation system	used for daily commutes	0
+ship compartment	used for passengers	0
+ship compartment	used for cargo	0
+tugboat	used for towing	0
+ship compartment	located on ships	0
+bulk cargo	used for economies	0
+dangerous goods	regulated by laws	0
+tugboat	located in harbors	0
+bulk cargo	includes oil	0
+road transportation system	maintained by infrastructure	0
+road transportation system	uses signs	0
+road transportation system	regulated by laws	0
+road transportation system	managed by government	0
+road transportation system	uses fuel	0
+ship compartment	have windows	0
+road transportation system	used for long trips	0
+transit stop	have trains	0
+transit stop	have buses	0
+transit terminal	used for trains	0
+transit stop	used for public transportation	0
+transit terminal	located in downtown	0
+fish factory ship	located in oceans	0
+long ton	used in construction	0
+water area	used for swimming	0
+water area	used for drinking	0
+water area	found in reservoirs	0
+water area	found in ponds	0
+water area	found in seas	0
+waterway junction	where rivers meet	0
+water area	found in rivers	0
+long ton	used in shipping	0
+water area	found in lakes	0
+water area	found in oceans	0
+water area	made of water	0
+waterway junction	where canals meet	0
+unpaved runway	located at airports	0
+fish factory ship	used for export	0
+unpaved runway	used for takeoff	0
+canal lock	raises or lowers boats	0
+transit stop	located along roads	0
+canal lock	used for water management	0
+cargo container	located in ports	0
+canal lock	used for water conservation	0
+canal lock	has water gates	0
+canal lock	used for navigation	0
+canal lock	located in canals	0
+unpaved runway	used for landing	0
+transit terminal	used for ferries	0
+cargo container	have doors	0
+cargo container	have wheels	0
+moving violation	traffic offense	0
+cargo container	used for international trade	0
+canal lock	used for water level control	0
+moving violation	done while moving	0
+head end car	car with lights	0
+vehicle crew	located in ships	0
+dual gauge railway	used for border crossing	0
+dual gauge railway	has different track widths	0
+turbojet engine	used in airplanes	0
+fixed bridge	used for traffic	0
+fixed bridge	located in oceans	0
+fixed bridge	located in rivers	0
+fixed bridge	used for crossing	0
+fixed bridge	connects two areas	0
+flight schedule	used for planning trips	0
+flight schedule	showing arrival and departure dates	0
+flight schedule	showing flight numbers	0
+flight schedule	showing layovers	0
+dual gauge railway	used for freight transport	0
+flight schedule	showing departure and arrival times	0
+flight schedule	published by airlines	0
+flight schedule	showing flight frequencies	0
+flight schedule	showing flight routes	0
+dual gauge railway	used for passenger transport	0
+flight schedule	showing flight timings	0
+petroleum product pipeline	managed by companies	0
+turbojet engine	generate thrust	0
+turbojet engine	use jet fuel	0
+turbojet engine	used in military	0
+guiding	providing information	0
+bulkhead	used in shipbuilding	0
+port facility	used for exporting goods	0
+port facility	used for international trade	0
+port facility	managed by authorities	0
+guiding	used for traveling	0
+guiding	providing orientation	0
+guiding	helping navigation	0
+dual gauge railway	carries different gauge trains	0
+guiding	providing directions	0
+turbojet engine	used in commercial	0
+dual gauge railway	used in multiple countries	0
+dual gauge railway	has different rail sizes	0
+whaling ship	used for commercial purposes	0
+whaling ship	used for harvesting	0
+whaling ship	located in oceans	0
+turbojet engine	generate high speed	0
+turbojet engine	used in space	0
+dual gauge railway	used for international transport	0
+dual gauge railway	has separate tracks	0
+commercial agent	works on behalf of company	0
+port facility	used for receiving goods	0
+canal system	network of waterways	0
+private railcar	owned by individuals	0
+private railcar	used for business	0
+electrified railway	have overhead wires	0
+private railcar	located in train stations	0
+private railcar	have private rooms	0
+private railcar	used for vacations	0
+head end car	car with engine	0
+head end car	car with driver	0
+electrified railway	used for passenger	0
+head end car	car with brakes	0
+electrified railway	used for freight	0
+electrified railway	used for commuter	0
+electrified railway	used for high speeds	0
+head end car	car with wheels	0
+electrified railway	used for long distances	0
+head end car	car with seats	0
+electrified railway	powered by electricity	0
+head end car	car with doors	0
+head end car	car with windows	0
+private railcar	used for transport	0
+canal system	connects rivers	0
+canal system	used for irrigation	0
+paved runway	has lights	0
+canal system	used for transportation	0
+canal system	located in cities	0
+petroleum product pipeline	used for commerce	0
+petroleum product pipeline	long distances	0
+petroleum product pipeline	used for transportation	0
+petroleum product pipeline	transports oil	0
+paved runway	used for air travel	0
+paved runway	has signs	0
+paved runway	used for aircraft	0
+mass measure	used for commerce	0
+canal system	used for trade	0
+paved runway	made of asphalt	0
+paved runway	located in airports	0
+paved runway	used for landing	0
+paved runway	used for takeoff	0
+railroad company	transport people	0
+mass measure	used for construction	0
+mass measure	used for engineering	0
+bulkhead	used in construction	0
+bulkhead	used in aircraft	0
+vehicle crew	located in trains	0
+port crane	used for loading	0
+port crane	have cables	0
+port crane	have wheels	0
+transit route	used for transportation	0
+transit route	made of roads	0
+transit route	made of rails	0
+transit route	used for buses	0
+transit route	used for trains	0
+port crane	used for heavy lifting	0
+port crane	large in size	0
+transit route	used for cars	0
+transit route	located in cities	0
+port crane	used for shipping	0
+transit route	used for daily commutes	0
+port crane	located in ports	0
+port crane	used for unloading	0
+transit route	used for long distance travel	0
+transit route	has stops	0
+pusher tug	large vessel	0
+pusher tug	used for towing	0
+port crane	used for cargo handling	0
+port city	have economic importance	0
+port crane	mechanized equipment	0
+military watercraft	located in harbors	0
+port city	have ships	0
+vehicle crew	located in buses	0
+vehicle crew	located in trucks	0
+port city	have sailors	0
+vehicle crew	located in cars	0
+vehicle crew	passengers	0
+vehicle crew	drivers	0
+military watercraft	used for special operations	0
+port city	used for commerce	0
+river port	located near rivers	0
+military watercraft	used for transport	0
+military watercraft	used for amphibious assault	0
+military watercraft	used for naval warfare	0
+river port	have waterways	0
+head end car	car with mirrors	0
+river port	used for international trade	0
+river port	used for transportation	0
+river port	used for cargo	0
+pusher tug	used in harbors	0
+pusher tug	has engines	0
+bulkhead	used in buildings	0
+pusher tug	used in shipyards	0
+sea lane	navigated by ships	0
+electronic signalling	used in data transmission	0
+electronic signalling	used in communication	0
+electronic signalling	transfers information	0
+electronic signalling	uses wires	0
+electronic signalling	uses electricity	0
+deck crane	used for construction	0
+deck crane	used for cargo handling	0
+deck crane	attached to ships	0
+deck crane	used for heavy lifting	0
+traffic light	red means stop	0
+deck crane	mechanical device	0
+deck crane	used for unloading	0
+deck crane	used for loading	0
+deck crane	used for lifting	0
+deck crane	located on ships	0
+bulkhead	used in ship repair	0
+bulkhead	used in naval architecture	0
+bulkhead	used in marine engineering	0
+sea lane	located in oceans	0
+sea lane	used for trade	0
+sea lane	used for travel	0
+canal lock gate	controlled by operators	0
+signalling	used in navigation	0
+signalling	used in traffic	0
+signalling	used for directions	0
+signalling	way of communication	0
+canal lock gate	used for water flow management	0
+pusher tug	used for maintenance	0
+canal lock gate	have mechanical systems	0
+canal lock gate	used for boat lift	0
+canal lock gate	used for water transportation	0
+sea lane	regulated by authorities	0
+canal lock gate	moveable	0
+canal lock gate	used for navigation	0
+canal lock gate	located in canals	0
+canal lock gate	used for water level control	0
+port facility	located near oceans	0
+sea lane	used for passenger	0
+port facility	used for shipping	0
+sea lane	used for cargo	0
+river port	used for logistics	0
+railroad company	transport goods	0
+traffic light	located in cities	0
+road junction	located in cities	0
+passenger car	has windows	0
+passenger car	has doors	0
+passenger car	has engine	0
+passenger car	has wheels	0
+passenger car	located on roads	0
+passenger car	used for transportation	0
+passenger car	has seats	0
+passenger car	used for daily commute	0
+road junction	have lanes	0
+road junction	used for navigation	0
+road junction	have traffic signals	0
+passenger car	used for driving	0
+road junction	have stop signs	0
+road junction	have traffic lights	0
+road junction	used for traffic	0
+road junction	intersection of roads	0
+atmospheric region	located above the earth	0
+organic compound	found in soil	0
+jet airplane	have seats	0
+jet airplane	used for military	0
+jet airplane	used for business	0
+jet airplane	located in airports	0
+passenger car	has mirrors	0
+air traffic control procedure	involve communication	0
+jet airplane	powered by engines	0
+ship hatch	used for passengers	0
+shipping lane	located in oceans	0
+shipping lane	used for transportation	0
+ship register	contains ship location	0
+ship register	contains ship speed	0
+ship register	contains ship size	0
+ship register	contains ship type	0
+ship register	contains ship owner	0
+ship register	contains ship details	0
+ship register	kept by government	0
+ship hatch	have windows	0
+ship hatch	used for cargo	0
+air traffic control procedure	used for landing	0
+ship hatch	have doors	0
+ship hatch	located on ships	0
+air traffic control center	used for navigation	0
+air traffic control center	used for traffic management	0
+air traffic control center	used for communicating	0
+air traffic control center	used for guiding planes	0
+air traffic control center	located in airports	0
+keeping	conservation of something	0
+air traffic control procedure	used for navigation	0
+air traffic control procedure	used for takeoff	0
+jet airplane	used for long distance travel	0
+jet airplane	flying at high speeds	0
+shipping lane	regulated by authorities	0
+transportation device	used for business	0
+motor scooter	used for short trips	0
+motor scooter	have wheels	0
+motor scooter	located in roads	0
+motor scooter	used for commuting	0
+motor scooter	used for transport	0
+motor scooter	powered by engines	0
+transportation device	used for daily life	0
+transportation device	have seats	0
+transportation device	have wheels	0
+transportation device	have engines	0
+transportation device	used for commuting	0
+motor scooter	used for city driving	0
+transportation device	located in roads	0
+transportation device	used for travel	0
+transportation device	means of movement	0
+shipping channel	have restrictions	0
+shipping channel	have rules	0
+shipping channel	used for commerce	0
+shipping channel	used for international trade	0
+shipping channel	have lights	0
+shipping channel	used for trade	0
+shipping channel	located in seas	0
+motor scooter	have brakes	0
+fishing trawler	located in seas	0
+turboprop airplane	used for commuter flights	0
+transportation schedule	showing stops	0
+turboprop airplane	used for regional flights	0
+turboprop airplane	used for passenger transport	0
+turboprop airplane	used for cargo transport	0
+turboprop airplane	used for small airports	0
+managing	involves communication	0
+transportation schedule	showing arrival times	0
+transportation schedule	showing departure times	0
+transportation schedule	showing vehicles	0
+transportation schedule	showing routes	0
+transportation schedule	showing frequencies	0
+transportation schedule	showing routes	0
+fishing trawler	large boats	0
+transportation schedule	showing time and date	0
+navigation light	regulated by maritime laws	0
+navigation light	has red, green, and white lights	0
+navigation light	used for night sailing	0
+navigation light	located on masts	0
+navigation light	indicates direction	0
+navigation light	used on boats	0
+fishing trawler	used for long trips	0
+fishing trawler	have engines	0
+fishing trawler	used for commercial purposes	0
+shipping lane	used for cargo	0
+shipping lane	used for international trade	0
+dry bulk cargo	used for economic growth	0
+offshore anchorage	used for maintenance	0
+diesel engine	used in trucks	0
+surfaced roadway	has road markings	0
+surfaced roadway	has traffic signs	0
+surfaced roadway	has lanes	0
+surfaced roadway	used for travel	0
+surfaced roadway	used for commuting	0
+surfaced roadway	located in highways	0
+surfaced roadway	located in cities	0
+surfaced roadway	used for driving	0
+surfaced roadway	made of asphalt	0
+offshore anchorage	used for refueling	0
+diesel engine	used in buses	0
+offshore anchorage	used for repairs	0
+offshore anchorage	requires navigation	0
+offshore anchorage	used for ships	0
+offshore anchorage	used for boats	0
+offshore anchorage	located in open sea	0
+trade embargo	hurts citizens	0
+trade embargo	hurts businesses	0
+trade embargo	hurts economy	0
+trade embargo	targeting specific countries	0
+trade embargo	imposed by governments	0
+diesel engine	used in cars	0
+diesel engine	used in construction	0
+fire boat	have fire hoses	0
+offshore supply ship	have cargo holds	0
+passenger railway car	has luggage space	0
+passenger railway car	has doors	0
+passenger railway car	has windows	0
+passenger railway car	has seats	0
+passenger railway car	located on trains	0
+passenger railway car	used for transportation	0
+offshore supply ship	used for supporting industries	0
+offshore supply ship	have engines	0
+offshore supply ship	used for construction	0
+offshore supply ship	used for maintenance	0
+offshore supply ship	used for oil rigs	0
+diesel engine	used in agriculture	0
+offshore supply ship	located in oceans	0
+offshore supply ship	used for transporting goods	0
+transportation company	have routes	0
+transportation company	used for goods	0
+transportation company	used for commuting	0
+transportation company	located in cities	0
+transportation company	have drivers	0
+transportation company	have vehicles	0
+transportation company	provide services	0
+diesel engine	used in industry	0
+trade embargo	restriction on imports	0
+fire boat	located in ports	0
+shipping lane	have traffic rules	0
+sport utility vehicle	have engines	0
+truck trailer	used for hauling	0
+truck trailer	used for moving	0
+truck trailer	large in size	0
+truck trailer	used for transport	0
+truck trailer	attached to trucks	0
+organic object	grows in nature	0
+international airport	have flights	0
+international airport	used for travel	0
+international airport	located near cities	0
+sport utility vehicle	used for towing	0
+sport utility vehicle	used for outdoor activities	0
+truck trailer	have wheels	0
+sport utility vehicle	four wheel drive	0
+sport utility vehicle	large size	0
+parking garage	have lighting	0
+parking garage	have gates	0
+parking garage	located in buildings	0
+parking garage	located in cities	0
+shipping lane	have maritime laws	0
+shipping lane	used for oil transport	0
+shipping lane	used for bulk goods	0
+shipping lane	have navigation aids	0
+truck trailer	used for heavy loads	0
+truck trailer	have axles	0
+fire boat	used for marine firefighting	0
+liner service	stops in multiple ports	0
+fire boat	have water cannons	0
+fire boat	located in water	0
+fire boat	used for firefighting	0
+fuel tank	filled with gas	0
+fuel tank	used for transportation	0
+fuel tank	holds liquid	0
+fuel tank	located in cars	0
+liner service	expensive	0
+liner service	large ships	0
+liner service	used for international travel	0
+liner service	used for passengers	0
+truck trailer	used for construction	0
+liner service	used for cargo	0
+liner service	long distance travel	0
+electronic device	located in homes	0
+electronic device	located in offices	0
+electronic device	used for work	0
+electronic device	used for communication	0
+electronic device	has wires	0
+electronic device	uses electricity	0
+legal charge	paid by governments	0
+legal charge	paid by companies	0
+shipping channel	used for navigation	0
+dry bulk cargo	used for international trade	0
+traffic light	located in roads	0
+mode of transit	have vehicles	0
+light truck	used for construction	0
+light truck	used for work	0
+light truck	have engines	0
+light truck	have four wheels	0
+light truck	used for towing	0
+light truck	used for hauling	0
+single traffic lane	used for stopping	0
+single traffic lane	located on roads	0
+single traffic lane	used for driving	0
+mode of transit	used for daily life	0
+mode of transit	have routes	0
+port embargo	applied to countries	0
+mode of transit	used for transport	0
+mode of transit	used for travel	0
+mode of transit	used for commuting	0
+mode of transit	means of moving	0
+outfit car	have engine	0
+outfit car	have seats	0
+outfit car	have doors	0
+outfit car	have wheels	0
+outfit car	used for transportation	0
+outfit car	located in roads	0
+port embargo	imposed by governments	0
+port embargo	hurts economies	0
+ship agent	assists with maintenance	0
+train station	located near tracks	0
+electrical signalling	uses voltage	0
+electrical signalling	uses wires	0
+electrical signalling	used in communication	0
+electrical signalling	uses electricity	0
+train station	managed by authorities	0
+train station	have arrivals	0
+train station	have departures	0
+train station	located in cities	0
+train station	have trains	0
+train station	used for travel	0
+container ship	used for global supply chain	0
+port embargo	affects trade	0
+container ship	have cargo holds	0
+container ship	used for transportation	0
+container ship	located in ports	0
+container ship	have containers	0
+container ship	used for transporting goods	0
+container ship	carry cargo	0
+container ship	used for international trade	0
+container ship	large size	0
+port embargo	affects industries	0
+port embargo	can cause inflation	0
+outfit car	used for driving	0
+hoisting device	used for moving heavy loads	0
+electrical signalling	used in information exchange	0
+railroad track	used for trains	0
+passenger ship	used for cruises	0
+passenger ship	used for vacations	0
+passenger ship	located in oceans	0
+passenger ship	used for transport	0
+railroad track	used for freight	0
+railroad track	have signals	0
+railroad track	have rails	0
+railroad track	used for transport	0
+railroad track	located in cities	0
+railroad track	located in countryside	0
+rail transportation system	have signaling systems	0
+deck cargo	carried on top of ships	0
+rail transportation system	used for high speeds	0
+rail transportation system	electrified in some cases	0
+rail transportation system	have tracks	0
+rail transportation system	have trains	0
+rail transportation system	located in stations	0
+rail transportation system	used for passengers	0
+rail transportation system	used for freight	0
+rail transportation system	used for heavy loads	0
+rail transportation system	used for long distances	0
+traffic light	used for traffic control	0
+deck cargo	carried on ships	0
+deck cargo	carried in bulk	0
+hoisting device	has cables	0
+freighter	located in ports	0
+hoisting device	used in warehouses	0
+hoisting device	used in ports	0
+hoisting device	used in factories	0
+hoisting device	electrically powered	0
+hoisting device	mechanical	0
+hoisting device	used in construction	0
+hoisting device	lifts heavy objects	0
+freighter	have containers	0
+freighter	used for logistics	0
+freighter	used for transportation	0
+freighter	have cargo holds	0
+deck cargo	carried in containers	0
+freighter	used for international trade	0
+freighter	used for cargo	0
+freighter	large ships	0
+jet engine	used for flight	0
+jet engine	has high speed	0
+jet engine	used for propulsion	0
+jet engine	located in aircraft	0
+jet engine	uses fuel	0
+jet engine	used in airplanes	0
+deck cargo	carried for international trade	0
+electrical signalling	used in data transfer	0
+cargo ship	used for transporting goods	0
+dry bulk cargo	transported by ships	0
+petroleum tanker ship	large ships	0
+local transit system	operates in cities	0
+local transit system	public transportation	0
+local transit system	used for daily commutes	0
+petroleum tanker ship	have cargo holds	0
+petroleum tanker ship	have engines	0
+petroleum tanker ship	used for trade	0
+petroleum tanker ship	located in oceans	0
+petroleum tanker ship	used for commerce	0
+petroleum tanker ship	used for transportation	0
+petroleum tanker ship	carry oil	0
+transitway	used for rapid transit	0
+local transit system	has trains	0
+transitway	used for express buses	0
+transitway	has traffic signals	0
+transitway	has lanes for buses	0
+transitway	located in cities	0
+transitway	used for commuting	0
+transitway	separate from regular traffic	0
+transitway	highway for buses	0
+transitway	public transportation	0
+transportation system	waterways and ports	0
+transportation system	buses and bus stations	0
+local transit system	has buses	0
+local transit system	has routes	0
+transportation system	airports and airlines	0
+full size van	have sliding doors	0
+maritime blockade	requires international law	0
+maritime blockade	can cause economic harm	0
+maritime blockade	enforced by naval vessels	0
+maritime blockade	used in wartime	0
+maritime blockade	used as military tactic	0
+full size van	used for business purposes	0
+full size van	have cargo space	0
+full size van	used for road trips	0
+full size van	used for family trips	0
+full size van	have seats	0
+full size van	used for moving	0
+local transit system	used for daily routine	0
+full size van	used for transportation	0
+full size van	large size	0
+drilling ship	used for gas extraction	0
+drilling ship	expensive equipment	0
+drilling ship	large size	0
+drilling ship	used for deep sea drilling	0
+drilling ship	located in oceans	0
+drilling ship	used for oil extraction	0
+local transit system	used for low cost travel	0
+local transit system	managed by government	0
+transportation system	trains and railways	0
+transportation system	roads and highways	0
+cargo ship	large size	0
+intermodal transportation	moves people	0
+commercial carrier	transports goods	0
+terminal building	have gates	0
+terminal building	located in airports	0
+coach railcar	located on rails	0
+coach railcar	used for transportation	0
+coach railcar	has wheels	0
+coach railcar	has doors	0
+coach railcar	has windows	0
+coach railcar	has seats	0
+coach railcar	carries passengers	0
+intermodal transportation	moves goods	0
+commercial carrier	operates trucks	0
+intermodal transportation	uses planes	0
+intermodal transportation	uses ships	0
+intermodal transportation	uses trains	0
+intermodal transportation	uses trucks	0
+cargo ship	sail on seas	0
+cargo ship	used for carrying goods	0
+cargo ship	have engines	0
+cargo ship	have containers	0
+cargo ship	located in ports	0
+cargo ship	used for international trade	0
+commercial carrier	operates planes	0
+commercial carrier	operates ships	0
+transportation system	moves goods	0
+department of transportation	responsible for traffic lights	0
+transportation system	moves people	0
+vehicle carrier ship	used for commerce	0
+vehicle carrier ship	have engines	0
+vehicle carrier ship	have cargo holds	0
+vehicle carrier ship	used for international trade	0
+vehicle carrier ship	located in oceans	0
+vehicle carrier ship	used for transportation	0
+vehicle carrier ship	carry vehicles	0
+vehicle carrier ship	large ships	0
+department of transportation	responsible for infrastructure	0
+department of transportation	responsible for traffic signs	0
+commercial carrier	used for business	0
+department of transportation	responsible for bike lanes	0
+department of transportation	responsible for public transportation	0
+department of transportation	responsible for traffic	0
+department of transportation	responsible for roads	0
+department of transportation	government agency	0
+commercial carrier	has routes	0
+commercial carrier	used for commerce	0
+commercial carrier	used for trade	0
+commercial carrier	has passengers	0
+commercial carrier	has cargo	0
+ship agent	specializes in maritime services	0
+passenger railway car	used for commuting	0
+ship agent	assists with fuel	0
+rolling stock	used for cargo	0
+ship berth	used for maintenance	0
+water transportation system	require infrastructure	0
+common carrier	transport goods or people	0
+ship berth	located in ports	0
+rolling stock	move on rails	0
+common carrier	operates buses	0
+common carrier	operates trains	0
+rolling stock	used for freight	0
+rolling stock	have wheels	0
+common carrier	operates ships	0
+rolling stock	powered by engines	0
+rolling stock	used for passengers	0
+rolling stock	used for goods	0
+rolling stock	located in train yards	0
+rolling stock	used for transportation	0
+cubic foot	used in architecture	0
+cubic foot	used in industry	0
+cubic foot	used in trade	0
+ship berth	used for refueling	0
+ship berth	used for repairs	0
+ship berth	used for cargo	0
+ship berth	used for passenger	0
+navigation buoy	located in harbors	0
+navigation buoy	used for guidance	0
+water transportation system	means of transport	0
+water transportation system	used for commerce	0
+navigation buoy	have lights	0
+water transportation system	located in ports	0
+navigation buoy	used for navigation	0
+navigation buoy	located in water	0
+land vehicle	used for daily life	0
+land vehicle	have engines	0
+water transportation system	used for cargo	0
+water transportation system	used for passengers	0
+land vehicle	have wheels	0
+land vehicle	used for work	0
+land vehicle	used for commuting	0
+land vehicle	moves on roads	0
+land vehicle	used for transport	0
+cubic foot	used in engineering	0
+cubic foot	used in construction	0
+navigation buoy	located in channels	0
+deepwater port	used for international trade	0
+railcar carrier ship	large size	0
+containerization	used in international trade	0
+deepwater port	managed by authorities	0
+deepwater port	located in coastal areas	0
+containerization	used in cargo	0
+deepwater port	used for importing	0
+deepwater port	used for exporting	0
+deepwater port	large ships dock	0
+deepwater port	located near ocean	0
+freight car	used for logistics	0
+air route	have flight plans	0
+air route	have distances	0
+air route	have routes	0
+air route	established by airlines	0
+air route	used for flights	0
+air route	between cities	0
+containerization	used in logistics	0
+air route	used for transportation	0
+containerization	standardized sizes	0
+railcar carrier ship	used for transporting	0
+railcar carrier ship	has rail tracks	0
+railcar carrier ship	located in ports	0
+freight car	have containers	0
+freight car	used for businesses	0
+freight car	used for industries	0
+freight car	have doors	0
+freight car	have wheels	0
+common carrier	operates airplanes	0
+common carrier	regulated by government	0
+common carrier	subject to laws	0
+freight car	used for goods	0
+freight car	located in railways	0
+freight car	used for transporting	0
+railcar carrier ship	operates on seas	0
+railcar carrier ship	has cargo holds	0
+railcar carrier ship	used for international trade	0
+railcar carrier ship	has containers	0
+containerization	used in shipping	0
+railcar carrier ship	used for shipping	0
+water transportation system	used for travel	0
+multiple track railway	has electrification	0
+contract carrier	provide logistics	0
+cabotage	used for transportation	0
+aid to navigation	located on ships	0
+crane ship	used for construction	0
+aid to navigation	located on boats	0
+crane ship	large size	0
+aid to navigation	used for finding directions	0
+aid to navigation	used for navigation	0
+aid to navigation	used for sailing	0
+cabotage	regulated by international law	0
+cabotage	used for economic purposes	0
+volume measure	used for liquids	0
+crane ship	used for lifting	0
+crane ship	located in ports	0
+cabotage	regulated by laws	0
+cabotage	type of shipping	0
+crane ship	used for oil rigs	0
+crane ship	used for heavy lifting	0
+merchant marine	supports national economies	0
+crane ship	used for shipbuilding	0
+airport classification	large airports	0
+aid to navigation	used for finding ports	0
+aid to navigation	used for finding landmarks	0
+aid to navigation	used for finding islands	0
+canal structure	located in ports	0
+canal structure	used for irrigation	0
+canal structure	connected to rivers	0
+canal structure	located in cities	0
+airport classification	based on size	0
+airport classification	based on traffic	0
+canal structure	used for transportation	0
+canal structure	waterways	0
+portable bridge	used in military operations	0
+airport classification	international airports	0
+airport classification	domestic airports	0
+airport classification	military airports	0
+airport classification	private airports	0
+portable bridge	used for construction	0
+portable bridge	used for crossing rivers	0
+airport classification	small airports	0
+aid to navigation	used for finding coastlines	0
+merchant marine	has ships of various sizes	0
+merchant marine	regulated by government	0
+multiple track railway	used for cargo	0
+tank car	used for industry	0
+railroad bridge	has rail tracks	0
+multiple track railway	has multiple rails	0
+multiple track railway	used for high speed	0
+railroad bridge	located over roads	0
+railroad bridge	located over water	0
+railroad bridge	used for trains	0
+railroad bridge	connects two areas	0
+tank car	large capacity	0
+tank car	has tracks	0
+merchant marine	owned by private companies	0
+tank car	has wheels	0
+multiple track railway	used for heavy loads	0
+multiple track railway	used for multiple directions	0
+tank car	used for gas	0
+multiple track railway	has signals	0
+tank car	used for oil	0
+tank car	holds liquids	0
+tank car	used for transportation	0
+multiple track railway	used for passenger	0
+railroad bridge	used for transportation	0
+multiple track railway	used for freight	0
+radio navigation beacon	emits signals	0
+merchant marine	operates in international waters	0
+merchant marine	used for transporting goods	0
+merchant marine	commercial	0
+arriving	used for travel	0
+arriving	used for transportation	0
+arriving	used for flight	0
+radio navigation beacon	transmits signals	0
+arriving	used for train	0
+radio navigation beacon	used for aircraft	0
+radio navigation beacon	used for ships	0
+radio navigation beacon	located in seaports	0
+radio navigation beacon	used for takeoff	0
+arriving	used for bus	0
+radio navigation beacon	used for landing	0
+radio navigation beacon	located in airports	0
+radio navigation beacon	used for navigation	0
+arriving	used for car	0
+containerization	standardized equipment	0
+flatcar	used for transporting	0
+major air carrier	has seat selection	0
+traffic signal	red means stop	0
+traffic signal	regulated by authorities	0
+ship berthing	used for loading	0
+ship berthing	used for unloading	0
+ship berthing	requires navigation	0
+traffic signal	has lights	0
+traffic signal	electronic device	0
+traffic signal	located in cities	0
+ship berthing	used for cargo	0
+ship berthing	used for passengers	0
+emergency vehicle	has lights	0
+traffic signal	located at intersections	0
+transportation authority	regulates traffic	0
+transportation authority	builds roads	0
+transportation authority	maintains infrastructure	0
+transportation authority	enforces laws	0
+transportation authority	sets speed limits	0
+emergency vehicle	has flashing lights	0
+transportation authority	operates public transit	0
+ship deck	located on top of ships	0
+ship berthing	located in harbors	0
+ship deck	used for navigation	0
+ship deck	used for sailing	0
+land area	used for agriculture	0
+ore carrier ship	have cargo holds	0
+land area	used for construction	0
+watercraft	used for surfing	0
+watercraft	used for swimming	0
+ore carrier ship	used for shipping	0
+watercraft	used for travel	0
+watercraft	have sails	0
+watercraft	have motors	0
+watercraft	means of transport	0
+watercraft	located in bodies of water	0
+set or class	defined by rules	0
+propeller airplane	has engines	0
+set or class	can be intersected	0
+ship deck	used for passengers	0
+ship deck	used for cargo	0
+ship deck	have railings	0
+emergency vehicle	has emergency lights	0
+transportation authority	sets traffic rules	0
+flatcar	used for railways	0
+cargo handling	using containers	0
+train assembly	has tracks	0
+train assembly	has wheels	0
+train assembly	located in stations	0
+train assembly	used for passengers	0
+train assembly	used for cargo	0
+train assembly	has locomotive	0
+train assembly	used for transportation	0
+train assembly	consists of cars	0
+cargo handling	efficiently moving goods	0
+emergency vehicle	used for fire	0
+general cargo ship	large cargo capacity	0
+intentional process	managed	0
+general cargo ship	used for international trade	0
+general cargo ship	located in ports	0
+general cargo ship	used for transporting goods	0
+general cargo ship	have containers	0
+general cargo ship	used for bulk cargo	0
+general cargo ship	used for breakbulk cargo	0
+train assembly	used for long distances	0
+cargo handling	using trains	0
+train assembly	has brakes	0
+partial container ship	used for transporting goods	0
+transportation authority	has jurisdiction over roads	0
+cargo handling	loading and unloading	0
+cargo handling	transporting goods	0
+cargo handling	using trucks	0
+regulatory process	involves enforcement	0
+regulatory process	involves government	0
+regulatory process	involves laws	0
+regulatory process	involves rules	0
+cargo handling	using ships	0
+partial container ship	have containers	0
+partial container ship	used for shipping	0
+partial container ship	have cargo holds	0
+cargo handling	using airplanes	0
+partial container ship	located in oceans	0
+partial container ship	used for international trade	0
+partial container ship	means of transport	0
+partial container ship	partially filled with containers	0
+land area	used for buildings	0
+ore carrier ship	located in oceans	0
+emergency road vehicle	used for fire fighting	0
+ship agent	assists with repairs	0
+vehicle wheel	attached to vehicles	0
+offshore support ship	operate in open seas	0
+electric device	powered by batteries	0
+electric device	powered by outlets	0
+offshore support ship	used for transportation	0
+offshore support ship	used for maintenance	0
+offshore support ship	used for oil rigs	0
+offshore support ship	large vessel	0
+electric device	has wires	0
+emergency road vehicle	large and heavy	0
+electric device	used for communication	0
+ship cabin	has lights	0
+ship cabin	has furniture	0
+ship cabin	has doors	0
+ship cabin	has windows	0
+container terminal	used for shipping	0
+container terminal	located near ports	0
+container terminal	used for cargo	0
+vehicle wheel	rotates on axles	0
+electric device	uses electricity	0
+flatcar	used for construction	0
+vehicle wheel	used for movement	0
+major air carrier	operates in airports	0
+major air carrier	has multiple aircraft	0
+major air carrier	provides international flights	0
+traffic control process	manages intersections	0
+traffic control process	directs traffic	0
+traffic control process	enforces speed limits	0
+traffic control process	uses signs	0
+traffic control process	uses lights	0
+traffic control process	regulates flow	0
+flatcar	used for trains	0
+flatcar	has wheels	0
+traffic control process	managed by authorities	0
+vehicle wheel	used for braking	0
+flatcar	used for goods	0
+flatcar	used for containers	0
+flatcar	used for heavy loads	0
+vehicle wheel	have tires	0
+ship cabin	located on ships	0
+minivan	has seats for children	0
+minivan	has cup holders	0
+petroleum product	used for transportation	0
+taking off	requires engines	0
+petroleum product	used for heating	0
+taking off	used in rockets	0
+petroleum product	used for electricity	0
+taking off	used in airplanes	0
+taking off	requires lift	0
+taking off	requires speed	0
+petroleum product	used for manufacturing	0
+taking off	used in flight	0
+ore carrier ship	large vessels	0
+emergency road vehicle	driven by professionals	0
+emergency road vehicle	have lights	0
+ore carrier ship	used for transporting	0
+ore carrier ship	carry bulk goods	0
+ore carrier ship	used for international trade	0
+emergency road vehicle	located in hospitals	0
+emergency road vehicle	located in fire stations	0
+taking off	used in airports	0
+taking off	used in space	0
+minivan	used for daily commutes	0
+petroleum product	used for lubrication	0
+minivan	located in suburbs	0
+minivan	used for road trips	0
+container terminal	managed by companies	0
+minivan	has seats	0
+minivan	has sliding doors	0
+minivan	used for families	0
+container terminal	have trucks	0
+container terminal	have ships	0
+container terminal	used for international trade	0
+container terminal	managed by authorities	0
+petroleum product	derived from oil	0
+petroleum product	used for fuel	0
+navigation	used for cars	0
+navigation	used for planes	0
+navigation	used for ships	0
+navigation	used for traveling	0
+navigation	used for finding directions	0
+canal structure	used for commerce	0
+merchant marine	plays crucial role in global trade	0
+contract carrier	have routes	0
+hopper dredger	used for maintenance	0
+pier	extend into water	0
+crew list	used for planes	0
+research ship	have equipment	0
+crew list	used for ships	0
+chemical tanker ship	used for transporting	0
+hopper dredger	used for construction	0
+tractor trailer	have drivers	0
+hopper dredger	located in ports	0
+hopper dredger	used for waterways	0
+tractor trailer	used for industries	0
+chemical tanker ship	located in ports	0
+petroleum pipeline	used for economy	0
+tractor trailer	used for heavy loads	0
+petroleum pipeline	located in countries	0
+petroleum pipeline	owned by companies	0
+ship hold	used for equipment	0
+vehicle registration	required by law	0
+tractor trailer	used for long distances	0
+tractor trailer	have engines	0
+vehicle registration	issued by government	0
+tractor trailer	have wheels	0
+petroleum pipeline	used for fuel	0
+tractor trailer	used for hauling	0
+petroleum pipeline	used for refineries	0
+petroleum pipeline	long distance	0
+chemical tanker ship	used for trade	0
+vehicle registration	required for driving	0
+tractor trailer	used for transport	0
+tractor trailer	large vehicles	0
+ship hull	located underwater	0
+research ship	located in oceans	0
+diesel fuel	used in transportation	0
+diesel fuel	used in industry	0
+diesel fuel	used in agriculture	0
+attaching	used for repair	0
+ship hold	used for goods	0
+attaching	used for construction	0
+attaching	used for manufacturing	0
+ship hold	large spaces	0
+ship hold	used for cargo	0
+standard gauge railway	used for transporting goods	0
+body motion	includes sitting	0
+body motion	includes moving	0
+standard gauge railway	used for transporting people	0
+body motion	includes exercising	0
+ship hold	located in ships	0
+pier	located in water	0
+standard gauge railway	used for commuting	0
+cargo manifest	used in transportation	0
+cargo manifest	used in logistics	0
+standard gauge railway	used for long distance travel	0
+standard gauge railway	have trains	0
+standard gauge railway	have stations	0
+diesel fuel	used in engines	0
+pier	located in lakes	0
+pier	located in rivers	0
+pier	used for boating	0
+diesel fuel	used in trucks	0
+crew list	used for management	0
+diesel fuel	used in cars	0
+diesel fuel	used in ships	0
+diesel fuel	used in construction	0
+cargo manifest	used in shipping	0
+petroleum pipeline	used for oil transport	0
+chemical tanker ship	used for commerce	0
+road vehicle	have seats	0
+flight deck	used for flight control	0
+flight deck	used for landing	0
+flight deck	used for takeoff	0
+registry ton	used in international trade	0
+registry ton	used in shipping industries	0
+dining car	has tables	0
+registry ton	used in navigation	0
+registry ton	used in maritime	0
+flight deck	located on airplanes	0
+railway junction	managed by railways	0
+registry ton	used in freight	0
+etiologic agent	found in water	0
+registry ton	used in cargo	0
+etiologic agent	found in air	0
+etiologic agent	found in soil	0
+railway junction	used for transportation	0
+track gauge	used for trains	0
+railway junction	have trains	0
+track gauge	varies by country	0
+track gauge	important for transportation	0
+railway junction	have signals	0
+dining car	has chairs	0
+railway junction	have tracks	0
+railway junction	located on land	0
+railway junction	used for train merging	0
+railway junction	used for train splitting	0
+railway junction	used for train transfer	0
+registry ton	used in shipping	0
+railway junction	location where tracks meet	0
+track gauge	used for construction	0
+dining car	located in trains	0
+flight deck	used for navigation	0
+road vehicle	used for business	0
+flight deck	used for communication	0
+road vehicle	used for travel	0
+road vehicle	used for commuting	0
+road vehicle	have engines	0
+ship hull	used for propulsion	0
+road vehicle	have wheels	0
+road vehicle	driven on roads	0
+ship hull	used for transportation	0
+chemical tanker ship	have cargo holds	0
+road vehicle	used for transport	0
+commercial shipping	used for high-value goods	0
+commercial shipping	used for bulk cargo	0
+ship hull	used for cargo	0
+commercial shipping	used for containers	0
+ship hull	used for passenger	0
+commercial shipping	used for cargo	0
+ship hull	designed for ocean travel	0
+commercial shipping	located in ports	0
+animal powered vehicle	used for transportation	0
+flight deck	have instruments	0
+commercial shipping	used for importing	0
+commercial shipping	used for exporting	0
+animal powered vehicle	used for work	0
+animal powered vehicle	located in farms	0
+commercial shipping	means of international trade	0
+animal powered vehicle	located in fields	0
+animal powered vehicle	used for plowing	0
+commercial shipping	used for transporting goods	0
+animal powered vehicle	used for carrying	0
+chemical tanker ship	used for industry	0
+ship hold	used for containers	0
+cargo manifest	required by regulations	0
+ship hold	used for supplies	0
+railway vehicle	located on railways	0
+bill of lading	contains cargo details	0
+air traffic control tower	have communication equipment	0
+cab car	located in cities	0
+cab car	used for transportation	0
+bill of lading	used for freight	0
+bill of lading	used for transportation	0
+railway vehicle	used for transport	0
+air traffic control tower	have radar systems	0
+air traffic control tower	have lights	0
+air traffic control tower	have signs	0
+hangar bay	used for landing planes	0
+railroad company	have routes	0
+hangar bay	used for launching planes	0
+air traffic control tower	have air traffic controllers	0
+cab car	operated by drivers	0
+bill of lading	used for shipping	0
+hangar bay	has lights	0
+fire engine	has hoses	0
+personal watercraft	have engines	0
+fishing vessel	located in oceans	0
+railway vehicle	used for long distances	0
+fire engine	has engines	0
+railway vehicle	used for commuting	0
+personal watercraft	used for water sports	0
+government organization	run by officials	0
+railway vehicle	have wheels	0
+air traffic control tower	located at airports	0
+fire engine	located in fire stations	0
+personal watercraft	used for speed	0
+railway vehicle	have cars	0
+railway vehicle	have engines	0
+fire engine	used for firefighting	0
+air traffic control tower	important for air travel	0
+fishing boat	located in bodies of water	0
+air traffic control tower	used for guiding planes	0
+contract carrier	have trucks	0
+cable ship	used for laying internet cables	0
+fishing boat	used for commercial purposes	0
+fishing boat	have engines	0
+contract carrier	transport goods	0
+ship agent	assists with cargo	0
+cable ship	used for underwater work	0
+cable ship	used for maintaining cables	0
+cable ship	used for laying telegraph cables	0
+cable ship	used for repairing cables	0
+contract carrier	have drivers	0
+cable ship	used for laying cables	0
+contract carrier	deliver goods	0
+ship agent	assists with crew	0
+canal structure	used for navigation	0
+ship agent	helps with navigation	0
+cable ship	used for laying telephone cables	0
+hangar bay	has doors	0
+railroad company	located in countryside	0
+hangar bay	used for maintenance	0
+hangar bay	used for storing planes	0
+hangar bay	located on aircraft carriers	0
+bill of lading	contains delivery details	0
+railroad company	have stations	0
+transit shelter	common in cities	0
+bill of lading	used for international trade	0
+transit shelter	located near bus stops	0
+ship agent	located in ports	0
+transit shelter	have benches	0
+railroad company	located in cities	0
+railroad company	have tracks	0
+transit shelter	provide seating	0
+railroad company	have trains	0
+personal watercraft	used for racing	0
+fire engine	has lights	0
+rocket engine	uses combustion	0
+fishing vessel	located in harbors	0
+rocket engine	used for space travel	0
+rocket engine	uses fuel	0
+rocket engine	uses oxidizer	0
+rocket engine	located in spacecraft	0
+rocket engine	used for lift-off	0
+personal watercraft	located in lakes	0
+railway vehicle	have seats	0
+rocket engine	used for orbit	0
+radar or sonar	used in aviation	0
+body motion	includes running	0
+refrigerated compartment	located in trucks	0
+government organization	have policies	0
+body motion	includes walking	0
+radar or sonar	used in military	0
+refrigerated compartment	used for perishable goods	0
+government organization	located in cities	0
+body motion	includes dancing	0
+government organization	regulated by laws	0
+radar or sonar	used for navigation	0
+rocket engine	used for propulsion	0
+track gauge	determined by railway companies	0
+radar or sonar	used in ships	0
+fishing vessel	have sails	0
+radar or sonar	used in aircraft	0
+personal watercraft	located in oceans	0
+railway vehicle	used for cargo	0
+fishing vessel	have motors	0
+radar or sonar	used in traffic monitoring	0
+fishing vessel	used for commerce	0
+general cargo ship	made of steel	-1
+drilling ship	located in arctic	-1
+motor scooter	have handlebars	-1
+offshore supply ship	have cranes	-1
+transportation authority	collects tolls	-1
+maritime blockade	can cause humanitarian crisis	-1
+dining car	has wine	-1
+transportation company	used for people	-1
+full size van	used for camping	-1
+pier	made of wood	-1
+body motion	includes jumping	-1
+diesel engine	has low speed	-1
+container terminal	have warehouses	-1
+local transit system	used for short distances	-1
+petroleum product	used for plastics	-1
+shipping channel	have markers	-1
+maritime blockade	limits access to ports	-1
+passenger railway car	has bathrooms	-1
+maritime blockade	blockage of sea routes	-1
+diesel engine	fueled by diesel	-1
+diesel engine	used in generators	-1
+body motion	includes standing	-1
+body motion	includes falling	-1
+passenger railway car	has heating	-1
+general cargo ship	have cranes	-1
+petroleum tanker ship	have propellers	-1
+ship berthing	requires clearance	-1
+body motion	includes climbing	-1
+diesel engine	has high torque	-1
+passenger railway car	has air conditioning	-1
+chemical tanker ship	made of steel	-1
+chemical tanker ship	carries chemicals	-1
+cargo handling	using forklifts	-1
+ore carrier ship	made of steel	-1
+petroleum product	has additives	-1
+petroleum product	has refining process	-1
+railroad company	make profits	-1
+drilling ship	used for exploration	-1
+shipping channel	have buoys	-1
+dry bulk cargo	includes iron ore	-1
+dry bulk cargo	includes wheat	-1
+internal attribute	unique to each object	-1
+dry bulk cargo	includes corn	-1
+railway vehicle	made of metal	-1
+set or class	can be unioned	-1
+set or class	can be empty	-1
+set or class	finite or infinite	-1
+offshore supply ship	made of steel	-1
+cargo handling	using warehouses	-1
+pier	made of steel	-1
+dry bulk cargo	includes coal	-1
+dry bulk cargo	includes minerals	-1
+chemical tanker ship	have pumps	-1
+railroad company	have schedules	-1
+dry bulk cargo	includes grains	-1
+ore carrier ship	long and narrow	-1
+transportation company	have fares	-1
+set or class	can be compared	-1
+ore carrier ship	have cranes	-1
+dry bulk cargo	non-liquid goods	-1
+maritime blockade	used to exert pressure	-1
+transportation company	have schedules	-1
+maritime blockade	can be lifted by diplomacy	-1
+surfaced roadway	made of concrete	-1
+set or class	unique members	-1
+set or class	collection of items	-1
+turboprop airplane	powered by turboprop	-1
+container terminal	have cranes	-1
+international airport	have terminals	-1
+radar or sonar	uses sound waves	-1
+organic object	made of cells	-1
+international airport	used for arrivals	-1
+international airport	used for departures	-1
+international airport	have immigration	-1
+international airport	have customs	-1
+multiple track railway	has crossings	-1
+international airport	have runways	-1
+radar or sonar	uses radio waves	-1
+relational attribute	used in data analysis	-1
+relational attribute	used in aggregating	-1
+air traffic control procedure	involve radar	-1
+relational attribute	used in filtering	-1
+relational attribute	used in joins	-1
+relational attribute	used in queries	-1
+relational attribute	describes data	-1
+organic object	decomposes	-1
+radar or sonar	used for detection	-1
+relational attribute	used in databases	-1
+ship hold	protected from weather	-1
+legal charge	paid for lawsuits	-1
+legal charge	paid to courts	-1
+legal charge	paid to lawyers	-1
+truck trailer	have hitching systems	-1
+common carrier	publicly accessible	-1
+common carrier	charge fees	-1
+water transportation system	require maintenance	-1
+road junction	have roundabouts	-1
+organic object	breathes	-1
+ship hold	secured with ropes	-1
+road junction	have pedestrian crossings	-1
+water transportation system	used for tourism	-1
+organic object	can be harmed by pollution	-1
+organic object	has metabolism	-1
+organic object	has cells	-1
+organic object	has DNA	-1
+relational attribute	used in tables	-1
+air traffic control procedure	used for separation	-1
+dining car	has snacks	-1
+fishing boat	have reels	-1
+ship hatch	used for exiting	-1
+ship hatch	made of metal	-1
+fishing boat	have nets	-1
+parking garage	have staircases	-1
+ship hatch	have ladders	-1
+parking garage	have elevators	-1
+fishing boat	have rods	-1
+ship hatch	have handles	-1
+air traffic control center	staffed by controllers	-1
+ship register	official record	-1
+ship register	used for identification	-1
+airport classification	based on location	-1
+airport classification	based on facilities	-1
+contract carrier	make deals	-1
+ship register	used for taxation	-1
+contract carrier	have offices	-1
+ship hatch	used for boarding	-1
+air traffic control center	used for coordination	-1
+sport utility vehicle	have high ground clearance	-1
+sport utility vehicle	made of steel	-1
+air traffic control procedure	used for coordination	-1
+keeping	maintenance of possession	-1
+keeping	holding something	-1
+sport utility vehicle	have suspension	-1
+arriving	reach a place	-1
+keeping	not selling something	-1
+arriving	end of a trip	-1
+keeping	preservation of something	-1
+crane ship	used for offshore	-1
+arriving	reach a destination	-1
+arriving	end of a journey	-1
+sport utility vehicle	used for camping	-1
+crane ship	has cranes installed	-1
+sport utility vehicle	used for off road	-1
+air traffic control tower	have controllers	-1
+crane ship	used for wind turbines	-1
+legal charge	paid for crimes	-1
+legal charge	amount varies	-1
+atmospheric region	has air currents	-1
+managing	involves controlling	-1
+fuel tank	has rust	-1
+fuel tank	has leaks	-1
+fuel tank	has gauges	-1
+managing	involves leadership	-1
+managing	involves decision making	-1
+managing	involves planning	-1
+fuel tank	has caps	-1
+spine car	does not exist	-1
+flight deck	have pilots	-1
+managing	involves organizing	-1
+managing	involves budgeting	-1
+managing	involves problem solving	-1
+managing	involves delegating	-1
+fuel tank	located in garages	-1
+managing	involves responsibility	-1
+contract carrier	have warehouses	-1
+transportation schedule	used for planning	-1
+flatcar	has a flat surface	-1
+atmospheric region	varies in pressure	-1
+trade embargo	economic sanction	-1
+fishing trawler	have nets	-1
+trade embargo	international conflict resolution tool	-1
+electric device	has charging ports	-1
+electric device	used for productivity	-1
+trade embargo	used for political pressure	-1
+electric device	has screens	-1
+electric device	has buttons	-1
+navigation light	used for fog	-1
+transportation schedule	showing prices	-1
+navigation light	used for visibility	-1
+trade embargo	restriction on exports	-1
+navigation light	has different shapes	-1
+fire boat	used for salvage	-1
+fire boat	have pumps	-1
+flight deck	have control panels	-1
+fire boat	used for rescue	-1
+turboprop airplane	used for short distances	-1
+spine car	no information available	-1
+fuel tank	made of plastic	-1
+organic compound	used in plastics	-1
+organic compound	carbon-based	-1
+organic compound	found in living things	-1
+organic compound	made of atoms	-1
+common carrier	liable for damages	-1
+crew list	contains positions	-1
+organic compound	used in cosmetics	-1
+organic compound	used in perfumes	-1
+legal charge	amount is fixed	-1
+liner service	luxurious accommodations	-1
+organic compound	made of hydrogen and oxygen	-1
+crew list	contains ranks	-1
+atmospheric region	divided into layers	-1
+legal charge	paid by individuals	-1
+atmospheric region	contains gases	-1
+atmospheric region	contains particles	-1
+atmospheric region	varies in temperature	-1
+jet airplane	require pilots	-1
+electronic device	has screens	-1
+jet airplane	have wings	-1
+electronic device	has buttons	-1
+turboprop airplane	faster than propeller planes	-1
+turboprop airplane	more efficient than jets	-1
+containerization	increased efficiency	-1
+containerization	reduced costs	-1
+turboprop airplane	have propellers	-1
+liner service	regular schedule	-1
+containerization	reusable	-1
+tractor trailer	have trailers	-1
+liner service	oceanic travel	-1
+electronic device	has batteries	-1
+containerization	intermodal	-1
+crew list	document	-1
+jet airplane	used for tourism	-1
+crew list	contains names	-1
+crew list	contains roles	-1
+general cargo ship	require large crews	-1
+ship cabin	has showers	-1
+volume measure	used for solids	-1
+refrigerated compartment	has insulation	-1
+attaching	temporary connection	-1
+whaling ship	had first aid kits	-1
+whaling ship	had logbooks	-1
+attaching	permanent connection	-1
+attaching	using fasteners	-1
+attaching	using adhesives	-1
+attaching	process of joining	-1
+guiding	used for tourism	-1
+guiding	used for adventure	-1
+guiding	used for hiking	-1
+guiding	used for climbing	-1
+refrigerated compartment	maintains low temperatures	-1
+electronic signalling	used in computing	-1
+refrigerated compartment	located in supermarkets	-1
+bulkhead	separates compartments	-1
+bulkhead	made of steel	-1
+bulkhead	used in submarines	-1
+refrigerated compartment	cools objects	-1
+rocket engine	highly complex	-1
+rocket engine	used for thrust	-1
+deck crane	used for offshore operations	-1
+fishing vessel	have lines	-1
+electronic signalling	uses codes	-1
+electronic signalling	uses protocols	-1
+attaching	used for assembly	-1
+whaling ship	had nets	-1
+whaling ship	had harpoons	-1
+whaling ship	used for hunting	-1
+hopper dredger	used for mining	-1
+petroleum product pipeline	underground	-1
+hopper dredger	used for dredging	-1
+hopper dredger	type of dredger	-1
+research ship	used for discovering new species	-1
+petroleum product pipeline	monitored for leaks	-1
+petroleum product pipeline	inspected regularly	-1
+research ship	used for studying marine life	-1
+diesel fuel	produces less emissions	-1
+flight schedule	updated daily	-1
+diesel fuel	used in generators	-1
+fixed bridge	permanent structure	-1
+fixed bridge	made of concrete	-1
+fixed bridge	made of steel	-1
+fixed bridge	used for pedestrians	-1
+fixed bridge	sturdy	-1
+standard gauge railway	found in north and south america	-1
+standard gauge railway	found in europe and asia	-1
+turbojet engine	have compressors	-1
+turbojet engine	have turbines	-1
+turbojet engine	have nozzles	-1
+standard gauge railway	tracks are 1435 mm wide	-1
+attaching	requires force	-1
+fishing vessel	have nets	-1
+electronic signalling	used in networks	-1
+electric motor	has magnets	-1
+portable bridge	used in disaster relief	-1
+cable ship	has winches	-1
+cable ship	has cranes	-1
+military watercraft	used for patrol	-1
+military watercraft	made of steel	-1
+military watercraft	armed with guns	-1
+military watercraft	have torpedoes	-1
+vehicle crew	people	-1
+canal structure	have locks	-1
+canal structure	made of concrete	-1
+vehicle crew	perform tasks	-1
+vehicle crew	have roles	-1
+portable bridge	easy to disassemble	-1
+electronic signalling	used in internet	-1
+moving violation	done in motorcycles	-1
+moving violation	done in bicycles	-1
+portable bridge	easy to assemble	-1
+portable bridge	made of wood	-1
+moving violation	punishable by fines	-1
+portable bridge	made of metal	-1
+radar facility	used for detection	-1
+portable bridge	temporary structures	-1
+radar facility	has antennas	-1
+aid to navigation	used for avoiding reefs	-1
+electric motor	used in appliances	-1
+cable ship	has diving equipment	-1
+river port	have forklifts	-1
+river port	have cranes	-1
+river port	have warehouses	-1
+fishing vessel	made of steel	-1
+fire engine	has ladders	-1
+fire engine	used for rescuing	-1
+sea lane	marked by buoys	-1
+fire engine	has water tanks	-1
+sea lane	navigated by GPS	-1
+fire engine	has sirens	-1
+canal lock gate	made of metal	-1
+cab car	used for rush hours	-1
+cab car	has fixed fares	-1
+cab car	has fixed routes	-1
+cab car	used for taxi service	-1
+cab car	smaller than regular cars	-1
+signalling	used for warnings	-1
+hangar bay	has catwalks	-1
+signalling	used for languages	-1
+hangar bay	has cranes	-1
+hangar bay	has ventilation	-1
+signalling	used in technology	-1
+transit shelter	used for waiting	-1
+transit shelter	have advertisements	-1
+transit shelter	provide protection from weather	-1
+river port	have docks	-1
+hopper dredger	has a hopper	-1
+paved runway	has markings	-1
+hopper dredger	has a dredge	-1
+unpaved runway	has stones	-1
+government organization	have departments	-1
+government organization	have ministers	-1
+cargo container	have locks	-1
+government organization	have employees	-1
+government organization	have budgets	-1
+government organization	provide public services	-1
+unpaved runway	made of dirt	-1
+unpaved runway	has grass	-1
+unpaved runway	has gravel	-1
+unpaved runway	has mud	-1
+unpaved runway	has sand	-1
+unpaved runway	has uneven surface	-1
+paved runway	long and narrow	-1
+cargo manifest	digital or printed	-1
+ocean liner	have cabins	-1
+ocean liner	have pools	-1
+cargo manifest	includes quantities	-1
+cargo manifest	lists items	-1
+ocean liner	have decks	-1
+cargo manifest	describes contents	-1
+cargo manifest	document	-1
+port city	have docks	-1
+port city	have warehouses	-1
+petroleum pipeline	at risk of leaks	-1
+government organization	make decisions	-1
+cargo container	made of metal	-1
+tugboat	have propellers	-1
+tugboat	used for rescue	-1
+commercial airport	have runways	-1
+commercial airport	have terminals	-1
+commercial airport	have check-in counters	-1
+commercial airport	have duty-free shops	-1
+ship agent	helps with customs	-1
+commercial airport	have baggage claim	-1
+long ton	equals to 2,000 pounds	-1
+long ton	used in UK	-1
+bill of lading	signed by receivers	-1
+long ton	larger than short ton	-1
+bill of lading	signed by carriers	-1
+long ton	not equal to metric ton	-1
+long ton	has historical context	-1
+bulk cargo	uncontainerized	-1
+bulk cargo	includes grains	-1
+bulk cargo	includes minerals	-1
+bulk cargo	includes ores	-1
+bulk cargo	includes coal	-1
+bill of lading	document	-1
+personal watercraft	have propellers	-1
+personal watercraft	made of fiberglass	-1
+tugboat	made of steel	-1
+personal watercraft	have handlebars	-1
+petroleum pipeline	built with steel	-1
+petroleum pipeline	underground	-1
+road vehicle	have license plates	-1
+etiologic agent	microorganism	-1
+private railcar	have beds	-1
+private railcar	have kitchens	-1
+private railcar	have bathrooms	-1
+animal powered vehicle	common in developing countries	-1
+head end car	last car in train	-1
+animal powered vehicle	common in ancient times	-1
+animal powered vehicle	powered by animals	-1
+ship hull	used for stability	-1
+ship hull	made of steel	-1
+electrified railway	faster than diesel	-1
+electrified railway	common in europe	-1
+electrified railway	common in japan	-1
+ship hull	used for buoyancy	-1
+ship hull	made of metal	-1
+vehicle registration	has expiration dates	-1
+vehicle registration	linked to vehicle details	-1
+mass measure	units of tons	-1
+vehicle registration	required for insurance	-1
+vehicle registration	used for taxation	-1
+vehicle registration	used for identification	-1
+vehicle registration	linked to vehicle ownership	-1
+vehicle registration	documented in databases	-1
+hopper dredger	used for excavation	-1
+etiologic agent	causes disease	-1
+etiologic agent	virus	-1
+pusher tug	has propellers	-1
+etiologic agent	bacteria	-1
+pusher tug	has barges	-1
+port facility	have cranes	-1
+port facility	have warehouses	-1
+port facility	have docks	-1
+port facility	have customs offices	-1
+registry ton	equal to 2,000 pounds	-1
+track gauge	measured in inches	-1
+dual gauge railway	used in some regions	-1
+commercial agent	acts as intermediary	-1
+commercial agent	negotiates contracts	-1
+commercial agent	represents clients	-1
+commercial agent	acts on behalf	-1
+commercial agent	has knowledge of market	-1
+commercial agent	has expertise in industry	-1
+commercial agent	builds relationships	-1
+commercial agent	facilitates transactions	-1
+track gauge	standardized globally	-1
+etiologic agent	transmitted through vectors	-1
+etiologic agent	parasite	-1
+canal system	used for tourism	-1
+canal system	located in Italy	-1
+etiologic agent	fungus	-1
+private railcar	luxurious	-1
+electric motor	has coils	-1
+electric motor	produces torque	-1
+glider airplane	uses no engine	-1
+emergency road vehicle	used for rescue	-1
+taking off	requires control	-1
+light truck	used for off-road	-1
+light truck	made of steel	-1
+light truck	have suspension	-1
+light truck	have high ground clearance	-1
+port embargo	economic sanction	-1
+port embargo	restricts imports	-1
+taking off	action of leaving ground	-1
+port embargo	used as diplomatic tool	-1
+port embargo	can cause shortages	-1
+emergency road vehicle	have sirens	-1
+land area	used for zoning	-1
+electrical signalling	used in networks	-1
+container ship	have cranes	-1
+land area	used for real estate	-1
+train station	have platforms	-1
+watercraft	made of fiber	-1
+train station	have ticket counters	-1
+train station	have waiting rooms	-1
+propeller airplane	has control panel	-1
+propeller airplane	has pilot	-1
+electrical signalling	used in computers	-1
+electrical signalling	used in phones	-1
+propeller airplane	used for training	-1
+single traffic lane	used for passing	-1
+navigation	used for walking	-1
+single traffic lane	one way	-1
+navigation	uses maps	-1
+vehicle wheel	made of rubber	-1
+offshore support ship	used for drilling	-1
+offshore support ship	have helicopters	-1
+offshore support ship	have cranes	-1
+offshore support ship	provide accommodation	-1
+offshore support ship	provide supplies	-1
+hoisting device	has pulleys	-1
+scale test car	miniature	-1
+ship cabin	has bathrooms	-1
+scale test car	replica of real cars	-1
+ship cabin	has air conditioning	-1
+scale test car	smaller than real cars	-1
+ship cabin	has beds	-1
+ship cabin	used for sleeping	-1
+outfit car	made of metal	-1
+outfit car	have transmission	-1
+outfit car	have paint	-1
+navigation	uses stars	-1
+mode of transit	can be shared	-1
+mode of transit	can be used by many	-1
+mode of transit	have schedules	-1
+navigation	uses compass	-1
+navigation	uses GPS	-1
+electrical signalling	used in internet	-1
+propeller airplane	has wings	-1
+electric motor	used in fans	-1
+intentional process	meant to achieve	-1
+emergency vehicle	used for police	-1
+emergency vehicle	used for rescue	-1
+regulatory process	involves transparency	-1
+regulatory process	involves penalties	-1
+regulatory process	involves inspections	-1
+regulatory process	involves compliance	-1
+partial container ship	not fully utilized	-1
+partial container ship	have cranes	-1
+vehicle carrier ship	have cranes	-1
+vehicle carrier ship	require large crews	-1
+transportation system	subways and metro	-1
+transportation system	bicycles and bike lanes	-1
+propeller airplane	used for short distances	-1
+transportation system	public and private modes	-1
+intentional process	planned	-1
+intentional process	voluntary	-1
+intentional process	deliberate	-1
+intentional process	consciously controlled	-1
+glider airplane	used for education	-1
+glider airplane	flies without fuel	-1
+glider airplane	has wings	-1
+glider airplane	made of lightweight materials	-1
+transitway	reduces congestion	-1
+glider airplane	uses wind	-1
+emergency vehicle	has sirens	-1
+terminal building	have baggage claim areas	-1
+terminal building	have shops	-1
+terminal building	have ticket counters	-1
+propeller airplane	used for private use	-1
+cargo ship	made of steel	-1
+propeller airplane	used for small trips	-1
+propeller airplane	has propellers	-1
+cargo ship	have cranes	-1
+ship deck	have ropes	-1
+ship deck	have ladders	-1
+intermodal transportation	uses multiple modes	-1
+ship deck	made of wood	-1
+intermodal transportation	efficient	-1
+intermodal transportation	reduces costs	-1
+intermodal transportation	reduces congestion	-1
+traffic signal	has buttons	-1
+traffic signal	yellow means caution	-1
+traffic signal	green means go	-1
+coach railcar	has compartments	-1
+coach railcar	has luggage racks	-1
+coach railcar	has air conditioning	-1
+terminal building	used for check-ins	-1
+emergency vehicle	has megaphones	-1
+terminal building	used for departures	-1
+terminal building	used for arrivals	-1
+emergency vehicle	has horns	-1
+freighter	have cranes	-1
+vehicle wheel	have rims	-1
+vehicle wheel	have hubs	-1
+navigation buoy	have colors	-1
+railroad bridge	has pillars	-1
+railroad bridge	has supports	-1
+railroad bridge	made of concrete	-1
+railroad bridge	made of steel	-1
+fish factory ship	has freezers	-1
+fish factory ship	has processing lines	-1
+fish factory ship	used for local consumption	-1
+tank car	made of metal	-1
+navigation buoy	have markings	-1
+canal lock	made of concrete	-1
+canal lock	has gates	-1
+canal lock	has valves	-1
+vehicle wheel	used for traction	-1
+navigation buoy	made of plastic	-1
+transit stop	have schedules	-1
+transit stop	have platforms	-1
+transit stop	have maps	-1
+land vehicle	made of steel	-1
+dangerous goods	flammable	-1
+dangerous goods	toxic	-1
+dangerous goods	explosive	-1
+dangerous goods	hazardous	-1
+dangerous goods	transported with caution	-1
+dangerous goods	handled with gloves	-1
+light fixture	used for decoration	-1
+light fixture	have switches	-1
+light fixture	made of plastic	-1
+gallery car	has curators	-1
+electric motor	used in pumps	-1
+electric motor	silent operation	-1
+cabotage	not allowed in others	-1
+cabotage	allowed in some countries	-1
+cabotage	by a foreign ship	-1
+cabotage	within a country	-1
+lighter	made of metal	-1
+lighter	has flint	-1
+lighter	used for cigarettes	-1
+lighter	used for camping	-1
+lighter	located in pockets	-1
+merchant marine	employs thousands	-1
+material handling equipment	used for stacking	-1
+merchant marine	civilian	-1
+material handling equipment	used for distribution	-1
+radio navigation beacon	receivable by aircraft	-1
+gallery car	used for exhibitions	-1
+gallery car	display art	-1
+gallery car	located in museums	-1
+gallery car	located in art galleries	-1
+gallery car	has display cases	-1
+gallery car	has pedestals	-1
+gallery car	has air conditioning	-1
+dangerous goods	used with masks	-1
+dangerous goods	burning with fire extinguishers	-1
+rolling stock	made of metal	-1
+deepwater port	have cranes	-1
+air route	have frequencies	-1
+railroad track	made of steel	-1
+air route	have schedules	-1
+railroad track	have ties	-1
+major air carrier	has customer service	-1
+railroad track	have switches	-1
+major air carrier	has ticket counter	-1
+major air carrier	has checked baggage	-1
+passenger ship	have cabins	-1
+major air carrier	offers in-flight meals	-1
+passenger ship	have decks	-1
+major air carrier	has frequent flyer program	-1
+major air carrier	has online booking	-1
+passenger ship	have propellers	-1
+deck cargo	uncovered	-1
+traffic control process	prioritizes pedestrians	-1
+deck cargo	not refrigerated	-1
+deck cargo	carried in open air	-1
+jet engine	produces thrust	-1
+jet engine	has turbines	-1
+jet engine	has fans	-1
+vehicle wheel	have bearings	-1
+jet engine	has high power	-1
+air route	have altitudes	-1
+traffic light	has colors	-1
+ship compartment	have locks	-1
+deepwater port	have warehouses	-1
+cubic foot	used in mathematics	-1
+transit terminal	used for taxis	-1
+transit terminal	used for subways	-1
+transit terminal	have schedules	-1
+transit terminal	have maps	-1
+transit terminal	have information centers	-1
+waterway junction	have locks	-1
+waterway junction	have bridges	-1
+waterway junction	have buoys	-1
+organizational process	involves tasks	-1
+organizational process	involves people	-1
+organizational process	involves planning	-1
+organizational process	involves execution	-1
+organizational process	involves control	-1
+freight car	made of metal	-1
+organizational process	involves coordination	-1
+organizational process	involves resources	-1
+organizational process	involves steps	-1
+railcar carrier ship	has cranes	-1
+truck tractor	have cabs	-1
+traffic light	green means go	-1
+traffic light	yellow means caution	-1
+traffic light	used for order	-1
+canal system	built by humans	-1
