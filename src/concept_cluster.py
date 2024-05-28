@@ -101,9 +101,9 @@ if cluster_algo == "DBSCAN":
 
 if cluster_algo == "HDBSCAN":
 
-    # normalized_embeddings = normalize(llm_con_embeds, norm='l2')
+    normalized_embeddings = normalize(llm_con_embeds, norm='l2')
 
-    normalized_embeddings = llm_con_embeds
+    # normalized_embeddings = llm_con_embeds
 
     # cosine_distances = pdist(normalized_embeddings, metric='cosine')
     # cosine_distance_matrix = squareform(cosine_distances)
