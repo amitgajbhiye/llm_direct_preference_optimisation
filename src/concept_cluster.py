@@ -103,13 +103,13 @@ if cluster_algo == "HDBSCAN":
 
     normalized_embeddings = normalize(llm_con_embeds, norm='l2')
 
-    cosine_distances = pdist(normalized_embeddings, metric='cosine')
-    cosine_distance_matrix = squareform(cosine_distances)
+    # cosine_distances = pdist(normalized_embeddings, metric='cosine')
+    # cosine_distance_matrix = squareform(cosine_distances)
 
     def evaluate_hdbscan(min_cluster_size, min_samples):
 
-        clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples, metric='precomputed')
-        cluster_labels = clusterer.fit_predict(cosine_distance_matrix)
+        clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples)
+        cluster_labels = clusterer.fit_predict(normalized_embeddings)
         
         if len(set(cluster_labels)) > 1:
             silhouette_avg = silhouette_score(normalized_embeddings, cluster_labels)
