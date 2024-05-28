@@ -43,7 +43,7 @@ print(f"num_concepts: {len(concepts)}")
 
 llm_con_embeds = l2v.encode(concepts).detach().cpu().numpy()
 
-print(f"llm_concept_embeds.shape: {concepts.shape}")
+print(f"llm_con_embeds.shape: {llm_con_embeds.shape}")
 
 cons_and_embedding = [(prop, embed) for prop, embed in zip(concepts, llm_con_embeds)]
 
