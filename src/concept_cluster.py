@@ -122,7 +122,7 @@ if cluster_algo == "HDBSCAN":
         return cluster_labels, silhouette_avg
 
     # Experiment with different parameter values
-    results = []
+    # results = []
 
     # for min_cluster_size in range(2, 20):
     #     for min_samples in range(2, 20):
@@ -133,13 +133,15 @@ if cluster_algo == "HDBSCAN":
     cluster_labels, silhouette_avg = evaluate_hdbscan(min_cluster_size=3, min_samples=2)
 
     # Choose the best parameters based on silhouette score
-    best_result = max(results, key=lambda x: x[2])
-    best_min_cluster_size, best_min_samples, best_silhouette, best_cluster_labels = best_result
+    # best_result = max(results, key=lambda x: x[2])
+    # best_min_cluster_size, best_min_samples, best_silhouette, best_cluster_labels = best_result
 
-    print(f"Best min_cluster_size: {best_min_cluster_size}, Best min_samples: {best_min_samples}, Best silhouette_score: {best_silhouette}")
+
+    # print(f"Best min_cluster_size: {best_min_cluster_size}, Best min_samples: {best_min_samples}, Best silhouette_score: {best_silhouette}")
+    print(f"Best silhouette_score: {silhouette_avg}")
 
     concept_cluster_list = [
-    (con, clus_label) for con, clus_label in zip(concepts, best_cluster_labels)
+    (con, clus_label) for con, clus_label in zip(concepts, cluster_labels)
 ]
 
     con_cluster_df = pd.DataFrame.from_records(
