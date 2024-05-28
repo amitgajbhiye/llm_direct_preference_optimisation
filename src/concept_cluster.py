@@ -99,7 +99,7 @@ if cluster_algo == "DBSCAN":
 if cluster_algo == "HDBSCAN":
 
     def evaluate_hdbscan(min_cluster_size, min_samples):
-        clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples)
+        clusterer = hdbscan.HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples, metric='cosine')
         cluster_labels = clusterer.fit_predict(llm_con_embeds)
         
         if len(set(cluster_labels)) > 1:
