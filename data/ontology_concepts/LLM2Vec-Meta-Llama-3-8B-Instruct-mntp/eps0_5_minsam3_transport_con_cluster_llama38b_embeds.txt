@@ -1,0 +1,223 @@
+concept	cluster_label
+turbojet engine	11
+turboprop airplane	11
+propeller airplane	11
+jet engine	10
+rocket engine	10
+jet airplane	10
+dual gauge railway	9
+multiple track railway	9
+standard gauge railway	9
+broad gauge railway	9
+fishing boat	8
+fishing vessel	8
+fishing trawler	8
+transit route	7
+transit shelter	7
+transit terminal	7
+transitway	7
+transit stop	7
+container terminal	6
+cargo ship	6
+partial container ship	6
+general cargo ship	6
+container ship	6
+electrical signalling	5
+electronic signalling	5
+electric device	5
+electronic device	5
+electric motor	5
+transportation device	4
+rail transportation system	4
+transportation company	4
+transportation schedule	4
+water transportation system	4
+flight schedule	4
+transportation system	4
+road transportation system	4
+air traffic control procedure	3
+traffic control process	3
+air traffic control tower	3
+air traffic control center	3
+ship hold	2
+ship deck	2
+ship compartment	2
+ship hatch	2
+ship cabin	2
+ship berth	2
+ship hull	2
+tractor trailer	1
+truck trailer	1
+truck tractor	1
+petroleum pipeline	0
+vehicle carrier ship	0
+petroleum product pipeline	0
+railcar carrier ship	0
+petroleum tanker ship	0
+petroleum product	0
+ore carrier ship	0
+chemical tanker ship	0
+legal charge	-1
+fish factory ship	-1
+canal lock	-1
+fire boat	-1
+fuel tank	-1
+dangerous goods	-1
+liner service	-1
+waterway junction	-1
+water area	-1
+organizational process	-1
+organic object	-1
+traffic light	-1
+international airport	-1
+railroad track	-1
+trade embargo	-1
+shipping channel	-1
+passenger ship	-1
+diesel engine	-1
+signalling	-1
+port crane	-1
+river port	-1
+military watercraft	-1
+offshore supply ship	-1
+vehicle crew	-1
+moving violation	-1
+offshore anchorage	-1
+radar facility	-1
+internal attribute	-1
+surfaced roadway	-1
+lighter	-1
+material handling equipment	-1
+gallery car	-1
+light fixture	-1
+deck cargo	-1
+motor scooter	-1
+managing	-1
+coach railcar	-1
+terminal building	-1
+commercial carrier	-1
+department of transportation	-1
+atmospheric region	-1
+organic compound	-1
+canal lock gate	-1
+freighter	-1
+local transit system	-1
+drilling ship	-1
+navigation light	-1
+full size van	-1
+maritime blockade	-1
+dry bulk cargo	-1
+intermodal transportation	-1
+road junction	-1
+passenger car	-1
+keeping	-1
+train station	-1
+ship register	-1
+shipping lane	-1
+parking garage	-1
+port embargo	-1
+sport utility vehicle	-1
+light truck	-1
+single traffic lane	-1
+mode of transit	-1
+outfit car	-1
+relational attribute	-1
+scale test car	-1
+hoisting device	-1
+railroad company	-1
+canal system	-1
+sea lane	-1
+vehicle wheel	-1
+emergency vehicle	-1
+traffic signal	-1
+watercraft	-1
+land area	-1
+emergency road vehicle	-1
+taking off	-1
+navigation	-1
+minivan	-1
+offshore support ship	-1
+major air carrier	-1
+train assembly	-1
+air route	-1
+deepwater port	-1
+freight car	-1
+cubic foot	-1
+rolling stock	-1
+land vehicle	-1
+navigation buoy	-1
+tank car	-1
+railroad bridge	-1
+regulatory process	-1
+intentional process	-1
+merchant marine	-1
+airport classification	-1
+body motion	-1
+pier	-1
+dining car	-1
+railway junction	-1
+flight deck	-1
+spine car	-1
+crew list	-1
+radar or sonar	-1
+contract carrier	-1
+crane ship	-1
+glider airplane	-1
+arriving	-1
+common carrier	-1
+containerization	-1
+flatcar	-1
+set or class	-1
+ship berthing	-1
+transportation authority	-1
+cargo handling	-1
+volume measure	-1
+radio navigation beacon	-1
+cabotage	-1
+deck crane	-1
+commercial agent	-1
+long ton	-1
+bulk cargo	-1
+tugboat	-1
+cargo container	-1
+unpaved runway	-1
+ocean liner	-1
+port city	-1
+pusher tug	-1
+port facility	-1
+railway vehicle	-1
+ship agent	-1
+private railcar	-1
+head end car	-1
+electrified railway	-1
+mass measure	-1
+paved runway	-1
+fixed bridge	-1
+whaling ship	-1
+guiding	-1
+bulkhead	-1
+commercial airport	-1
+bill of lading	-1
+aid to navigation	-1
+research ship	-1
+portable bridge	-1
+canal structure	-1
+cable ship	-1
+hangar bay	-1
+cab car	-1
+fire engine	-1
+refrigerated compartment	-1
+attaching	-1
+diesel fuel	-1
+hopper dredger	-1
+personal watercraft	-1
+vehicle registration	-1
+animal powered vehicle	-1
+etiologic agent	-1
+track gauge	-1
+registry ton	-1
+commercial shipping	-1
+road vehicle	-1
+cargo manifest	-1
+government organization	-1
+passenger railway car	-1

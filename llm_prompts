@@ -494,6 +494,118 @@ pip install llm2vec
 pip install flash-attn --no-build-isolation
 
 
+-rw-rw-r-- 1 amit amit 4.1K May 28 12:39 eps0_7_minsam10_transport_con_cluster_llama38b_embeds.txt
+-rw-rw-r-- 1 amit amit 4.1K May 28 12:39 eps0_7_minsam9_transport_con_cluster_llama38b_embeds.txt
+eps0_7_minsam7_transport_con_cluster_llama38b_embeds
+
+eps0_7_minsam5_transport_con_cluster_llama38b_embeds
+eps0_7_minsam3_transport_con_cluster_llama38b_embeds.txt
+
+
+eps0_5_minsam3_transport_con_cluster_llama38b_embeds.txt
+
+
+
+Categorise the concepts: turbojet engine, turboprop airplane, propeller airplane.
+
+turbojet engine turboprop airplane propeller airplane	
+
+
+llama3_8B_3inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concepts": [list of concepts to categorise], "category": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write a category for the following group of concepts bench, stool, chair, desk, bookshelf.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["bench", "stool", "chair", "desk", "bookshelf"], "category": ["furniture"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write a category for the following group of concepts chessboard, cards, tennis, football.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["chessboard", "cards", "tennis", "football"], "category": ["games"]}<|eot_id|>
+Write the ten most salient properties of the concept "cake".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["whisk", "mortar", "kitchen shears"], "category": ["tools"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write a category for the following group of concepts <CONCEPT_LIST>.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+
+
+
+bench, stool, chair, desk, bookshelf	furniture
+chessboard, cards, tennis, football	games
+
+whisk, mortar, kitchen shears	tools
+
+
+
+
+
+
+Hi Amit, 
+
+Thanks for your time earlier today. 
+
+I have a few follow up questions:
+- You mentioned your notice period was negotiable, would it be possible for you to join by 1st of July? If not what do you imagine the earliest date would be?
+- As a starting salary we can offer £70k + share options, would this interest you?
+- Are you able to share references of 2-3 previous employers, ideally direct managers or any principal investors you've worked with? If so could you please share linkedin, email and phone number where possible.
+
+Best,
+Catherine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

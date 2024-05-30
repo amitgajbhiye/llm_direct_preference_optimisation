@@ -1,0 +1,59 @@
+concept	cluster_label
+turbojet engine	11
+turboprop airplane	11
+propeller airplane	11
+jet engine	10
+rocket engine	10
+jet airplane	10
+dual gauge railway	9
+multiple track railway	9
+standard gauge railway	9
+broad gauge railway	9
+fishing boat	8
+fishing vessel	8
+fishing trawler	8
+transit route	7
+transit shelter	7
+transit terminal	7
+transitway	7
+transit stop	7
+container terminal	6
+cargo ship	6
+partial container ship	6
+general cargo ship	6
+container ship	6
+electrical signalling	5
+electronic signalling	5
+electric device	5
+electronic device	5
+electric motor	5
+transportation device	4
+rail transportation system	4
+transportation company	4
+transportation schedule	4
+water transportation system	4
+flight schedule	4
+transportation system	4
+road transportation system	4
+air traffic control procedure	3
+traffic control process	3
+air traffic control tower	3
+air traffic control center	3
+ship hold	2
+ship deck	2
+ship compartment	2
+ship hatch	2
+ship cabin	2
+ship berth	2
+ship hull	2
+tractor trailer	1
+truck trailer	1
+truck tractor	1
+petroleum pipeline	0
+vehicle carrier ship	0
+petroleum product pipeline	0
+railcar carrier ship	0
+petroleum tanker ship	0
+petroleum product	0
+ore carrier ship	0
+chemical tanker ship	0
