@@ -90,7 +90,6 @@ concept_category_prompts = [
     for con, cat in concepts_categories
 ]
 
-
 with open(file_name, "w") as out_file:
     for con, cat in concepts_categories:
         concept_prompt = llama3_8B_category_prompt.replace("<CATEGORY>", cat).replace(
@@ -159,7 +158,6 @@ with open(file_name, "w") as out_file:
 
 del model
 del pipeline
-
 
 gc.collect()
 gc.collect()
