@@ -122,7 +122,6 @@ with open(file_name, "w") as out_file:
 
 del model
 del pipeline
-del concept_prompts
 
 
 gc.collect()
