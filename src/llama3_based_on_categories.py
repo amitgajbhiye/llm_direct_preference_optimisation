@@ -92,7 +92,11 @@ concept_category_prompts = [
 
 
 with open(file_name, "w") as out_file:
-    for concept_prompt in concept_category_prompts:
+    for con, cat in concepts_categories:
+        concept_prompt = llama3_8B_category_prompt.replace("<CATEGORY>", cat).replace(
+            "<CONCEPT>", con
+        )
+
         print(f"concept_prompt: {concept_prompt}")
         sequences = pipeline(
             concept_prompt,
@@ -111,14 +115,47 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
+
+            print(f"Category: {cat}\n")
             print(f"{seq['generated_text']}\n")
 
+            out_file.write(f"Category: {cat}")
             out_file.write(f'{seq["generated_text"]}')
 
             print("===================================")
 
         del seq
         del sequences
+
+
+# with open(file_name, "w") as out_file:
+#     for concept_prompt in concept_category_prompts:
+#         print(f"concept_prompt: {concept_prompt}")
+#         sequences = pipeline(
+#             concept_prompt,
+#             do_sample=True,
+#             num_return_sequences=1,
+#             eos_token_id=tokenizer.eos_token_id,
+#             max_new_tokens=500,
+#             return_full_text=False,
+#             repetition_penalty=1.0,
+#             length_penalty=1.0,
+#             truncation=True,
+#             # max_length=500,
+#             # top_p=,
+#             # top_k=,
+#         )
+
+#         for seq in sequences:
+#             # response_list.append(f"{seq['generated_text']}\n\n")
+#             print(f"{seq['generated_text']}\n")
+
+#             out_file.write(f'{seq["generated_text"]}')
+
+#             print("===================================")
+
+#         del seq
+#         del sequences
 
 del model
 del pipeline
