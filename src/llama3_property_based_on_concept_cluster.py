@@ -76,16 +76,16 @@ concepts_categories = cluster_concepts_categories(file_path)
 llama3_8B_category_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
 You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
-All output must include only valid JSON like the following example {"concept list": [concepts list], "properties": [in_less_than_ten_words]}.
+All output must include only valid JSON like the following example {"concept_cluster": [concepts list], "properties": [in_less_than_ten_words]}.
 Don't add any explanations before and after the JSON.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
 
-In terms of <CATEGORY>, write the ten most salient properties of the following group of concept <CONCEPT_LIST>.<|eot_id|>
+In terms of <CATEGORY>, write the ten most salient common properties of the following group of concept <CONCEPT_LIST>.<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
-file_name = "llama3_transport_concept_cluster_properties.txt"
+file_name = "llama3_transport_properties_based_on_concept_cluster.txt"
 
 print(f"Prompt used is : {llama3_8B_category_prompt}")
 
