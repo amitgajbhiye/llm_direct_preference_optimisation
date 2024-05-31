@@ -1,0 +1,12 @@
+{"concepts": ["turbojet engine", "turboprop airplane", "propeller airplane"], "category": ["aircraft propulsion", "aircraft types", "aviation", "technology", "transportation"]}
+{"concepts": ["jet engine", "rocket engine", "jet airplane"], "category": ["aircraft components", "space exploration", "aviation", "engineering", "transportation"]}
+{"concepts": ["dual gauge railway", "multiple track railway", "standard gauge railway", "broad gauge railway"], "category": ["railway systems", "railway infrastructure", "track types", "gauge", "transportation"]}
+{"concepts": ["fishing boat", "fishing vessel", "fishing trawler"], "category": ["watercraft", "marine", "transportation", "industry", "recreational"]}
+{"concepts": ["transit route", "transit shelter", "transit terminal", "transitway", "transit stop"], "category": ["public transportation"]}
+{"concepts": ["container terminal", "cargo ship", "partial container ship", "general cargo ship", "container ship"], "category": ["maritime", "transportation", "industry", "infrastructure", "shipping"]}
+{"concepts": ["electrical signalling", "electronic signalling", "electric device", "electronic device", "electric motor"], "category": ["electronics", "technology", "energy", "signalling", "appliances"]}
+{"concepts": ["transportation device", "rail transportation system", "transportation company", "transportation schedule", "water transportation system", "flight schedule", "transportation system", "road transportation system"], "category": ["types", "modes", "companies", "schedules", "infrastructure", "systems", "means"]}
+{"concepts": ["air traffic control procedure", "traffic control process", "air traffic control tower", "air traffic control center"], "category": ["aviation", "air traffic management", "infrastructure", "organization", "processes"]}
+{"concepts": ["ship hold", "ship deck", "ship compartment", "ship hatch", "ship cabin", "ship berth", "ship hull"], "category": ["parts of a ship", "marine terminology", "ship's interior", "nautical structure", "vessel components"]}
+{"concepts": ["tractor trailer", "truck trailer", "truck tractor"], "category": ["transportation equipment", "trucks", "trailers", "vehicles", "semi-trucks"]}
+{"concepts": ["petroleum pipeline", "vehicle carrier ship", "petroleum product pipeline", "railcar carrier ship", "petroleum tanker ship", "petroleum product", "ore carrier ship", "chemical tanker ship"], "category": ["transportation", "industry", "marine", "infrastructure", "energy"]}
