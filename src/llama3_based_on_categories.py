@@ -118,7 +118,7 @@ with open(file_name, "w") as out_file:
             print(f"Category: {cat}\n")
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f"Category: {cat}")
+            out_file.write(f"Category: {cat}\n")
             out_file.write(f'{seq["generated_text"]}')
 
             print("===================================")
