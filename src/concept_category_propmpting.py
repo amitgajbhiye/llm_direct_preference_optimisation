@@ -63,13 +63,41 @@ Write a category for the following group of concepts chessboard, cards, tennis, 
 <|start_header_id|>assistant<|end_header_id|>
 
 {"concepts": ["chessboard", "cards", "tennis", "football"], "category": ["games"]}<|eot_id|>
-Write the ten most salient properties of the concept "cake".<|eot_id|>
+###Write the ten most salient properties of the concept "cake".<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>
 
 {"concepts": ["whisk", "mortar", "kitchen shears"], "category": ["tools"]}<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
 
 Write a category for the following group of concepts <CONCEPT_LIST>.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+multi_category_llama3_8B_3inc_con_group_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concepts": [list of concepts to categorise], "category": [list of five categories with each category less than ten words long]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write five categories for the following group of concepts bench, stool, chair, desk, bookshelf. For example, one of the category is:<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["bench", "stool", "chair", "desk", "bookshelf"], "category": ["furniture", etc.]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write five categories for the following group of concepts chessboard, cards, tennis, football. For example one of the category is: <|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["chessboard", "cards", "tennis", "football"], "category": ["games", etc.]}<|eot_id|>
+Write five categories for the following group of concepts whisk, mortar, kitchen shears. For example one of the category is: <|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["whisk", "mortar", "kitchen shears"], "category": ["tools", etc.]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write five categories for the following group of concepts <CONCEPT_LIST>.<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
@@ -100,13 +128,15 @@ pipeline = transformers.pipeline(
 )
 
 
-file_name = "llama3_with_3inc_exp_generated_transport_concepts_group_categories.txt"
+file_name = (
+    "llama3_with_3inc_exp_generated_transport_concepts_group_five_categories.txt"
+)
 
-print(f"Prompt used is : {llama3_8B_3inc_con_group_prompt}")
-# concept_prompts = [llama3_8B_3inc_prompt.replace("<CONCEPT>", con) for con in concepts]
+print(f"Prompt used is : {multi_category_llama3_8B_3inc_con_group_prompt}")
+
 
 con_group_prompt = [
-    llama3_8B_3inc_con_group_prompt.replace("<CONCEPT_LIST>", group)
+    multi_category_llama3_8B_3inc_con_group_prompt.replace("<CONCEPT_LIST>", group)
     for group in concept_group
 ]
 
