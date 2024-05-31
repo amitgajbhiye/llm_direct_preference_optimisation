@@ -81,7 +81,7 @@ In terms of <CATEGORY>, write the ten most salient properties of the concept <CO
 
 # file_name = f"{base_model.replace("-", "_").replace("/", "_")}_generated_inc_ex__concepts_properties.txt".lower()
 
-file_name = "llama3_with_3inc_exp_generated_transport_concepts_properties.txt"
+file_name = "llama3_transport_category_based_concepts_properties.txt"
 
 print(f"Prompt used is : {llama3_8B_category_prompt}")
 
