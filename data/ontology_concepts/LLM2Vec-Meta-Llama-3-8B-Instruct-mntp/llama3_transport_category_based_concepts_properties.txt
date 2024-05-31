@@ -1,0 +1,1145 @@
+
+
+Category: aircraft propulsion, 
+
+{"concept": "Turbojet Engine", "properties": ["High-speed exhaust gases", "Single-stage compressor", "No afterburner", "High-temperature combustion", "Axial flow", "High-bypass ratio", "Low-altitude performance", "High-speed operation", "Fuel-efficient", "Simple design"]}
+
+Category: aircraft types, 
+
+{"concept": "turbojet engine", "properties": ["high-speed", "axial flow", "compressor", "combustion chamber", "nozzle", "gaseous fuel", "high-temperature", "high-pressure", "efficient", "supersonic"]}
+
+Category: aviation, 
+
+{"concept": "Turbojet Engine", "properties": ["High-velocity exhaust", "Compressor and turbine", "Fuel-air mixture", "Ignition and combustion", "High-speed rotation", "Axial flow", "Jet thrust", "Efficient power", "Simple design", "High-speed exhaust gases"]}
+
+Category: technology, 
+
+{"concept": "turbojet engine", "properties": ["high-speed airflow", "axial flow compressor", "gas turbine", "high-temperature exhaust", "fast acceleration", "high thrust-to-weight ratio", "efficient fuel consumption", "simple design", "large diameter", "high power output"]}
+
+Category: transportation, 
+
+{"concept": "turbojet engine", "properties": ["high-speed", "jet propulsion", "gas turbine", "axial flow", "compressor", "combustor", "turbine", "exhaust nozzle", "high-bypass", "efficient"]}
+
+Category: aircraft propulsion, 
+
+{"concept": "Turboprop Airplane", "properties": ["Twin-shaft turbine engine", "Axial flow compressor", "Constant-speed propeller", "High-power-to-weight ratio", "Low fuel consumption", "Relatively quiet operation", "Ability to operate at high altitudes", "Turbine engine drives propeller directly", "Propeller pitch adjustable", "Reduces vibration and noise compared to piston engines"]}
+
+Category: aircraft types, 
+
+{"concept": "turboprop airplane", "properties": ["powered by turbine engine", "propeller driven", "efficient for short takeoffs", "can operate from small runways", "relatively low operating cost", "highly maneuverable", "can fly at high altitudes", "typically used for regional flights", "more environmentally friendly than jets", "can carry heavy payloads"]}
+
+Category: aviation, 
+
+{"concept": "turboprop airplane", "properties": ["highly efficient", "low operating costs", "ability to operate at high altitudes", "reliable", "quiet", "ability to take off and land on short runways", "ability to operate in hot and high conditions", "low maintenance", "ability to carry heavy payloads", "versatile"]}
+
+Category: technology, 
+
+{"concept": "turboprop airplane", "properties": ["propeller driven", "turbine engine", "high efficiency", "low operating cost", "long range", "short takeoff", "high altitude", "reliable", "versatile", "environmentally friendly"]}
+
+Category: transportation, 
+
+{"concept": "turboprop airplane", "properties": ["twin-engine", "propeller-driven", "jet-powered", "efficient", "cost-effective", "short takeoff", "high-altitude", "reliable", "versatile", "environmentally friendly"]}
+
+Category: aircraft propulsion, 
+
+{"concept": "Propeller Airplane", "properties": ["pilot-controlled", "fixed-wing", "propeller-driven", "single-engine", "powered", "fixed-pitch", "bladed", "lift-generating", "airfoil-shaped", "low-altitude-capable"]}
+
+Category: aircraft types, 
+
+{"concept": "propeller airplane", "properties": ["powered by piston engine", "has propeller for propulsion", "fixed wing", "short takeoff and landing", "relatively low cost", "simple design", "no need for runway", "used for small-scale flights", "popular in general aviation", "often used for training"]}
+
+Category: aviation, 
+
+{"concept": "propeller airplane", "properties": ["powered by propeller", "fixed wing design", "engine-driven propeller", "no jet engine", "piston engine or electric motor", "single or multi-engine", "uses airfoil shape", "produces lift and thrust", "typically small to medium size", "used for general aviation and recreation"]}
+
+Category: technology, 
+
+{"concept": "propeller airplane", "properties": ["powered by engine", "propellers provide thrust", "fixed wings for lift", "uses rudder for steering", "typically small to medium size", "single or multiple engines", "pilot controls aircraft", "uses landing gear for takeoff/landing", "relatively low altitude", "uses navigation instruments for flight"]}
+
+Category: transportation, 
+
+{"concept": "propeller airplane", "properties": ["powered by propellers", "uses engines for propulsion", "has fixed wings", "typically small to medium-sized", "used for general aviation", "can carry passengers and cargo", "has a cockpit for pilot control", "usually has a fixed landing gear", "uses airfields or small airports", "relatively low-cost to operate"]}
+
+Category: aircraft components, 
+
+{"concept": "jet engine", "properties": ["high-speed turbine", "compresses air", "ignites fuel", "produces thrust", "efficient", "complex", "high-temperature", "high-pressure", "precision-engineered", "piston-free"]}
+
+Category: space exploration, 
+
+{"concept": "Jet Engine", "properties": ["Used in rockets and spacecraft", "Provides thrust", "Efficient fuel consumption", "High-speed rotation", "Turbo machinery", "Air-breathing", "Produces hot exhaust gases", "Used in aircraft propulsion", "High-power output", "Precise control required"]}
+
+Category: aviation, 
+
+{"concept": "jet engine", "properties": ["turbojet", "compressor", "combustion", "expansion", "high-temperature", "high-velocity", "airflow", "fuel-efficient", "powerful", "reliable"]}
+
+Category: engineering, 
+
+{"concept": "jet engine", "properties": ["turbojet", "axial flow", "combustion", "high-speed exhaust", "ducted fan", "compressor", "turbine", "mixing chamber", "afterburner", "high-temperature operation"]}
+
+Category: transportation, 
+
+{"concept": "Jet Engine", "properties": ["High-speed", "Gas-turbine", "Aircraft-powered", "Fuel-efficient", "High-thrust", "Lightweight", "Reliable", "Maintenance-intensive", "Noise-polluting", "High-tech"]}
+
+Category: aircraft components, 
+
+{"concept": "rocket engine", "properties": ["propels rocket forward", "uses combustion reaction", "produces thrust", "fuels combustion", "high-temperature exhaust", "efficient combustion", "controlled combustion", "specific impulse", "thrust-to-weight ratio", "high-power output"]}
+
+Category: space exploration, 
+
+{"concept": "rocket engine", "properties": ["propels spacecraft", "uses combustion", "generates thrust", "requires fuel and oxidizer", "has nozzle for exhaust", "produces high-speed exhaust", "is often reusable", "has variable thrust", "can be electric", "is crucial for space travel"]}
+
+Category: aviation, 
+
+{"concept": "rocket engine", "properties": ["propels rocket through space", "uses combustion to generate thrust", "burns fuel and oxidizer", "generates high exhaust velocity", "produces high thrust-to-weight ratio", "requires precise control", "uses guidance systems for navigation", "typically uses liquid fuel", "has high specific impulse", "plays crucial role in space exploration"]}
+
+Category: engineering, 
+
+{"concept": "rocket engine", "properties": ["propels vehicle upward", "uses combustion to generate thrust", "burns fuel and oxidizer", "highly efficient", "requires precise control", "generates massive power", "uses nozzles to direct exhaust", "involves complex systems", "requires careful design", "has high thrust-to-weight ratio"]}
+
+Category: transportation, 
+
+{"concept": "rocket engine", "properties": ["propels vehicle", "uses combustion", "generates thrust", "requires fuel and oxidizer", "highly efficient", "rapid acceleration", "reaches high speeds", "complex design", "requires precise control", "used in space exploration"]}
+
+Category: aircraft components, 
+
+{"concept": "jet airplane", "properties": ["powered by jet engines", "typically has a narrow fuselage", "has a high-subsonic cruise speed", "uses afterburners for thrust", "has a high-aspect-ratio wing", "uses jet fuel", "has a retractable landing gear", "has a cockpit for pilot control", "has a high-mounted tail", "is designed for efficient fuel consumption"]}
+
+Category: space exploration, 
+
+{"concept": "jet airplane", "properties": ["powered by jet engines", "can fly at high speeds", "uses afterburners for thrust", "has a fast climb rate", "can operate at high altitudes", "has a long range", "can carry heavy payloads", "has a high degree of maneuverability", "requires specialized maintenance", "has a complex avionics system"]}
+
+Category: aviation, 
+
+{"concept": "Jet Airplane", "properties": ["Faster than propeller-driven planes", "Powered by jet engines", "High-speed flight capability", "Longer range than propeller-driven planes", "Higher altitudes", "Faster climb rates", "Quieter than propeller-driven planes", "Less vibration", "More efficient fuel consumption", "Higher speeds than 500 mph"]}
+
+Category: engineering, 
+
+{"concept": "Jet Airplane", "properties": ["Faster than propeller-driven planes", "Uses jet engines for propulsion", "Typically has a high-subsonic or supersonic cruise speed", "Has a more efficient fuel-to-thrust ratio", "Produces less noise than propeller-driven planes", "Can carry more passengers or cargo", "Requires more complex maintenance", "Has a higher operating cost", "Is more vulnerable to turbulence", "Requires a longer runway for takeoff and landing"]}
+
+Category: transportation, 
+
+{"concept": "Jet Airplane", "properties": ["Faster than propeller-driven planes", "Uses jet engines for propulsion", "Typically flies at high altitudes", "Can travel long distances quickly", "Requires specialized airport facilities", "Has a high cruising speed", "Is often used for commercial flights", "Has a high fuel efficiency", "Is a popular mode of air travel", "Is a type of fixed-wing aircraft"]}
+
+Category: railway systems, 
+
+{"concept": "dual gauge railway", "properties": ["allows trains to run on multiple gauges", "increases railway flexibility", "reduces infrastructure costs", "enhances rail network connectivity", "supports multiple train types", "facilitates international rail travel", "reduces traffic congestion", "boosts economic growth", "encourages sustainable transportation", "promotes rail industry development"]}
+
+Category: railway infrastructure, 
+
+{"concept": "dual gauge railway", "properties": ["allows trains of different gauges to share the same track", "consists of two parallel rails with different gauges", "enables trains to operate on different gauges without conversion", "reduces infrastructure costs and increases flexibility", "increases the capacity of rail networks", "reduces congestion and delays", "allows for mixed-traffic operations", "can be used for international rail transport", "requires specialized maintenance and inspection", "is commonly used in countries with multiple gauge standards"]}
+
+Category: track types, 
+
+{"concept": "dual gauge railway", "properties": ["allows trains to run on different track gauges", "increases rail network flexibility", "enables trains to run on multiple tracks", "reduces infrastructure costs", "enhances rail network capacity", "simplifies rail network maintenance", "increases rail network accessibility", "reduces transportation disruptions", "enhances rail network resilience", "increases rail network efficiency"]}
+
+Category: gauge, 
+
+{"concept": "dual gauge railway", "properties": ["used in multiple countries", "allows trains to operate on different tracks", "reduces infrastructure costs", "increases flexibility", "used for freight and passenger transport", "tracks are parallel and separate", "same train can operate on different gauges", "easier maintenance and inspection", "reduces congestion and delays", "used in countries with mixed gauge networks"]}
+
+Category: transportation, 
+
+{"concept": "dual gauge railway", "properties": ["allows two different track gauges on same route", "increases flexibility and efficiency", "enables trains of different gauges to share tracks", "reduces construction costs", "simplifies maintenance", "enhances interoperability", "facilitates international train operations", "reduces infrastructure duplication", "increases capacity and productivity", "supports multiple train types and operators", "promotes economic development"]}
+
+Category: railway systems, 
+
+{"concept": "multiple track railway", "properties": ["tracks", "parallel", "separate", "for", "different", "directions", "or", "speeds", "used", "simultaneously"]}
+
+Category: railway infrastructure, 
+
+{"concept": "Multiple Track Railway", "properties": ["Parallel tracks for increased capacity", "Tracks separated by ballast or sleepers", "Multiple tracks for different directions", "Tracks for different speed limits", "Tracks for different train types", "Increased track density", "Reduced congestion", "Improved train frequency", "Enhanced safety features", "Increased infrastructure capacity"]}
+
+Category: track types, 
+
+{"concept": "multiple track railway", "properties": ["simultaneous movement of multiple trains", "increased capacity", "reduced congestion", "improved efficiency", "enhanced safety", "reduced risk of accidents", "easier maintenance", "ability to separate fast and slow trains", "reduced noise pollution", "better train scheduling"]}
+
+Category: gauge, 
+
+{"concept": "multiple track railway", "properties": ["has multiple parallel tracks", "used for heavy traffic", "increases capacity", "reduces congestion", "improves safety", "allows multiple trains", "reduces headway", "enhances efficiency", "used for freight and passenger", "common in high-demand areas"]}
+
+Category: transportation, 
+
+{"concept": "multiple track railway", "properties": ["has multiple parallel tracks", "used for high-capacity transportation", "tracks are separated by a buffer", "elevated or at-grade", "used for freight and passenger", "tracks are managed by a single authority", "has signaling and communication systems", "used for heavy haulage", "has a dedicated maintenance team", "cost-effective and efficient"]}
+
+Category: railway systems, 
+
+{"concept": "standard gauge railway", "properties": ["Widest used gauge", "1435 mm", "Used globally", "Except some countries", "Like Russia and India", "Easiest for interchange", "Most common gauge", "Railway lines worldwide", "Different gauges", "Incompatible with others"]}
+
+Category: railway infrastructure, 
+
+{"concept": "standard gauge railway", "properties": ["4 feet 8.5 inches", "most widely used", "compatible", "universal", "compatible with", "most modern", "widespread", "global", "historical", "mainline"]}
+
+Category: track types, 
+
+{"concept": "standard gauge railway", "properties": ["rails spaced 4 feet 8.5 inches apart", "widely used globally", "compatible with most trains", "allows for efficient transportation", "economical to build and maintain", "suitable for heavy loads", "compatible with various train types", "facilitates international trade", "popular in developed countries", "well-established infrastructure"]}
+
+Category: gauge, 
+
+{"concept": "standard gauge railway", "properties": ["1435 mm, common in UK, Europe, and North America, allows standardization of equipment, facilitates international transport, reduces infrastructure costs, increases efficiency, promotes trade, enables interchange of trains, supports global supply chain, enhances passenger and freight services, boosts economic growth"]}
+
+Category: transportation, 
+
+{"concept": "standard gauge railway", "properties": ["wide enough for most trains", "1435 mm", "most common gauge globally", "allows interchange of trains", "easy maintenance", "compatible with most tracks", "allows for standardization", "used in many countries", "suitable for heavy loads", "versatile and efficient"]}
+
+Category: railway systems, 
+
+{"concept": "Broad gauge railway", "properties": ["Wider than standard gauge", "Typically 1524 mm or 1825 mm", "Used in Russia, India, and Australia", "Allows for faster speeds", "Increased stability and comfort", "More efficient use of land", "Higher capacity", "Easier maintenance", "Less prone to derailment", "Wider wheelbase"]}
+
+Category: railway infrastructure, 
+
+{"concept": "Broad gauge railway", "properties": ["Railway track with a width of 1,676 mm", "Common in India and Russia", "Wider than standard gauge", "Allows for heavier loads", "Increases stability", "Reduces curvature", "Used in some African countries", "Economical for heavy haulage", "Not as widely used as standard gauge", "Challenging for international connections"]}
+
+Category: track types, 
+
+{"concept": "Broad gauge railway", "properties": ["Wider than standard gauge, typically 1,520 mm or 5 ft", "Used in Russia, India, and other countries", "Allows for heavier loads and faster speeds", "Increased stability and reduced curvature", "More efficient in certain terrain", "Less expensive to build and maintain", "Better suited for heavy freight transport", "Historically used in some African and Asian countries", "Still used in some areas today", "Not as widely used as standard gauge"]}
+
+Category: gauge, 
+
+{"concept": "broad gauge railway", "properties": ["used in Russia, China, and some African countries", "track gauge is 1520 mm", "wider than standard gauge", "allows heavier loads", "increased stability", "reduced curvature", "easier maintenance", "better traction", "less susceptible to derailment", "higher capacity"]}
+
+Category: transportation, 
+
+{"concept": "broad gauge railway", "properties": ["larger track gauge", "typically 1520mm", "used in Russia and China", "more stable and durable", "can handle heavy loads", "faster speeds", "lower maintenance costs", "more efficient", "wider loading gauge", "increased capacity"]}
+
+Category: watercraft, 
+
+{"concept": "fishing boat", "properties": ["designed for fishing", "sturdy and durable", "usually small to medium size", "outfitted with fishing gear", "often has a flat bottom", "may have a cabin or canopy", "powered by outboard motor", "can be used for recreational or commercial fishing", "may have a deck or platform", "typically has a shallow draft"]}
+
+Category: marine, 
+
+{"concept": "fishing boat", "properties": ["has deck", "used for fishing", "usually has fishing gear", "can be small or large", "has propulsion system", "used in various waters", "has storage space", "has navigation system", "has safety equipment", "designed for fishing trips"]}
+
+Category: transportation, 
+
+{"concept": "fishing boat", "properties": ["small", "rugged", "sturdy", "stable", "fast", "maneuverable", "well-equipped", "specifically designed", "used for commercial or recreational fishing", "often found near coastal areas"]}
+
+Category: industry, 
+
+{"concept": "fishing boat", "properties": ["used for commercial fishing", "designed for open sea", "usually large", "equipped with fishing gear", "has storage for catch", "has navigation system", "has communication equipment", "has safety equipment", "has crew quarters", "has fishing nets"]}
+
+Category: recreational, 
+
+{"concept": "fishing boat", "properties": ["smaller size", "shallow draft", "sturdy construction", "outdoor deck", "angling gear storage", "fish finder equipment", "waterproof storage", "anchoring system", "propulsion engine", "ocean-going capabilities"]}
+
+Category: watercraft, 
+
+{"concept": "fishing vessel", "properties": ["ocean-going", "designed for fishing", "typically large", "equipped for hauling", "may have refrigeration", "may have living quarters", "may have storage for catch", "often used for commercial fishing", "can be crewed or self-operated", "may have multiple decks"]}
+
+Category: marine, 
+
+{"concept": "fishing vessel", "properties": ["Designed for fishing", "Usually large", "Equipped with fishing gear", "Operates in open sea", "Dependent on weather", "Requires skilled crew", "May have storage for catch", "Needs regular maintenance", "Can be used for research", "May have multiple decks"]}
+
+Category: transportation, 
+
+{"concept": "fishing vessel", "properties": ["ocean-going", "designed for fishing", "usually large", "engine-powered", "has fishing gear", "used for commercial fishing", "may be refrigerated", "has storage space", "has crew quarters", "has navigation equipment"]}
+
+Category: industry, 
+
+{"concept": "fishing vessel", "properties": ["ocean-going", "designed for fishing", "usually large", "well-equipped", "crew-operated", "may be refrigerated", "often used for long trips", "can be used for multiple purposes", "has crew quarters", "needs maintenance regularly"]}
+
+Category: recreational, 
+
+{"concept": "fishing vessel", "properties": ["used for catching fish", "designed for sea travel", "typically large and sturdy", "equipped with fishing gear", "has a crew", "may have accommodations", "often has storage", "can be used for research", "may have a radar system", "has a propulsion system"]}
+
+Category: watercraft, 
+
+{"concept": "fishing trawler", "properties": ["vessel used for fishing", "typically large", "equipped with nets or lines", "used for commercial or recreational fishing", "often found in coastal areas", "can be powered by engines or sails", "may have refrigeration for storing catch", "can be used for research or tourism", "requires skilled crew", "may have multiple decks"]}
+
+Category: marine, 
+
+{"concept": "Fishing Trawler", "properties": ["vessel designed for fishing", "bottom-trawling gear used", "long duration at sea", "catches large quantities", "supports multiple crew", "often used for deep-sea fishing", "has storage for caught fish", "equipped with navigation systems", "may have refrigeration facilities", "used in various ocean regions"]}
+
+Category: transportation, 
+
+{"concept": "fishing trawler", "properties": ["vessel", "used for fishing", "large net", "bottom trawling", "deep sea fishing", "long journey", "catches fish", "processed on board", "stores fish", "often noisy", "has crew"]}
+
+Category: industry, 
+
+{"concept": "fishing trawler", "properties": ["vessel used for commercial fishing", "bottom trawling method", "large deck space", "multiple fishing nets", "catches sea creatures", "operates in open ocean", "long-distance voyages", "crew of fishermen", "processing and storage facilities", "often large and sturdy"]}
+
+Category: recreational, 
+
+{"concept": "fishing trawler", "properties": ["vessel", "used", "fishing", "nets", "deep", "ocean", "catch", "fish", "nets", "large"]}
+
+Category: public transportation, 
+
+{"concept": "transit route", "properties": ["route between two points", "public transportation", "stops at designated stations", "follows a fixed path", "serves multiple destinations", "uses buses, trains, or subways", "has a specific schedule", "operates on a fixed route", "carries passengers", "managed by a transportation authority"]}
+
+Category: public transportation, 
+
+{"concept": "transit shelter", "properties": ["provides weather protection", "typically found at bus stops", "offers seating", "may have advertising", "provides information on schedules", "is a common sight in urban areas", "may have amenities like lights or benches", "is designed for safety", "can be simple or elaborate in design", "serves as a landmark for passengers"]}
+
+Category: public transportation, 
+
+{"concept": "transit terminal", "properties": ["location", "connection point", "multiple modes of transport", "centralized hub", "traffic hub", "major transportation hub", "public transportation center", "bus and train station", "airplane terminal", "convenience store"]}
+
+Category: public transportation, 
+
+{"concept": "transitway", "properties": ["high-occupancy road", "dedicated bus lane", "separate from regular traffic", "improved traffic flow", "reduced congestion", "increased public transportation efficiency", "faster travel times", "reduced air pollution", "enhanced passenger experience", "environmentally friendly"]}
+
+Category: public transportation, 
+
+{"concept": "transit stop", "properties": ["location", "bus or train station", "publicly accessible", "stops vehicles", "serves commuters", "has schedules", "provides transfers", "has amenities", "is marked", "has signs"]}
+
+Category: maritime, 
+
+{"concept": "container terminal", "properties": ["handles containerized cargo", "located at ports", "uses cranes and gantries", "efficiently loads/unloads containers", "increases cargo capacity", "reduces labor costs", "improves cargo security", "facilitates international trade", "requires specialized equipment", "generates significant revenue"]}
+
+Category: transportation, 
+
+{"concept": "container terminal", "properties": ["large storage capacity", "loading and unloading of containers", "port facilities", "sea and land transportation connections", "efficient cargo handling", "security measures", "weather-resistant infrastructure", "round-the-clock operations", "high-tech equipment", "bulk cargo management"]}
+
+Category: industry, 
+
+{"concept": "container terminal", "properties": ["large-scale facility", "handles containerized cargo", "sea-land interface", "bulk cargo handling", "warehousing and storage", "loading and unloading", "crane operations", "quay and dock infrastructure", "security and surveillance", "24/7 operations"]}
+
+Category: infrastructure, 
+
+{"concept": "container terminal", "properties": ["a facility for handling containers", "located near ports or harbors", "used for cargo storage and transfer", "specialized equipment for loading and unloading", "high-capacity cranes and gantry systems", "stacking of containers", "efficient use of space and labor", "weatherproof and secure", "24/7 operations", "environmentally friendly operations"]}
+
+Category: shipping, 
+
+{"concept": "container terminal", "properties": ["large warehouse for shipping containers", "handles international cargo", "cranes load/unload containers", "automated systems for efficiency", "security measures for cargo", "reliant on logistics and transportation", "strategic location for trade", "employs specialized workers", "handles various container sizes", "24/7 operations for global trade"]}
+
+Category: maritime, 
+
+{"concept": "cargo ship", "properties": ["large vessel", "carries goods", "not for passengers", "has cargo hold", "may have cranes", "propelled by engine", "varies in size", "used globally", "has crew on board", "can be containerized"]}
+
+Category: transportation, 
+
+{"concept": "cargo ship", "properties": ["large vessel", "carries goods", "long-range", "ocean-going", "heavy-lift", "containerized", "bulk cargo", "liquid cargo", "refrigerated cargo", "multiple decks"]}
+
+Category: industry, 
+
+{"concept": "cargo ship", "properties": ["large vessel", "carries goods", "ocean-going", "containerized", "freight", "trade", "international", "long-distance", "massive", "self-sustaining"]}
+
+Category: infrastructure, 
+
+{"concept": "cargo ship", "properties": ["large vessel", "carries goods", "not passenger", "self-propelled", "long-distance", "global trade", "containerized", "heavy cargo", "bulk cargo", "specialized equipment"]}
+
+Category: shipping, 
+
+{"concept": "cargo ship", "properties": ["ocean-going vessel", "carries goods", "large capacity", "multiple decks", "containerized", "bulk cargo", "refrigerated containers", "specialized cargo handling", "crew-operated", "long-distance transportation"]}
+
+Category: maritime, 
+
+{"concept": "partial container ship", "properties": ["medium-sized vessel", "carries fewer containers", "than a full container ship", "typically 100-500 TEUs", "used for smaller cargo", "more flexible route options", "lower capital investment", "economical for small cargo", "environmentally friendly", "suitable for niche markets"]}
+
+Category: transportation, 
+
+{"concept": "partial container ship", "properties": ["large capacity", "holds less than full container", "used for less-than-container-load", "economical", "environmentally friendly", "reduces waste", "cost-effective", "flexible", "efficient", "sustainable"]}
+
+Category: industry, 
+
+{"concept": "Partial Container Ship", "properties": ["Type of ship", "Not fully containerized", "Carries fewer containers", "Smaller than a full container ship", "Used for niche markets", "Economical option", "Faster turnaround times", "Less maintenance required", "Lower capital costs", "Flexibility in cargo handling"]}
+
+Category: infrastructure, 
+
+{"concept": "partial container ship", "properties": ["a type of ship", "carries less than full container load", "smaller than a standard container ship", "used for regional trade", "cost-effective", "environmentally friendly", "flexible cargo capacity", "can carry mixed cargo", "used for niche markets", "less expensive to operate"]}
+
+Category: shipping, 
+
+{"concept": "partial container ship", "properties": ["vessel used for carrying partially loaded containers", "not fully loaded with containers", "reduces costs and environmental impact", "increases port efficiency", "typically used for short-distance transportation", "may carry other types of cargo", "often used in coastal trade", "can be more environmentally friendly", "can reduce traffic congestion", "offers flexible cargo capacity"]}
+
+Category: maritime, 
+
+{"concept": "General Cargo Ship", "properties": ["Multi-purpose vessel", "Carries non-specialized cargo", "No specific containerization", "Can handle various cargo types", "Typically smaller than container ships", "May have open or enclosed holds", "Often has cranes or derricks", "Cargo loaded/unloaded via hatches", "Not designed for specific cargo types", "Operates in various trade routes"]}
+
+Category: transportation, 
+
+{"concept": "general cargo ship", "properties": ["large capacity", "flexible cargo handling", "various cargo types", "global routes", "containerized and non-containerized cargo", "reliable and efficient", "economical", "environmentally friendly", "crew of 10-20 people", "size range: 100-200 meters long"]}
+
+Category: industry, 
+
+{"concept": "General Cargo Ship", "properties": ["large capacity", "flexible cargo handling", "various cargo types", "multiple cargo holds", "containerized cargo", "bulk cargo", "project cargo", "heavy-lift cargo", "specialized equipment", "global operations"]}
+
+Category: infrastructure, 
+
+{"concept": "General Cargo Ship", "properties": ["Large capacity for carrying various goods", "Open deck for loading and unloading", "Multi-purpose cargo handling", "Flexible cargo configuration", "Various cargo types carried", "Highly versatile vessel", "Wide range of cargo sizes accommodated", "Cargo secured with ropes and nets", "No specialized equipment required", "Operates in global trade routes"]}
+
+Category: shipping, 
+
+{"concept": "General Cargo Ship", "properties": ["multi-purpose vessel", "carries non-specialized goods", "various cargo types", "no specific containerization", "heavy lifting capacity", "open deck space", "often bulk cargo", "may carry refrigerated goods", "can carry oversized cargo", "simple cargo handling equipment"]}
+
+Category: maritime, 
+
+{"concept": "container ship", "properties": ["large", "hull", "cargo", "container", "holds", "stacked", "efficient", "bulk", "global", "trade"]}
+
+Category: transportation, 
+
+{"concept": "container ship", "properties": ["large", "ocean-going", "used for cargo", "holds containers", "long and narrow", "steel hull", "powered by diesel", "has cranes", "stops at ports", "efficient for bulk transport"]}
+
+Category: industry, 
+
+{"concept": "container ship", "properties": ["Large vessel used for global trade", "Designed to carry containers", "Typically 400-600 feet long", "Hold thousands of twenty-foot containers", "Operate in international waters", "Require skilled crew", "Need regular maintenance", "Can be equipped with cranes", "Play crucial role in global supply chain", "Highly specialized and complex vessel"]}
+
+Category: infrastructure, 
+
+{"concept": "container ship", "properties": ["large size", "holds thousands of containers", "long and narrow", "propelled by diesel engine", "carries heavy cargo", "high-tech navigation system", "multiple cargo holds", "sturdy hull", "weather-resistant", "global operations"]}
+
+Category: shipping, 
+
+{"concept": "container ship", "properties": ["large vessel", "used for transporting containers", "holds thousands of containers", "typically 400-500 meters long", "can carry 10,000-20,000 TEUs", "built for efficiency and speed", "has cranes for loading/unloading", "requires specialized crew and equipment", "operates in international trade", "plays crucial role in global economy"]}
+
+Category: electronics, 
+
+{"concept": "electrical signalling", "properties": ["digital signal", "analog signal", "voltage levels", "frequency", "amplitude", "signal integrity", "noise reduction", "signal processing", "data transmission", "electrical circuitry"]}
+
+Category: technology, 
+
+{"concept": "electrical signalling", "properties": ["uses electrical impulses", "transmits information", "binary code", "digital signals", "amplification", "noise reduction", "modulation", "demodulation", "signal processing", "communication systems"]}
+
+Category: energy, 
+
+{"concept": "electrical signalling", "properties": ["generated by neurons", "rapidly transmitted", "electrical impulses", "action potentials", "ionic currents", "nerve conduction", "rapidly propagated", "synapses involved", "chemical transmission", "brain communication"]}
+
+Category: signalling, 
+
+{"concept": "electrical signalling", "properties": ["uses electrical impulses", "transmits information", "has voltage and current", "uses wires and circuits", "can be digital or analog", "has frequency and amplitude", "can be modulated and demodulated", "uses amplifiers and filters", "has noise and interference", "is used in communication and control"]}
+
+Category: appliances, 
+
+{"concept": "electrical signaling", "properties": ["used in appliances", "converts AC to DC", "regulates voltage", "provides power", "sends signals", "receives signals", "amplifies signals", "filters signals", "measures signals", "transmits signals"]}
+
+Category: electronics, 
+
+{"concept": "Electronic Signalling", "properties": ["Method of communication between electronic devices", "Uses electrical signals to convey information", "Signal can be analog or digital", "Signal can be transmitted over wires or wirelessly", "Signal can be modulated to change its properties", "Signal can be amplified or attenuated", "Signal can be filtered to remove noise", "Signal can be decoded to retrieve original information", "Signal can be corrupted by interference or noise", "Signal can be secured using encryption methods"]}
+
+Category: technology, 
+
+{"concept": "electronic signalling", "properties": ["Digital transmission of information", "Wireless communication", "Radio frequency signals", "Encoded messages", "Decoded signals", "Microcontrollers involved", "Analog-to-digital conversion", "Signal amplification", "Error correction mechanisms", "Digital signal processing"]}
+
+Category: energy, 
+
+{"concept": "electronic signalling", "properties": ["digital", "electromagnetic", "wired", "wireless", "modulated", "amplitude", "frequency", "information", "transmitted", "received"]}
+
+Category: signalling, 
+
+{"concept": "electronic signalling", "properties": ["wireless", "digital", "electromagnetic", "rapid", "long-distance", "high-speed", "error-free", "reliable", "secure", "global"]}
+
+Category: appliances, 
+
+{"concept": "electronic signalling", "properties": ["used in appliances", "transmits information", "digital signals", "analog signals", "wired and wireless", "low and high frequency", "amplitude and frequency modulation", "encoding and decoding", "signal processing", "electronic devices"]}
+
+Category: electronics, 
+
+{"concept": "electric device", "properties": ["electrical power source", "input/output ports", "circuitry", "electrical components", "wiring", "switches", "controls", "outputs", "power consumption", "efficiency"]}
+
+Category: technology, 
+
+{"concept": "electric device", "properties": ["powered by electricity", "uses electrical energy", "converts AC to DC", "has a power source", "produces electromagnetic fields", "uses electrical circuits", "can be controlled by switches", "has a casing to protect components", "uses wires for connection", "has a specific purpose or function"]}
+
+Category: energy, 
+
+{"concept": "electric device", "properties": ["converts electrical energy", "produces electrical output", "uses electrical power", "has a circuit", "uses wires", "uses a power source", "has a function", "has a purpose", "can be controlled", "has electrical safety features"]}
+
+Category: signalling, 
+
+{"concept": "electric device", "properties": ["produces electricity", "uses electricity", "powered by electricity", "converts energy", "has wires", "has a plug", "has a switch", "has a circuit", "can be turned on and off", "requires electricity to function"]}
+
+Category: appliances, 
+
+{"concept": "electric device", "properties": ["small", "portable", "powered by electricity", "uses electrical energy", "converts AC to DC", "has a cord", "has a plug", "produces heat", "has a switch", "can be turned on and off"]}
+
+Category: electronics, 
+
+{"concept": "electronic device", "properties": ["has electronic circuitry", "uses electricity", "converts electrical energy", "performs specific functions", "has input/output interfaces", "uses microcontrollers or ICs", "can be powered by battery or AC", "has a physical casing", "is designed for specific applications", "can be connected to other devices"]}
+
+Category: technology, 
+
+{"concept": "electronic device", "properties": ["can be powered by electricity", "uses electronic circuits", "converts electrical energy", "has electronic components", "uses microcontrollers or CPUs", "can store data", "can process information", "has a user interface", "can communicate with other devices", "can be controlled remotely"]}
+
+Category: energy, 
+
+{"concept": "electronic device", "properties": ["uses electricity", "converts electrical energy", "produces heat", "generates light", "has a power source", "has a circuit", "has a processor", "has memory", "has input/output devices", "can be controlled remotely"]}
+
+Category: signalling, 
+
+{"concept": "electronic device", "properties": ["uses electricity", "converts energy", "has circuitry", "uses semiconductors", "has microprocessor", "has memory", "has input/output devices", "can perform calculations", "can store data", "has power source"]}
+
+Category: appliances, 
+
+{"concept": "electronic device", "properties": ["small", "portable", "powered", "by electricity", "has buttons or screen", "performs specific task", "uses microchip", "needs charging", "can be connected to internet", "has limited battery life"]}
+
+Category: electronics, 
+
+{"concept": "electric motor", "properties": ["uses electromagnetic forces", "converts electrical energy", "into mechanical energy", "has coils and magnets", "rotates when energized", "can be DC or AC powered", "used in many applications", "efficient in converting energy", "can be small or large", "has many types and designs"]}
+
+Category: technology, 
+
+{"concept": "electric motor", "properties": ["uses electricity as input", "converts electrical energy to mechanical energy", "has moving parts", "produces torque", "rotates shaft", "can be brushed or brushless", "has varying speeds", "is used in many applications", "is efficient", "has low maintenance"]}
+
+Category: energy, 
+
+{"concept": "electric motor", "properties": ["uses electrical energy", "converts electrical energy into mechanical energy", "uses electromagnetic forces", "produces torque", "rotates", "efficient", "reversible", "can be used in various applications", "has a high power-to-weight ratio", "has a wide range of speeds"]}
+
+Category: signalling, 
+
+{"concept": "electric motor", "properties": ["uses electricity", "converts electrical energy", "into mechanical energy", "rotates shaft", "produces torque", "has coils and magnets", "operates in DC or AC", "can be brushed or brushless", "efficient and reliable", "used in many applications"]}
+
+Category: appliances, 
+
+{"concept": "electric motor", "properties": ["uses electricity", "converts electrical energy", "into mechanical energy", "found in many devices", "such as fans", "refrigerators", "air conditioners", "power tools", "cars", "generally reliable"]}
+
+Category: types, 
+
+{"concept": "airplane", "properties": ["fixed wings", "powered by jet engines", "can fly long distances", "has multiple seats", "has cargo hold", "requires airport infrastructure", "has multiple types (commercial, military, private)", "uses navigation systems", "has safety features", "can travel at high speeds"]}.
+
+Category: modes, 
+
+{"concept": "airplane", "properties": ["powered by jet engines", "can fly", "has multiple seats", "has cargo hold", "has cockpit", "has landing gear", "uses air traffic control", "has multiple wings", "can take off and land vertically", "has autopilot system"]}
+
+Category: companies, 
+
+{"concept": "Transportation Device", "properties": ["owned by companies like Boeing, Airbus, Tesla, etc.", "used for air, land, and water travel", "can be electric or non-electric", "range from small to large", "used for personal and commercial purposes", "can be self-driving", "can be autonomous", "have varying speeds", "have different fuel types", "used in various industries like logistics, tourism, etc."]}
+
+Category: schedules, 
+
+{"concept": "Airplane", "properties": ["Fastest", "Global", "Commercial", "Scheduled", "Regular", "Large", "Multi-purpose", "Fuel-based", "Weather-dependent", "Regulated"]}
+
+Category: infrastructure, 
+
+{"concept": "airplane", "properties": ["flying", "engine-powered", "fixed-wing", "large-scale", "long-distance", "airborne", "weather-resistant", "speed-dependent", "pilot-operated", "high-altitude"]}
+
+Category: systems, 
+
+{"concept": "transportation device", "properties": ["self-propelled", "powered by fossil fuels", "operates on roads", "requires human input", "has wheels", "has an engine", "has brakes", "can carry multiple people", "has a speed limit", "requires regular maintenance"]}
+
+Category: means, 
+
+{"concept": "Airplane", "properties": ["Fastest", "Global", "High-altitude", "Multi-engine", "Jet-powered", "Long-range", "Semi-autonomous", "High-tech", "Comfortable", "Expensive"]}
+
+Category: types, 
+
+{"concept": "Rail transportation system", "properties": ["Global network", "Mass transit", "Heavy cargo transport", "Economic benefits", "Environmental benefits", "Public transportation", "Commuter rail", "Freight rail", "Urban development", "Infrastructure"]}
+
+Category: modes, 
+
+{"concept": "rail transportation system", "properties": ["electric or diesel-powered trains", "tracks or rails", "stations or terminals", "freight and passenger services", "high-speed or local", "long-distance or commuter", "public or private ownership", "government regulation", "safety features", "environmental impact"]}
+
+Category: companies, 
+
+{"concept": "rail transportation system", "properties": ["owned by government or private companies", "uses rail tracks for transportation", "carries passengers and freight", "faster than road transportation", "environmentally friendly", "reliable and punctual", "uses electric or diesel power", "has different types of trains", "requires infrastructure maintenance", "plays crucial role in economy"]}
+
+Category: schedules, 
+
+{"concept": "rail transportation system", "properties": ["mass transit", "fixed route", "electric or diesel power", "passenger and freight", "networked infrastructure", "scheduled departures", "station stops", "multiple cars", "conductor or automated control", "environmentally friendly"]}
+
+Category: infrastructure, 
+
+{"concept": "Rail Transportation System", "properties": ["massive network", "electric or diesel locomotives", "tracks and rails", "stations and terminals", "trains and carriages", "passenger and freight services", "high-speed capabilities", "efficiency and capacity", "environmentally friendly", "global presence"]}
+
+Category: systems, 
+
+{"concept": "rail transportation system", "properties": ["massive infrastructure", "electric or diesel locomotives", "tracks and rails", "passenger and freight services", "high speed travel", "energy efficient", "reliable", "capacity to carry heavy loads", "multi-modal transportation", "long-distance travel"]}
+
+Category: means, 
+
+{"concept": "rail transportation system", "properties": ["widespread globally", "efficient for bulk goods", "reliable", "environmentally friendly", "cost-effective", "high-capacity", "reduced traffic congestion", "less noise pollution", "safety features", "historical significance"]}
+
+Category: types, 
+
+{"concept": "transportation company", "properties": ["provides services", "moves goods and people", "operates vehicles", "manages routes", "employs drivers", "charges fees", "maintains vehicles", "ensures safety", "coordinates logistics", "manages schedules"]}
+
+Category: modes, 
+
+{"concept": "transportation company", "properties": ["provides goods or services movement", "uses vehicles or infrastructure", "employs people", "operates globally", "has headquarters", "offers various services", "manages inventory", "handles logistics", "ensures safety", "maintains schedules"]}
+
+Category: companies, 
+
+{"concept": "transportation company", "properties": ["global presence", "fleet of vehicles", "various modes of transport", "logistics services", "warehousing facilities", "package delivery", "freight forwarding", "transportation infrastructure", "employee base", "revenue generation"]}
+
+Category: schedules, 
+
+{"concept": "transportation company", "properties": ["operates daily", "offers door-to-door service", "has fixed routes", "charges by distance", "has multiple modes", "uses vehicles", "employs drivers", "requires reservations", "tracks journey", "guarantees arrival"]}
+
+Category: infrastructure, 
+
+{"concept": "Transportation Company", "properties": ["Provides road, rail, air, and sea transportation services", "Owns and operates vehicles and equipment", "Employs drivers, pilots, and crew members", "Operates routes and schedules", "Handles cargo and passenger logistics", "Manages fleet maintenance and repair", "Ensures safety and security protocols", "Complies with regulations and laws", "Sets fares and prices", "Maintains customer service and support", "Generates revenue through transportation fees"]}
+
+Category: systems, 
+
+{"concept": "Transportation Company", "properties": ["Provides transportation services", "Operates vehicles or ships", "Hires drivers or crew", "Has routes or schedules", "Charges fares or fees", "Manages logistics", "Handles cargo or passengers", "Maintains vehicles or equipment", "Ensures safety and security", "Complies with regulations"]}
+
+Category: means, 
+
+{"concept": "transportation company", "properties": ["provides services to move goods or people", "operates vehicles or ships", "has a fleet of vehicles", "employs drivers or crew", "offers different types of transportation", "has a network of routes", "charges for services", "may have warehouses or terminals", "needs to manage schedules and logistics", "may have regulatory compliance issues"]}
+
+Category: types, 
+
+{"concept": "transportation schedule", "properties": ["daily", "timetabled", "route-based", "frequency-based", "vehicle-dependent", "time-tabled", "route-specific", "vehicle-specific", "departure-based", "arrival-based"]}
+
+Category: modes, 
+
+{"concept": "transportation schedule", "properties": ["fixed route", "timetables", "schedules", "departure times", "arrival times", "transit modes", "route information", "fare information", "route maps", "planning tool"]}
+
+Category: companies, 
+
+{"concept": "Transportation Schedule", "properties": ["Developed by transportation companies", "Lists departure and arrival times", "Shows route information", "Includes travel duration", "Helps plan trips", "Updated regularly", "Available online or in print", "Used for route planning", "Provides schedule information", "Helpful for commuters"]}
+
+Category: schedules, 
+
+{"concept": "transportation schedule", "properties": ["shows departure and arrival times", "indicates route and stops", "lists travel duration", "includes frequency of departures", "shows schedule for each day", "may include special events or holidays", "can be printed or digital", "updated regularly", "used for planning and coordination", "helps manage time and resources"]}
+
+Category: infrastructure, 
+
+{"concept": "transportation schedule", "properties": ["defines routes and timings", "coordinates passenger or cargo movement", "ensures punctuality and reliability", "involves scheduling and routing algorithms", "takes into account traffic and weather conditions", "may involve multiple modes of transport", "can be optimized for efficiency and cost", "is crucial for logistics and supply chain management", "requires careful planning and coordination", "is essential for public transportation and travel planning"]}
+
+Category: systems, 
+
+{"concept": "transportation schedule", "properties": ["planned timing", "route information", "frequency of departures", "stops and layovers", "vehicle types", "capacity allocation", "fare structures", "booking and reservation", "traffic management", "weather considerations"]}
+
+Category: means, 
+
+{"concept": "transportation schedule", "properties": ["timetable", "route information", "departure times", "arrival times", "journey duration", "fare information", "route map", "stops and stations", "vehicle types", "schedule updates"]}
+
+Category: types, 
+
+{"concept": "water transportation system", "properties": ["global coverage", "environmental impact", "economic importance", "various modes", "ferry", "ship", "boat", "canal", "port infrastructure", "weather dependence"]}
+
+Category: modes, 
+
+{"concept": "Water Transportation System", "properties": ["Global coverage", "Long history", "Multiple modes", "Cargo and passenger", "Sea, river, and lake routes", "Economic importance", "Environmental impact", "Infrastructure complexity", "Weather dependence", "Safety concerns"]}
+
+Category: companies, 
+
+{"concept": "water transportation system", "properties": ["ships", "boats", "ferries", "canals", "harbors", "ports", "marinas", "waterways", "navigations", "cargo"]}
+
+Category: schedules, 
+
+{"concept": "water transportation system", "properties": ["ships", "boats", "ferries", "barges", "tugboats", "harbors", "ports", "canals", "locks", "ocean routes"]}
+
+Category: infrastructure, 
+
+{"concept": "water transportation system", "properties": ["ships", "ports", "harbors", "canals", "locks", "tugboats", "pilots", "buoys", "lighthouses", "navigation"]}
+
+Category: systems, 
+
+{"concept": "Water Transportation System", "properties": ["global", " oldest", "multimodal", "ships", "boats", "ferries", "canals", "ports", "international", "eco-friendly"]}
+
+Category: means, 
+
+{"concept": "water transportation system", "properties": ["global network", "various modes", "ships and boats", "canals and locks", "harbors and ports", "oceanic and riverine", "importance of trade", "environmental impact", "energy efficiency", "historic significance"]}
+
+Category: types, 
+
+{"concept": "flight schedule", "properties": ["airline", "departure time", "arrival time", "flight number", "route", "departure airport", "arrival airport", "frequency", "duration", "status"]}
+
+Category: modes, 
+
+{"concept": "flight schedule", "properties": ["timetable", "airline", "destination", "departure", "arrival", "route", "frequency", "duration", "seat availability", "fare information"]}
+
+Category: companies, 
+
+{"concept": "Flight Schedule", "properties": ["Detailed information about flight timings", "Includes departure and arrival times", "Lists flight routes and frequencies", "Provides information about layovers and connections", "Helps plan travel itineraries", "Often subject to change due to weather or other factors", "Usually available on airline websites or apps", "Provides information about flight durations and layovers", "Helps passengers book and manage their flights", "Essential for airline operations and logistics"]}
+
+Category: schedules, 
+
+{"concept": "flight schedule", "properties": ["daily", "timetables", "airlines", "destinations", "departure", "arrival", "times", "dates", "frequency", "changes"]}
+
+Category: infrastructure, 
+
+{"concept": "flight schedule", "properties": ["list of flight times", "aircraft routes", "departure and arrival times", "frequency of flights", "flight duration", "airline information", "airport codes", "flight status updates", "delay notifications", "travel itinerary"]}
+
+Category: systems, 
+
+{"concept": "flight schedule", "properties": ["timetable", "aircraft", "departure", "arrival", "route", "frequency", "duration", "stops", "class", "fare"]}
+
+Category: means, 
+
+{"concept": "flight schedule", "properties": ["timetable", "departure and arrival times", "aircraft information", "route details", "fare information", "flight status updates", "booking and check-in procedures", "travel restrictions", "security guidelines", "weather conditions"]}
+
+Category: types, 
+
+{"concept": "transportation system", "properties": ["road", "railway", "air", "water", "public", "private", "vehicle", "infrastructure", "management", "safety"]}
+
+Category: modes, 
+
+{"concept": "transportation system", "properties": ["road network", "public transportation", "air transportation", "water transportation", "rail network", "highway system", "aircraft", "ships", "bicycles", "cars"]}
+
+Category: companies, 
+
+{"concept": "Transportation System", "properties": ["owned by companies", "provides public transportation", "uses vehicles", "operates on roads", "has routes", "charges fares", "has schedules", "has stations", "uses infrastructure", "employs staff"]}
+
+Category: schedules, 
+
+{"concept": "transportation system", "properties": ["has routes", "uses vehicles", "requires schedules", "has timetables", "planned departures", "fixed routes", "multiple modes", "public and private", "dependent on infrastructure", "efficient allocation of resources"]}
+
+Category: infrastructure, 
+
+{"concept": "transportation system", "properties": ["roads", "highways", "interchanges", "traffic signals", "railways", "stations", "airports", "seaports", "bicycles", "public transportation"]}
+
+Category: systems, 
+
+{"concept": "transportation system", "properties": ["global", "network", "moving people", "goods", "vehicles", "infrastructure", "roads", "rails", "air", "water"]}
+
+Category: means, 
+
+{"concept": "transportation system", "properties": ["mass transit", "road network", "air transportation", "water transportation", "public transport", "private vehicles", "infrastructure", "traffic management", "route planning", "safety measures"]}
+
+Category: types, 
+
+{"concept": "road transportation system", "properties": ["vehicular", "surface", "network", "infrastructure", "public", "private", "regulated", "maintained", "managed", "global"]}
+
+Category: modes, 
+
+{"concept": "road transportation system", "properties": ["uses roads", "moves people and goods", "uses vehicles", "has traffic rules", "needs infrastructure", "uses fuel", "has speed limits", "requires maintenance", "has traffic congestion", "is affected by weather"]}
+
+Category: companies, 
+
+{"concept": "Road Transportation System", "properties": ["Global", "Widespread", "Highway", "Freeway", "Rural", "Urban", "Multi-lane", "One-way", "Two-way", "Vehicular"]}
+
+Category: schedules, 
+
+{"concept": "road transportation system", "properties": ["uses roads", "moves people and goods", "uses vehicles", "requires infrastructure", "has traffic rules", "has speed limits", "can be affected by weather", "has fuel costs", "has environmental impact", "is a major economic sector"]}
+
+Category: infrastructure, 
+
+{"concept": "Road Transportation System", "properties": ["vehicles", "roads", "highways", "intersections", "traffic signals", "speed limits", "parking", "tolls", "maintenance", "accidents"]}
+
+Category: systems, 
+
+{"concept": "road transportation system", "properties": ["global network", "vastly used", "public and private", "highway, street, and lane", "vehicles", "human-powered", "engine-powered", "regulated", "maintained", "environmental impact"]}
+
+Category: means, 
+
+{"concept": "road transportation system", "properties": ["vast network", "widespread use", "various modes", "high speed", "convenient", "cost-effective", "flexible routes", "multiple destinations", "environmental impact", "infrastructure maintenance"]}
+
+Category: aviation, 
+
+{"concept": "Air Traffic Control Procedure", "properties": ["Separation of aircraft", "Air traffic controller's instructions", "Proper use of radio communication", "Air traffic flow management", "Aircraft routing", "Altitude control", "Speed control", "Weather advisory", "Air traffic alert", "Emergency response plan"]}
+
+Category: air traffic management, 
+
+{"concept": "air traffic control procedure", "properties": ["ensures safe separation of aircraft", "coordinates flight plans", "issues clearances", "monitors weather conditions", "handles emergencies", "provides navigation assistance", "manages air traffic flow", "regulates airport operations", "communicates with pilots", "prioritizes aircraft movements"]}
+
+Category: infrastructure, 
+
+{"concept": "Air Traffic Control Procedure", "properties": ["Radio communication", "Air traffic controllers", "Flight plans", "Radar systems", "Navigation aids", "Airspace control", "Weather monitoring", "Flight trajectory", "Collision avoidance", "Safety protocols"]}
+
+Category: organization, 
+
+{"concept": "Air Traffic Control Procedure", "properties": ["ensures safe separation of aircraft", "coordinates takeoffs and landings", "issues clearances and instructions", "maintains awareness of weather conditions", "manages air traffic flow", "prioritizes emergency situations", "coordinates with other ATC units", "uses standardized communication protocols", "employs radar and navigation aids", "is responsible for airport safety"]}
+
+Category: processes, 
+
+{"concept": "air traffic control procedure", "properties": ["radar-based", "communication-based", "separation", "procedures", "controllers", "aircraft", "runways", "altitudes", "routes", "coordination"]}
+
+Category: aviation, 
+
+{"concept": "traffic control process", "properties": ["regulates aircraft movement", "ensures safe separation", "maintains efficient flow", "coordinates flight plans", "issues clearances", "provides weather updates", "manages air traffic", "handles emergency situations", "communicates with pilots", "prioritizes flight operations"]}
+
+Category: air traffic management, 
+
+{"concept": "traffic control process", "properties": ["provides clearances and instructions to pilots", "coordinates flight movements", "ensures safe separation of aircraft", "handles flight plan changes", "issues weather advisories", "assists in emergency situations", "manages air traffic flow", "optimizes route planning", "maintains communication with pilots", "ensures efficient use of airspace"]}
+
+Category: infrastructure, 
+
+{"concept": "traffic control process", "properties": ["uses traffic lights, signs, and signals", "regulates traffic flow", "manages traffic congestion", "prioritizes emergency vehicles", "enforces traffic laws", "maintains road safety", "reduces traffic accidents", "optimizes traffic flow", "minimizes traffic jams", "enhances traffic efficiency"]}
+
+Category: organization, 
+
+{"concept": "traffic control process", "properties": ["regulated by traffic signals and signs", "manages traffic flow", "ensures road safety", "minimizes congestion", "optimizes traffic speed", "reduces accidents", "maintains traffic order", "coordinates traffic lights", "enforces traffic rules", "adapts to changing traffic conditions"]}
+
+Category: processes, 
+
+{"concept": "Traffic Control Process", "properties": ["Regulates flow of vehicles", "Prevents accidents", "Maintains traffic order", "Directs traffic movement", "Monitors traffic volume", "Adjusts traffic signals", "Enforces traffic rules", "Manages traffic congestion", "Optimizes traffic flow", "Ensures public safety"]}
+
+Category: aviation, 
+
+{"concept": "Air Traffic Control Tower", "properties": ["tall structure", "radar equipment", "communication systems", "air traffic controllers", "monitoring radar signals", "issuing clearances", "assisting pilots", "ensuring safety", "coordinating takeoffs", "handling emergencies"]}
+
+Category: air traffic management, 
+
+{"concept": "air traffic control tower", "properties": ["provides separation between aircraft", "coordinates takeoffs and landings", "issues clearances and instructions", "monitors air traffic", "communicates with pilots", "coordinates with other towers", "coordinates with approach control", "coordinates with departure control", "coordinates with en route control", "ensures safe and efficient air traffic flow"]}
+
+Category: infrastructure, 
+
+{"concept": "air traffic control tower", "properties": ["stands tall", "provides guidance", "uses radar", "tracks aircraft", "issues instructions", "ensures safety", "coordinates takeoffs", "manages landings", "maintains separation", "supports navigation"]}
+
+Category: organization, 
+
+{"concept": "air traffic control tower", "properties": ["stands tall", "directs flights", "uses radar", "tracks planes", "issues clearances", "ensures safety", "communicates with pilots", "coordinates takeoffs", "manages landings", "is a critical hub"]}
+
+Category: processes, 
+
+{"concept": "Air Traffic Control Tower", "properties": ["provides air traffic services", "coordinates aircraft movements", "ensures safe separation", "issues clearances and instructions", "monitors weather and NOTAMs", "handles emergency situations", "coordinates with other ATC facilities", "uses radar and communication equipment", "employs air traffic controllers and technicians", "is a critical component of the ATC system"]}
+
+Category: aviation, 
+
+{"concept": "air traffic control center", "properties": ["responsible for guiding aircraft safely through airspace", "monitors and coordinates flight plans", "issues clearances and instructions", "coordinates with other ATC centers", "handles emergency situations", "uses radar and communication systems", "ensures safe distances between aircraft", "coordinates takeoffs and landings", "manages air traffic flow", "prioritizes safety above all else"]}
+
+Category: air traffic management, 
+
+{"concept": "air traffic control center", "properties": ["centralized facility", "air traffic management", "aircraft routing", "flight planning", "air traffic separation", "weather monitoring", "communication hub", "radar surveillance", "traffic flow management", "safety assurance"]}
+
+Category: infrastructure, 
+
+{"concept": "Air Traffic Control Center", "properties": ["centralized hub for managing air traffic", "coordinates flight routes and altitudes", "issues clearances and instructions", "maintains situational awareness", "tracks aircraft movement", "predicts weather and air traffic", "coordinates with military and civilian authorities", "ensures safe separation of aircraft", "handles emergency situations", "optimizes air traffic flow"]}
+
+Category: organization, 
+
+{"concept": "Air Traffic Control Center", "properties": ["Centralized facility", "Monitors air traffic", "Coordinates takeoffs and landings", "Provides weather updates", "Issues clearances", "Assists in emergency situations", "Maintains air traffic flow", "Ensures safe distances", "Communicates with pilots", "Coordinates with other centers"]}
+
+Category: processes, 
+
+{"concept": "air traffic control center", "properties": ["centralized facility", "coordinates flight movements", "uses radar and communication systems", "issues clearances and instructions", "ensures safe separation", "coordinates with other centers", "handles emergencies", "manages air traffic flow", "prioritizes safety and efficiency", "works 24/7"]}
+
+Category: parts of a ship, 
+
+{"concept": "ship hold", "properties": ["part of a ship", " cargo storage", "below deck", "holds goods", "provides buoyancy", "supports ship's structure", "can be cargo or ballast", "varies in size and shape", "often insulated", "used for storage and transportation"]}
+
+Category: marine terminology, 
+
+{"concept": "ship hold", "properties": ["large enclosed space", "below main deck", "used for storage", "can be refrigerated", "can be ventilated", "can be pressurized", "protected from weather", "protected from water", "can be accessed by hatch", "can be secured with cargo"]}
+
+Category: ship's interior, 
+
+{"concept": "ship hold", "properties": ["large cargo space", "usually below deck", "for storing goods", "may be refrigerated", "temperature controlled", "protected from weather", "securely locked", "may have shelving", "may have conveyor belts", "often used for cargo transport"]}
+
+Category: nautical structure, 
+
+{"concept": "ship hold", "properties": ["large enclosed space", "below deck", "used for cargo", "often refrigerated", "temperature controlled", "protected from weather", "secured with cargo nets", "can be accessed by crane", "may have cargo handling equipment", "may have ventilation and lighting systems"]}
+
+Category: vessel components, 
+
+{"concept": "ship hold", "properties": ["container", "storage", "hatch", "door", "bulkhead", "compartment", "cargo", "load", "unload", "structure"]}
+
+Category: parts of a ship, 
+
+{"concept": "ship deck", "properties": ["flat surface", "topmost part", "exposed to weather", "used for navigation", "holds crew quarters", "carries cargo", "has railings", "provides access", "subject to rough seas", "vulnerable to damage"]}
+
+Category: marine terminology, 
+
+{"concept": "ship deck", "properties": ["flat surface", "outermost part of a ship", "exposed to weather", "holds crew and cargo", "can be wooden or metal", "subject to wear and tear", "requires regular maintenance", "has railings for safety", "may have hatches for access", "plays crucial role in ship's operation"]}
+
+Category: ship's interior, 
+
+{"concept": "ship deck", "properties": ["wooden or metal surface", "outdoors", "above waterline", "exposed to weather", "used for navigation", "holds masts and anchors", "provides access to ship", "can be crowded", "often has railings", "subject to damage by weather"]}
+
+Category: nautical structure, 
+
+{"concept": "ship deck", "properties": ["structure above waterline", "exposed to weather", "walkable surface", "supports ship's superstructure", "typically flat", "may have railings", "used for cargo handling", "may have superstructures", "often has ladders or stairs", "usually made of durable materials"]}
+
+Category: vessel components, 
+
+{"concept": "ship deck", "properties": ["surface of a ship", "above the hull", "exposed to weather", "carries superstructure", "holds masts", "provides access", "supports railings", "features gangways", "may have cabins", "serves as a platform"]}
+
+Category: parts of a ship, 
+
+{"concept": "ship compartment", "properties": ["enclosed space", "water-tight", "fire-resistant", "secure", "isolated", "separate", "encapsulated", "protected", "safety-focused", "specifically-designed"]}
+
+Category: marine terminology, 
+
+{"concept": "ship compartment", "properties": ["watertight", "sealed", "divided", "subdivided", "protected", "isolated", "secured", "partitioned", "separated", "safe"]}
+
+Category: ship's interior, 
+
+{"concept": "ship compartment", "properties": ["enclosed space", "separate area", "partitioned", "confined", "protected", "organized", "functional", "purpose-built", "limited access", "regulated"]}
+
+Category: nautical structure, 
+
+{"concept": "ship compartment", "properties": [" watertight subdivision", "hull section", " watertight door", "bulkhead", " cargo hold", " passenger area", "engine room", "storage space", "accommodation", "safety zone"]}
+
+Category: vessel components, 
+
+{"concept": "ship compartment", "properties": ["watertight division", "hull section", "cargo space", "passenger area", "engine room", "ballast tank", "fuel storage", "accommodation", "electrical room", "communication room"]}
+
+Category: parts of a ship, 
+
+{"concept": "ship hatch", "properties": ["opening on deck", "leading to cargo or crew space", "usually secured by hatch cover", "may have ladder or stairs", "can be watertight", "used for loading and unloading", "may have emergency exit", "protected by steel or aluminum", "has hinges for opening", "secured by latches or bolts"]}
+
+Category: marine terminology, 
+
+{"concept": "ship hatch", "properties": ["opening on a ship's deck", "used for loading/unloading", "usually watertight", "can be manual or automated", "provides access to cargo holds", "may have stairs or ladders", "often has a door or gate", "can be secured for safety", "may have warning lights or alarms", "important for marine safety and security"]}
+
+Category: ship's interior, 
+
+{"concept": "ship hatch", "properties": ["opening in ship's deck", "leading to cargo or crew compartment", "usually made of metal", "hinged or sliding", "secured by hinges or latches", "used for loading and unloading", "may be watertight", "may have ladder or stairs", "may have handrails or grab bars", "important for safety and accessibility"]}
+
+Category: nautical structure, 
+
+{"concept": "ship hatch", "properties": ["opening in a ship's deck", "used for loading and unloading", "usually watertight", "can be manual or automated", "found on various types of vessels", "may have multiple compartments", "often secured with a door or cover", "used for personnel access", "can be used for cargo", "important for safety and security"]}
+
+Category: vessel components, 
+
+{"concept": "ship hatch", "properties": ["opening in ship's deck", "allows access to interior", "can be closed and opened", "may have ladder or stairs", "usually has door or curtain", "may have warning signs", "can be emergency exit", "may have ventilation or airlock", "can be watertight or airtight", "important for safety and security"]}
+
+Category: parts of a ship, 
+
+{"concept": "ship cabin", "properties": ["small room on a ship", "usually below deck", "used for living or storage", "often with windows", "may have beds or bunks", "can be shared or private", "may have a bathroom", "has a door", "connected to a corridor", "may have air conditioning"]}
+
+Category: marine terminology, 
+
+{"concept": "ship cabin", "properties": ["small enclosed space on a ship", "usually used for sleeping or storage", "often cramped and noisy", "may have limited amenities", "can be hot and humid", "typically has a door and windows", "may have a bathroom and kitchenette", "usually has a bed and storage space", "can be affected by sea conditions", "is a common feature on passenger ships and cargo vessels"]}
+
+Category: ship's interior, 
+
+{"concept": "ship cabin", "properties": ["small enclosed space", "usually on lower deck", "often with bunk beds", "may have porthole or window", "usually shared with other passengers", "has limited storage space", "may have private bathroom", "often has air conditioning", "has limited mobility", "used for sleeping and relaxation"]}
+
+Category: nautical structure, 
+
+{"concept": "ship cabin", "properties": ["small enclosed space on a ship", "typically used for crew quarters", "often cramped and narrow", "may have bunks or beds", "usually has limited amenities", "can be hot and humid", "may have limited natural light", "typically has a door", "may have storage space", "can be noisy due to ship sounds"]}
+
+Category: vessel components, 
+
+{"concept": "ship cabin", "properties": ["enclosed space", "on a ship", "accommodates crew or passengers", "usually below deck", "may have windows", "has doors", "has furniture", "has lighting", "has ventilation", "may have amenities"]}
+
+Category: parts of a ship, 
+
+{"concept": "ship berth", "properties": ["structure", "part", "ship", "dry", "mooring", "anchorage", "station", "fixed", "secure", "protected"]}
+
+Category: marine terminology, 
+
+{"concept": "ship berth", "properties": ["a designated area for a ship to dock", "usually found in a harbor or port", "provides shelter from wind and waves", "allows for loading and unloading of cargo", "can be fixed or floating", "may have mooring lines and buoys", "ships are secured to the berth with ropes or chains", "can be used for repairs or maintenance", "may have facilities for crew and passengers", "ensures safe and efficient vessel operations"]}
+
+Category: ship's interior, 
+
+{"concept": "ship berth", "properties": ["a designated area for sleeping or resting on a ship", "usually located below deck", "often with a bunk bed or hammock", "may have storage space nearby", "can be shared by multiple people", "may have a curtain or divider for privacy", "usually has a window or porthole for natural light", "may have a desk or table for working", "often has a locker for storing personal belongings", "may have a bathroom nearby"]}
+
+Category: nautical structure, 
+
+{"concept": "ship berth", "properties": ["structure for docking ships", "fixed or floating", "provides stability and safety", "varies in size and shape", "found in ports and harbors", "used for loading and unloading", "may have cranes and equipment", "ensures secure mooring", "protects against weather and currents", "facilitates ship maintenance"]}
+
+Category: vessel components, 
+
+{"concept": "ship berth", "properties": ["part of a ship", "holds crew or cargo", "enclosed space", "protected from weather", "fixed location", "inside ship", "not on deck", "for loading/unloading", "may have doors", "secure anchorage"]}
+
+Category: parts of a ship, 
+
+{"concept": "ship hull", "properties": ["structure", "outermost", "waterproof", "protects", "cargo", "passengers", "buoyancy", "stability", "strength", "design"]}
+
+Category: marine terminology, 
+
+{"concept": "ship hull", "properties": ["structure of a ship's body", "holds the ship's cargo and crew", "made of steel or fiberglass", "designed for buoyancy and strength", "resists water pressure and corrosion", "has a flat bottom and curved sides", "propulsion system is attached", "anchored to the sea floor", "can be designed for speed or cargo capacity", "affects a ship's stability and maneuverability"]}
+
+Category: ship's interior, 
+
+{"concept": "ship hull", "properties": ["structure", "outermost", "watertight", "strong", "reinforced", "protects", "holds", "contains", "buoyancy", "stability"]}
+
+Category: nautical structure, 
+
+{"concept": "ship hull", "properties": ["longitudinal structure", "horizontal watertight divisions", "keel or centerline", "flat or curved bottom", "sides that are vertical or angled", "superstructure above waterline", "hull form and shape", "stern and bow", "displacement and buoyancy", "structural integrity and watertightness"]}
+
+Category: vessel components, 
+
+{"concept": "ship hull", "properties": ["outermost structure of a ship", "encloses the cargo or crew", "protects against water", "resists external forces", "provides buoyancy", "serves as a foundation", "determines the ship's shape", "affects its stability", "influences its speed", "plays a crucial role in buoyancy and stability"]}
+
+Category: transportation equipment, 
+
+{"concept": "Tractor Trailer", "properties": ["large", "heavy", "long", "semi-trailer", "powered", "towed", "combination", "vehicle", "used", "transporting"]}
+
+Category: trucks, 
+
+{"concept": "Tractor Trailer", "properties": ["Large truck", "Pulls semi-trailers", "Heavy-duty", "Long", "Multi-axle", "High-capacity", "Used for hauling", "Long-distance transport", "Cargo carrying", "Commercial use"]}
+
+Category: trailers, 
+
+{"concept": "Tractor Trailer", "properties": ["Large truck", "Attached to semi-trailer", "Used for heavy haulage", "Long and heavy", "Has multiple axles", "Used for long-distance transport", "Typically 18-53 feet long", "Often seen on highways", "Used for shipping goods", "Requires special permits"]}
+
+Category: vehicles, 
+
+{"concept": "Tractor Trailer", "properties": ["Large truck", "Pulls trailer", "Heavy load", "Long combination", "Multiple axles", "High center of gravity", "Specialized driving skills", "Regulated by law", "Requires special permits", "Used for hauling heavy goods"]}
+
+Category: semi-trucks, 
+
+{"concept": "tractor trailer", "properties": ["large truck", "separate engine compartment", "attached trailer", "long haul transportation", "high capacity", "heavy cargo", "multiple axles", "long length", "multiple wheels", "trailerable"]}
+
+Category: transportation equipment, 
+
+{"concept": "truck trailer", "properties": ["long", "heavy", "attached", "trail", "behind", "carried", "load", "freight", "semi-trailer", "large"]}
+
+Category: trucks, 
+
+{"concept": "truck trailer", "properties": ["large", "attached", "behind", "trucks", "used", "transport", "heavy", "goods", "long", "multiple"]}
+
+Category: trailers, 
+
+{"concept": "truck trailer", "properties": ["used for hauling goods", "attached to a truck", "various sizes available", "can be open or enclosed", "used in transportation", "can carry heavy loads", "has wheels for movement", "often used for shipping", "can be customized", "used in various industries"]}
+
+Category: vehicles, 
+
+{"concept": "truck trailer", "properties": ["a wheeled trailer", "attached to a truck", "used for hauling", "can be detachable", "various sizes", "heavy-duty construction", "often flatbed", "secured by chains", "may have brakes", "can be custom-made"]}
+
+Category: semi-trucks, 
+
+{"concept": "Truck Trailer", "properties": ["large", "attached", "behind", "semi-truck", "carries", "heavy", "loads", "long", "trail", "open"]}
+
+Category: transportation equipment, 
+
+{"concept": "truck tractor", "properties": ["heavy-duty", "engine-powered", "multi-axle", "semi-trailer", "road-bound", "long-haul", "high-capacity", "payload-focused", "rugged", "customizable"]}
+
+Category: trucks, 
+
+{"concept": "Truck Tractor", "properties": ["heavy-duty", "large engine", "multiple axles", "long wheelbase", "attached trailer", "high towing capacity", "long distance hauling", "off-road capability", "high ground clearance", "strong suspension"]}
+
+Category: trailers, 
+
+{"concept": "Truck Tractor", "properties": ["Heavy-duty vehicle", "Used for hauling", "Large wheels", "Powerful engine", "Multiple axles", "Long and long-haul", "Used in logistics", "High towing capacity", "Steerable wheels", "Heavy-duty suspension"]}
+
+Category: vehicles, 
+
+{"concept": "truck tractor", "properties": ["large, powerful engine", "heavy-duty construction", "multiple axles", "high ground clearance", "long wheelbase", "separate cab and engine compartment", "used for hauling heavy loads", "often used in construction and agriculture", "may have multiple trailers attached", "high towing capacity"]}
+
+Category: semi-trucks, 
+
+{"concept": "truck tractor", "properties": ["large, heavy-duty vehicle", "pulls semi-trailers", "long wheelbase", "high ground clearance", "strong engine", "heavy-duty suspension", "multiple axles", "air brakes", "high visibility cab", "multiple gear ratios"]}
+
+Category: transportation, 
+
+{"concept": "petroleum pipeline", "properties": ["long underground tube", "carries crude oil", "from well to refinery", "high-pressure transport", "reduces transportation costs", "reliable supply chain", "minimizes environmental impact", "secure from theft", "insulated to prevent leaks", "often buried beneath roads"]}
+
+Category: industry, 
+
+{"concept": "petroleum pipeline", "properties": ["long distance transportation", "oil or gas carrying", "underground or above ground", "high pressure", "high volume", "maintenance required", "security measures", "regulation compliance", "environmental impact", "economical"]}
+
+Category: marine, 
+
+{"concept": "petroleum pipeline", "properties": ["long-distance oil transport", "underground or underwater", "oil and gas transport", "marine and land routes", "high-pressure pipes", "pipelayers", "oil spills risk", "maintenance and inspection", "security concerns", "environmental impact"]}
+
+Category: infrastructure, 
+
+{"concept": "petroleum pipeline", "properties": ["long-distance transportation", "oil or natural gas", "underground or above-ground", "high-pressure", "transportation infrastructure", "reliability", "safety", "maintenance", "pipeline network", "global use"]}
+
+Category: energy, 
+
+{"concept": "petroleum pipeline", "properties": ["long", "underground", "transports oil", "high pressure", "secure", "complex system", "maintenance required", "environmental concerns", "economic importance", "global infrastructure"]}
+
+Category: transportation, 
+
+{"concept": "vehicle carrier ship", "properties": ["large capacity", "heavy cargo", "ocean-going", "containerized", "self-sustaining", "crewed", "long-range", "high-speed", "weather-resistant", "customizable"]}
+
+Category: industry, 
+
+{"concept": "Vehicle Carrier Ship", "properties": ["ocean-going", "large capacity", "multiple decks", "cargo transport", "self-propelled", "containerized", "containerized cargo", "reliable", "efficient", "global trade"]}
+
+Category: marine, 
+
+{"concept": "vehicle carrier ship", "properties": ["large capacity", "multiple decks", "various vehicle types", "heavy cargo", "long and narrow", "slow speed", "high maintenance", "expensive construction", "specific design", "global trade importance"]}
+
+Category: infrastructure, 
+
+{"concept": "vehicle carrier ship", "properties": ["Large capacity for carrying vehicles", "Designed for transporting cars, trucks, and other vehicles", "Typically used for international trade and commerce", "May have multiple decks for vehicle storage", "Equipped with cranes for loading and unloading", "Protected from the elements with weather-tight seals", "Propelled by diesel engines or other power sources", "Operates in international waters, subject to regulations", "Maintained by a crew of skilled sailors and engineers", "Regularly inspected and certified for safety and efficiency"]}
+
+Category: energy, 
+
+{"concept": "vehicle carrier ship", "properties": ["massive", "ocean-going", "large", "containerized", "heavy-lift", "high-capacity", "slow-speed", "long-range", "expensive", "environmentally-conscious"]}
+
+Category: transportation, 
+
+{"concept": "petroleum product pipeline", "properties": ["long", "underground", "transports oil", "large diameter", "network", "complex system", "highly regulated", "safety critical", "environmentally sensitive", "crucial infrastructure"]}
+
+Category: industry, 
+
+{"concept": "petroleum product pipeline", "properties": ["long", "underground", "carries", "petroleum", "products", "oil", "gasoline", "jet", "fuel", "transport"]}
+
+Category: marine, 
+
+{"concept": "petroleum product pipeline", "properties": ["long", "underground", "oil or gas", "transport", "marine", "land", "high pressure", "high temperature", "maintenance required", "environmental concern"]}
+
+Category: infrastructure, 
+
+{"concept": "petroleum product pipeline", "properties": ["underground or above ground", "transports oil or gas", "long distances", "high pressure", "reliable supply", "efficient transportation", "reduces environmental impact", "reduces transportation costs", "increased energy security", "strategic importance"]}
+
+Category: energy, 
+
+{"concept": "petroleum product pipeline", "properties": ["long", "underground", "oil", "gas", "transport", "energy", "fuel", "transportation", "network", "infrastructure"]}
+
+Category: transportation, 
+
+{"concept": "railcar carrier ship", "properties": ["ocean-going vessel", "carries railcars", "container ship", "large capacity", "long and narrow", "multiple decks", "heavy lifting capacity", "often used for bulk cargo", "global trade", "eco-friendly"]}
+
+Category: industry, 
+
+{"concept": "railcar carrier ship", "properties": ["ocean-going vessel", "carries railcars", "heavy-lift capacity", "longitudinal loading", "railcar stacking", "weather-tight sealing", "container-like structure", "bulk cargo handling", "oceanic transportation", "multi-purpose vessel"]}
+
+Category: marine, 
+
+{"concept": "Railcar Carrier Ship", "properties": ["Cargo capacity", "Railcar loading/unloading", "Shallow draft", "Open deck", "Containerized cargo", "Roll-on/roll-off", "Multi-purpose", "Port-to-port", "International trade", "Economical transportation"]}
+
+Category: infrastructure, 
+
+{"concept": "railcar carrier ship", "properties": ["large", "ocean-going", "container-like", "hull", "deck", "railway tracks", "lifting capacity", "longitudinal", "seaworthy", "heavy-duty"]}
+
+Category: energy, 
+
+{"concept": "railcar carrier ship", "properties": ["carries railcars", "large cargo capacity", "saves highway space", "reduces traffic congestion", "reduces wear on railcars", "reduces wear on highways", "reduces emissions", "increases efficiency", "longer railcar lifespan", "reduces rail maintenance costs"]}
+
+Category: transportation, 
+
+{"concept": "petroleum tanker ship", "properties": ["large", "ocean-going", "liquid cargo", "crude oil", "refined products", "long-distance", "heavy", "specialized", "expensive", "environmentally sensitive"]}
+
+Category: industry, 
+
+{"concept": "petroleum tanker ship", "properties": ["large capacity", "long distance transport", "sea-based", "oil or gas carrying", "heavy cargo", "specialized vessel", "long and narrow hull", "propelled by engine", "anchored at port", "highly regulated"]}
+
+Category: marine, 
+
+{"concept": "petroleum tanker ship", "properties": ["large cargo capacity", "used for transporting oil", "long and narrow hull", "usually single-hulled or double-hulled", "heavy and slow-moving", "propelled by diesel engine", "often equipped with cargo pumps", "has multiple compartments for storage", "requires specialized crew training", "regulated by international maritime laws"]}
+
+Category: infrastructure, 
+
+{"concept": "petroleum tanker ship", "properties": ["large cargo capacity", "long and narrow hull", "self-propelled", "tanker", "carries crude oil", "refined products", "chemicals", "liquefied gases", "ocean-going", "heavy construction"]}
+
+Category: energy, 
+
+{"concept": "petroleum tanker ship", "properties": ["large", "ocean-going", "carries", "petroleum", "products", "such", "as", "crude", "oil", "gasoline", "liquid"]}
+
+Category: transportation, 
+
+{"concept": "petroleum product", "properties": ["liquid", "fossil fuel", "derived from crude oil", "used as fuel", "transportation fuel", "used in manufacturing", "energy source", "non-renewable", "highly valued", "polluting"]}
+
+Category: industry, 
+
+{"concept": "petroleum product", "properties": ["liquid", "fossil fuel", "derived from crude oil", "used as energy source", "transported by pipeline or tanker", "refined into various forms", "used in manufacturing", "used in vehicles", "has environmental impact", "regulated by government"]}
+
+Category: marine, 
+
+{"concept": "petroleum product", "properties": ["crude oil derivative", "fossil fuel", "non-renewable energy source", "used as fuel", "transported by ships", "refined into various products", "used in manufacturing", "emits greenhouse gases", "contributes to climate change", "environmentally polluting"]}
+
+Category: infrastructure, 
+
+{"concept": "petroleum product", "properties": ["liquid", "fossil fuel", "combustible", "refined", "derived", "from crude oil", "used as energy source", "used in transportation", "used in manufacturing", "environmentally polluting"]}
+
+Category: energy, 
+
+{"concept": "Petroleum Product", "properties": ["Liquid fossil fuel", "Non-renewable resource", "Primary energy source", "Fuel for transportation", "Energy storage", "Carbon-rich", "High energy density", "Refined from crude oil", "Used in various industries", "Environmental concerns"]}
+
+Category: transportation, 
+
+{"concept": "ore carrier ship", "properties": ["Large cargo capacity", "Designed for transporting ore", "Long-distance voyages", "Heavy-lift capabilities", "Steel or iron hull", "Bulk cargo holds", "Propelled by diesel or steam", "Multiple decks for storage", "Protected from corrosion", "High-strength steel construction"]}
+
+Category: industry, 
+
+{"concept": "ore carrier ship", "properties": ["large cargo capacity", "long distance transportation", "iron ore or coal cargo", "bulk cargo handling", "significant cargo volume", "global trade facilitation", "port-to-port transportation", "heavy cargo handling", "safety and security concerns", "environmental impact considerations"]}
+
+Category: marine, 
+
+{"concept": "ore carrier ship", "properties": ["large cargo capacity", "long voyage duration", "various ore types carried", "heavy cargo handling", "specialized design", "high maintenance cost", "weather and sea condition dependent", "slow speed", "vulnerable to piracy", "environmentally sensitive"]}
+
+Category: infrastructure, 
+
+{"concept": "Ore Carrier Ship", "properties": ["large capacity", "heavy cargo", "long-distance travel", "seaworthy", "self-propelled", "specialized design", "high-strength steel", "efficient propulsion", "advanced navigation", "weather-resistant"]}
+
+Category: energy, 
+
+{"concept": "ore carrier ship", "properties": ["large cargo capacity", "long distance transport", "steel hull", "self-propelled", "containerized cargo", "multiple decks", "high-speed travel", "weather-resistant", "heavy maintenance", "environmentally friendly"]}
+
+Category: transportation, 
+
+{"concept": "chemical tanker ship", "properties": ["used for transporting chemicals", "specialized cargo holds", "multiple compartments", "separate tanks", "hazardous materials carried", "flammable liquids transported", "specialized crew", "strict regulations", "monitoring systems", "environmental concerns considered"]}
+
+Category: industry, 
+
+{"concept": "chemical tanker ship", "properties": ["Designed for transporting chemicals", "Specialized cargo holds", "Steel or aluminum construction", "Double-hulled or segregated ballast tanks", "Pressurized or vacuum insulated compartments", "Pumps and piping systems", "Temperature control systems", "Cargo handling equipment", "Monitoring and control systems", "Safety equipment and emergency preparedness"]}
+
+Category: marine, 
+
+{"concept": "Chemical Tanker Ship", "properties": ["Designed to transport chemicals", "Large storage capacity", "Specialized equipment for handling chemicals", "Double-hulled or segregated ballast tanks", "Coated or lined to prevent corrosion", "Specialized crew training", "Strict regulations for loading and unloading", "Regular inspections and maintenance", "Chemical-specific cargo handling", "Highly specialized and regulated maritime activity"]}
+
+Category: infrastructure, 
+
+{"concept": "chemical tanker ship", "properties": ["Designed to carry chemicals", "Specific compartments for different chemicals", "Specialized tank cleaning", "Regular maintenance required", "Highly regulated industry", "International Maritime Organization (IMO) guidelines", "Double-hulled or segregated ballast tanks", "Coated or lined tanks for corrosion protection", "Specialized crew training", "Regular inspections and certifications"]}
+
+Category: energy, 
+
+{"concept": "chemical tanker ship", "properties": ["Carries chemicals", "Specialized cargo", "Hazardous materials", "Flammable liquids", "Corrosive substances", "Toxic chemicals", "Requires special handling", "Safety precautions", "Regulated by international laws", "Highly regulated industry"]}
