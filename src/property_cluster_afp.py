@@ -127,6 +127,7 @@ cluster_df.to_csv(
     index=False,
 )
 
+cluster_df.sort_values(by=["cluster_label"], inplace=True)
 
 print("prop_clusters_labels")
 print(prop_clusters_labels)
