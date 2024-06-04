@@ -154,7 +154,7 @@ If you don't know the answer, please don't share false information.<|eot_id|>
 For the concept of the banana, write its different facets and most salient properties under each facet.<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>
 
-{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food", etc.], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar", etc.], "used for": ["healthy snack", "making cakes", "making smoothie", etc.], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl", etc.]}}<|eot_id|>
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}<|eot_id|>
 
 For the concept of the <CONCEPT>, write its different facets and most salient properties under each facet.<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
