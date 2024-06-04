@@ -90,12 +90,20 @@ property_cluster_map = {
 print("property_cluster_map")
 print(property_cluster_map)
 
-clustered_properties = pd.DataFrame.from_records(property_cluster_list)
+clustered_properties = pd.DataFrame.from_records(
+    property_cluster_list, columns=["property", "cluster_label"]
+)
+
+clustered_properties.sort_values(by=["cluster_label"], inplace=True)
 
 print(f"clustered_properties")
 print(clustered_properties)
 
-clustered_properties.to_csv("clustered_properties.txt", sep="\t", index=False)
+clustered_properties.to_csv(
+    "clustered_properties.txt",
+    sep="\t",
+    index=False,
+)
 
 
 def assign_prop_cluster_label(prop):
