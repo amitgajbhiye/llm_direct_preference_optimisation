@@ -76,6 +76,20 @@ labels = affinity_propagation.labels_
 print(f"labels")
 print(labels)
 
+property_cluster_list = [
+    (prop, clus_label) for prop, clus_label in zip(properties, labels)
+]
+
+print("property_cluster_list")
+print(property_cluster_list)
+
+property_cluster_map = {
+    prop: cluster_label for prop, cluster_label in zip(properties, labels)
+}
+
+print("property_cluster_map")
+print(property_cluster_map)
+
 
 # cluster_algo = "HDBSCAN"
 
