@@ -115,7 +115,7 @@ def assign_prop_cluster_label(prop):
 
 cluster_df = df.copy(deep=True)
 prop_clusters_labels = [
-    assign_prop_cluster_label[prop] for prop in cluster_df["property"].values
+    assign_prop_cluster_label[prop] for prop in cluster_df["property"].to_list()
 ]
 
 cluster_df["cluster_label"] = prop_clusters_labels
