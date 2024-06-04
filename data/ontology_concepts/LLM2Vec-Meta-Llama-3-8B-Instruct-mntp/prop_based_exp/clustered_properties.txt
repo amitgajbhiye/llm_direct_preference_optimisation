@@ -1,0 +1,1479 @@
+property	cluster_label
+transport goods	0
+carry cargo	0
+deliver goods	0
+transporting goods	0
+moves people	0
+transports goods	0
+moves goods	0
+transport people	0
+transport goods or people	0
+located near cities	1
+located in hospitals	1
+located in countries	1
+common in cities	1
+located in art galleries	1
+located in museums	1
+located in farms	1
+located in nature	1
+located in intersections	1
+between cities	1
+located in ports	1
+located in buildings	1
+located in fields	1
+located in supermarkets	1
+located in downtown	1
+located in train stations	1
+located in airports	1
+located in countryside	1
+located in cities	1
+located in Italy	1
+located in offices	1
+located at airports	1
+located in suburbs	1
+located in homes	1
+made of cells	2
+handled with gloves	2
+made of lightweight materials	2
+made of dirt	2
+made of rails	2
+attached to ceiling	2
+made of concrete	2
+made of water	2
+made of hydrogen and oxygen	2
+made of atoms	2
+made of steel	2
+made of metal	2
+made of rubber	2
+made of fiber	2
+made of asphalt	2
+made of wood	2
+made of fiberglass	2
+built with steel	2
+made of plastic	2
+has breakfast	3
+have handles	3
+have wings	3
+have four wheels	3
+have brakes	3
+has no sides	3
+has wheels	3
+tracks are wider	3
+has horns	3
+has wings	3
+have tires	3
+have wheels	3
+have sails	3
+includes running	4
+includes walking	4
+includes jumping	4
+includes dancing	4
+includes climbing	4
+includes standing	4
+includes sitting	4
+includes moving	4
+includes exercising	4
+includes falling	4
+located in bodies of water	5
+located in oceans	5
+located near oceans	5
+found in water	5
+located over water	5
+located in arctic	5
+located underwater	5
+located by water	5
+located in water	5
+located near ocean	5
+located above the earth	5
+extend into water	5
+connects rivers	6
+located in open sea	6
+located in coastal areas	6
+located in harbors	6
+located in canals	6
+located in railways	6
+located in lakes	6
+connected to rivers	6
+located in rivers	6
+located near rivers	6
+located in seas	6
+located in mountains	6
+located in channels	6
+used for economy	7
+used for economies	7
+has knowledge of market	7
+publicly accessible	7
+used for productivity	7
+used for goods	7
+used for real estate	7
+used for commerce	7
+used in trade	7
+used for trade	7
+used for taxation	7
+used for distribution	7
+used for businesses	8
+used for industries	8
+used for business	8
+used for engineering	8
+used in agriculture	8
+used in industries	8
+used for manufacturing	8
+used for electricity	8
+used for export	8
+used for industry	8
+used for agriculture	8
+has expertise in industry	8
+used in industry	8
+used for supporting industries	8
+used for research	8
+used for management	8
+stored in special facilities	9
+allowed with permits	9
+have special permits	9
+requires permits	9
+has special licenses	9
+digital or printed	10
+used for communication	10
+used for entertainment	10
+way of communication	10
+used for organization	10
+used for communicating	10
+used in communication	10
+used for visibility	10
+used for languages	10
+used for education	10
+used for identification	10
+used for surveillance	10
+have payment systems	11
+had first aid kits	11
+have information centers	11
+have radar systems	11
+have control panels	11
+have signaling systems	11
+have mechanical systems	11
+divided into layers	11
+have license plates	11
+have hitching systems	11
+have runways	11
+have ticket counters	11
+have flight plans	11
+has control panel	11
+has multiple aircraft	11
+have cargo holds	11
+have air traffic controllers	11
+have sliding doors	11
+controlled by operators	11
+contains gases	12
+includes weights	12
+contains particles	12
+contains names	12
+contains roles	12
+contains positions	12
+requires clearance	12
+contains ranks	12
+includes quantities	12
+issues permits	12
+describes contents	12
+amount varies	12
+subject to weather conditions	13
+provide protection from weather	13
+protected from weather	13
+not protected from elements	13
+exposed to weather	13
+collection of items	14
+used for storage	14
+used for exhibitions	14
+used for solids	14
+used for cigarettes	14
+used for gas	14
+used for oil	14
+used for containers	14
+used for heating	14
+used for assembly	14
+used for plastics	14
+used for food storage	14
+used for supplies	14
+used for harvesting	14
+used for liquids	14
+used for seafood	14
+used for equipment	14
+used for chemicals	14
+used with masks	14
+partially filled with containers	14
+have ships	15
+have trucks	15
+have transmission	15
+have trains	15
+have vehicles	15
+using trucks	15
+have hubs	15
+have benches	15
+have turbines	15
+have cabs	15
+have helicopters	15
+have motors	15
+have cargo	15
+have trailers	15
+have pumps	15
+have cars	15
+have buses	15
+based on location	16
+based on facilities	16
+based on traffic	16
+based on size	16
+within a country	16
+international airports	17
+private airports	17
+domestic airports	17
+military airports	17
+small airports	17
+large airports	17
+used for small airports	17
+public transportation	17
+temporary structures	18
+used for cooking	18
+used for fuel	18
+used for construction	18
+used for buildings	18
+used for salvage	18
+used in construction	18
+used for farming	18
+used for irrigation	18
+used for mining	18
+used in buildings	18
+used for decoration	18
+used for repair	18
+used for excavation	18
+used for maintenance	18
+used for repairs	18
+end of a trip	19
+end of a journey	19
+reach a place	20
+reach a destination	20
+used for daily life	21
+used for families	21
+used for work	21
+used for transportation	21
+used for people	21
+used for traveling	21
+used for low cost travel	21
+used for daily routine	21
+used for transport	21
+important for air travel	21
+important for transportation	21
+used for international travel	21
+used for recreation	21
+used for air travel	21
+used for commuting	21
+used for adventure	21
+used for travel	21
+used for passenger	21
+used for outdoor activities	21
+used for vacations	21
+used for passengers	21
+used for tourism	21
+used for space travel	21
+used for stability	22
+used for fire	22
+flies without fuel	22
+used for flights	22
+used in flight	22
+used for speed	22
+used for rescue	22
+used for training	22
+used for movement	22
+used for patrol	22
+used for flight	22
+used for planes	22
+used for driving	22
+used for safety	22
+using airplanes	22
+used for exploration	22
+operates buses	23
+operates airplanes	23
+operates ships	23
+operates trains	23
+operates public transit	23
+operates trucks	23
+operates planes	23
+regulated by government	24
+regulated by laws	24
+managed by government	24
+imposed by governments	24
+paid by governments	24
+managed by authorities	24
+kept by government	24
+regulated by authorities	24
+required by regulations	24
+issued by government	24
+government agency	24
+required by law	24
+used in ports	25
+used for shipping	25
+used in ships	25
+used in logistics	25
+used in warehouses	25
+used in cargo	25
+used in shipping	25
+type of shipping	25
+used for importing	25
+used for logistics	25
+used in freight	25
+used in airports	25
+used in navigation	25
+used in harbors	25
+used in maritime	25
+used in shipping industries	25
+used in commercial	25
+process of docking	25
+used in internet	25
+standardized sizes	26
+standardized equipment	26
+standardized globally	26
+used for border crossing	27
+plays crucial role in global trade	27
+means of international trade	27
+used for global supply chain	27
+used for international trade	27
+used in international trade	27
+large boats	28
+large ships	28
+large quantities	28
+large vehicles	28
+large vessels	28
+large capacity	28
+large spaces	28
+large vessel	28
+meant to achieve	29
+can be used by many	29
+can be digested	29
+can be compared	29
+does not exist	29
+can be intersected	29
+can be unioned	29
+can be eaten	29
+can be empty	29
+used for passing	30
+used for heavy lifting	30
+used for stopping	30
+used for drilling	30
+used for braking	30
+used for lifting	30
+used for boarding	30
+used for towing	30
+used for heavy loads	30
+used for hauling	30
+loading and unloading	30
+used for freight	30
+used for exporting	30
+used for boat lift	30
+used for crossing	30
+used for docking	30
+used for moving	30
+used for unloading	30
+used for stacking	30
+used for loading	30
+represents clients	31
+indicates direction	31
+directs traffic	31
+regulates traffic	31
+manages intersections	31
+regulates flow	31
+serves food	31
+measured in cubic feet	32
+measured in cubic meters	32
+measured in gallons	32
+measured in liters	32
+measured in hectares	32
+measured in square kilometers	32
+measured in acres	32
+measured in square meters	32
+measured in inches	32
+measured in milliliters	32
+measured in millimeters	32
+goal-oriented	33
+goal-directed	33
+carbon-based	33
+have sirens	34
+has megaphones	34
+has sirens	34
+has magnets	35
+has leaks	35
+has caps	35
+has cables	35
+has stones	35
+has batteries	35
+has sand	35
+has mud	35
+has cargo	35
+has grass	35
+has mirrors	35
+has fans	35
+has metabolism	35
+has cells	35
+has ventilation	35
+has markings	35
+has signs	35
+has meters	35
+has pillars	35
+has insulation	35
+has ignition	35
+has colors	35
+has coils	35
+has heating	35
+has doors	35
+has seats	35
+has buttons	35
+has wires	35
+has wine	35
+has snacks	35
+has beds	35
+has windows	35
+has screens	35
+has meals	35
+has furniture	35
+has lights	35
+has signals	35
+has brakes	35
+have lights	35
+has showers	35
+green means go	36
+red means stop	36
+yellow means caution	36
+used for sailing	37
+used for finding islands	37
+used for night sailing	37
+secured with ropes	37
+used for water sports	37
+used for racing	37
+done while moving	37
+used for fishing	37
+used for boating	37
+used for maritime	37
+used for hunting	37
+used for camping	37
+used for navigation	37
+used for boats	37
+used for surfing	37
+used for cruises	37
+used for catching fish	37
+used for avoiding reefs	37
+used for ships	37
+used for climbing	37
+used for hiking	37
+used for sleeping	37
+used for swimming	37
+used for drinking	37
+used for walking	37
+used on boats	37
+used for offshore	37
+have handlebars	38
+have nozzles	38
+have railings	38
+have roundabouts	38
+had harpoons	38
+have elevators	38
+has ladders	38
+had logbooks	38
+have altitudes	38
+have staircases	38
+have ladders	38
+has freezers	38
+has pulleys	39
+rotates on axles	39
+powered by turboprop	39
+faster than propeller planes	39
+has propellers	39
+has winches	39
+has no propellers	39
+have axles	39
+have propellers	39
+have compressors	39
+has locomotive	40
+has engines	40
+has turbines	40
+has valves	40
+requires engines	40
+has engine	40
+has processing lines	40
+require wiring	40
+passengers	40
+have engines	40
+has DNA	40
+has gauges	40
+has antennas	40
+have engine	40
+has containers	40
+has trains	40
+used for rescuing	41
+used for firefighting	41
+burning with fire extinguishers	41
+used for fire starting	41
+used for underwater work	41
+used for fire fighting	41
+used for marine firefighting	41
+large in size	42
+highly complex	42
+large and heavy	42
+lifts heavy objects	42
+long and narrow	42
+finite or infinite	42
+used in emergency	43
+used for emergencies	43
+used for emergency services	43
+used for emergency situations	43
+used for emergency	43
+maintained by infrastructure	44
+consciously controlled	44
+crewed by professionals	44
+operated by drivers	44
+driven by professionals	44
+punishable by fines	44
+run by officials	44
+staffed by controllers	44
+requires navigation	45
+uses sound waves	45
+display art	45
+uses ships	45
+using warehouses	45
+lists items	45
+uses compass	45
+uses multiple modes	45
+uses GPS	45
+uses maps	45
+uses protocols	45
+uses codes	45
+located on aircraft carriers	46
+located in shipyards	46
+located on top of ships	46
+located in spacecraft	46
+using ships	46
+located on ships	46
+large ships dock	46
+located on trains	46
+located on airplanes	46
+raises or lowers boats	46
+attached to ships	46
+located on masts	46
+located in ships	46
+located in aircraft	46
+located on boats	46
+require infrastructure	47
+provide supplies	47
+provide services	47
+provide accommodation	47
+require maintenance	47
+provide seating	47
+updated daily	47
+perform tasks	47
+provide logistics	47
+provide public services	47
+large size	47
+enforces laws	48
+enforces speed limits	48
+sets speed limits	48
+prioritizes emergency vehicles	49
+prioritizes pedestrians	49
+has seat selection	50
+has ticket counter	50
+has customer service	50
+has charging ports	50
+has entertainment systems	50
+has seats for children	50
+has checked baggage	50
+has online booking	50
+managed by railways	51
+has frequent flyer program	51
+signed by carriers	51
+established by airlines	51
+determined by railway companies	51
+published by airlines	51
+have security checks	52
+have security cameras	52
+have customs offices	52
+have communication equipment	52
+have security measures	52
+has security	52
+have cranes	53
+has cranes	53
+has flint	53
+has cranes installed	53
+has curators	53
+used for illumination	54
+used for measuring	54
+used in calculating weights	54
+precise measurements	54
+used in measurements	54
+used for separation	54
+used for detection	54
+used for measurement	54
+used in mathematics	55
+used for scientific research	55
+used for science	55
+used in architecture	55
+used in data analysis	55
+used in labs	55
+used in chemistry	55
+used in computing	55
+used in physics	55
+used in technology	55
+used in engineering	55
+used in science	55
+powered by engines	56
+more efficient than jets	56
+powered by batteries	56
+powered by animals	56
+faster than diesel	56
+powered by electricity	56
+fueled by diesel	56
+uses no engine	56
+electrically powered	56
+used for mooring	57
+used for anchoring	57
+used for plowing	57
+used for refueling	57
+used for undocking	57
+requires anchoring	57
+requires mooring	57
+used for dredging	57
+holds liquid	58
+holding something	58
+holds liquids	58
+transfers information	59
+transmits signals	59
+uses radio waves	59
+transmitted through vectors	59
+converts electricity	59
+transports oil	59
+emits signals	59
+used for political pressure	60
+have economic importance	60
+used for economic growth	60
+used for recreational purposes	60
+used for business purposes	60
+used for economic purposes	60
+used for local consumption	60
+used for private use	60
+used for commercial purposes	60
+easy to disassemble	61
+easy to assemble	61
+used for military	62
+used for naval warfare	62
+used for amphibious assault	62
+used for reconnaissance	62
+used in military operations	62
+used in disaster relief	62
+used in military	62
+used for military purposes	62
+used as military tactic	62
+used for special operations	62
+used in wartime	62
+used for laying telephone cables	63
+used for repairing cables	63
+used for maintaining cables	63
+used for laying internet cables	63
+used for laying telegraph cables	63
+used for laying cables	63
+had nets	64
+have floors	64
+have beds	64
+have doors	64
+have bulbs	64
+have seats	64
+cools objects	64
+have ceilings	64
+has chairs	64
+have rims	64
+have reels	64
+have fares	64
+have locks	64
+have bearings	64
+have gates	64
+have docks	64
+have rods	64
+have offices	64
+have nets	64
+have roofs	64
+have walls	64
+used for launching planes	65
+used for storing planes	65
+used for departures	65
+used for guiding planes	65
+used for landing planes	65
+used for landing	65
+have water cannons	66
+has separate tracks	66
+have fire hoses	66
+has air conditioning	66
+have storage for fish	66
+has rail tracks	66
+has cargo holds	66
+has water tanks	66
+has diving equipment	66
+has a hopper	66
+have fishing gear	66
+has ships of various sizes	66
+has a dredge	66
+has catwalks	66
+has sliding doors	66
+use jet fuel	67
+filled with gas	67
+uses wind	67
+processes fish	67
+carry oil	67
+uses combustion	67
+uses electricity	67
+uses oxidizer	67
+uses voltage	67
+uses fuel	67
+used for traction	68
+used for buoyancy	68
+used to exert pressure	68
+used for flight control	68
+used for takeoff	68
+used for thrust	68
+generate thrust	68
+used for lift-off	68
+used for propulsion	68
+attached to trucks	69
+located in rooms	69
+last car in train	69
+located in cars	69
+carry vehicles	69
+located in buses	69
+powered by outlets	69
+located in pockets	69
+located in trains	69
+located in garages	69
+armed with guns	69
+located in parking lots	69
+located in train yards	69
+signed by receivers	69
+located in trucks	69
+located in fire stations	69
+consists of cars	69
+located in stations	69
+used for high-value goods	70
+used for perishable goods	70
+non-liquid goods	70
+used for refrigerated goods	70
+using adhesives	71
+using fasteners	71
+permanent structure	72
+temporary connection	72
+official record	72
+one way	72
+permanent connection	72
+small device	72
+silent operation	72
+provide light	73
+requires control	73
+requires force	73
+requires speed	73
+requires lift	73
+used for finding coastlines	74
+used for studying weather	74
+used in weather forecasting	74
+used for weather forecasting	74
+used for discovering new species	74
+used for studying climate	74
+used for studying marine life	74
+used for aerodynamics	74
+used for weather	74
+used for weather reports	74
+linked to vehicle ownership	75
+required for driving	75
+required for insurance	75
+parasite	76
+bacteria	76
+virus	76
+microorganism	76
+fungus	76
+measures space	77
+describes data	77
+measures width	77
+equals to 2,000 pounds	78
+tracks are 1435 mm wide	78
+equals 28.32 liters	78
+equal to 2,000 pounds	78
+long distances	79
+long distance	79
+paid by individuals	80
+owned by companies	80
+owned by individuals	80
+amount of money	80
+owned by private companies	80
+managed by companies	80
+works on behalf of company	80
+paid by companies	80
+contains payment details	81
+contains cargo details	81
+contains delivery details	81
+linked to vehicle details	81
+no information available	81
+amount is fixed	81
+receive payment	81
+helping navigation	82
+helps with navigation	82
+navigated by GPS	82
+helps with customs	82
+helps with docking	82
+monitored for leaks	83
+at risk of leaks	83
+assists with maintenance	83
+assists with fuel	83
+assists with cargo	83
+assists with repairs	83
+negotiates contracts	83
+assists with crew	83
+collects tolls	83
+facilitates transactions	83
+inspected regularly	83
+carried in bulk	84
+carried in containers	84
+carried for international trade	84
+receivable by aircraft	84
+transported by ships	84
+carried on ships	84
+carries chemicals	84
+navigated by ships	84
+sail on seas	84
+carried in open air	84
+carries passengers	84
+carried on top of ships	84
+by a foreign ship	84
+carried by ships	84
+includes wheat	85
+includes iron ore	85
+includes coal	85
+includes grains	85
+includes minerals	85
+includes ores	85
+includes oil	85
+includes corn	85
+has a flat surface	86
+has uneven surface	86
+has different shapes	86
+used for bus	87
+used for pedestrians	87
+used for trains	87
+used for express buses	87
+used for train	87
+used for railways	87
+highway for buses	87
+used for buses	87
+used for taxi service	87
+used for parking	87
+used for ferries	87
+buses and bus stations	87
+used for taxis	87
+used in buses	87
+used for police	87
+used for ambulance	87
+used for public transportation	87
+has lanes for buses	87
+used for arrivals	87
+common in developing countries	88
+used in UK	88
+allowed in some countries	88
+applied to countries	88
+targeting specific countries	88
+used in multiple countries	88
+used in some regions	88
+has different track widths	89
+has different rail sizes	89
+has multiple rails	89
+carries different gauge trains	89
+purposive	90
+sturdy	90
+deliberate	90
+voluntary	90
+toxic	90
+luxurious	90
+electrical	90
+luxurious accommodations	90
+has compartments	91
+have employees	91
+have waiting rooms	91
+has bathrooms	91
+have kitchens	91
+have bathrooms	91
+have private rooms	91
+have restaurants	91
+car with engine	92
+car with doors	92
+car with driver	92
+car with brakes	92
+car with seats	92
+car with lights	92
+car with mirrors	92
+car with windows	92
+car with wheels	92
+common in europe	93
+common in japan	93
+common in ancient times	93
+unit of measurement	94
+larger than short ton	94
+units of tons	94
+not equal to metric ton	94
+unit of volume	94
+units of grams	94
+unit of weight	94
+units of kilograms	94
+built by humans	95
+built for safety	95
+important for safety	95
+built for durability	95
+transported with caution	95
+providing directions	96
+providing information	96
+providing orientation	96
+providing safety	96
+used in marine engineering	97
+used for wind turbines	97
+used in ship repair	97
+used in shipbuilding	97
+used in shipyards	97
+used for shipbuilding	97
+used in naval architecture	97
+mechanized equipment	98
+mechanical devices	98
+mechanical device	98
+electronic device	98
+mechanical	98
+flammable	99
+civilian	99
+reusable	99
+directed	99
+moveable	99
+intermodal	99
+hazardous	99
+miniature	99
+used for water management	100
+used for water conservation	100
+used for water flow management	100
+used for water level control	100
+used for order	101
+used for directions	101
+used for finding ports	101
+used for warnings	101
+used for coordination	101
+used for parks	101
+used for finding landmarks	101
+used for orbit	101
+used for fog	101
+used for exiting	101
+used for subways	101
+used for planning	101
+used for rush hours	101
+used for finding directions	101
+used for commuter	101
+used for check-ins	101
+used for guidance	101
+used for multiple directions	101
+used for waiting	101
+used for zoning	101
+using forklifts	102
+have forklifts	102
+managed	103
+efficient	103
+people	103
+commercial	103
+drivers	103
+document	103
+done in trucks	104
+done in motorcycles	104
+done in bicycles	104
+done in cars	104
+done in highways	104
+done in buses	104
+used in appliances	105
+used in space	105
+used in aviation	105
+used in cars	105
+used for car	105
+used in submarines	105
+used in computers	105
+used in trucks	105
+used in rockets	105
+used in vehicles	105
+used in airplanes	105
+used in phones	105
+used in aircraft	105
+used in factories	105
+used in engines	105
+used for aircraft	105
+used in pumps	105
+used in fans	105
+attached to vehicles	105
+used in transportation	105
+used for cars	105
+found in africa	106
+longest in China	106
+found in europe and asia	106
+found in russia	106
+found in united states	106
+found in china	106
+found in north and south america	106
+found in india	106
+found in living things	107
+found in soil	107
+found in ponds	107
+found in air	107
+found in oceans	107
+found in lakes	107
+found in rivers	107
+found in seas	107
+found in reservoirs	107
+have ropes	108
+have distances	108
+have frequencies	108
+have schedules	108
+have lighting	108
+have tracks	108
+have measurements	108
+have maps	108
+have paint	108
+have routes	108
+have immigration	108
+have pools	108
+have bridges	108
+have terminals	108
+have windows	108
+have anchors	108
+have containers	108
+have switches	108
+have signals	108
+have shops	108
+have advertisements	108
+have instruments	108
+have markers	108
+used for long distances	109
+used for family trips	109
+used for road trips	109
+used for planning trips	109
+used for daily commute	109
+used for short trips	109
+used for small trips	109
+used for daily commutes	109
+used for long trips	109
+used for city driving	109
+used for short distances	109
+used for long distance travel	109
+long distance travel	109
+where canals meet	110
+location where tracks meet	110
+where rivers meet	110
+have buoys	111
+marked by buoys	111
+have torpedoes	111
+involves coordination	112
+involves government	112
+involves transparency	112
+involves responsibility	112
+involves penalties	112
+involves steps	112
+involves enforcement	112
+involves inspections	112
+involves delegating	112
+involves problem solving	112
+involves budgeting	112
+involves organizing	112
+involves leadership	112
+involves permits	112
+involves decision making	112
+involves monitoring	112
+involves goals	112
+involves compliance	112
+involves laws	112
+involve communication	112
+involves communication	112
+involves control	112
+involves execution	112
+involves resources	112
+involves planning	112
+involves people	112
+involves controlling	112
+involves tasks	112
+involves rules	112
+used for traffic	113
+used for traffic management	113
+used for train merging	113
+used for air traffic control	113
+used for traffic control	113
+used in traffic monitoring	113
+used in traffic	113
+used for train splitting	113
+has electrification	114
+not refrigerated	114
+electrified in some cases	114
+have controllers	115
+have rails	115
+move on rails	115
+uncovered	116
+underground	116
+uncontainerized	116
+planned	116
+produces torque	117
+produces thrust	117
+produces less emissions	117
+have high ground clearance	118
+has low speed	118
+has high torque	118
+flying at high speeds	118
+involve radar	118
+has high speed	118
+used for high speeds	118
+used for high speed	118
+generate high speed	118
+has high power	118
+smaller than regular cars	119
+replica of real cars	119
+smaller than real cars	119
+used for monitoring	120
+used for security checks	120
+requires safety equipment	120
+used for testing	120
+used for crash testing	120
+used for durability testing	120
+used for aerodynamics testing	120
+used for safety testing	120
+used for ergonomics testing	120
+located on land	121
+located at intersections	121
+located near bus stops	121
+located near ports	121
+done in public roads	121
+driven on roads	121
+builds roads	121
+intersection of roads	121
+located on rails	121
+located over roads	121
+located along roads	121
+made of roads	121
+has jurisdiction over roads	121
+located near tracks	121
+located in highways	121
+located on railways	121
+located on roads	121
+located in roads	121
+moves on roads	121
+has no opposite traffic	122
+has no opposite lane	122
+used for off road	123
+four wheel drive	123
+used for off-road	123
+causes disease	124
+hurts economy	124
+hurts businesses	124
+hurts citizens	124
+supports national economies	124
+hurts economies	124
+affects trade	125
+builds relationships	125
+affects industries	125
+restricts imports	125
+acts on behalf	125
+has historical context	126
+can be lifted by diplomacy	126
+international conflict resolution tool	126
+used as diplomatic tool	126
+acts as intermediary	126
+used in networks	127
+used in data transmission	127
+public and private modes	127
+stops in multiple ports	127
+used in data transfer	127
+used in information exchange	127
+used for transporting	128
+used for bulk goods	128
+used for moving heavy loads	128
+used for transporting goods	128
+used for transporting people	128
+carry bulk goods	128
+used for carrying goods	128
+used for crossing rivers	128
+efficiently moving goods	128
+used for carrying	128
+used for exporting goods	128
+used for receiving goods	128
+uses stars	129
+uses roads	129
+uses wires	129
+uses lights	129
+uses trucks	129
+charge fees	129
+catches fish	129
+uses trains	129
+using trains	129
+uses signs	129
+uses planes	129
+uses vehicles	129
+separates compartments	130
+breathes	130
+increased efficiency	130
+decomposes	130
+reduced costs	130
+reduces congestion	130
+reduces costs	130
+receives commissions	130
+have check-in counters	131
+have baggage claim	131
+have baggage claim areas	131
+responsible for infrastructure	132
+responsible for roads	132
+responsible for traffic	132
+responsible for public transportation	132
+responsible for bike lanes	132
+responsible for parking	132
+responsible for traffic signs	132
+responsible for traffic lights	132
+separate from regular traffic	132
+traffic offense	132
+responsible for public safety	132
+waterways	133
+blockage of sea routes	133
+limits access to ports	133
+have waterways	133
+oceanic travel	133
+used for waterways	133
+subways and metro	133
+waterways and ports	133
+bicycles and bike lanes	133
+roads and highways	133
+trains and railways	133
+network of waterways	133
+airports and airlines	133
+have parking spots	134
+has emergency lights	134
+has atmospheric phenomena	134
+have traffic lights	134
+have stop signs	134
+have pedestrian crossings	134
+have traffic signals	134
+sets traffic rules	134
+have traffic rules	134
+has red, green, and white lights	134
+have navigation aids	134
+has refining process	134
+have overhead wires	134
+has flashing lights	134
+has weather patterns	134
+has traffic signals	134
+has fixed routes	134
+has traffic signs	134
+has fixed fares	134
+have duty-free shops	134
+has road markings	134
+has expiration dates	134
+operates in international waters	135
+employs thousands	135
+operates in airports	135
+connects two areas	135
+operate in open seas	135
+provides international flights	135
+maintains infrastructure	135
+grows in nature	135
+operates in cities	135
+specializes in maritime services	135
+located in seaports	135
+operates on seas	135
+used for deep sea drilling	136
+used for oil extraction	136
+used for lubrication	136
+used for oil rigs	136
+used for refineries	136
+derived from oil	136
+used for gas extraction	136
+can cause economic harm	137
+can cause shortages	137
+can cause inflation	137
+can cause humanitarian crisis	137
+can be harmed by pollution	137
+have colors	138
+have roles	138
+have lines	138
+have budgets	138
+defined by rules	138
+have suspension	138
+have policies	138
+have signs	138
+have rules	138
+have restrictions	138
+make decisions	138
+have ties	138
+regular schedule	138
+have customs	138
+subject to laws	138
+make deals	138
+make profits	138
+have markings	138
+means of movement	139
+means of transport	139
+action of leaving ground	139
+process of joining	139
+means of moving	139
+have sailors	140
+have stations	140
+have cabins	140
+have departments	140
+have flights	140
+have decks	140
+have entertainment	140
+have warehouses	140
+require large crews	140
+have ministers	140
+have departures	140
+have crews	140
+have arrivals	140
+have platforms	140
+have stops	140
+have laboratories	140
+have equipment	140
+require pilots	140
+had crews	140
+unique members	140
+have pilots	140
+have crew	140
+had captains	140
+have drivers	140
+have scientists	140
+have cables	140
+regulated by international law	141
+regulated by maritime laws	141
+have maritime laws	141
+requires international law	141
+enforced by naval vessels	141
+showing routes	142
+showing stops	142
+showing prices	142
+showing flight routes	142
+showing frequencies	142
+showing vehicles	142
+showing layovers	142
+showing flight timings	143
+showing departure times	143
+showing arrival times	143
+showing time and date	143
+showing flight frequencies	143
+showing departure and arrival times	143
+showing arrival and departure dates	143
+showing flight numbers	143
+used for water transportation	144
+large cargo capacity	144
+used for offshore operations	144
+used for cargo handling	144
+used for cargo transport	144
+used for oil transport	144
+designed for ocean travel	144
+used for breakbulk cargo	144
+used for passenger transport	144
+used for freight transport	144
+used for international transport	144
+used for regional flights	144
+used for commuter flights	144
+used for cargo	144
+used for train transfer	144
+type of dredger	144
+used for bulk cargo	144
+used for rapid transit	144
+used in plastics	145
+used in perfumes	145
+used in cosmetics	145
+used for pharmaceuticals	145
+used in medicine	145
+used for medicine	145
+used in medicines	145
+used in food	145
+varies in temperature	146
+varies by country	146
+adjusts according to weather	146
+varies in pressure	146
+maintains low temperatures	146
+not selling something	147
+not throwing something away	147
+holding onto something	147
+not giving something away	147
+not losing something	147
+preservation of something	148
+conservation of something	148
+retaining something	148
+contains ship type	149
+contains ship speed	149
+contains ship owner	149
+contains ship location	149
+contains ship details	149
+contains ship size	149
+used in generators	150
+used in databases	150
+used in tables	150
+used in queries	150
+unique to each object	150
+used in joins	150
+documented in databases	150
+using containers	150
+used in sorting	151
+used in filtering	151
+used for categorization	151
+used in aggregating	151
+used in grouping	151
+used for grouping	151
+paid for lawsuits	152
+paid for crimes	152
+paid to lawyers	152
+liable for damages	152
+paid to courts	152
+expensive	153
+explosive	153
+expensive equipment	153
+restriction on exports	154
+restriction on imports	154
+economic sanction	154
+maintenance of possession	154
+has menus	155
+has supports	155
+have lanes	155
+has barges	155
+has lanes	155
+has crew	155
+has waiters	155
+has pilot	155
+has gravel	155
+has gates	155
+has hoses	155
+has water gates	155
+has seasons	155
+has air currents	155
+has captain	155
+has no median	155
+has tracks	155
+has routes	155
+has no divider	155
+has pedestals	155
+has display cases	155
+has storage	155
+has tables	155
+has buses	155
+has stops	155
+has fuel	155
+has crossings	155
+has additives	155
+has rust	155
+has passengers	155
+not fully utilized	156
+can be shared	156
+cannot be copied	156
+cannot be broken	156
+cannot be moved	156
+cannot be touched	156
+cannot be seen	156
+cannot be shared	156
+not allowed in others	156
+hidden from view	157
+not visible to naked eye	157
+invisible to human sight	157
+has luggage space	158
+has cup holders	158
+have cargo space	158
+offers in-flight meals	158
+has luggage racks	158
