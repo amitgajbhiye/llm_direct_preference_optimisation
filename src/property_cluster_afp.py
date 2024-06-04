@@ -114,23 +114,16 @@ def assign_prop_cluster_label(prop):
 #     print(k, v)
 
 cluster_df = df.copy(deep=True)
-prop_clusters_labels = [
-    assign_prop_cluster_label(prop) for prop in cluster_df["property"].to_list()
-]
 
-cluster_df["cluster_label"] = prop_clusters_labels
+cluster_df["cluster_label"] = cluster_df["property"].apply(assign_prop_cluster_label)
 
+cluster_df.sort_values(by=["cluster_label"], inplace=True)
 
 cluster_df.to_csv(
     "concept_property_label.txt",
     sep="\t",
     index=False,
 )
-
-cluster_df.sort_values(by=["cluster_label"], inplace=True)
-
-print("prop_clusters_labels")
-print(prop_clusters_labels)
 
 print("cluster_df")
 print(cluster_df)
