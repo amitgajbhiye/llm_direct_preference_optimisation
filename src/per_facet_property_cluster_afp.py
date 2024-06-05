@@ -42,20 +42,21 @@ concept_facet_property_file = "data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-In
 
 df = pd.read_csv(concept_facet_property_file, sep="\t")
 
-print(f"loaded: concept_facet_property_file")
-print(df)
+# print(f"loaded: concept_facet_property_file")
+# print(df)
 
 uniq_concepts = df["concept"].unique()
-print(f"uniq_num_concepts:", uniq_concepts.shape)
+# print(f"uniq_num_concepts:", uniq_concepts.shape)
 
 uniq_facets = df["facet"].unique()
-print(f"num_facets:", uniq_facets.shape)
+# print(f"num_facets:", uniq_facets.shape)
 
 facet_count_dict = dict((Counter(df["facet"].to_list())))
 
 uniq_properties = df["property"].unique()
-print(f"num_properties:", uniq_properties.shape)
-
+# print(f"num_properties:", uniq_properties.shape)
+# print()
+# print()
 
 for i, facet in enumerate(uniq_facets):
 
@@ -64,34 +65,29 @@ for i, facet in enumerate(uniq_facets):
     facet_count = facet_count_dict[facet]
 
     if facet_count < 2:
-        print(f"facet_count: {facet_count} less than 2; ignoring facet")
+        print(f"facet_count: {facet_count}, less than 2; ignoring facet")
         continue
 
     print(f"facet_count: {facet_count}")
     properties = df[df["facet"] == facet]["property"].unique()
 
-    print(f"num_property_for_facet: {len(properties)}")
+    # print(f"num_property_for_facet: {len(properties)}")
 
     llm_prop_embeds = l2v.encode(properties).detach().cpu().numpy()
 
-    print(f"llm_prop_embeds.shape: {llm_prop_embeds.shape}")
+    # print(f"llm_prop_embeds.shape: {llm_prop_embeds.shape}")
 
     prop_and_embedding = [
         (prop, embed) for prop, embed in zip(properties, llm_prop_embeds)
     ]
 
-    # print(f"Top 5 props")
-    # print(prop_and_embedding[0:5])
+    scaler = StandardScaler()
+    embeddings_scaled = scaler.fit_transform(llm_prop_embeds)
 
-    # pickle_output_file = "output_llm_embeds/transport_properties.pkl"
-    # with open(pickle_output_file, "wb") as pkl_file:
-    #     pickle.dump(prop_and_embedding, pkl_file)
-
-    # Initialize the AffinityPropagation model
     affinity_propagation = AffinityPropagation()
 
     # Fit the model to your embeddings
-    affinity_propagation.fit(llm_prop_embeds)
+    affinity_propagation.fit(embeddings_scaled)
 
     # Get the cluster centers and labels
     cluster_centers_indices = affinity_propagation.cluster_centers_indices_
@@ -112,7 +108,7 @@ for i, facet in enumerate(uniq_facets):
     # print("sorted_property_cluster_list")
     # print(sorted_property_cluster_list)
 
-    print(f"finished processing facet {facet}")
+    print(f"****** Finished processing facet: {facet} ******")
     print()
     print()
 
