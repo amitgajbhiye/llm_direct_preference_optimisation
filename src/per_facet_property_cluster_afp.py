@@ -68,7 +68,7 @@ for i, facet in enumerate(uniq_facets):
         continue
 
     print(f"facet_count: {facet_count}")
-    properties = df[df["facet"] == facet]["property"].to_list()
+    properties = df[df["facet"] == facet]["property"].unique()
 
     print(f"num_property_for_facet: {len(properties)}")
 
