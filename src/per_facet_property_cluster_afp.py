@@ -86,7 +86,7 @@ for i, facet in enumerate(uniq_facets):
     scaler = StandardScaler()
     embeddings_scaled = scaler.fit_transform(llm_prop_embeds)
 
-    clustering_algorithm = "dbscan"
+    clustering_algorithm = "hdbscan"
 
     if clustering_algorithm == "affinity_propagation":
         affinity_propagation = AffinityPropagation()
@@ -107,7 +107,8 @@ for i, facet in enumerate(uniq_facets):
 
     elif clustering_algorithm == "hdbscan":
 
-        hdbscan_clusterer = hdbscan.HDBSCAN(min_cluster_size=10, min_samples=5)
+        # hdbscan_clusterer = hdbscan.HDBSCAN(min_cluster_size=10, min_samples=5)
+        hdbscan_clusterer = hdbscan.HDBSCAN()
         labels = hdbscan_clusterer.fit_predict(embeddings_scaled)
 
     property_cluster_list = [
