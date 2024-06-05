@@ -106,8 +106,11 @@ for i, facet in enumerate(uniq_facets):
 
     sorted_property_cluster_list = sorted(property_cluster_list, key=lambda x: x[1])
 
-    print("sorted_property_cluster_list")
-    print(sorted_property_cluster_list)
+    for prop, cluster in sorted_property_cluster_list:
+        print(prop, "\t", cluster)
+
+    # print("sorted_property_cluster_list")
+    # print(sorted_property_cluster_list)
 
     print(f"finished processing facet {facet}")
     print()
