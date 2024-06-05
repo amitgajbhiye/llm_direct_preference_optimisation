@@ -62,7 +62,9 @@ for i, facet in enumerate(uniq_facets):
 
     facet_count = facet_count_dict[facet]
 
-    print(f"****** Processing facet: {i}, {facet}, facet_count: {facet_count} ******")
+    print(
+        f"****** Processing facet_no: {i}, facet: {facet}, facet_count: {facet_count} ******"
+    )
 
     if facet_count < 2:
         print(f"facet_count: {facet_count}, less than 2; ignoring facet")
