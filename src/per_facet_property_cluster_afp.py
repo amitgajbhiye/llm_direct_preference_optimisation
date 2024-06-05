@@ -45,19 +45,19 @@ df = pd.read_csv(concept_facet_property_file, sep="\t")
 print(f"loaded: concept_facet_property_file")
 print(df)
 
-concepts = df["concept"].unique()
-print(f"unoq_num_concepts:", concepts.shape)
+uniq_concepts = df["concept"].unique()
+print(f"uniq_num_concepts:", uniq_concepts.shape)
 
-facets = df["facet"].unique()
-print(f"num_facets:", facets.shape)
+uniq_facets = df["facet"].unique()
+print(f"num_facets:", uniq_facets.shape)
 
-facet_count_dict = dict((Counter(facets)))
+facet_count_dict = dict((Counter(df["facet"].to_list())))
 
-all_properties = df["property"].unique()
-print(f"num_properties:", all_properties.shape)
+uniq_properties = df["property"].unique()
+print(f"num_properties:", uniq_properties.shape)
 
 
-for i, facet in enumerate(facets):
+for i, facet in enumerate(uniq_facets):
 
     print(f"****** Processing facet: {i}, {facet} ******")
 
