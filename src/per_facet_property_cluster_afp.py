@@ -60,15 +60,15 @@ uniq_properties = df["property"].unique()
 
 for i, facet in enumerate(uniq_facets):
 
-    print(f"****** Processing facet: {i}, {facet} ******")
-
     facet_count = facet_count_dict[facet]
+
+    print(f"****** Processing facet: {i}, {facet}, facet_count: {facet_count} ******")
 
     if facet_count < 2:
         print(f"facet_count: {facet_count}, less than 2; ignoring facet")
         continue
 
-    print(f"facet_count: {facet_count}")
+    # print(f"facet_count: {facet_count}")
     properties = df[df["facet"] == facet]["property"].unique()
 
     # print(f"num_property_for_facet: {len(properties)}")
@@ -102,6 +102,7 @@ for i, facet in enumerate(uniq_facets):
 
     sorted_property_cluster_list = sorted(property_cluster_list, key=lambda x: x[1])
 
+    print("property", "\t", "cluster_label")
     for prop, cluster in sorted_property_cluster_list:
         print(prop, "\t", cluster)
 
