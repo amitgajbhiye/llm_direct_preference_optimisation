@@ -110,10 +110,6 @@ for i, facet in enumerate(uniq_facets):
         hdbscan_clusterer = hdbscan.HDBSCAN(min_cluster_size=10, min_samples=5)
         labels = hdbscan_clusterer.fit_predict(embeddings_scaled)
 
-    print()
-    print(f"clustering_algorithm: {clustering_algorithm}")
-    print()
-
     property_cluster_list = [
         (prop, clus_label) for prop, clus_label in zip(properties, labels)
     ]
