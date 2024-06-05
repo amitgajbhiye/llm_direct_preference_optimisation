@@ -1,0 +1,4944 @@
+****** Processing facet_no: 0, facet: industry, facet_count: 39 ******
+property 	 cluster_label
+transportation 	 0
+aviation 	 0
+freight 	 0
+transportation authorities 	 0
+logistics 	 1
+supply chain 	 1
+warehousing 	 1
+manufacturing 	 1
+maritime 	 1
+mining 	 1
+trucking 	 1
+logistics companies 	 1
+software development 	 2
+cloud computing 	 2
+oil refining 	 2
+it 	 3
+shipping 	 3
+trade 	 3
+energy 	 3
+construction 	 3
+logging 	 3
+shipping companies 	 3
+delivery 	 3
+petrochemical 	 4
+agriculture 	 4
+****** Finished processing facet: industry ******
+
+
+****** Processing facet_no: 1, facet: type, facet_count: 320 ******
+property 	 cluster_label
+freight 	 0
+freight forwarder 	 0
+freighter 	 0
+freight rail 	 0
+freeway 	 0
+walking 	 1
+running 	 1
+jumping 	 1
+floating 	 1
+swimming 	 2
+fishing 	 2
+ferry 	 2
+fishing gear 	 2
+vessel 	 3
+diesel 	 3
+plastic 	 3
+buoy 	 3
+yacht 	 3
+military 	 3
+beacon 	 3
+sailboat 	 3
+bacteria 	 3
+virus 	 3
+analog 	 3
+submarine 	 3
+automobile 	 3
+cognitive 	 3
+cement 	 3
+tram 	 4
+ship 	 4
+boat 	 4
+raft 	 4
+vehicle 	 4
+wagon 	 4
+car 	 4
+truck 	 4
+marine 	 4
+lake 	 4
+river 	 4
+pond 	 4
+sea 	 4
+plane 	 4
+bike 	 4
+road 	 4
+coal 	 4
+transportation 	 5
+transportation vehicle 	 5
+transportation company 	 5
+railway infrastructure 	 5
+transportation system 	 5
+regulatory body 	 5
+maritime transportation 	 5
+jet fuel 	 6
+jet ski 	 6
+jet engine 	 6
+internal combustion 	 6
+recreational 	 7
+recreational area 	 7
+exploratory 	 7
+sensory 	 7
+beach 	 8
+canoe 	 8
+fungus 	 8
+canal 	 8
+tramcar 	 9
+boxcar 	 9
+flatcar 	 9
+carriage 	 9
+bus stop 	 9
+winch 	 9
+standard hatch 	 9
+passenger 	 10
+tourist 	 10
+watercraft 	 10
+waterway 	 10
+freshwater 	 10
+subway station 	 10
+highway 	 10
+crossroads 	 10
+roundabout 	 10
+emergency hatch 	 10
+oceanic 	 11
+coastal 	 11
+ocean-going 	 11
+oceanographic 	 11
+ocean 	 11
+horse-drawn 	 12
+ox-drawn 	 12
+donkey-drawn 	 12
+containerized 	 13
+aircraft 	 13
+ground-based 	 13
+airfield 	 13
+airstrip 	 13
+aerospace 	 13
+airline 	 13
+lock-based 	 14
+timetable 	 15
+travel plan 	 15
+aviation schedule 	 15
+government 	 16
+action 	 16
+equipment 	 16
+local 	 16
+container 	 16
+financial 	 16
+structure 	 16
+model 	 16
+prototype 	 16
+experimental 	 16
+intersection 	 16
+locomotive 	 17
+marina 	 17
+interchange 	 17
+ambulance 	 17
+accommodation 	 17
+industrial 	 17
+gondola 	 17
+lighthouse 	 17
+crane 	 17
+chandelier 	 17
+sconce 	 17
+explosive 	 17
+radioactive 	 17
+pulley 	 17
+diplomatic 	 17
+grains 	 17
+penalty 	 17
+semi-trailer 	 18
+gasoline 	 18
+non-powered 	 18
+single-engine 	 18
+space-based 	 18
+offshore 	 18
+petroleum-based 	 18
+combustible liquid 	 18
+man-made 	 18
+heavy-lifting 	 18
+brushless 	 18
+pallet jack 	 18
+conveyor belt 	 18
+heavy-duty 	 18
+powerful 	 18
+high-speed rail 	 18
+propeller-driven 	 18
+four-wheel drive 	 18
+high-speed 	 18
+major 	 19
+minor 	 19
+liquid 	 19
+fixed 	 19
+thought 	 19
+goal 	 19
+quarters 	 19
+international 	 19
+scientific 	 19
+national 	 19
+dry 	 19
+natural 	 19
+weight 	 19
+size 	 19
+amount 	 19
+permanent 	 19
+dc 	 19
+chemical 	 19
+large 	 19
+land 	 19
+economic 	 19
+ores 	 19
+fine 	 19
+fee 	 19
+gantry crane 	 20
+large truck 	 21
+team member 	 21
+fire truck 	 21
+police car 	 21
+rescue vehicle 	 21
+small plane 	 21
+family car 	 21
+tank car 	 21
+motorcycle 	 21
+forklift 	 21
+train station 	 21
+utility vehicle 	 21
+pickup truck 	 21
+passenger car 	 21
+off-road vehicle 	 21
+gaming console 	 21
+tanker 	 22
+cargo ship 	 22
+railway vehicle 	 22
+large passenger ship 	 22
+marine vessel 	 22
+cruise ship 	 22
+ocean liner 	 22
+container ship 	 22
+bulk carrier 	 22
+service vessel 	 22
+shipping route 	 23
+shipping 	 23
+real estate 	 23
+shipping company 	 23
+bus company 	 23
+train company 	 23
+stratosphere 	 24
+troposphere 	 24
+mesosphere 	 24
+thermosphere 	 24
+train 	 25
+employee 	 25
+worker 	 25
+bulk 	 25
+room 	 25
+commercial 	 25
+private 	 25
+bus 	 25
+gps 	 25
+insurance 	 25
+digital 	 25
+ac 	 25
+lamp 	 25
+foot 	 25
+motor 	 25
+utility 	 25
+computer 	 25
+phone 	 25
+tv 	 25
+trawler 	 26
+parasite 	 26
+scooter 	 26
+stepper 	 26
+commuter rail 	 26
+regional airliner 	 26
+commuter 	 26
+****** Finished processing facet: type ******
+
+
+****** Processing facet_no: 2, facet: operations, facet_count: 27 ******
+property 	 cluster_label
+trains 	 0
+schedules 	 0
+scheduling flights 	 0
+timetables 	 0
+train arrivals 	 0
+24/7 operations 	 0
+union 	 1
+intersection 	 1
+difference 	 1
+unloading 	 2
+handling baggage 	 2
+providing amenities 	 2
+fare payment 	 2
+multiple gates 	 2
+baggage handling 	 2
+tracks 	 3
+stations 	 3
+loading 	 3
+storing 	 3
+moving 	 3
+navigation 	 3
+storage 	 3
+****** Finished processing facet: operations ******
+
+
+****** Processing facet_no: 3, facet: ownership, facet_count: 6 ******
+property 	 cluster_label
+private 	 0
+public 	 0
+government 	 1
+owned 	 2
+leased 	 2
+borrowed 	 2
+****** Finished processing facet: ownership ******
+
+
+****** Processing facet_no: 4, facet: scope, facet_count: 19 ******
+property 	 cluster_label
+local 	 0
+regional 	 1
+national 	 2
+international 	 2
+personal 	 2
+social 	 2
+professional 	 2
+limited 	 2
+specific 	 2
+confined 	 3
+****** Finished processing facet: scope ******
+
+
+****** Processing facet_no: 5, facet: goals, facet_count: 10 ******
+property 	 cluster_label
+efficiency 	 0
+safety 	 0
+revenue 	 0
+expansion 	 0
+environmental protection 	 1
+consumer protection 	 1
+economic growth 	 1
+public health 	 2
+public welfare 	 2
+national security 	 2
+****** Finished processing facet: goals ******
+
+
+****** Processing facet_no: 6, facet: employees, facet_count: 16 ******
+property 	 cluster_label
+customer service 	 0
+law enforcement 	 0
+flight attendants 	 1
+ground staff 	 1
+drivers 	 1
+train engineers 	 2
+conductors 	 2
+mechanics 	 2
+pilots 	 2
+sailors 	 2
+officers 	 2
+engineers 	 2
+administrators 	 2
+****** Finished processing facet: employees ******
+
+
+****** Processing facet_no: 7, facet: purpose, facet_count: 275 ******
+property 	 cluster_label
+transporting people 	 0
+transporting goods 	 0
+lifting and transporting 	 0
+supporting industries 	 0
+moving goods 	 0
+carrying goods 	 0
+transport goods 	 0
+processing whale products 	 0
+transport people 	 0
+extracting gas 	 0
+socializing 	 1
+relaxing 	 1
+anchoring 	 1
+traveling 	 1
+exploring 	 1
+informing 	 1
+directing 	 1
+advertising 	 1
+economic pressure 	 1
+organizing 	 1
+switching trains 	 2
+connecting routes 	 2
+finding way 	 2
+getting lost 	 2
+mark hazards 	 2
+connecting 	 2
+supporting internet 	 2
+improve connectivity 	 2
+connecting land 	 2
+tracking targets 	 2
+connecting canals 	 2
+housing passengers 	 2
+connect neighborhoods 	 2
+provide regular route 	 2
+recreational 	 3
+recreational use 	 3
+recreation 	 3
+for commercial use 	 3
+for recreational use 	 3
+scientific study 	 4
+national development 	 4
+scientific research 	 4
+official record 	 4
+to achieve something 	 5
+to accomplish a task 	 5
+to solve a problem 	 5
+enjoying meal 	 6
+enforcing rules 	 6
+maintaining order 	 6
+ensuring safety 	 6
+environmentally friendly 	 6
+ensuring punctuality 	 6
+providing direction 	 6
+showing the way 	 6
+separates spaces 	 6
+ensuring safe flight 	 6
+fishing 	 7
+safety 	 7
+sailing 	 7
+docking 	 7
+hunting whales 	 7
+towing 	 7
+passenger transport 	 8
+traffic management 	 8
+cargo transport 	 8
+aid navigation 	 8
+energy supply 	 8
+tracking cargo 	 8
+water transportation 	 8
+family transportation 	 8
+commercial fishing 	 8
+supply chain management 	 8
+move cargo 	 9
+haul freight 	 9
+carrying cargo 	 9
+housing crew 	 9
+moving people 	 9
+carry cargo 	 9
+deliver packages 	 9
+hauled by truck 	 9
+store fuel 	 9
+studying ocean life 	 10
+monitoring climate change 	 10
+exploring deep sea 	 10
+exercise 	 11
+play 	 11
+order 	 11
+loading 	 11
+office 	 11
+work 	 11
+warning 	 11
+document of title 	 12
+proof of ownership 	 12
+proof of delivery 	 12
+register of ships 	 12
+domestic economy 	 13
+international trade 	 13
+domestic trade 	 13
+diplomatic leverage 	 13
+tourism 	 14
+tourist attraction 	 14
+tourist excursion 	 14
+business meetings 	 15
+special events 	 15
+business use 	 15
+construction 	 16
+maintenance 	 16
+transportation 	 16
+entertainment 	 16
+storage 	 16
+logistics 	 16
+travel 	 16
+transport 	 16
+housing aircraft during flight 	 17
+to identify vehicle 	 17
+detecting aircraft 	 17
+testing aerodynamics 	 17
+crossing water 	 18
+raising water level 	 18
+lowering water level 	 18
+wait for bus 	 19
+pick up passengers 	 19
+drop off passengers 	 19
+transferring cargo 	 20
+storing 	 20
+assist anchoring 	 20
+storing and launching aircraft 	 20
+documenting shipment details 	 20
+storing cargo 	 20
+commercial 	 21
+shipping 	 21
+trade 	 21
+education 	 21
+commerce 	 21
+business 	 21
+mooring 	 22
+hauling heavy loads 	 22
+hauling 	 22
+to promote 	 23
+to track ownership 	 23
+to control the train 	 23
+to provide food 	 23
+to exert pressure 	 23
+to impose sanctions 	 23
+to protect interests 	 23
+military operation 	 24
+military 	 24
+military operations 	 24
+rescue operations 	 24
+construction and maintenance 	 25
+enabling communication 	 25
+providing data transfer 	 25
+prevents flooding 	 25
+facilitating transportation 	 25
+increasing accessibility 	 25
+facilitating international trade 	 25
+revenue generation 	 26
+increase railway capacity 	 26
+managing airline operations 	 26
+evaluating performance 	 26
+researching fuel efficiency 	 26
+improving traffic flow 	 26
+avoiding land routes 	 26
+reducing travel time 	 26
+self-defense 	 27
+residence 	 27
+efficiency 	 27
+convenience 	 27
+irrigation 	 27
+drainage 	 27
+agriculture 	 27
+commuting 	 27
+patrol 	 27
+decorative 	 27
+practical 	 27
+planning 	 27
+safekeeping 	 27
+protection 	 27
+punishment 	 27
+compensation 	 27
+reparation 	 27
+punish 	 27
+deter 	 27
+provide protection 	 28
+reduce costs 	 28
+to provide braking power 	 28
+contains pressure 	 28
+provide transfer 	 28
+reduce traffic 	 28
+finding oil 	 28
+provide energy 	 28
+monitoring weather 	 29
+igniting fires 	 29
+lighting cigarettes 	 29
+catching fish 	 29
+avoiding collisions 	 29
+fighting fires 	 29
+visit 	 30
+attend 	 30
+deliver 	 30
+temporary 	 30
+emergency 	 30
+repair 	 30
+assemble 	 30
+hold together 	 30
+decorate 	 30
+efficient 	 30
+attack 	 30
+defend 	 30
+personal 	 30
+identification 	 30
+protect 	 30
+water sports 	 31
+luxurious travel 	 31
+helping travelers plan 	 31
+daily commute 	 31
+road trip 	 31
+off-road 	 31
+long-distance travel 	 31
+****** Finished processing facet: purpose ******
+
+
+****** Processing facet_no: 8, facet: propulsion, facet_count: 38 ******
+property 	 cluster_label
+diesel 	 0
+hybrid 	 0
+propeller 	 0
+sail 	 0
+paddle 	 0
+human power 	 0
+mechanical 	 0
+turbofan 	 0
+gasoline 	 0
+electric 	 1
+steam 	 1
+motor 	 1
+engine 	 1
+manual 	 1
+wind 	 1
+oar 	 2
+piston engine 	 3
+gas turbine 	 3
+jet propulsion 	 3
+rotary engine 	 3
+turboprop engine 	 3
+jet engine 	 3
+****** Finished processing facet: propulsion ******
+
+
+****** Processing facet_no: 9, facet: speed, facet_count: 63 ******
+property 	 cluster_label
+up to 300 km/h 	 0
+less than 200 mph 	 0
+up to 50 km/h 	 0
+dependent on track condition 	 1
+dependent on wind and currents 	 1
+relatively fast 	 2
+fast response 	 2
+relatively slow 	 2
+fast 	 3
+slow 	 3
+medium 	 3
+high 	 3
+low 	 3
+high speed 	 4
+medium speed 	 4
+low speed 	 4
+high-speed 	 4
+medium-speed 	 4
+low-speed 	 4
+rapid 	 5
+variable 	 5
+constant 	 5
+average 	 5
+moderate 	 5
+millisecond 	 6
+millisecond range 	 6
+sonic 	 7
+****** Finished processing facet: speed ******
+
+
+****** Processing facet_no: 10, facet: design, facet_count: 69 ******
+property 	 cluster_label
+streamlined 	 0
+boxy 	 0
+sturdy 	 0
+cantilevered 	 0
+long and slender 	 0
+wing-shaped 	 0
+sea-going 	 0
+arched 	 0
+truss 	 0
+pulsed 	 0
+watertight 	 0
+reinforced 	 0
+sleek 	 0
+curvy 	 0
+rugged 	 0
+aggressive 	 0
+covered 	 1
+covered in steel 	 1
+open 	 1
+flat 	 1
+efficient 	 1
+floating 	 1
+beam 	 1
+roofed 	 1
+continuous 	 1
+strong 	 1
+arch 	 1
+compact 	 1
+specialized hull 	 2
+multiple cars connected 	 2
+specialized 	 2
+specialized construction 	 2
+specialized for deep sea 	 2
+heavy-duty 	 2
+standardized 	 2
+large capacity 	 3
+multiple lanes 	 3
+large size 	 3
+equipped with cranes 	 4
+equipped with cable-laying equipment 	 4
+firefighting equipment 	 4
+open top 	 5
+no sides 	 5
+simple 	 5
+fixed structure 	 5
+simple structure 	 5
+cooling system 	 5
+monohull 	 6
+catamaran 	 6
+trimaran 	 6
+angular 	 7
+separate compartments 	 8
+lightweight 	 8
+low-cost 	 8
+custom-made 	 8
+movable 	 8
+insulation 	 8
+fire-resistant 	 8
+interchanges 	 8
+ramps 	 8
+foldable 	 8
+customizable 	 8
+watercraft 	 8
+****** Finished processing facet: design ******
+
+
+****** Processing facet_no: 11, facet: location, facet_count: 298 ******
+property 	 cluster_label
+depot 	 0
+aircraft 	 1
+airplane 	 1
+aircraft carrier 	 1
+spacecraft 	 1
+airports 	 1
+airfield 	 1
+ocean 	 2
+oceans 	 2
+europe 	 2
+canal 	 2
+coastal 	 3
+coastal area 	 3
+disaster area 	 3
+coastlines 	 3
+coast 	 3
+coastal waters 	 3
+coastal areas 	 3
+gym 	 4
+hangar 	 4
+harbor 	 4
+quay 	 4
+harbors 	 4
+garage 	 4
+gulf 	 4
+station 	 5
+train 	 5
+airport 	 5
+office 	 5
+dock 	 5
+warehouse 	 5
+factory 	 5
+ports 	 5
+hospital 	 5
+roads 	 5
+deck 	 5
+marine 	 5
+building 	 5
+kitchen 	 5
+store 	 5
+ship 	 5
+asia 	 5
+urban 	 5
+spot 	 5
+mall 	 5
+warehouses 	 5
+hull 	 6
+over a river 	 7
+over a valley 	 7
+over a highway 	 7
+on a ship 	 7
+launchpad 	 8
+fire station 	 9
+police station 	 9
+ground station 	 9
+research station 	 9
+remote location 	 9
+military bases 	 9
+weather stations 	 9
+control tower 	 9
+radar station 	 9
+office building 	 9
+outdoors 	 10
+offshore 	 10
+seas 	 10
+open sea 	 10
+underground 	 10
+undersea 	 10
+arctic 	 10
+under car 	 10
+countryside 	 11
+rural area 	 11
+developing country 	 11
+industrial area 	 11
+rural road 	 11
+urban areas 	 11
+rural 	 11
+track 	 12
+route 	 12
+port 	 12
+top 	 12
+planet 	 12
+continent 	 12
+country 	 12
+region 	 12
+china 	 12
+event 	 12
+intersection 	 12
+place 	 12
+area 	 12
+seaport 	 13
+driveway 	 13
+near seaport 	 13
+on an aircraft carrier 	 14
+rear of the train 	 14
+at the front of the train 	 14
+highways 	 15
+runway 	 15
+worldwide 	 15
+highway 	 15
+interstate 	 15
+side of highway 	 15
+headquarters 	 15
+journey 	 16
+waterfront 	 16
+spaceport 	 16
+train yard 	 16
+waterways 	 16
+workshop 	 16
+waterway 	 16
+street corner 	 16
+parking lot 	 16
+sea route 	 16
+yard 	 17
+pool 	 17
+lake 	 17
+river 	 17
+city 	 17
+town 	 17
+middle 	 17
+bottom 	 17
+earth 	 17
+bow 	 17
+water 	 17
+air 	 17
+land 	 17
+street 	 17
+sea 	 17
+home 	 17
+road 	 17
+ceiling 	 17
+table 	 17
+wall 	 17
+surface 	 17
+ground 	 17
+trail 	 17
+midship 	 18
+lower deck 	 18
+upper deck 	 18
+on deck 	 18
+below deck 	 18
+intersections 	 19
+suburb 	 19
+suburbs 	 19
+near runway 	 20
+near ocean 	 20
+near bus stop 	 20
+public area 	 20
+north america 	 20
+above ground 	 20
+near river 	 20
+inside airport 	 20
+city street 	 20
+city center 	 20
+between islands 	 20
+connecting two seas 	 20
+near city 	 20
+near highway 	 20
+in garage 	 20
+at gas station 	 20
+offshore oil rigs 	 21
+****** Finished processing facet: location ******
+
+
+****** Processing facet_no: 12, facet: features, facet_count: 243 ******
+property 	 cluster_label
+large wheels 	 0
+air brakes 	 0
+open cockpit 	 0
+fixed landing gear 	 0
+small wingspan 	 0
+large windows 	 0
+dual tires 	 0
+four wheels 	 0
+large bed 	 0
+power windows 	 0
+shops 	 1
+tracks 	 1
+nets 	 1
+holds 	 1
+lights 	 1
+bed 	 1
+desk 	 1
+locks 	 1
+doors 	 1
+vents 	 1
+fixed 	 1
+marks 	 1
+shore 	 1
+restaurant 	 1
+pool 	 1
+air conditioning 	 2
+safety features 	 2
+signal systems 	 2
+gps tracking 	 2
+communication equipment 	 2
+medical equipment 	 2
+specialized valves 	 2
+entertainment facilities 	 2
+data logging equipment 	 2
+uses gps navigation 	 2
+terminal buildings 	 2
+security checks 	 2
+navigation systems 	 2
+docks 	 3
+railing 	 3
+hatches 	 3
+elevators 	 3
+ladders 	 3
+sliding doors 	 3
+couplers 	 3
+bridges 	 3
+tunnels 	 3
+wheels 	 3
+harness 	 3
+lighthouse 	 3
+dams 	 3
+cannons 	 3
+sensors 	 3
+ticket counters 	 3
+canteen 	 4
+lavatory 	 4
+tarmac 	 4
+wireless 	 4
+rudder 	 4
+planning 	 4
+cabins 	 4
+wardrobe 	 4
+bathroom 	 4
+shower 	 4
+toilet 	 4
+warehouses 	 4
+sunroof 	 4
+lighting 	 4
+propeller 	 4
+steering 	 4
+marina 	 4
+pier 	 4
+kitchen 	 4
+windproof 	 4
+coastline 	 4
+beach 	 4
+reef 	 4
+bus shelter 	 4
+cabin 	 4
+gym 	 4
+propulsion 	 4
+steerage 	 4
+coupling 	 4
+heating 	 5
+separate compartments 	 5
+seating 	 5
+heated seats 	 5
+comfortable seating 	 5
+seats 	 5
+seating capacity 	 5
+water tank 	 6
+fire hose 	 6
+firefighting crew 	 6
+engine 	 7
+screen 	 7
+button 	 7
+secure 	 7
+anchors 	 7
+floating 	 7
+anchored 	 7
+deck 	 7
+anchor 	 7
+multiple axles 	 8
+ailerons 	 8
+engines 	 8
+brakes 	 8
+axles 	 8
+winches 	 8
+tackle 	 9
+siren 	 9
+suspension 	 9
+loud siren 	 9
+saddle 	 9
+sail 	 9
+handlebars 	 10
+luxurious accommodations 	 11
+dining options 	 11
+food and beverage service 	 11
+food vendors 	 11
+powerful engine 	 12
+stronger brakes 	 12
+more powerful engine 	 12
+customized engine 	 12
+holds large amount of oil 	 12
+high ground clearance 	 12
+canals 	 13
+compatible trains 	 13
+supports traffic 	 13
+has pillars 	 13
+has lanes 	 13
+refrigerated 	 14
+collapsible 	 14
+foldable 	 14
+refillable 	 14
+reliable 	 14
+speed control 	 15
+water level control 	 15
+water flow control 	 15
+restaurants 	 16
+windows 	 16
+views 	 16
+platforms 	 16
+execution 	 16
+evaluation 	 16
+rails 	 16
+gps 	 16
+platform 	 16
+containers 	 16
+tables 	 16
+information board 	 17
+infotainment system 	 17
+information kiosk 	 17
+four-wheel drive 	 18
+all-wheel drive 	 18
+cranes 	 19
+crane attachment 	 19
+loading cranes 	 19
+control tower 	 20
+temperature controlled 	 20
+storage compartments 	 20
+easy to transport 	 20
+strong hull 	 20
+shared track 	 20
+adjustable gauge 	 20
+parking lot 	 20
+storage space 	 20
+lifted suspension 	 20
+waiting area 	 20
+deck space 	 20
+has cargo tanks 	 20
+cargo space 	 20
+narrow and winding 	 21
+deep enough for large ships 	 21
+well-marked for navigation 	 21
+runway 	 22
+waterways 	 22
+rest areas 	 22
+restrooms 	 22
+runways 	 22
+life jackets 	 23
+captain's chairs 	 23
+buoys 	 23
+lifeboats 	 23
+****** Finished processing facet: features ******
+
+
+****** Processing facet_no: 13, facet: body part, facet_count: 4 ******
+property 	 cluster_label
+legs 	 0
+arms 	 0
+core 	 0
+whole body 	 1
+****** Finished processing facet: body part ******
+
+
+****** Processing facet_no: 14, facet: style, facet_count: 7 ******
+property 	 cluster_label
+casual 	 0
+formal 	 0
+professional 	 0
+athletic 	 1
+autocratic 	 1
+democratic 	 1
+participative 	 2
+****** Finished processing facet: style ******
+
+
+****** Processing facet_no: 15, facet: structure, facet_count: 57 ******
+property 	 cluster_label
+large vessel 	 0
+steel hull 	 0
+terminal building 	 0
+control tower 	 0
+heavy lifting equipment 	 1
+multiple cranes 	 1
+heavy machinery 	 1
+pier 	 2
+quay 	 2
+wharf 	 2
+truss 	 2
+runway 	 2
+curved 	 3
+wooden 	 3
+movable 	 3
+anchored 	 3
+enclosed 	 3
+rigid 	 3
+built over water 	 4
+steel or concrete 	 4
+built from steel 	 4
+built from concrete 	 4
+built from wood 	 4
+bureaucracy 	 5
+hierarchy 	 6
+hinged 	 6
+hierarchical 	 6
+flat 	 7
+metal 	 7
+fixed 	 7
+steel 	 7
+rails 	 7
+ties 	 7
+large 	 7
+modern 	 7
+glass 	 7
+living 	 7
+complex 	 7
+angled 	 8
+beam 	 8
+arch 	 8
+composite 	 8
+propeller 	 8
+anchor 	 8
+floating 	 8
+man-made 	 9
+chain-like 	 9
+ring-like 	 9
+branching 	 9
+multi-story 	 9
+self-replicating 	 10
+****** Finished processing facet: structure ******
+
+
+****** Processing facet_no: 16, facet: function, facet_count: 278 ******
+property 	 cluster_label
+aircraft operation 	 0
+general aviation 	 0
+aircraft movement 	 0
+powers aircraft 	 0
+aviation safety 	 0
+pilot 	 1
+co-pilot 	 1
+engineer 	 1
+cabin crew 	 1
+military 	 1
+passenger 	 1
+seals 	 1
+fishing 	 1
+communicates 	 2
+operating 	 2
+divides 	 2
+communicate 	 2
+entertain 	 2
+mooring 	 3
+unloading 	 3
+anchoring 	 3
+storing 	 3
+transferring 	 3
+storing vehicles 	 3
+rescue operations 	 4
+rescue 	 4
+emergency response 	 4
+whale hunting 	 4
+loading 	 5
+storage 	 5
+cargo 	 5
+location 	 5
+tracking 	 5
+commercial 	 5
+event 	 5
+powers 	 5
+building 	 5
+platform 	 5
+trade 	 5
+structure 	 5
+commerce 	 5
+selling 	 5
+processing 	 5
+direction 	 5
+private 	 6
+export 	 6
+import 	 6
+handle cargo 	 7
+transshipping 	 7
+shipping 	 7
+shipping goods 	 7
+store goods 	 7
+protect goods 	 7
+cargo handling 	 7
+buying 	 7
+processing fish 	 7
+moving goods 	 7
+moving people 	 7
+shipping containers 	 7
+shipping petroleum 	 7
+provide amenities 	 7
+transport chemicals 	 8
+transport goods 	 8
+receive and dispatch containers 	 8
+transporting ore 	 8
+transportation 	 8
+transporting 	 8
+transporting railcars 	 8
+transporting goods 	 8
+transporting passengers 	 8
+transporting oil 	 8
+transporting natural gas 	 8
+refined products 	 8
+allowing ships to travel 	 8
+transporting vehicles 	 8
+transporting personnel 	 8
+supports vehicle 	 9
+connects two areas 	 9
+allows train passage 	 9
+pulling passenger train 	 9
+last car in a train 	 9
+allow boat passage 	 9
+allowing entry and exit 	 9
+handle international flights 	 9
+pedestrian path 	 9
+ensuring safe takeoff and landing 	 10
+indicate safe passage 	 10
+indicating safe passage 	 10
+assisting other vessels 	 10
+protecting vessels 	 10
+carry passengers 	 11
+carry freight 	 11
+hauled by tractor 	 11
+long-distance hauling 	 11
+freight transport 	 11
+carrying cargo 	 11
+freight 	 11
+carrying liquids 	 11
+carrying gases 	 11
+carrying solids 	 11
+carrying freight 	 11
+carries passengers 	 11
+firefighting 	 12
+marking hazards 	 12
+fighting fires 	 12
+catching fish 	 12
+serving food 	 13
+keeps food cool 	 13
+preserves food 	 13
+detection 	 14
+planning 	 14
+propulsion 	 14
+protection 	 14
+buoyancy 	 14
+legislation 	 14
+regulation 	 14
+negotiating 	 14
+facilitating 	 14
+trading 	 14
+recreation 	 14
+accommodation 	 14
+separation 	 14
+exploration 	 14
+medical transport 	 15
+law enforcement 	 15
+space travel 	 15
+air travel 	 15
+carry hazardous materials 	 16
+lifting heavy loads 	 16
+separate multiple trains 	 16
+moving heavy loads 	 16
+moving objects vertically 	 16
+docking 	 17
+tow 	 17
+towing 	 17
+distributes weight 	 18
+generates thrust 	 18
+generates torque 	 18
+illuminates space 	 18
+absorbs solar radiation 	 18
+provides traction 	 19
+provide visual warning 	 19
+spans a gap 	 19
+provides barrier 	 19
+provides light 	 19
+provides seating 	 19
+supports life 	 19
+provides nutrients 	 19
+remove sediment 	 20
+maintain water depth 	 20
+regulate water level 	 20
+control water flow 	 20
+converts electrical energy 	 20
+regulates earth's climate 	 20
+regulates ecosystem 	 20
+arranging 	 21
+drinking water 	 21
+draining water 	 21
+driving 	 21
+direct traffic 	 22
+walking surface 	 22
+public service 	 22
+transportation hub 	 22
+passenger service 	 22
+shipping route 	 22
+route for ships 	 22
+maritime route 	 22
+directing air traffic 	 23
+improve safety 	 23
+regulate traffic flow 	 23
+control traffic 	 23
+laying underwater cables 	 23
+repairing damaged cables 	 23
+construct coastal structures 	 23
+reducing risk of collisions 	 23
+regulating traffic flow 	 23
+flow control 	 23
+reducing traffic congestion 	 23
+aiding navigation 	 23
+distributing traffic 	 23
+wait for public transportation 	 24
+indicating when to stop 	 24
+indicating when to go 	 24
+facilitate travel 	 24
+takeoff 	 25
+increase capacity 	 25
+observation area 	 25
+leading train 	 25
+engine room 	 25
+bus station 	 25
+train station 	 25
+departure point 	 25
+arrival point 	 25
+check-in 	 25
+landing 	 26
+construction 	 26
+charges 	 26
+pull 	 26
+assist 	 26
+gas 	 26
+lifting 	 26
+moving 	 26
+placing 	 26
+airport 	 26
+departure 	 26
+arrival 	 26
+connect cities 	 27
+connecting rivers 	 27
+connecting cities 	 27
+connecting neighborhoods 	 27
+connecting roads 	 27
+offshore construction 	 28
+oil rig maintenance 	 28
+offshore oil and gas operations 	 28
+oil extraction 	 28
+offshore drilling 	 28
+providing drinks 	 29
+providing supplies 	 29
+transmitting signals 	 29
+providing navigation data 	 29
+providing location information 	 29
+increasing trade 	 29
+providing warning 	 29
+providing access 	 29
+providing access to deck 	 29
+providing safe haven 	 29
+ensuring navigation 	 29
+air traffic control 	 30
+air traffic management 	 30
+car with controls 	 31
+parking cars 	 31
+parking 	 31
+support services 	 32
+mark location 	 32
+provide information 	 32
+conducting research 	 32
+collecting data 	 32
+monitoring environment 	 32
+process information 	 32
+store data 	 32
+****** Finished processing facet: function ******
+
+
+****** Processing facet_no: 17, facet: size, facet_count: 185 ******
+property 	 cluster_label
+large 	 0
+long 	 0
+heavy 	 0
+small 	 0
+medium 	 0
+hub 	 0
+complex 	 0
+wide 	 0
+massive 	 0
+compact 	 0
+huge 	 0
+large quantity 	 0
+desktop 	 0
+focus city 	 1
+roomy 	 1
+portable 	 1
+towering 	 1
+varies 	 2
+varies by vehicle 	 2
+varies by type 	 2
+specialized 	 3
+mid-sized 	 3
+typically large 	 3
+large capacity 	 3
+larger than other cars 	 3
+dependent on train 	 3
+extra long 	 3
+extra wide 	 3
+heavy weight 	 3
+capacity for multiple aircraft 	 4
+narrow 	 5
+tall 	 5
+giant 	 5
+hundreds of meters long 	 6
+multiple masts 	 7
+****** Finished processing facet: size ******
+
+
+****** Processing facet_no: 18, facet: operation, facet_count: 58 ******
+property 	 cluster_label
+requires specialized crew 	 0
+needs careful handling 	 0
+operated by crew 	 0
+requires maintenance 	 0
+manual 	 1
+mechanized 	 1
+computerized 	 1
+no engine 	 1
+dependent on wind 	 1
+combustion 	 1
+lifted 	 1
+lowered 	 1
+pumped 	 1
+automatic 	 1
+driving 	 1
+parking 	 1
+speed limit 	 1
+electricity powered 	 1
+manual control 	 1
+automated 	 1
+port-based 	 1
+subject to regulations 	 1
+limited hours 	 1
+weather dependent 	 1
+oceanic 	 2
+coastal 	 2
+seasonal 	 2
+electronic 	 3
+mechanical 	 3
+electrical 	 3
+electricity 	 3
+pilot-powered 	 4
+hydraulic 	 4
+diesel 	 4
+hybrid 	 4
+traffic management 	 5
+traffic enforcement 	 5
+international trade 	 5
+scheduling 	 5
+route planning 	 5
+publicly owned 	 6
+privately operated 	 6
+opening and closing 	 7
+locking and unlocking 	 7
+24/7 service 	 8
+24/7 	 8
+****** Finished processing facet: operation ******
+
+
+****** Processing facet_no: 19, facet: safety features, facet_count: 10 ******
+property 	 cluster_label
+containment systems 	 0
+emergency response plans 	 0
+emergency response 	 0
+warning lights 	 1
+caution signs 	 1
+safety rating 	 1
+speed limit enforcement 	 1
+seatbelt 	 2
+airbag 	 2
+crash test 	 2
+****** Finished processing facet: safety features ******
+
+
+****** Processing facet_no: 20, facet: environmental impact, facet_count: 23 ******
+property 	 cluster_label
+hazardous cargo 	 0
+contributes to climate change 	 1
+pollutes air and water 	 1
+contributes to air pollution 	 1
+reduced air pollution 	 1
+habitat destruction 	 2
+ecological damage 	 2
+conservation 	 2
+minimized noise 	 2
+minimized pollution 	 2
+greenhouse gas emissions 	 2
+parking space 	 2
+low carbon footprint 	 2
+pollution risk 	 3
+pollution 	 3
+air pollution 	 3
+noise pollution 	 3
+traffic congestion 	 3
+high 	 4
+low 	 4
+neutral 	 4
+****** Finished processing facet: environmental impact ******
+
+
+****** Processing facet_no: 21, facet: amenities, facet_count: 11 ******
+property 	 cluster_label
+tables 	 0
+bar 	 0
+tv 	 0
+chairs 	 1
+kitchen 	 1
+comfortable seating 	 1
+air conditioning 	 2
+mini-bar 	 2
+coffee maker 	 2
+food and drinks 	 3
+entertainment 	 3
+****** Finished processing facet: amenities ******
+
+
+****** Processing facet_no: 22, facet: importance, facet_count: 27 ******
+property 	 cluster_label
+environmental 	 0
+environmentally sensitive 	 0
+critical for global trade 	 1
+increasingly important for energy transport 	 1
+commercial 	 2
+economic 	 2
+serious 	 2
+minor 	 2
+high 	 2
+ensuring maritime safety 	 3
+facilitating navigation 	 3
+protecting marine life 	 3
+strategic 	 4
+logistical 	 4
+recreational 	 4
+crucial 	 4
+vital 	 4
+****** Finished processing facet: importance ******
+
+
+****** Processing facet_no: 23, facet: maintenance, facet_count: 42 ******
+property 	 cluster_label
+regular 	 0
+replacement 	 0
+repair 	 0
+minimal 	 0
+none 	 0
+critical 	 0
+regularly cleaned 	 1
+regularly maintained 	 1
+regularly checked 	 1
+emptied and cleaned 	 1
+infrequent 	 2
+inspected 	 2
+maintained 	 2
+periodically resurfaced 	 2
+well-maintained 	 2
+maintained by authorities 	 2
+accurate records 	 2
+neglected 	 2
+dependent on usage 	 3
+regular inspections 	 3
+repair work 	 3
+occasional repairs 	 3
+regular inspection 	 3
+regular maintenance 	 3
+complex repair 	 3
+updated regularly 	 3
+regular oil changes 	 3
+infrastructure 	 4
+electric maintenance 	 5
+software updates 	 5
+filter replacements 	 5
+****** Finished processing facet: maintenance ******
+
+
+****** Processing facet_no: 24, facet: equipment, facet_count: 37 ******
+property 	 cluster_label
+radar 	 0
+sonar 	 0
+aircraft instruments 	 1
+navigation systems 	 1
+communication devices 	 1
+communication systems 	 1
+medical supplies 	 1
+fire hoses 	 1
+fueling systems 	 1
+sensors 	 1
+communication device 	 1
+drilling rig 	 1
+computer systems 	 1
+forklifts 	 2
+trailers 	 2
+lights and sirens 	 2
+hoists 	 2
+cranes 	 3
+tractors 	 3
+tugs 	 3
+submarine 	 3
+laboratory 	 3
+traps 	 3
+cable 	 3
+containers 	 4
+vehicle 	 4
+tools 	 4
+nets 	 4
+processors 	 4
+pipes 	 4
+generator 	 4
+****** Finished processing facet: equipment ******
+
+
+****** Processing facet_no: 25, facet: crew roles, facet_count: 3 ******
+property 	 cluster_label
+pilot 	 0
+co-pilot 	 0
+air traffic controller 	 1
+****** Finished processing facet: crew roles ******
+
+
+****** Processing facet_no: 26, facet: regulations, facet_count: 17 ******
+property 	 cluster_label
+safety protocols 	 0
+standard operating procedures 	 0
+safety standards 	 0
+traffic rules 	 0
+safety 	 0
+licensing 	 1
+licensing regulations 	 1
+customs 	 1
+aviation laws 	 2
+government oversight 	 2
+international law 	 2
+environmental regulations 	 2
+environmental 	 2
+regulated by maritime authorities 	 3
+subject to international regulations 	 3
+****** Finished processing facet: regulations ******
+
+
+****** Processing facet_no: 27, facet: category, facet_count: 11 ******
+property 	 cluster_label
+mode of transportation 	 0
+railway vehicle 	 0
+civil aviation 	 0
+transportation 	 0
+train 	 1
+icao 	 1
+vehicle 	 1
+hazardous materials 	 2
+iata 	 3
+flammable 	 3
+toxic 	 3
+****** Finished processing facet: category ******
+
+
+****** Processing facet_no: 28, facet: used for, facet_count: 135 ******
+property 	 cluster_label
+long-distance travel 	 0
+long-distance hauling 	 0
+business travel 	 0
+long distance travel 	 0
+regional flights 	 0
+goods transportation 	 1
+passenger transport 	 1
+freight transport 	 1
+transportation 	 1
+law enforcement 	 1
+family transportation 	 1
+railway infrastructure 	 1
+logistics 	 1
+data transfer 	 1
+international shipping 	 1
+cargo transport 	 1
+loading cargo 	 2
+unloading cargo 	 2
+unloading 	 2
+daily commute 	 3
+commuting 	 3
+daily errands 	 3
+accommodating personnel 	 3
+steering 	 3
+braking 	 3
+navigating 	 3
+trains 	 3
+salvage 	 3
+boating 	 3
+worksite 	 3
+preventing collisions 	 3
+devops 	 4
+microservices 	 4
+measuring liquids 	 5
+measuring solids 	 5
+recreation 	 6
+reclamation 	 6
+fishing 	 7
+sailing 	 7
+cruise 	 7
+flying 	 7
+racing 	 7
+camping 	 7
+medical emergencies 	 8
+emergency medical services 	 8
+emergency response 	 8
+firefighting 	 9
+fighting fires 	 9
+peacekeeping 	 9
+marine firefighting 	 9
+calculating capacity 	 10
+reducing congestion 	 10
+increasing efficiency 	 10
+testing new technologies 	 10
+evaluating environmental impact 	 10
+military 	 11
+warfare 	 11
+military operations 	 11
+aircraft navigation 	 12
+marine navigation 	 12
+land vehicle navigation 	 12
+marine operations 	 12
+flood control 	 13
+rescue operations 	 13
+rescue 	 13
+search and rescue 	 13
+shipping 	 14
+maintenance 	 14
+construction 	 14
+standardization 	 14
+communication 	 14
+control 	 14
+loading 	 14
+logging 	 14
+moving 	 14
+storing goods 	 15
+moving goods 	 15
+carrying people 	 15
+providing supplies 	 15
+carrying goods 	 15
+plowing fields 	 15
+carrying cargo 	 15
+shipping goods 	 15
+carrying supplies 	 15
+supporting offshore oil rigs 	 16
+measuring weight of ships 	 16
+calculating cargo capacity 	 16
+estimating ship size 	 16
+assisting larger boats 	 16
+safety of mariners 	 16
+harbor maintenance 	 17
+construction projects 	 17
+construction work 	 17
+research and development 	 17
+business meetings 	 17
+tourist ride 	 18
+tourist attraction 	 18
+tourism 	 18
+driving 	 19
+drinking 	 19
+swimming 	 19
+cloud computing 	 20
+mining industry 	 20
+economic trade 	 20
+supply chain 	 20
+international trade 	 20
+global trade 	 20
+road trips 	 21
+family road trip 	 21
+weekend rides 	 21
+road trip 	 21
+****** Finished processing facet: used for ******
+
+
+****** Processing facet_no: 29, facet: located at, facet_count: 21 ******
+property 	 cluster_label
+railway station 	 0
+railway yard 	 0
+repair shop 	 0
+parking lot 	 0
+offshore oil and gas fields 	 1
+tracks 	 2
+port 	 2
+sea 	 2
+vehicle 	 2
+road 	 2
+garage 	 2
+highway 	 2
+city street 	 2
+ocean 	 3
+coast 	 3
+around earth 	 4
+above earth 	 4
+near earth 	 4
+****** Finished processing facet: located at ******
+
+
+****** Processing facet_no: 30, facet: component, facet_count: 25 ******
+property 	 cluster_label
+cargo 	 0
+engine 	 0
+carriage 	 0
+wagon 	 0
+rim 	 0
+spoke 	 0
+nozzle 	 0
+rail 	 0
+tie 	 0
+motor 	 0
+locomotive 	 1
+trailer 	 2
+tire 	 2
+hubcap 	 2
+turbine 	 2
+cable 	 2
+pulley wheel 	 2
+tractor unit 	 3
+combustion chamber 	 3
+fuel pump 	 3
+ballast 	 3
+compressor 	 3
+control system 	 3
+****** Finished processing facet: component ******
+
+
+****** Processing facet_no: 31, facet: operational context, facet_count: 4 ******
+property 	 cluster_label
+highway 	 0
+freight transport 	 1
+commerce 	 1
+logistics 	 1
+****** Finished processing facet: operational context ******
+
+
+****** Processing facet_no: 32, facet: responsibility, facet_count: 20 ******
+property 	 cluster_label
+operating aircraft 	 0
+maintaining equipment 	 0
+serving passengers 	 0
+ensuring safety 	 0
+regulating traffic 	 0
+maintaining roads 	 0
+issuing licenses 	 0
+safety 	 0
+logistics provider 	 1
+route planning 	 1
+shipper 	 2
+carrier 	 2
+receiver 	 2
+maintenance 	 2
+task 	 2
+project 	 2
+team 	 2
+individual 	 2
+group 	 2
+organization 	 2
+****** Finished processing facet: responsibility ******
+
+
+****** Processing facet_no: 33, facet: role, facet_count: 14 ******
+property 	 cluster_label
+team member 	 0
+supervisor 	 0
+middleman 	 0
+passenger 	 0
+moves goods 	 1
+ships products 	 1
+intermediary 	 2
+mechanic 	 2
+leader 	 3
+broker 	 3
+driver 	 3
+communication 	 4
+control 	 4
+information transfer 	 4
+****** Finished processing facet: role ******
+
+
+****** Processing facet_no: 34, facet: credentials, facet_count: 4 ******
+property 	 cluster_label
+licensing 	 0
+certification 	 0
+training 	 1
+experience 	 1
+****** Finished processing facet: credentials ******
+
+
+****** Processing facet_no: 35, facet: part of, facet_count: 2 ******
+property 	 cluster_label
+ship 	 0
+boat 	 1
+****** Finished processing facet: part of ******
+
+
+****** Processing facet_no: 36, facet: shape, facet_count: 17 ******
+property 	 cluster_label
+compartmentalized 	 0
+compact 	 1
+portable 	 1
+boxy 	 1
+round 	 1
+curved 	 1
+flat 	 1
+long 	 1
+straight 	 1
+rectangular 	 2
+circular 	 2
+cylindrical 	 2
+spherical 	 2
+sedan 	 3
+suv 	 4
+hatchback 	 5
+****** Finished processing facet: shape ******
+
+
+****** Processing facet_no: 37, facet: capacity, facet_count: 17 ******
+property 	 cluster_label
+large 	 0
+voluminous 	 0
+standing 	 0
+holding a lot 	 0
+big load 	 0
+many 	 0
+few 	 0
+single 	 0
+multiple 	 0
+massive 	 0
+seating 	 1
+number of seats 	 1
+luggage space 	 1
+hundreds of railcars 	 2
+measured in gallons 	 2
+measured in liters 	 2
+****** Finished processing facet: capacity ******
+
+
+****** Processing facet_no: 38, facet: access, facet_count: 14 ******
+property 	 cluster_label
+via hatch 	 0
+through cargo door 	 0
+elevator 	 0
+catwalk 	 0
+ramp 	 0
+stairs 	 0
+ladder 	 0
+entrance 	 0
+difficult 	 0
+exit 	 1
+parking spots 	 2
+hard to access 	 2
+only accessible to owner 	 2
+****** Finished processing facet: access ******
+
+
+****** Processing facet_no: 39, facet: found in, facet_count: 9 ******
+property 	 cluster_label
+merchant ship 	 0
+tanker 	 0
+container ship 	 0
+shipyards 	 0
+ports 	 1
+offshore oil platforms 	 2
+train station 	 3
+railway yard 	 3
+on a train 	 3
+****** Finished processing facet: found in ******
+
+
+****** Processing facet_no: 40, facet: technology, facet_count: 12 ******
+property 	 cluster_label
+electric power 	 0
+overhead wires 	 0
+radio waves 	 0
+computerized systems 	 0
+antennae 	 1
+electromagnetic 	 2
+acoustic 	 2
+electrified tracks 	 2
+manual 	 2
+mechanical 	 2
+electronic 	 2
+hybrid 	 2
+****** Finished processing facet: technology ******
+
+
+****** Processing facet_no: 41, facet: application, facet_count: 23 ******
+property 	 cluster_label
+aviation 	 0
+naval 	 0
+military 	 0
+transportation 	 0
+temporary road crossing 	 1
+event access 	 2
+weather forecasting 	 3
+disaster response 	 3
+space exploration 	 3
+scientific research 	 3
+wind turbines 	 3
+furniture 	 4
+everyday life 	 4
+electric vehicles 	 4
+industrial machinery 	 4
+home appliances 	 4
+construction 	 5
+shipping 	 5
+science 	 5
+business 	 5
+industry 	 5
+****** Finished processing facet: application ******
+
+
+****** Processing facet_no: 42, facet: principle, facet_count: 2 ******
+property 	 cluster_label
+reflection 	 0
+echo 	 1
+****** Finished processing facet: principle ******
+
+
+****** Processing facet_no: 43, facet: components, facet_count: 42 ******
+property 	 cluster_label
+receiver 	 0
+processor 	 0
+electric motor 	 0
+processing unit 	 0
+memory 	 0
+railway tracks 	 1
+antenna 	 2
+cranes 	 2
+winches 	 2
+hopper 	 2
+brakes 	 2
+winch 	 2
+engines 	 2
+pumps 	 3
+cable 	 3
+magnet 	 3
+wings 	 3
+cylinders 	 3
+pistons 	 3
+engine 	 4
+carriage 	 4
+nozzle 	 4
+boom 	 4
+coil 	 4
+brush 	 4
+tail 	 4
+screen 	 4
+speaker 	 4
+transmitter 	 5
+propulsion system 	 5
+compressor 	 5
+combustion chamber 	 5
+turbine 	 5
+fuel injectors 	 5
+commutator 	 6
+controls panel 	 7
+locomotive 	 7
+cockpit 	 7
+****** Finished processing facet: components ******
+
+
+****** Processing facet_no: 44, facet: range, facet_count: 15 ******
+property 	 cluster_label
+short 	 0
+long 	 0
+medium 	 0
+thousands of miles 	 1
+short-range 	 1
+long-range 	 1
+transcontinental 	 2
+****** Finished processing facet: range ******
+
+
+****** Processing facet_no: 45, facet: resolution, facet_count: 2 ******
+property 	 cluster_label
+low 	 0
+high 	 1
+****** Finished processing facet: resolution ******
+
+
+****** Processing facet_no: 46, facet: usage, facet_count: 60 ******
+property 	 cluster_label
+occasional 	 0
+recreational 	 0
+agricultural 	 0
+air traffic control 	 1
+naval surveillance 	 1
+military 	 1
+general aviation 	 1
+disaster relief 	 1
+emergency vehicle 	 1
+carrying goods 	 2
+transporting oil 	 2
+transporting chemicals 	 2
+transporting food 	 2
+storing perishable items 	 2
+preserving food for longer 	 2
+specialized 	 3
+generates electricity 	 3
+heats homes 	 3
+measuring 	 3
+weighing 	 3
+calculating 	 3
+driving 	 3
+parking 	 3
+outdoor 	 4
+indoor 	 4
+industrial 	 4
+daily 	 5
+construction 	 5
+ocean 	 5
+land 	 5
+air 	 5
+warehouse 	 5
+factory 	 5
+construction site 	 5
+shipyard 	 5
+personal 	 5
+professional 	 5
+moving heavy loads 	 6
+fuels vehicles 	 6
+for crew and passengers 	 6
+for cargo and supplies 	 6
+used in database design 	 7
+used in data modeling 	 7
+weather monitoring 	 8
+shipping 	 8
+logistics 	 8
+supply chain 	 8
+event 	 8
+commercial 	 8
+commerce 	 8
+industry 	 8
+entertainment 	 8
+education 	 8
+****** Finished processing facet: usage ******
+
+
+****** Processing facet_no: 47, facet: height, facet_count: 1 ******
+facet_count: 1, less than 2; ignoring facet
+****** Processing facet_no: 48, facet: staff, facet_count: 8 ******
+property 	 cluster_label
+controllers 	 0
+processors 	 0
+air traffic controllers 	 1
+fishermen 	 2
+captain 	 2
+meteorologists 	 2
+****** Finished processing facet: staff ******
+
+
+****** Processing facet_no: 49, facet: responsibilities, facet_count: 24 ******
+property 	 cluster_label
+aircraft safety 	 0
+aircraft separation 	 0
+security 	 1
+law enforcement 	 1
+tax collection 	 1
+public infrastructure 	 1
+tracks packages 	 2
+liability 	 2
+chartering 	 2
+cargoes 	 2
+negotiating 	 2
+handles claims 	 3
+safety 	 3
+fairness 	 3
+booking 	 3
+communicating 	 3
+representing 	 3
+ensures delivery 	 4
+building and maintaining roads 	 4
+regulating traffic 	 4
+ensuring public safety 	 4
+traffic flow management 	 5
+flight planning 	 5
+weather forecasting 	 5
+****** Finished processing facet: responsibilities ******
+
+
+****** Processing facet_no: 50, facet: material, facet_count: 69 ******
+property 	 cluster_label
+fiberglass 	 0
+plastic 	 0
+rubber 	 0
+aluminum 	 0
+buoyant material 	 0
+asphalt 	 0
+concrete 	 0
+wood 	 1
+metal 	 1
+glass 	 1
+steel 	 1
+iron 	 1
+ores 	 1
+grains 	 2
+minerals 	 2
+gravel 	 2
+****** Finished processing facet: material ******
+
+
+****** Processing facet_no: 51, facet: crew, facet_count: 16 ******
+property 	 cluster_label
+few 	 0
+many 	 0
+single 	 0
+trained 	 0
+paramedics 	 1
+firefighters 	 1
+police officers 	 1
+scientists 	 2
+engineers 	 2
+researchers 	 2
+rescue team 	 3
+skilled 	 3
+experienced 	 3
+multinational 	 4
+****** Finished processing facet: crew ******
+
+
+****** Processing facet_no: 52, facet: mode, facet_count: 36 ******
+property 	 cluster_label
+air 	 0
+land 	 0
+sea 	 0
+ship 	 0
+boat 	 0
+rail 	 0
+bus 	 0
+train 	 0
+road 	 0
+water 	 0
+car 	 0
+bicycle 	 0
+motorcycle 	 0
+canal 	 1
+subway 	 2
+airplane 	 3
+barge 	 4
+ferry 	 4
+by sea 	 4
+by land 	 4
+by air 	 4
+lock 	 5
+public 	 5
+private 	 5
+****** Finished processing facet: mode ******
+
+
+****** Processing facet_no: 53, facet: services, facet_count: 34 ******
+property 	 cluster_label
+distribution 	 0
+storage 	 0
+booking 	 0
+boarding 	 0
+logistics 	 1
+warehousing 	 1
+transportation 	 1
+arranging cargo 	 1
+providing insurance 	 1
+handling logistics 	 1
+security screening 	 1
+food and drink 	 1
+check-in 	 2
+taxi stand 	 2
+parking lot 	 2
+parking 	 2
+flights 	 3
+public transportation 	 3
+bus schedules 	 3
+train schedules 	 3
+flight information 	 3
+restrooms 	 4
+waiting area 	 4
+information desk 	 4
+air freight 	 5
+sea freight 	 5
+land transportation 	 5
+****** Finished processing facet: services ******
+
+
+****** Processing facet_no: 54, facet: traffic, facet_count: 8 ******
+property 	 cluster_label
+busiest 	 0
+low 	 1
+medium 	 1
+high 	 1
+major 	 1
+heavy 	 1
+busy 	 1
+congested 	 2
+****** Finished processing facet: traffic ******
+
+
+****** Processing facet_no: 55, facet: facilities, facet_count: 27 ******
+property 	 cluster_label
+terminal 	 0
+hangar 	 0
+airport 	 0
+shops 	 0
+stairs 	 0
+restaurants 	 0
+control tower 	 1
+waiting area 	 1
+food court 	 1
+baggage claim 	 1
+runway 	 2
+food and beverage 	 2
+retail shops 	 2
+lounges 	 2
+docks 	 2
+warehouses 	 2
+cranes 	 2
+restrooms 	 2
+pay machines 	 2
+ticket counter 	 3
+security check 	 3
+elevators 	 4
+****** Finished processing facet: facilities ******
+
+
+****** Processing facet_no: 56, facet: management, facet_count: 10 ******
+property 	 cluster_label
+public 	 0
+private 	 0
+government 	 1
+authority 	 1
+public-private partnership 	 2
+private company 	 3
+airport authorities 	 3
+airlines 	 3
+security personnel 	 3
+****** Finished processing facet: management ******
+
+
+****** Processing facet_no: 57, facet: use, facet_count: 19 ******
+property 	 cluster_label
+oil and gas industry 	 0
+construction industry 	 0
+maritime industry 	 0
+industrial 	 0
+military 	 0
+training 	 1
+research 	 1
+commercial 	 1
+recreational flying 	 2
+recreational 	 2
+emergency landing 	 3
+small aircraft 	 3
+passenger travel 	 3
+cargo transport 	 3
+residential 	 4
+private use 	 4
+for navigation 	 4
+for customs 	 4
+for insurance 	 4
+****** Finished processing facet: use ******
+
+
+****** Processing facet_no: 58, facet: action, facet_count: 3 ******
+property 	 cluster_label
+come 	 0
+reach 	 0
+get to 	 1
+****** Finished processing facet: action ******
+
+
+****** Processing facet_no: 59, facet: place, facet_count: 3 ******
+property 	 cluster_label
+destination 	 0
+location 	 0
+spot 	 1
+****** Finished processing facet: place ******
+
+
+****** Processing facet_no: 60, facet: time, facet_count: 3 ******
+property 	 cluster_label
+soon 	 0
+later 	 1
+now 	 2
+****** Finished processing facet: time ******
+
+
+****** Processing facet_no: 61, facet: transportation, facet_count: 6 ******
+property 	 cluster_label
+by car 	 0
+by plane 	 0
+by train 	 0
+railway 	 0
+freight 	 1
+cargo 	 2
+****** Finished processing facet: transportation ******
+
+
+****** Processing facet_no: 62, facet: status, facet_count: 3 ******
+property 	 cluster_label
+expected 	 0
+early 	 0
+delayed 	 1
+****** Finished processing facet: status ******
+
+
+****** Processing facet_no: 63, facet: number of tracks, facet_count: 1 ******
+facet_count: 1, less than 2; ignoring facet
+****** Processing facet_no: 64, facet: characteristics, facet_count: 84 ******
+property 	 cluster_label
+heavy 	 0
+long 	 0
+ordered 	 0
+slow 	 0
+strong 	 0
+large 	 0
+blue 	 0
+deep 	 0
+wide 	 0
+thin 	 0
+hot 	 0
+busy 	 0
+popular 	 0
+changing 	 0
+limits 	 0
+unordered 	 1
+silent 	 1
+stable 	 1
+conscious 	 1
+visible 	 1
+commercial 	 1
+cold 	 1
+variable 	 1
+interactive 	 1
+flexible 	 2
+deliberate 	 2
+purposive 	 2
+long-range 	 2
+radioactive 	 2
+electronic 	 2
+noisy 	 2
+wide adoption 	 2
+industrial 	 2
+touristy 	 2
+experienced 	 2
+knowledgeable 	 2
+more stable 	 2
+visible from distance 	 2
+colored 	 2
+narrow 	 2
+spacious interior 	 2
+measurable 	 2
+growing 	 2
+prohibits 	 2
+regulates 	 2
+adaptable 	 3
+durable 	 3
+trustworthy 	 3
+reliable 	 3
+unreliable 	 3
+tall 	 3
+compatible with most trains 	 4
+heavy load capacity 	 4
+larger track width 	 4
+better for heavy loads 	 4
+aiding night navigation 	 4
+wavy 	 5
+shallow 	 5
+colorless 	 5
+thick 	 5
+sheltered 	 5
+deep water 	 5
+big wheels 	 6
+large cab 	 6
+good suspension 	 6
+high efficiency 	 7
+low noise 	 7
+high reliability 	 7
+highly directional 	 8
+highly reactive 	 8
+non-reactive 	 8
+powerful 	 9
+slow speed 	 9
+strong engine 	 9
+powerful engine 	 9
+****** Finished processing facet: characteristics ******
+
+
+****** Processing facet_no: 65, facet: advantages, facet_count: 15 ******
+property 	 cluster_label
+portability 	 0
+high power-to-weight ratio 	 1
+security 	 2
+cost-effective 	 2
+flexible 	 2
+efficient 	 2
+fast 	 2
+increased capacity 	 3
+improved safety 	 3
+efficiency 	 3
+environmentally friendly 	 3
+increased efficiency 	 3
+reduced congestion 	 4
+reduced costs 	 4
+reduced environmental impact 	 4
+****** Finished processing facet: advantages ******
+
+
+****** Processing facet_no: 66, facet: disadvantages, facet_count: 10 ******
+property 	 cluster_label
+higher cost 	 0
+overhead 	 0
+limited capacity 	 0
+weather dependent 	 0
+complex engineering 	 1
+vulnerable to piracy 	 2
+complexity 	 3
+noisy 	 3
+polluting 	 3
+complex 	 3
+****** Finished processing facet: disadvantages ******
+
+
+****** Processing facet_no: 67, facet: infrastructure, facet_count: 32 ******
+property 	 cluster_label
+freight yards 	 0
+harbor 	 1
+large dock 	 1
+deep water 	 1
+waterway 	 1
+highway 	 1
+freeway 	 1
+seaport 	 1
+railway 	 1
+bus station 	 1
+port 	 2
+dock 	 2
+track 	 2
+road 	 2
+bridge 	 2
+tracks 	 2
+stations 	 2
+bridges 	 2
+airport 	 2
+traffic light 	 3
+stop sign 	 3
+docks 	 4
+warehouses 	 4
+tunnel 	 4
+cranes 	 4
+tunnels 	 4
+canal network 	 5
+loading facility 	 5
+road network 	 5
+****** Finished processing facet: infrastructure ******
+
+
+****** Processing facet_no: 68, facet: efficiency, facet_count: 9 ******
+property 	 cluster_label
+energy consumption 	 0
+energy conversion 	 0
+speed 	 1
+capacity 	 1
+high 	 1
+low 	 1
+highly efficient 	 2
+high torque 	 2
+low emissions 	 2
+****** Finished processing facet: efficiency ******
+
+
+****** Processing facet_no: 69, facet: types of vessels, facet_count: 5 ******
+property 	 cluster_label
+freighter 	 0
+passenger liner 	 1
+ferry 	 2
+yacht 	 2
+sailboat 	 2
+****** Finished processing facet: types of vessels ******
+
+
+****** Processing facet_no: 70, facet: definition, facet_count: 34 ******
+property 	 cluster_label
+transportation service 	 0
+public utility 	 0
+provider of public transportation 	 0
+isolating process 	 0
+domestic shipping 	 0
+freight 	 0
+12 inches by 12 inches by 12 inches 	 1
+packing code into container 	 2
+collection of unique items 	 2
+group of objects 	 2
+collection of ships 	 2
+permission to operate 	 2
+distance between rails 	 2
+two different gauges 	 2
+compatible trains 	 2
+route for ships 	 2
+connecting sea and sea 	 2
+allowing ships to pass 	 2
+used for international trade 	 3
+moving goods or people using multiple modes 	 3
+combining different transportation methods 	 3
+restriction on ships entering or leaving a port 	 3
+railway track 	 4
+navigable waterway 	 4
+narrow waterway 	 4
+portability 	 5
+oversight 	 5
+control 	 5
+direction 	 5
+3-dimensional space 	 6
+carbon-based molecule 	 6
+non-metallic 	 6
+not containing hydrogen 	 6
+property that depends on another property 	 7
+****** Finished processing facet: definition ******
+
+
+****** Processing facet_no: 71, facet: mode of transportation, facet_count: 10 ******
+property 	 cluster_label
+air 	 0
+land 	 0
+sea 	 0
+rail 	 0
+rocket 	 0
+fast 	 0
+airplane 	 1
+spaceship 	 1
+long distance 	 2
+****** Finished processing facet: mode of transportation ******
+
+
+****** Processing facet_no: 72, facet: examples, facet_count: 16 ******
+property 	 cluster_label
+airlines 	 0
+shipping companies 	 0
+bus companies 	 0
+railroads 	 0
+chariot 	 1
+plow 	 1
+sugar 	 1
+bacteria 	 1
+telephone signal 	 2
+internet signal 	 2
+radio signal 	 2
+cart 	 3
+fat 	 3
+protein 	 3
+tree 	 3
+worm 	 3
+****** Finished processing facet: examples ******
+
+
+****** Processing facet_no: 73, facet: types, facet_count: 33 ******
+property 	 cluster_label
+docker 	 0
+lxc 	 1
+finite set 	 2
+infinite set 	 2
+empty set 	 2
+universal set 	 2
+legislative 	 3
+executive 	 3
+judicial 	 3
+standard gauge 	 4
+broad gauge 	 4
+narrow gauge 	 4
+narrower gauge 	 4
+dual gauge railway 	 5
+dual gauge track 	 5
+dual gauge line 	 5
+single lock 	 6
+double lock 	 6
+rkt 	 7
+fairway 	 7
+strait 	 7
+flight of locks 	 7
+truck and rail 	 7
+truck and sea 	 7
+truck and air 	 7
+rail and sea 	 7
+air and rail 	 7
+buoy 	 7
+beacon 	 7
+anchorage zone 	 7
+channel 	 8
+dependent 	 8
+independent 	 8
+****** Finished processing facet: types ******
+
+
+****** Processing facet_no: 74, facet: typical load, facet_count: 3 ******
+property 	 cluster_label
+containers 	 0
+cars 	 1
+heavy machinery 	 2
+****** Finished processing facet: typical load ******
+
+
+****** Processing facet_no: 75, facet: railway usage, facet_count: 3 ******
+property 	 cluster_label
+main line 	 0
+branch line 	 0
+industrial rail 	 1
+****** Finished processing facet: railway usage ******
+
+
+****** Processing facet_no: 76, facet: power source, facet_count: 12 ******
+property 	 cluster_label
+battery 	 0
+electricity 	 0
+rechargeable 	 0
+electric 	 0
+chemical energy 	 0
+solar 	 1
+combustion 	 2
+****** Finished processing facet: power source ******
+
+
+****** Processing facet_no: 77, facet: uses, facet_count: 16 ******
+property 	 cluster_label
+fuels cars 	 0
+powers airplanes 	 0
+makes plastic 	 0
+heats homes 	 0
+mathematics 	 1
+computer science 	 1
+data analysis 	 1
+transportation 	 1
+industry 	 1
+energy production 	 2
+building ships 	 2
+repairing ships 	 2
+loading cargo 	 2
+off-road driving 	 3
+towing 	 3
+daily driving 	 3
+****** Finished processing facet: uses ******
+
+
+****** Processing facet_no: 78, facet: properties, facet_count: 11 ******
+property 	 cluster_label
+toxic 	 0
+corrosive 	 0
+non-volatile 	 0
+finite 	 1
+infinite 	 1
+volatile 	 1
+high viscosity 	 2
+low volatility 	 2
+flammable 	 3
+soluble 	 3
+insoluble 	 3
+****** Finished processing facet: properties ******
+
+
+****** Processing facet_no: 79, facet: origin, facet_count: 12 ******
+property 	 cluster_label
+extracted from oil 	 0
+formed from crude oil 	 0
+registry of shipping 	 1
+maritime industry 	 1
+united kingdom 	 1
+imperial system 	 1
+environmental 	 2
+animal 	 2
+human 	 2
+nature 	 2
+earth 	 2
+soil 	 2
+****** Finished processing facet: origin ******
+
+
+****** Processing facet_no: 80, facet: forms, facet_count: 3 ******
+property 	 cluster_label
+liquid 	 0
+gas 	 0
+solid 	 0
+****** Finished processing facet: forms ******
+
+
+****** Processing facet_no: 81, facet: operating conditions, facet_count: 2 ******
+property 	 cluster_label
+open waters 	 0
+harsh weather 	 1
+****** Finished processing facet: operating conditions ******
+
+
+****** Processing facet_no: 82, facet: relations, facet_count: 3 ******
+property 	 cluster_label
+subset 	 0
+equal 	 0
+superset 	 1
+****** Finished processing facet: relations ******
+
+
+****** Processing facet_no: 83, facet: security, facet_count: 13 ******
+property 	 cluster_label
+mooring lines 	 0
+fenders 	 0
+tugboats 	 0
+vulnerable 	 0
+cameras 	 0
+guards 	 0
+locked doors 	 1
+security personnel 	 1
+screening 	 1
+id checks 	 1
+customs 	 1
+security gates 	 1
+protected 	 2
+****** Finished processing facet: security ******
+
+
+****** Processing facet_no: 84, facet: jurisdiction, facet_count: 6 ******
+property 	 cluster_label
+city 	 0
+state 	 0
+country 	 0
+national 	 1
+local 	 2
+****** Finished processing facet: jurisdiction ******
+
+
+****** Processing facet_no: 85, facet: authority level, facet_count: 3 ******
+property 	 cluster_label
+medium 	 0
+high 	 1
+low 	 1
+****** Finished processing facet: authority level ******
+
+
+****** Processing facet_no: 86, facet: process, facet_count: 9 ******
+property 	 cluster_label
+unloading 	 0
+transporting 	 0
+storing 	 0
+lifting off 	 0
+gaining altitude 	 1
+loading 	 2
+ascending 	 2
+online 	 2
+in-person 	 2
+****** Finished processing facet: process ******
+
+
+****** Processing facet_no: 87, facet: unit, facet_count: 9 ******
+property 	 cluster_label
+ounce 	 0
+gram 	 0
+ton 	 0
+cubic meter 	 1
+litre 	 1
+gallon 	 1
+kilogram 	 1
+pound 	 1
+****** Finished processing facet: unit ******
+
+
+****** Processing facet_no: 88, facet: dimension, facet_count: 3 ******
+property 	 cluster_label
+length cubed 	 0
+square 	 1
+cubic 	 1
+****** Finished processing facet: dimension ******
+
+
+****** Processing facet_no: 89, facet: conversion, facet_count: 8 ******
+property 	 cluster_label
+dependent on density 	 0
+can be converted to weight 	 1
+equal to 1728 cubic inches 	 1
+equal to 28.316 liters 	 1
+2240 pounds 	 1
+1.12 tons 	 1
+convertible 	 2
+non-convertible 	 2
+****** Finished processing facet: conversion ******
+
+
+****** Processing facet_no: 90, facet: common examples, facet_count: 3 ******
+property 	 cluster_label
+swimming pool 	 0
+bathtub 	 1
+water bottle 	 1
+****** Finished processing facet: common examples ******
+
+
+****** Processing facet_no: 91, facet: elements, facet_count: 3 ******
+property 	 cluster_label
+goal 	 0
+means 	 1
+motivation 	 2
+****** Finished processing facet: elements ******
+
+
+****** Processing facet_no: 92, facet: operated by, facet_count: 13 ******
+property 	 cluster_label
+driver 	 0
+government 	 0
+conductor 	 1
+engineer 	 1
+mechanic 	 1
+mechanics 	 1
+marine engineers 	 2
+shipping company 	 2
+port authority 	 2
+fire department 	 2
+skilled operators 	 3
+coast guard 	 3
+volunteer crew 	 3
+****** Finished processing facet: operated by ******
+
+
+****** Processing facet_no: 93, facet: steps, facet_count: 4 ******
+property 	 cluster_label
+planning 	 0
+implementation 	 1
+monitoring 	 1
+evaluation 	 1
+****** Finished processing facet: steps ******
+
+
+****** Processing facet_no: 94, facet: actors, facet_count: 7 ******
+property 	 cluster_label
+bureaucracy 	 0
+government 	 1
+enforcement agencies 	 1
+traffic police 	 1
+traffic lights 	 1
+road signs 	 1
+drivers 	 1
+****** Finished processing facet: actors ******
+
+
+****** Processing facet_no: 95, facet: mechanisms, facet_count: 8 ******
+property 	 cluster_label
+laws 	 0
+regulations 	 1
+standards 	 1
+compliance 	 1
+stop signs 	 2
+traffic lights 	 2
+yield signs 	 2
+roundabouts 	 2
+****** Finished processing facet: mechanisms ******
+
+
+****** Processing facet_no: 96, facet: colors, facet_count: 3 ******
+property 	 cluster_label
+red 	 0
+yellow 	 1
+green 	 1
+****** Finished processing facet: colors ******
+
+
+****** Processing facet_no: 97, facet: physical appearance, facet_count: 3 ******
+property 	 cluster_label
+tower-like structure 	 0
+mounted on a pole 	 0
+light-emitting device 	 1
+****** Finished processing facet: physical appearance ******
+
+
+****** Processing facet_no: 98, facet: history, facet_count: 25 ******
+property 	 cluster_label
+early aviation 	 0
+ancient times 	 0
+ancient 	 0
+modern 	 1
+adopted globally 	 1
+developing 	 1
+wwii 	 2
+developed in 19th century 	 2
+long history of use 	 2
+improved in 20th century 	 2
+developed in 1930s 	 2
+improved in 1950s 	 2
+used for freight and passenger transport 	 2
+invented by rudolf diesel 	 2
+first used in 1913 	 2
+post-war development 	 3
+important for global economy 	 3
+important in maritime trade 	 3
+important for industrialization 	 3
+****** Finished processing facet: history ******
+
+
+****** Processing facet_no: 99, facet: measurement unit, facet_count: 3 ******
+property 	 cluster_label
+hectare 	 0
+square mile 	 0
+square kilometer 	 0
+****** Finished processing facet: measurement unit ******
+
+
+****** Processing facet_no: 100, facet: natural feature, facet_count: 4 ******
+property 	 cluster_label
+mountain range 	 0
+valley 	 0
+plateau 	 0
+desert 	 1
+****** Finished processing facet: natural feature ******
+
+
+****** Processing facet_no: 101, facet: human impact, facet_count: 3 ******
+property 	 cluster_label
+urbanization 	 0
+deforestation 	 1
+agriculture 	 2
+****** Finished processing facet: human impact ******
+
+
+****** Processing facet_no: 102, facet: driver, facet_count: 2 ******
+property 	 cluster_label
+trained professionals 	 0
+emergency responders 	 1
+****** Finished processing facet: driver ******
+
+
+****** Processing facet_no: 103, facet: related actions, facet_count: 3 ******
+property 	 cluster_label
+landing 	 0
+descending 	 0
+touching down 	 1
+****** Finished processing facet: related actions ******
+
+
+****** Processing facet_no: 104, facet: associated emotions, facet_count: 3 ******
+property 	 cluster_label
+excitement 	 0
+anticipation 	 0
+relief 	 1
+****** Finished processing facet: associated emotions ******
+
+
+****** Processing facet_no: 105, facet: method, facet_count: 17 ******
+property 	 cluster_label
+gps 	 0
+map 	 0
+compass 	 0
+directions 	 0
+glue 	 1
+nail 	 1
+screw 	 1
+using a map 	 2
+asking for directions 	 2
+using gps 	 2
+fishing net 	 3
+fishing line 	 3
+taping 	 4
+trawling 	 4
+storing 	 4
+preserving 	 4
+conserving 	 4
+****** Finished processing facet: method ******
+
+
+****** Processing facet_no: 106, facet: device, facet_count: 4 ******
+property 	 cluster_label
+phone 	 0
+car 	 0
+ship 	 0
+watch 	 1
+****** Finished processing facet: device ******
+
+
+****** Processing facet_no: 107, facet: feature, facet_count: 4 ******
+property 	 cluster_label
+route planning 	 0
+turn-by-turn directions 	 1
+waypoint 	 1
+orientation 	 1
+****** Finished processing facet: feature ******
+
+
+****** Processing facet_no: 108, facet: skill, facet_count: 9 ******
+property 	 cluster_label
+route memory 	 0
+driving 	 1
+direction sense 	 2
+map reading 	 2
+maintenance 	 2
+navigation 	 2
+leadership 	 2
+organization 	 2
+communication 	 2
+****** Finished processing facet: skill ******
+
+
+****** Processing facet_no: 109, facet: environment, facet_count: 24 ******
+property 	 cluster_label
+land 	 0
+sea 	 0
+air 	 0
+space 	 0
+road 	 0
+track 	 0
+water 	 0
+lake 	 0
+ocean 	 0
+urban 	 0
+urban areas 	 1
+highways 	 1
+rural areas 	 1
+rural 	 1
+construction zones 	 2
+off-road 	 3
+indoor 	 3
+outdoor 	 3
+air-conditioned 	 4
+non-air-conditioned 	 4
+****** Finished processing facet: environment ******
+
+
+****** Processing facet_no: 110, facet: seating capacity, facet_count: 4 ******
+property 	 cluster_label
+up to 7 people 	 0
+up to 8 people 	 0
+few 	 1
+many 	 1
+****** Finished processing facet: seating capacity ******
+
+
+****** Processing facet_no: 111, facet: target audience, facet_count: 6 ******
+property 	 cluster_label
+families 	 0
+soccer teams 	 1
+elderly people 	 2
+outdoor enthusiasts 	 2
+adventurers 	 2
+****** Finished processing facet: target audience ******
+
+
+****** Processing facet_no: 112, facet: layout, facet_count: 2 ******
+property 	 cluster_label
+single room 	 0
+multi-room 	 1
+****** Finished processing facet: layout ******
+
+
+****** Processing facet_no: 113, facet: cargocarrying capacity, facet_count: 3 ******
+property 	 cluster_label
+heavy 	 0
+light 	 0
+medium 	 1
+****** Finished processing facet: cargocarrying capacity ******
+
+
+****** Processing facet_no: 114, facet: goal, facet_count: 7 ******
+property 	 cluster_label
+safely direct traffic 	 0
+minimize congestion 	 1
+achieve efficiency 	 1
+efficiency 	 1
+improve productivity 	 2
+productivity 	 2
+success 	 3
+****** Finished processing facet: goal ******
+
+
+****** Processing facet_no: 115, facet: rules, facet_count: 3 ******
+property 	 cluster_label
+speed limits 	 0
+right-of-way 	 1
+no-left-turn 	 1
+****** Finished processing facet: rules ******
+
+
+****** Processing facet_no: 116, facet: evaluation criteria, facet_count: 3 ******
+property 	 cluster_label
+safety 	 0
+efficiency 	 1
+convenience 	 1
+****** Finished processing facet: evaluation criteria ******
+
+
+****** Processing facet_no: 117, facet: control types, facet_count: 3 ******
+property 	 cluster_label
+manual 	 0
+automatic 	 0
+hybrid 	 1
+****** Finished processing facet: control types ******
+
+
+****** Processing facet_no: 118, facet: fleet, facet_count: 7 ******
+property 	 cluster_label
+planes 	 0
+jets 	 0
+airplanes 	 1
+aircraft 	 1
+trucks 	 2
+buses 	 2
+trains 	 2
+****** Finished processing facet: fleet ******
+
+
+****** Processing facet_no: 119, facet: routes, facet_count: 6 ******
+property 	 cluster_label
+domestic 	 0
+international 	 0
+global 	 0
+urban 	 0
+special events 	 0
+tourist attractions 	 1
+****** Finished processing facet: routes ******
+
+
+****** Processing facet_no: 120, facet: distance, facet_count: 2 ******
+property 	 cluster_label
+long-haul 	 0
+short-haul 	 1
+****** Finished processing facet: distance ******
+
+
+****** Processing facet_no: 121, facet: frequency, facet_count: 8 ******
+property 	 cluster_label
+daily 	 0
+weekly 	 0
+monthly 	 0
+one-time 	 1
+recurring 	 2
+****** Finished processing facet: frequency ******
+
+
+****** Processing facet_no: 122, facet: aircraft type, facet_count: 3 ******
+property 	 cluster_label
+jet 	 0
+propeller 	 1
+helicopter 	 1
+****** Finished processing facet: aircraft type ******
+
+
+****** Processing facet_no: 123, facet: route map, facet_count: 2 ******
+property 	 cluster_label
+charted 	 0
+uncharted 	 1
+****** Finished processing facet: route map ******
+
+
+****** Processing facet_no: 124, facet: duration, facet_count: 13 ******
+property 	 cluster_label
+short 	 0
+long 	 0
+biennial 	 1
+triennial 	 1
+short-term 	 2
+long-term 	 2
+short term 	 2
+long term 	 2
+annual 	 3
+permanent 	 3
+temporary 	 3
+****** Finished processing facet: duration ******
+
+
+****** Processing facet_no: 125, facet: schedule, facet_count: 6 ******
+property 	 cluster_label
+fixed 	 0
+variable 	 1
+on-demand 	 1
+real-time 	 1
+****** Finished processing facet: schedule ******
+
+
+****** Processing facet_no: 126, facet: used in, facet_count: 17 ******
+property 	 cluster_label
+railway transportation 	 0
+railway 	 0
+tourism 	 0
+railway system 	 0
+transportation industry 	 0
+industry 	 1
+commerce 	 1
+shipping industry 	 1
+construction 	 1
+manufacturing 	 1
+commercial airliners 	 2
+military aircraft 	 2
+military equipment 	 2
+spacecraft 	 3
+aircraft 	 3
+****** Finished processing facet: used in ******
+
+
+****** Processing facet_no: 127, facet: unit of measurement, facet_count: 8 ******
+property 	 cluster_label
+capacity 	 0
+ton 	 1
+volume 	 2
+weight 	 2
+mass 	 2
+****** Finished processing facet: unit of measurement ******
+
+
+****** Processing facet_no: 128, facet: common usage, facet_count: 2 ******
+property 	 cluster_label
+measuring space 	 0
+measuring volume of objects 	 1
+****** Finished processing facet: common usage ******
+
+
+****** Processing facet_no: 129, facet: notation, facet_count: 2 ******
+property 	 cluster_label
+ft³ 	 0
+cu ft 	 1
+****** Finished processing facet: notation ******
+
+
+****** Processing facet_no: 130, facet: number of wheels, facet_count: 3 ******
+property 	 cluster_label
+four 	 0
+six 	 0
+two 	 1
+****** Finished processing facet: number of wheels ******
+
+
+****** Processing facet_no: 131, facet: construction, facet_count: 12 ******
+property 	 cluster_label
+metal 	 0
+wood 	 0
+natural 	 0
+plastic 	 1
+fiberglass 	 1
+manual labor 	 2
+machine-built 	 2
+engineered 	 2
+man-made 	 2
+built-in 	 2
+bolted-on 	 3
+welded-on 	 3
+****** Finished processing facet: construction ******
+
+
+****** Processing facet_no: 132, facet: color, facet_count: 11 ******
+property 	 cluster_label
+red 	 0
+white 	 1
+yellow 	 1
+silver 	 1
+black 	 1
+green 	 1
+dark brown 	 2
+****** Finished processing facet: color ******
+
+
+****** Processing facet_no: 133, facet: safety considerations, facet_count: 2 ******
+property 	 cluster_label
+leak-proof 	 0
+leak-detection systems 	 1
+****** Finished processing facet: safety considerations ******
+
+
+****** Processing facet_no: 134, facet: maintenance requirements, facet_count: 2 ******
+property 	 cluster_label
+regular inspection 	 0
+specialized cleaning 	 1
+****** Finished processing facet: maintenance requirements ******
+
+
+****** Processing facet_no: 135, facet: signal type, facet_count: 2 ******
+property 	 cluster_label
+radio waves 	 0
+gps signals 	 1
+****** Finished processing facet: signal type ******
+
+
+****** Processing facet_no: 136, facet: installation location, facet_count: 3 ******
+property 	 cluster_label
+land 	 0
+sea 	 0
+space 	 1
+****** Finished processing facet: installation location ******
+
+
+****** Processing facet_no: 137, facet: operating frequency, facet_count: 3 ******
+property 	 cluster_label
+lf 	 0
+mf 	 0
+hf 	 0
+****** Finished processing facet: operating frequency ******
+
+
+****** Processing facet_no: 138, facet: functions, facet_count: 9 ******
+property 	 cluster_label
+transporting goods 	 0
+providing jobs 	 0
+supporting global commerce 	 0
+transportation planning 	 1
+public outreach 	 1
+emergency response 	 1
+water cannon 	 2
+pumps 	 2
+hose reels 	 2
+****** Finished processing facet: functions ******
+
+
+****** Processing facet_no: 139, facet: ships, facet_count: 3 ******
+property 	 cluster_label
+tankers 	 0
+container ships 	 0
+cruise ships 	 1
+****** Finished processing facet: ships ******
+
+
+****** Processing facet_no: 140, facet: example, facet_count: 12 ******
+property 	 cluster_label
+1 kg 	 0
+500 g 	 0
+1 tonne 	 0
+shipping goods within a country 	 1
+ferrying passengers 	 1
+mississippi river delta 	 1
+port of rotterdam 	 1
+suez canal 	 1
+cuba 	 1
+iran 	 1
+north korea 	 1
+age depends on date of birth 	 2
+****** Finished processing facet: example ******
+
+
+****** Processing facet_no: 141, facet: regulation, facet_count: 19 ******
+property 	 cluster_label
+port authority 	 0
+speed limit 	 0
+traffic signal 	 0
+lane marking 	 1
+regulated by coastal authorities 	 2
+government regulated 	 2
+standardized across cities 	 2
+varies by country 	 2
+regulated by 	 2
+monitored by 	 2
+managed by 	 2
+local authorities 	 2
+government permits 	 3
+licensing 	 3
+customs 	 3
+safety regulations 	 3
+defined by international law 	 3
+international regulations 	 3
+maritime laws 	 3
+****** Finished processing facet: regulation ******
+
+
+****** Processing facet_no: 142, facet: impact, facet_count: 3 ******
+property 	 cluster_label
+boosting economy 	 0
+creating jobs 	 0
+reducing costs 	 0
+****** Finished processing facet: impact ******
+
+
+****** Processing facet_no: 143, facet: materials, facet_count: 15 ******
+property 	 cluster_label
+metal 	 0
+glass 	 0
+wood 	 0
+iron 	 0
+composite 	 0
+fabric 	 0
+steel 	 0
+engine 	 0
+concrete 	 1
+plastic 	 1
+aluminum 	 1
+propulsion system 	 2
+****** Finished processing facet: materials ******
+
+
+****** Processing facet_no: 144, facet: vehicle type, facet_count: 5 ******
+property 	 cluster_label
+emergency vehicle 	 0
+red 	 1
+large 	 1
+motorized 	 1
+two-wheeled 	 2
+****** Finished processing facet: vehicle type ******
+
+
+****** Processing facet_no: 145, facet: functionality, facet_count: 3 ******
+property 	 cluster_label
+catching fish 	 0
+carrying passengers 	 1
+storing cargo 	 1
+****** Finished processing facet: functionality ******
+
+
+****** Processing facet_no: 146, facet: fuel type, facet_count: 4 ******
+property 	 cluster_label
+liquid 	 0
+solid 	 0
+jet fuel 	 0
+kerosene 	 0
+****** Finished processing facet: fuel type ******
+
+
+****** Processing facet_no: 147, facet: performance, facet_count: 2 ******
+property 	 cluster_label
+high thrust 	 0
+high efficiency 	 1
+****** Finished processing facet: performance ******
+
+
+****** Processing facet_no: 148, facet: temperature range, facet_count: 2 ******
+property 	 cluster_label
+below freezing 	 0
+around 4°c 	 1
+****** Finished processing facet: temperature range ******
+
+
+****** Processing facet_no: 149, facet: content, facet_count: 12 ******
+property 	 cluster_label
+food 	 0
+drinks 	 0
+medicine 	 0
+quantity 	 0
+weight 	 0
+value 	 0
+listing cargo items 	 1
+specifying quantities 	 1
+description of goods 	 1
+departure and arrival times 	 1
+route information 	 1
+fare details 	 1
+****** Finished processing facet: content ******
+
+
+****** Processing facet_no: 150, facet: safety feature, facet_count: 14 ******
+property 	 cluster_label
+temperature control 	 0
+humidity control 	 0
+braking system 	 0
+load capacity 	 1
+safety harness 	 1
+load limit 	 1
+lights 	 2
+emergency response plan 	 2
+emergency stop 	 2
+emergency release 	 2
+signs 	 3
+stabilizer 	 3
+hinge 	 3
+****** Finished processing facet: safety feature ******
+
+
+****** Processing facet_no: 151, facet: meaning, facet_count: 6 ******
+property 	 cluster_label
+connecting 	 0
+joining 	 0
+fastening 	 0
+one ton 	 1
+twenty tons 	 1
+hundred tons 	 1
+****** Finished processing facet: meaning ******
+
+
+****** Processing facet_no: 152, facet: object, facet_count: 7 ******
+property 	 cluster_label
+paper 	 0
+fabric 	 0
+metal 	 0
+plastic 	 1
+item 	 2
+thing 	 2
+asset 	 2
+****** Finished processing facet: object ******
+
+
+****** Processing facet_no: 153, facet: difficulty, facet_count: 3 ******
+property 	 cluster_label
+easy 	 0
+hard 	 0
+requires skill 	 1
+****** Finished processing facet: difficulty ******
+
+
+****** Processing facet_no: 154, facet: railway type, facet_count: 5 ******
+property 	 cluster_label
+track gauge 	 0
+infrastructure 	 1
+heavy rail 	 2
+freight rail 	 2
+passenger rail 	 2
+****** Finished processing facet: railway type ******
+
+
+****** Processing facet_no: 155, facet: standard gauge size, facet_count: 1 ******
+facet_count: 1, less than 2; ignoring facet
+****** Processing facet_no: 156, facet: odor, facet_count: 2 ******
+property 	 cluster_label
+strong 	 0
+sulfurous 	 1
+****** Finished processing facet: odor ******
+
+
+****** Processing facet_no: 157, facet: storage, facet_count: 7 ******
+property 	 cluster_label
+in tanks 	 0
+under pressure 	 0
+silos 	 0
+warehouse 	 1
+port 	 1
+container yard 	 1
+****** Finished processing facet: storage ******
+
+
+****** Processing facet_no: 158, facet: production, facet_count: 2 ******
+property 	 cluster_label
+from crude oil 	 0
+from recycled materials 	 1
+****** Finished processing facet: production ******
+
+
+****** Processing facet_no: 159, facet: operating environment, facet_count: 3 ******
+property 	 cluster_label
+water 	 0
+coastal 	 1
+port 	 2
+****** Finished processing facet: operating environment ******
+
+
+****** Processing facet_no: 160, facet: required documents, facet_count: 3 ******
+property 	 cluster_label
+proof of insurance 	 0
+proof of ownership 	 1
+vehicle identification number 	 2
+****** Finished processing facet: required documents ******
+
+
+****** Processing facet_no: 161, facet: fees, facet_count: 2 ******
+property 	 cluster_label
+variable 	 0
+dependent on location 	 1
+****** Finished processing facet: fees ******
+
+
+****** Processing facet_no: 162, facet: renewal, facet_count: 3 ******
+property 	 cluster_label
+online 	 0
+in-person 	 1
+mail 	 2
+****** Finished processing facet: renewal ******
+
+
+****** Processing facet_no: 163, facet: penalties, facet_count: 2 ******
+property 	 cluster_label
+late fees 	 0
+fine for non-compliance 	 1
+****** Finished processing facet: penalties ******
+
+
+****** Processing facet_no: 164, facet: historical significance, facet_count: 9 ******
+property 	 cluster_label
+ancient 	 0
+medieval 	 0
+early railway technology 	 1
+19th century 	 2
+standardized globally 	 2
+changed over time 	 2
+different in different countries 	 2
+important for industrial development 	 2
+used in many countries 	 2
+****** Finished processing facet: historical significance ******
+
+
+****** Processing facet_no: 165, facet: disease caused, facet_count: 3 ******
+property 	 cluster_label
+infection 	 0
+illness 	 0
+disorder 	 1
+****** Finished processing facet: disease caused ******
+
+
+****** Processing facet_no: 166, facet: mode of transmission, facet_count: 4 ******
+property 	 cluster_label
+contact 	 0
+airborne 	 1
+vector-borne 	 1
+waterborne 	 1
+****** Finished processing facet: mode of transmission ******
+
+
+****** Processing facet_no: 167, facet: symptoms, facet_count: 4 ******
+property 	 cluster_label
+fever 	 0
+rash 	 0
+cough 	 0
+diarrhea 	 1
+****** Finished processing facet: symptoms ******
+
+
+****** Processing facet_no: 168, facet: treatment, facet_count: 4 ******
+property 	 cluster_label
+antibiotics 	 0
+vaccination 	 1
+medication 	 1
+surgery 	 1
+****** Finished processing facet: treatment ******
+
+
+****** Processing facet_no: 169, facet: prevention, facet_count: 4 ******
+property 	 cluster_label
+hygiene 	 0
+vaccination 	 0
+avoidance 	 0
+screening 	 1
+****** Finished processing facet: prevention ******
+
+
+****** Processing facet_no: 170, facet: units, facet_count: 3 ******
+property 	 cluster_label
+millimeters 	 0
+inches 	 1
+****** Finished processing facet: units ******
+
+
+****** Processing facet_no: 171, facet: context, facet_count: 15 ******
+property 	 cluster_label
+shipping industry 	 0
+port operations 	 0
+maritime trade 	 0
+computer network 	 0
+business 	 0
+battlefield 	 1
+traveling 	 2
+lost 	 2
+new place 	 2
+road 	 2
+personal 	 2
+team 	 2
+court 	 2
+traffic 	 2
+tax 	 2
+****** Finished processing facet: context ******
+
+
+****** Processing facet_no: 172, facet: vessel, facet_count: 3 ******
+property 	 cluster_label
+container ship 	 0
+tanker 	 0
+cruise liner 	 0
+****** Finished processing facet: vessel ******
+
+
+****** Processing facet_no: 173, facet: cargo, facet_count: 3 ******
+property 	 cluster_label
+goods 	 0
+containers 	 0
+commodities 	 1
+****** Finished processing facet: cargo ******
+
+
+****** Processing facet_no: 174, facet: route, facet_count: 14 ******
+property 	 cluster_label
+global 	 0
+local 	 0
+variable 	 0
+gps navigation 	 1
+on-demand service 	 2
+regional 	 3
+fixed 	 3
+flexible 	 3
+route map 	 3
+fixed route 	 3
+flexible route 	 3
+variable route 	 3
+****** Finished processing facet: route ******
+
+
+****** Processing facet_no: 175, facet: cost, facet_count: 8 ******
+property 	 cluster_label
+economies of scale 	 0
+fuel costs 	 1
+insurance 	 2
+affordable 	 2
+expensive 	 2
+cost-effective 	 2
+****** Finished processing facet: cost ******
+
+
+****** Processing facet_no: 176, facet: wheels, facet_count: 3 ******
+property 	 cluster_label
+four 	 0
+two 	 1
+three 	 1
+****** Finished processing facet: wheels ******
+
+
+****** Processing facet_no: 177, facet: length, facet_count: 5 ******
+property 	 cluster_label
+long 	 0
+short 	 0
+long distance 	 0
+hundreds of miles 	 1
+long enough for takeoff 	 1
+****** Finished processing facet: length ******
+
+
+****** Processing facet_no: 178, facet: diameter, facet_count: 3 ******
+property 	 cluster_label
+small 	 0
+large 	 1
+****** Finished processing facet: diameter ******
+
+
+****** Processing facet_no: 179, facet: risks, facet_count: 9 ******
+property 	 cluster_label
+environmental damage 	 0
+leakage 	 1
+accidents 	 1
+rupture 	 1
+explosion 	 1
+fire 	 2
+****** Finished processing facet: risks ******
+
+
+****** Processing facet_no: 180, facet: format, facet_count: 11 ******
+property 	 cluster_label
+paper 	 0
+printed 	 0
+calendar 	 0
+timetable 	 1
+digital 	 2
+physical 	 2
+online database 	 3
+****** Finished processing facet: format ******
+
+
+****** Processing facet_no: 181, facet: information included, facet_count: 4 ******
+property 	 cluster_label
+cargo description 	 0
+weight 	 1
+volume 	 1
+shipping date 	 1
+****** Finished processing facet: information included ******
+
+
+****** Processing facet_no: 182, facet: used by, facet_count: 9 ******
+property 	 cluster_label
+logistics companies 	 0
+customs officials 	 1
+businessmen 	 1
+shippers 	 2
+celebrities 	 2
+royalty 	 2
+maritime vessels 	 2
+ships 	 2
+yachts 	 2
+****** Finished processing facet: used by ******
+
+
+****** Processing facet_no: 183, facet: audience, facet_count: 6 ******
+property 	 cluster_label
+customers 	 0
+passengers 	 0
+drivers 	 0
+cargo handlers 	 1
+regulatory bodies 	 1
+logistics managers 	 1
+****** Finished processing facet: audience ******
+
+
+****** Processing facet_no: 184, facet: budget, facet_count: 2 ******
+property 	 cluster_label
+limited 	 0
+significant 	 1
+****** Finished processing facet: budget ******
+
+
+****** Processing facet_no: 185, facet: party involved, facet_count: 3 ******
+property 	 cluster_label
+shipper 	 0
+consignee 	 0
+carrier 	 1
+****** Finished processing facet: party involved ******
+
+
+****** Processing facet_no: 186, facet: relevance to, facet_count: 3 ******
+property 	 cluster_label
+international trade 	 0
+commercial transactions 	 0
+logistics industry 	 0
+****** Finished processing facet: relevance to ******
+
+
+****** Processing facet_no: 187, facet: profession, facet_count: 3 ******
+property 	 cluster_label
+broker 	 0
+middleman 	 0
+representative 	 1
+****** Finished processing facet: profession ******
+
+
+****** Processing facet_no: 188, facet: alternative name, facet_count: 2 ******
+property 	 cluster_label
+tonne 	 0
+ton 	 1
+****** Finished processing facet: alternative name ******
+
+
+****** Processing facet_no: 189, facet: mode of transport, facet_count: 11 ******
+property 	 cluster_label
+ship 	 0
+train 	 0
+truck 	 0
+car 	 0
+bus 	 0
+motorcycle 	 0
+bicycle 	 0
+personal 	 0
+commuting 	 1
+recreational 	 2
+****** Finished processing facet: mode of transport ******
+
+
+****** Processing facet_no: 190, facet: container type, facet_count: 3 ******
+property 	 cluster_label
+hopper 	 0
+tank 	 1
+bag 	 1
+****** Finished processing facet: container type ******
+
+
+****** Processing facet_no: 191, facet: destination, facet_count: 9 ******
+property 	 cluster_label
+factory 	 0
+power plant 	 1
+port 	 2
+station 	 2
+terminal 	 2
+farm 	 2
+event location 	 3
+****** Finished processing facet: destination ******
+
+
+****** Processing facet_no: 192, facet: volume, facet_count: 2 ******
+property 	 cluster_label
+large 	 0
+massive 	 1
+****** Finished processing facet: volume ******
+
+
+****** Processing facet_no: 193, facet: handling, facet_count: 7 ******
+property 	 cluster_label
+careful 	 0
+delicate 	 0
+heavy 	 0
+careful loading 	 0
+specialized 	 1
+specialized equipment 	 1
+****** Finished processing facet: handling ******
+
+
+****** Processing facet_no: 194, facet: type of boat, facet_count: 3 ******
+property 	 cluster_label
+vessel 	 0
+watercraft 	 0
+marine 	 1
+****** Finished processing facet: type of boat ******
+
+
+****** Processing facet_no: 195, facet: surface, facet_count: 3 ******
+property 	 cluster_label
+grass 	 0
+dirt 	 1
+sand 	 2
+****** Finished processing facet: surface ******
+
+
+****** Processing facet_no: 196, facet: condition, facet_count: 3 ******
+property 	 cluster_label
+rough 	 0
+muddy 	 0
+uneven 	 1
+****** Finished processing facet: condition ******
+
+
+****** Processing facet_no: 197, facet: safety, facet_count: 14 ******
+property 	 cluster_label
+preventing accidents 	 0
+reducing congestion 	 0
+improving traffic flow 	 0
+secure 	 1
+regulated 	 1
+monitored 	 1
+high risk 	 2
+low visibility 	 2
+uneven terrain 	 2
+medium risk 	 2
+low risk 	 2
+vented to prevent explosion 	 3
+secured to prevent leakage 	 3
+****** Finished processing facet: safety ******
+
+
+****** Processing facet_no: 198, facet: movement, facet_count: 5 ******
+property 	 cluster_label
+moving through water 	 0
+powered by engines 	 1
+manual 	 1
+mechanical 	 1
+hydraulic 	 1
+****** Finished processing facet: movement ******
+
+
+****** Processing facet_no: 199, facet: economic significance, facet_count: 3 ******
+property 	 cluster_label
+job creator 	 0
+driver of growth 	 1
+source of revenue 	 1
+****** Finished processing facet: economic significance ******
+
+
+****** Processing facet_no: 200, facet: route type, facet_count: 5 ******
+property 	 cluster_label
+express 	 0
+local 	 1
+intercity 	 1
+international 	 1
+tourist 	 1
+****** Finished processing facet: route type ******
+
+
+****** Processing facet_no: 201, facet: vehicle characteristics, facet_count: 5 ******
+property 	 cluster_label
+capacity 	 0
+speed 	 0
+frequency 	 0
+stops 	 1
+fare 	 2
+****** Finished processing facet: vehicle characteristics ******
+
+
+****** Processing facet_no: 202, facet: associated with, facet_count: 6 ******
+property 	 cluster_label
+shipping industry 	 0
+port operations 	 0
+coastal activities 	 0
+train 	 1
+railway 	 1
+transportation 	 1
+****** Finished processing facet: associated with ******
+
+
+****** Processing facet_no: 203, facet: types of cargo, facet_count: 3 ******
+property 	 cluster_label
+containers 	 0
+bulk cargo 	 1
+liquid cargo 	 1
+****** Finished processing facet: types of cargo ******
+
+
+****** Processing facet_no: 204, facet: challenges, facet_count: 6 ******
+property 	 cluster_label
+different gauge sizes 	 0
+train compatibility 	 1
+infrastructure costs 	 2
+coordination between modes 	 2
+different infrastructure requirements 	 2
+security concerns 	 2
+****** Finished processing facet: challenges ******
+
+
+****** Processing facet_no: 205, facet: locations, facet_count: 4 ******
+property 	 cluster_label
+australia 	 0
+india 	 0
+europe 	 0
+asia 	 1
+****** Finished processing facet: locations ******
+
+
+****** Processing facet_no: 206, facet: involves, facet_count: 3 ******
+property 	 cluster_label
+buying and selling 	 0
+negotiating prices 	 1
+arranging deals 	 1
+****** Finished processing facet: involves ******
+
+
+****** Processing facet_no: 207, facet: economic impact, facet_count: 3 ******
+property 	 cluster_label
+boosts economy 	 0
+creates jobs 	 0
+increases trade 	 1
+****** Finished processing facet: economic impact ******
+
+
+****** Processing facet_no: 208, facet: luxury level, facet_count: 5 ******
+property 	 cluster_label
+high-end 	 0
+mid-range 	 0
+luxurious 	 0
+basic 	 1
+****** Finished processing facet: luxury level ******
+
+
+****** Processing facet_no: 209, facet: benefits, facet_count: 3 ******
+property 	 cluster_label
+reduced noise 	 0
+reduced pollution 	 0
+increased speed 	 1
+****** Finished processing facet: benefits ******
+
+
+****** Processing facet_no: 210, facet: precision, facet_count: 2 ******
+property 	 cluster_label
+precise 	 0
+approximate 	 1
+****** Finished processing facet: precision ******
+
+
+****** Processing facet_no: 211, facet: width, facet_count: 6 ******
+property 	 cluster_label
+sufficient for aircraft 	 0
+single lane 	 1
+multi-lane 	 1
+narrow 	 2
+limited 	 2
+wide 	 2
+****** Finished processing facet: width ******
+
+
+****** Processing facet_no: 212, facet: contents, facet_count: 7 ******
+property 	 cluster_label
+flight numbers 	 0
+departure and arrival times 	 0
+aircraft types 	 0
+route information 	 0
+list of ships 	 1
+information about ships 	 1
+ship details 	 1
+****** Finished processing facet: contents ******
+
+
+****** Processing facet_no: 213, facet: generated by, facet_count: 3 ******
+property 	 cluster_label
+airline staff 	 0
+computer system 	 1
+travel agent 	 1
+****** Finished processing facet: generated by ******
+
+
+****** Processing facet_no: 214, facet: updated regularly, facet_count: 3 ******
+property 	 cluster_label
+yes 	 0
+daily 	 1
+weekly 	 1
+****** Finished processing facet: updated regularly ******
+
+
+****** Processing facet_no: 215, facet: working principle, facet_count: 3 ******
+property 	 cluster_label
+combustion 	 0
+exhaust gases 	 1
+high-speed airflow 	 2
+****** Finished processing facet: working principle ******
+
+
+****** Processing facet_no: 216, facet: era, facet_count: 2 ******
+property 	 cluster_label
+19th century 	 0
+historical 	 1
+****** Finished processing facet: era ******
+
+
+****** Processing facet_no: 217, facet: source, facet_count: 6 ******
+property 	 cluster_label
+experienced person 	 0
+expert 	 0
+authoritative figure 	 0
+online platform 	 1
+printed brochure 	 1
+mobile app 	 1
+****** Finished processing facet: source ******
+
+
+****** Processing facet_no: 218, facet: benefit, facet_count: 2 ******
+property 	 cluster_label
+reducing uncertainty 	 0
+increasing confidence 	 1
+****** Finished processing facet: benefit ******
+
+
+****** Processing facet_no: 219, facet: tools, facet_count: 3 ******
+property 	 cluster_label
+compass 	 0
+map 	 0
+gps device 	 1
+****** Finished processing facet: tools ******
+
+
+****** Processing facet_no: 220, facet: medium, facet_count: 9 ******
+property 	 cluster_label
+wire 	 0
+air 	 0
+fiber optic 	 0
+light 	 0
+sound 	 0
+text 	 0
+synapse 	 0
+nerve fibre 	 1
+electrolyte solution 	 2
+****** Finished processing facet: medium ******
+
+
+****** Processing facet_no: 221, facet: communication method, facet_count: 2 ******
+property 	 cluster_label
+verbal 	 0
+non-verbal 	 1
+****** Finished processing facet: communication method ******
+
+
+****** Processing facet_no: 222, facet: type of signal, facet_count: 3 ******
+property 	 cluster_label
+traffic signal 	 0
+stop sign 	 0
+alarm 	 1
+****** Finished processing facet: type of signal ******
+
+
+****** Processing facet_no: 223, facet: receiver, facet_count: 3 ******
+property 	 cluster_label
+driver 	 0
+reader 	 0
+pedestrian 	 1
+****** Finished processing facet: receiver ******
+
+
+****** Processing facet_no: 224, facet: activities, facet_count: 6 ******
+property 	 cluster_label
+loading 	 0
+unloading 	 0
+storage 	 0
+issuing licenses 	 1
+enforcing traffic laws 	 1
+planning infrastructure projects 	 1
+****** Finished processing facet: activities ******
+
+
+****** Processing facet_no: 225, facet: armament, facet_count: 3 ******
+property 	 cluster_label
+gun 	 0
+missile 	 1
+torpedo 	 1
+****** Finished processing facet: armament ******
+
+
+****** Processing facet_no: 226, facet: workplace, facet_count: 3 ******
+property 	 cluster_label
+garage 	 0
+road 	 1
+port 	 1
+****** Finished processing facet: workplace ******
+
+
+****** Processing facet_no: 227, facet: communication, facet_count: 8 ******
+property 	 cluster_label
+verbal 	 0
+clear 	 1
+open 	 1
+written 	 2
+radio 	 2
+phone 	 2
+data link 	 3
+****** Finished processing facet: communication ******
+
+
+****** Processing facet_no: 228, facet: training, facet_count: 3 ******
+property 	 cluster_label
+licensing 	 0
+certification 	 0
+on-the-job training 	 1
+****** Finished processing facet: training ******
+
+
+****** Processing facet_no: 229, facet: type of infraction, facet_count: 3 ******
+property 	 cluster_label
+speeding 	 0
+reckless driving 	 0
+failure to yield 	 1
+****** Finished processing facet: type of infraction ******
+
+
+****** Processing facet_no: 230, facet: violation of, facet_count: 3 ******
+property 	 cluster_label
+traffic laws 	 0
+speed limits 	 0
+rules of the road 	 1
+****** Finished processing facet: violation of ******
+
+
+****** Processing facet_no: 231, facet: consequences, facet_count: 9 ******
+property 	 cluster_label
+fine 	 0
+points on license 	 1
+suspension of license 	 1
+economic losses 	 2
+economic loss 	 2
+humanitarian crisis 	 3
+diplomatic tensions 	 3
+diplomatic tension 	 3
+****** Finished processing facet: consequences ******
+
+
+****** Processing facet_no: 232, facet: circumstances, facet_count: 3 ******
+property 	 cluster_label
+during rush hour 	 0
+in a school zone 	 1
+at night 	 2
+****** Finished processing facet: circumstances ******
+
+
+****** Processing facet_no: 233, facet: penalty, facet_count: 3 ******
+property 	 cluster_label
+fines 	 0
+court appearance 	 1
+community service 	 1
+****** Finished processing facet: penalty ******
+
+
+****** Processing facet_no: 234, facet: operational mode, facet_count: 2 ******
+property 	 cluster_label
+continuous operation 	 0
+manual operation 	 1
+****** Finished processing facet: operational mode ******
+
+
+****** Processing facet_no: 235, facet: control, facet_count: 5 ******
+property 	 cluster_label
+manual 	 0
+automatic 	 0
+roundabout 	 0
+traffic lights 	 1
+stop signs 	 1
+****** Finished processing facet: control ******
+
+
+****** Processing facet_no: 236, facet: track gauge, facet_count: 3 ******
+property 	 cluster_label
+broad gauge 	 0
+wide gauge 	 1
+standard gauge 	 1
+****** Finished processing facet: track gauge ******
+
+
+****** Processing facet_no: 237, facet: current use, facet_count: 3 ******
+property 	 cluster_label
+still used in many countries 	 0
+preserved for historical purposes 	 0
+being replaced by standard gauge 	 1
+****** Finished processing facet: current use ******
+
+
+****** Processing facet_no: 238, facet: mechanism, facet_count: 12 ******
+property 	 cluster_label
+spark 	 0
+flint and steel 	 1
+butane 	 1
+water chamber 	 1
+gates 	 1
+pumps 	 1
+cable and pulley 	 1
+neurotransmitters 	 1
+hydraulic system 	 2
+electric motor 	 2
+action potential 	 2
+ion channels 	 2
+****** Finished processing facet: mechanism ******
+
+
+****** Processing facet_no: 239, facet: brand, facet_count: 7 ******
+property 	 cluster_label
+bic 	 0
+colibri 	 0
+ford 	 0
+zippo 	 1
+chevrolet 	 1
+dodge 	 1
+mercedes-benz 	 2
+****** Finished processing facet: brand ******
+
+
+****** Processing facet_no: 240, facet: operator, facet_count: 6 ******
+property 	 cluster_label
+public transportation 	 0
+private company 	 1
+oil company 	 1
+government agency 	 1
+research institution 	 1
+non-profit organization 	 2
+****** Finished processing facet: operator ******
+
+
+****** Processing facet_no: 241, facet: accessibility, facet_count: 3 ******
+property 	 cluster_label
+wheelchair accessible 	 0
+elevated 	 1
+underground 	 2
+****** Finished processing facet: accessibility ******
+
+
+****** Processing facet_no: 242, facet: vehicle requirements, facet_count: 5 ******
+property 	 cluster_label
+insurance 	 0
+maintenance 	 0
+license 	 1
+registration 	 1
+vehicle inspection 	 2
+****** Finished processing facet: vehicle requirements ******
+
+
+****** Processing facet_no: 243, facet: handling requirements, facet_count: 3 ******
+property 	 cluster_label
+special care 	 0
+protective gear 	 1
+ventilation 	 2
+****** Finished processing facet: handling requirements ******
+
+
+****** Processing facet_no: 244, facet: storage requirements, facet_count: 3 ******
+property 	 cluster_label
+separate area 	 0
+ventilated space 	 0
+secure container 	 1
+****** Finished processing facet: storage requirements ******
+
+
+****** Processing facet_no: 245, facet: transportation regulations, facet_count: 3 ******
+property 	 cluster_label
+special permits 	 0
+trained personnel 	 0
+safety protocols 	 1
+****** Finished processing facet: transportation regulations ******
+
+
+****** Processing facet_no: 246, facet: roles and responsibilities, facet_count: 2 ******
+property 	 cluster_label
+defined 	 0
+clearly assigned 	 1
+****** Finished processing facet: roles and responsibilities ******
+
+
+****** Processing facet_no: 247, facet: task management, facet_count: 2 ******
+property 	 cluster_label
+prioritized 	 0
+tracked 	 1
+****** Finished processing facet: task management ******
+
+
+****** Processing facet_no: 248, facet: teamwork, facet_count: 2 ******
+property 	 cluster_label
+collaborative 	 0
+coordinated 	 1
+****** Finished processing facet: teamwork ******
+
+
+****** Processing facet_no: 249, facet: time management, facet_count: 2 ******
+property 	 cluster_label
+timely 	 0
+efficient 	 1
+****** Finished processing facet: time management ******
+
+
+****** Processing facet_no: 250, facet: resource allocation, facet_count: 2 ******
+property 	 cluster_label
+effective 	 0
+optimal 	 1
+****** Finished processing facet: resource allocation ******
+
+
+****** Processing facet_no: 251, facet: mode of operation, facet_count: 3 ******
+property 	 cluster_label
+sail 	 0
+motor 	 0
+hybrid 	 1
+****** Finished processing facet: mode of operation ******
+
+
+****** Processing facet_no: 252, facet: container, facet_count: 3 ******
+property 	 cluster_label
+containerized 	 0
+loose 	 1
+stacked 	 2
+****** Finished processing facet: container ******
+
+
+****** Processing facet_no: 253, facet: risk, facet_count: 3 ******
+property 	 cluster_label
+damage 	 0
+loss 	 1
+delay 	 1
+****** Finished processing facet: risk ******
+
+
+****** Processing facet_no: 254, facet: noise level, facet_count: 2 ******
+property 	 cluster_label
+loud 	 0
+reduced 	 1
+****** Finished processing facet: noise level ******
+
+
+****** Processing facet_no: 255, facet: road feature, facet_count: 2 ******
+property 	 cluster_label
+one-way 	 0
+unidirectional 	 1
+****** Finished processing facet: road feature ******
+
+
+****** Processing facet_no: 256, facet: weight capacity, facet_count: 2 ******
+property 	 cluster_label
+heavy 	 0
+light 	 1
+****** Finished processing facet: weight capacity ******
+
+
+****** Processing facet_no: 257, facet: engine type, facet_count: 5 ******
+property 	 cluster_label
+gasoline 	 0
+diesel 	 0
+electric 	 0
+hybrid 	 1
+****** Finished processing facet: engine type ******
+
+
+****** Processing facet_no: 258, facet: effect, facet_count: 3 ******
+property 	 cluster_label
+limiting trade 	 0
+hurting economy 	 0
+blocking supplies 	 1
+****** Finished processing facet: effect ******
+
+
+****** Processing facet_no: 259, facet: imposed by, facet_count: 3 ******
+property 	 cluster_label
+government 	 0
+international organization 	 1
+coalition 	 2
+****** Finished processing facet: imposed by ******
+
+
+****** Processing facet_no: 260, facet: size of cargo, facet_count: 2 ******
+property 	 cluster_label
+large containers 	 0
+heavy loads 	 1
+****** Finished processing facet: size of cargo ******
+
+
+****** Processing facet_no: 261, facet: type of cargo, facet_count: 3 ******
+property 	 cluster_label
+refrigerated cargo 	 0
+general cargo 	 1
+liquid cargo 	 1
+****** Finished processing facet: type of cargo ******
+
+
+****** Processing facet_no: 262, facet: building type, facet_count: 2 ******
+property 	 cluster_label
+large structure 	 0
+public building 	 1
+****** Finished processing facet: building type ******
+
+
+****** Processing facet_no: 263, facet: direction, facet_count: 2 ******
+property 	 cluster_label
+unidirectional 	 0
+bidirectional 	 1
+****** Finished processing facet: direction ******
+
+
+****** Processing facet_no: 264, facet: practical applications, facet_count: 3 ******
+property 	 cluster_label
+supply chain management 	 0
+international trade 	 1
+urban planning 	 2
+****** Finished processing facet: practical applications ******
+
+
+****** Processing facet_no: 265, facet: architecture, facet_count: 3 ******
+property 	 cluster_label
+unique 	 0
+iconic 	 0
+sustainable 	 0
+****** Finished processing facet: architecture ******
+
+
+****** Processing facet_no: 266, facet: coverage, facet_count: 8 ******
+property 	 cluster_label
+local 	 0
+regional 	 1
+national 	 2
+international 	 2
+city 	 3
+county 	 3
+region 	 3
+state 	 3
+****** Finished processing facet: coverage ******
+
+
+****** Processing facet_no: 267, facet: reputation, facet_count: 4 ******
+property 	 cluster_label
+efficient 	 0
+slow 	 0
+reliable 	 1
+expensive 	 1
+****** Finished processing facet: reputation ******
+
+
+****** Processing facet_no: 268, facet: government agency, facet_count: 3 ******
+property 	 cluster_label
+federal 	 0
+state 	 0
+local 	 1
+****** Finished processing facet: government agency ******
+
+
+****** Processing facet_no: 269, facet: vehicle, facet_count: 14 ******
+property 	 cluster_label
+bus 	 0
+train 	 0
+tram 	 0
+car 	 1
+ship 	 1
+plane 	 1
+bike 	 1
+truck 	 1
+ferry 	 2
+****** Finished processing facet: vehicle ******
+
+
+****** Processing facet_no: 270, facet: scheduling, facet_count: 3 ******
+property 	 cluster_label
+fixed schedule 	 0
+real-time scheduling 	 1
+on-demand scheduling 	 1
+****** Finished processing facet: scheduling ******
+
+
+****** Processing facet_no: 271, facet: fare, facet_count: 4 ******
+property 	 cluster_label
+free 	 0
+paid 	 0
+by-pass 	 0
+subsidized 	 1
+****** Finished processing facet: fare ******
+
+
+****** Processing facet_no: 272, facet: methods, facet_count: 6 ******
+property 	 cluster_label
+naval ships surrounding a port 	 0
+minelaying 	 0
+seizing ships 	 0
+communication 	 1
+radar 	 1
+visual observation 	 1
+****** Finished processing facet: methods ******
+
+
+****** Processing facet_no: 273, facet: historical examples, facet_count: 2 ******
+property 	 cluster_label
+blockade of germany during world war i 	 0
+blockade of cuba during the cuban missile crisis 	 1
+****** Finished processing facet: historical examples ******
+
+
+****** Processing facet_no: 274, facet: effects, facet_count: 2 ******
+property 	 cluster_label
+economic hardship 	 0
+humanitarian crisis 	 1
+****** Finished processing facet: effects ******
+
+
+****** Processing facet_no: 275, facet: international law, facet_count: 2 ******
+property 	 cluster_label
+considered an act of war 	 0
+regulated by international law 	 1
+****** Finished processing facet: international law ******
+
+
+****** Processing facet_no: 276, facet: transportation method, facet_count: 3 ******
+property 	 cluster_label
+ship 	 0
+truck 	 0
+train 	 1
+****** Finished processing facet: transportation method ******
+
+
+****** Processing facet_no: 277, facet: cruising speed, facet_count: 3 ******
+property 	 cluster_label
+slow 	 0
+medium 	 0
+fast 	 0
+****** Finished processing facet: cruising speed ******
+
+
+****** Processing facet_no: 278, facet: update frequency, facet_count: 3 ******
+property 	 cluster_label
+daily 	 0
+weekly 	 0
+monthly 	 1
+****** Finished processing facet: update frequency ******
+
+
+****** Processing facet_no: 279, facet: aircraft types, facet_count: 4 ******
+property 	 cluster_label
+commercial airliner 	 0
+business jet 	 1
+military jet 	 1
+fighter jet 	 1
+****** Finished processing facet: aircraft types ******
+
+
+****** Processing facet_no: 280, facet: occurrence, facet_count: 4 ******
+property 	 cluster_label
+living organisms 	 0
+environment 	 1
+food 	 1
+medicine 	 1
+****** Finished processing facet: occurrence ******
+
+
+****** Processing facet_no: 281, facet: layer, facet_count: 3 ******
+property 	 cluster_label
+lower 	 0
+upper 	 0
+middle 	 1
+****** Finished processing facet: layer ******
+
+
+****** Processing facet_no: 282, facet: temperature, facet_count: 2 ******
+property 	 cluster_label
+increasing 	 0
+decreasing 	 1
+****** Finished processing facet: temperature ******
+
+
+****** Processing facet_no: 283, facet: composition, facet_count: 7 ******
+property 	 cluster_label
+oxygen 	 0
+nitrogen 	 0
+argon 	 0
+carbon dioxide 	 0
+carbon-based 	 0
+non-synthetic 	 1
+biodegradable 	 2
+****** Finished processing facet: composition ******
+
+
+****** Processing facet_no: 284, facet: number of roads, facet_count: 3 ******
+property 	 cluster_label
+three 	 0
+five 	 0
+four 	 1
+****** Finished processing facet: number of roads ******
+
+
+****** Processing facet_no: 285, facet: traffic flow, facet_count: 3 ******
+property 	 cluster_label
+one-way 	 0
+two-way 	 0
+roundabout 	 1
+****** Finished processing facet: traffic flow ******
+
+
+****** Processing facet_no: 286, facet: involved entities, facet_count: 4 ******
+property 	 cluster_label
+controllers 	 0
+pilots 	 1
+airplanes 	 1
+airports 	 1
+****** Finished processing facet: involved entities ******
+
+
+****** Processing facet_no: 287, facet: phases, facet_count: 3 ******
+property 	 cluster_label
+in-flight 	 0
+pre-flight 	 1
+post-flight 	 1
+****** Finished processing facet: phases ******
+
+
+****** Processing facet_no: 288, facet: rules and regulations, facet_count: 3 ******
+property 	 cluster_label
+standard procedures 	 0
+regulatory bodies 	 1
+international agreements 	 2
+****** Finished processing facet: rules and regulations ******
+
+
+****** Processing facet_no: 289, facet: tools and equipment, facet_count: 3 ******
+property 	 cluster_label
+radars 	 0
+communication devices 	 1
+flight planning software 	 1
+****** Finished processing facet: tools and equipment ******
+
+
+****** Processing facet_no: 290, facet: authority, facet_count: 3 ******
+property 	 cluster_label
+government agency 	 0
+port authority 	 1
+maritime authority 	 1
+****** Finished processing facet: authority ******
+
+
+****** Processing facet_no: 291, facet: relationship, facet_count: 6 ******
+property 	 cluster_label
+one-to-one 	 0
+one-to-many 	 0
+many-to-many 	 0
+intimate 	 1
+close 	 1
+connected 	 1
+****** Finished processing facet: relationship ******
+
+
+****** Processing facet_no: 292, facet: security measures, facet_count: 3 ******
+property 	 cluster_label
+customs checks 	 0
+immigration controls 	 0
+tsa screening 	 1
+****** Finished processing facet: security measures ******
+
+
+****** Processing facet_no: 293, facet: attached to, facet_count: 3 ******
+property 	 cluster_label
+truck 	 0
+tractor 	 0
+tow vehicle 	 1
+****** Finished processing facet: attached to ******
+
+
+****** Processing facet_no: 294, facet: amount, facet_count: 2 ******
+property 	 cluster_label
+fixed 	 0
+variable 	 1
+****** Finished processing facet: amount ******
+
+
+****** Processing facet_no: 295, facet: payment method, facet_count: 3 ******
+property 	 cluster_label
+cash 	 0
+check 	 0
+online transfer 	 1
+****** Finished processing facet: payment method ******
+
+
+****** Processing facet_no: 296, facet: interface, facet_count: 4 ******
+property 	 cluster_label
+touchscreen 	 0
+keyboard 	 1
+mouse 	 1
+voice 	 1
+****** Finished processing facet: interface ******
+
+
+****** Processing facet_no: 297, facet: connection, facet_count: 2 ******
+property 	 cluster_label
+connected to engine 	 0
+connected to pump 	 1
+****** Finished processing facet: connection ******
+
+
+****** Processing facet_no: 298, facet: implementation, facet_count: 3 ******
+property 	 cluster_label
+unilateral 	 0
+multilateral 	 0
+international agreement 	 1
+****** Finished processing facet: implementation ******
+
+
+****** Processing facet_no: 299, facet: surface condition, facet_count: 3 ******
+property 	 cluster_label
+smooth 	 0
+rough 	 0
+paved 	 1
+****** Finished processing facet: surface condition ******
+
+
+****** Processing facet_no: 300, facet: traffic volume, facet_count: 3 ******
+property 	 cluster_label
+heavy 	 0
+light 	 0
+medium 	 1
+****** Finished processing facet: traffic volume ******
+
+
+****** Processing facet_no: 301, facet: nature, facet_count: 3 ******
+property 	 cluster_label
+private 	 0
+hidden 	 1
+personal 	 1
+****** Finished processing facet: nature ******
+
+
+****** Processing facet_no: 302, facet: relevance, facet_count: 3 ******
+property 	 cluster_label
+relevant 	 0
+important 	 0
+meaningful 	 1
+****** Finished processing facet: relevance ******
+
+
+****** Processing facet_no: 303, facet: fuel, facet_count: 2 ******
+property 	 cluster_label
+diesel 	 0
+oil 	 1
+****** Finished processing facet: fuel ******
+
+
+****** Processing facet_no: 304, facet: vehicles, facet_count: 3 ******
+property 	 cluster_label
+trucks 	 0
+planes 	 1
+ships 	 2
+****** Finished processing facet: vehicles ******
+
+
+****** Processing facet_no: 305, facet: revenue source, facet_count: 3 ******
+property 	 cluster_label
+shipping fees 	 0
+customs duties 	 1
+insurance claims 	 2
+****** Finished processing facet: revenue source ******
+
+
+****** Processing facet_no: 306, facet: accommodation, facet_count: 3 ******
+property 	 cluster_label
+first class 	 0
+second class 	 1
+third class 	 2
+****** Finished processing facet: accommodation ******
+
+

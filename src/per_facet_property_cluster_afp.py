@@ -86,17 +86,32 @@ for i, facet in enumerate(uniq_facets):
     scaler = StandardScaler()
     embeddings_scaled = scaler.fit_transform(llm_prop_embeds)
 
-    affinity_propagation = AffinityPropagation()
+    clustering_algorithm = "dbscan"
 
-    # Fit the model to your embeddings
-    affinity_propagation.fit(embeddings_scaled)
+    if clustering_algorithm == "affinity_propagation":
+        affinity_propagation = AffinityPropagation()
+        # Fit the model to your embeddings
+        affinity_propagation.fit(embeddings_scaled)
 
-    # Get the cluster centers and labels
-    cluster_centers_indices = affinity_propagation.cluster_centers_indices_
-    labels = affinity_propagation.labels_
+        # Get the cluster centers and labels
+        cluster_centers_indices = affinity_propagation.cluster_centers_indices_
+        labels = affinity_propagation.labels_
 
-    # print(f"labels")
-    # print(labels)
+    elif clustering_algorithm == "dbscan":
+
+        dbscan_clusterer = DBSCAN(
+            eps=0.5, min_samples=5, metric="cosine", algorithm="brute"
+        )
+        labels = dbscan_clusterer.fit_predict(embeddings_scaled)
+
+    elif clustering_algorithm == "hdbscan":
+
+        hdbscan_clusterer = hdbscan.HDBSCAN(min_cluster_size=10, min_samples=5)
+        labels = hdbscan_clusterer.fit_predict(embeddings_scaled)
+
+    print()
+    print(f"clustering_algorithm: {clustering_algorithm}")
+    print()
 
     property_cluster_list = [
         (prop, clus_label) for prop, clus_label in zip(properties, labels)
