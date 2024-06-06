@@ -103,7 +103,9 @@ if cluster_all_properties:
         (prop, clus_label) for prop, clus_label in zip(uniq_properties, labels)
     ]
 
-    sorted_property_cluster_list = sorted(property_cluster_list, key=lambda x: x[1])
+    sorted_property_cluster_list = sorted(
+        property_cluster_list, key=lambda x: x[1], reverse=True
+    )
 
     print("property", "\t", "cluster_label")
     for prop, cluster in sorted_property_cluster_list:
