@@ -107,9 +107,32 @@ if cluster_all_properties:
         property_cluster_list, key=lambda x: x[1], reverse=True
     )
 
-    print("property", "\t", "cluster_label")
-    for prop, cluster in sorted_property_cluster_list:
-        print(prop, "\t", cluster)
+    # print("property", "\t", "cluster_label")
+    # for prop, cluster in sorted_property_cluster_list:
+    #     print(prop, "\t", cluster)
+
+    property_cluster_map = {
+        prop: clus_label for prop, clus_label in zip(uniq_properties, labels)
+    }
+
+    for i, facet in enumerate(uniq_facets):
+        facet_count = facet_count_dict[facet]
+
+        print(
+            f"****** Processing facet_no: {i}, facet: {facet}, facet_count: {facet_count} ******"
+        )
+
+        if facet_count < 2:
+            print(f"facet_count: {facet_count}, less than 2; ignoring facet")
+            continue
+
+        facet_properties = df[df["facet"] == facet]["property"].unique()
+
+        print("property", "\t", "cluster_label")
+        for prop in facet_properties:
+            cluster_label = property_cluster_map[prop]
+            print(prop, "\t", cluster_label)
+
 
 ######
 # for i, facet in enumerate(uniq_facets):
