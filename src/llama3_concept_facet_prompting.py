@@ -87,6 +87,8 @@ file_name = "llama3_concept_facet_transport_onto_concepts_properties.txt"
 print(f"Prompt used is : {llama3_8B_3inc_concept_facet_prompt}")
 # concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
+concept_facet_generated_data = []
+
 with open(file_name, "w") as out_file:
     for concept, facet in con_fac_df.values:
 
@@ -119,10 +121,18 @@ with open(file_name, "w") as out_file:
             out_file.write(f"\n\nfacet:{facet}")
             out_file.write(f'{seq["generated_text"]}')
 
+            concept_facet_generated_data.append((concept, facet, seq["generated_text"]))
+
             print("===================================")
 
         del seq
         del sequences
+
+gen_df = pd.DataFrame(
+    concept_facet_generated_data, columns=["concept", "facet", "generated_data"]
+)
+gen_df.to_csv("concept_facet_generated_data.txt", sep="\t", index=False)
+
 
 del model
 del pipeline
