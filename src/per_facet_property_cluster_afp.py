@@ -74,7 +74,7 @@ if cluster_all_properties:
     scaler = StandardScaler()
     embeddings_scaled = scaler.fit_transform(llm_prop_embeds)
 
-    clustering_algorithm = "hdbscan"
+    clustering_algorithm = "dbscan"
 
     if clustering_algorithm == "affinity_propagation":
         affinity_propagation = AffinityPropagation()
