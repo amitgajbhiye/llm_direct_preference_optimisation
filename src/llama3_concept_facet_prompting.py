@@ -116,8 +116,8 @@ with open(file_name, "w") as out_file:
             print(f"\nfacet:{facet}")
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f"\nfacet:{facet}")
-            out_file.write(f'{seq["generated_text"]}')
+            # out_file.write(f"\nfacet:{facet}")
+            out_file.write(f'{facet, seq["generated_text"]}')
 
             print("===================================")
 
