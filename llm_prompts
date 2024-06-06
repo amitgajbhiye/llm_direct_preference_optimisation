@@ -550,17 +550,16 @@ whisk, mortar, kitchen shears	tools
 
 
 
+military watercraft	purpose	transport
+military watercraft	purpose	attack
+military watercraft	purpose	defend
+military watercraft	purpose	patrol
 
 
+In terms of the purpose, write the ten most salient properties of the concept "military watercraft".
 
 
-
-
-
-
-
-
-
+{"concept": "military watercraft", "properties": ["", ]}<|eot_id|>
 
 
 
