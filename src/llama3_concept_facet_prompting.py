@@ -113,11 +113,11 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
-            print(f"\nfacet:{facet}")
+            print(f"\n\nfacet:{facet}")
             print(f"{seq['generated_text']}\n")
 
-            # out_file.write(f"\nfacet:{facet}")
-            out_file.write(f'{facet, seq["generated_text"]}')
+            out_file.write(f"\n\nfacet:{facet}")
+            out_file.write(f'{seq["generated_text"]}')
 
             print("===================================")
 
