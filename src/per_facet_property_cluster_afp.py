@@ -103,9 +103,9 @@ if cluster_all_properties:
         (prop, clus_label) for prop, clus_label in zip(uniq_properties, labels)
     ]
 
-    sorted_property_cluster_list = sorted(
-        property_cluster_list, key=lambda x: x[1], reverse=True
-    )
+    # sorted_property_cluster_list = sorted(
+    #     property_cluster_list, key=lambda x: x[1], reverse=True
+    # )
 
     # print("property", "\t", "cluster_label")
     # for prop, cluster in sorted_property_cluster_list:
@@ -128,10 +128,21 @@ if cluster_all_properties:
 
         facet_properties = df[df["facet"] == facet]["property"].unique()
 
+        property_cluster_list = [
+            (facet_prop, property_cluster_map[facet_prop])
+            for facet_prop in facet_properties
+        ]
+
+        sorted_property_cluster_list = sorted(
+            property_cluster_list, key=lambda x: x[1], reverse=True
+        )
+
         print("property", "\t", "cluster_label")
-        for prop in facet_properties:
-            cluster_label = property_cluster_map[prop]
+        for prop, cluster_label in sorted_property_cluster_list:
             print(prop, "\t", cluster_label)
+
+        print()
+        print()
 
 
 ######
