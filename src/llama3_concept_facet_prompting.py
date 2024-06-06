@@ -112,14 +112,10 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
-            print(f"{seq['generated_text']}\n")
+            print(f"{type(seq["generated_text"])}, {seq['generated_text']}\n")
+            
 
-            gen_dict = dict(seq["generated_text"])
-            print("gen_dict")
-            print(gen_dict)
-            out_file.write(f"{gen_dict}")
-
-            # out_file.write(f'{seq["generated_text"]}')
+            out_file.write(f'{seq["generated_text"]}')
 
             print("===================================")
 
