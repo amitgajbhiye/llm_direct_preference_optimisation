@@ -87,10 +87,10 @@ if cluster_all_properties:
 
     elif clustering_algorithm == "dbscan":
 
-        # dbscan_clusterer = DBSCAN(
-        #     eps=0.5, min_samples=3, metric="cosine", algorithm="brute"
-        # )
-        dbscan_clusterer = DBSCAN(eps=0.5, min_samples=5)
+        dbscan_clusterer = DBSCAN(
+            eps=0.5, min_samples=3, metric="cosine", algorithm="brute"
+        )
+        # dbscan_clusterer = DBSCAN(eps=0.5, min_samples=5)
         labels = dbscan_clusterer.fit_predict(embeddings_scaled)
 
     elif clustering_algorithm == "hdbscan":
