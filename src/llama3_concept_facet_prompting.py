@@ -42,14 +42,15 @@ pipeline = transformers.pipeline(
 
 concept_facet_property_file = "data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/facet_property/llama3_concept_facet_property_transport_onto_concepts_parsed.txt"
 
-con_fac_prop_df = pd.read_csv(concept_facet_property_file, sep="\t")
-con_fac_df = con_fac_prop_df[["concept", "facet"]].drop_duplicates()
+with_inc_exp = False
+
+df = pd.read_csv(concept_facet_property_file, sep="\t")
+
+if with_inc_exp:
+    df = df[["concept", "facet"]].drop_duplicates()
 
 print(f"input_df")
-print(con_fac_prop_df)
-
-print("con_fac_df")
-print(con_fac_df)
+print(df)
 
 
 llama3_8B_3inc_concept_facet_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
@@ -82,56 +83,127 @@ In terms of the <FACET>, write the ten most salient properties of the concept "<
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
-file_name = "llama3_concept_facet_transport_onto_concepts_properties.txt"
+llama3_8B_without_inc_exp_concept_facet_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-print(f"Prompt used is : {llama3_8B_3inc_concept_facet_prompt}")
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "properties": [list of ten properties with each property less than ten words long]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+In terms of the <FACET>, some of the properties of the concept "<CONCEPT>" are <PROPERTY_LIST>. In terms of the <FACET>, write ten more different salient properties of the concept "<CONCEPT>".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+file_name = (
+    "llama3_without_inc_exp_concept_facet_transport_onto_concepts_properties.txt"
+)
+
+
+print(f"Prompt used is : {llama3_8B_without_inc_exp_concept_facet_prompt}")
 # concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
 concept_facet_generated_data = []
 
 with open(file_name, "w") as out_file:
-    for concept, facet in con_fac_df.values:
 
-        concept_prompt = llama3_8B_3inc_concept_facet_prompt.replace(
-            "<FACET>", facet
-        ).replace("<CONCEPT>", concept)
+    if with_inc_exp:
 
-        print(f"concept_prompt: {concept_prompt}")
+        for concept, facet in df.values:
 
-        sequences = pipeline(
-            concept_prompt,
-            do_sample=True,
-            num_return_sequences=1,
-            eos_token_id=tokenizer.eos_token_id,
-            max_new_tokens=500,
-            return_full_text=False,
-            repetition_penalty=1.0,
-            length_penalty=1.0,
-            truncation=True,
-            # max_length=500,
-            # top_p=,
-            # top_k=,
-        )
+            concept_prompt = llama3_8B_3inc_concept_facet_prompt.replace(
+                "<FACET>", facet
+            ).replace("<CONCEPT>", concept)
 
-        for seq in sequences:
-            # response_list.append(f"{seq['generated_text']}\n\n")
-            print(f"\n\nfacet:{facet}")
-            print(f"{seq['generated_text']}\n")
+            print(f"concept_prompt: {concept_prompt}")
 
-            out_file.write(f"\n\nfacet:{facet}")
-            out_file.write(f'{seq["generated_text"]}')
+            sequences = pipeline(
+                concept_prompt,
+                do_sample=True,
+                num_return_sequences=1,
+                eos_token_id=tokenizer.eos_token_id,
+                max_new_tokens=500,
+                return_full_text=False,
+                repetition_penalty=1.0,
+                length_penalty=1.0,
+                truncation=True,
+                # max_length=500,
+                # top_p=,
+                # top_k=,
+            )
 
-            concept_facet_generated_data.append((concept, facet, seq["generated_text"]))
+            for seq in sequences:
+                # response_list.append(f"{seq['generated_text']}\n\n")
+                print(f"\n\nfacet:{facet}")
+                print(f"{seq['generated_text']}\n")
 
-            print("===================================")
+                out_file.write(f"\n\nfacet:{facet}")
+                out_file.write(f'{seq["generated_text"]}')
 
-        del seq
-        del sequences
+                concept_facet_generated_data.append(
+                    (concept, facet, seq["generated_text"])
+                )
 
-gen_df = pd.DataFrame(
-    concept_facet_generated_data, columns=["concept", "facet", "generated_data"]
-)
-gen_df.to_csv("concept_facet_generated_data.txt", sep="\t", index=False)
+                print("===================================")
+
+            del seq
+            del sequences
+    else:
+        for con, fac in df[["concept", "facet"]].values:
+
+            properties = df[(df["concept"] == con) & (df["facet"] == fac)][
+                "property"
+            ].to_list()
+
+            prop_string = ", ".join(properties)
+
+            print("***** con, fac, prop_string *****")
+            print(con, fac, prop_string)
+
+            concept_prompt = (
+                llama3_8B_without_inc_exp_concept_facet_prompt.replace(
+                    "<FACET>", fac, 2
+                )
+                .replace("<CONCEPT>", con, 2)
+                .replace("<PROPERTY_LIST>", prop_string, 2)
+            )
+
+            print(f"concept_prompt: {concept_prompt}")
+
+            sequences = pipeline(
+                concept_prompt,
+                do_sample=True,
+                num_return_sequences=1,
+                eos_token_id=tokenizer.eos_token_id,
+                max_new_tokens=500,
+                return_full_text=False,
+                repetition_penalty=1.0,
+                length_penalty=1.0,
+                truncation=True,
+                # max_length=500,
+                # top_p=,
+                # top_k=,
+            )
+
+            for seq in sequences:
+                # response_list.append(f"{seq['generated_text']}\n\n")
+                print(f"\n\nfacet:{fac}")
+                print(f"{seq['generated_text']}\n")
+
+                out_file.write(f"\n\nfacet:{fac}")
+                out_file.write(f'{seq["generated_text"]}')
+
+                concept_facet_generated_data.append((con, fac, seq["generated_text"]))
+
+                print("===================================")
+
+            del seq
+            del sequences
+
+# gen_df = pd.DataFrame(
+#     concept_facet_generated_data, columns=["concept", "facet", "generated_data"]
+# )
+# gen_df.to_csv("concept_facet_generated_data.txt", sep="\t", index=False)
 
 
 del model
