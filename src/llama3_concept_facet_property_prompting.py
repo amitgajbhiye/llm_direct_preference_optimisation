@@ -160,39 +160,45 @@ For the concept of the <CONCEPT>, write its different facets and most salient pr
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
-file_name = "llama3_concept_facet_property_transport_onto_concepts.txt"
-
 print(f"Prompt used is : {llama3_8B_1inc_prompt}")
 concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
+repeat_times = 10
+
+file_name = (
+    f"llama3_repeat{repeat_times}_concept_facet_property_transport_onto_concepts.txt"
+)
+
 with open(file_name, "w") as out_file:
-    for concept_prompt in concept_prompts:
-        print(f"concept_prompt: {concept_prompt}")
-        sequences = pipeline(
-            concept_prompt,
-            do_sample=True,
-            num_return_sequences=1,
-            eos_token_id=tokenizer.eos_token_id,
-            max_new_tokens=500,
-            return_full_text=False,
-            repetition_penalty=1.0,
-            length_penalty=1.0,
-            truncation=True,
-            # max_length=500,
-            # top_p=,
-            # top_k=,
-        )
+    for i in range(repeat_times):
+        print(f"****** i :{i} ******")
+        for concept_prompt in concept_prompts:
+            print(f"concept_prompt: {concept_prompt}")
+            sequences = pipeline(
+                concept_prompt,
+                do_sample=True,
+                num_return_sequences=1,
+                eos_token_id=tokenizer.eos_token_id,
+                max_new_tokens=500,
+                return_full_text=False,
+                repetition_penalty=1.0,
+                length_penalty=1.0,
+                truncation=True,
+                # max_length=500,
+                # top_p=,
+                # top_k=,
+            )
 
-        for seq in sequences:
-            # response_list.append(f"{seq['generated_text']}\n\n")
-            print(f"{seq['generated_text']}\n")
+            for seq in sequences:
+                # response_list.append(f"{seq['generated_text']}\n\n")
+                print(f"{seq['generated_text']}\n")
 
-            out_file.write(f'{seq["generated_text"]}')
+                out_file.write(f'{seq["generated_text"]}')
 
-            print("===================================")
+                print("===================================")
 
-        del seq
-        del sequences
+            del seq
+            del sequences
 
 del model
 del pipeline
