@@ -87,6 +87,7 @@ llama3_8B_without_inc_exp_concept_facet_prompt = """<|begin_of_text|><|start_hea
 
 You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
 All output must include only valid JSON like the following example {"concept": concept, "properties": [list of ten properties with each property less than ten words long]}.
+The output properties must be different than the properties mentioned in the prompt.
 Don't add any explanations before and after the JSON.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
