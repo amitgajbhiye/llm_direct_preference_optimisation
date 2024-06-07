@@ -91,7 +91,7 @@ Don't add any explanations before and after the JSON.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
 
-In terms of the <FACET>, some of the properties of the concept "<CONCEPT>" are <PROPERTY_LIST>. In terms of the <FACET>, write ten more different salient properties of the concept "<CONCEPT>".<|eot_id|>
+In terms of <FACET>, some of the properties of the concept "<CONCEPT>" are <PROPERTY_LIST>. Write ten such properties of the concept "<CONCEPT>".<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
@@ -158,7 +158,7 @@ with open(file_name, "w") as out_file:
             prop_string = ", ".join(properties)
 
             print("***** con, fac, prop_string *****")
-            print(con, fac, prop_string)
+            print(con, "##", fac, "##", prop_string)
 
             concept_prompt = (
                 llama3_8B_without_inc_exp_concept_facet_prompt.replace(
