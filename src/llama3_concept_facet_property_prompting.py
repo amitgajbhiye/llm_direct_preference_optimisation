@@ -163,7 +163,7 @@ For the concept of the <CONCEPT>, write its different facets and most salient pr
 print(f"Prompt used is : {llama3_8B_1inc_prompt}")
 concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
-repeat_times = 10
+repeat_times = 30
 
 file_name = (
     f"llama3_repeat{repeat_times}_concept_facet_property_transport_onto_concepts.txt"

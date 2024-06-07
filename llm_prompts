@@ -567,12 +567,12 @@ In terms of the purpose, write the ten most salient properties of the concept "m
 
 
 
+{"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "ownership": ["private", "government"], "services": ["passenger", "freight", "tourist"], "equipment": ["trains", "locomotives", "tracks"], "operations": ["scheduling", "maintenance", "safety"], "location": ["global", "local", "regional"], "revenue source": ["ticket sales", "cargo fees", "advertising"]}}
 
 
+{"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "business model": ["freight transport", "passenger transport", "tourism"], "infrastructure": ["tracks", "stations", "trains"], "operations": ["scheduling", "maintenance", "staffing"], "revenue streams": ["ticket sales", "freight charges", "advertising"], "regulation": ["government oversight", "safety standards", "environmental regulations"], "locations": ["across the country", "globally", "in a specific region"]}}
 
-
-
-
+{"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "function": ["moving goods", "passenger service"], "structure": ["tracks", "trains", "stations"], "ownership": ["private", "public"], "revenue": ["ticket sales", "freight fees"], "operations": ["scheduling", "maintenance", "security"], "equipment": ["locomotives", "cars", "signaling systems"]}}
 
 
 
