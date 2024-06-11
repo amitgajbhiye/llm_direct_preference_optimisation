@@ -7,7 +7,7 @@ from sklearn.cluster import DBSCAN
 from sklearn.metrics import silhouette_score
 from sklearn.preprocessing import StandardScaler
 
-file = "../output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_property_property_embeddings.pkl"
+file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_property_property_embeddings.pkl"
 
 with open(file, "rb") as pkl_inp:
     prop_embed = pickle.load(pkl_inp)
@@ -50,7 +50,7 @@ if cluster_algo == "DBSCAN":
 
         return best_score, best_params, best_labels
 
-    eps_values = np.arange(0.1, 1.5, 0.1)
+    eps_values = np.arange(0.1, 1.1, 0.1)
     min_samples_values = range(2, 10)
 
     X = StandardScaler().fit_transform(prop_embeddings)
