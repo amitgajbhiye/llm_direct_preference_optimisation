@@ -21,7 +21,7 @@ prop_embeddings = np.array(list(prop_embed.values()))
 print(f"Properties: {properties[0:10]} ...")
 print(f"prop_embeddings: {prop_embeddings.shape} ...")
 
-cluster_algo = "DBSCAN"
+cluster_algo = "HDBSCAN"
 
 if cluster_algo == "DBSCAN":
 
@@ -75,65 +75,45 @@ if cluster_algo == "DBSCAN":
         for prop, label in zip(properties, best_labels):
             out_file.write(f"{prop}\t{label}\n")
 
+if cluster_algo == "HDBSCAN":
 
-# if cluster_algo == "HDBSCAN":
+    def hdbscan_clustering(X, min_cluster_size_values, min_samples_values):
+        best_score = -1
+        best_params = None
+        best_labels = None
 
-#     normalized_embeddings = normalize(llm_con_embeds, norm="l2")
+        for min_cluster_size in min_cluster_size_values:
+            for min_samples in min_samples_values:
+                clusterer = hdbscan.HDBSCAN(
+                    min_cluster_size=min_cluster_size, min_samples=min_samples
+                )
+                labels = clusterer.fit_predict(X)
 
-#     # normalized_embeddings = llm_con_embeds
+                # Ignore clusters where all points are classified as noise
+                if len(set(labels)) <= 1 or (len(set(labels)) == 2 and -1 in labels):
+                    continue
 
-#     # cosine_distances = pdist(normalized_embeddings, metric='cosine')
-#     # cosine_distance_matrix = squareform(cosine_distances)
+                # Calculate silhouette score
+                score = silhouette_score(X, labels)
 
-#     def evaluate_hdbscan(min_cluster_size, min_samples):
+                # Check if we got a better score
+                if score > best_score:
+                    best_score = score
+                    best_params = (min_cluster_size, min_samples)
+                    best_labels = labels
 
-#         clusterer = hdbscan.HDBSCAN(
-#             min_cluster_size=min_cluster_size, min_samples=min_samples
-#         )
-#         cluster_labels = clusterer.fit_predict(normalized_embeddings)
+        return best_score, best_params, best_labels
 
-#         if len(set(cluster_labels)) > 1:
-#             silhouette_avg = silhouette_score(normalized_embeddings, cluster_labels)
-#         else:
-#             silhouette_avg = -1
+    min_cluster_size_values = range(5, 30)
+    min_samples_values = range(1, 10)
 
-#         print(
-#             f"min_cluster_size: {min_cluster_size}, min_samples: {min_samples}, silhouette_score: {silhouette_avg}"
-#         )
-#         return cluster_labels, silhouette_avg
+    X = StandardScaler().fit_transform(prop_embeddings)
 
-#     # Experiment with different parameter values
-#     # results = []
+    best_score, best_params, best_labels = hdbscan_clustering(
+        X, min_cluster_size_values, min_samples_values
+    )
 
-#     # for min_cluster_size in range(2, 20):
-#     #     for min_samples in range(2, 20):
-#     #         cluster_labels, silhouette_avg = evaluate_hdbscan(min_cluster_size, min_samples)
-#     #         results.append((min_cluster_size, min_samples, silhouette_avg, cluster_labels))
-
-#     cluster_labels, silhouette_avg = evaluate_hdbscan(min_cluster_size=3, min_samples=2)
-
-#     # Choose the best parameters based on silhouette score
-#     # best_result = max(results, key=lambda x: x[2])
-#     # best_min_cluster_size, best_min_samples, best_silhouette, best_cluster_labels = best_result
-
-#     # print(f"Best min_cluster_size: {best_min_cluster_size}, Best min_samples: {best_min_samples}, Best silhouette_score: {best_silhouette}")
-#     print(f"Best silhouette_score: {silhouette_avg}")
-
-#     concept_cluster_list = [
-#         (con, clus_label) for con, clus_label in zip(concepts, cluster_labels)
-#     ]
-
-#     con_cluster_df = pd.DataFrame.from_records(
-#         concept_cluster_list, columns=["concept", "cluster_label"]
-#     )
-
-#     # property_cluster_df = pd.DataFrame.from_dict(property_cluster_map)
-#     con_cluster_df.sort_values(by="cluster_label", inplace=True, ascending=False)
-
-#     print(con_cluster_df)
-
-#     con_cluster_df.to_csv(
-#         f"data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/hbdscan_transport_con_cluster_llama38b_embeds.txt",
-#         sep="\t",
-#         index=None,
-#     )
+    print(f"Best Silhouette Score: {best_score}")
+    print(
+        f"Best Parameters: min_cluster_size={best_params[0]}, min_samples={best_params[1]}"
+    )
