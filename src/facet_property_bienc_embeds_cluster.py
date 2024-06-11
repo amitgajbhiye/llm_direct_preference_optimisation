@@ -68,7 +68,7 @@ if cluster_algo == "DBSCAN":
     # Best Silhouette Score: 0.02702467143535614
     # Best Parameters: eps=0.5, min_samples=5
 
-    with open("bienc_cluster.txt") as out_file:
+    with open("bienc_cluster.txt", "w") as out_file:
         for prop, label in zip(properties, best_labels):
             out_file.write(f"{prop}\t{label}\n")
 
