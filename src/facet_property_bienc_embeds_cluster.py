@@ -50,8 +50,11 @@ if cluster_algo == "DBSCAN":
 
         return best_score, best_params, best_labels
 
-    eps_values = np.arange(0.1, 1.1, 0.1)
-    min_samples_values = range(2, 10)
+    # eps_values = np.arange(0.1, 1.1, 0.1)
+    # min_samples_values = range(2, 10)
+
+    eps_values = [0.5]
+    min_samples_values = [5]
 
     X = StandardScaler().fit_transform(prop_embeddings)
 
@@ -62,8 +65,12 @@ if cluster_algo == "DBSCAN":
     print(f"Best Silhouette Score: {best_score}")
     print(f"Best Parameters: eps={best_params[0]}, min_samples={best_params[1]}")
 
-    for prop, label in zip(properties, best_labels):
-        print(prop, "\t", label)
+    # Best Silhouette Score: 0.02702467143535614
+    # Best Parameters: eps=0.5, min_samples=5
+
+    with open("bienc_cluster.txt") as out_file:
+        for prop, label in zip(properties, best_labels):
+            out_file.write(f"{prop}\t{label}\n")
 
 
 # if cluster_algo == "HDBSCAN":
