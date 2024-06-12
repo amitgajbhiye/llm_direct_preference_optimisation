@@ -102,6 +102,12 @@ if cluster_algo == "HDBSCAN":
                     best_params = (min_cluster_size, min_samples)
                     best_labels = labels
 
+                print(f"min_cluster_size: {min_cluster_size}")
+                print(f"min_samples: {min_samples}")
+                print(f"score: {score}")
+                print(f"best_score: {best_score}")
+                print()
+
         return best_score, best_params, best_labels
 
     min_cluster_size_values = range(3, 10)
