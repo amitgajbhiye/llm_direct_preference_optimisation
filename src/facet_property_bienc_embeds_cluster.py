@@ -29,47 +29,11 @@ if cluster_algo == "affinity_propogation":
 
     X = StandardScaler().fit_transform(prop_embeddings)
 
-    def affinity_propagation_clustering(X, damping_values, preference_values):
+    clustering = AffinityPropagation().fit(X)
+    labels = clustering.labels_
 
-        best_score = -1
-        best_params = None
-        best_labels = None
-
-        for damping in damping_values:
-            for preference in preference_values:
-                clustering = AffinityPropagation(damping=damping, preference=None).fit(
-                    X
-                )
-                labels = clustering.labels_
-
-                # Ignore clusters where all points are classified as noise
-                if len(set(labels)) <= 1:
-                    continue
-
-                # Calculate silhouette score
-                score = silhouette_score(X, labels)
-
-                # Check if we got a better score
-                if score > best_score:
-                    best_score = score
-                    best_params = (damping, preference)
-                    best_labels = labels
-
-        print(f"len: {len(set(list(best_labels)))}")
-        return best_score, best_params, best_labels
-
-    # damping_values = np.arange(0.5, 1.0, 0.05)
-    # preference_values = np.arange(-50, 0, 5)
-
-    damping_values = [0.5]
-    preference_values = [5]
-
-    best_score, best_params, best_labels = affinity_propagation_clustering(
-        X, damping_values, preference_values
-    )
-
-    print(f"Best Silhouette Score: {best_score}")
-    print(f"Best Parameters: damping={best_params[0]}, preference={best_params[1]}")
+    print(f"labels: {len(set(labels))}")
+    print(f"labels: {set(labels)}")
 
 
 if cluster_algo == "DBSCAN":
