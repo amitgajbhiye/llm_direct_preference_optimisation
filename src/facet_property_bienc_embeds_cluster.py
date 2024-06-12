@@ -29,6 +29,8 @@ if cluster_algo == "affinity_propogation":
 
     X = StandardScaler().fit_transform(prop_embeddings)
 
+    print(f"X.shape {X.shape}")
+
     clustering = AffinityPropagation().fit(X)
     labels = clustering.labels_
 
