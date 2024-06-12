@@ -40,15 +40,16 @@ if cluster_algo == "affinity_propogation":
 
     prop_cluster_list = [(prop, label) for prop, label in zip(properties, labels)]
 
+    for prop, cluster in prop_cluster_list:
+        print(prop, cluster)
+
     output_file = "affinity_propogation_clusters"
-    with open(f"{output_file}.pkl", "rb") as pkl_out:
-        pickle.dump(prop_cluster_list, pkl_out)
 
     df = pd.DataFrame(prop_cluster_list)
     df.to_csv(f"{output_file}.txt", sep="\t", index=True)
 
-    for prop, cluster in prop_cluster_list:
-        print(prop, cluster)
+    with open(f"{output_file}.pkl", "wb") as pkl_out:
+        pickle.dump(prop_cluster_list, pkl_out)
 
 
 if cluster_algo == "DBSCAN":
