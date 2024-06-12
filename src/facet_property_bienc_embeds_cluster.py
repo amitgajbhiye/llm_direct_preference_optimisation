@@ -10,9 +10,9 @@ from sklearn.preprocessing import StandardScaler
 # file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_property_property_embeddings.pkl"
 
 file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
+hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
 
-
-with open(file, "rb") as pkl_inp:
+with open(hawk_file, "rb") as pkl_inp:
     prop_embed = pickle.load(pkl_inp)
 
 properties = list(prop_embed.keys())
