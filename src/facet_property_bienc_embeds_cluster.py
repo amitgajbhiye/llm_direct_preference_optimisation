@@ -104,7 +104,7 @@ if cluster_algo == "HDBSCAN":
 
         return best_score, best_params, best_labels
 
-    min_cluster_size_values = range(5, 30)
+    min_cluster_size_values = range(3, 10)
     min_samples_values = range(1, 10)
 
     X = StandardScaler().fit_transform(prop_embeddings)
