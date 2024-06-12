@@ -12,7 +12,7 @@ from sklearn.preprocessing import StandardScaler
 file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
 hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
 
-with open(file, "rb") as pkl_inp:
+with open(hawk_file, "rb") as pkl_inp:
     prop_embed = pickle.load(pkl_inp)
 
 properties = list(prop_embed.keys())
@@ -20,7 +20,7 @@ prop_embeddings = np.array(list(prop_embed.values()))
 
 print(f"Properties: {properties[0:10]} ...")
 print(f"prop_embeddings: {prop_embeddings.shape} ...")
-print(f"Properties: {properties[0:10]} ...")
+print(f"Properties: {len(set(properties))}")
 
 
 cluster_algo = "affinity_propogation"
@@ -38,6 +38,14 @@ if cluster_algo == "affinity_propogation":
     print(f"labels: {len(set(labels))}")
     print(f"labels: {set(labels)}")
 
+    prop_cluster_list = [(prop, label) for prop, label in zip(properties, labels)]
+
+    output_file = "affinity_propogation_clusters"
+    with open(f"{output_file}.pkl", "rb") as pkl_out:
+        pickle.dump(prop_cluster_list, pkl_out)
+
+    df = pd.DataFrame(prop_cluster_list)
+    df.to_csv(f"{output_file}.txt", sep="\t", index=True)
 
 if cluster_algo == "DBSCAN":
 
