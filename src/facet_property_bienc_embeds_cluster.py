@@ -47,6 +47,10 @@ if cluster_algo == "affinity_propogation":
     df = pd.DataFrame(prop_cluster_list)
     df.to_csv(f"{output_file}.txt", sep="\t", index=True)
 
+    for prop, cluster in prop_cluster_list:
+        print(prop, cluster)
+
+
 if cluster_algo == "DBSCAN":
 
     def dbscan_clustering(X, eps_values, min_samples_values):
