@@ -20,6 +20,7 @@ prop_embeddings = np.array(list(prop_embed.values()))
 
 print(f"Properties: {properties[0:10]} ...")
 print(f"prop_embeddings: {prop_embeddings.shape} ...")
+print(f"Properties: {properties[0:10]} ...")
 
 
 cluster_algo = "affinity_propogation"
