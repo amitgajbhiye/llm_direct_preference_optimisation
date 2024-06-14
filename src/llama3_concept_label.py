@@ -148,7 +148,7 @@ with open(file_name, "w") as out_file:
             repetition_penalty=1.0,
             length_penalty=1.0,
             truncation=True,
-            # max_length=500,
+            max_length=3000,
             # top_p=,
             # top_k=,
         )
