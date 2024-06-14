@@ -157,8 +157,9 @@ with open(file_name, "w") as out_file:
             # response_list.append(f"{seq['generated_text']}\n\n")
             print(f"{seq['generated_text']}\n")
 
-            # out_file.write(f"\nprompt_concepts:{prompt_concepts}")
+            out_file.write(f"\nConcepts: {str(cons)}")
             out_file.write(f'{seq["generated_text"]}')
+            out_file.flush()
 
             # concept_facet_generated_data.append((concept, facet, seq["generated_text"]))
 
