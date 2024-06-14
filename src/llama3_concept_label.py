@@ -123,6 +123,9 @@ with open(file_name, "w") as out_file:
                 concept_cluster_labels["cluster_label"] == cl_label
             ]
 
+            print(f"concepts_df")
+            print(concepts_df)
+
             cons = concepts_df["concept"].unique()
             props = concepts_df["property"].unique()
 
