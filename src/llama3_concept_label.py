@@ -72,18 +72,20 @@ You are an ontology engineer building a transport ontology. In the ontology what
 llama3_8B_concepts_common_label_prompt_2 = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
 You are an ontology engineer building a transport ontology.
-All output must include only valid JSON like the following example {"class": [class of concepts from the list of classes]}.
+Assign only one class to the group of concepts.
+All output must include only valid JSON like the following example {"class": class of concepts from the list of classes}.
 Don't add any explanations before and after the JSON.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
 
-You are an ontology engineer building a transport ontology. From the list of classes: <LABEL_LIST>; assign a class label that best describes the group of concepts: <CONCEPT_LIST>.<|eot_id|>
+You are an ontology engineer building a transport ontology. Assign only one class to the group of concepts.
+From the list of classes: <LABEL_LIST>; assign a class label that best describes the group of concepts: <CONCEPT_LIST>.<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
 prompt = 2
 
-file_name = "llama3_common_label_clustered_concepts.txt"
+file_name = "llama3_clustered_concepts_common_label_from_property_label.txt"
 print(f"Prompt used is : {llama3_8B_concepts_common_label_prompt}")
 
 concepts_common_label = []
@@ -158,7 +160,7 @@ with open(file_name, "w") as out_file:
             print(f"{seq['generated_text']}\n")
 
             out_file.write(f"\nConcepts: {str(cons)}")
-            out_file.write(f'{seq["generated_text"]}')
+            out_file.write(f'{seq["generated_text"]}\n')
             out_file.flush()
 
             # concept_facet_generated_data.append((concept, facet, seq["generated_text"]))
