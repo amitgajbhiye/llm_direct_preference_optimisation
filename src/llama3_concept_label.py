@@ -69,6 +69,20 @@ You are an ontology engineer building a transport ontology. In the ontology what
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
+llama3_8B_concepts_common_label_prompt_2 = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are an ontology engineer building a transport ontology.
+All output must include only valid JSON like the following example {"concepts": [list of concepts], "class": [class of concepts from the list of classes]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+You are an ontology engineer building a transport ontology. From the list of classes: <LABEL_LIST>; assign a class label that best describes the group of concepts: <CONCEPT_LIST>.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+prompt = 2
+
 file_name = "llama3_common_label_clustered_concepts.txt"
 print(f"Prompt used is : {llama3_8B_concepts_common_label_prompt}")
 
@@ -77,29 +91,49 @@ concepts_common_label = []
 with open(file_name, "w") as out_file:
 
     for cl_label in cluster_labels:
-        print(f"cluster_label:", cl_label)
 
-        concepts_list = concept_cluster_labels[
-            concept_cluster_labels["cluster_label"] == cl_label
-        ]["concept"].unique()
+        if prompt != 2:
 
-        num_clustered_concepts = len(concepts_list)
+            print(f"cluster_label:", cl_label)
 
-        if num_clustered_concepts >= 10:
-            prompt_concepts = concepts_list[:10]
+            concepts_list = concept_cluster_labels[
+                concept_cluster_labels["cluster_label"] == cl_label
+            ]["concept"].unique()
+
+            num_clustered_concepts = len(concepts_list)
+
+            if num_clustered_concepts >= 10:
+                prompt_concepts = concepts_list[:10]
+            else:
+                prompt_concepts = concepts_list
+
+            prompt_concepts = ", ".join(prompt_concepts)
+
+            concept_prompt = llama3_8B_concepts_common_label_prompt.replace(
+                "<CONCEPT_LIST>", prompt_concepts
+            )
+
+            print(f"concepts_list:{concepts_list}")
+            print(f"prompt_concepts:{prompt_concepts}")
+
+            print(f"concept_prompt: {concept_prompt}")
+
         else:
-            prompt_concepts = concepts_list
+            concepts_df = concept_cluster_labels[
+                concept_cluster_labels["cluster_label"] == cl_label
+            ]
 
-        prompt_concepts = ", ".join(prompt_concepts)
+            cons = concepts_df["concept"].unique()
+            props = concepts_df["property"].unique()
 
-        concept_prompt = llama3_8B_concepts_common_label_prompt.replace(
-            "<CONCEPT_LIST>", prompt_concepts
-        )
+            concept_prompt = llama3_8B_concepts_common_label_prompt_2.replace(
+                "<LABEL_LIST>", str(props)
+            ).replace("<CONCEPT_LIST>", str(cons))
 
-        print(f"concepts_list:{concepts_list}")
-        print(f"prompt_concepts:{prompt_concepts}")
+            print(f"concepts_list:{cons}")
+            print(f"label_list:{props}")
 
-        print(f"concept_prompt: {concept_prompt}")
+            print(f"concept_prompt: {concept_prompt}")
 
         sequences = pipeline(
             concept_prompt,
