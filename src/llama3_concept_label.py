@@ -48,9 +48,9 @@ pipeline = transformers.pipeline(
 
 concept_facet_property_file = "data/ontology_concepts/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/facet_property/final_concept_facet_propert_clusterlabel.txt"
 
-df = pd.read_csv(concept_facet_property_file, sep="\t")
+concept_facet_property_df = pd.read_csv(concept_facet_property_file, sep="\t")
 
-concept_cluster_labels = df[["concept", "cluster_label"]]
+concept_cluster_labels = concept_facet_property_df[["concept", "cluster_label"]]
 cluster_labels = concept_cluster_labels["cluster_label"].unique()
 
 print(f"input_df")
@@ -119,7 +119,7 @@ with open(file_name, "w") as out_file:
             print(f"concept_prompt: {concept_prompt}")
 
         else:
-            concepts_df = concept_cluster_labels[
+            concepts_df = concept_facet_property_df[
                 concept_cluster_labels["cluster_label"] == cl_label
             ]
 
