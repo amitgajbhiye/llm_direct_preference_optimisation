@@ -72,7 +72,7 @@ You are an ontology engineer building a transport ontology. In the ontology what
 llama3_8B_concepts_common_label_prompt_2 = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
 You are an ontology engineer building a transport ontology.
-All output must include only valid JSON like the following example {"concepts": [list of concepts], "class": [class of concepts from the list of classes]}.
+All output must include only valid JSON like the following example {"class": [class of concepts from the list of classes]}.
 Don't add any explanations before and after the JSON.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
@@ -148,7 +148,7 @@ with open(file_name, "w") as out_file:
             repetition_penalty=1.0,
             length_penalty=1.0,
             truncation=True,
-            max_length=3000,
+            # max_length=3000,
             # top_p=,
             # top_k=,
         )
