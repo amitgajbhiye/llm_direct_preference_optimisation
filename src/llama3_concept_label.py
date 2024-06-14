@@ -11,6 +11,12 @@ from transformers import (
     pipeline,
 )
 
+gc.collect()
+gc.collect()
+
+torch.cuda.empty_cache()
+torch.cuda.empty_cache()
+
 base_model = "meta-llama/Meta-Llama-3-8B-Instruct"
 
 
@@ -75,7 +81,7 @@ with open(file_name, "w") as out_file:
 
         concepts_list = concept_cluster_labels[
             concept_cluster_labels["cluster_label"] == cl_label
-        ]["concept"].to_list()
+        ]["concept"].unique()
 
         num_clustered_concepts = len(concepts_list)
 
@@ -114,7 +120,7 @@ with open(file_name, "w") as out_file:
             # response_list.append(f"{seq['generated_text']}\n\n")
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f"prompt_concepts:{prompt_concepts}")
+            # out_file.write(f"\nprompt_concepts:{prompt_concepts}")
             out_file.write(f'{seq["generated_text"]}')
 
             # concept_facet_generated_data.append((concept, facet, seq["generated_text"]))
