@@ -60,12 +60,15 @@ print(concept_facet_property_df)
 llama3_8B_concepts_common_label_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
 You are an ontology engineer building a transport ontology.
-All output must include only valid JSON like the following example {"concepts": list of concepts, "class": [class of concepts in less than ten words]}.
+Assign only one class to the group of concepts.
+All output must include only valid JSON like the following example {"class": class of the concepts in less than ten words}.
 Don't add any explanations before and after the JSON.
 If you don't know the answer, please don't share false information.<|eot_id|>
 <|start_header_id|>user<|end_header_id|>
 
-You are an ontology engineer building a transport ontology. In the ontology what class would you assign to the following group of concepts <CONCEPT_LIST>.<|eot_id|>
+You are an ontology engineer building a transport ontology.
+Assign only one class to the group of concepts.
+In the ontology what class would you assign to the following group of concepts: <CONCEPT_LIST>.<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
@@ -83,9 +86,9 @@ From the list of classes: <LABEL_LIST>; assign a class label that best describes
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
-prompt = 2
+prompt = 1
 
-file_name = "llama3_clustered_concepts_common_label_from_property_label.txt"
+file_name = "llama3_clustered_concepts_common_label_from_concept_label.txt"
 print(f"Prompt used is : {llama3_8B_concepts_common_label_prompt}")
 
 concepts_common_label = []
@@ -104,41 +107,41 @@ with open(file_name, "w") as out_file:
 
             num_clustered_concepts = len(concepts_list)
 
-            if num_clustered_concepts >= 10:
-                prompt_concepts = concepts_list[:10]
-            else:
-                prompt_concepts = concepts_list
+            # if num_clustered_concepts >= 10:
+            #     prompt_concepts = concepts_list[:10]
+            # else:
+            #     prompt_concepts = concepts_list
 
-            prompt_concepts = ", ".join(prompt_concepts)
+            # prompt_concepts = ", ".join(prompt_concepts)
 
             concept_prompt = llama3_8B_concepts_common_label_prompt.replace(
-                "<CONCEPT_LIST>", prompt_concepts
+                "<CONCEPT_LIST>", str(concepts_list)
             )
 
             print(f"concepts_list:{concepts_list}")
-            print(f"prompt_concepts:{prompt_concepts}")
+            # print(f"prompt_concepts:{prompt_concepts}")
 
             print(f"concept_prompt: {concept_prompt}")
 
-        else:
-            concepts_df = concept_facet_property_df[
-                concept_cluster_labels["cluster_label"] == cl_label
-            ]
+        # else:
+        #     concepts_df = concept_facet_property_df[
+        #         concept_cluster_labels["cluster_label"] == cl_label
+        #     ]
 
-            print(f"concepts_df")
-            print(concepts_df)
+        #     print(f"concepts_df")
+        #     print(concepts_df)
 
-            cons = concepts_df["concept"].unique()
-            props = concepts_df["property"].unique()
+        #     cons = concepts_df["concept"].unique()
+        #     props = concepts_df["property"].unique()
 
-            concept_prompt = llama3_8B_concepts_common_label_prompt_2.replace(
-                "<LABEL_LIST>", str(props)
-            ).replace("<CONCEPT_LIST>", str(cons))
+        #     concept_prompt = llama3_8B_concepts_common_label_prompt_2.replace(
+        #         "<LABEL_LIST>", str(props)
+        #     ).replace("<CONCEPT_LIST>", str(cons))
 
-            print(f"concepts_list:{cons}")
-            print(f"label_list:{props}")
+        #     print(f"concepts_list:{cons}")
+        #     print(f"label_list:{props}")
 
-            print(f"concept_prompt: {concept_prompt}")
+        #     print(f"concept_prompt: {concept_prompt}")
 
         sequences = pipeline(
             concept_prompt,
@@ -157,9 +160,10 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
             # response_list.append(f"{seq['generated_text']}\n\n")
+            print(f"\nConcepts: {str(concepts_list)}")
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f"\nConcepts: {str(cons)}")
+            out_file.write(f"\nConcepts: {str(concepts_list)}")
             out_file.write(f'{seq["generated_text"]}\n')
             out_file.flush()
 
