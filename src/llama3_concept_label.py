@@ -54,7 +54,7 @@ concept_cluster_labels = concept_facet_property_df[["concept", "cluster_label"]]
 cluster_labels = concept_cluster_labels["cluster_label"].unique()
 
 print(f"input_df")
-print(df)
+print(concept_facet_property_df)
 
 
 llama3_8B_concepts_common_label_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
