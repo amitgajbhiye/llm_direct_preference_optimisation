@@ -1,5 +1,4 @@
 import gc
-import json
 
 import pandas as pd
 import torch
@@ -86,10 +85,26 @@ From the list of classes: <LABEL_LIST>; assign a class label that best describes
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
-prompt = 1
+llama3_8B_concepts_common_label_property_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
 
-file_name = "llama3_clustered_concepts_common_label_from_concept_label.txt"
-print(f"Prompt used is : {llama3_8B_concepts_common_label_prompt}")
+You are an advanced language model with extensive knowledge of various concepts and their properties. Your task is to assign a concise, descriptive label to a given group of properties for a group of concept. The label should accurately capture the essence of the concepts based on the provided properties.
+All output must include only valid JSON like the following example {"label": concise and descriptive label.}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+You are an advanced language model with extensive knowledge of various concepts and their properties. Your task is to assign a concise, descriptive label to a given group of properties for a group of concept. The label should accurately capture the essence of the concepts based on the provided properties.
+
+The properties are: <PROPERTY_LIST>.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+prompt_type = "property_prompt"  # concept_prompt, concept_property_prompt
+
+file_name = "llama3_clustered_concepts_common_label_from_only_property_label.txt"
+
+print(f"prompt_type: {prompt_type}")
+print(f"Prompt used is : {llama3_8B_concepts_common_label_property_prompt}")
 
 concepts_common_label = []
 
@@ -97,7 +112,7 @@ with open(file_name, "w") as out_file:
 
     for cl_label in cluster_labels:
 
-        if prompt != 2:
+        if prompt_type == "concept_prompt":
 
             print(f"cluster_label:", cl_label)
 
@@ -106,13 +121,6 @@ with open(file_name, "w") as out_file:
             ]["concept"].unique()
 
             num_clustered_concepts = len(concepts_list)
-
-            # if num_clustered_concepts >= 10:
-            #     prompt_concepts = concepts_list[:10]
-            # else:
-            #     prompt_concepts = concepts_list
-
-            # prompt_concepts = ", ".join(prompt_concepts)
 
             concept_prompt = llama3_8B_concepts_common_label_prompt.replace(
                 "<CONCEPT_LIST>", str(concepts_list)
@@ -123,28 +131,46 @@ with open(file_name, "w") as out_file:
 
             print(f"concept_prompt: {concept_prompt}")
 
-        # else:
-        #     concepts_df = concept_facet_property_df[
-        #         concept_cluster_labels["cluster_label"] == cl_label
-        #     ]
+        elif prompt_type == "property_prompt":
 
-        #     print(f"concepts_df")
-        #     print(concepts_df)
+            property_list = concept_cluster_labels[
+                concept_cluster_labels["cluster_label"] == cl_label
+            ]["property"].unique()
 
-        #     cons = concepts_df["concept"].unique()
-        #     props = concepts_df["property"].unique()
+            property_list = ", ".join([prop.strip() for prop in property_list])
 
-        #     concept_prompt = llama3_8B_concepts_common_label_prompt_2.replace(
-        #         "<LABEL_LIST>", str(props)
-        #     ).replace("<CONCEPT_LIST>", str(cons))
+            num_clustered_properties = len(property_list)
 
-        #     print(f"concepts_list:{cons}")
-        #     print(f"label_list:{props}")
+            prop_prompt = llama3_8B_concepts_common_label_prompt.replace(
+                "<PROPERTY_LIST>", str(property_list)
+            )
 
-        #     print(f"concept_prompt: {concept_prompt}")
+            print(
+                f"num_clustered_properties: {num_clustered_properties}, prop_prompt:{prop_prompt}"
+            )
+
+        elif prompt_type == "concept_property_prompt":
+            concepts_df = concept_facet_property_df[
+                concept_cluster_labels["cluster_label"] == cl_label
+            ]
+
+            print(f"concepts_df")
+            print(concepts_df)
+
+            cons = concepts_df["concept"].unique()
+            props = concepts_df["property"].unique()
+
+            concept_prompt = llama3_8B_concepts_common_label_prompt_2.replace(
+                "<LABEL_LIST>", str(props)
+            ).replace("<CONCEPT_LIST>", str(cons))
+
+            print(f"concepts_list:{cons}")
+            print(f"label_list:{props}")
+
+            print(f"concept_prompt: {concept_prompt}")
 
         sequences = pipeline(
-            concept_prompt,
+            prop_prompt,
             do_sample=True,
             num_return_sequences=1,
             eos_token_id=tokenizer.eos_token_id,
@@ -159,11 +185,11 @@ with open(file_name, "w") as out_file:
         )
 
         for seq in sequences:
-            # response_list.append(f"{seq['generated_text']}\n\n")
-            print(f"\nConcepts: {str(concepts_list)}")
+
+            print(f"\nProperties: {str(property_list)}")
             print(f"{seq['generated_text']}\n")
 
-            out_file.write(f"\nConcepts: {str(concepts_list)}")
+            out_file.write(f"\nProperties: {str(property_list)}")
             out_file.write(f'{seq["generated_text"]}\n')
             out_file.flush()
 

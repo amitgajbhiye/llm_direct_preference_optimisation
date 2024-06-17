@@ -1,0 +1,1686 @@
+
+Concepts: ['cab car' 'gallery car' 'local transit system'
+ 'rail transportation system' 'railway vehicle' 'rolling stock'
+ 'train assembly' 'transit route' 'transit stop' 'electrified railway'
+ 'mode of transit' 'track gauge' 'standard gauge railway' 'transitway'
+ 'transportation device' 'transportation system']
+
+{"class": "transportation device"}
+
+Concepts: ['land area' 'container terminal' 'drilling ship' 'electric device'
+ 'fishing trawler' 'truck trailer' 'railroad bridge' 'railroad track'
+ 'refrigerated compartment' 'rocket engine' 'petroleum product pipeline'
+ 'airport classification' 'major air carrier' 'full size van'
+ 'land vehicle' 'outfit car' 'container ship' 'ore carrier ship'
+ 'head end car' 'partial container ship' 'tractor trailer' 'bulk cargo'
+ 'cab car' 'commercial airport' 'crane ship' 'deck cargo' 'deck crane'
+ 'deepwater port' 'flatcar' 'flight deck' 'freight car' 'freighter'
+ 'gallery car' 'hangar bay' 'hopper dredger' 'international airport'
+ 'jet airplane' 'offshore support ship' 'petroleum tanker ship'
+ 'pusher tug' 'rolling stock' 'ship hold' 'terminal building'
+ 'water transportation system' 'canal lock gate' 'chemical tanker ship'
+ 'coach railcar' 'fire engine' 'passenger railway car' 'navigation buoy'
+ 'canal system' 'fire boat' 'fuel tank' 'registry ton' 'transit shelter'
+ 'truck tractor' 'water area' 'watercraft' 'scale test car' 'whaling ship'
+ 'bulkhead' 'cable ship' 'canal' 'canal lock' 'canal structure'
+ 'cargo container' 'cargo ship' 'commercial carrier' 'commercial shipping'
+ 'crew list' 'dining car' 'dry bulk cargo' 'electric motor'
+ 'electronic device' 'emergency road vehicle' 'emergency vehicle'
+ 'fish factory ship' 'fishing boat' 'fishing vessel' 'general cargo ship'
+ 'government organization' 'jet engine' 'light fixture' 'light truck'
+ 'lighter' 'material handling equipment' 'military watercraft' 'minivan'
+ 'motor scooter' 'navigation light' 'ocean liner' 'offshore supply ship'
+ 'parking garage' 'passenger car' 'passenger ship' 'personal watercraft'
+ 'pier' 'port crane' 'port facility' 'portable bridge' 'private railcar'
+ 'propeller airplane' 'radar facility' 'railcar carrier ship'
+ 'railroad company' 'railway junction' 'railway vehicle' 'research ship'
+ 'river port' 'road vehicle' 'ship berth' 'ship berthing' 'ship cabin'
+ 'ship compartment' 'ship deck' 'ship hatch' 'ship hull' 'spine car'
+ 'sport utility vehicle' 'tank car' 'traffic light' 'traffic signal'
+ 'train assembly' 'transit terminal' 'transportation company'
+ 'transportation device' 'tugboat' 'turboprop airplane'
+ 'vehicle carrier ship' 'vehicle wheel' 'waterway junction'
+ 'diesel engine']
+
+{"class": "land vehicle"}
+
+Concepts: ['navigation buoy' 'land area' 'coach railcar' 'fire engine'
+ 'passenger railway car' 'fishing boat' 'fishing vessel' 'ship hatch'
+ 'water transportation system' 'propeller airplane' 'crew list' 'managing'
+ 'international airport' 'river port' 'scale test car' 'cab car'
+ 'personal watercraft' 'electric device' 'electric motor'
+ 'electronic device' 'jet engine' 'land vehicle' 'light truck'
+ 'motor scooter' 'outfit car' 'passenger car' 'portable bridge'
+ 'road vehicle' 'ship cabin' 'sport utility vehicle'
+ 'transportation device' 'material handling equipment'
+ 'refrigerated compartment' 'rocket engine' 'tugboat' 'navigation light'
+ 'lighter' 'airport classification' 'water area' 'watercraft'
+ 'transit shelter' 'ship berthing' 'bulk cargo' 'bulkhead' 'cable ship'
+ 'canal' 'canal lock' 'canal lock gate' 'canal structure' 'canal system'
+ 'cargo container' 'cargo ship' 'chemical tanker ship'
+ 'commercial airport' 'commercial carrier' 'commercial shipping'
+ 'container terminal' 'crane ship' 'deck cargo' 'deck crane'
+ 'deepwater port' 'dining car' 'drilling ship' 'dry bulk cargo'
+ 'emergency road vehicle' 'emergency vehicle' 'fire boat'
+ 'fish factory ship' 'fishing trawler' 'flatcar' 'freight car' 'freighter'
+ 'fuel tank' 'gallery car' 'general cargo ship' 'glider airplane'
+ 'government organization' 'hangar bay' 'hopper dredger' 'jet airplane'
+ 'light fixture' 'major air carrier' 'military watercraft'
+ 'offshore supply ship' 'offshore support ship' 'parking garage'
+ 'partial container ship' 'passenger ship' 'pier' 'port facility'
+ 'private railcar' 'pusher tug' 'radar facility' 'railcar carrier ship'
+ 'railroad company' 'railway junction' 'railway vehicle' 'research ship'
+ 'rolling stock' 'ship berth' 'ship compartment' 'ship deck' 'ship hold'
+ 'ship hull' 'terminal building' 'traffic light' 'traffic signal'
+ 'train assembly' 'transit terminal' 'transportation company'
+ 'truck trailer' 'turboprop airplane' 'vehicle wheel' 'waterway junction'
+ 'whaling ship']
+
+{"class": "vehicle"}
+
+Concepts: ['cab car' 'electric motor' 'electronic signalling'
+ 'emergency road vehicle' 'emergency vehicle' 'jet engine' 'land vehicle'
+ 'material handling equipment' 'military watercraft' 'mode of transit'
+ 'motor scooter' 'offshore supply ship' 'offshore support ship'
+ 'passenger car' 'passenger railway car' 'personal watercraft'
+ 'propeller airplane' 'rail transportation system' 'railway vehicle'
+ 'road vehicle' 'rolling stock' 'spine car' 'train assembly'
+ 'transportation device' 'transportation system' 'turboprop airplane'
+ 'animal powered vehicle' 'body motion' 'cable ship' 'cargo ship'
+ 'container ship' 'crane ship' 'electrical signalling' 'fire boat'
+ 'fire engine' 'fishing boat' 'fishing trawler' 'fishing vessel'
+ 'freighter' 'gallery car' 'general cargo ship' 'glider airplane'
+ 'liner service' 'ocean liner' 'ore carrier ship' 'outfit car'
+ 'passenger ship' 'petroleum tanker ship' 'port crane' 'pusher tug'
+ 'railcar carrier ship' 'signalling' 'surfaced roadway' 'tugboat'
+ 'vehicle carrier ship' 'water transportation system' 'watercraft'
+ 'freight car' 'partial container ship' 'diesel engine'
+ 'multiple track railway' 'standard gauge railway' 'head end car'
+ 'jet airplane' 'hopper dredger']
+
+{"class": "TransportationVehicle"}
+
+Concepts: ['spine car' 'head end car' 'intermodal transportation'
+ 'broad gauge railway' 'multiple track railway' 'cab car'
+ 'electrified railway' 'rail transportation system' 'railroad track'
+ 'railway vehicle' 'rolling stock' 'train assembly' 'flatcar'
+ 'dual gauge railway' 'standard gauge railway' 'tractor trailer'
+ 'transportation device' 'freight car' 'railroad bridge' 'freighter'
+ 'bill of lading' 'registry ton' 'contract carrier' 'truck tractor'
+ 'railcar carrier ship']
+
+{"class": "Railway Freight Transport"}
+
+Concepts: ['body motion' 'electronic device' 'electric device']
+
+{"class": "device"}
+
+Concepts: ['electronic device' 'scale test car' 'ship deck' 'liner service'
+ 'ocean liner' 'passenger ship' 'pier' 'electric device'
+ 'animal powered vehicle' 'hoisting device' 'rolling stock' 'gallery car'
+ 'land vehicle' 'road vehicle' 'ship cabin' 'transportation device'
+ 'airport classification' 'body motion' 'deck cargo' 'dining car'
+ 'motor scooter' 'passenger railway car' 'personal watercraft'
+ 'private railcar' 'railway vehicle' 'spine car' 'train assembly'
+ 'transit route' 'international airport' 'outfit car']
+
+{"class": "transportation device"}
+
+Concepts: ['body motion']
+
+{"class": "Motion"}
+
+Concepts: ['organic compound' 'lighter' 'bulkhead' 'canal lock gate' 'cargo ship'
+ 'fishing trawler' 'freight car' 'fuel tank' 'hangar bay'
+ 'passenger railway car' 'pier' 'railroad bridge' 'railroad track'
+ 'railway vehicle' 'ship hatch' 'ship hold' 'ship hull' 'tank car'
+ 'truck trailer' 'tugboat' 'rolling stock' 'attaching' 'fishing boat'
+ 'glider airplane' 'propeller airplane' 'canal structure' 'canal system'
+ 'transit shelter' 'aid to navigation' 'canal' 'cargo container'
+ 'chemical tanker ship' 'coach railcar' 'deck cargo' 'deck crane'
+ 'electric device' 'electronic device' 'fishing vessel' 'flatcar'
+ 'hoisting device' 'jet airplane' 'jet engine' 'land vehicle'
+ 'light fixture' 'material handling equipment' 'navigation buoy'
+ 'navigation light' 'ore carrier ship' 'outfit car' 'passenger car'
+ 'petroleum tanker ship' 'port crane' 'portable bridge' 'private railcar'
+ 'pusher tug' 'railcar carrier ship' 'road vehicle' 'rocket engine'
+ 'scale test car' 'ship cabin' 'ship deck' 'spine car' 'traffic light'
+ 'traffic signal' 'train assembly' 'vehicle wheel' 'watercraft']
+
+{"class": "land vehicle"}
+
+Concepts: ['offshore anchorage' 'container ship' 'liner service' 'tugboat'
+ 'cable ship' 'offshore supply ship' 'railcar carrier ship'
+ 'offshore support ship' 'water transportation system' 'deepwater port'
+ 'fishing trawler' 'ocean liner' 'cargo ship' 'fish factory ship'
+ 'whaling ship' 'chemical tanker ship' 'crane ship' 'fire boat'
+ 'fishing boat' 'fishing vessel' 'freighter' 'general cargo ship'
+ 'hopper dredger' 'ore carrier ship' 'partial container ship'
+ 'petroleum tanker ship' 'pusher tug' 'merchant marine' 'drilling ship']
+
+{"class": "vessels"}
+
+Concepts: ['partial container ship' 'ship berthing' 'cable ship' 'crane ship'
+ 'military watercraft' 'whaling ship' 'commercial carrier' 'river port'
+ 'cargo ship' 'chemical tanker ship' 'common carrier' 'contract carrier'
+ 'crew list' 'deck crane' 'fish factory ship' 'fishing boat'
+ 'fishing trawler' 'fishing vessel' 'freighter' 'general cargo ship'
+ 'hopper dredger' 'intermodal transportation' 'mode of transit'
+ 'ocean liner' 'offshore supply ship' 'offshore support ship'
+ 'ore carrier ship' 'petroleum tanker ship' 'pusher tug'
+ 'railcar carrier ship' 'transportation device' 'transportation schedule'
+ 'tugboat' 'vehicle carrier ship' 'water transportation system'
+ 'watercraft' 'drilling ship' 'ship register' 'fire boat' 'ship deck'
+ 'liner service' 'maritime blockade' 'port embargo'
+ 'transportation system' 'merchant marine' 'research ship']
+
+{"class": "ship"}
+
+Concepts: ['cargo container' 'cargo ship' 'fire engine' 'merchant marine'
+ 'petroleum tanker ship' 'ship hold' 'truck tractor' 'truck trailer'
+ 'commercial shipping' 'liner service' 'chemical tanker ship' 'tank car'
+ 'water transportation system' 'ship berth' 'shipping lane' 'freighter'
+ 'ship register' 'deepwater port' 'intermodal transportation'
+ 'ore carrier ship' 'ship berthing' 'offshore supply ship'
+ 'offshore support ship' 'freight car' 'rolling stock']
+
+{"class": "tanker"}
+
+Concepts: ['tank car' 'chemical tanker ship' 'fish factory ship']
+
+{"class": "chemical transportation vehicle"}
+
+Concepts: ['chemical tanker ship' 'partial container ship' 'tank car' 'flatcar']
+
+{"class": "hazardous materials carrier"}
+
+Concepts: ['truck trailer' 'cab car' 'tank car' 'full size van' 'pier' 'canal'
+ 'land vehicle' 'railway vehicle' 'rolling stock'
+ 'water transportation system' 'passenger railway car' 'paved runway'
+ 'petroleum product pipeline' 'freight car' 'canal system' 'cable ship'
+ 'canal structure' 'cargo ship' 'chemical tanker ship' 'coach railcar'
+ 'container ship' 'crane ship' 'fire engine' 'fish factory ship'
+ 'fishing trawler' 'flatcar' 'flight deck' 'freighter' 'gallery car'
+ 'head end car' 'jet airplane' 'minivan' 'ocean liner'
+ 'offshore supply ship' 'offshore support ship' 'petroleum tanker ship'
+ 'pusher tug' 'railcar carrier ship' 'railroad bridge' 'railroad track'
+ 'road vehicle' 'ship deck' 'spine car' 'sport utility vehicle'
+ 'tractor trailer' 'train assembly' 'truck tractor' 'vehicle carrier ship'
+ 'watercraft' 'whaling ship']
+
+{"class": "land vehicle"}
+
+Concepts: ['ship hatch' 'deck cargo' 'fish factory ship' 'offshore supply ship'
+ 'transportation company' 'railway junction' 'parking garage' 'ship deck'
+ 'truck trailer' 'fishing vessel' 'cargo container' 'freight car'
+ 'ship hold' 'diesel fuel' 'research ship' 'ship compartment' 'deck crane']
+
+{"class": "Vessel"}
+
+Concepts: ['shipping channel' 'shipping lane' 'intentional process' 'managing'
+ 'railway junction' 'river port' 'waterway junction' 'sea lane'
+ 'merchant marine' 'air traffic control center' 'cabotage' 'canal system'
+ 'container terminal' 'deepwater port' 'land area' 'port facility'
+ 'liner service']
+
+{"class": "Transportation Infrastructure"}
+
+Concepts: ['pier' 'radar facility' 'radio navigation beacon' 'turboprop airplane'
+ 'jet airplane' 'jet engine' 'bulkhead' 'dining car' 'flight deck'
+ 'propeller airplane' 'deck cargo' 'fuel tank' 'turbojet engine'
+ 'aid to navigation' 'air traffic control procedure' 'cargo manifest'
+ 'air traffic control center']
+
+{"class": "Aircraft"}
+
+Concepts: ['portable bridge' 'radar facility' 'unpaved runway' 'military watercraft'
+ 'airport classification' 'flight deck' 'hangar bay' 'hoisting device'
+ 'jet engine' 'paved runway' 'truck tractor' 'air traffic control tower']
+
+{"class": "Infrastructure"}
+
+Concepts: ['flight deck' 'air traffic control procedure' 'taking off'
+ 'air traffic control tower' 'air traffic control center'
+ 'commercial airport' 'traffic control process']
+
+{"class": "AirTrafficControl"}
+
+Concepts: ['chemical tanker ship' 'petroleum tanker ship'
+ 'petroleum product pipeline' 'ship berthing' 'flight deck'
+ 'air traffic control procedure' 'transit stop']
+
+{"class": "MaritimeInfrastructure"}
+
+Concepts: ['flatcar' 'freight car' 'hangar bay' 'parking garage' 'rolling stock'
+ 'spine car' 'transit shelter' 'flight deck']
+
+{"class": "covered"}
+
+Concepts: ['cable ship' 'petroleum pipeline' 'petroleum product pipeline'
+ 'ship hull' 'tank car' 'canal lock gate' 'hopper dredger'
+ 'railcar carrier ship' 'rolling stock' 'whaling ship' 'lighter'
+ 'bulkhead' 'cab car' 'canal' 'canal structure' 'cargo container'
+ 'chemical tanker ship' 'coach railcar' 'container ship' 'deck cargo'
+ 'deck crane' 'fishing boat' 'fishing trawler' 'fishing vessel'
+ 'fixed bridge' 'flatcar' 'freight car' 'fuel tank' 'gallery car'
+ 'hoisting device' 'jet engine' 'material handling equipment'
+ 'military watercraft' 'ocean liner' 'ore carrier ship' 'passenger car'
+ 'passenger railway car' 'petroleum tanker ship' 'pier' 'port crane'
+ 'private railcar' 'pusher tug' 'railroad bridge' 'railroad track'
+ 'railway vehicle' 'rocket engine' 'ship deck' 'ship hatch' 'ship hold'
+ 'spine car' 'train assembly' 'truck trailer' 'vehicle wheel'
+ 'water transportation system' 'watercraft' 'dry bulk cargo'
+ 'offshore supply ship' 'transit shelter']
+
+{"class": "Transportation Vehicle"}
+
+Concepts: ['navigation light' 'ship register' 'crew list' 'relational attribute'
+ 'transit stop' 'air traffic control procedure' 'vehicle registration'
+ 'internal attribute' 'regulatory process' 'head end car']
+
+{"class": "identification"}
+
+Concepts: ['transportation schedule' 'crew list' 'ship compartment' 'ship agent'
+ 'aid to navigation' 'ship register' 'trade embargo' 'ship hold'
+ 'regulatory process' 'managing' 'keeping' 'guiding' 'parking garage'
+ 'organizational process' 'air traffic control procedure' 'hangar bay'
+ 'single traffic lane']
+
+{"class": "organizational process"}
+
+Concepts: ['bill of lading' 'cargo manifest' 'crew list' 'flight schedule'
+ 'ship register' 'transportation schedule' 'aid to navigation'
+ 'electronic signalling' 'mass measure' 'guiding' 'cubic foot']
+
+{"class": "paper record"}
+
+Concepts: ['set' 'ship register' 'flight schedule' 'crew list' 'keeping'
+ 'relational attribute' 'commercial agent']
+
+{"class": "set"}
+
+Concepts: ['transportation system' 'crew list' 'local transit system'
+ 'common carrier' 'rail transportation system' 'container ship'
+ 'railroad company' 'standard gauge railway' 'transit route'
+ 'air traffic control procedure' 'transit terminal'
+ 'intermodal transportation' 'commercial airport' 'commercial carrier'
+ 'international airport' 'multiple track railway' 'railway junction'
+ 'train station' 'transit stop' 'transportation company'
+ 'transportation schedule' 'cargo handling' 'traffic control process']
+
+{"class": "transportation system"}
+
+Concepts: ['managing' 'organizational process' 'cargo manifest'
+ 'department of transportation' 'transportation authority'
+ 'flight schedule' 'transportation schedule' 'crew list'
+ 'intentional process' 'air route' 'intermodal transportation'
+ 'road transportation system']
+
+{"class": "planning"}
+
+Concepts: ['crew list' 'liner service' 'local transit system' 'transit stop'
+ 'flight schedule' 'transportation schedule' 'relational attribute'
+ 'organizational process' 'arriving' 'air route' 'commercial carrier'
+ 'common carrier' 'rail transportation system' 'train station']
+
+{"class": "transportation schedule"}
+
+Concepts: ['cargo container' 'freight car' 'gallery car' 'rolling stock' 'ship deck'
+ 'ship hold' 'ship hull' 'container terminal' 'cargo ship'
+ 'ore carrier ship' 'diesel fuel' 'ship berth' 'partial container ship'
+ 'truck trailer' 'offshore anchorage' 'bulk cargo' 'deck cargo'
+ 'ship compartment']
+
+{"class": "Ship"}
+
+Concepts: ['chemical tanker ship' 'ship hold' 'ship hull' 'bulkhead' 'ship hatch'
+ 'containerization' 'diesel fuel' 'canal lock gate' 'cargo container'
+ 'hangar bay' 'ship compartment']
+
+{"class": "ship component"}
+
+Concepts: ['electronic signalling' 'radar or sonar' 'signalling' 'radar'
+ 'radar facility' 'radio navigation beacon']
+
+{"class": "electromagnetic waves"}
+
+Concepts: ['electronic signalling' 'radar' 'radar or sonar'
+ 'radio navigation beacon' 'radar facility' 'signalling']
+
+{"class": "transmitter"}
+
+Concepts: ['radar facility' 'radar' 'radar or sonar' 'radio navigation beacon'
+ 'air traffic control tower']
+
+{"class": "antenna"}
+
+Concepts: ['air traffic control procedure' 'traffic control process'
+ 'air traffic control tower' 'fishing vessel' 'flight deck'
+ 'military watercraft' 'watercraft' 'radar facility'
+ 'air traffic control center' 'radar' 'research ship' 'radar or sonar']
+
+{"class": "Radar"}
+
+Concepts: ['full size van' 'sport utility vehicle' 'fishing boat' 'minivan'
+ 'ship hull' 'bulkhead' 'pier' 'road junction' 'jet engine'
+ 'volume measure']
+
+{"class": "shape"}
+
+Concepts: ['glider airplane' 'ship hatch' 'transit shelter' 'bulk cargo'
+ 'scale test car' 'cubic foot' 'ship deck' 'attaching' 'bulkhead'
+ 'canal lock gate' 'fishing boat' 'fishing vessel' 'fixed bridge'
+ 'freight car' 'gallery car' 'land vehicle' 'pier' 'portable bridge'
+ 'private railcar' 'railroad bridge' 'ship cabin' 'whaling ship'
+ 'aid to navigation' 'cable ship' 'canal' 'canal structure'
+ 'cargo container' 'coach railcar' 'deck cargo' 'fishing trawler'
+ 'flatcar' 'hangar bay' 'light fixture' 'lighter'
+ 'material handling equipment' 'navigation buoy' 'ocean liner'
+ 'passenger railway car' 'propeller airplane' 'railroad track'
+ 'railway vehicle' 'rolling stock' 'ship hull' 'train assembly'
+ 'truck trailer' 'water transportation system' 'watercraft']
+
+{"class": "transportation vehicle or structure"}
+
+Concepts: ['glider airplane' 'offshore supply ship' 'rolling stock' 'scale test car'
+ 'ship hull' 'spine car' 'fishing vessel' 'bulkhead' 'canal lock gate'
+ 'fishing boat' 'flatcar' 'freight car' 'fuel tank' 'jet airplane'
+ 'jet engine' 'military watercraft' 'propeller airplane' 'rocket engine'
+ 'ship deck' 'ship hatch' 'tank car' 'train assembly' 'vehicle wheel'
+ 'relational attribute' 'internal attribute' 'hangar bay' 'attaching']
+
+{"class": "transport"}
+
+Concepts: ['fishing boat' 'fishing vessel' 'pier' 'ship deck' 'watercraft']
+
+{"class": "deck"}
+
+Concepts: ['ship compartment' 'fishing boat' 'personal watercraft' 'ship cabin'
+ 'ocean liner' 'ship deck' 'passenger ship' 'passenger railway car'
+ 'propeller airplane' 'offshore supply ship' 'head end car'
+ 'truck tractor' 'private railcar' 'hangar bay' 'fishing trawler'
+ 'fishing vessel' 'jet airplane' 'pusher tug' 'research ship' 'spine car'
+ 'tractor trailer' 'water transportation system' 'watercraft'
+ 'general cargo ship' 'vehicle carrier ship' 'railcar carrier ship'
+ 'liner service']
+
+{"class": "watercraft"}
+
+Concepts: ['chemical tanker ship' 'tractor trailer' 'material handling equipment'
+ 'canal lock' 'canal lock gate' 'radar facility' 'crew list' 'cab car'
+ 'cable ship' 'container terminal' 'crane ship' 'deck crane'
+ 'electric device' 'fishing boat' 'fishing trawler' 'fishing vessel'
+ 'freighter' 'hoisting device' 'hopper dredger' 'multiple track railway'
+ 'navigation light' 'petroleum tanker ship' 'port crane' 'pusher tug'
+ 'rail transportation system' 'railway junction' 'ship berth'
+ 'ship berthing' 'ship hatch' 'standard gauge railway' 'traffic light'
+ 'traffic signal' 'train assembly' 'transportation system' 'tugboat'
+ 'water transportation system' 'whaling ship' 'navigation'
+ 'transportation device' 'glider airplane' 'drilling ship'
+ 'passenger ship' 'ship hold']
+
+{"class": "transportation equipment"}
+
+Concepts: ['airport classification' 'railway junction' 'road junction'
+ 'terminal building' 'single traffic lane' 'transitway' 'transit stop'
+ 'transit terminal' 'tractor trailer' 'air route' 'river port'
+ 'surfaced roadway' 'multiple track railway']
+
+{"class": "transport infrastructure"}
+
+Concepts: ['commercial airport' 'airport classification' 'terminal building'
+ 'major air carrier' 'international airport' 'train station'
+ 'transit terminal' 'flight schedule']
+
+{"class": "airport facility"}
+
+Concepts: ['jet airplane' 'military watercraft' 'truck trailer' 'crane ship'
+ 'fishing trawler' 'fishing vessel' 'flatcar' 'freighter' 'head end car'
+ 'ship deck' 'tractor trailer' 'truck tractor' 'vehicle wheel'
+ 'transit route' 'animal powered vehicle' 'fishing boat' 'portable bridge'
+ 'ship compartment' 'ship hull' 'turboprop airplane' 'watercraft'
+ 'material handling equipment' 'dangerous goods' 'coach railcar'
+ 'gallery car' 'hopper dredger' 'offshore support ship' 'outfit car'
+ 'partial container ship' 'railcar carrier ship' 'railroad bridge'
+ 'railway vehicle' 'road vehicle' 'spine car' 'train assembly'
+ 'transit stop' 'whaling ship' 'vehicle crew' 'cable ship' 'cargo ship'
+ 'chemical tanker ship' 'freight car' 'general cargo ship' 'ocean liner'
+ 'ore carrier ship' 'land vehicle' 'propeller airplane'
+ 'petroleum product pipeline' 'containerization' 'bill of lading'
+ 'cargo container' 'fish factory ship']
+
+{"class": "vehicle"}
+
+Concepts: ['fire boat' 'railroad company' 'railcar carrier ship' 'fishing vessel'
+ 'freighter' 'rolling stock' 'transit route' 'transportation device'
+ 'vehicle carrier ship' 'hopper dredger' 'ore carrier ship'
+ 'water transportation system' 'ship register' 'fish factory ship'
+ 'fishing trawler' 'liner service' 'offshore supply ship' 'cargo ship'
+ 'tank car' 'cab car' 'container ship' 'crane ship' 'deepwater port'
+ 'local transit system' 'ocean liner' 'passenger ship'
+ 'petroleum tanker ship' 'rail transportation system' 'railway vehicle'
+ 'research ship' 'air route' 'canal' 'container terminal'
+ 'international airport' 'river port' 'sea lane' 'transitway'
+ 'waterway junction' 'turbojet engine' 'merchant marine'
+ 'aid to navigation']
+
+{"class": "TransportationDevice"}
+
+Concepts: ['arriving' 'taking off' 'passenger ship' 'coach railcar' 'minivan'
+ 'gallery car' 'mode of transit' 'ocean liner' 'private railcar'
+ 'transportation schedule']
+
+{"class": "mode of transportation"}
+
+Concepts: ['arriving' 'vehicle registration']
+
+{"class": "Travel"}
+
+Concepts: ['organic object' 'arriving' 'etiologic agent' 'body motion']
+
+{"class": "physical condition"}
+
+Concepts: ['canal system' 'department of transportation'
+ 'rail transportation system' 'railway junction'
+ 'road transportation system' 'standard gauge railway'
+ 'transportation system' 'railroad track' 'fixed bridge'
+ 'multiple track railway' 'waterway junction' 'ship compartment' 'canal'
+ 'canal structure' 'transitway' 'water transportation system'
+ 'mode of transit' 'railroad bridge' 'railroad company' 'ship deck']
+
+{"class": "transportation infrastructure"}
+
+Concepts: ['watercraft' 'liner service' 'mode of transit' 'merchant marine'
+ 'passenger ship' 'offshore anchorage' 'tugboat' 'fire boat'
+ 'fishing trawler' 'fish factory ship' 'personal watercraft' 'ship hull'
+ 'offshore supply ship' 'pusher tug' 'fishing boat' 'fishing vessel'
+ 'water transportation system' 'whaling ship' 'commercial shipping'
+ 'offshore support ship' 'cable ship' 'cargo ship' 'container ship'
+ 'fire engine' 'freighter' 'general cargo ship' 'land vehicle'
+ 'military watercraft' 'ocean liner' 'ore carrier ship'
+ 'partial container ship' 'railcar carrier ship' 'transportation device'
+ 'vehicle carrier ship' 'river port']
+
+{"class": "watercraft"}
+
+Concepts: ['vehicle wheel' 'water transportation system' 'parking garage'
+ 'ship hold' 'cargo container' 'keeping' 'canal lock' 'canal lock gate'
+ 'canal system' 'ship compartment' 'canal' 'waterway junction'
+ 'canal structure' 'container ship' 'deepwater port'
+ 'partial container ship' 'river port' 'ship berth' 'lighter' 'ship hatch']
+
+{"class": "canal system"}
+
+Concepts: ['traffic light' 'fixed bridge' 'air traffic control tower'
+ 'railroad bridge' 'ship berth' 'ship deck' 'transit terminal'
+ 'canal lock gate' 'canal system' 'organic compound' 'portable bridge'
+ 'aid to navigation' 'deck crane' 'pier' 'water transportation system'
+ 'flatcar']
+
+{"class": "structure"}
+
+Concepts: ['train assembly' 'canal lock gate' 'deck crane' 'railroad bridge'
+ 'water transportation system' 'fixed bridge' 'truck trailer' 'port crane'
+ 'electric motor' 'bulkhead' 'ship deck' 'aid to navigation'
+ 'navigation buoy' 'dining car']
+
+{"class": "transportation equipment"}
+
+Concepts: ['deepwater port' 'contract carrier' 'cabotage' 'cargo handling'
+ 'commercial carrier' 'common carrier' 'ship berth'
+ 'transportation company' 'road transportation system' 'commercial agent'
+ 'offshore anchorage' 'air traffic control center'
+ 'transportation authority' 'regulatory process'
+ 'department of transportation']
+
+{"class": "Transportation Entity"}
+
+Concepts: ['flatcar' 'coach railcar' 'hangar bay' 'land vehicle' 'parking garage'
+ 'personal watercraft' 'rolling stock' 'ship hatch' 'transit shelter'
+ 'flight deck' 'attribute' 'freight car' 'ship cabin' 'transitway']
+
+{"class": "transportation facility"}
+
+Concepts: ['flatcar' 'freight car' 'land vehicle' 'rolling stock' 'spine car'
+ 'train assembly' 'truck tractor' 'head end car' 'railway vehicle'
+ 'tank car' 'truck trailer' 'passenger railway car'
+ 'animal powered vehicle' 'transportation device' 'cab car'
+ 'canal lock gate' 'cargo container' 'coach railcar'
+ 'material handling equipment' 'motor scooter' 'tractor trailer'
+ 'track gauge' 'lighter' 'deck crane' 'glider airplane' 'jet airplane'
+ 'outfit car' 'road vehicle' 'scale test car' 'vehicle wheel']
+
+{"class": "rolling stock"}
+
+Concepts: ['petroleum product' 'electric motor' 'lighter' 'transportation device'
+ 'ship cabin' 'ship compartment' 'spine car' 'motor scooter'
+ 'passenger car' 'rocket engine' 'electronic signalling'
+ 'electrified railway' 'petroleum product pipeline' 'diesel engine'
+ 'fire engine' 'light fixture' 'material handling equipment'
+ 'personal watercraft' 'railway vehicle' 'cable ship'
+ 'electrical signalling' 'electric device' 'electronic device']
+
+{"class": "electricity related concepts"}
+
+Concepts: ['railway junction' 'light fixture' 'electric device'
+ 'multiple track railway' 'dual gauge railway']
+
+{"class": "junction"}
+
+Concepts: ['passenger car' 'bulkhead' 'fire engine' 'hangar bay' 'keeping'
+ 'ship cabin' 'parking garage' 'ship agent' 'vehicle crew' 'ship register'
+ 'vehicle registration' 'regulatory process' 'transportation company'
+ 'private railcar' 'commercial agent' 'attaching' 'arriving'
+ 'bill of lading' 'crew list' 'electric device' 'electronic device'
+ 'light fixture' 'material handling equipment' 'refrigerated compartment'
+ 'electrical signalling' 'government organization']
+
+{"class": "transportation facility"}
+
+Concepts: ['scale test car' 'organizational process' 'container terminal'
+ 'fish factory ship' 'material handling equipment' 'turbojet engine'
+ 'attaching' 'train assembly' 'vehicle crew' 'cargo handling' 'flatcar'
+ 'freight car' 'jet engine' 'land vehicle' 'railway vehicle'
+ 'rolling stock' 'tank car' 'whaling ship' 'dry bulk cargo'
+ 'cargo container' 'electric device' 'hoisting device' 'petroleum product'
+ 'rocket engine' 'spine car' 'volume measure' 'bulk cargo' 'deck cargo'
+ 'commercial agent']
+
+{"class": "factory"}
+
+Concepts: ['deepwater port' 'material handling equipment' 'container terminal'
+ 'contract carrier' 'port facility' 'river port' 'cargo container'
+ 'cargo manifest' 'freight car' 'port crane' 'commercial carrier'
+ 'railroad company' 'transportation company' 'common carrier'
+ 'liner service' 'truck trailer' 'commercial agent' 'commercial shipping'
+ 'cargo handling']
+
+{"class": "Transportation Infrastructure"}
+
+Concepts: ['petroleum product' 'jet engine' 'turbojet engine']
+
+{"class": "petroleum product"}
+
+Concepts: ['diesel engine' 'electrified railway' 'diesel fuel' 'petroleum product'
+ 'jet engine' 'rolling stock' 'electric device' 'petroleum pipeline'
+ 'petroleum product pipeline' 'head end car' 'dry bulk cargo'
+ 'ore carrier ship' 'electric motor' 'railway vehicle' 'fuel tank'
+ 'turbojet engine' 'petroleum tanker ship']
+
+{"class": "Transportation Equipment"}
+
+Concepts: ['diesel fuel' 'bulk cargo' 'petroleum product' 'petroleum tanker ship'
+ 'tank car' 'petroleum product pipeline']
+
+{"class": "Refining"}
+
+Concepts: ['vehicle wheel' 'diesel fuel' 'outfit car' 'petroleum product' 'tank car'
+ 'passenger car' 'spine car' 'bulk cargo' 'full size van' 'land vehicle'
+ 'light truck' 'minivan' 'motor scooter' 'road vehicle' 'surfaced roadway'
+ 'transit shelter' 'transit stop' 'vehicle crew' 'transitway' 'fuel tank']
+
+{"class": "land vehicle"}
+
+Concepts: ['partial container ship' 'water transportation system' 'merchant marine'
+ 'ship register' 'crane ship' 'ship berth' 'cable ship' 'ship berthing'
+ 'general cargo ship' 'freighter' 'vehicle carrier ship' 'cargo ship'
+ 'container ship' 'liner service' 'ocean liner' 'ore carrier ship'
+ 'railcar carrier ship' 'chemical tanker ship' 'container terminal'
+ 'cabotage' 'fish factory ship' 'offshore supply ship' 'ship deck']
+
+{"class": "container ship"}
+
+Concepts: ['ore carrier ship']
+
+{"class": "Transport"}
+
+Concepts: ['organic compound' 'bulkhead' 'pusher tug' 'head end car' 'attaching'
+ 'tugboat' 'broad gauge railway' 'cab car' 'cable ship' 'crane ship'
+ 'deck crane' 'fixed bridge' 'freight car' 'offshore support ship'
+ 'ore carrier ship' 'organic object' 'port crane' 'ship deck'
+ 'truck tractor' 'vehicle carrier ship' 'electrical signalling']
+
+{"class": "type of tug"}
+
+Concepts: ['set or class' 'set']
+
+{"class": "set"}
+
+Concepts: ['transportation authority' 'traffic light' 'road junction'
+ 'traffic signal' 'department of transportation' 'moving violation'
+ 'traffic control process']
+
+{"class": "Traffic Regulation"}
+
+Concepts: ['multiple track railway' 'sport utility vehicle' 'truck tractor'
+ 'deck crane' 'hoisting device' 'tractor trailer' 'broad gauge railway'
+ 'liner service' 'rail transportation system' 'standard gauge railway'
+ 'general cargo ship' 'partial container ship' 'petroleum tanker ship']
+
+{"class": "heavy transportation"}
+
+Concepts: ['cubic foot' 'volume measure' 'dry bulk cargo' 'bulk cargo']
+
+{"class": "VolumeMeasure"}
+
+Concepts: ['volume measure' 'mass measure' 'containerization']
+
+{"class": "measurement"}
+
+Concepts: ['glider airplane' 'propeller airplane']
+
+{"class": "airplane"}
+
+Concepts: ['intentional process' 'etiologic agent' 'organizational process'
+ 'electrical signalling' 'head end car']
+
+{"class": "intentional process"}
+
+Concepts: ['managing' 'intentional process' 'organizational process'
+ 'regulatory process' 'scale test car']
+
+{"class": "evaluation"}
+
+Concepts: ['coach railcar' 'passenger railway car' 'railway vehicle' 'rolling stock'
+ 'train assembly' 'cab car' 'flatcar' 'freight car' 'spine car' 'tank car'
+ 'freighter' 'head end car']
+
+{"class": "rolling stock"}
+
+Concepts: ['transitway' 'cab car' 'fire engine' 'radio navigation beacon'
+ 'traffic signal' 'vehicle wheel' 'outfit car' 'passenger car'
+ 'single traffic lane' 'freighter' 'full size van' 'land vehicle'
+ 'road vehicle' 'tractor trailer' 'train assembly' 'truck tractor'
+ 'aid to navigation' 'motor scooter' 'dining car' 'gallery car'
+ 'electrified railway' 'truck trailer' 'passenger railway car']
+
+{"class": "land vehicle"}
+
+Concepts: ['crane ship' 'fire boat' 'general cargo ship' 'hopper dredger'
+ 'offshore supply ship' 'offshore support ship' 'vehicle carrier ship'
+ 'electric device' 'organizational process' 'cargo container' 'flatcar'
+ 'freight car' 'cable ship' 'deck crane' 'head end car'
+ 'partial container ship' 'tank car' 'chemical tanker ship']
+
+{"class": "specialized"}
+
+Concepts: ['department of transportation' 'government organization'
+ 'transportation authority' 'emergency road vehicle' 'emergency vehicle'
+ 'moving violation' 'traffic signal' 'ship register' 'regulatory process'
+ 'traffic light' 'transit stop' 'terminal building' 'transit terminal']
+
+{"class": "transportation authority"}
+
+Concepts: ['truck tractor' 'bulkhead' 'bulk cargo' 'mass measure' 'volume measure'
+ 'organic compound' 'organic object' 'regulatory process'
+ 'petroleum product' 'transportation schedule' 'fixed bridge' 'ship hull'
+ 'truck trailer' 'body motion']
+
+{"class": "rigid"}
+
+Concepts: ['emergency road vehicle' 'emergency vehicle' 'research ship'
+ 'passenger ship' 'offshore supply ship' 'offshore support ship'
+ 'parking garage']
+
+{"class": "vehicle"}
+
+Concepts: ['traffic signal' 'emergency vehicle' 'fire engine' 'navigation buoy'
+ 'navigation light' 'traffic light']
+
+{"class": "traffic_signal"}
+
+Concepts: ['navigation light' 'navigation buoy' 'traffic signal' 'transit stop'
+ 'aid to navigation' 'air traffic control tower' 'arriving']
+
+{"class": "AidToNavigation"}
+
+Concepts: ['ship deck' 'containerization' 'ship compartment' 'ship hold'
+ 'fire engine' 'personal watercraft' 'ship hatch' 'emergency road vehicle'
+ 'fire boat' 'pier' 'hangar bay']
+
+{"class": "vehicle"}
+
+Concepts: ['ship deck' 'ship hatch' 'ship hold' 'flight deck' 'atmospheric region'
+ 'ship cabin' 'navigation light']
+
+{"class": "TransportLocation"}
+
+Concepts: ['canal' 'canal structure' 'fixed bridge' 'land vehicle' 'ocean liner'
+ 'outfit car' 'road vehicle' 'water area' 'watercraft' 'waterway junction'
+ 'passenger ship' 'canal system' 'water transportation system' 'land area'
+ 'motor scooter' 'personal watercraft' 'propeller airplane'
+ 'railway vehicle' 'shipping channel' 'animal powered vehicle'
+ 'body motion' 'cab car' 'canal lock' 'canal lock gate' 'fishing vessel'
+ 'jet airplane' 'light truck' 'local transit system' 'mode of transit'
+ 'passenger railway car' 'pier' 'private railcar'
+ 'rail transportation system' 'railroad track'
+ 'road transportation system' 'ship deck' 'ship hull' 'surfaced roadway'
+ 'transit route' 'transportation device' 'transportation system'
+ 'ship berth' 'air route' 'passenger car' 'transportation schedule'
+ 'flight schedule' 'transitway' 'glider airplane' 'standard gauge railway']
+
+{"class": "transportation"}
+
+Concepts: ['water transportation system' 'canal lock' 'fire boat'
+ 'transportation device' 'watercraft' 'military watercraft'
+ 'personal watercraft' 'propeller airplane' 'fishing boat'
+ 'fishing vessel' 'crane ship' 'canal lock gate']
+
+{"class": "transportation device"}
+
+Concepts: ['whaling ship' 'ship hull' 'bulkhead' 'partial container ship'
+ 'military watercraft' 'pusher tug' 'cable ship' 'chemical tanker ship'
+ 'general cargo ship' 'petroleum tanker ship' 'fishing vessel'
+ 'ore carrier ship' 'personal watercraft' 'ship hatch' 'cargo ship'
+ 'container ship' 'crane ship' 'fishing trawler' 'freighter'
+ 'offshore supply ship' 'railcar carrier ship' 'vehicle carrier ship'
+ 'water transportation system' 'watercraft' 'ship cabin'
+ 'ship compartment' 'ship hold']
+
+{"class": "watercraft"}
+
+Concepts: ['navigation light' 'ship deck' 'whaling ship' 'watercraft'
+ 'military watercraft' 'general cargo ship']
+
+{"class": "watercraft"}
+
+Concepts: ['ship hull' 'glider airplane' 'vehicle wheel' 'watercraft' 'ship deck']
+
+{"class": "vehicle part"}
+
+Concepts: ['emergency road vehicle' 'fire boat' 'fire engine' 'emergency vehicle'
+ 'ship hatch']
+
+{"class": "vehicle"}
+
+Concepts: ['fire boat' 'fire engine' 'offshore support ship'
+ 'emergency road vehicle' 'emergency vehicle' 'fishing vessel'
+ 'transportation device' 'watercraft' 'military watercraft'
+ 'offshore supply ship' 'hoisting device' 'tugboat' 'pusher tug'
+ 'aid to navigation']
+
+{"class": "emergency vehicle"}
+
+Concepts: ['emergency vehicle' 'emergency road vehicle' 'fire boat' 'fire engine'
+ 'offshore supply ship']
+
+{"class": "vehicle"}
+
+Concepts: ['transit stop' 'glider airplane' 'taking off' 'flight deck'
+ 'rocket engine' 'train station']
+
+{"class": "Flight"}
+
+Concepts: ['taking off' 'signalling' 'keeping' 'pusher tug']
+
+{"class": "AerialTransportation"}
+
+Concepts: ['navigation']
+
+{"class": "means_of_transport"}
+
+Concepts: ['transportation device' 'watercraft' 'drilling ship' 'navigation'
+ 'research ship' 'ship hull' 'taking off' 'whaling ship' 'guiding'
+ 'arriving' 'crane ship']
+
+{"class": "Watercraft"}
+
+Concepts: ['train station' 'full size van' 'minivan']
+
+{"class": "vehicle"}
+
+Concepts: ['minivan' 'full size van' 'sport utility vehicle' 'major air carrier'
+ 'guiding']
+
+{"class": "vehicle"}
+
+Concepts: ['minivan']
+
+{"class": "vehicle"}
+
+Concepts: ['dual gauge railway' 'ship cabin' 'ship compartment' 'flatcar'
+ 'transit shelter' 'multiple track railway' 'railroad track'
+ 'light fixture' 'light truck' 'motor scooter' 'passenger railway car']
+
+{"class": "Railway"}
+
+Concepts: ['volume measure' 'minivan' 'outfit car' 'personal watercraft'
+ 'cable ship' 'chemical tanker ship' 'gallery car' 'head end car'
+ 'offshore supply ship' 'offshore support ship' 'partial container ship'
+ 'private railcar' 'research ship' 'ship hold' 'vehicle carrier ship'
+ 'navigation light' 'canal lock gate' 'portable bridge' 'rocket engine'
+ 'ship berth' 'railcar carrier ship' 'coach railcar' 'container ship'
+ 'crane ship' 'light fixture' 'drilling ship' 'bulkhead' 'ship hatch'
+ 'scale test car' 'road junction' 'fire boat']
+
+{"class": "ship"}
+
+Concepts: ['deck crane' 'offshore supply ship' 'offshore support ship' 'crane ship']
+
+{"class": "Offshore_Vessel"}
+
+Concepts: ['turbojet engine' 'jet engine' 'vehicle wheel' 'navigation light'
+ 'signalling' 'crew list']
+
+{"class": "aircraft component"}
+
+Concepts: ['vehicle wheel' 'land vehicle' 'motor scooter' 'road vehicle'
+ 'tractor trailer' 'personal watercraft' 'truck trailer'
+ 'road transportation system' 'passenger car' 'truck tractor']
+
+{"class": "vehicle"}
+
+Concepts: ['vehicle wheel']
+
+{"class": "wheel component"}
+
+Concepts: ['major air carrier']
+
+{"class": "aircraft"}
+
+Concepts: ['air route' 'cabotage' 'commercial airport' 'intermodal transportation'
+ 'sea lane' 'shipping lane' 'jet airplane' 'mode of transit'
+ 'relational attribute' 'airport classification' 'government organization'
+ 'major air carrier' 'terminal building' 'transportation authority']
+
+{"class": "mode of transit"}
+
+Concepts: ['coach railcar' 'gallery car' 'aid to navigation' 'flight schedule'
+ 'private railcar' 'arriving' 'ship cabin' 'air route' 'cab car'
+ 'mode of transit' 'ship deck' 'transportation device' 'watercraft'
+ 'animal powered vehicle' 'jet airplane' 'liner service' 'navigation'
+ 'ocean liner' 'passenger railway car' 'passenger ship' 'spine car'
+ 'transitway' 'transportation schedule' 'transit stop']
+
+{"class": "transportation device"}
+
+Concepts: ['deepwater port' 'container terminal' 'port facility' 'cabotage'
+ 'fish factory ship' 'commercial agent' 'cargo ship' 'freighter'
+ 'port crane' 'bulk cargo' 'bill of lading' 'river port' 'deck cargo'
+ 'cargo handling']
+
+{"class": "Port"}
+
+Concepts: ['ship deck' 'drilling ship' 'sea lane' 'shipping channel' 'shipping lane'
+ 'water area' 'whaling ship' 'pier' 'aid to navigation' 'cable ship'
+ 'canal' 'canal structure' 'container terminal' 'crane ship'
+ 'deepwater port' 'fire boat' 'fish factory ship' 'fishing trawler'
+ 'fishing vessel' 'fixed bridge' 'hopper dredger' 'maritime blockade'
+ 'military watercraft' 'navigation buoy' 'navigation light'
+ 'offshore anchorage' 'offshore supply ship' 'offshore support ship'
+ 'ore carrier ship' 'passenger ship' 'petroleum tanker ship' 'port city'
+ 'port facility' 'radar facility' 'railroad bridge' 'research ship'
+ 'ship berthing' 'tugboat' 'water transportation system'
+ 'waterway junction' 'transitway' 'petroleum pipeline'
+ 'petroleum product pipeline' 'canal system' 'electrified railway'
+ 'international airport' 'multiple track railway' 'railcar carrier ship'
+ 'airport classification' 'river port' 'glider airplane' 'land area'
+ 'partial container ship' 'railroad track' 'general cargo ship'
+ 'radio navigation beacon' 'ship berth']
+
+{"class": "Water Transportation Infrastructure"}
+
+Concepts: ['arriving' 'bill of lading' 'canal lock' 'canal lock gate'
+ 'cargo container' 'cargo handling' 'cargo manifest' 'cargo ship'
+ 'chemical tanker ship' 'commercial carrier' 'container ship'
+ 'container terminal' 'crane ship' 'deck cargo' 'deck crane' 'fire boat'
+ 'fish factory ship' 'fishing boat' 'fishing trawler' 'fishing vessel'
+ 'freight car' 'freighter' 'general cargo ship' 'hoisting device'
+ 'hopper dredger' 'liner service' 'maritime blockade'
+ 'material handling equipment' 'military watercraft' 'navigation buoy'
+ 'navigation light' 'ocean liner' 'offshore supply ship'
+ 'offshore support ship' 'ore carrier ship' 'partial container ship'
+ 'passenger ship' 'petroleum tanker ship' 'port crane' 'port embargo'
+ 'pusher tug' 'railcar carrier ship' 'research ship' 'rolling stock'
+ 'sea lane' 'ship agent' 'ship berth' 'ship berthing' 'ship hold'
+ 'ship hull' 'shipping lane' 'tank car' 'tractor trailer' 'transit route'
+ 'transit terminal' 'transportation device' 'truck tractor'
+ 'truck trailer' 'tugboat' 'vehicle carrier ship' 'vehicle crew'
+ 'water transportation system' 'waterway junction' 'whaling ship'
+ 'port facility' 'railway junction' 'ship register' 'shipping channel'
+ 'pier' 'commercial airport' 'international airport' 'merchant marine'
+ 'deepwater port' 'port city' 'river port' 'radio navigation beacon']
+
+{"class": "Transportation Equipment"}
+
+Concepts: ['tank car' 'shipping channel' 'cargo manifest' 'air route' 'cargo ship'
+ 'container ship' 'freight car' 'freighter' 'shipping lane'
+ 'contract carrier' 'hoisting device' 'cargo container'
+ 'chemical tanker ship' 'deck cargo' 'ocean liner' 'ore carrier ship'
+ 'railcar carrier ship' 'ship hold' 'containerization' 'tractor trailer'
+ 'merchant marine' 'cubic foot' 'bill of lading' 'transportation company'
+ 'container terminal' 'petroleum product pipeline' 'vehicle carrier ship'
+ 'hopper dredger' 'general cargo ship' 'fixed bridge' 'deepwater port'
+ 'port facility' 'long ton' 'port crane' 'sea lane' 'ship register']
+
+{"class": "Shipping Infrastructure"}
+
+Concepts: ['cargo ship' 'liner service' 'hopper dredger' 'railcar carrier ship'
+ 'port crane' 'general cargo ship' 'vehicle carrier ship' 'dry bulk cargo'
+ 'deck crane' 'pusher tug' 'tugboat' 'transit terminal'
+ 'electrified railway' 'ore carrier ship' 'standard gauge railway'
+ 'fishing trawler' 'container ship' 'freighter' 'flatcar'
+ 'aid to navigation' 'canal lock gate' 'crane ship' 'fire boat'
+ 'fire engine' 'fishing boat' 'fishing vessel' 'freight car'
+ 'military watercraft' 'navigation light' 'ocean liner'
+ 'offshore supply ship' 'offshore support ship' 'partial container ship'
+ 'passenger ship' 'petroleum tanker ship' 'ship hull' 'tank car'
+ 'radio navigation beacon' 'truck trailer']
+
+{"class": "vessel"}
+
+Concepts: ['tank car' 'animal powered vehicle' 'railway vehicle' 'spine car'
+ 'train assembly' 'freight car' 'passenger railway car' 'rolling stock'
+ 'flatcar' 'full size van' 'sport utility vehicle']
+
+{"class": "railway vehicle"}
+
+Concepts: ['flatcar' 'freight car' 'head end car' 'motor scooter' 'outfit car'
+ 'passenger car' 'railway vehicle' 'road vehicle' 'rolling stock'
+ 'scale test car' 'spine car' 'tractor trailer' 'transportation device'
+ 'truck tractor' 'truck trailer' 'road transportation system'
+ 'sport utility vehicle' 'vehicle wheel' 'rail transportation system'
+ 'land vehicle' 'train assembly' 'cab car' 'coach railcar' 'minivan'
+ 'passenger railway car' 'tank car' 'hoisting device' 'traffic signal'
+ 'material handling equipment']
+
+{"class": "road vehicle"}
+
+Concepts: ['transit stop' 'transit shelter' 'arriving' 'cab car' 'coach railcar'
+ 'commercial carrier' 'dining car' 'fuel tank' 'gallery car'
+ 'head end car' 'multiple track railway' 'passenger railway car'
+ 'private railcar' 'railroad track' 'railway junction' 'railway vehicle'
+ 'rolling stock' 'spine car' 'train assembly' 'transit route'
+ 'transit terminal' 'freight car' 'tank car' 'transportation device'
+ 'transportation schedule' 'flatcar' 'deck cargo' 'train station'
+ 'standard gauge railway']
+
+{"class": "transportation stop"}
+
+Concepts: ['common carrier' 'head end car' 'cargo ship' 'container ship' 'flatcar'
+ 'freight car' 'freighter' 'general cargo ship' 'light truck'
+ 'liner service' 'rolling stock' 'spine car' 'train assembly'
+ 'truck trailer' 'ship hull' 'merchant marine' 'cab car'
+ 'contract carrier' 'animal powered vehicle' 'railcar carrier ship'
+ 'ship hold' 'ocean liner' 'partial container ship' 'railway vehicle'
+ 'cargo container' 'gallery car' 'outfit car' 'tractor trailer'
+ 'railroad bridge' 'ship compartment' 'vehicle carrier ship'
+ 'coach railcar' 'rail transportation system' 'passenger railway car']
+
+{"class": "transportation vehicle"}
+
+Concepts: ['attaching' 'electronic signalling' 'ship berthing' 'portable bridge'
+ 'signalling' 'offshore anchorage' 'containerization'
+ 'international airport' 'ship compartment' 'ship hatch'
+ 'terminal building' 'commercial airport' 'hangar bay' 'ship berth'
+ 'ship hold' 'shipping channel']
+
+{"class": "Infrastructure"}
+
+Concepts: ['navigation buoy' 'offshore anchorage' 'ship berth' 'ship berthing'
+ 'water transportation system' 'pier' 'offshore support ship'
+ 'ore carrier ship' 'petroleum tanker ship']
+
+{"class": "Water Transport Infrastructure"}
+
+Concepts: ['pier' 'ship berth' 'ship berthing' 'water transportation system'
+ 'port city' 'railroad bridge']
+
+{"class": "water transportation infrastructure"}
+
+Concepts: ['navigation buoy' 'ship berth' 'fishing vessel' 'crane ship'
+ 'drilling ship' 'ship berthing' 'offshore anchorage' 'bulkhead']
+
+{"class": "anchoring point"}
+
+Concepts: ['truck tractor' 'freight car' 'tractor trailer' 'vehicle carrier ship'
+ 'chemical tanker ship' 'fishing trawler' 'hopper dredger'
+ 'partial container ship' 'tank car' 'deepwater port' 'flatcar'
+ 'pusher tug' 'cargo container' 'rail transportation system' 'deck crane'
+ 'liner service' 'water transportation system']
+
+{"class": "vehicle"}
+
+Concepts: ['ship hull' 'cable ship' 'cargo ship' 'chemical tanker ship' 'crane ship'
+ 'fishing trawler' 'freight car' 'freighter' 'general cargo ship'
+ 'hangar bay' 'hopper dredger' 'offshore supply ship'
+ 'offshore support ship' 'railcar carrier ship' 'railroad bridge'
+ 'railroad track' 'terminal building' 'truck trailer' 'tugboat'
+ 'vehicle carrier ship' 'whaling ship' 'tank car' 'canal' 'coach railcar'
+ 'container ship' 'flatcar' 'military watercraft' 'ocean liner'
+ 'ore carrier ship' 'petroleum tanker ship' 'railway junction' 'ship hold'
+ 'spine car' 'standard gauge railway' 'rolling stock' 'vehicle wheel'
+ 'fixed bridge' 'pier']
+
+{"class": "ship"}
+
+Concepts: ['fixed bridge' 'railroad bridge' 'portable bridge' 'tugboat']
+
+{"class": "bridge"}
+
+Concepts: ['railroad bridge' 'fixed bridge' 'turboprop airplane']
+
+{"class": "bridge"}
+
+Concepts: ['container ship' 'merchant marine' 'container terminal' 'river port'
+ 'liner service' 'commercial shipping' 'contract carrier'
+ 'intermodal transportation' 'cargo handling' 'canal system' 'port city'
+ 'commercial agent' 'offshore supply ship' 'cabotage' 'commercial carrier'
+ 'common carrier' 'freighter' 'petroleum tanker ship' 'port facility'
+ 'railcar carrier ship' 'railroad company' 'registry ton' 'ship agent'
+ 'tractor trailer' 'transportation company' 'truck tractor'
+ 'truck trailer']
+
+{"class": "transportation"}
+
+Concepts: ['department of transportation' 'offshore supply ship' 'common carrier'
+ 'government organization' 'cab car' 'transportation system'
+ 'merchant marine' 'major air carrier' 'fishing vessel'
+ 'offshore support ship' 'train assembly' 'commercial agent'
+ 'container terminal' 'contract carrier' 'transportation authority'
+ 'dining car' 'commercial airport' 'international airport'
+ 'commercial carrier' 'railroad company']
+
+{"class": "TransportationProvider"}
+
+Concepts: ['broad gauge railway' 'cabotage' 'long ton' 'whaling ship'
+ 'maritime blockade' 'water transportation system' 'canal system'
+ 'port city']
+
+{"class": "transportation infrastructure"}
+
+Concepts: ['government organization' 'regulatory process' 'cabotage'
+ 'transportation schedule']
+
+{"class": "national"}
+
+Concepts: ['water area' 'aid to navigation' 'navigation buoy' 'navigation light'
+ 'offshore anchorage' 'ship berth' 'ship berthing' 'fishing vessel'
+ 'sea lane' 'shipping lane' 'waterway junction' 'pier' 'shipping channel']
+
+{"class": "aid to navigation"}
+
+Concepts: ['port city' 'navigation light' 'pier' 'sea lane' 'aid to navigation'
+ 'offshore anchorage' 'shipping lane']
+
+{"class": "aid to navigation"}
+
+Concepts: ['traffic light' 'petroleum product pipeline' 'air traffic control center'
+ 'air traffic control tower' 'offshore supply ship' 'bulkhead'
+ 'electric device' 'transit shelter' 'regulatory process'
+ 'traffic control process' 'traffic signal' 'shipping lane' 'crew list'
+ 'tank car' 'petroleum tanker ship' 'multiple track railway'
+ 'aid to navigation' 'offshore anchorage' 'single traffic lane'
+ 'track gauge' 'ship register' 'navigation buoy' 'navigation light'
+ 'ship deck' 'signalling' 'keeping' 'road junction'
+ 'rail transportation system' 'railway junction' 'international airport'
+ 'passenger railway car' 'railroad bridge' 'shipping channel'
+ 'vehicle crew' 'chemical tanker ship' 'port facility'
+ 'offshore support ship' 'sea lane']
+
+{"class": "Transportation Infrastructure"}
+
+Concepts: ['radio navigation beacon' 'navigation light' 'sea lane' 'navigation'
+ 'radar or sonar' 'navigation buoy' 'aid to navigation' 'guiding'
+ 'canal lock gate' 'vehicle crew' 'canal lock' 'crew list']
+
+{"class": "aid to navigation"}
+
+Concepts: ['scale test car' 'lighter' 'motor scooter' 'portable bridge'
+ 'major air carrier' 'flatcar' 'standard gauge railway' 'containerization']
+
+{"class": "Transportation"}
+
+Concepts: ['ore carrier ship' 'long ton' 'diesel engine' 'petroleum product'
+ 'deck crane' 'dry bulk cargo' 'hoisting device' 'portable bridge'
+ 'track gauge' 'tractor trailer' 'truck tractor' 'attaching' 'cubic foot'
+ 'light truck' 'bulkhead' 'crane ship' 'hopper dredger'
+ 'material handling equipment' 'single traffic lane' 'truck trailer'
+ 'volume measure' 'mass measure' 'canal' 'petroleum product pipeline']
+
+{"class": "construction equipment"}
+
+Concepts: ['canal' 'canal structure' 'canal system' 'canal lock' 'water area'
+ 'waterway junction' 'water transportation system' 'bulkhead'
+ 'surfaced roadway']
+
+{"class": "canal"}
+
+Concepts: ['canal' 'canal structure' 'dry bulk cargo' 'canal lock gate'
+ 'canal system' 'fixed bridge' 'paved runway' 'petroleum pipeline'
+ 'petroleum product pipeline' 'pier' 'port crane' 'railroad bridge'
+ 'railroad track' 'surfaced roadway' 'general cargo ship' 'ocean liner'
+ 'railway junction' 'road junction' 'standard gauge railway' 'bulk cargo'
+ 'hopper dredger' 'transit shelter']
+
+{"class": "structure"}
+
+Concepts: ['transit route' 'truck tractor' 'air traffic control center' 'canal'
+ 'commercial airport' 'emergency road vehicle' 'fixed bridge'
+ 'international airport' 'land vehicle' 'light truck' 'moving violation'
+ 'multiple track railway' 'railroad bridge' 'railroad track'
+ 'railway junction' 'road junction' 'road vehicle' 'single traffic lane'
+ 'surfaced roadway' 'train station' 'transit stop' 'transitway'
+ 'unpaved runway' 'animal powered vehicle' 'transit terminal' 'land area'
+ 'local transit system' 'airport classification' 'canal structure'
+ 'canal system' 'waterway junction' 'petroleum pipeline'
+ 'petroleum product pipeline' 'broad gauge railway' 'dual gauge railway'
+ 'electrified railway' 'emergency vehicle' 'road transportation system'
+ 'standard gauge railway' 'rail transportation system'
+ 'water transportation system' 'hangar bay' 'spine car']
+
+{"class": "land vehicle"}
+
+Concepts: ['offshore anchorage' 'petroleum pipeline' 'petroleum tanker ship'
+ 'fuel tank' 'lighter' 'parking garage' 'refrigerated compartment'
+ 'ship deck' 'ship hold' 'single traffic lane' 'animal powered vehicle'
+ 'chemical tanker ship' 'tank car' 'electric device' 'terminal building'
+ 'diesel engine' 'canal' 'canal structure' 'canal system'
+ 'cargo container' 'jet engine' 'local transit system'
+ 'personal watercraft' 'petroleum product pipeline' 'railroad bridge'
+ 'railroad track' 'railway junction' 'ship berth' 'standard gauge railway'
+ 'surfaced roadway' 'transit shelter' 'transitway'
+ 'water transportation system' 'waterway junction']
+
+{"class": "Transportation Infrastructure"}
+
+Concepts: ['ship berth' 'ship compartment' 'material handling equipment'
+ 'petroleum pipeline' 'petroleum product pipeline' 'canal'
+ 'canal lock gate' 'canal system' 'cargo container'
+ 'multiple track railway' 'offshore anchorage'
+ 'rail transportation system' 'railroad bridge' 'railroad track'
+ 'railway junction' 'river port' 'road transportation system'
+ 'ship berthing' 'ship hatch' 'ship hold' 'surfaced roadway'
+ 'traffic signal' 'train assembly' 'transitway' 'transportation system'
+ 'water transportation system' 'waterway junction' 'vehicle crew'
+ 'transit shelter' 'fixed bridge' 'navigation buoy' 'vehicle wheel'
+ 'hangar bay' 'radar facility' 'refrigerated compartment'
+ 'hoisting device' 'canal structure' 'parking garage' 'ship deck'
+ 'flight deck' 'standard gauge railway' 'unpaved runway' 'jet engine'
+ 'freight car' 'rolling stock' 'ship hull' 'truck trailer'
+ 'local transit system']
+
+{"class": "Infrastructure"}
+
+Concepts: ['cable ship']
+
+{"class": "cable maintenance"}
+
+Concepts: ['common carrier' 'major air carrier' 'cable ship']
+
+{"class": "telecommunications company"}
+
+Concepts: ['air route' 'cab car' 'cargo ship' 'crane ship' 'freighter'
+ 'intermodal transportation' 'liner service' 'local transit system'
+ 'mode of transit' 'ocean liner' 'offshore supply ship' 'ore carrier ship'
+ 'passenger ship' 'petroleum tanker ship' 'pusher tug'
+ 'rail transportation system' 'railway vehicle' 'research ship'
+ 'road transportation system' 'spine car' 'transit route'
+ 'transportation schedule' 'transportation system'
+ 'water transportation system' 'cable ship' 'drilling ship'
+ 'petroleum pipeline' 'department of transportation' 'ship register'
+ 'turboprop airplane' 'whaling ship' 'transportation authority'
+ 'offshore support ship' 'transportation company']
+
+{"class": "transportation system"}
+
+Concepts: ['transit shelter' 'transit stop' 'gallery car' 'passenger railway car'
+ 'pier']
+
+{"class": "Infrastructure"}
+
+Concepts: ['parking garage' 'transit shelter' 'gallery car' 'light fixture'
+ 'emergency road vehicle' 'emergency vehicle' 'fire engine' 'hangar bay'
+ 'head end car' 'motor scooter' 'offshore anchorage' 'paved runway' 'pier'
+ 'sea lane' 'ship berth' 'ship compartment' 'shipping channel'
+ 'shipping lane' 'traffic signal' 'truck trailer' 'navigation buoy'
+ 'navigation light' 'single traffic lane' 'fixed bridge'
+ 'passenger railway car' 'ship hold' 'transit stop' 'traffic light'
+ 'electric device' 'terminal building']
+
+{"class": "Transportation Infrastructure"}
+
+Concepts: ['ship hold' 'ship cabin' 'fuel tank' 'hangar bay' 'dining car'
+ 'ship hatch' 'navigation light' 'ship deck' 'bulkhead' 'deck crane'
+ 'refrigerated compartment' 'radio navigation beacon']
+
+{"class": "ship"}
+
+Concepts: ['hangar bay' 'radio navigation beacon']
+
+{"class": "hangar"}
+
+Concepts: ['fire engine' 'single traffic lane' 'emergency road vehicle'
+ 'emergency vehicle' 'road transportation system']
+
+{"class": "emergency vehicle"}
+
+Concepts: ['offshore support ship' 'fire boat' 'emergency vehicle' 'hoisting device'
+ 'fire engine' 'tugboat' 'pusher tug' 'emergency road vehicle'
+ 'offshore supply ship']
+
+{"class": "vessel"}
+
+Concepts: ['emergency vehicle' 'fire engine' 'emergency road vehicle'
+ 'parking garage' 'paved runway']
+
+{"class": "emergency site"}
+
+Concepts: ['fishing trawler' 'fish factory ship' 'fishing vessel' 'fishing boat']
+
+{"class": "Fishing_Vessel"}
+
+Concepts: ['regulatory process' 'rocket engine' 'radar' 'fishing boat'
+ 'glider airplane' 'offshore support ship' 'airport classification'
+ 'fishing vessel' 'scale test car' 'ship register' 'drilling ship'
+ 'hangar bay' 'research ship' 'fish factory ship' 'fishing trawler'
+ 'ship hull' 'whaling ship' 'department of transportation' 'jet airplane'
+ 'transportation device' 'navigation']
+
+{"class": "transportation"}
+
+Concepts: ['offshore support ship' 'cargo ship' 'chemical tanker ship'
+ 'fishing boat' 'fishing trawler' 'fishing vessel' 'freighter'
+ 'ore carrier ship' 'petroleum tanker ship' 'port crane' 'pusher tug'
+ 'tugboat' 'passenger ship' 'general cargo ship' 'ocean liner'
+ 'whaling ship' 'ship cabin' 'drilling ship' 'military watercraft'
+ 'vehicle carrier ship']
+
+{"class": "vessel"}
+
+Concepts: ['coach railcar' 'transit shelter' 'fishing boat' 'fishing vessel'
+ 'gallery car' 'hangar bay' 'light fixture' 'outfit car' 'parking garage'
+ 'passenger railway car' 'refrigerated compartment' 'research ship'
+ 'ship cabin' 'terminal building' 'bulkhead' 'electric device'
+ 'railroad bridge' 'ship hull' 'turboprop airplane' 'full size van'
+ 'light truck' 'rocket engine' 'fire boat' 'motor scooter' 'ocean liner'
+ 'personal watercraft' 'petroleum tanker ship' 'attaching' 'cab car'
+ 'glider airplane' 'head end car' 'land vehicle' 'minivan' 'spine car']
+
+{"class": "vehicle"}
+
+Concepts: ['taking off' 'hangar bay' 'rocket engine' 'glider airplane']
+
+{"class": "Transport"}
+
+Concepts: ['turbojet engine' 'rocket engine' 'jet engine']
+
+{"class": "engine nozzle"}
+
+Concepts: ['research ship' 'rocket engine' 'turbojet engine' 'bulkhead'
+ 'radio navigation beacon' 'taking off' 'aid to navigation' 'hangar bay'
+ 'jet airplane' 'jet engine' 'offshore support ship' 'navigation'
+ 'atmospheric region' 'crew list']
+
+{"class": "Aerospace"}
+
+Concepts: ['atmospheric region' 'refrigerated compartment' 'water area' 'ship hold'
+ 'fish factory ship' 'land area' 'keeping']
+
+{"class": "cool"}
+
+Concepts: ['keeping' 'refrigerated compartment' 'animal powered vehicle'
+ 'cargo container']
+
+{"class": "Vehicle"}
+
+Concepts: ['attaching']
+
+{"class": "attaching"}
+
+Concepts: ['deck crane' 'port facility' 'hangar bay' 'offshore supply ship'
+ 'ship berth' 'road transportation system' 'crane ship' 'attaching'
+ 'ship berthing' 'offshore support ship' 'vehicle crew' 'ship hatch'
+ 'fixed bridge' 'railroad bridge' 'cable ship' 'keeping' 'ship agent']
+
+{"class": "Infrastructure"}
+
+Concepts: ['broad gauge railway' 'head end car' 'attaching']
+
+{"class": "railway"}
+
+Concepts: ['rocket engine' 'rail transportation system' 'propeller airplane'
+ 'standard gauge railway' 'ocean liner' 'containerization'
+ 'turbojet engine' 'animal powered vehicle' 'canal system'
+ 'merchant marine' 'electrified railway' 'broad gauge railway'
+ 'multiple track railway' 'railroad track' 'dual gauge railway']
+
+{"class": "Transportation Technology"}
+
+Concepts: ['research ship']
+
+{"class": "research_ship"}
+
+Concepts: ['sea lane' 'fishing trawler' 'fish factory ship' 'water area'
+ 'research ship']
+
+{"class": "marine vessel"}
+
+Concepts: ['petroleum tanker ship' 'tugboat' 'fishing trawler'
+ 'vehicle carrier ship' 'ship berthing' 'freighter' 'ocean liner'
+ 'offshore supply ship' 'cable ship' 'deepwater port'
+ 'personal watercraft' 'general cargo ship' 'crane ship'
+ 'military watercraft' 'ship hull' 'ship register' 'hopper dredger'
+ 'pusher tug' 'research ship' 'merchant marine' 'partial container ship'
+ 'container ship' 'offshore support ship' 'fire boat' 'offshore anchorage'
+ 'fishing boat']
+
+{"class": "marine vessel"}
+
+Concepts: ['hopper dredger' 'drilling ship' 'ore carrier ship' 'pusher tug'
+ 'tugboat']
+
+{"class": "type of dredger"}
+
+Concepts: ['hopper dredger' 'drilling ship']
+
+{"class": "Dredging"}
+
+Concepts: ['hopper dredger' 'tugboat' 'canal lock' 'pusher tug' 'waterway junction']
+
+{"class": "WaterwayInfrastructure"}
+
+Concepts: ['ship hold' 'chemical tanker ship' 'petroleum pipeline' 'canal lock'
+ 'canal lock gate' 'petroleum tanker ship' 'tank car'
+ 'water transportation system' 'petroleum product pipeline' 'fire engine'
+ 'hopper dredger' 'drilling ship' 'electric motor' 'fuel tank'
+ 'rocket engine' 'fire boat' 'offshore support ship']
+
+{"class": "Transportation Equipment"}
+
+Concepts: ['ship register' 'vehicle registration' 'crew list' 'legal charge'
+ 'bill of lading' 'cargo manifest']
+
+{"class": "document"}
+
+Concepts: ['bulkhead' 'cab car' 'fishing boat' 'pier' 'railroad bridge'
+ 'railroad track' 'road junction' 'ship deck' 'ship hull' 'spine car'
+ 'surfaced roadway' 'vehicle wheel' 'navigation buoy' 'outfit car'
+ 'water area' 'rolling stock' 'canal structure' 'electric device'
+ 'electronic device' 'jet airplane' 'light fixture' 'paved runway'
+ 'ship hatch' 'canal' 'petroleum tanker ship' 'container ship' 'sea lane']
+
+{"class": "Transport Infrastructure"}
+
+Concepts: ['transit shelter' 'ship hold' 'liner service' 'paved runway'
+ 'rolling stock' 'ship hull' 'unpaved runway' 'aid to navigation'
+ 'canal lock gate' 'fixed bridge' 'fuel tank' 'navigation buoy'
+ 'offshore anchorage' 'petroleum product pipeline' 'port crane'
+ 'railroad bridge' 'railroad track' 'traffic signal' 'hangar bay'
+ 'crew list' 'road junction' 'surfaced roadway'
+ 'water transportation system' 'ship compartment' 'jet engine' 'sea lane'
+ 'ship deck']
+
+{"class": "Infrastructure"}
+
+Concepts: ['animal powered vehicle']
+
+{"class": "animal powered vehicle"}
+
+Concepts: ['animal powered vehicle' 'vehicle wheel' 'material handling equipment'
+ 'passenger railway car' 'body motion' 'motor scooter' 'major air carrier'
+ 'truck tractor' 'transit terminal']
+
+{"class": "vehicle wheel"}
+
+Concepts: ['dry bulk cargo' 'etiologic agent']
+
+{"class": "EtiologicAgent"}
+
+Concepts: ['dangerous goods' 'etiologic agent' 'port embargo']
+
+{"class": "safety measures"}
+
+Concepts: ['track gauge' 'air traffic control procedure' 'air route']
+
+{"class": "railway infrastructure feature"}
+
+Concepts: ['pier' 'railway junction' 'standard gauge railway' 'track gauge'
+ 'gallery car' 'rail transportation system' 'railway vehicle' 'spine car'
+ 'transit route' 'air route' 'cab car' 'multiple track railway'
+ 'rolling stock' 'train assembly' 'port city' 'dual gauge railway'
+ 'railroad track' 'canal system' 'canal' 'transit stop' 'dining car'
+ 'local transit system' 'railroad company' 'major air carrier']
+
+{"class": "railway"}
+
+Concepts: ['registry ton' 'cabotage' 'containerization']
+
+{"class": "transportation"}
+
+Concepts: ['radar or sonar' 'long ton' 'registry ton' 'shipping lane' 'cabotage'
+ 'ship register' 'cargo container' 'hoisting device' 'navigation light'
+ 'pusher tug' 'radio navigation beacon' 'liner service']
+
+{"class": "maritime"}
+
+Concepts: ['organic object' 'aid to navigation' 'body motion' 'navigation'
+ 'radar or sonar' 'taking off' 'transportation device' 'bill of lading'
+ 'cabotage' 'common carrier' 'contract carrier' 'electronic signalling'
+ 'signalling' 'cargo container' 'commercial shipping' 'cargo handling'
+ 'commercial carrier' 'intermodal transportation' 'liner service'
+ 'transportation schedule' 'transportation system' 'atmospheric region'
+ 'fire boat' 'freighter' 'mode of transit' 'transit terminal'
+ 'transportation company' 'air route' 'electrical signalling']
+
+{"class": "transportation device"}
+
+Concepts: ['navigation' 'ship berth' 'transportation device' 'land area'
+ 'bill of lading' 'cabotage' 'common carrier' 'contract carrier'
+ 'waterway junction' 'aid to navigation' 'transportation schedule'
+ 'cargo handling' 'commercial carrier' 'commercial shipping'
+ 'container terminal' 'freighter' 'intermodal transportation'
+ 'liner service' 'mode of transit' 'navigation light' 'transit terminal'
+ 'transportation company' 'airport classification' 'canal'
+ 'commercial airport' 'deck crane' 'fixed bridge' 'multiple track railway'
+ 'petroleum pipeline' 'petroleum product pipeline' 'radar facility'
+ 'radio navigation beacon' 'railroad bridge' 'railroad track'
+ 'railway junction' 'water area']
+
+{"class": "transportation infrastructure"}
+
+Concepts: ['ocean liner' 'major air carrier' 'air route' 'electrified railway'
+ 'passenger ship' 'rail transportation system' 'commercial shipping'
+ 'intermodal transportation' 'transportation company' 'cargo ship'
+ 'commercial carrier' 'container ship' 'vehicle carrier ship'
+ 'liner service' 'airport classification' 'mode of transit'
+ 'ore carrier ship' 'railcar carrier ship' 'transportation system']
+
+{"class": "mode of transit"}
+
+Concepts: ['trade embargo' 'port embargo' 'cabotage' 'commercial shipping'
+ 'deck cargo' 'port city' 'river port' 'transportation company']
+
+{"class": "Transportation"}
+
+Concepts: ['head end car' 'spine car' 'outfit car' 'passenger car' 'full size van'
+ 'minivan' 'cab car' 'dining car' 'land vehicle' 'mode of transit'
+ 'railway vehicle' 'road vehicle' 'rolling stock' 'transportation device'
+ 'vehicle registration' 'freight car' 'scale test car' 'deck cargo'
+ 'sport utility vehicle']
+
+{"class": "road vehicle"}
+
+Concepts: ['tractor trailer' 'commercial carrier' 'moving violation'
+ 'road transportation system' 'transportation system' 'truck tractor'
+ 'fire engine' 'light truck' 'intermodal transportation' 'port crane'
+ 'vehicle crew' 'sport utility vehicle' 'head end car' 'outfit car'
+ 'truck trailer' 'land vehicle' 'road vehicle' 'contract carrier'
+ 'passenger car' 'transportation company' 'transportation device'
+ 'vehicle registration']
+
+{"class": "land vehicle"}
+
+Concepts: ['ship register' 'bill of lading' 'ship agent' 'cargo manifest'
+ 'deck cargo']
+
+{"class": "MaritimeDocuments"}
+
+Concepts: ['government organization' 'common carrier' 'navigation light' 'cabotage'
+ 'transportation authority']
+
+{"class": "government organization"}
+
+Concepts: ['deepwater port' 'port city' 'government organization'
+ 'local transit system' 'department of transportation' 'railroad company'
+ 'river port']
+
+{"class": "transportation infrastructure"}
+
+Concepts: ['regulatory process' 'government organization' 'port embargo'
+ 'trade embargo']
+
+{"class": "regulatory process"}
+
+Concepts: ['cargo manifest' 'relational attribute' 'bill of lading'
+ 'internal attribute']
+
+{"class": "attribute"}
+
+Concepts: ['bill of lading' 'cargo manifest']
+
+{"class": "transport document"}
+
+Concepts: ['cargo manifest' 'bill of lading' 'ship register']
+
+{"class": "bill of lading"}
+
+Concepts: ['gallery car' 'intermodal transportation' 'cargo manifest'
+ 'petroleum pipeline' 'transitway' 'cargo handling' 'bill of lading'
+ 'dangerous goods' 'turboprop airplane' 'electrified railway'
+ 'train assembly' 'standard gauge railway' 'container terminal']
+
+{"class": "transportation"}
+
+Concepts: ['air route' 'bill of lading' 'cargo handling' 'cargo manifest'
+ 'commercial shipping' 'container terminal' 'crew list' 'deck cargo'
+ 'flatcar' 'general cargo ship' 'liner service'
+ 'material handling equipment' 'rail transportation system'
+ 'railroad company' 'tractor trailer' 'transportation company'
+ 'transportation system' 'truck tractor' 'truck trailer' 'bulk cargo'
+ 'intermodal transportation' 'commercial agent' 'containerization'
+ 'common carrier' 'offshore supply ship' 'port facility'
+ 'road transportation system' 'ship agent' 'train assembly' 'vehicle crew'
+ 'river port' 'merchant marine' 'contract carrier' 'offshore support ship'
+ 'commercial carrier' 'port city' 'registry ton' 'container ship'
+ 'hoisting device' 'partial container ship']
+
+{"class": "transportation"}
+
+Concepts: ['local transit system' 'air route' 'transit route'
+ 'department of transportation' 'land area' 'moving violation'
+ 'transportation system' 'maritime blockade' 'port embargo'
+ 'air traffic control center' 'canal' 'canal structure' 'canal system'
+ 'commercial airport' 'container terminal' 'international airport'
+ 'multiple track railway' 'port facility' 'railroad company' 'water area'
+ 'waterway junction' 'major air carrier']
+
+{"class": "transportation infrastructure"}
+
+Concepts: ['long ton' 'registry ton' 'standard gauge railway' 'military watercraft']
+
+{"class": "Railway"}
+
+Concepts: ['dangerous goods' 'petroleum product' 'drilling ship'
+ 'petroleum pipeline' 'petroleum product pipeline' 'organic compound'
+ 'atmospheric region' 'bulk cargo' 'volume measure' 'rocket engine'
+ 'mass measure' 'lighter']
+
+{"class": "petroleum product"}
+
+Concepts: ['deck cargo' 'bulk cargo' 'dry bulk cargo']
+
+{"class": "vessel"}
+
+Concepts: ['head end car' 'tugboat' 'arriving' 'cab car' 'pusher tug'
+ 'railway vehicle' 'rolling stock' 'truck tractor'
+ 'animal powered vehicle']
+
+{"class": "Vehicle"}
+
+Concepts: ['truck trailer' 'pusher tug' 'light truck' 'personal watercraft'
+ 'fishing vessel' 'sport utility vehicle' 'truck tractor' 'tugboat'
+ 'emergency road vehicle' 'offshore support ship' 'crane ship'
+ 'ship berthing']
+
+{"class": "Vehicle"}
+
+Concepts: ['ocean liner' 'propeller airplane' 'turboprop airplane' 'cable ship'
+ 'chemical tanker ship' 'container ship' 'hopper dredger'
+ 'offshore supply ship' 'ore carrier ship' 'petroleum tanker ship'
+ 'railcar carrier ship' 'vehicle carrier ship' 'fishing boat' 'cargo ship'
+ 'general cargo ship' 'military watercraft' 'train assembly' 'tugboat'
+ 'personal watercraft' 'crane ship' 'whaling ship' 'full size van'
+ 'offshore support ship' 'passenger car' 'railway vehicle' 'road vehicle'
+ 'jet airplane' 'pusher tug']
+
+{"class": "watercraft"}
+
+Concepts: ['cable ship' 'canal lock' 'crane ship' 'general cargo ship'
+ 'hopper dredger' 'offshore supply ship' 'ore carrier ship'
+ 'radio navigation beacon' 'railcar carrier ship' 'research ship'
+ 'sea lane' 'whaling ship' 'shipping channel' 'maritime blockade'
+ 'shipping lane' 'drilling ship' 'navigation' 'cabotage' 'ship deck'
+ 'aid to navigation' 'canal' 'cargo ship' 'chemical tanker ship'
+ 'container ship' 'deepwater port' 'fish factory ship' 'fishing boat'
+ 'fishing trawler' 'fishing vessel' 'fixed bridge' 'freighter'
+ 'liner service' 'military watercraft' 'navigation buoy' 'ocean liner'
+ 'offshore anchorage' 'offshore support ship' 'organic object'
+ 'partial container ship' 'passenger ship' 'personal watercraft'
+ 'petroleum pipeline' 'petroleum tanker ship' 'pier' 'port city'
+ 'port facility' 'pusher tug' 'railroad bridge' 'ship hold' 'ship hull'
+ 'tugboat' 'vehicle carrier ship' 'water area'
+ 'water transportation system' 'watercraft' 'waterway junction'
+ 'navigation light' 'deck crane' 'canal system' 'long ton' 'registry ton'
+ 'container terminal' 'radar facility' 'ship berthing'
+ 'transportation device' 'petroleum product pipeline' 'fuel tank']
+
+{"class": "ship"}
+
+Concepts: ['partial container ship' 'scale test car' 'vehicle wheel' 'ocean liner'
+ 'fish factory ship' 'fishing trawler' 'traffic light' 'bulkhead'
+ 'cargo container' 'hangar bay' 'portable bridge' 'private railcar'
+ 'ship berth' 'ship hatch' 'ship hull' 'truck trailer' 'canal lock gate'
+ 'light fixture' 'refrigerated compartment' 'cab car' 'outfit car'
+ 'passenger car' 'cubic foot' 'electric device' 'lighter' 'motor scooter'
+ 'tugboat' 'coach railcar' 'freight car' 'passenger railway car'
+ 'rolling stock' 'full size van' 'airport classification'
+ 'commercial carrier' 'major air carrier' 'railroad company'
+ 'transportation company' 'minivan' 'sport utility vehicle'
+ 'electronic device' 'material handling equipment']
+
+{"class": "Transportation Vehicle"}
+
+Concepts: ['cargo container' 'ship compartment' 'ship hold' 'jet engine'
+ 'turbojet engine' 'hangar bay' 'parking garage' 'ship hatch' 'fuel tank'
+ 'freight car' 'truck trailer' 'refrigerated compartment'
+ 'chemical tanker ship']
+
+{"class": "transport vehicle compartment"}
+
+Concepts: ['general cargo ship' 'ship hold' 'deck cargo' 'partial container ship'
+ 'commercial shipping' 'cargo container']
+
+{"class": "ship"}
+
+Concepts: ['unpaved runway' 'surfaced roadway' 'organic object']
+
+{"class": "unpaved terrain"}
+
+Concepts: ['guiding' 'organic object' 'unpaved runway']
+
+{"class": "soft runway"}
+
+Concepts: ['ocean liner' 'offshore support ship' 'private railcar' 'passenger ship'
+ 'commercial airport' 'offshore supply ship' 'ship cabin']
+
+{"class": "ship"}
+
+Concepts: ['airport classification' 'transit stop' 'fish factory ship'
+ 'local transit system' 'railroad company' 'offshore supply ship'
+ 'ore carrier ship' 'electrified railway' 'ocean liner'
+ 'railcar carrier ship' 'spine car' 'vehicle carrier ship'
+ 'general cargo ship' 'passenger ship' 'cab car' 'liner service'
+ 'major air carrier' 'parking garage']
+
+{"class": "transportation facility"}
