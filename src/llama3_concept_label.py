@@ -133,8 +133,8 @@ with open(file_name, "w") as out_file:
 
         elif prompt_type == "property_prompt":
 
-            property_list = concept_cluster_labels[
-                concept_cluster_labels["cluster_label"] == cl_label
+            property_list = concept_facet_property_df[
+                concept_facet_property_df["cluster_label"] == cl_label
             ]["property"].unique()
 
             property_list = ", ".join([prop.strip() for prop in property_list])
