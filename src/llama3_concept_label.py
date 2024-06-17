@@ -141,7 +141,7 @@ with open(file_name, "w") as out_file:
 
             num_clustered_properties = len(property_list)
 
-            prop_prompt = llama3_8B_concepts_common_label_prompt.replace(
+            prop_prompt = llama3_8B_concepts_common_label_property_prompt.replace(
                 "<PROPERTY_LIST>", str(property_list)
             )
 
