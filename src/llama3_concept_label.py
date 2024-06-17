@@ -140,6 +140,7 @@ with open(file_name, "w") as out_file:
             concept_list = cluster_df["concept"].unique()
             property_list = cluster_df["property"].unique()
 
+            concept_list = ", ".join([con.strip() for con in concept_list])
             property_list = ", ".join([prop.strip() for prop in property_list])
 
             num_clustered_properties = len(property_list)
