@@ -133,9 +133,12 @@ with open(file_name, "w") as out_file:
 
         elif prompt_type == "property_prompt":
 
-            property_list = concept_facet_property_df[
+            cluster_df = concept_facet_property_df[
                 concept_facet_property_df["cluster_label"] == cl_label
-            ]["property"].unique()
+            ]
+
+            concept_list = cluster_df["concept"].unique()
+            property_list = cluster_df["property"].unique()
 
             property_list = ", ".join([prop.strip() for prop in property_list])
 
@@ -186,9 +189,11 @@ with open(file_name, "w") as out_file:
 
         for seq in sequences:
 
+            print(f"\nConcepts: {str(concept_list)}")
             print(f"\nProperties: {str(property_list)}")
             print(f"{seq['generated_text']}\n")
 
+            out_file.write(f"\nConcepts: {str(concept_list)}")
             out_file.write(f"\nProperties: {str(property_list)}")
             out_file.write(f'{seq["generated_text"]}\n')
             out_file.flush()
