@@ -1,5 +1,6 @@
 import gc
 import os
+import time
 
 import torch
 import transformers
@@ -10,10 +11,13 @@ from transformers import (
     pipeline,
 )
 
+start_time = time.time()
+
 base_model = "meta-llama/Meta-Llama-3-8B-Instruct"
 inp_file = "data/ontology_concepts/transport_vocab.txt"
 
 wine_ontology_file = "data/ontology_concepts/wine/wine_vocab.txt"
+olympics_ontology_file = "data/ontology_concepts/olympics/olympics_vocab.txt"
 
 # Quantization configuration
 bnb_config = BitsAndBytesConfig(
@@ -41,8 +45,7 @@ pipeline = transformers.pipeline(
     "text-generation", model=model, device_map="auto", tokenizer=tokenizer
 )
 
-
-with open(wine_ontology_file, "r") as inp_file:
+with open(olympics_ontology_file, "r") as inp_file:
     concepts = inp_file.readlines()
 concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 
@@ -168,7 +171,9 @@ concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in co
 
 repeat_times = 10
 
-file_name = f"llama3_repeat{repeat_times}_concept_facet_property_wine_onto_concepts.txt"
+file_name = (
+    f"llama3_repeat{repeat_times}_concept_facet_property_olympics_onto_concepts.txt"
+)
 
 with open(file_name, "w") as out_file:
     for i in range(repeat_times):
@@ -205,6 +210,14 @@ del model
 del pipeline
 del concept_prompts
 
+end_time = time.time()
+elapsed_time = end_time - start_time
+
+hours = int(elapsed_time // 3600)
+minutes = int((elapsed_time % 3600) // 60)
+seconds = elapsed_time % 60
+
+print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds")
 
 gc.collect()
 gc.collect()
