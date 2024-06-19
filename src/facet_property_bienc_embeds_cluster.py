@@ -51,11 +51,7 @@ if cluster_algo == "affinity_propogation":
         prop_cluster_list, columns=["facet_property", "cluster_label"]
     ).sort_values(by=["cluster_label"])
 
-    df.to_csv(
-        f"{output_file}.txt",
-        sep="\t",
-        index=False,
-    )
+    df.to_csv(f"{output_file}.txt", sep="\t", index=False, encoding="utf-8")
 
     with open(f"{output_file}.pkl", "wb") as pkl_out:
         pickle.dump(prop_cluster_list, pkl_out)
