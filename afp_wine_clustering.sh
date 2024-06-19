@@ -11,7 +11,7 @@
 
 #SBATCH -p highmem
 
-#SBATCH --mem=100G
+#SBATCH --mem=60G
 #SBATCH -t 0-03:00:00
 
 conda activate venv
