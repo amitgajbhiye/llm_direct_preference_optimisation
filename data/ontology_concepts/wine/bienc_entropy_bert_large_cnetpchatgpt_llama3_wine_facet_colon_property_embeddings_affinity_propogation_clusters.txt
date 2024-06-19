@@ -1,0 +1,4378 @@
+facet_property	cluster_label
+acidity: balanced	0
+acidity: medium to high	0
+acidity: high	0
+acidity: medium	0
+acidity: low	0
+acidity: high acidity	0
+acidity: refreshing	0
+acidity level: low	0
+acidity level: high	0
+acidity level: medium	0
+acidity level: refreshing	0
+acidity level: balanced	0
+acidity level: medium high	0
+acidity level: medium-high	0
+activities: boating	373
+activities: fishing	373
+activities: picnicking	164
+activities: storage	1
+activities: transshipping	2
+activities: shipping	120
+activities: handling	2
+activities: storing	1
+activities: unloading	2
+activities: loading	2
+activities: cargo handling	2
+activity: walking	169
+activity: adventure	257
+activity: food and wine	364
+activity: cultural	260
+affects: aroma	38
+affects: taste	289
+affects: appearance	17
+aftertaste: pleasant	3
+aftertaste: unpleasant	3
+aftertaste: lingering	3
+age: develops complexity	4
+age: mature	4
+age: aged	4
+age: young	4
+age: fortified	13
+age: developed	4
+age: vintage	388
+age: old	4
+age: can be aged for years	4
+age: best consumed after aging	30
+age: oaky	42
+age: aged for years	4
+age: complex flavor profile	6
+age: improves with age	5
+age: complex flavor	6
+age: can be aged	4
+age: ages well	4
+age: can be aged for decades	8
+ageability: can age for 5-7 years	4
+ageing: aged	8
+ageing: best consumed young	30
+ageing: can be aged for years	7
+ageing: improves with age	5
+ageing: long ageing process	9
+ageing: aged for several years	7
+ageing: drink young	4
+ageing: no oak ageing	247
+ageing: best consumed within 2-5 years	30
+ageing: aged in oak barrels	252
+ageing: complex flavor profile	6
+ageing: young	4
+ageing: can be aged for 10 to 20 years	7
+ageing: long-aged	4
+ageing: oaky	42
+ageing: medium	9
+ageing: mature	4
+ageing: develops complexity over time	5
+ageing potential: medium	8
+ageing potential: long	8
+ageing potential: 5-7 years	8
+ageing potential: long-lived	8
+ageing potential: short	8
+ageing potential: can be aged for 10-20 years	7
+ageing potential: can age for 5-10 years	8
+ageing potential: develops complexity over time	8
+ageing potential: can age for years	8
+ageing potential: can be drunk young	10
+ageing potential: can be aged for many years	7
+ageing potential: can be aged for 5-10 years	7
+ageing potential: improves with age	5
+ageing process: required to age	9
+ageing process: red wine with aging potential	397
+ageing process: complex	9
+ageing process: aged in oak barrels	252
+ageing process: long	8
+ageing process: improves with age	5
+ageing process: long ageing	9
+ageing process: develops complexity over time	9
+ageing process: oak barrel ageing	249
+ageing process: cellar ageing	249
+ageing process: oak barrels	249
+aging process: improves with time	5
+aging process: complex flavor	6
+aging process: longer aging	9
+agriculture: farming	76
+agriculture: sustainable	96
+agriculture: rural	76
+alcohol content: 12% to 14%	10
+alcohol content: strong	10
+alcohol content: 15% to 16%	10
+alcohol content: 14% or more	10
+alcohol content: sweet wine	10
+alcohol content: high	10
+alcohol content: 14-16%	10
+alcohol content: 12%	10
+alcohol content: 12-15%	10
+alcohol content: 15% abv	10
+alcohol content: 12% abv	10
+alcohol content: 13% abv	10
+alcohol content: 13% to 15%	10
+alcohol content: 14% to 16%	10
+alcohol content: 12-14%	10
+alcohol content: low	10
+alcohol content: 14% abv	10
+alcohol content: sweet	10
+alcohol content: medium	10
+alcohol content: 13% to 14%	10
+alcohol content: varies	10
+alcohol content: around 12%	10
+alcohol content: 12% - 14%	10
+alcohol content: 12% to 15%	10
+alcohol content: low to moderate	10
+alcohol content: typically 11-13%	10
+alcohol content: low to medium	10
+alcohol content: above 14%	10
+alcohol content: typically 10-20%	10
+alcohol content: 12% to 16%	10
+alcohol content: 13-15%	10
+alcohol content: 10-12%	10
+alcohol content: lower than 12%	10
+alcohol content: 11-14%	10
+alcohol content: fortified	10
+alcohol content: 12-16%	10
+alcohol content: around 8-12%	10
+alcohol content: lower	10
+alcohol content: 12% or less	10
+alcohol content: moderate	10
+alcohol content: around 11%	10
+alcohol content: usually low to moderate	10
+alcohol content: typically above 20%	10
+alcohol content: medium-high	10
+alcohol content: 14% or higher	10
+alcohol level: medium	10
+alcohol level: low	10
+alcohol level: high	10
+alcoholic content: 13% to 15%	10
+alcoholic content: high	10
+alcoholic content: usually 12-15%	10
+alcoholic content: varies	10
+alcoholic content: typically 12%	10
+alcoholic content: strong	10
+alcoholic content: adults only	10
+alcoholic content: usually around 12%	10
+alcoholic content: moderate	10
+appearance: in glass	389
+appearance: in bottle	203
+appearance: attractive	17
+appearance: decorated	11
+appearance: colorless	48
+appearance: layered	103
+appearance: pear-shaped	363
+appearance: skin is green	51
+appearance: colorful	39
+appearance: cloudy	390
+appearance: clear	48
+appearance: murky	48
+appearance: bubbles	353
+appearance: vigor	17
+appearance: ornate	11
+appearance: clarity	389
+appearance: appealing	17
+appearance: odorless	3
+appearance: transparent	48
+appearance: delightful	44
+appearance: color	39
+appearance descriptors: viscosity	0
+appearance descriptors: clarity	389
+appearance descriptors: color	39
+appellation: appellation d'origine contrôlée	46
+appellation: protected designation of origin	46
+architecture: romanesque church	12
+architecture: medieval castle	13
+architecture: monastery buildings	12
+architecture: churches	12
+architecture: romanesque architecture	12
+architecture: cobbled streets	13
+architecture: medieval architecture	13
+aroma: floral	310
+aroma: fruity	14
+aroma: oaky	332
+aroma: grassy	338
+aroma: lemon	14
+aroma: earthly	38
+aroma: honey	107
+aroma: green apple	14
+aroma: spicy	343
+aroma: buttery	329
+aroma: citrusy	106
+aroma: apple	14
+aroma: citrus	106
+aroma: strong	38
+aroma: weak	38
+aroma: earthy	330
+aroma: herbaceous	108
+aroma: crisp	104
+aroma: fruit	14
+aroma: berry	14
+aroma: intense	38
+aroma: honey-like	107
+aroma: nutty	105
+aroma: earth	38
+aroma: flowery	310
+aroma: mineral	14
+aroma: pear	14
+aroma: honeyed	107
+aroma: cherry	14
+aroma: vanilla	336
+aroma: fruity notes	14
+aroma: stone fruit	14
+aroma: complex	38
+aroma: oaky notes	14
+aroma: strong scent	38
+aroma: medium	38
+aroma: butterscotch	329
+aroma characteristics: fruity	14
+aroma characteristics: earthy	338
+aroma characteristics: floral	38
+aromatic notes: vanilla	336
+aromatic notes: caramel	14
+aromatic notes: fruit	14
+aromatic notes: herb	108
+aspect: finish	103
+aspect: taste	289
+aspect: appearance	17
+aspect: aroma	38
+associated emotions: relaxation	15
+associated emotions: indulgence	15
+associated emotions: joy	15
+associated emotions: celebration	15
+associated with: white wine	243
+associated with: romance	181
+associated with: sparkling wine	353
+associated with: rosé wine	376
+associated with: luxury	235
+associated with: rosé with summer	356
+associated with: white wine with fish	212
+associated with: red wine	352
+associated with: champagne	380
+associated with: fine dining	64
+associated with: france	192
+associated with: love	325
+associated with: brunch	32
+associated with: wedding reception	65
+associated with: summer	181
+associated with: ships	99
+associated with: holidays	60
+associated with: parties	152
+associated with: boats	99
+associated with: maritime	99
+associated with: red wine with meat	352
+association: red wine with luxury	354
+association: weak with white wine	16
+association: strong with red wine	16
+association: white wine with crispness	16
+association: fine dining	79
+association: sophistication	326
+association: wine	79
+association: luxury	235
+association: romance	325
+attribute: appearance	17
+attribute: taste	289
+attribute: smell	293
+attribute: texture	347
+attribute: fruity	340
+attribute: floral	43
+attribute: oaky	42
+audience: wine expert	18
+audience: wine enthusiast	18
+audience: general public	18
+availability: online purchase	234
+availability: widely available	234
+availability: locally sourced	30
+available at: wine shop	19
+available at: restaurant	20
+available at: wine festival	19
+award: prized	27
+award: wine award	23
+award: high reputation	27
+award: international recognition	25
+award: highly rated	22
+award: awarded	25
+award: wine competition	23
+award-winning: yes	22
+award-winning: often	26
+awarded for: critic reviews	24
+awarded for: high quality	270
+awarded with: wine competition	21
+awarded with: best wine award	21
+awarded with: gold medal	27
+awards: gold medal	25
+awards: best wine	21
+awards: critically acclaimed	26
+awards: winemaking awards	23
+awards: winning awards	27
+awards: prize-winning	27
+awards: critic-acclaimed	26
+awards: awarded medals	25
+awards: highly rated	22
+awards: wine critic's favorite	21
+awards: high ratings	22
+awards: winemaking competitions	23
+awards: receiving recognition	27
+awards: top rating	22
+awards: wine awards	23
+awards: critic acclaim	24
+awards: best in show	26
+awards: wine competitions	23
+awards: michelin star	21
+awards: win awards	27
+awards: receiving high ratings	22
+awards: international recognition	25
+awards: reputation for quality	27
+awards: critic's choice	26
+awards: prized wine	23
+awards: awarded	25
+awards: wine and spirits awards	23
+awards: international wine awards	23
+awards: recognized	27
+awards: prized for quality	25
+awards: recognized by wine critics	23
+awards: wine spectator award	21
+awards: wine of the year	21
+awards: oscar	25
+awards: award-winning	26
+awards: winning gold medal	27
+awards: wine enthusiast	21
+awards: premier grand cru classé	21
+awards: appellation d'origine contrôlée	46
+awards: wine spectator	21
+awards: wineries with awards	21
+awards: winning	27
+awards: grand cru	21
+awards: premier cru	21
+awards: grand vin	21
+awards: winning international competitions	27
+awards: texas wine awards	21
+awards: winning medals	27
+awards: award winning	26
+awards: receiving national recognition	27
+awards: wine critic's choice	21
+awards: prize winner	27
+awards: critic score	24
+awards: critically praised	26
+awards: winery awards	23
+awards: medal	25
+awards: prize	25
+awards: recognition	25
+awards: german wine awards	23
+awards: wine competition prizes	23
+awards: best of show	22
+awards: receiving high ratings from critics	26
+awards: winning recognition	27
+awards: critical acclaim	24
+awards: local acclaim	24
+awards: has won numerous awards	26
+awards: is highly rated by critics	26
+awards: highly acclaimed	26
+awards and recognition: wine awards	23
+awards and recognition: wine competitions	23
+awards and recognition: winemaking competitions	23
+awards and recognition: vintage releases	23
+awards and recognition: critic reviews	24
+balance: bad	94
+balance: good	44
+beak shape: long	222
+beak shape: short	222
+behavior: nocturnal	29
+behavior: clumsy	169
+behavior: social	183
+behavior: struts	169
+behavior: scratching	28
+behavior: omnivorous	29
+behavior: clucking	28
+behavior: brooding	29
+behavior: flocking	35
+behavior: scratches	28
+behavior: clucks	28
+behavior: lays eggs	35
+behavior: flying	223
+behavior: aggressive	29
+benefit: increased yield	282
+benefit: better flavor	283
+benefit: higher quality	270
+best consumed: young	30
+best consumed: fresh	30
+best paired with: dark chocolate	208
+best paired with: cheese	216
+best paired with: red meat	206
+best paired with: chocolate	208
+best served: with dessert	32
+best served: as an apéritif	31
+best served: young	4
+best served: with cheese	216
+best served: with fruit	32
+best served: fresh	30
+best served: chilled	296
+best served: with food	32
+best served: as an aperitif	31
+best served with: cheese	216
+best served with: desserts	110
+best served with: fruit	66
+best served with: pasta	214
+best served with: food	32
+blend of: merlot	237
+blend of: cabernet franc	33
+blend of: cabernet sauvignon	33
+body: medium	34
+body: light	205
+body: full	34
+body: full-bodied	34
+body: heavy	309
+body: light-bodied	41
+body: rich	37
+body: velvety	348
+body: thick	34
+bottle color: greenish tint	291
+bottle color: clear	48
+bottle shape: magnum	144
+bottle shape: bottle	144
+bottle shape: fiasco	144
+bottle shape: jug	369
+brand name: tylenol	127
+brand name: advil	232
+brand name: augmentin	127
+breeding: brooding	35
+breeding: lays eggs	35
+breeding: broods	35
+breeding: incubation	35
+breeding: laying eggs	35
+breeds: chicken	112
+breeds: quail	318
+breeds: turkey	317
+breeds: duck	318
+categories: red	129
+categories: rosé	356
+categories: white	50
+categorization: expensive wine	354
+categorization: fine wine	396
+categorization: red wine	352
+category: wine	352
+category: alcoholic drink	10
+category: alcoholic beverage	10
+category: tint	39
+category: pastry	372
+category: hue	39
+category: shade	362
+category: breakfast	161
+category: dessert wine	354
+category: italian wine	352
+category: after-meal food	32
+category: sweet treat	110
+category: drink	359
+category: after meal	364
+category: italian dish	214
+category: food	361
+category: red wine	352
+category: beverage	359
+category: sweet wine	354
+category: carbohydrate	54
+category: french wine	391
+category: visual characteristic	389
+category: plant	77
+category: fruit	139
+category: antibiotic	62
+category: pain reliever	62
+category: farm animal	36
+category: white wine	352
+category: medication	232
+category: dinner	368
+category: lunch	164
+category: domestic animal	36
+category: dry wine	352
+category: after-meal	364
+category: domesticated animal	36
+category: supplement	138
+category: dessert	110
+category: poultry	112
+category: color	39
+category: bird	318
+category: snack	358
+category: after-meal course	368
+category: liquid	158
+category: wine attribute	396
+category: ingredient	138
+category: type of pear	363
+category: alcoholic	10
+category: tasty	334
+category: dish	368
+category: treat	379
+category: sweet	341
+category: blend	253
+category: bordeaux wine	391
+category: chardonnay	391
+category: healthy snack	358
+category: grapes	355
+category: healthy	44
+category: rosé	356
+category: white	50
+category: red	129
+category: vineyard crop	387
+category: domesticated	36
+category: meat	206
+category: protein source	179
+category: pear	363
+category: vine	77
+category: italian cuisine	214
+category: culinary dish	368
+category: water	158
+category: vineyard product	387
+category: carbohydrate-rich food	361
+category: adult drink	359
+category: cuisine	74
+category: sweets	110
+caused by: fermentation	241
+caused by: aging process	9
+caused by: grape variety	16
+challenges: weather uncertainty	284
+challenges: pest and disease risks	284
+characteristic: aftertaste	3
+characteristic: full-bodied	345
+characteristic: rich	37
+characteristic: aroma	38
+characteristic: acidity	0
+characteristic: color	39
+characteristic: smell	293
+characteristic: texture	347
+characteristic: body	17
+characteristic: taste	289
+characteristics: young wine	16
+characteristics: rare	174
+characteristics: drinkable soon after release	359
+characteristics: high acidity	0
+characteristics: rich	37
+characteristics: crimson color	129
+characteristics: abundant	174
+characteristics: crisp acidity	342
+characteristics: egg-laying	35
+characteristics: balanced	269
+characteristics: complex	40
+characteristics: full-bodied	34
+characteristics: thin-skinned	41
+characteristics: light	205
+characteristics: wings	223
+characteristics: medium tannins	327
+characteristics: flavors of blackberry and black cherry	333
+characteristics: easy to drink	359
+characteristics: low sugar content	366
+characteristics: well-balanced	44
+characteristics: light acidity	0
+characteristics: beaked	222
+characteristics: light bodied	41
+characteristics: light-bodied	41
+characteristics: fruity	340
+characteristics: versatile	44
+characteristics: mildly acidic	291
+characteristics: oaky	42
+characteristics: low in tannins	339
+characteristics: floral notes	43
+characteristics: thick, syrupy texture	189
+characteristics: complex flavor	335
+characteristics: low tannins	339
+characteristics: honey notes	107
+characteristics: citrus notes	106
+characteristics: easy to grow	75
+characteristics: thick-skinned	300
+characteristics: vegetal	77
+characteristics: feathers	385
+characteristics: food-friendly	361
+characteristics: earthy	330
+characteristics: medium body	34
+characteristics: aromatic	338
+characteristics: high sugar content	366
+characteristics: age-worthy	4
+characteristics: beak	222
+characteristics: produces wine with low tannins	16
+characteristics: approachable	17
+characteristics: floral	43
+characteristics: delicate	43
+characteristics: low acidity	0
+characteristics: bold	82
+characteristics: simple	40
+characteristics: high tannins	339
+characteristics: smooth texture	347
+characteristics: acidic	291
+characteristics: buttery	329
+characteristics: rich texture	37
+characteristics: complex flavor profile	335
+characteristics: sweet	341
+characteristics: mellow	350
+characteristics: well-aged	4
+characteristics: smooth	347
+characteristics: medium acidity	0
+characteristics: dry	245
+characteristics: flavorful	335
+characteristics: small	308
+characteristics: good aging potential	44
+characteristics: healthy	44
+characteristics: unhealthy	173
+characteristics: delicious	341
+characteristics: boring	149
+characteristics: claws	222
+characteristics: light body	41
+characteristics: sweet and sticky	341
+characteristics: feathered	223
+characteristics: refreshing	344
+characteristics: spicy	343
+characteristics: mineral	45
+characteristics: honeyed notes	107
+characteristics: oaky flavors	332
+characteristics: bitter	292
+characteristics: crisp	104
+characteristics: tannic	290
+characteristics: notes of citrus	106
+characteristics: high in acidity	291
+characteristics: flavors of honey	107
+characteristics: high in tannins	339
+characteristics: medium sweetness	324
+characteristics: rich in tannins	339
+characteristics: smoky	70
+characteristics: honeyed	107
+chemical composition: alcoholic	10
+chemical composition: contains tannins	327
+chemical composition: has high acidity	0
+chemical composition: acidic	291
+chemical composition: sugary	366
+clarity: clear	48
+clarity: murky	389
+classification: pinot noir	391
+classification: cabernet sauvignon	33
+classification: appellation d'origine contrôlée	46
+classification: merlot	237
+classification: aoc	46
+classification: fine wine	396
+classification: luxury item	235
+climatic condition: warm and sunny	390
+climatic condition: cool and rainy	390
+clutch size: 2-12 eggs	35
+color: purple	49
+color: pale yellow	47
+color: ruby red	53
+color: deep red	129
+color: golden	131
+color: dark red	129
+color: clear	48
+color: deep purple	49
+color: honey-colored	107
+color: white	50
+color: red	129
+color: pale gold	131
+color: rosé	356
+color: dark	303
+color: light yellow	47
+color: green	51
+color: burgundy	52
+color: pink	130
+color: rosy	130
+color: dark purple	49
+color: dark crimson	129
+color: wine	52
+color: rich red	129
+color: yellow	47
+color: colorless	48
+color: wine color	52
+color: brown	303
+color: light brown	303
+color: blue	48
+color: honey	107
+color: amber	132
+color: pinkish	130
+color: ruby	53
+color: wine-like	52
+color: vibrant red	129
+color: sparkling	353
+color: orange	129
+color: black	303
+common accompaniments: rice	294
+common accompaniments: bread	55
+common accompaniments: lemon	106
+common components: cake	372
+common components: fruit	139
+common components: nuts	140
+common components: ice cream	57
+common descriptors: apple-like	340
+common descriptors: pear-like	363
+common descriptors: floral	43
+common dishes: burger	113
+common dishes: roast	70
+common dishes: sausages	113
+common dishes: burgers	113
+common dishes: steak	113
+common dishes: stew	384
+common examples: cake	372
+common examples: ice cream	57
+common examples: pie	56
+common flavors: fruity	340
+common flavors: chocolate	208
+common flavors: sweet	341
+common foods: tart	340
+common foods: pie	56
+common foods: cookies	231
+common foods: ice cream	57
+common foods: cake	372
+common fruits: raspberries	227
+common fruits: grapes	137
+common fruits: strawberries	227
+common fruits: blueberries	227
+common fruits: bananas	370
+common fruits used: grapes	137
+common fruits used: bananas	370
+common fruits used: strawberries	227
+common fruits used: blueberries	227
+common ingredients: seafood	218
+common ingredients: vegetables	381
+common ingredients: seasonings	108
+common ingredients: fresh fruits	139
+common ingredients: whipped cream	188
+common ingredients: sugar	366
+common ingredients: cream	188
+common ingredients: fruit	139
+common ingredients: syrup	189
+common ingredients: lemon	106
+common ingredients: herbs	108
+common ingredients: fish	85
+common ingredients: chocolate	208
+common ingredients: flour	54
+common items: pudding	55
+common items: pie	56
+common items: cake	372
+common items: tart	340
+common items: ice cream	57
+common occasions: holiday	184
+common occasions: special occasion	186
+common occasions: dinner party	180
+common pairing: with salad	217
+common pairing: with rice	294
+common pairing: with sauce	58
+common types: fettuccine	86
+common types: macaroni	86
+common types: spaghetti	214
+common usage: wine and cheese night	180
+common usage: special occasion	186
+common usage: gift	63
+common use: pairing with food	59
+common use: drinking alone	374
+common use: special occasions	60
+common use: cosmetics	61
+common use: wine	397
+common use: wedding dress	65
+common use: wine glass	380
+common use: wine bottle	380
+common use: gift	63
+common use: cooking	375
+common use: drinking	68
+common use: as an ingredient	138
+common use: paint	61
+common use: as a medicine	62
+common use: as a snack	358
+common uses: cooking	375
+common uses: drinking alone	374
+common uses: pairing with food	59
+common uses: gift-giving	63
+commonly associated with: wine and cheese	376
+commonly associated with: fine dining	64
+commonly associated with: christmas	288
+commonly found at: hotel	101
+commonly found at: restaurant	20
+commonly found at: wedding	65
+commonly found at: buffet	20
+commonly served: in fine dining	64
+commonly served: at dinner	32
+commonly served with: rice	294
+commonly served with: beer	32
+commonly served with: bread	32
+commonly served with: salad	217
+commonly served with: wine	32
+commonly used in: wine tasting	376
+commonly used in: romantic dinner	58
+commonly used in: special occasions	60
+component: fruit platter	66
+component: fresh fruit salad	66
+component: fruit salad	66
+component: fresh fruit	139
+component: multiple fruits	139
+components: main course	109
+components: appetizer	367
+components: side dish	111
+components: dessert	110
+components: yogurt	138
+components: acidity	0
+components: honey	107
+components: fruit smoothie	139
+components: fruit tart	340
+components: cabernet sauvignon	33
+components: drink	359
+components: merlot	237
+components: company	159
+components: tableware	302
+components: granola	179
+components: nuts	140
+components: fruit	139
+components: ice cream	57
+components: pie	56
+components: cabernet franc	33
+components: fruit salad	66
+components: cake	372
+components: pudding	55
+components: dried fruits	139
+components: cheese	213
+components: fruits	139
+components: candy	366
+components: grapes	137
+components: sugars	366
+components: tannins	327
+components: cream	188
+components: eggs	67
+components: acids	0
+components: flour	54
+components: polyphenols	327
+components: sugar	366
+components: food	138
+components: sulfites	45
+components: fresh fruits	139
+composition: fruit salad	66
+composition: solid	45
+composition: various fruits	139
+composition: liquid	158
+composition: fresh fruit	139
+composition: gas	173
+consumption method: inhalation	68
+consumption method: drinking	68
+consumption method: injecting	68
+consumption method: eating	68
+consumption place: canteen	224
+consumption place: restaurant	151
+consumption place: party	152
+consumption place: home	225
+container: metal	369
+container: bottle	369
+container: glass	369
+container: plastic	369
+contents: ingredients	138
+contents: food items	361
+contents: dessert	110
+contents: drink	359
+contents: main dish	111
+contents: side dish	111
+contents: dishes	302
+contents: food	361
+context: agriculture	76
+context: wine making	240
+context: food production	76
+cooked by: frying	71
+cooked by: steaming	71
+cooked by: boiling	71
+cooked methods: grilling	69
+cooked methods: roasting	70
+cooked methods: frying	71
+cooking method: boiling	230
+cooking method: grilling	69
+cooking method: roasting	70
+cooking method: frying	71
+cooking method: baking	230
+cooking method: baked	231
+cooking method: fried	297
+cooking method: boiled	297
+cooking methods: roasting	70
+cooking methods: frying	71
+cooking methods: braising	230
+cooking methods: grilling	69
+cooking methods: boiling	230
+cooking methods: baking	230
+cork color: green	42
+cost: budget-friendly	234
+cost: luxury	235
+cost: expensive	234
+cost: affordable	234
+course order: main	175
+course order: appetizer	367
+course order: dessert	110
+course position: final	175
+course position: last	175
+course sequence: appetizer-main course-dessert	368
+course sequence: appetizer-side dish-main course-dessert	368
+course structure: dessert	110
+course structure: appetizer	367
+course structure: main course	368
+course structure: coffee	162
+course type: seafood	218
+course type: main course	368
+course type: appetizer	367
+crop: grapes	137
+crop: wheat	73
+crop: fruit	72
+crop: vegetable	72
+crop: barley	73
+crop: grain	73
+crops: barley	73
+crops: fruit	72
+crops: grapes	137
+crops: wheat	73
+crops: pomegranate	72
+crops: corn	73
+cuisine: truffles	211
+cuisine: british	74
+cuisine: american	74
+cuisine: french	211
+cuisine: european	74
+cuisine: mediterranean	74
+cuisine: wine and cheese	74
+cuisine: foie gras	211
+cuisine: japanese	209
+cuisine: gastronomy	74
+cuisine: wine and food pairing	74
+cuisine pairing: french	211
+cuisine pairing: italian	214
+cuisine pairing: american	74
+cuisine pairing: pasta dishes	214
+cuisine pairing: game	74
+cuisine pairing: red meat	206
+cuisine pairing: italian cuisine	214
+cuisine pairing: cheese	213
+cuisine pairing: pizza	86
+cultivation: growing	76
+cultivation: harvesting	76
+cultivation: requiring specific climate	75
+cultivation: climate	123
+cultivation: pruning	78
+cultivation: irrigation	78
+cultivation: wine production	135
+cultivation: orchard	72
+cultivation: pesticide-free	75
+cultivation: vineyard	387
+cultivation: irrigated	75
+cultivation: dry climate	75
+cultivation: grapes	387
+cultivation: pruned regularly	75
+cultivation: manual harvesting	76
+cultivation: terroir	75
+cultivation: vine cultivation	75
+cultivation: grape growing	135
+cultivation: requires specific climate and soil	75
+cultivation: challenging to grow	75
+cultivation: tree	77
+cultivation: wine region	395
+cultivation: orchards	72
+cultivation: farming	76
+cultivation: delicate	75
+cultivation: pruned	77
+cultivation: growing on trees	77
+cultivation: grows on vineyards	387
+cultivation method: pruning	78
+cultivation method: vineyard	387
+cultivation method: trellis	78
+cultivation methods: pesticide use	78
+cultivation methods: pruning	78
+cultivation methods: irrigation	78
+cultural association: french	79
+cultural association: american	79
+cultural association: italian	79
+cultural association: christmas tradition	184
+cultural association: french cuisine	211
+cultural origin: eastern	81
+cultural origin: western	74
+cultural origin: mexican	200
+cultural significance: symbol of hospitality	60
+cultural significance: important part of meal	263
+cultural significance: japanese tradition	81
+cultural significance: representation of love	325
+cultural significance: symbol of abundance	187
+cultural significance: inspiration for art	260
+cultural significance: in mediterranean cuisine	194
+cultural significance: in sushi	218
+cultural significance: in seafood buffet	218
+cultural significance: french cuisine	211
+cultural significance: special occasion	186
+cultural significance: formal event	185
+cultural significance: holiday meal	184
+cultural significance: connection to french history	80
+cultural significance: symbol of french culture	192
+cultural significance: popular tourist destination	80
+cultural significance: sunday roast	70
+cultural significance: medieval castles	13
+cultural significance: holiday dinner	184
+cultural significance: historic landmarks	80
+cultural significance: special occasion dish	209
+cultural significance: japanese cuisine	209
+cultural significance: wining and dining	182
+cultural significance: barbecue	69
+cultural significance: italian tradition	194
+cultural significance: important in many cultures	260
+cultural significance: historic sites	80
+cultural significance: traditional dish	209
+cultural significance: celebratory meal	182
+cultural significance: varies by culture	260
+cultural significance: famous for châteaux	395
+cultural significance: historic significance	80
+cultural significance: italian cuisine	214
+cultural significance: traditional food	209
+cultural significance: romanticism	326
+cultural significance: inspiration for artists	260
+cultural significance: historic châteaux	146
+culture: western tradition	81
+culture: asian tradition	81
+culture: middle eastern tradition	81
+definition: gathering crops after optimal time	187
+definition: reaping crops after they are fully ripe	187
+dependent on: grapes	137
+dependent on: winemaking process	240
+dependent on: aging time	5
+description: bold	82
+description: crimson	129
+description: champagne	354
+description: deep crimson	129
+description: vibrant	43
+description: rich	37
+description: pale gold	131
+description: pink	130
+description: ruby	53
+description: silky	348
+destination: mountain	98
+destination: historical site	80
+destination: museum	80
+destination: national park	98
+destination: landmark	157
+destination: country	157
+destination: city	157
+destination: cruise	357
+destination: beach	156
+determinants: fermentation	241
+determinants: grape variety	16
+determinants: aging process	9
+diet: plants	83
+diet: insectivorous	29
+diet: grain-based	73
+diet: grains	73
+diet: seeds	83
+diet: seed	83
+diet: insect	84
+diet: carnivorous	29
+diet: insects	84
+diet: grain	73
+diet: omnivorous	29
+diet: herbivorous	36
+dimension: flavor	289
+dimension: aroma	38
+dimension: bouquet	43
+dish type: aquatic food	218
+dish type: seafood	218
+dish type: delicacy	111
+dish type: fish	85
+dish type: fish dish	85
+dishes: bbq	113
+dishes: fried	297
+dishes: grilled	367
+dishes: roasted	70
+dishes: fettuccine	86
+dishes: spaghetti	214
+dishes: lasagna	214
+dishes made with: macaroni and cheese	86
+dishes made with: fettuccine alfredo	86
+dishes made with: spaghetti bolognese	214
+dishes made with: spaghetti	214
+dishes made with: lasagna	214
+dishes made with: fettuccine	86
+duration: short	87
+duration: lasting	89
+duration: multi-day	88
+duration: long	87
+duration: all day	88
+duration: long term	89
+duration: perishable	306
+duration: week-long	88
+duration: week	88
+duration: month	88
+duration: drink within a year	89
+duration: short term	89
+duration: day	88
+duration: young wine	392
+duration: medium	87
+duration: lasting few minutes	87
+duration: quick	87
+duration of effect: short-term	89
+duration of effect: long-term	89
+economic significance: economic driver	90
+economic significance: import	91
+economic significance: tax generator	90
+economic significance: export	91
+economic significance: trade	91
+economic significance: job creator	90
+effect on product: better flavor	283
+effect on product: higher sugar content	283
+effects: antioxidant-rich	127
+effects: affects smell	293
+effects: may improve heart health	127
+effects: antioxidant	127
+effects: relaxing	264
+effects: hangover	307
+effects: affects taste	3
+environment: formal dinner	180
+environment: informal gathering	268
+environment: holiday meal	184
+equipment: conveyors	92
+equipment: forklifts	92
+equipment: cranes	92
+evaluation: poor	94
+evaluation: excellent	93
+evaluation: average	93
+evaluation: bad	94
+evaluation: good	93
+evaluation criteria: flavor	335
+evaluation criteria: balance	93
+evaluation criteria: overall impression	93
+evaluation criteria: mouthfeel	289
+evaluation criteria: smell	293
+evaluation criteria: aroma	38
+evaluation criteria: taste	289
+evaluation criteria: appearance	17
+event: thanksgiving	184
+event: celebration	182
+event: halloween	184
+event: harvest moon	349
+event: festival	182
+event: special occasion	186
+event: anniversary	186
+event: wedding	185
+event: harvest festival	184
+example: chicken	207
+example: grain harvest	187
+example: turkey	317
+example: duck	318
+example: wine production	135
+expected guests: family	220
+expected guests: colleagues	220
+expected guests: friends	220
+facilities: warehouse	95
+facilities: crane	92
+facilities: docks	102
+facilities: cranes	92
+facilities: loading equipment	95
+facilities: warehouses	95
+famous châteaux: amboise	146
+famous châteaux: chambord	146
+famous châteaux: chenonceau	146
+famous for: wine production	395
+famous for: roman architecture	80
+famous for: unesco world heritage site	80
+famous for: wine tours	155
+famous for: red wine	352
+famous for: chateau latour	146
+famous for: chateau lafite rothschild	146
+famous for: wine châteaux	391
+famous for: rare	174
+famous for: high-quality	270
+famous for: merlot	237
+famous for: expensive	143
+famous for: chateau mouton rothschild	146
+famous for: vineyards	155
+famous wine: chateau latour	391
+famous wine: chateau lafite rothschild	391
+famous wine: chateau mouton rothschild	391
+farming method: modern	96
+farming method: traditional	96
+farming method: sustainable	96
+farming practice: delayed picking	78
+farming practice: ripening on the tree	167
+features: canalized	136
+features: canals	136
+features: bridges	136
+features: romanesque church	12
+features: meals	368
+features: medieval architecture	13
+features: narrow streets	157
+features: guides	97
+features: locks	320
+features: outdoor activities	258
+features: accommodation	101
+features: optional meals	368
+features: popular for boating	153
+features: scenic	98
+features: buoy	99
+features: lighthouse	99
+features: food	361
+features: guide	97
+features: activities	258
+features: transportation	119
+features: entry fees	235
+features: waterfalls	100
+features: sightseeing	365
+features: wharfs	102
+features: quay	102
+features: dock	102
+features: accommodations	101
+features: cranes	92
+features: high in antioxidants	339
+features: low in sulfites	311
+features: warehouses	95
+features: local guides	254
+features: scenic views	98
+features: vineyards	387
+features: docks	102
+features: cultural experiences	260
+features: historical landmarks	80
+features: châteaux	146
+features: gorges	100
+finish: long	103
+finish: short	103
+finish: medium	103
+finish: complex	103
+flavor: orange blossom	106
+flavor: fresh	344
+flavor: fruity	340
+flavor: jammy	329
+flavor: crisp	104
+flavor: honey	107
+flavor: dry	342
+flavor: buttery	329
+flavor: oaky	42
+flavor: rich	37
+flavor: sweet	341
+flavor: honey-like	107
+flavor: delicate	335
+flavor: light	335
+flavor: earthy	330
+flavor: floral	310
+flavor: full-bodied	345
+flavor: spicy	343
+flavor: honeyed	107
+flavor: apricot	339
+flavor: tannic	290
+flavor: saltwater	337
+flavor: freshwater	337
+flavor: oily	172
+flavor: earthly	335
+flavor: nutty	105
+flavor: decadent	334
+flavor: aromatic	338
+flavor characteristics: crisp	104
+flavor characteristics: smooth	331
+flavor characteristics: balanced	335
+flavor characteristics: complex	335
+flavor profile: apricots	339
+flavor profile: floral	310
+flavor profile: plum	332
+flavor profile: blackberry	333
+flavor profile: chocolate	208
+flavor profile: peaches	333
+flavor profile: honey	107
+flavor profile: tannic	290
+flavor profile: apple	340
+flavor profile: dry	342
+flavor profile: citrusy	106
+flavor profile: crisp	104
+flavor profile: oaky	332
+flavor profile: honeyed	107
+flavor profile: dark fruit	340
+flavor profile: crisp acidity	335
+flavor profile: spicy	343
+flavor profile: earthy	330
+flavor profile: stone fruit flavors	340
+flavor profile: notes of honey	107
+flavor profile: sweet	341
+flavor profile: light	335
+flavor profile: delicate	335
+flavor profile: green apple	339
+flavor profile: fruity	340
+flavor profile: aromatic	338
+flavor profile: herbal	108
+flavor profile: butterscotch	329
+flavor profile: black cherry	290
+flavor profile: full-bodied	345
+flavor profile: nutty	105
+flavor profile: complex	335
+flavor profile: vanilla	336
+flavor profile: pear	363
+flavor profile: rich	335
+flavor profile: pears	363
+flavor profile: lemon	106
+flavor profile: honey-like	107
+flavor profile: herbaceous	108
+flavor profile: bitter	292
+flavor profile: tannins	327
+flavor profile: acidity	0
+flavor profile: sweetness	335
+flavor profile: dessert wine	354
+flavor profile: sparkling wine	354
+flavor profile: white wine	16
+flavor profile: red wine	352
+flavor profile: grassy	108
+flavor profile: refreshing	344
+flavor profile: tart	340
+flavor profiles: spice	335
+flavor profiles: sparkling wine: refreshing	16
+flavor profiles: sparkling wine: crisp	16
+flavor profiles: sparkling wine: bubbly	396
+flavor profiles: white wine: honey	107
+flavor profiles: white wine: pear	16
+flavor profiles: white wine: apple	16
+flavor profiles: red wine: cherry	396
+flavor profiles: red wine: plum	16
+flavor profiles: red wine: blackberry	16
+flavor profiles: oaky	332
+flavor profiles: earthy	330
+flavor profiles: floral	310
+flavor profiles: fruity	340
+flavor profiles: red fruit	340
+flavor profiles: black fruit	340
+flavor profiles: spicy	343
+flavor profiles: earth	330
+flavor profiles: herb	108
+food categories: appetizer	367
+food categories: beverage	361
+food categories: dessert	110
+food categories: entree	109
+food category: sweet treat	110
+food category: fruit	139
+food group: side dish	111
+food group: main course	109
+food group: dessert	110
+food group: sweet	341
+food group: pastry	372
+food item: dessert	110
+food item: side dish	111
+food item: main course	109
+food pairing: fruit	139
+food pairing: cheese	213
+food pairing: red meat	206
+food pairing: asparagus	141
+food pairing: mussels	85
+food pairing: oysters	218
+food pairing: dessert	110
+food pairing: dark chocolate	208
+food pairing: seafood	218
+food pairing: desert	215
+food pairing: meat	206
+food pairing: salad	217
+food pairing: strong cheeses	213
+food pairing: poultry	112
+food pairing: asian cuisine	209
+food pairing: charcuterie	211
+food pairing: grilled meats	113
+food type: delicacy	361
+food type: pastry	231
+food type: rich	37
+food type: seafood	218
+food type: fish	85
+food type: sugary	366
+food type: main course	109
+food type: appetizer	367
+food type: sweet	341
+food type: dessert	110
+form: injectable	232
+form: tablet	115
+form: capsule	369
+formal or informal: informal	114
+formal or informal: formal	114
+formality: casual	150
+formality: formal	114
+formality: informal	114
+format: driving	170
+format: walking	169
+format: online	115
+format: airplane	116
+format: boat	168
+format: plane	116
+format: private	115
+format: group	219
+format: cycling	116
+format: boating	168
+found in: backyard garden	77
+found in: wild forest	29
+found in: poultry farm	112
+frequency: occasional	117
+frequency: daily	117
+frequency: special occasion	186
+function: distribution	90
+function: reduces inflammation	265
+function: treats infection	62
+function: relieves pain	264
+function: transshipment	120
+function: to describe	82
+function: to evaluate	93
+function: trade	262
+function: commerce	262
+function: satisfies hunger	261
+function: cooking	230
+function: washing	386
+function: quenching thirst	118
+function: provides energy	267
+function: transportation	119
+function: cargo	120
+function: adds flavor	265
+function: loading	2
+function: unloading	2
+function: storage	320
+function: importing	121
+function: exporting	91
+function: harbor	153
+function: celebration	182
+function: social gathering	268
+function: shipping	120
+function: satisfy hunger	261
+function: export	91
+function: import	121
+function: receiving	120
+geography: coastal	156
+geography: atlantic ocean	156
+geography: waterfront	153
+geography: harbor	153
+geography: europe	273
+geography: france	272
+geography: river	154
+geography: longest river in france	286
+grape: zinfandel grape	122
+grape: red grape	355
+grape: pinot blanc grape	122
+grape: white grape	355
+grape characteristics: thin-skinned	355
+grape characteristics: acidic	16
+grape characteristics: high in acidity	355
+grape characteristics: thick-skinned	355
+grape varieties: merlot	122
+grape varieties: cabernet franc	122
+grape varieties: cabernet sauvignon	122
+grape variety: riesling	122
+grape variety: red grape	355
+grape variety: zinfandel grape	122
+grape variety: cabernet sauvignon	122
+grape variety: pinot noir	122
+grape variety: chardonnay	391
+grape variety: merlot	122
+grape variety: white wine grape	355
+grape variety: pinot grigio	122
+grape variety: drought-tolerant	355
+grape variety: prosecco	355
+grape variety: chianti	122
+grape variety: white wine	355
+grape variety: australian wine	355
+grape variety: gewürztraminer	355
+grapes: sangiovese	122
+grapes: pinot grigio	122
+grapes: cabernet sauvignon	122
+grapes: sauvignon blanc	122
+grapes: merlot	122
+grapes: chardonnay	122
+grapes: gewürztraminer	122
+grapes: chenin blanc grapes	122
+grapes: cabernet franc	122
+grapes: barolo	122
+grapes: riesling	122
+grapes: gewurztraminer	122
+grapes: zinfandel	122
+grapes: semillon	122
+grapes: riesling grapes	122
+grapes: grenache	122
+grapes: pinot gris	122
+grapes: semillon grapes	122
+grapes: barbaresco	122
+grapes: sauternes grapes	122
+grapes: gamay grapes	122
+grapes: zinfandel grapes	122
+grapes: pinot noir	122
+grapes: red grapes	122
+grapes: sylvaner	122
+grapes: pinot noir grapes	122
+grapes: thin-skinned grapes	122
+grapes: müller-thurgau	122
+grapes: syrah	122
+grapes: tempranillo	122
+grapes: moscato	122
+grapes: muller-thurgau	122
+grapes: chardonnay grapes	122
+grapes: prosecco	122
+grapes: chianti	122
+grapes: canaiolo	122
+grapes: gamay grape	122
+grapes: chenin blanc	122
+grapes: sauvignon	122
+grapes: muscat	122
+grapes: muscadet grapes	122
+grapes: muscadine	122
+grapes: sémillon	122
+grapes: cabernet sauvignon grapes	122
+grapes: melon de bougès	122
+grapes: black spanish	355
+grapes: vitis vinifera	122
+grapes: trebbiano	122
+grapes: gamay	122
+grapes: texas star	355
+grapes used: muscadelle	122
+grapes used: sémillon	122
+grapes used: merlot	122
+grapes used: shiraz	122
+grapes used: syrah	122
+grapes used: zinfandel	122
+grapes used: pinot noir	122
+grapes used: sauvignon blanc	122
+grapes used: riesling grapes	122
+grapes used: chardonnay	122
+grapes used: cabernet franc	122
+grapes used: cabernet sauvignon	122
+grapes used: white wine grapes	122
+grapes used: malbec	122
+grapes used: muscadine	122
+growing conditions: well-drained soil	311
+growing conditions: sunlight	123
+growing conditions: warm	123
+growing conditions: well-watered	123
+growing conditions: sunny	123
+growing conditions: warm climate	123
+growing conditions: warm weather	123
+growing conditions: subtropical	124
+growing conditions: tropical climate	124
+growing conditions: full sun	123
+growing conditions: sufficient water	123
+growing conditions: temperate	123
+growing conditions: tropical	124
+growth: grown on trees	77
+growth: grown in greenhouses	77
+guiding: self-guided	125
+guiding: audio	125
+guiding: professional	125
+guiding style: informal	125
+guiding style: expert	125
+guiding style: professional	125
+guiding style: enthusiastic	125
+guiding style: knowledgeable	125
+habitat: forest	126
+habitat: backyard	126
+habitat: wild	126
+habitat: yard	126
+habitat: farm	126
+health benefits: heart healthy	44
+health benefits: anti-inflammatory	127
+health benefits: antioxidant	127
+health concerns: high cholesterol	287
+health concerns: heart disease risk	287
+history: important for french history	128
+history: 12th century	128
+history: romanesque architecture	12
+history: influenced by napoleon	128
+history: wine trade	135
+history: medieval	128
+history: medieval history	128
+history: monastic history	128
+history: unesco world heritage	128
+history: romanesque church	12
+history: wine production since 12th century	135
+history: founded in 11th century	165
+history: middle ages	128
+history: roman settlement	165
+history: monastery	12
+history: part of the hundred years' war	128
+hue: red	129
+hue: pink	130
+hue: light pink	130
+hue: deep red	129
+hue: white	50
+hue: green	51
+hue: golden	131
+hue: light red	129
+hue: bright red	129
+hue: pale yellow	47
+hue: rosé	356
+hue: amber	132
+hue: purple	49
+impact: delayed	287
+impact: quality	269
+impact: reduced	282
+importance: necessary for hygiene	386
+importance: essential for life	133
+importance: special	133
+importance: necessary	133
+importance: optional	133
+importance: casual	150
+industry: wine	135
+industry: beer brewing	134
+industry: wine production	135
+industry: food processing	239
+industry: brewing	134
+industry: winemaking	135
+industry: vintage	388
+industry: wine industry	135
+industry: food production	239
+industry: beer	134
+industry: agriculture	76
+infrastructure: equipment	136
+infrastructure: waterways	136
+infrastructure: docks	102
+infrastructure: cranes	92
+infrastructure: warehouses	95
+infrastructure: roads	136
+infrastructure: rails	136
+ingredients: grapes	137
+ingredients: sugar	366
+ingredients: honey	107
+ingredients: cabernet sauvignon	33
+ingredients: yeast	137
+ingredients: whipped cream	188
+ingredients: fresh fruit	139
+ingredients: ingredients list	138
+ingredients: food	138
+ingredients: recipe	138
+ingredients: merlot	237
+ingredients: dairy	371
+ingredients: water	158
+ingredients: sangiovese grapes	137
+ingredients: cabernet franc	141
+ingredients: malbec	141
+ingredients: eggs	67
+ingredients: seafood	218
+ingredients: fish	85
+ingredients: vegetables	381
+ingredients: herbs	108
+ingredients: petit verdot	141
+ingredients: fruit	139
+ingredients: chocolate	208
+ingredients: aging process	138
+ingredients: fermentation	241
+ingredients: flour	54
+ingredients: oak	42
+ingredients: oak barrels	252
+ingredients: cream	188
+ingredients: nuts	140
+ingredients: processed	138
+ingredients: sulfites	0
+ingredients: acidity	0
+ingredients: fruits	139
+ingredients: acid	0
+ingredients: sangiovese	141
+ingredients: spices	108
+ingredients: aging	6
+ingredients: alcohol	10
+ingredients: organic	178
+ingredients: synthetic	312
+ingredients: pinot grigio	141
+ingredients: natural	138
+ingredients: wine making process	376
+ingredients: prosecco	141
+intensity: faded	142
+intensity: mild	142
+intensity: dull	142
+intensity: subtle	142
+intensity: complex	142
+intensity: strong	142
+intensity: pungent	343
+intensity: light	142
+intensity: dark	142
+intensity: bright	205
+intensity: deep	142
+intensity: medium	142
+known for: rare	174
+known for: expensive	143
+known for: high quality	270
+label: black label	144
+label: off-dry	145
+label: semi-sweet	366
+label: cabernet sauvignon	33
+label: merlot	237
+label: luxury packaging	144
+label: syrah	199
+label: label design	144
+label: dry	342
+label: black rooster	192
+label: malbec	237
+label: oaky	42
+label: fruity	340
+label: white	50
+label: red	129
+label: traditional	145
+label: rosé	356
+label: bottle	144
+label: modern	270
+label: château margaux	146
+labeling: vegan	178
+labeling: aoc	145
+labeling: organic	145
+labeling: aoc certified	145
+labeling: appellation d'origine contrôlée	46
+landmark: château cheval blanc	146
+landmark: château ausone	146
+landscape: rolling hills	277
+landscape: scenic	98
+language: poetic	82
+language: technical	82
+length: approx. 1,000 km	147
+length: approximately 1,000 km	147
+length of time: long	87
+length of time: short	87
+level of: high	148
+level of: low	148
+level of: medium	148
+level of abstraction: general	40
+level of abstraction: specific	40
+level of acidity: high	0
+level of acidity: medium	0
+level of difficulty: demanding	149
+level of difficulty: exhilarating	149
+level of difficulty: easy	149
+level of difficulty: medium	149
+level of difficulty: challenging	149
+level of difficulty: moderate	149
+level of difficulty: extreme	149
+level of formality: casual	150
+level of formality: formal	114
+level of sweetness: none	324
+level of sweetness: dry	324
+level of sweetness: medium sweet	341
+level of sweetness: low	324
+located at: restaurant	20
+located at: supermarket	321
+located at: kitchen	321
+located at: table	233
+located at: fridge	322
+located at: butcher	316
+located at: pantry	321
+located at: italian restaurant	20
+location: france	272
+location: restaurant	151
+location: coast	156
+location: beach	156
+location: lake shore	154
+location: store	151
+location: home	225
+location: worldwide	157
+location: destination	157
+location: party	152
+location: burgundy	155
+location: bordeaux region	155
+location: europe	273
+location: riverbank	154
+location: bordeaux	155
+location: gironde	155
+location: harbor	153
+location: river	154
+location: museum	80
+location: theme park	80
+location: landmark	80
+location: party venue	152
+location: coastal area	156
+location: near city	157
+location: national park	98
+location: bordeaux wine region	155
+location: cruise	357
+location: lake	154
+location: near river	154
+location: wine region	155
+location: right bank	154
+location: ocean	156
+location: waterfront	153
+location: sea	156
+location: near sea	156
+location: picnic	152
+location: region	190
+location: canteen	224
+location: country	190
+location: city	157
+location: fridge	322
+made from: red wine	352
+made from: white wine	354
+made from: cabernet sauvignon	33
+made from: merlot grapes	243
+made from: grapes	137
+made from: water	158
+made from: merlot	237
+made from: cabernet franc	33
+made from: sauvignon blanc grapes	243
+made from: grenache	141
+made from: blend of grapes	243
+made from: wheat flour	54
+made from: sangiovese grapes	243
+made from: roses	356
+made from: eggs	67
+made from: specific grape varieties	243
+made from: chardonnay	391
+made from: sauvignon	33
+made from: blended	253
+made from: white grapes	243
+made from: red grapes	137
+made from: other grapes	137
+main colors: rosé	356
+main colors: white	50
+main colors: red	129
+main ingredient: vegetable	381
+main ingredient: fruit	139
+main ingredient: grain	73
+main ingredient: protein	179
+making process: aged	7
+making process: late harvest	187
+making process: fermented	248
+making process: specialized technique	244
+making process: aged in barrel	252
+making process: fermented in oak barrels	248
+making process: blended	253
+making process: frozen grapes	250
+making process: filtered	246
+managed by: private company	159
+managed by: authority	160
+managed by: agency	159
+managed by: government	160
+management: regulatory	160
+management: public	160
+management: private company	159
+management: authority	160
+management: private	160
+management: company	159
+management: government	160
+material: vineyard	387
+material: wine barrel	252
+material: wheat	73
+material: water	158
+material: grapes	137
+material: egg	67
+material: eggs	67
+material: semolina	371
+material: dough	231
+material: wheat flour	54
+meal: dinner	164
+meal: course	368
+meal: dessert	110
+meal: main course	368
+meal: afternoon tea	162
+meal: starter	368
+meal: breakfast	161
+meal: part of a meal	368
+meal: lunch	164
+meal: appetizer	367
+meal context: at restaurant	364
+meal context: at party	180
+meal context: after dinner	364
+meal course: last course	368
+meal course: dessert	110
+meal course: afternoon tea	162
+meal course: appetizer	367
+meal course: starter	368
+meal course: sweet course	110
+meal course: breakfast	161
+meal occasion: brunch	163
+meal occasion: holiday	184
+meal occasion: special event	180
+meal occasion: lunch	164
+meal occasion: breakfast	161
+meal occasion: special occasion	186
+meal occasion: everyday	183
+meal occasion: dinner	164
+meal size: small	176
+meal size: large	176
+meal style: buffet	368
+meal style: informal	368
+meal style: formal	368
+meal type: dinner	368
+meal type: brunch	163
+meal type: afternoon tea	162
+meal type: lunch	164
+meal type: starter	368
+meal type: special occasion	180
+meal type: dessert	110
+meal type: snack	358
+meal type: appetizer	367
+meal type: evening	368
+meal type: afternoon	368
+meal type: first course	368
+meal type: breakfast	161
+medieval village: unesco world heritage site	165
+medieval village: small medieval town	165
+method: fermented	248
+method: aged in oak	252
+method: postponing	166
+method: waiting	166
+method: bottled	203
+method: delaying	166
+methods: ripening on tree	167
+methods: delayed picking	236
+mode: driving	170
+mode: cycling	170
+mode: boat	168
+mode: plane	171
+mode: walking	169
+mode of transport: flying	171
+mode of transport: boating	168
+mode of transport: driving	170
+mode of transport: walking	169
+mode of transportation: foot	170
+mode of transportation: car	170
+mode of transportation: train	171
+mode of transportation: plane	171
+mode of transportation: bus	171
+mouth: brittany	192
+mouth: atlantic ocean	285
+mouth: biscay bay	285
+mouthfeel: light-bodied	41
+mouthfeel: full-bodied	345
+mouthfeel: dry	342
+mouthfeel: smooth	331
+mouthfeel: tannic	290
+mouthfeel: oily	172
+mouthfeel: crisp	104
+municipalities: tours	272
+municipalities: angers	271
+municipalities: orléans	272
+nature: food	361
+nature: drinkable	359
+nature: nourishment	259
+nature: edible	204
+nature: breakfast	161
+nature: satisfying	44
+nature: lunch	164
+nature: dinner	164
+nature: nutritious	179
+nature: consumable	173
+notable features: canyons	100
+notable features: loire river estuary	271
+notable features: loire valley	271
+notable features: loire-atlantique department	271
+notable features: waterfalls	100
+notable for: rare	174
+notable for: highly rated	22
+notable for: expensive	143
+notes: honeyed	107
+notes: nutty	105
+notes: hints of oak	42
+notes: hints of berries	333
+notes: fruity	340
+notes: floral	43
+notes: oaky	42
+notes: spicy	343
+notes: caramel	208
+notes: berry	227
+notes: earthy	330
+notes: chocolate	208
+notes: hints of vanilla	336
+number of courses: three	175
+number of courses: five	175
+number of courses: four	175
+number of dishes: single	176
+number of dishes: side	176
+number of dishes: dessert	110
+number of dishes: multiple	176
+number of dishes: three	176
+number of dishes: four	176
+number of dishes: main	176
+number of dishes: multi	176
+number of dishes: one	176
+number of dishes: 3	176
+number of dishes: 1	176
+number of dishes: 2	176
+number of dishes: 5	176
+number of dishes: 4	176
+number of dishes: five	176
+number of fruits: single	139
+number of fruits: multiple	139
+number of people: many	177
+number of people: one	177
+nutrition: high in calories	178
+nutrition: rich in vitamins	178
+nutrition: healthy	178
+nutrition: low in fat	179
+nutrition: high in antioxidants	178
+nutritional content: high in calories	178
+nutritional content: high in cholesterol	179
+nutritional content: high in antioxidants	178
+nutritional content: rich in vitamins	178
+nutritional content: high in protein	179
+nutritional content: low in fat	179
+nutritional content: high in fiber	178
+nutritional content: nutrient-rich	178
+nutritional content: rich in fat	179
+nutritional content: rich in iron	178
+nutritional content: high in fat	179
+nutritional content: rich in fiber	178
+nutritional content: low in calories	178
+nutritional content: rich in protein	179
+objects: clothing	11
+objects: wine bottle	380
+objects: paint	61
+occasion: special event	186
+occasion: dinner party	180
+occasion: party	182
+occasion: casual gathering	268
+occasion: special occasion	186
+occasion: holiday	184
+occasion: birthday	186
+occasion: holiday meal	184
+occasion: relaxation	264
+occasion: casual dinner	164
+occasion: romantic evening	181
+occasion: anniversary	186
+occasion: special	186
+occasion: celebratory	182
+occasion: banquet	180
+occasion: casual gatherings	180
+occasion: special events	186
+occasion: summer gathering	184
+occasion: wine and cheese night	180
+occasion: celebration	182
+occasion: wedding	185
+occasion: summer evening	181
+occasion: romantic dinner	180
+occasion: special dinner	180
+occasion: social gathering	268
+occasion: after meal	364
+occasion: brunch	163
+occasion: daily	183
+occasion: special treat	186
+occasion: holiday gathering	184
+occasion: special meal	180
+occasion: wine tasting	180
+occasion: gift	63
+occasion: romantic	181
+occasion: everyday drinking	68
+occasion: fine dining	180
+occasion: everyday drink	359
+occasion: special occasions	186
+occasion: dinner	180
+occasion: everyday	183
+occasion: apéritif	182
+occasion: holiday gatherings	184
+occasion: dinner parties	180
+occasion: daily routine	183
+occasional occasion: birthday	186
+occasional occasion: holiday	184
+occasional occasion: wedding	185
+occasional timing: after dinner	364
+occasional timing: on special occasions	186
+occasions: birthday	186
+occasions: dinner	180
+occasions: brunch	163
+occasions: wedding	185
+occasions: party	182
+occasions: romantic evening	181
+occasions: everyday	183
+occasions: special occasion	186
+occasions: lunch	164
+occasions: holiday	184
+occasions: breakfast	161
+occasions: dinner party	180
+occasions: anniversaries	186
+occasions: romantic dinner	180
+occasions: weddings	185
+occasions: special events	186
+occasions: special occasions	186
+odor: clean	310
+odor: fresh	310
+operations: loading	2
+operations: distribution	120
+operations: unloading	2
+operations: regulated	262
+operations: weather dependent	2
+operations: storage	1
+operations: 24/7	117
+operator: company	159
+operator: individual	256
+operator: government	160
+opposite: first harvest	187
+opposite: early harvest	187
+opposite: premature harvest	187
+opposite concept: spring harvest	187
+opposite concept: early harvest	187
+optional ingredients: seeds	83
+optional ingredients: cream	188
+optional ingredients: syrup	189
+optional ingredients: nuts	140
+order: appetizer first	367
+order: dessert last	110
+organizer: family	220
+organizer: local guide	254
+organizer: government	160
+organizer: travel agency	255
+organizer: non-profit organization	256
+organizer: tour operator	255
+organizer: friend	256
+origin: specific region	190
+origin: burgundy	397
+origin: white	50
+origin: lamb	191
+origin: pork	206
+origin: sparkling	353
+origin: european	193
+origin: beef	206
+origin: california	197
+origin: france	192
+origin: loire valley	192
+origin: burgundy region	397
+origin: region	190
+origin: manufactured	238
+origin: europe	193
+origin: italy	194
+origin: spain	194
+origin: usa	196
+origin: new world	195
+origin: australia	195
+origin: red	129
+origin: bordeaux	394
+origin: west coast	197
+origin: domesticated	36
+origin: united states	196
+origin: wild	29
+origin: napa valley	197
+origin: sonoma county	197
+origin: specific regions	190
+origin: new york	196
+origin: beaujolais region	33
+origin: made in texas	200
+origin: bordeaux region	243
+origin: champagne	354
+origin: french cuisine	211
+origin: american wine	354
+origin: alsace	192
+origin: canada	198
+origin: north america	198
+origin: piedmont	194
+origin: european union	193
+origin: portugal	194
+origin: french	192
+origin: italian	194
+origin: american	196
+origin: european wine	354
+origin: asia	193
+origin: butcher	316
+origin: wine	397
+origin: syrah	199
+origin: lone star state	200
+origin: texas	200
+origin: temperate	123
+origin: subtropical	124
+origin: europa	193
+origin: bourgogne	192
+origin: tropical	124
+origin: garden	204
+origin: farm	201
+origin: australian	195
+origin: market	91
+origin: ranch	201
+origin: new zealand	195
+origin: germany	202
+origin: tuscany	194
+origin: processed	253
+origin: pond	315
+origin: state	190
+origin: marlborough	393
+origin: allemagne	314
+origin: alaska	198
+origin: seafood	218
+origin: aquatic	218
+origin: natural	204
+origin: synthetic	312
+origin: bottle region	144
+origin: old world	193
+origin: tap	313
+origin: bottled	203
+origin: veneto	194
+origin: washington state	197
+origin: oregon	197
+origin: sheep	191
+origin: pig	191
+origin: deer	191
+origin: lab	173
+origin: animal	204
+origin: lake	315
+origin: alabama	200
+origin: mount loire	314
+origin: massif central	314
+origin: austria	202
+origin: chianti region	194
+origin: chicken	207
+origin: rosé	356
+origin: japanese cuisine	209
+origin: fine dining	64
+origin: seafood restaurant	218
+origin: rhône valley	314
+origin: rhein	274
+origin: chile	197
+origin: german	202
+origin: mediterranean region	194
+origin: european cuisine	74
+origin: asian cuisine	209
+origin: french wine	391
+origin: venison	206
+origin: river	154
+origin: plant	204
+origin: tuscany region	194
+origin: rhone valley	314
+origin: ocean	156
+origin: sea	156
+origin: cattle	191
+origin: alsace region	192
+origin: climate	390
+origin: soil	311
+origin: wine region	397
+origin: rheinland	274
+origin: red wine	352
+origin: white wine	352
+origin: riesling region	33
+origin: grapes	137
+overall impression: complex	221
+overall impression: light	205
+overall impression: sophisticated	150
+overall impression: refreshing	344
+overall impression: full-bodied	34
+pair with: cheese	216
+pair with: seafood	218
+pair with: chocolate	208
+pair with: fruit	139
+pair with: pasta	214
+pairing: meat	206
+pairing: red meat	206
+pairing: chicken	207
+pairing: desert	215
+pairing: spicy dishes	209
+pairing: seafood	218
+pairing: cheese	213
+pairing: white with fish	212
+pairing: dark chocolate	208
+pairing: with wine	59
+pairing: red with red meat	206
+pairing: soft cheeses	213
+pairing: spicy food	343
+pairing: caramel	208
+pairing: sweet dishes	110
+pairing: fruit	139
+pairing: with seafood	218
+pairing: with cheese	216
+pairing: with food	59
+pairing: game	210
+pairing: pasta	214
+pairing: pizza	86
+pairing: with beer	10
+pairing: poultry	112
+pairing: food	59
+pairing: as an aperitif	31
+pairing: as a standalone drink	359
+pairing: with meals	59
+pairing: salads	217
+pairing: chocolate	208
+pairing: asian cuisine	209
+pairing: dessert	110
+pairing: hard cheese	213
+pairing: salmon	212
+pairing: as aperitif	59
+pairing: foie gras	31
+pairing: strong cheeses	213
+pairing: light meals	368
+pairing: appetizers	367
+pairing: with pasta	214
+pairing: goat cheese	213
+pairing: occasion	183
+pairing: wine	354
+pairing: rosé with cheese	397
+pairing: red wine and cheese	243
+pairing: desserts	110
+pairing: alone	210
+pairing: with steak	113
+pairing: on its own	210
+pairing: pork	206
+pairing: with red meat	206
+pairing: with fish	218
+pairing: appetizer	367
+pairing: main course	109
+pairing: with dessert	59
+pairing: with chocolate	208
+pairing: with dinner	59
+pairing: with appetizer	367
+pairing: with meat	206
+pairing: special occasions	186
+pairing: game meat	206
+pairing: mature cheese	213
+pairing: fine dining	368
+pairing: french cuisine	211
+pairing: lamb	191
+pairing: rich sauces	58
+pairing: salad	217
+pairing: barbecue	69
+pairing: goes well with cheese	216
+pairing: goes well with fish	218
+pairing: with poultry	112
+pairing: with salmon	212
+pairing: pâté	210
+pairing: red sauce	58
+pairing: nuts	140
+pairing: beer	10
+pairing: sparkling water	353
+pairing: grilled meats	113
+pairing: charcuterie	141
+pairing: with sugar	366
+pairing: with cream	188
+pairing: with cereal	358
+pairing: with yogurt	216
+pairing: sparkling with celebration	353
+pairing: soft cheese	213
+pairing: mussels	218
+pairing: asparagus	141
+pairing: strong cheese	213
+pairing: for special occasions	59
+pairing: roasted chicken	207
+pairing: with fine dining	368
+pairing: with bbq	69
+pairing: red wine and chocolate	354
+pairing: with tex-mex cuisine	58
+pairing: mushrooms	141
+pairing: white meat	206
+pairing food: cheese	216
+pairing food: red meat	206
+pairing food: chocolate	208
+pairing food: pasta	214
+pairing food: pork	206
+pairing food: seafood	218
+pairing options: fruit	139
+pairing options: chocolate	208
+pairing options: red meat	206
+pairing options: cheese	213
+pairing options: grilled meats	113
+pairing options: seafood	218
+pairing options: salads	217
+pairing options: goat cheese	213
+pairing options: chicken	207
+pairing suggestions: cheese	213
+pairing suggestions: red meat	206
+pairing suggestions: dark chocolate	208
+pairing with: desert	215
+pairing with: seafood	218
+pairing with: cheese	216
+pairing with: pasta	214
+pairing with: food	59
+pairing with: red meat	206
+pairing with: chocolate	208
+pairing with: fruit	139
+pairing with: sweet dishes	110
+pairing with: salad	217
+pairing with: dessert	110
+pairing with: meal	364
+pairing with: dark chocolate	208
+pairing with: meat	206
+pairing with: fine dining	368
+pairing with: asian cuisine	209
+pairing with: french cuisine	211
+pairing with: chicken	207
+pairing with: fish	218
+pairing with: nuts	140
+pairing with: whipped cream	57
+pairing with: spicy food	343
+pairing with: spices	108
+pairing with: salmon	212
+pairing with food: seafood	218
+pairing with food: cheese	216
+pairing with food: red meat	206
+pairing with food: poultry	112
+pairing with food: strong cheeses	213
+pairs well with: desserts	110
+pairs well with: fruit	139
+pairs well with: cheese	216
+pairs well with: nuts	140
+participant: group	219
+participant: family	220
+participant: individual	219
+participants: single	220
+participants: family	220
+participants: group	219
+perceived: by taste	289
+perceived: through eyes	221
+perception: objective	221
+perception: subjective	221
+physical characteristics: feathers	385
+physical characteristics: beak	222
+physical characteristics: wings	223
+place: canteen	224
+place: restaurant	151
+place: home	225
+popular brands: rioja	226
+popular brands: chateau lafite	391
+popular brands: tuscan wine	391
+popular brands: sauternes	226
+popular brands: opus one	226
+popular brands: moscato	194
+popular brands: pinot grigio	141
+popular brands: sauvignon	33
+popular brands: tawny port	337
+popular brands: chardonnay	391
+popular brands: chateau margaux	391
+popular brands: penfolds	226
+popular brands: sauvignon blanc	33
+popular choices: ice cream	57
+popular choices: cake	372
+popular choices: pie	56
+popular desserts: cheesecake	372
+popular desserts: chocolate cake	372
+popular desserts: apple pie	56
+popular for: apéritif	31
+popular for: dinner party	180
+popular for: weddings	65
+popular for: gift-giving	63
+popular for: special occasions	60
+popular for: romantic occasions	181
+popular for: everyday drinking	374
+popular for: wine and cheese night	151
+popular for: pairing with food	59
+popular for: drinking with friends	374
+popular for: gifting	63
+popular for: casual drinking	374
+popular for: dessert pairing	110
+popular fruit combinations: strawberries and cream	227
+popular fruit combinations: grapes and cheese	137
+popular fruit combinations: blueberries and yogurt	227
+popular fruits: raspberries	227
+popular fruits: blueberries	227
+popular fruits: strawberries	227
+popular in: wine bars	19
+popular in: parties	152
+popular in: california wine country	397
+popular in: french wine regions	391
+popular in: germany	202
+popular in: usa	196
+popular in: canada	198
+popular in: restaurants	20
+popular occasions: wedding	185
+popular occasions: dinner party	180
+popular occasions: anniversary	186
+popular regions: mosel	274
+popular regions: alsace	272
+popular regions: new york	276
+popular types: ice cream	57
+popular types: pie	56
+popular types: mousse	211
+popular types: tart	340
+popular types: cake	372
+popularity: popular	228
+popularity: popular wine	228
+popularity: wine for special occasions	354
+popularity: exclusive	228
+popularity: growing trend	228
+popularity: classic	228
+popularity: growing	228
+preparation: mixing	229
+preparation: heating	230
+preparation: baking	230
+preparation: baked	231
+preparation: fried	297
+preparation: cooking	230
+preparation: grilled	113
+preparation: cooked	230
+preparation: mixed	229
+preparation: prepared	229
+preparation: dressing	230
+preparation: raw	300
+preparation: simple arrangement	229
+preparation method: cooking	230
+preparation method: chilling	250
+preparation method: baking	230
+preparation method: frying	71
+preparation method: baked	231
+preparation method: raw	300
+preparation method: smoked	69
+preparation method: boiling	230
+preparation method: mixing	229
+preparation method: cooked	71
+preparation method: fried	297
+preparation method: poached	112
+preparation method: roasted	70
+preparation method: brewing	251
+preparation method: steamed	71
+preparation method: mixed	229
+preparation method: grilled	113
+preparation method: processed	253
+prepared by: baker	231
+prepared by: chef	32
+prepared by: home cook	32
+prepared by: mixing	229
+prepared by: brewing	229
+prepared by: cooking	230
+prepared with: water	158
+prepared with: oil	172
+prepared with: seasoning	58
+prescription: pharmacist's advice	232
+prescription: doctor's orders	232
+presentation: served in a bowl	233
+presentation: in a fruit bowl	233
+presentation: arranged on a platter	233
+presentation: in a fruit salad	66
+presentation: arranged on a plate	233
+presentation: in a parfait	233
+presentation: arranged on plate	233
+presentation: in a bowl	233
+preservation: stored	1
+preservation: sealed	319
+preservation: corked	19
+price: affordable	234
+price: high-end	234
+price: mid-range	234
+price: expensive	235
+price: premium	235
+price: luxury	235
+price: luxurious	235
+price range: expensive	235
+price range: luxury wine	396
+price range: reasonable	234
+price range: luxurious	235
+price range: affordable	234
+price range: mid-range	234
+price range: luxury	235
+price range: premium	235
+price range: $15-$30	234
+price range: budget	235
+price range: luxury product	235
+price range: fine wine	396
+price range: budget-friendly	234
+process: delayed picking	236
+process: bottling	251
+process: aging	9
+process: fermentation	241
+process: storing	1
+process: blending	242
+process: drying	386
+process: delayed	166
+process: filtration	251
+process: extended ripening	167
+process: extended	236
+process: picking	236
+processing: oxidative	251
+processing: fermented	248
+processing: aged	7
+processing: pasteurized	248
+processing: aged in oak	252
+processing: filtered	246
+processing: reductive	221
+processing method: aged in oak barrels	252
+processing method: aged in barrels	252
+processing method: fermented in oak barrels	248
+produced by: alsace wine producers	243
+produced by: château margaux	243
+produced by: large wine companies	397
+produced by: small wineries	397
+produced by: wine maker	397
+produced from: specific grape varieties	397
+produced from: red grapes	355
+produced from: syrah	199
+produced from: merlot	237
+produced from: cabernet sauvignon	33
+produced from: grapes	137
+produced in: california	197
+produced in: france	192
+produced in: italy	194
+produced in: vineyards	387
+produced in: wineries	397
+produced in: wine regions	397
+production: produced in small quantities	239
+production: limited quantity	239
+production: small production	239
+production: vintage	388
+production: high-quality winemaking	135
+production: aged	7
+production: made from chardonnay grapes	243
+production: vineyard	135
+production: grapes	137
+production: aged in oak barrels	252
+production: aged for several months	252
+production: fermented in oak barrels	248
+production: handcrafted	238
+production: delicate processing	239
+production: blended	253
+production: winemaking process	240
+production: winery	135
+production: still wine	397
+production: artisanal	239
+production: small scale	239
+production: fermented	248
+production: sparkling wine	354
+production: traditional	239
+production: delicate	239
+production: local	239
+production: small-scale	239
+production: high maintenance	75
+production: fermented in stainless steel	248
+production: oaked	42
+production: small-batch	239
+production: fragrant	310
+production: family-owned	239
+production: delicate fermentation	241
+production: careful handling	239
+production: limited edition	270
+production: made from cabernet sauvignon	33
+production: made from merlot	237
+production: sweet	341
+production: sparkling	353
+production: dry	245
+production: produced in loire valley	192
+production: made from melon grapes	243
+production: vintner's selection	240
+production method: late harvesting	187
+production method: made from ripe grapes	243
+production method: made from botrytized grapes	243
+production method: aged	7
+production method: wine making	240
+production method: specialized fermentation	241
+production method: aging	249
+production method: aged in oak barrels	252
+production method: red wine production	240
+production method: fermented	248
+production method: aged in oak	252
+production method: fermentation	241
+production method: white wine production	240
+production method: blending	242
+production method: bottling	251
+production method: handcrafted	238
+production method: blended	253
+production method: fermented in oak barrels	248
+production method: made from sauvignon blanc grapes	243
+production method: unfiltered	244
+production method: modern winemaking	240
+production method: grape harvesting	240
+production method: made from chardonnay grapes	243
+production method: grapes	243
+production method: traditional	244
+production method: oenological	244
+production method: made from pinot noir grapes	243
+production method: vintage	388
+production method: oxidative	251
+production method: no oak aging	247
+production method: carefully blended	253
+production method: biodynamic	244
+production method: oaked	42
+production method: modern	244
+production method: small batch	239
+production method: cold-fermented	248
+production method: dry method	245
+production method: small-scale	239
+production method: blended with other wines	397
+production method: ice wine	250
+production method: modern method	244
+production method: traditional method	244
+production method: cold fermentation	241
+production method: sparkling	353
+production method: grapes harvested by hand	397
+production method: aged for several years	7
+production method: handmade	238
+production method: aging in oak	252
+production method: made from grapes	243
+production method: dry	245
+production method: barrel fermentation	241
+production method: oak aging	247
+production method: late harvest	187
+production method: filtered	246
+production method: carefully crafted	238
+production method: bottled	203
+production method: fermented in oak	248
+production method: carbonic maceration	251
+production method: whole grape fermentation	241
+production method: organic farming	96
+production method: off-dry	245
+production method: fermented in stainless steel tanks	248
+production method: aged in barrels	252
+production method: botrytized	253
+production method: botrytized grapes	243
+production method: small scale	239
+production method: oak barrel ageing	249
+production method: organic	96
+production method: sustainable	96
+production method: small-scale production	239
+production method: dry farming	76
+production method: traditional winemaking	240
+production method: winery	240
+production method: vineyard	387
+production method: whole-grape fermentation	241
+production method: short aging	249
+production method: minimal oak aging	247
+production method: frozen grapes	250
+production method: blend of grapes	243
+production method: pressing	251
+production method: oak-aged	247
+production method: hand-picked grapes	243
+production method: direct pressing	244
+production method: fermented in stainless steel	248
+production method: made from sangiovese grapes	243
+production method: dry-ice method	250
+production method: fortified with spirits	252
+production method: chardonnay grape	391
+production method: fermented with sugar	248
+production method: aged in cellar	252
+production method: minimal intervention	244
+production method: minimum intervention	244
+production method: full fermentation	241
+production method: vinification	240
+production method: distillation	251
+production method: champagne method	240
+production method: aging process	249
+production method: sparkling wine	354
+production method: still wine	397
+production method: mixing different wines	240
+production method: winemaking	240
+production method: made from chenin blanc grapes	243
+production method: blend of methods	244
+production method: fermented in steel	248
+production method: sweet	341
+production method: natural fermentation	241
+production method: dessert	110
+production process: filtration	251
+production process: wine aged in oak barrels	397
+production process: grapes harvested by hand	397
+production process: blending	242
+production process: frozen grapes	250
+production process: aging in oak barrels	252
+production process: distillation	251
+production process: aging	249
+production process: aging process	249
+production process: blending of different wines	240
+production process: fermented in stainless steel	248
+production process: late harvest	187
+production process: fermentation	241
+production process: made from chardonnay grapes	243
+production process: aged in oak barrels	252
+production process: fermented in oak barrels	248
+production process: grapes	240
+production process: fermented	248
+production process: aged	7
+production process: blended	253
+production process: short fermentation period	241
+production process: carbonic maceration	251
+production process: blend	242
+production process: grape harvesting	240
+production process: bottling	251
+production process: blend of grapes	243
+production process: careful blending	242
+production process: red wine with grape skin	397
+production process: white wine without skin	397
+production process: rosé with brief skin contact	356
+production process: aging in oak	398
+production region: côte de nuits	395
+production region: burgundy	394
+production region: bordeaux	394
+production region: france	272
+profile: full-bodied	34
+profile: light-bodied	41
+profile: complex	40
+profile: smooth	103
+profile: crisp	104
+properties: temperature	346
+properties: essential for life	44
+properties: hydrating	44
+properties: used for hygiene	386
+properties: ph level	0
+properties: affordable	225
+properties: versatile	44
+properties: refreshing	344
+properties: purifying	0
+properties: mineral content	45
+properties: calming	344
+provider: online platform	115
+provider: local guide	254
+provider: travel agency	255
+provider: tour operator	255
+provider: individual	256
+provider: individual guide	254
+provider: non-profit	256
+provider: government	160
+provider: operator	255
+purpose: food production	76
+purpose: adventure	257
+purpose: celebration	182
+purpose: to socialize	268
+purpose: recreation	258
+purpose: quenching thirst	118
+purpose: social	260
+purpose: to celebrate	182
+purpose: to provide healthy option	261
+purpose: nourishment	259
+purpose: to add variety	266
+purpose: to impress guests	266
+purpose: vacation	258
+purpose: to satisfy sweet tooth	261
+purpose: recreational	258
+purpose: cultural	260
+purpose: practical	133
+purpose: beer brewing	134
+purpose: to satisfy hunger	261
+purpose: refreshment	264
+purpose: to complete meal	263
+purpose: hydration	261
+purpose: sightseeing	365
+purpose: winemaking	240
+purpose: entertainment	266
+purpose: drinking on special occasions	359
+purpose: adventure seeking	257
+purpose: provide nutrition	259
+purpose: pairing with food	59
+purpose: travel	255
+purpose: to be drunk	68
+purpose: education	260
+purpose: to be eaten	30
+purpose: energy	267
+purpose: nutrition	259
+purpose: leisure	258
+purpose: satisfying sweet tooth	341
+purpose: business	262
+purpose: enhance flavor	265
+purpose: cultural exchange	260
+purpose: dessert	110
+purpose: satisfaction	15
+purpose: transportation	119
+purpose: commerce	262
+purpose: economy	90
+purpose: create unique taste	265
+purpose: tourism	351
+purpose: breakfast	161
+purpose: to celebrate occasion	182
+purpose: to end meal	263
+purpose: ending meal	263
+purpose: pleasing palate	289
+purpose: relaxation	264
+purpose: meal accompaniment	298
+purpose: bring people together	268
+purpose: educational	260
+purpose: add flavor	265
+purpose: special occasion	186
+purpose: to get more yield	282
+purpose: to extend growing season	78
+purpose: gift-giving	63
+purpose: entertaining	266
+purpose: wine appreciation	380
+purpose: wine pairing	240
+purpose: medication	232
+purpose: provide energy	267
+purpose: wine criticism	21
+purpose: satisfy hunger	261
+purpose: social gathering	268
+quality: rare	269
+quality: expensive	143
+quality: filtered	246
+quality: good	269
+quality: excellent	269
+quality: distilled	203
+quality: contaminated	173
+quality: high-end	270
+quality: bad	94
+quality: pure	269
+quality: average	269
+quality: premium	270
+quality: fine	269
+quality level: high-end	270
+quality level: premium	270
+quality level: luxury	235
+rarity: rare	174
+rarity: expensive	143
+reason: weather conditions	390
+reason: farming practices	76
+reason: delayed planting	284
+region: bordeaux	394
+region: loire valley	271
+region: american	279
+region: piemonte	280
+region: european	273
+region: high plains	277
+region: france	272
+region: central coast	281
+region: australian	279
+region: valley	277
+region: portugal	278
+region: pays de la loire	271
+region: italy	280
+region: tuscany	280
+region: hill country	277
+region: french	272
+region: alsace	272
+region: rhine	274
+region: california	281
+region: oregon	281
+region: new york	276
+region: languedoc	272
+region: willamette valley	281
+region: burgundy	394
+region: piedmont	280
+region: europe	273
+region: usa	279
+region: australia	279
+region: rheingau	274
+region: pfalz	274
+region: rhone valley	280
+region: centre-val de loire region	271
+region: rhein	274
+region: black forest	274
+region: napa valley	281
+region: worldwide	279
+region: spain	278
+region: baden	274
+region: mosel	274
+region: champagne	394
+region: italian	280
+region: sonoma county	281
+region: aquitaine region	272
+region: gironde department	271
+region: moselle	271
+region: bordeaux region	394
+region: veneto	280
+region: lombardy	280
+region: frankfurt	274
+region: paso robles	281
+region: texas hill country	277
+region: america	279
+region: known for beauty	395
+region: fredericksburg	275
+region: new zealand	279
+regions: sonoma county	281
+regions: high plains	277
+regions: new york	276
+regions: oregon	281
+regions: hill country	277
+regions: valley	277
+regions: bordeaux	394
+regions: italy	280
+regions: france	272
+regions: spain	278
+regions: portugal	278
+regions: new world	279
+regions: napa valley	281
+regions: tuscany	280
+regions: old world	279
+regions: baden	274
+regions: burgundy	394
+regions: california	281
+regions: loire valley	271
+regions: grapevine	395
+regions: pfalz	274
+regions: rhône valley	280
+regions: european	273
+regions: australia	279
+regions: champagne	394
+regions: europe	273
+regions: fredericksburg	275
+regions: rheingau	274
+regions: chardonnay	394
+regions: sauvignon blanc	394
+regions: riesling	394
+regions: marlborough	393
+regions: mosel	274
+regions where grown: bordeaux	394
+regions where grown: napa valley	281
+regions where grown: hunter valley	277
+regions where grown: tuscany	280
+regions where produced: california	281
+regions where produced: europe	273
+regions where produced: italy	280
+regions where produced: france	272
+regions where produced: spain	278
+regions where produced: bordeaux	394
+regions where produced: new world	279
+related concepts: beer brewing	134
+related concepts: wine region	395
+related concepts: wine age	392
+related concepts: food preservation	250
+related concepts: wine style	396
+related concepts: wine production	135
+related to: wine production	376
+related to: aging	5
+related to: oenology	135
+related to: grapes	137
+related to: grape harvest	376
+related to: agriculture	201
+related to: food	361
+related to: winemaking process	376
+related to: wine tasting	380
+related to: culture	260
+relation to grape: derived from grape juice	137
+relation to grape: influenced by grape variety	16
+result: higher yield	282
+result: mature	4
+result: smaller size	308
+result: ripe	167
+result: different taste	283
+result: better flavor	283
+result: higher quality	270
+result: lower yield	282
+result: better quality	270
+result: higher sugar content	366
+result: unique flavor	335
+result: high-quality	270
+result: more flavorful	283
+risk: drought	284
+risk: pests	84
+risk: frost	284
+river: longest river in france	286
+river: longest river	285
+river: france	286
+river: flows into atlantic ocean	285
+river: forms border	285
+river: flows through paris	286
+river: longest in france	286
+river: tributary of atlantic ocean	285
+role: social occasion	180
+role: relaxation	264
+role: fuel	267
+safety: not safe to drink	203
+safety: safe to drink	203
+safety concern: risk of food poisoning	287
+safety concern: need for proper cooking	287
+safety concerns: e. coli	287
+safety concerns: trichinosis	287
+safety concerns: mad cow disease	287
+scale: mild	148
+scale: intense	142
+scenic views: châteaux	146
+scenic views: rolling hills	98
+scenic views: vineyards	98
+schedule: flexible	88
+schedule: fixed	88
+season: ripened in summer	167
+season: summer	123
+season: spring	288
+season: fall	288
+season: autumn	288
+season: harvested in autumn	187
+season: winter	288
+season: frozen conditions	288
+season: tropical	124
+seasonality: winter	288
+seasonality: seasonal	288
+seasonality: available year round	288
+seasonality: spring	288
+seasonality: fall	288
+seasonality: summer	288
+seasonality: in season	288
+seasonality: available year-round	288
+sensory aspect: bitter	292
+sensory aspect: fruity	340
+sensory aspect: acidic	291
+sensory aspect: sweet	341
+sensory aspect: tannic	290
+sensory aspects: bitter	292
+sensory aspects: sweet	341
+sensory aspects: fruity	340
+sensory aspects: acidic	291
+sensory aspects: oaky	42
+sensory aspects: tannic	290
+sensory aspects: tart	340
+sensory attribute: appearance	17
+sensory attribute: smell	293
+sensory attribute: taste	289
+sensory attributes: floral	310
+sensory attributes: sour	291
+sensory attributes: bitter	292
+sensory attributes: sweet	341
+sensory attributes: tart	340
+sensory attributes: dry	342
+sensory attributes: fruity	340
+sensory characteristic: aroma	38
+sensory characteristic: taste	289
+sensory characteristic: acidity	0
+sensory characteristic: tannins	327
+sensory characteristic: bouquet	43
+sensory characteristic: flavor	289
+sensory characteristics: smell	293
+sensory characteristics: taste	289
+sensory characteristics: aromatic	338
+sensory characteristics: oaky	42
+sensory characteristics: bitterness	292
+sensory characteristics: sweetness	289
+sensory characteristics: tannins	327
+sensory characteristics: earthy	330
+sensory characteristics: fruity	340
+sensory characteristics: appearance	221
+sensory characteristics: texture	289
+sensory characteristics: tannic	290
+sensory characteristics: acidic	291
+sensory characteristics: sweet	341
+sensory characteristics: bitter	292
+sensory characteristics: acidity	0
+sensory characteristics: tart	340
+sensory characteristics: flavors	289
+sensory characteristics: flavorful	335
+sensory experience: bitter	292
+sensory experience: fruity	340
+sensory experience: acidic	291
+sensory experience: tannic	290
+sensory experience: sweet	341
+sensory property: smell	293
+sensory property: taste	289
+sensory property: appearance	17
+sensory quality: fruity	340
+sensory quality: floral	310
+sensory quality: unpleasant	3
+sensory quality: oaky	42
+sensory quality: balanced	289
+sensory quality: unbalanced	221
+sensory quality: pleasant	293
+sensory quality: earthy	330
+sequence: appetizer followed by main course followed by dessert	368
+served as: dessert	110
+served as: side dish	111
+served as: main course	109
+served at: table	32
+served at: dinner	32
+served at: special gathering	32
+served at: party	32
+served in: wine glass	19
+served in: chilled	296
+served in: room temperature	301
+served with: chocolate sauce	32
+served with: honey	107
+served with: whipped cream	57
+served with: ice cream	57
+served with: syrup	189
+served with: yogurt	31
+served with: tea	162
+served with: cream	188
+served with: sugar	366
+served with: rice	294
+served with: bread	32
+served with: lemon	66
+served with: coffee	295
+served with: fruit	66
+served with: olive oil	58
+served with: garlic	58
+served with: sauce	58
+served with: whiskey	296
+served with: wine	32
+served with: meatballs	113
+serving: as an aperitif	298
+serving: with food	298
+serving: wine opener	380
+serving: chilled	296
+serving: glass	302
+serving: hot	295
+serving: cold	296
+serving: buffet	298
+serving: room temperature	301
+serving: wine bottle	380
+serving: with dessert	298
+serving: on its own	299
+serving method: served hot	295
+serving method: served cold	296
+serving method: served with a fork	298
+serving method: baked	231
+serving method: fried	297
+serving method: served as a treat	110
+serving method: in cup	298
+serving method: individual portions	298
+serving method: on plate	298
+serving method: buffet	298
+serving method: in bowl	298
+serving style: formal	299
+serving style: informal	299
+serving style: served cold	296
+serving style: alone	299
+serving style: with cheese	298
+serving style: buffet	299
+serving style: with chocolate	110
+serving style: bowl	302
+serving style: glass	302
+serving style: plated	298
+serving style: cold	296
+serving style: hot	295
+serving style: with oil	295
+serving style: platter	302
+serving style: poached	300
+serving style: fried	297
+serving style: red wine glass	380
+serving style: with sauce	58
+serving style: cooked	297
+serving style: shared	299
+serving style: individual	299
+serving style: whole	298
+serving style: sliced	297
+serving style: with salad	217
+serving style: cold with sauce	296
+serving style: chilled	296
+serving style: room temperature	301
+serving style: with rice	294
+serving style: individual portions	298
+serving style: dried	300
+serving style: raw	300
+serving style: takeaway	32
+serving style: individual serving	299
+serving style: warm	295
+serving style: individual plates	298
+serving style: with cream	295
+serving style: served chilled	296
+serving style: served individually	298
+serving style: with sugar	110
+serving style: served warm	295
+serving style: fresh	300
+serving style: with yogurt	32
+serving style: served with whipped cream	110
+serving temperature: chilled	296
+serving temperature: room temperature	301
+serving temperature: warm	301
+serving temperature: cooled	301
+serving temperature: cool	301
+serving temperature: around 55°f	301
+serving temperature: cooled down	301
+serving vessel: glass	302
+serving vessel: plate	302
+serving vessel: fruit bowl	302
+serving vessel: cup	302
+setting: home	225
+setting: outdoor	98
+setting: party	152
+setting: restaurant	151
+setting: canteen	224
+shade: amber	132
+shade: golden	131
+shade: pale yellow	47
+shade: light	205
+shade: medium	303
+shade: rosé	356
+shade: white	50
+shade: red	129
+shade: golden brown	131
+shade: claret	52
+shade: bright	205
+shade: burgundy	52
+shade: intense	303
+shade: pink	130
+shade: champagne	52
+shade: dark	303
+shade: deep red	129
+shade: light red	129
+shade: rich	37
+shade: deep	303
+shape: curved	304
+shape: twisted	304
+shape: pear-shaped	363
+shape: long	304
+shape: flat	305
+shape: round	305
+shape: small	304
+shape: oval	305
+shape: short	304
+shape: elliptical	305
+shape: straight	304
+shelf life: long-lasting	306
+shelf life: shelf-stable	306
+shelf life: non-perishable	306
+shelf life: perishable	306
+shelf life: fresh	306
+side effects: none	307
+side effects: minor	307
+side effects: allergic reaction	307
+side effects: serious	307
+side effects: nausea	307
+side effects: dizziness	307
+size: varies	308
+size: thick	308
+size: large	309
+size: small	308
+size: medium	309
+size: medium to large	309
+size: thin	308
+size: busy	177
+size: idle	309
+skin: smooth	347
+skin: thin	347
+smell: floral	310
+smell: citrus	106
+smell: fruity	340
+smell: pungent	338
+smell: sweet	341
+smell: oaky	332
+smell: herbal	338
+smell: aromatic	338
+smell: buttery	329
+smell: earthy	330
+smell: citrusy	106
+smell descriptors: oaky	42
+smell descriptors: fruity	340
+smell descriptors: floral	310
+smell descriptors: spicy	343
+smell descriptors: nutty	105
+social occasion: wedding	185
+social occasion: holiday	184
+social occasion: birthday	186
+soil: sand	311
+soil: clay	311
+soil: limestone	311
+soil composition: clay	311
+soil composition: sand	311
+soil composition: limestone	311
+soil type: sand	311
+soil type: limestone	311
+soil type: clay	311
+source: plant	204
+source: animal	204
+source: french central region	272
+source: packaged	306
+source: distilled	203
+source: synthetic	312
+source: mineral	45
+source: tap	313
+source: pyrenees	314
+source: natural	315
+source: vosges mountains	314
+source: massif central	314
+source: bottle	144
+source: french alps	314
+source: spring	315
+source: mont lozère	314
+source: well	315
+source: manufactured	173
+source: bottled	203
+source: water	315
+sourced from: butcher	316
+sourced from: supermarket	322
+sourced from: farm	201
+sourced from: restaurant	20
+sources: bottle	144
+sources: well	315
+sources: spring	315
+sources: tap	313
+special occasion: wedding	185
+special occasion: anniversary	186
+special occasion: holiday	186
+species: quail	318
+species: turkey	317
+species: chicken	112
+species: duck	318
+species: other species	29
+species: vitis vinifera	137
+stage: mature	4
+stage: ripe	167
+storage: chilled	319
+storage: wine rack	319
+storage: frozen	319
+storage: cellar	320
+storage: room temperature	320
+storage: cool and dark place	320
+storage: refrigerated	319
+storage: dark place	320
+storage: cool	320
+storage: fridge	319
+storage: special storage	320
+storage: colder temperatures	319
+storage: temperature controlled	320
+storage: dark	320
+storage conditions: cool temperature	346
+storage conditions: dark place	320
+stored at: cool and dark place	320
+stored at: wine cellar	19
+stored at: pantry	321
+stored at: fridge	322
+stored at: freezer	322
+stored at: cooler	319
+stored at: cupboard	321
+stored at: room temperature	346
+stored in: cabinet	321
+stored in: refrigerator	322
+stored in: fridge	322
+stored in: wine cellar	19
+stored in: wine box	19
+stored in: pantry	321
+strength: high alcohol content	10
+strength: strong	323
+strength: medium	323
+strength: light	323
+structure: quay	102
+structure: wharf	102
+structure: buoy	99
+style: merlot	237
+style: sparkling	353
+style: white	50
+style: red	129
+style: dry	245
+style: sweet	341
+style: syrah	199
+style: crisp	104
+style: cabernet sauvignon	33
+style: luscious	334
+style: sticky	348
+style: refreshing	344
+sub-colors: golden	131
+sub-colors: champagne	52
+sub-colors: claret	52
+sub-colors: burgundy	52
+sub-colors: oak-kissed	132
+sub-colors: crimson	129
+sub-colors: ruby	53
+sugar content: sweet	366
+sugar content: high	366
+suitable for: dark chocolate	208
+suitable for: red meat	206
+suitable for: drinking alone	374
+suitable for: strong cheese	213
+suitable for: making cocktails	377
+suitable for: pairing with food	59
+sweetness level: dry	324
+sweetness level: low	324
+sweetness level: sweet	341
+sweetness level: off-dry	324
+sweetness level: high	324
+sweetness level: very sweet	341
+sweetness level: medium	324
+symbolism: love	325
+symbolism: passion	325
+symbolism: finesse	326
+symbolism: luxury	235
+symbolism: sophistication	326
+symbolism: romance	325
+tannin level: medium to high	327
+tannins: smooth	327
+tannins: low	327
+tannins: high	327
+tannins: mild	327
+tannins: present	327
+tannins: absent	327
+tannins: dry	327
+tannins: strong	327
+tannins level: high	327
+tannins level: medium	327
+tannins level: low	327
+target audience: history buffs	18
+target audience: families	328
+target audience: adventurers	257
+target audience: couples	328
+target audience: business travelers	255
+target audience: children	328
+target audience: adults	328
+target audience: seniors	328
+taste: acidic	291
+taste: spicy	343
+taste: buttery	329
+taste: earthy	330
+taste: flavorful	335
+taste: herbaceous	108
+taste: smooth	331
+taste: dark fruit flavors	340
+taste: dry	342
+taste: floral	310
+taste: fruity	340
+taste: crisp	104
+taste: full-bodied	345
+taste: rich in tannins	339
+taste: light-bodied	345
+taste: hints of oak	332
+taste: tannins	339
+taste: oaky	332
+taste: tannic	290
+taste: full	331
+taste: bitter	292
+taste: complex	289
+taste: ripe	139
+taste: tart	340
+taste: earthy notes	330
+taste: flavors of blackberry	333
+taste: savory	343
+taste: flavors of dark fruit	340
+taste: rich	37
+taste: sweet	341
+taste: refreshing	344
+taste: light	331
+taste: butterscotch	329
+taste: sour	291
+taste: flavors of blackcurrant	333
+taste: flavored	335
+taste: flavors of oak and berries	332
+taste: smoky notes	332
+taste: hints of pepper	335
+taste: strong	335
+taste: delicate	331
+taste: hints of earth	330
+taste: decadent	334
+taste: honeyed	107
+taste: juicy	340
+taste: not sweet	331
+taste: salt	337
+taste: nutty	105
+taste: creamy	329
+taste: complex flavor	335
+taste: hint of spice	335
+taste: berry	340
+taste: astringent	335
+taste: strong flavor	335
+taste: flavors of plum	333
+taste: complex flavor profile	335
+taste: hints of vanilla	336
+taste: smooth finish	331
+taste: hints of spice	335
+taste: hint of oak	332
+taste: chocolatey	208
+taste: mineral	335
+taste: salty	337
+taste: flavors of oak	332
+taste: mild	335
+taste: neutral	335
+taste: fruity notes	340
+taste: gamey	206
+taste: chocolaty	341
+taste: flavors of berries	333
+taste: mellow	331
+taste: flavors of vanilla	336
+taste: light body	331
+taste: citrusy	106
+taste: oak notes	332
+taste: rich taste	37
+taste: grassy	104
+taste: flavors of cherry	333
+taste: saltwater	337
+taste: freshwater	337
+taste: honey-like	107
+taste: low tannins	339
+taste: clean	331
+taste: tangy	340
+taste: aromatic	338
+taste: low in tannins	339
+taste: bold	335
+taste: flavors of black currant	332
+taste: light bodied	345
+taste: hints of chocolate	208
+taste: fresh	344
+taste: high tannins	339
+taste: soft tannins	339
+taste: rich texture	37
+taste characteristics: fruity	340
+taste characteristics: dry	342
+taste characteristics: sweet	341
+taste characteristics: bitter	292
+taste descriptors: sour	291
+taste descriptors: bitter	292
+taste descriptors: fruity	340
+taste descriptors: sweet	341
+taste descriptors: dry	342
+taste profile: sweet and crisp	104
+taste profile: oaky	332
+taste profile: dry	342
+taste profile: off-dry	342
+taste profile: complex finish	331
+taste profile: smooth	331
+taste profile: spicy	343
+taste profile: fruity	340
+taste profile: crisp	104
+taste profile: refreshing	344
+taste profile: bitter	292
+taste profile: full-bodied	345
+taste profile: light-bodied	345
+taste profile: aromatic	338
+taste profile: sweet	341
+taste profile: crisp acidity	339
+taste profile: medium body	345
+tasting notes: hints of vanilla	336
+tasting notes: flavors of berries	333
+tasting notes: notes of oak	332
+tasting notes: smooth finish	331
+tasting notes: flavors of blackberry	333
+temperature: hot	346
+temperature: cold	346
+temperature: warm	346
+temperature: room temperature	346
+texture: viscous	347
+texture: thick	347
+texture: dry	347
+texture: chewy	347
+texture: crunchy	83
+texture: crisp	104
+texture: velvety	348
+texture: hard	347
+texture: clear	48
+texture: smooth	347
+texture: rich	37
+texture: juicy	139
+texture: full-bodied	345
+texture: colorless	48
+texture: creamy	329
+texture: crispy	104
+texture: fibrous	348
+texture: light	348
+texture: soft	348
+texture: lean	347
+texture: refreshing	344
+texture: silky	348
+texture: crystalline	347
+texture: cool	347
+texture: fizzy	344
+texture: still	347
+texture: sweet	341
+texture: tough	347
+texture: fleshy	300
+texture: fuzzy	348
+texture: crumbly	231
+texture: bubbly	10
+texture: sparkling	353
+texture: thin	347
+texture: al dente	347
+texture: liquid	158
+texture: solid	347
+texture: powder	347
+texture: tannic	290
+texture: sour	291
+texture: buttery	329
+texture: tender	348
+texture: slightly fizzy	344
+texture: fluffy	348
+texture: cooling	347
+texture: oaky	42
+texture: flaky	347
+time: morning	349
+time: afternoon	349
+time: when crops are ripe	187
+time: midnight	349
+time: breakfast	161
+time: after main harvest	187
+time: lunch	164
+time: september	288
+time: october	288
+time: winter	288
+time: dinner	164
+time: snack	358
+time: autumn	288
+time: evening	349
+time: season	288
+time of day: after dinner	349
+time of day: morning	349
+time of day: afternoon	349
+time of day: breakfast	161
+time of day: evening	349
+time of day: after lunch	349
+time of day: lunch	164
+time of day: dinner	164
+tone: warm	350
+tone: neutral	350
+tone: cool	350
+tourism: wine tastings	351
+tourism: wine tourism	351
+tourism: romanesque church	80
+tourism: gastronomic tourism	351
+tourism: cultural tourism	351
+tourism: vineyard visits	351
+tourism: medieval town	165
+tourist attraction: popular tourist destination	80
+tourist attraction: wine tastings	351
+traditional use: in fine dining	64
+traditional use: at special occasions	60
+tributaries: vienne	286
+tributaries: seine	286
+tributaries: sauldre	286
+tributaries: yonne	286
+type: white	50
+type: wine	396
+type: red	129
+type: white wine	352
+type: red wine	352
+type: sparkling	353
+type: type of pear	363
+type: dessert	110
+type: tart	340
+type: sweet	341
+type: dry	245
+type: grape variety	355
+type: fortified wine	352
+type: dessert wine	354
+type: sweet wine	354
+type: wine variety	396
+type: full-bodied	345
+type: oaky	42
+type: bordeaux-style	243
+type: pudding	55
+type: mousse	211
+type: brownie	56
+type: dessert wine style	354
+type: burgundy wine	352
+type: package	120
+type: red wine grape	355
+type: white wine grape	355
+type: dry wine	352
+type: hue	39
+type: french wine	354
+type: commune	79
+type: lunch	164
+type: outdoor	126
+type: dry white wine	352
+type: cabernet sauvignon	33
+type: merlot	237
+type: after-meal	364
+type: sparkling wine	354
+type: alcoholic beverage	10
+type: crisp wine	16
+type: grapes	355
+type: harbor	153
+type: waterfront	153
+type: shipping	120
+type: rosé	356
+type: still	8
+type: bitter	292
+type: sea port	357
+type: river port	357
+type: historical	128
+type: airport	357
+type: land port	357
+type: cultural	260
+type: breakfast	161
+type: snack	358
+type: village	165
+type: dinner	368
+type: alcoholic	10
+type: grape	355
+type: late harvest	187
+type: drink	359
+type: dessert-style wine	354
+type: man-made	136
+type: loire valley wine	391
+type: artificial	360
+type: food	361
+type: color	39
+type: natural	360
+type: ice cream	57
+type: dessert wine with sweetness level	354
+type: shade	362
+type: light wine	396
+type: cookie	231
+type: pie	56
+type: cake	372
+type: light	205
+type: pink wine	352
+type: low-tannin wine	396
+type: fermented drink	248
+type: bordeaux wine	391
+type: adventure	257
+type: wine grape	355
+type: spicy	343
+type: riesling	33
+type: beverage	359
+type: champagne	354
+type: crisp	104
+type: italian wine	352
+type: oaky wine	352
+type: fruit	139
+type: pear	363
+type: decadent	334
+type: rich	37
+type: floral	43
+type: earthy	330
+type: wine mix	354
+type: oak-aged wine	396
+type: wine grape variety	355
+type: beef	206
+type: alcoholic drink	10
+type: table wine	354
+type: venison	206
+type: pork	206
+type: lamb	191
+type: after meal	364
+type: savory	58
+type: mix	229
+type: after-dinner	364
+type: after-dinner wine	354
+type: refreshing	344
+type: adventure tour	365
+type: cultural tour	365
+type: treat	379
+type: tannic	290
+type: guided tour	365
+type: self-guided tour	365
+type: guided	365
+type: burgundy	52
+type: claret	391
+type: pineapple	370
+type: mango	370
+type: banana	370
+type: fortified	13
+type: wine region	395
+type: sugary	366
+type: vitis vinifera	355
+type: water	158
+type: green	51
+type: docking facility	357
+type: fruit-forward wine	396
+type: waterway	136
+type: medicine	62
+type: late harvest wine	396
+type: still wine	352
+type: fruity	340
+type: chardonnay	391
+type: bordeaux-style wine	396
+type: docking	2
+type: city	157
+type: peach	130
+type: blend	253
+type: full-bodied wine	396
+type: self-guided	365
+type: sea	156
+type: vine	77
+type: dessert sherry	354
+type: ice wine	354
+type: coffee	359
+type: milk	371
+type: date	183
+type: wine blend	396
+type: tea	162
+type: red grape	355
+type: juice	291
+type of: acidity	0
+type of: flavor	335
+type of: tannin	327
+type of: aroma	38
+type of dish: appetizer	367
+type of dish: main course	109
+type of dish: dessert	110
+type of dish: side dish	111
+type of food: appetizer	367
+type of food: lunch	164
+type of food: dessert	110
+type of food: dinner	368
+type of food: breakfast	161
+type of food: brunch	163
+type of food: main course	109
+type of meal: starter	368
+type of meal: appetizer	367
+type of meal: sweet course	110
+type of meal: brunch	163
+type of meal: breakfast	161
+type of meal: dessert	110
+type of meal: last course	368
+type of meal: afternoon tea	162
+type of wine: sweet wine	396
+type of wine: dessert wine	354
+types: artificial	360
+types: natural	360
+types: riesling	33
+types: spaghetti	214
+types: sea port	357
+types: airport	357
+types: cabernet sauvignon	33
+types: merlot	237
+types: chardonnay	391
+types: inland port	357
+types: container	369
+types: river port	357
+types: linguine	33
+types: fettuccine	86
+types: seaport	357
+types: bulk	309
+types: sauvignon blanc	33
+types: pinot noir	391
+typical dish: fish soup	85
+typical dish: fish salad	85
+typical dish: grilled fish	85
+typical dishes: grilled fish	85
+typical dishes: cake	372
+typical dishes: pie	56
+typical dishes: fish salad	85
+typical dishes: tart	340
+typical dishes: fish tacos	85
+typical dishes: pudding	55
+typical dishes: fish soup	85
+typical dishes: grilled salmon	85
+typical dishes: ice cream	57
+typical food items: main dish	111
+typical food items: appetizer	367
+typical food items: side dish	111
+typical food items: dessert	110
+typical fruits: grapes	137
+typical fruits: raspberries	227
+typical fruits: blueberries	227
+typical fruits: bananas	370
+typical fruits: strawberries	227
+typical ingredients: fresh fruits	139
+typical ingredients: whipped cream	188
+typical ingredients: sugar	366
+typical ingredients: milk	371
+typical items: sorbet	104
+typical items: ice cream	57
+typical items: cake	372
+typical items: tart	340
+typical items: pie	56
+usage: with sweet dishes	378
+usage: cleaning	386
+usage: making smoothie	378
+usage: with cheese	216
+usage: cooking	230
+usage: drinking	68
+usage: with dessert	110
+usage: after meal	364
+usage: pair with food	59
+usage: after dinner	364
+usage: drink on its own	374
+usage: making dessert wine	240
+usage: serving with food	302
+usage: washing	386
+usage: dessert	110
+usage: eating fresh	261
+usage: serve as dessert	110
+usage: give as gift	63
+usage: blending with other grapes	240
+usage: dry wine	397
+usage: sweet wine	354
+usage: making red wine	376
+usage: making juice	383
+usage: pair with dessert	59
+use: fishing	373
+use: recreation	258
+use: irrigation	386
+use: drinking water	118
+use: tourism	351
+used for: special occasion	60
+used for: wine tasting	380
+used for: drinking on its own	374
+used for: making burgers	113
+used for: making steaks	206
+used for: making sausages	206
+used for: casual drinking	374
+used for: gift	63
+used for: apéritif	31
+used for: healthy snack	358
+used for: completing a wine collection	380
+used for: pairing with seafood	218
+used for: dessert pairing	110
+used for: baking cakes	378
+used for: special occasions	60
+used for: snacking	358
+used for: pairing with red meat	206
+used for: drinking alone	374
+used for: making main courses	109
+used for: dining	64
+used for: pairing with cheese	216
+used for: making dishes	375
+used for: pairing with pasta	214
+used for: fishing	373
+used for: pairing with pizza	86
+used for: drinking as an aperitif	374
+used for: pairing with food	59
+used for: relaxation	264
+used for: dinner party	180
+used for: burger	113
+used for: drinking	374
+used for: making wine and cheese platter	376
+used for: social gathering	268
+used for: wine and food pairing	380
+used for: everyday drinking	374
+used for: making wine sauce	376
+used for: making medicine	62
+used for: eating	298
+used for: giving energy	267
+used for: cooking	375
+used for: making wine	376
+used for: enjoying as a drink	359
+used for: wine making	376
+used for: drying	386
+used for: gift giving	63
+used for: making drinks	377
+used for: transportation	119
+used for: table grapes	137
+used for: raisins	139
+used for: enjoying with friends	181
+used for: making sangria	381
+used for: dinner	32
+used for: making meals	375
+used for: enjoying on its own	264
+used for: wine pairing	376
+used for: pairing with meat	206
+used for: drinking on special occasions	374
+used for: after dinner	364
+used for: sipping alone	374
+used for: making wine blends	376
+used for: satisfying sweet tooth	341
+used for: dessert	110
+used for: snack	358
+used for: ending meal	263
+used for: wine blending	376
+used for: making jam	383
+used for: making sparkling wine	376
+used for: celebrating special occasions	60
+used for: enjoying as a standalone wine	19
+used for: stew	384
+used for: making dessert wine	376
+used for: wine production	376
+used for: romantic evening	181
+used for: treating fever	62
+used for: relieving headaches	62
+used for: roast	70
+used for: steak	113
+used for: curing infections	62
+used for: pairing with sweet dishes	110
+used for: making cocktails	377
+used for: tourism	255
+used for: boating	168
+used for: blending wine	376
+used for: making red wine	376
+used for: cheese	213
+used for: serving at special occasions	302
+used for: feathers	385
+used for: meat	206
+used for: making wine blend	376
+used for: entertaining	266
+used for: romantic dinner	64
+used for: fruit	139
+used for: social drinking	374
+used for: making sauce	58
+used for: table consumption	298
+used for: making salad	381
+used for: making soup	384
+used for: eggs	67
+used for: drinking with friends	374
+used for: gift-giving	63
+used for: sustenance	259
+used for: making wine cocktail	380
+used for: dessert wine	354
+used for: energy	267
+used for: making wine cocktails	380
+used for: reward	63
+used for: celebration	60
+used for: making jams	139
+used for: making stir-fry	71
+used for: pleasure	258
+used for: wining and dining	64
+used for: cocktail	377
+used for: adding to salads	381
+used for: aging	9
+used for: burgers	113
+used for: drinking water	118
+used for: medicinal purposes	62
+used for: cleaning	386
+used for: hydration	118
+used for: roasting	70
+used for: irrigation	315
+used for: recreation	258
+used for: grilling	69
+used for: shipping	120
+used for: pairing with dessert	110
+used for: commerce	262
+used for: trade	238
+used for: making desserts	378
+used for: dressing	386
+used for: satisfying hunger	261
+used for: quenching thirst	118
+used for: boosting energy	267
+used for: eating fresh	298
+used for: rosé	356
+used for: making smoothie	383
+used for: red wine	376
+used for: treat	379
+used for: wine drinking	380
+used for: cocktails	377
+used for: wine and cheese	376
+used for: blending	242
+used for: serving as an apéritif	31
+used for: making salads	381
+used for: making cakes	378
+used for: making trifle	375
+used for: pest control	382
+used for: nourishment	259
+used for: making stews	384
+used for: celebrations	60
+used for: special treat	379
+used for: making wine spritzer	376
+used for: treat yourself	379
+used for: making juice	383
+used for: juice	383
+used for: pairing with desserts	110
+used for: pairing with strong cheeses	213
+used for: serving with red meat	206
+used for: improving health	62
+used for: gaining energy	267
+used for: sustaining life	204
+used for: wining	27
+used for: baking	375
+used for: wine description	19
+used for: making sauces	58
+used for: adding flavor	265
+used for: making dessert	378
+used for: making still wine	376
+used for: making soups	384
+used for: entertaining guests	64
+used in: wine and food pairing	376
+used in: wine blends	355
+used in: salads	381
+used in: wine tasting	376
+used in: bread making	54
+used in: cocktail recipe	377
+used in: red wine production	376
+used in: making wine	376
+used in: blending	242
+used in: desserts	378
+used in: wine production	376
+used in: cooking	375
+used in: wine making	376
+used in: main courses	109
+used in: soups	384
+used in: italian dishes	214
+used to describe: chardonnay	391
+used to describe: cabernet sauvignon	33
+used to describe: pinot grigio	141
+used to describe: merlot	237
+uses: pest control	382
+uses: pet	36
+uses: making white wine	376
+uses: meat production	76
+uses: blending with other grapes	240
+uses: feathers for pillows	385
+uses: blending wine	240
+uses: wine making	376
+uses: making wine	376
+uses: feathers	385
+uses: winemaking	240
+uses: blending	242
+uses: washing	386
+uses: egg production	35
+uses: cooking	230
+uses: making red wine	376
+uses: drinking	68
+uses: eggs	67
+uses: meat	206
+varietal: cabernet sauvignon	33
+varietal: merlot	237
+varietal: pinot noir	33
+variety: anjou pear	363
+variety: type of pear	363
+vineyard: chablis	122
+vineyard: napa valley	387
+vineyard: sonoma county	387
+vineyard: willamette valley	387
+vineyard: limestone and clay soil	387
+vineyard: burgundy region	387
+vineyard: côte d'or	122
+vineyard: old vines	387
+vineyard: well-structured	387
+vineyard: dry	387
+vineyard characteristics: marginal climate	387
+vineyard characteristics: clay-limestone soils	311
+vineyard characteristics: limestone soils	311
+vineyard condition: cooler climate	387
+vineyard condition: sunny climate	387
+vineyard condition: well-drained soil	387
+vineyard conditions: well-drained soil	387
+vineyard conditions: cool climate	390
+vineyard location: gironde	155
+vineyard location: medoc	387
+vineyard location: bordeaux wine region	155
+vineyard region: côte d'or	394
+vineyard region: beaune	394
+vineyard region: chablis	394
+vintage: varies	388
+vintage: dependent on region and winemaker	388
+vintage: new world	388
+vintage: dependent on climate	388
+vintage: yearly release	388
+vintage: old world	388
+visual appearance: color	39
+visual appearance: clarity	389
+visual appearance: body	17
+waterway: dock	102
+waterway: harbor	153
+weather: dry	390
+weather: mild	390
+weather: frosty	390
+weather: cool	390
+weather condition: dry	390
+weather condition: mild	390
+width: varies	304
+wine: red wine	352
+wine: bordeaux wine	391
+wine: cabernet sauvignon	33
+wine: merlot	391
+wine: fine wine	354
+wine: white wine	391
+wine: burgundy wine	391
+wine: chardonnay	391
+wine: full-bodied	396
+wine: crisp	16
+wine: french wine	391
+wine: dry	396
+wine: wine production	135
+wine: cabernet franc	391
+wine: merlot dominant	396
+wine: white	391
+wine: red	352
+wine: expensive	354
+wine: blended	396
+wine aging potential: long	392
+wine aging potential: medium	392
+wine aging potential: short	392
+wine aging potential: very long	392
+wine awards: medal	23
+wine awards: award	23
+wine awards: critic score	21
+wine characteristic: tannins	16
+wine characteristic: finish	16
+wine characteristic: complexity	142
+wine characteristic: acidity	0
+wine characteristic: body	16
+wine characteristics: full-bodied	396
+wine characteristics: complex	16
+wine characteristics: floral aromas	14
+wine characteristics: nutty	105
+wine characteristics: high acidity	16
+wine characteristics: tannic	396
+wine characteristics: honey	107
+wine characteristics: dry	16
+wine characteristics: flavors of citrus	106
+wine characteristics: crisp acidity	16
+wine characteristics: flavors of dark fruit	16
+wine characteristics: rich	396
+wine characteristics: light bodied	396
+wine characteristics: medium acidity	16
+wine classification: grand cru	396
+wine classification: world-renowned wine	396
+wine classification: premier cru	396
+wine classification: village wine	396
+wine classification: appellation d'origine contrôlée	46
+wine grape: cabernet sauvignon	122
+wine grape: cabernet franc	122
+wine grape: sauvignon blanc	122
+wine grape: pinot noir	122
+wine grape: merlot	122
+wine grape: chardonnay	122
+wine industry: used in blends	355
+wine industry: popular among wine enthusiasts	135
+wine industry: cultivated in bordeaux	397
+wine making process: aged in oak	397
+wine making process: aging in oak	398
+wine making process: fermented	397
+wine making process: blend	240
+wine making process: fermented in oak barrels	397
+wine making process: blended	240
+wine making process: aged for a long time	397
+wine pairing: no pairing	19
+wine pairing: cheese	213
+wine pairing: dark chocolate	354
+wine pairing: red meat	206
+wine pairing: meat	206
+wine pairing: food	354
+wine pairing: dessert	354
+wine production: winemaking technique	240
+wine production: château cheval blanc	391
+wine production: white wine	352
+wine production: red wine	352
+wine production: fermentation	241
+wine production: aging	398
+wine production method: still	240
+wine production method: fortified	397
+wine production method: sparkling	396
+wine production method: dessert	354
+wine region: famous for wine production	395
+wine region: merlot wine	391
+wine region: spain	278
+wine region: sancerre	394
+wine region: marlborough	393
+wine region: bordeaux	394
+wine region: winemaking region	395
+wine region: merlot dominant	394
+wine region: premier grand cru classé	394
+wine region: european	395
+wine region: winemaking	395
+wine region: medoc	394
+wine region: bordelais	394
+wine region: wine producing region	395
+wine region: france	394
+wine region: red wine	352
+wine region: california	281
+wine region: bordeaux wine region	394
+wine region: australia	395
+wine region: italy	280
+wine region: new world	395
+wine region: right bank	395
+wine region: specific region	395
+wine regions: new world: australia	395
+wine regions: new world: new zealand	395
+wine regions: europe:italy	280
+wine regions: new world: usa	395
+wine regions: europe: spain	278
+wine regions: europe:france	394
+wine style: unoaked	396
+wine style: refreshing	16
+wine style: dry	396
+wine style: oaked	396
+wine style: grass-cutting	396
+wine style: off-dry	396
+wine style: white	396
+wine style: red	352
+wine style: crisp	16
+wine style: white wine	396
+wine style: structured	396
+wine style: complex	396
+wine style: sparkling	396
+wine style: sweet	396
+wine style: aromatic	16
+wine style: fumé	396
+wine style: rosé	396
+wine style: bold	396
+wine style: dessert	110
+wine style: versatile	396
+wine type: dry wine	396
+wine type: white wine	396
+wine type: pinot noir	391
+wine type: wine with tannins	396
+wine type: chardonnay	391
+wine type: french wine	391
+wine type: full-bodied wine	396
+wine type: red wine	352
+wine type: dessert wine	354
+wine type: expensive wine	396
+wine type: full-bodied	396
+wine type: crisp wine	16
+wine type: table wine	354
+wine type: fine wine	396
+wine type: cabernet franc	391
+wine type: cabernet sauvignon	33
+wine type: claret	391
+wine type: red	352
+wine type: white	396
+wine type: sparkling	396
+wine type: rosé	396
+wine type: bordeaux wine	391
+wine type: merlot	391
+wine type: light-bodied wine	396
+wine type: italian wine	396
+wine type: french	396
+wine type: merlot wine	391
+wine type: wine village	155
+wine type: dry	396
+wine type: bordeaux	391
+wine type: light-bodied	396
+wine type: sweet	396
+wine type: burgundy	396
+wine type: crisp	16
+wine-making: aged in cellar	397
+wine-making: fermented in oak barrels	397
+wine-making process: fermentation	241
+wine-making process: aging	398
+wine-making process: blending	242
+winemaking: delicate pressing	240
+winemaking: used in sparkling wine	376
+winemaking: used in still wine	376
+winemaking: cool fermentation	398
+winemaking: delicate	397
+winemaking: cold fermentation	398
+winemaking: aging process	398
+winemaking: fermentation	241
+winemaking: grapes	122
+winemaking: ainless aging	398
+winemaking: aged for several years	397
+winemaking: finesse	326
+winemaking: crush	240
+winemaking: oak aging	398
+winemaking: fermented in oak barrels	397
+winemaking method: aged in oak	397
+winemaking method: fermented	397
+winemaking method: oak aged	397
+winemaking method: fermented in stainless steel	397
+winemaking method: fermented in oak barrels	397
+winemaking method: aged in stainless steel	397
+winemaking process: stainless steel	376
+winemaking process: oak aging	398
+winemaking process: cold soak	250
+winemaking process: minimal oak	398
+winemaking process: blending	240
+winemaking process: aging	398
+winemaking process: fermentation	241
+winemaking process: long fermentation	398
+winemaking process: cold fermentation	398
+winemaking process: minimal oak aging	398
+winemaking process: bottling	240
+winemaking process: fermented in oak barrels	397
+winemaking process: minimal intervention	398
+winemaking process: merlot dominant	243
+winemaking process: cabernet franc	243
+winemaking process: aged in cellar	397
+winemaking process: aging in oak	398
+winemaking style: buttery	16
+winemaking style: fruity	396
+winemaking style: oaky	396
+winemaking style: crisp	16
+winemaking technique: malolactic fermentation	398
+winemaking technique: oak aging	398
+winemaking technique: aging process	398
+winemaking technique: careful blending	240
+winery: leroy	146
+winery: pierre morey	146
+winery: domaine de la romanée-conti	146
+wines: red wine	352
+wines: cabernet franc	391
+wines: merlot	391
