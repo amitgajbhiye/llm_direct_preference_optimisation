@@ -47,12 +47,11 @@ if cluster_algo == "affinity_propogation":
 
     output_file = "bienc_entropy_bert_large_cnetpchatgpt_llama3_wine_facet_colon_property_embeddings_affinity_propogation_clusters"
 
-    df = pd.DataFrame(prop_cluster_list)
+    df = pd.DataFrame(prop_cluster_list, columns=["facet_property", "cluster_label"])
     df.to_csv(
         f"{output_file}.txt",
         sep="\t",
         index=False,
-        columns=["property", "cluster_label"],
     )
 
     with open(f"{output_file}.pkl", "wb") as pkl_out:
