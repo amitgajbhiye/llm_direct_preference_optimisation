@@ -12,7 +12,9 @@ from sklearn.preprocessing import StandardScaler
 file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
 hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
 
-with open(hawk_file, "rb") as pkl_inp:
+wine_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_wine_facet_colon__property_embeddings.pkl"
+
+with open(wine_hawk_file, "rb") as pkl_inp:
     prop_embed = pickle.load(pkl_inp)
 
 properties = list(prop_embed.keys())
@@ -43,10 +45,15 @@ if cluster_algo == "affinity_propogation":
     for prop, cluster in prop_cluster_list:
         print(prop, cluster)
 
-    output_file = "affinity_propogation_clusters"
+    output_file = "bienc_entropy_bert_large_cnetpchatgpt_llama3_wine_facet_colon_property_embeddings_affinity_propogation_clusters"
 
     df = pd.DataFrame(prop_cluster_list)
-    df.to_csv(f"{output_file}.txt", sep="\t", index=True)
+    df.to_csv(
+        f"{output_file}.txt",
+        sep="\t",
+        index=False,
+        columns=["property", "cluster_label"],
+    )
 
     with open(f"{output_file}.pkl", "wb") as pkl_out:
         pickle.dump(prop_cluster_list, pkl_out)

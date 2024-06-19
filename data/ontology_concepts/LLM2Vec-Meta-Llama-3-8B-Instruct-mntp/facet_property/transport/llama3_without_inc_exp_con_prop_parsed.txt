@@ -1,0 +1,2221 @@
+railroad company	operates trains
+railroad company	owns tracks
+railroad company	charges fares
+railroad company	has routes
+railroad company	uses locomotives
+railroad company	carries freight
+railroad company	transports people
+railroad company	maintains infrastructure
+railroad company	regulates schedules
+railroad company	generates revenue
+railway vehicle	powered by engine
+railway vehicle	moves on rails
+railway vehicle	carries passengers or cargo
+railway vehicle	has wheels
+railway vehicle	uses tracks
+railway vehicle	stops at stations
+railway vehicle	has doors
+railway vehicle	has seats or containers
+railway vehicle	has safety features
+railway vehicle	operates on schedule
+body motion	physical movement
+body motion	muscle contraction
+body motion	joint movement
+body motion	posture adjustment
+body motion	balance control
+body motion	orientation change
+body motion	propulsion mechanism
+body motion	energy expenditure
+body motion	muscle activation
+body motion	sensory feedback
+pier	structure
+pier	waterfront
+pier	built
+pier	above
+pier	water
+pier	support
+pier	ships
+pier	harbor
+pier	dock
+pier	maritime
+chemical tanker ship	designed for carrying chemicals
+chemical tanker ship	specialized cargo handling
+chemical tanker ship	hazardous material transport
+chemical tanker ship	separate compartments for chemicals
+chemical tanker ship	specialized crew training
+chemical tanker ship	regular inspections and maintenance
+chemical tanker ship	chemical-resistant materials used
+chemical tanker ship	customized for specific chemicals
+chemical tanker ship	environmental concerns considered
+chemical tanker ship	regulations and permits required
+dining car	mobile
+dining car	food service
+dining car	train
+dining car	passengers
+dining car	seating
+dining car	table
+dining car	menu
+dining car	order
+dining car	waitstaff
+dining car	fare
+railway junction	multi-track intersection
+railway junction	railway infrastructure
+railway junction	connection point
+railway junction	route diversification
+railway junction	traffic management
+railway junction	signaling systems
+railway junction	track layout
+railway junction	interchange facility
+railway junction	train routing
+railway junction	operational hub
+flight deck	area where pilots control aircraft
+flight deck	usually located at front of plane
+flight deck	contains controls and instruments
+flight deck	pilots' primary workspace
+flight deck	typically has multiple seats
+flight deck	used for takeoff and landing
+flight deck	may have emergency exits
+flight deck	has warning lights and indicators
+flight deck	pilots' safety equipment stored
+flight deck	secure area with restricted access
+spine car	mode of transportation
+spine car	long and narrow
+spine car	carries goods
+spine car	supports weight
+spine car	flexible
+spine car	used in construction
+spine car	high-strength steel
+spine car	load-bearing
+spine car	elevated
+spine car	industrial
+tractor trailer	large truck
+tractor trailer	long combination vehicle
+tractor trailer	several trailers
+tractor trailer	attached to tractor unit
+tractor trailer	used for hauling heavy loads
+tractor trailer	long distance transportation
+tractor trailer	road freight
+tractor trailer	heavy-duty equipment
+tractor trailer	multiple axle
+tractor trailer	high capacity
+crew list	list of personnel on a ship or aircraft
+crew list	usually organized by rank or role
+crew list	contains crew members' names and positions
+crew list	used for safety, training, and administrative purposes
+crew list	may include emergency contact information
+crew list	crew list can be physical or digital
+crew list	may be confidential or publicly available
+crew list	depends on type of vessel or aircraft
+crew list	crew list can be used for check-in and check-out
+crew list	may include crew members' qualifications and certifications
+ship hold	structure
+ship hold	cargo space
+ship hold	hatch
+ship hold	container
+ship hold	loading
+ship hold	unloading
+ship hold	marine
+ship hold	transportation
+ship hold	watercraft
+ship hold	vessel
+radar/sonar	detects and tracks objects
+radar/sonar	uses radio waves/ultrasound
+radar/sonar	active or passive detection
+radar/sonar	range and direction measurement
+radar/sonar	used in aviation and navigation
+radar/sonar	can detect speed and altitude
+radar/sonar	used in military and surveillance
+radar/sonar	can detect weather and terrain
+radar/sonar	interferes with gps signals
+radar/sonar	used in meteorology and astronomy
+air traffic control tower	tall structure
+air traffic control tower	aircraft navigation
+air traffic control tower	radio communication
+air traffic control tower	visual observation
+air traffic control tower	controller's workplace
+air traffic control tower	multiple levels
+air traffic control tower	radar equipment
+air traffic control tower	weather monitoring
+air traffic control tower	aircraft guidance
+air traffic control tower	aviation safety
+fishing boat	used for catching fish
+fishing boat	has a fishing net
+fishing boat	operates on water
+fishing boat	has a crew
+fishing boat	depends on weather
+fishing boat	has a captain
+fishing boat	is a type of boat
+fishing boat	has fishing gear
+fishing boat	is used for commercial purposes
+fishing boat	is a working vessel
+contract carrier	freight transportation
+contract carrier	trucking company
+contract carrier	logistics provider
+contract carrier	shipper
+contract carrier	carrier
+contract carrier	trucking
+contract carrier	delivery
+contract carrier	goods movement
+contract carrier	transportation service
+contract carrier	commercial vehicle
+airport classification	international
+airport classification	domestic
+airport classification	military
+airport classification	private
+airport classification	cargo
+airport classification	commercial
+airport classification	general
+airport classification	specialized
+airport classification	regional
+airport classification	national
+crane ship	large vessel with lifting equipment
+crane ship	used for heavy cargo transport
+crane ship	equipped with cranes and winches
+crane ship	operates in ports and open waters
+crane ship	handles heavy loads and containers
+crane ship	common in shipbuilding and repair
+crane ship	found in busy ports worldwide
+crane ship	requires skilled crew and maintenance
+crane ship	can be self-propelled or towed
+crane ship	supports global trade and commerce
+arriving	arrival
+arriving	destination
+arriving	travel
+arriving	journey
+arriving	end
+arriving	point
+arriving	reach
+arriving	land
+arriving	stop
+arriving	finish
+multiple track railway	multiple parallel tracks
+multiple track railway	simultaneous train operations
+multiple track railway	increased capacity and efficiency
+multiple track railway	reduced congestion and delays
+multiple track railway	enhanced safety features
+multiple track railway	improved passenger experience
+multiple track railway	higher train speeds
+multiple track railway	reduced noise pollution
+multiple track railway	more flexible route planning
+multiple track railway	increased economic benefits
+water transportation system	used for centuries
+water transportation system	global network
+water transportation system	marine and inland
+water transportation system	ships, boats, and ferries
+water transportation system	goods and people
+water transportation system	importance in economy
+water transportation system	environmental impact
+water transportation system	infrastructure development
+water transportation system	technological advancements
+water transportation system	climate change concerns
+common carrier	transportation service
+common carrier	publicly available
+common carrier	regulated
+common carrier	neutral
+common carrier	non-discriminatory
+common carrier	fair
+common carrier	reasonable
+common carrier	published rates
+common carrier	open to all
+common carrier	no special treatment
+containerization	platform-agnostic
+containerization	lightweight
+containerization	portable
+containerization	efficient
+containerization	isolated
+containerization	self-contained
+containerization	decoupled
+containerization	scalable
+containerization	flexible
+containerization	reusable
+flatcar	a type of vehicle
+flatcar	has no suspension
+flatcar	has a flat bed
+flatcar	used for transporting goods
+flatcar	often seen in construction
+flatcar	can be open or enclosed
+flatcar	various sizes and shapes
+flatcar	used for heavy loads
+flatcar	may have wheels or tracks
+flatcar	used in many industries
+electric device	powered by electricity
+electric device	converts electricity to useful form
+electric device	uses electrical circuitry
+electric device	has electrical components
+electric device	requires power source
+electric device	can be portable
+electric device	has specific function
+electric device	can be controlled
+electric device	may have safety features
+electric device	can be complex
+container terminal	handles container cargo
+container terminal	located near ports
+container terminal	facilitates international trade
+container terminal	has cranes and equipment
+container terminal	operates 24/7
+container terminal	requires skilled labor
+container terminal	manages inventory and logistics
+container terminal	has security measures
+container terminal	handles different container sizes
+container terminal	operates under regulations
+petroleum product	derived from crude oil
+petroleum product	used as fuel
+petroleum product	transported by pipelines
+petroleum product	stored in tanks
+petroleum product	refined into various products
+petroleum product	used in manufacturing
+petroleum product	released as greenhouse gas
+petroleum product	contributes to climate change
+petroleum product	forms natural gas
+petroleum product	used in energy production
+ore carrier ship	large cargo capacity
+ore carrier ship	designed for transporting ore
+ore carrier ship	typically bulk cargo
+ore carrier ship	used for mining industries
+ore carrier ship	may have open tops or hatches
+ore carrier ship	built for heavy cargo
+ore carrier ship	usually large in size
+ore carrier ship	operates in rough seas
+ore carrier ship	has specialized cargo handling
+ore carrier ship	safety measures for crew and cargo
+set or class	collection of unique items
+set or class	no order or sequence
+set or class	no duplicates allowed
+set or class	elements are distinct
+set or class	membership is defined
+set or class	addition and removal allowed
+set or class	no inherent ordering
+set or class	no indexing
+set or class	fast lookup and retrieval
+set or class	efficient storage and management
+ship berthing	structure
+ship berthing	water
+ship berthing	dock
+ship berthing	harbor
+ship berthing	port
+ship berthing	marine
+ship berthing	vessel
+ship berthing	anchoring
+ship berthing	mooring
+ship berthing	wharf
+transportation authority	regulates transportation modes
+transportation authority	issues permits
+transportation authority	enforces traffic laws
+transportation authority	maintains infrastructure
+transportation authority	sets fares
+transportation authority	coordinates traffic flow
+transportation authority	provides public transportation
+transportation authority	manages parking
+transportation authority	issues traffic citations
+transportation authority	ensures road safety
+cargo handling	physical goods
+cargo handling	transportation
+cargo handling	warehousing
+cargo handling	loading
+cargo handling	unloading
+cargo handling	packing
+cargo handling	handling
+cargo handling	storage
+cargo handling	inventory
+cargo handling	logistics
+general cargo ship	used for transporting various goods
+general cargo ship	not specialized for specific cargo types
+general cargo ship	can carry containers, vehicles, and bulk goods
+general cargo ship	has multiple cargo holds and decks
+general cargo ship	may have refrigerated or temperature-controlled holds
+general cargo ship	typically has a flat bottom and a straight bow
+general cargo ship	has a raked or curved stern
+general cargo ship	usually has a single mast or no masts
+general cargo ship	has a propulsion system, often diesel
+general cargo ship	not designed for high-speed or long-distance travel
+volume measure	measures three-dimensional space
+volume measure	used in engineering and architecture
+volume measure	usually measured in cubic units
+volume measure	such as cubic meters or liters
+volume measure	can be calculated using formulas
+volume measure	like pi*r^2*h
+volume measure	used in science and technology
+volume measure	important in fields like physics and chemistry
+volume measure	can be expressed in different units
+volume measure	like cubic feet or gallons
+glider airplane	powered by engine or propeller
+glider airplane	can't generate lift on its own
+glider airplane	depends on air currents for lift
+glider airplane	glide ratio is its primary goal
+glider airplane	usually has a fixed wing design
+glider airplane	can carry passengers or cargo
+glider airplane	has a higher ceiling than a normal plane
+glider airplane	requires a runway for takeoff
+glider airplane	has a limited range and speed
+glider airplane	needs a trained pilot for operation
+intentional process	deliberate
+intentional process	conscious
+intentional process	goal-oriented
+intentional process	planned
+intentional process	directed
+intentional process	focused
+intentional process	meaningful
+intentional process	purposeful
+intentional process	rational
+intentional process	reflective
+train assembly	large metal structure
+train assembly	multiple cars attached
+train assembly	engine attached
+train assembly	tracks guided
+train assembly	mechanical coupling
+train assembly	passengers or cargo
+train assembly	speed controlled
+train assembly	braking system
+train assembly	regular maintenance
+train assembly	high-speed rail
+partial container ship	a type of cargo vessel
+partial container ship	carries some containers
+partial container ship	not fully loaded
+partial container ship	reduced capacity
+partial container ship	partially occupied
+partial container ship	not a full container ship
+partial container ship	specific route or port
+partial container ship	flexible scheduling
+partial container ship	cost-effective
+partial container ship	environmentally friendly
+regulatory process	formalized procedure
+regulatory process	government involvement
+regulatory process	rules and guidelines
+regulatory process	public participation
+regulatory process	compliance required
+regulatory process	monitoring and enforcement
+regulatory process	adaptation to changes
+regulatory process	transparency and accountability
+regulatory process	risk assessment and management
+regulatory process	fairness and equity
+emergency vehicle	rapid response
+emergency vehicle	siren
+emergency vehicle	lights
+emergency vehicle	ambulance
+emergency vehicle	fire truck
+emergency vehicle	police car
+emergency vehicle	high priority
+emergency vehicle	medical equipment
+emergency vehicle	specialized crew
+emergency vehicle	urgent service
+traffic signal	red
+traffic signal	yellow
+traffic signal	green
+traffic signal	stop
+traffic signal	go
+traffic signal	pedestrian
+traffic signal	driver
+traffic signal	intersection
+traffic signal	road
+traffic signal	safety
+ship deck	surface of a ship
+ship deck	above waterline
+ship deck	exposed to weather
+ship deck	can be windy
+ship deck	sunny or cloudy
+ship deck	occasionally wet
+ship deck	has railings
+ship deck	has equipment
+ship deck	has personnel
+ship deck	often busy
+propeller airplane	powered by propeller
+propeller airplane	fixed wing aircraft
+propeller airplane	uses fossil fuel
+propeller airplane	has multiple parts
+propeller airplane	needs regular maintenance
+propeller airplane	can carry passengers
+propeller airplane	can carry cargo
+propeller airplane	uses runway for takeoff
+propeller airplane	has limited range
+propeller airplane	relatively slow speed
+watercraft	man-made
+watercraft	floats
+watercraft	used for transportation
+watercraft	various types
+watercraft	propulsion systems
+watercraft	hull
+watercraft	sails
+watercraft	engines
+watercraft	crew
+watercraft	navigation
+land area	measurable in square units
+land area	typically measured in acres
+land area	varies by country
+land area	used in geography
+land area	important in real estate
+land area	influences climate
+land area	affects population density
+land area	used in urban planning
+land area	measured by surveying
+land area	used in environmental studies
+emergency road vehicle	designed for rescue and emergency services
+emergency road vehicle	equipped with specialized equipment and tools
+emergency road vehicle	operates in hazardous conditions
+emergency road vehicle	typically ambulances, fire trucks, or rescue vehicles
+emergency road vehicle	used to respond to emergencies like fires, accidents
+emergency road vehicle	may carry medical supplies and equipment
+emergency road vehicle	staffed by trained emergency responders
+emergency road vehicle	operates under strict protocols and regulations
+emergency road vehicle	prioritizes speed and safety above all else
+emergency road vehicle	may be equipped with sirens and lights for visibility
+taking off	aircraft ascent
+taking off	leaving ground
+taking off	ascending trajectory
+taking off	gaining altitude
+taking off	airborne
+taking off	departure
+taking off	launch
+taking off	ascension
+taking off	lifting off
+taking off	ascending
+navigation	direction-finding process
+navigation	helps in finding way
+navigation	uses maps and compass
+navigation	provides route information
+navigation	assists in orientation
+navigation	can be manual or automated
+navigation	used in various fields
+navigation	involves spatial awareness
+navigation	requires attention to detail
+navigation	enhances problem-solving skills
+minivan	multi-row seating
+minivan	sliding doors
+minivan	large interior space
+minivan	comfortable seating
+minivan	family-friendly
+minivan	practical storage
+minivan	good for road trips
+minivan	often used for childcare
+minivan	similar to a people mover
+minivan	typically large and spacious
+ship cabin	small, enclosed space on a ship
+ship cabin	usually has a door and windows
+ship cabin	may have bunks or seating
+ship cabin	can be used for storage or relaxation
+ship cabin	may have amenities like bathroom or galley
+ship cabin	typically has limited space and resources
+ship cabin	may have limited access to ship's deck
+ship cabin	can be affected by ship's motion
+ship cabin	may have specific rules and regulations
+ship cabin	usually has a unique design and layout
+offshore support ship	ocean-going vessel
+offshore support ship	supporting offshore operations
+offshore support ship	supplying equipment
+offshore support ship	providing personnel
+offshore support ship	refueling
+offshore support ship	repairing
+offshore support ship	maintaining
+offshore support ship	accommodating
+offshore support ship	expediting
+offshore support ship	logistical
+vehicle wheel	round in shape
+vehicle wheel	spoke or rim design
+vehicle wheel	tires with tread
+vehicle wheel	axle attached
+vehicle wheel	hubcap or cover
+vehicle wheel	brake rotor or drum
+vehicle wheel	bearing system
+vehicle wheel	rotation axis
+vehicle wheel	air pressure adjustable
+vehicle wheel	replaced periodically
+traffic control process	regulatory
+traffic control process	traffic signals
+traffic control process	stop signs
+traffic control process	pedestrian crossings
+traffic control process	speed limits
+traffic control process	lane markings
+traffic control process	traffic enforcement
+traffic control process	road signs
+traffic control process	driver behavior
+traffic control process	infrastructure
+major air carrier	large fleet
+major air carrier	global routes
+major air carrier	hundreds of planes
+major air carrier	thousands of flights
+major air carrier	millions of passengers
+major air carrier	annual revenues
+major air carrier	complex operations
+major air carrier	hubs and spokes
+major air carrier	code-sharing agreements
+major air carrier	aviation regulatory compliance
+air route	network of flight paths
+air route	aircraft travel
+air route	global coverage
+air route	specific route
+air route	flight planning
+air route	air traffic control
+air route	route optimization
+air route	weather considerations
+air route	fuel efficiency
+air route	safety protocols
+deepwater port	located offshore
+deepwater port	handles large ships
+deepwater port	operates in deep water
+deepwater port	requires specialized equipment
+deepwater port	highly secured
+deepwater port	handles bulk cargo
+deepwater port	oil and gas terminals
+deepwater port	cargo and passenger services
+deepwater port	economic growth driver
+deepwater port	environmental concerns
+railcar carrier ship	large
+railcar carrier ship	ocean-going
+railcar carrier ship	container
+railcar carrier ship	ship
+railcar carrier ship	bulk
+railcar carrier ship	freight
+railcar carrier ship	transport
+railcar carrier ship	hulls
+railcar carrier ship	tracks
+railcar carrier ship	trailers
+freight car	used for transporting goods
+freight car	attached to locomotive
+freight car	various sizes and types
+freight car	steel or aluminum construction
+freight car	wheels on rails
+freight car	coupled together
+freight car	carries heavy loads
+freight car	protected from weather
+freight car	regular maintenance required
+freight car	inspected for safety
+cubic foot	unit of volume
+cubic foot	equal to 12 inches x 12 inches x 12 inches
+cubic foot	approximately 0.0283168 cubic meters
+cubic foot	used in us customary system
+cubic foot	used in construction and engineering
+cubic foot	used in trade and commerce
+cubic foot	often abbreviated as cu ft
+cubic foot	used to measure capacity
+cubic foot	used to measure volume
+cubic foot	commonly used in everyday life
+rolling stock	transportation
+rolling stock	railway
+rolling stock	vehicles
+rolling stock	movable
+rolling stock	heavy
+rolling stock	metal
+rolling stock	wheels
+rolling stock	tracks
+rolling stock	passengers
+rolling stock	freight
+ship berth	structure
+ship berth	waterfront
+ship berth	fixed
+ship berth	stable
+ship berth	loading
+ship berth	unloading
+ship berth	safety
+ship berth	security
+ship berth	maintenance
+ship berth	infrastructure
+land vehicle	powered by engine or motor
+land vehicle	designed for transportation
+land vehicle	four or more wheels
+land vehicle	roadworthy, not waterborne
+land vehicle	human-operated, not autonomous
+land vehicle	has a body and frame
+land vehicle	used for daily life, work
+land vehicle	varying sizes and shapes
+land vehicle	can be customized or modified
+land vehicle	requires maintenance and repair
+navigation buoy	water-based
+navigation buoy	buoyant
+navigation buoy	navigational aid
+navigation buoy	visual
+navigation buoy	floating
+navigation buoy	marker
+navigation buoy	marine
+navigation buoy	aid to navigation
+navigation buoy	stationary
+navigation buoy	visible
+tank car	large capacity
+tank car	liquid cargo
+tank car	railway transport
+tank car	specialized vehicle
+tank car	heavy load
+tank car	pressurized container
+tank car	flammable contents
+tank car	hazardous materials
+tank car	regulatory compliance
+tank car	safety protocols
+railroad bridge	structural
+railroad bridge	transportation
+railroad bridge	railway
+railroad bridge	bridge
+railroad bridge	steel
+railroad bridge	concrete
+railroad bridge	supports
+railroad bridge	tracks
+railroad bridge	trains
+railroad bridge	highway
+radio navigation beacon	transmits radio signals
+radio navigation beacon	used for navigation
+radio navigation beacon	provides location information
+radio navigation beacon	operates on specific frequencies
+radio navigation beacon	identifies aircraft position
+radio navigation beacon	aids in navigation systems
+radio navigation beacon	used for air traffic control
+radio navigation beacon	operates on ground-based stations
+radio navigation beacon	signals are received by aircraft
+radio navigation beacon	used for weather forecasting
+merchant marine	global shipping network
+merchant marine	private companies
+merchant marine	flag of convenience
+merchant marine	cargo and passenger
+merchant marine	international waters
+merchant marine	regulations and laws
+merchant marine	shipbuilding and repair
+merchant marine	marine insurance
+merchant marine	crew and labor
+merchant marine	global economy
+cabotage	maritime trade between nations
+cabotage	international shipping within a country
+cabotage	foreign-flagged vessels operating domestically
+cabotage	restrictions on foreign shipping in some countries
+cabotage	benefits include increased competition and lower prices
+cabotage	challenges include regulatory compliance and safety concerns
+cabotage	examples include the us, eu, and australia
+cabotage	similar to international trade but with maritime focus
+cabotage	can be regulated by government agencies
+cabotage	important for economic growth and development
+aid to navigation	visual
+aid to navigation	electronic
+aid to navigation	water-based
+aid to navigation	land-based
+aid to navigation	fixed
+aid to navigation	movable
+aid to navigation	temporary
+aid to navigation	permanent
+aid to navigation	informational
+aid to navigation	warning
+portable bridge	transportable
+portable bridge	temporary
+portable bridge	movable
+portable bridge	lightweight
+portable bridge	easy_to_assemble
+portable bridge	quickly_deployable
+portable bridge	simple_design
+portable bridge	cost-effective
+portable bridge	environmentally_friendly
+portable bridge	multi-purpose
+canal structure	artificial waterway
+canal structure	connects two bodies of water
+canal structure	digged or cut
+canal structure	used for navigation
+canal structure	improved trade and commerce
+canal structure	reduced travel time
+canal structure	enhanced economic growth
+canal structure	examples: suez, panama, corinth
+canal structure	water level difference
+canal structure	locks or gates control flow
+cable ship	oceanic vessel
+cable ship	cable-laying equipment
+cable ship	undersea communications
+cable ship	telegraphy
+cable ship	electricity
+cable ship	wires
+cable ship	submarine
+cable ship	marine
+cable ship	vessel
+cable ship	historic
+transit shelter	temporary
+transit shelter	public
+transit shelter	outdoor
+transit shelter	weather-protected
+transit shelter	seating
+transit shelter	shelter
+transit shelter	rest
+transit shelter	wait
+transit shelter	safe
+transit shelter	convenient
+hangar bay	a large enclosed space
+hangar bay	for storing and servicing aircraft
+hangar bay	typically found on aircraft carriers
+hangar bay	can be on land or sea
+hangar bay	used for maintenance and repair
+hangar bay	may have multiple levels
+hangar bay	can be large enough for multiple aircraft
+hangar bay	has doors for aircraft entry and exit
+hangar bay	may have advanced technology
+hangar bay	important for military and commercial aviation
+cab car	mode of transportation
+cab car	public vehicle
+cab car	hired
+cab car	driver
+cab car	fare
+cab car	route
+cab car	schedule
+cab car	vehicle
+cab car	road
+cab car	service
+fire engine	large vehicle
+fire engine	red color
+fire engine	siren
+fire engine	water tank
+fire engine	firefighters
+fire engine	emergency service
+fire engine	loud horn
+fire engine	lights
+fire engine	high-pressure pump
+fire engine	multiple wheels
+fishing vessel	designed for fishing
+fishing vessel	sea-going vessel
+fishing vessel	usually large
+fishing vessel	equipped with fishing gear
+fishing vessel	used for commercial fishing
+fishing vessel	can be powered by engine
+fishing vessel	has fishing nets or lines
+fishing vessel	may have crew quarters
+fishing vessel	used for specific fishing methods
+fishing vessel	operates in various waters
+rocket engine	used in space exploration
+rocket engine	provides thrust
+rocket engine	combustion-based
+rocket engine	fuels: liquid or solid
+rocket engine	oxidizer: liquid or gas
+rocket engine	high-temperature operation
+rocket engine	nozzle for exhaust
+rocket engine	control systems for guidance
+rocket engine	computer-controlled ignition
+rocket engine	efficiency: 30-50%
+refrigerated compartment	used_for_storing_cold_items
+refrigerated compartment	maintains_cool_temperature
+refrigerated compartment	found_in_frigidators
+refrigerated compartment	prevents_food_waste
+refrigerated compartment	keeps_food_fresh
+refrigerated compartment	common_in_restaurants
+refrigerated compartment	used_for_preserving_food
+refrigerated compartment	requires_cooling_system
+refrigerated compartment	found_in_cruise_ships
+refrigerated compartment	used_for_storing_medicines
+attaching	joining
+attaching	connecting
+attaching	fastening
+attaching	linking
+attaching	uniting
+attaching	binding
+attaching	securing
+attaching	anchoring
+attaching	fixing
+attaching	stabilizing
+standard gauge railway	width of track is 1,435 mm
+standard gauge railway	used globally, most common gauge
+standard gauge railway	compatible with many locomotives
+standard gauge railway	easier to build and maintain
+standard gauge railway	less expensive than other gauges
+standard gauge railway	widespread use in europe and asia
+standard gauge railway	popular in north america and australia
+standard gauge railway	allows for easy interchange of trains
+standard gauge railway	compatible with many types of wagons
+standard gauge railway	universal standard for modern railways
+diesel fuel	liquid
+diesel fuel	petroleum-based
+diesel fuel	used_in_trucks
+diesel fuel	higher_energy_density
+diesel fuel	used_in_ships
+diesel fuel	less_flammable
+diesel fuel	used_in_power_plants
+diesel fuel	used_in_vehicles
+diesel fuel	has_lower_vapor_pressure
+diesel fuel	used_in_machinery
+research ship	oceanic exploration
+research ship	scientific experiments
+research ship	crew of experts
+research ship	state-of-the-art equipment
+research ship	long-term missions
+research ship	data collection
+research ship	hypothesis testing
+research ship	new discoveries
+research ship	environmental monitoring
+research ship	educational purposes
+hopper dredger	large ship
+hopper dredger	suction dredging
+hopper dredger	wet excavation
+hopper dredger	sand and gravel
+hopper dredger	portable
+hopper dredger	cutter suction
+hopper dredger	bucket elevator
+hopper dredger	bulk handling
+hopper dredger	heavy machinery
+hopper dredger	marine construction
+vehicle registration	official record
+vehicle registration	unique identifier
+vehicle registration	vehicle owner
+vehicle registration	licensing authority
+vehicle registration	driver's license
+vehicle registration	vehicle type
+vehicle registration	plate number
+vehicle registration	expiration date
+vehicle registration	fee payment
+vehicle registration	database entry
+ship hull	structure
+ship hull	watercraft
+ship hull	outer
+ship hull	shell
+ship hull	protects
+ship hull	crew
+ship hull	cargo
+ship hull	buoyancy
+ship hull	stability
+ship hull	design
+animal powered vehicle	uses animals as power source
+animal powered vehicle	no fossil fuels
+animal powered vehicle	sustainable
+animal powered vehicle	environmentally friendly
+animal powered vehicle	historical use
+animal powered vehicle	mainly for transportation
+animal powered vehicle	various types
+animal powered vehicle	e.g. horse-drawn
+animal powered vehicle	e.g. camel-drawn
+animal powered vehicle	e.g. elephant-drawn
+etiologic agent	microorganism or substance causing disease
+etiologic agent	causes infection or illness
+etiologic agent	responsible for pathogenesis
+etiologic agent	identified through epidemiological research
+etiologic agent	may be present in environment or host
+etiologic agent	can be transmitted through various means
+etiologic agent	may cause symptoms or no symptoms
+etiologic agent	may be treated or not treatable
+etiologic agent	may have vaccine or not
+etiologic agent	may have cure or not
+track gauge	standard
+track gauge	width
+track gauge	distance
+track gauge	railway
+track gauge	transport
+track gauge	system
+track gauge	measurement
+track gauge	uniform
+track gauge	industry
+track gauge	standardization
+registry ton	unit of measurement
+registry ton	used in shipping
+registry ton	equals 2,204.62 pounds
+registry ton	or 1,000 kilograms
+registry ton	standardized globally
+registry ton	used in international trade
+registry ton	for cargo weight
+registry ton	measurement
+registry ton	used in ports
+registry ton	for customs purposes
+commercial shipping	global network
+commercial shipping	containerized cargo
+commercial shipping	bulk cargo
+commercial shipping	tankers
+commercial shipping	freight rates
+commercial shipping	port congestion
+commercial shipping	logistics
+commercial shipping	maritime law
+commercial shipping	insurance
+commercial shipping	trade finance
+road vehicle	four-wheeled
+road vehicle	powered
+road vehicle	moves
+road vehicle	on-road
+road vehicle	human-operated
+road vehicle	fossil-fuel-based
+road vehicle	has-speed
+road vehicle	has-direction
+road vehicle	has-stopping
+road vehicle	has-turning
+petroleum pipeline	long-distance transportation
+petroleum pipeline	oil or gas carrying
+petroleum pipeline	underground or above ground
+petroleum pipeline	high-pressure transport
+petroleum pipeline	pipelines network
+petroleum pipeline	oil refineries supply
+petroleum pipeline	gas distribution system
+petroleum pipeline	environmental concerns
+petroleum pipeline	regular maintenance required
+petroleum pipeline	accidents potential risk
+cargo manifest	definition of
+cargo manifest	a file
+cargo manifest	contains package
+cargo manifest	list of dependencies
+cargo manifest	version control
+cargo manifest	manifest file
+cargo manifest	cargo.toml
+cargo manifest	rust package
+cargo manifest	dependency management
+cargo manifest	configuration file
+government organization	publicly funded
+government organization	legally established
+government organization	regulates activities
+government organization	enforces laws
+government organization	provides services
+government organization	represents citizens
+government organization	has authority
+government organization	employs staff
+government organization	makes decisions
+government organization	taxes citizens
+personal watercraft	pneumatic propulsion
+personal watercraft	small to medium size
+personal watercraft	designed for recreational use
+personal watercraft	high-speed capabilities
+personal watercraft	typically operated by one person
+personal watercraft	jet-powered or propeller-driven
+personal watercraft	used for water sports and racing
+personal watercraft	popular for thrill-seeking activities
+personal watercraft	requires proper licensing and safety gear
+personal watercraft	often associated with wakeboarding and skiing
+bill of lading	document
+bill of lading	shipping
+bill of lading	goods
+bill of lading	transportation
+bill of lading	cargo
+bill of lading	manifest
+bill of lading	inventory
+bill of lading	logistics
+bill of lading	freight
+bill of lading	commerce
+ship agent	middleman
+ship agent	intermediary
+ship agent	shipping
+ship agent	agent
+ship agent	marine
+ship agent	services
+ship agent	brokerage
+ship agent	logistics
+ship agent	commercial
+ship agent	marine-related
+commercial airport	provides air travel services
+commercial airport	located near cities or towns
+commercial airport	has runways and aprons
+commercial airport	handles passenger and cargo traffic
+commercial airport	operates 24/7
+commercial airport	has security checks
+commercial airport	offers food and beverage services
+commercial airport	provides parking and ground transportation
+commercial airport	has airline check-in and baggage facilities
+commercial airport	regulated by government authorities
+long ton	unit of weight
+long ton	equals 2,000 pounds
+long ton	used in british imperial system
+long ton	mainly used for shipping
+long ton	less than a short ton
+long ton	shorter than a metric ton
+long ton	commonly used in maritime industry
+long ton	also known as 'tonnage'
+long ton	has no direct equivalent in metric system
+long ton	not to be confused with 'tonne'
+bulk cargo	carried in large quantities
+bulk cargo	not packaged individually
+bulk cargo	usually transported by ships
+bulk cargo	examples include grains and minerals
+bulk cargo	cargo is often loose or in bags
+bulk cargo	not suitable for fragile items
+bulk cargo	transported by specialized vessels
+bulk cargo	requires careful handling and storage
+bulk cargo	can be hazardous if not handled properly
+bulk cargo	used in industries like agriculture and mining
+tugboat	small
+tugboat	powerful
+tugboat	pushes
+tugboat	ships
+tugboat	harbor
+tugboat	water
+tugboat	helps
+tugboat	safe
+tugboat	controlled
+tugboat	assistance
+cargo container	large metal box
+cargo container	used for shipping goods
+cargo container	usually rectangular in shape
+cargo container	can be stacked
+cargo container	has doors for loading/unloading
+cargo container	protected from weather
+cargo container	temperature controlled
+cargo container	secured with locks
+cargo container	tracked electronically
+cargo container	customized for specific cargo
+unpaved runway	not paved with asphalt or concrete
+unpaved runway	may be made of dirt or grass
+unpaved runway	can be rough and uneven
+unpaved runway	may be prone to erosion
+unpaved runway	not suitable for heavy aircraft
+unpaved runway	may require special landing procedures
+unpaved runway	can be slippery when wet
+unpaved runway	may have reduced visibility
+unpaved runway	requires careful planning for takeoff and landing
+unpaved runway	is typically used in remote or emergency situations
+ocean liner	large passenger ship
+ocean liner	crosses oceans
+ocean liner	multiple decks
+ocean liner	accommodates hundreds
+ocean liner	luxurious accommodations
+ocean liner	dining and entertainment
+ocean liner	cruise-style travel
+ocean liner	port-to-port journey
+ocean liner	steam-powered or diesel
+ocean liner	historic mode of transportation
+port city	located near a body of water
+port city	commercial and industrial hub
+port city	transportation hub
+port city	shipping and trade center
+port city	economic importance
+port city	urban development
+port city	tourist attractions
+port city	cultural diversity
+port city	harbor facilities
+port city	waterfront activities
+transit route	a path
+transit route	between two
+transit route	points
+transit route	by vehicle
+transit route	public
+transit route	transportation
+transit route	route
+transit route	planned
+transit route	schedule
+transit route	infrequent
+pusher tug	smaller
+pusher tug	tugboat
+pusher tug	pushes
+pusher tug	larger
+pusher tug	vessel
+pusher tug	assists
+pusher tug	navigation
+pusher tug	harbor
+pusher tug	waterway
+pusher tug	safety
+port facility	location
+port facility	waterfront
+port facility	ships
+port facility	cargo
+port facility	import
+port facility	export
+port facility	warehousing
+port facility	storage
+port facility	logistics
+port facility	trade
+dual gauge railway	railway with two different track gauges
+dual gauge railway	allows trains to switch between gauges
+dual gauge railway	increases flexibility and accessibility
+dual gauge railway	used in areas with mixed gauge standards
+dual gauge railway	reduces need for track relaying
+dual gauge railway	saves time and money
+dual gauge railway	used in many countries
+dual gauge railway	popular in asia and africa
+dual gauge railway	allows for international rail travel
+dual gauge railway	enhances rail network connectivity
+commercial agent	represents buyer or seller
+commercial agent	has authority to act
+commercial agent	negotiates terms
+commercial agent	drafts and signs contracts
+commercial agent	has knowledge of market
+commercial agent	has access to market data
+commercial agent	may hold exclusive rights
+commercial agent	works on behalf of client
+commercial agent	has fiduciary responsibility
+commercial agent	is a licensed professional
+canal system	artificial waterways
+canal system	connects oceans and seas
+canal system	trade and commerce facilitation
+canal system	navigation and transportation
+canal system	reduces shipping distance
+canal system	increases global trade
+canal system	economical and efficient
+canal system	environmental concerns
+canal system	human-made infrastructure
+canal system	sustainable development
+private railcar	owned by individual or company
+private railcar	used for personal or business purposes
+private railcar	not part of public rail network
+private railcar	usually equipped with luxury amenities
+private railcar	may have customized interior design
+private railcar	often used for special events or trips
+private railcar	can be hired for exclusive use
+private railcar	may have separate crew and services
+private railcar	typically more expensive than public rail travel
+private railcar	offers privacy and exclusivity
+head end car	locomotive at the front of a train
+head end car	pulls the train forward
+head end car	typically diesel or electric powered
+head end car	has a cab for the engineer
+head end car	contains the train's control systems
+head end car	provides braking power
+head end car	has a horn and warning devices
+head end car	is responsible for train safety
+head end car	has multiple axles and wheels
+head end car	is a critical component of rail transport
+electrified railway	powered by electricity
+electrified railway	uses electric traction
+electrified railway	replaces steam locomotives
+electrified railway	reduced noise pollution
+electrified railway	reduced air pollution
+electrified railway	increased efficiency
+electrified railway	higher speeds
+electrified railway	more reliable
+electrified railway	reduced maintenance
+electrified railway	cost-effective
+mass measure	physical quantity
+mass measure	measured in units
+mass measure	such as kilograms
+mass measure	or grams
+mass measure	used in science
+mass measure	and everyday life
+mass measure	important in physics
+mass measure	and engineering
+mass measure	used to describe
+mass measure	amount of matter
+paved runway	man-made
+paved runway	flat
+paved runway	smooth
+paved runway	hard
+paved runway	surface
+paved runway	aircraft
+paved runway	takeoff
+paved runway	landing
+paved runway	aviation
+paved runway	infrastructure
+petroleum product pipeline	long
+petroleum product pipeline	underground
+petroleum product pipeline	oil
+petroleum product pipeline	gas
+petroleum product pipeline	transport
+petroleum product pipeline	energy
+petroleum product pipeline	supply
+petroleum product pipeline	storage
+petroleum product pipeline	distribution
+petroleum product pipeline	infrastructure
+flight schedule	time-table
+flight schedule	airlines
+flight schedule	routes
+flight schedule	departure
+flight schedule	arrival
+flight schedule	dates
+flight schedule	times
+flight schedule	frequency
+flight schedule	stops
+flight schedule	duration
+fixed bridge	man-made
+fixed bridge	non-moveable
+fixed bridge	crosses
+fixed bridge	water
+fixed bridge	land
+fixed bridge	supports
+fixed bridge	traffic
+fixed bridge	vehicles
+fixed bridge	pedestrians
+fixed bridge	structural
+turbojet engine	high-speed
+turbojet engine	jet propulsion
+turbojet engine	air-breathing
+turbojet engine	combustion
+turbojet engine	turbo
+turbojet engine	compressor
+turbojet engine	expansion
+turbojet engine	exhaust
+turbojet engine	high-temperature
+turbojet engine	efficient
+whaling ship	large sailing vessel
+whaling ship	historic hunting purpose
+whaling ship	19th-century era
+whaling ship	long voyages
+whaling ship	harpooning method
+whaling ship	catching whales
+whaling ship	processing whale products
+whaling ship	ship's crew
+whaling ship	expeditionary journey
+whaling ship	commercial venture
+guiding	direction
+guiding	leadership
+guiding	influence
+guiding	advice
+guiding	steering
+guiding	mentorship
+guiding	counsel
+guiding	pathway
+guiding	course
+guiding	navigation
+bulkhead	structural partition
+bulkhead	walls or panels
+bulkhead	divide ship compartments
+bulkhead	prevent flooding
+bulkhead	reduce damage
+bulkhead	improve safety
+bulkhead	protect crew
+bulkhead	enhance stability
+bulkhead	used in ships
+bulkhead	critical component
+deck crane	used for cargo handling
+deck crane	typically found on ships
+deck crane	operates on deck
+deck crane	has a lifting capacity
+deck crane	uses cables and pulleys
+deck crane	requires careful operation
+deck crane	ensures cargo safety
+deck crane	common in maritime industry
+deck crane	used for heavy lifting
+deck crane	reduces labor and risk
+electronic signalling	digital representation of information
+electronic signalling	uses electrical impulses
+electronic signalling	signal transmission over wires
+electronic signalling	amplification and modulation
+electronic signalling	frequency and amplitude control
+electronic signalling	error detection and correction
+electronic signalling	data encoding and decoding
+electronic signalling	signal processing and filtering
+electronic signalling	digital-to-analog conversion
+electronic signalling	analog-to-digital conversion
+sea lane	navigable waterway
+sea lane	international shipping route
+sea lane	defined by buoys and markers
+sea lane	used for cargo and passenger transport
+sea lane	subject to weather and traffic regulations
+sea lane	may be restricted to certain vessels
+sea lane	often used by commercial ships
+sea lane	important for global trade and economy
+sea lane	requires navigation skills and equipment
+sea lane	may be affected by environmental factors
+canal lock gate	mechanical device
+canal lock gate	water level control
+canal lock gate	water flow regulation
+canal lock gate	canal navigation aid
+canal lock gate	locks water levels
+canal lock gate	allows boat passage
+canal lock gate	used in waterways
+canal lock gate	serves as a barrier
+canal lock gate	water pressure management
+canal lock gate	hydrological control
+signalling	communication
+signalling	information
+signalling	transmission
+signalling	message
+signalling	signal
+signalling	medium
+signalling	channel
+signalling	receiver
+signalling	sender
+signalling	interpretation
+port crane	mechanical device
+port crane	used in ports
+port crane	handles heavy loads
+port crane	moves containers
+port crane	operates on rails
+port crane	electric or hydraulic
+port crane	high-lift capacity
+port crane	swiveling or telescoping
+port crane	used in cargo handling
+port crane	improves port efficiency
+river port	waterway
+river port	shipping
+river port	harbor
+river port	transportation
+river port	waterfront
+river port	industry
+river port	commerce
+river port	maritime
+river port	trade
+river port	economy
+military watercraft	used for transportation
+military watercraft	armed with weapons
+military watercraft	used for warfare
+military watercraft	designed for military purposes
+military watercraft	built for durability
+military watercraft	can carry troops
+military watercraft	can carry supplies
+military watercraft	has a crew
+military watercraft	has a commander
+military watercraft	can be used in various environments
+vehicle crew	group of people operating a vehicle
+vehicle crew	shared responsibility for vehicle's safety
+vehicle crew	vehicle's operation is dependent on crew
+vehicle crew	crew's skills and training are crucial
+vehicle crew	crew members have specific roles
+vehicle crew	crew's communication is essential
+vehicle crew	crew's coordination is vital
+vehicle crew	crew's size and composition vary
+vehicle crew	crew's training and experience matter
+vehicle crew	crew's performance affects vehicle's outcome
+moving violation	traffic infraction
+moving violation	driving offense
+moving violation	speeding ticket
+moving violation	moving traffic offense
+moving violation	moving traffic infraction
+moving violation	traffic law violation
+moving violation	driving violation
+moving violation	moving traffic code violation
+moving violation	traffic code infraction
+moving violation	driving infraction
+radar facility	uses radio waves
+radar facility	detects and tracks targets
+radar facility	emits signals
+radar facility	receives echoes
+radar facility	calculates distance and speed
+radar facility	monitors weather
+radar facility	assists navigation
+radar facility	detects aircraft and missiles
+radar facility	tracks weather patterns
+radar facility	provides early warning
+electric motor	uses electrical energy
+electric motor	converts energy into motion
+electric motor	has moving parts
+electric motor	uses electromagnetic forces
+electric motor	generates torque
+electric motor	has coils and magnets
+electric motor	can be reversible
+electric motor	has varying speeds
+electric motor	uses power source
+electric motor	efficient energy conversion
+broad gauge railway	rapid transit system
+broad gauge railway	wider than standard gauge
+broad gauge railway	typically 1676-1820 mm
+broad gauge railway	used in russia and india
+broad gauge railway	higher capacity
+broad gauge railway	fewer stops
+broad gauge railway	faster speeds
+broad gauge railway	increased efficiency
+broad gauge railway	reduced maintenance
+broad gauge railway	wider tracks
+lighter	portable
+lighter	fuel-based
+lighter	ignition-powered
+lighter	combustion-based
+lighter	fire-starting
+lighter	smoke-producing
+lighter	flame-emitting
+lighter	air-powered
+lighter	handheld
+lighter	portable-fire-starting-device
+material handling equipment	mechanical
+material handling equipment	industrial
+material handling equipment	used
+material handling equipment	to
+material handling equipment	move
+material handling equipment	materials
+material handling equipment	efficiently
+material handling equipment	in
+material handling equipment	warehouses
+material handling equipment	and
+material handling equipment	factories
+gallery car	electric vehicle
+gallery car	luxury car
+gallery car	high-performance
+gallery car	limited production
+gallery car	exclusive
+gallery car	customizable
+gallery car	artistic design
+gallery car	interior space
+gallery car	advanced technology
+gallery car	elegant appearance
+light fixture	electrical
+light fixture	illuminates
+light fixture	mountable
+light fixture	fixed
+light fixture	holds
+light fixture	bulb
+light fixture	switch
+light fixture	wire
+light fixture	ceiling
+light fixture	portable
+water area	natural
+water area	freshwater
+water area	saltwater
+water area	ocean
+water area	lake
+water area	river
+water area	pond
+water area	estuary
+water area	wetland
+water area	coastal
+fish factory ship	large vessel
+fish factory ship	fish processing
+fish factory ship	catches and processes
+fish factory ship	seafood production
+fish factory ship	global industry
+fish factory ship	various species
+fish factory ship	fresh and frozen products
+fish factory ship	employment opportunities
+fish factory ship	environmental concerns
+fish factory ship	regulatory compliance
+canal lock	mechanical device
+canal lock	raises/lowers water level
+canal lock	controls water flow
+canal lock	used in canals
+canal lock	consists of gates and valves
+canal lock	helps navigation
+canal lock	maintains water level
+canal lock	requires precise operation
+canal lock	ensures safe passage
+canal lock	enhances waterway efficiency
+transit stop	public transportation
+transit stop	station
+transit stop	bus
+transit stop	train
+transit stop	platform
+transit stop	route
+transit stop	schedule
+transit stop	fare
+transit stop	boarding
+transit stop	alighting
+road transportation system	network of roads and highways
+road transportation system	vehicles move on roads
+road transportation system	public and private transportation
+road transportation system	various modes: cars, buses, trucks
+road transportation system	road infrastructure: lanes, signs, signals
+road transportation system	traffic management: rules, regulations
+road transportation system	transportation services: routes, schedules
+road transportation system	road safety: laws, enforcement
+road transportation system	environmental impact: emissions, pollution
+road transportation system	infrastructure development: construction, maintenance
+dangerous goods	flammable or explosive substances
+dangerous goods	requires special handling and storage
+dangerous goods	risk of fire, explosion, or toxic release
+dangerous goods	special packaging and labeling required
+dangerous goods	transportation regulations apply
+dangerous goods	handling and storage precautions necessary
+dangerous goods	risk of injury or death
+dangerous goods	potential for environmental damage
+dangerous goods	special training and equipment required
+dangerous goods	regulations and laws govern handling
+ship compartment	enclosed space
+ship compartment	watercraft
+ship compartment	partitioned area
+ship compartment	safety zone
+ship compartment	stabilizing factor
+ship compartment	storage capacity
+ship compartment	passenger or cargo area
+ship compartment	separate section
+ship compartment	watertight division
+ship compartment	structural integrity
+transit terminal	public transportation hub
+transit terminal	multiple modes of transport
+transit terminal	central location
+transit terminal	connecting routes
+transit terminal	passenger facilities
+transit terminal	ticketing and fare collection
+transit terminal	information services
+transit terminal	security measures
+transit terminal	parking and storage
+transit terminal	commercial activities
+waterway junction	natural or artificial
+waterway junction	where waterways meet
+waterway junction	can be rivers, lakes, or seas
+waterway junction	allows water flow
+waterway junction	can be used for navigation
+waterway junction	supports aquatic life
+waterway junction	important for water quality
+waterway junction	influences local climate
+waterway junction	can be used for irrigation
+waterway junction	supports human settlements
+organizational process	formalized
+organizational process	structured
+organizational process	recurring
+organizational process	managed
+organizational process	coordinated
+organizational process	institutionalized
+organizational process	standardized
+organizational process	documented
+organizational process	auditable
+organizational process	continuous
+truck tractor	large vehicle
+truck tractor	pulls trailer
+truck tractor	engine powerful
+truck tractor	multiple axles
+truck tractor	high ground clearance
+truck tractor	long wheelbase
+truck tractor	heavy load capacity
+truck tractor	multiple wheels
+truck tractor	traction control
+truck tractor	long distance hauling
+traffic light	red, yellow, green colors
+traffic light	regulates traffic flow
+traffic light	three-part system
+traffic light	typically mounted on poles
+traffic light	visible from a distance
+traffic light	day and night visible
+traffic light	light-emitting diodes used
+traffic light	power supply required
+traffic light	regular maintenance needed
+traffic light	standardized globally
+rail transportation system	mass transit
+rail transportation system	public transportation
+rail transportation system	tracks
+rail transportation system	trains
+rail transportation system	railway network
+rail transportation system	passenger service
+rail transportation system	freight service
+rail transportation system	infrastructure
+rail transportation system	signaling system
+rail transportation system	safety features
+railroad track	long and narrow
+railroad track	made of steel
+railroad track	laid on ground
+railroad track	used for transportation
+railroad track	consists of rails
+railroad track	supports trains
+railroad track	can be curved
+railroad track	can be elevated
+railroad track	has ballast
+railroad track	maintained regularly
+passenger ship	carries people
+passenger ship	designed for travel
+passenger ship	multiple decks
+passenger ship	lifeboats on board
+passenger ship	accommodates various classes
+passenger ship	crew on board
+passenger ship	meals and amenities
+passenger ship	long-distance travel
+passenger ship	sea or river travel
+passenger ship	variety of sizes
+deck cargo	type of cargo
+deck cargo	placed on deck
+deck cargo	not in holds
+deck cargo	exposed to weather
+deck cargo	subject to sea state
+deck cargo	may be secured
+deck cargo	carefully loaded
+deck cargo	monitored during transit
+deck cargo	may be affected by weather
+deck cargo	requires special handling
+jet engine	air-powered
+jet engine	turbo-mechanical
+jet engine	high-velocity
+jet engine	gas-turbine
+jet engine	fuel-burning
+jet engine	axial-flow
+jet engine	compressor
+jet engine	turbine
+jet engine	nacelle
+jet engine	aviation
+freighter	large cargo vessel
+freighter	ships goods
+freighter	long-distance
+freighter	oceanic
+freighter	containerized
+freighter	heavy
+freighter	slow
+freighter	fuel-efficient
+freighter	multiple compartments
+freighter	crew-operated
+hoisting device	lifts heavy loads
+hoisting device	uses mechanical advantage
+hoisting device	reduces manual labor
+hoisting device	increases efficiency
+hoisting device	common in construction
+hoisting device	used in heavy industries
+hoisting device	mechanical or hydraulic powered
+hoisting device	can be stationary or mobile
+hoisting device	enhances workplace safety
+hoisting device	cost-effective solution
+scale test car	miniature vehicle
+scale test car	model
+scale test car	small size
+scale test car	reduced scale
+scale test car	prototype
+scale test car	testing purposes
+scale test car	mechanical testing
+scale test car	performance evaluation
+scale test car	design refinement
+scale test car	cost-effective
+outfit car	mode of transportation
+outfit car	vehicle
+outfit car	car
+outfit car	personal
+outfit car	owned
+outfit car	driven
+outfit car	road
+outfit car	freedom
+outfit car	practical
+outfit car	daily use
+mode of transit	transportation method
+mode of transit	means of getting from one place to another
+mode of transit	land
+mode of transit	sea
+mode of transit	air
+mode of transit	public
+mode of transit	private
+mode of transit	walking
+mode of transit	cycling
+mode of transit	riding
+single traffic lane	one-way
+single traffic lane	unidirectional
+single traffic lane	limited capacity
+single traffic lane	no opposing traffic
+single traffic lane	separate direction
+single traffic lane	no merging
+single traffic lane	no passing
+single traffic lane	fixed width
+single traffic lane	defined edges
+single traffic lane	limited access
+light truck	smaller size
+light truck	lower weight
+light truck	less powerful engine
+light truck	more fuel efficient
+light truck	smaller cargo capacity
+light truck	single rear wheels
+light truck	front-wheel drive
+light truck	less expensive
+light truck	easier to maneuver
+light truck	urban use
+port embargo	restriction on port use
+port embargo	international sanctions
+port embargo	naval blockade
+port embargo	economic pressure
+port embargo	disrupts trade
+port embargo	affects ports
+port embargo	international relations
+port embargo	conflict resolution
+port embargo	strategic advantage
+port embargo	national security
+container ship	large vessel
+container ship	carries containers
+container ship	sea-based
+container ship	transportation
+container ship	global trade
+container ship	steel hull
+container ship	multiple decks
+container ship	cranes for loading
+container ship	high-tech navigation
+container ship	environmental concerns
+train station	structure for train arrivals and departures
+train station	typically located near city center
+train station	platforms for passengers to board and exit
+train station	tracks for trains to stop and move
+train station	usually staffed by station masters and attendants
+train station	may have ticket counters and waiting areas
+train station	often has signs and announcements for train schedules
+train station	may have shops and restaurants for passengers
+train station	security measures for passengers and staff
+train station	connected to surrounding infrastructure and transportation
+electrical signalling	transmission of information
+electrical signalling	electrical impulses
+electrical signalling	nerve cells and neurons
+electrical signalling	action potential
+electrical signalling	ion channels
+electrical signalling	electrochemical gradients
+electrical signalling	synaptic transmission
+electrical signalling	nerve conduction velocity
+electrical signalling	electrical signals
+electrical signalling	biological communication
+cargo ship	large vessel
+cargo ship	carries goods
+cargo ship	sea-based transportation
+cargo ship	containerized
+cargo ship	heavy-lift
+cargo ship	long-distance
+cargo ship	reliable
+cargo ship	economic
+cargo ship	environmental impact
+cargo ship	regulation-bound
+intermodal transportation	combines multiple modes of transportation
+intermodal transportation	reduces transportation costs
+intermodal transportation	increases efficiency
+intermodal transportation	environmentally friendly
+intermodal transportation	multi-modal transportation
+intermodal transportation	reduces congestion
+intermodal transportation	enhances supply chain
+intermodal transportation	reduces emissions
+intermodal transportation	boosts economy
+intermodal transportation	improves logistics
+coach railcar	mode of transportation
+coach railcar	carriage for passengers
+coach railcar	attached to a train
+coach railcar	typically has seats
+coach railcar	may have luggage storage
+coach railcar	can be attached to multiple trains
+coach railcar	has doors for entry and exit
+coach railcar	usually has windows
+coach railcar	has a roof
+coach railcar	has wheels for movement
+terminal building	provides shelter from weather
+terminal building	has check-in and baggage claim
+terminal building	offers food and beverage services
+terminal building	features shops and kiosks
+terminal building	provides information and directions
+terminal building	has security checks and scanners
+terminal building	has gates and jetways
+terminal building	has ticketing and boarding
+terminal building	has restrooms and amenities
+terminal building	has public transportation connections
+commercial carrier	provides goods or services for payment
+commercial carrier	operates on a for-profit basis
+commercial carrier	has a fleet of vehicles or aircraft
+commercial carrier	offers routes and schedules for transportation
+commercial carrier	may have hubs or terminals
+commercial carrier	has a system for tracking shipments
+commercial carrier	may offer additional services like warehousing
+commercial carrier	has a customer service department
+commercial carrier	is regulated by government agencies
+commercial carrier	has a physical presence with offices
+department of transportation	government agency
+department of transportation	transportation infrastructure
+department of transportation	roads and highways
+department of transportation	airports and airlines
+department of transportation	public transportation
+department of transportation	regulations and safety
+department of transportation	budget allocation
+department of transportation	employment opportunities
+department of transportation	infrastructure development
+department of transportation	policy making
+vehicle carrier ship	large
+vehicle carrier ship	ocean-going
+vehicle carrier ship	cargo
+vehicle carrier ship	carries
+vehicle carrier ship	vehicles
+vehicle carrier ship	containerized
+vehicle carrier ship	bulk
+vehicle carrier ship	passenger
+vehicle carrier ship	ferry
+vehicle carrier ship	transport
+transportation system	man-made infrastructure
+transportation system	used for moving people and goods
+transportation system	roads, rails, air, and sea
+transportation system	connects cities, towns, and regions
+transportation system	high-speed, low-speed, and mass transit
+transportation system	public and private sector involvement
+transportation system	infrastructure maintenance and upgrade
+transportation system	economic and environmental impact
+transportation system	traffic management and regulation
+transportation system	global connectivity and accessibility
+transitway	mode of transportation
+transitway	public
+transitway	road
+transitway	dedicated
+transitway	route
+transitway	traffic
+transitway	flow
+transitway	separation
+transitway	safety
+transitway	infrastructure
+petroleum tanker ship	large vessel
+petroleum tanker ship	carries oil
+petroleum tanker ship	long and narrow
+petroleum tanker ship	used for transportation
+petroleum tanker ship	has cargo holds
+petroleum tanker ship	protected from weather
+petroleum tanker ship	has engines for propulsion
+petroleum tanker ship	requires skilled crew
+petroleum tanker ship	operates globally
+petroleum tanker ship	contributes to economy
+local transit system	provides transportation within a city or town
+local transit system	operates buses, trains, or other vehicles
+local transit system	has fixed routes and schedules
+local transit system	may offer fare options and payment methods
+local transit system	usually has a central hub or terminal
+local transit system	may have limited or no service on holidays
+local transit system	operates within a specific geographic area
+local transit system	may offer transfer options between routes
+local transit system	has a designated route network and map
+local transit system	is often funded by government or public revenue
+drilling ship	large vessel
+drilling ship	deep-sea operation
+drilling ship	oil/gas extraction
+drilling ship	rig-like equipment
+drilling ship	permanent or semi-permanent
+drilling ship	expensive to operate
+drilling ship	multi-disciplinary crew
+drilling ship	environmental concerns
+drilling ship	risk of accidents
+drilling ship	global presence
+full size van	large interior space
+full size van	long wheelbase
+full size van	heavy-duty suspension
+full size van	ample cargo capacity
+full size van	comfortable seating
+full size van	powerful engine
+full size van	advanced safety features
+full size van	luxurious interior
+full size van	high-tech infotainment
+full size van	towing capacity
+maritime blockade	naval vessels block enemy ports
+maritime blockade	restricts or prevents imports/exports
+maritime blockade	used as economic/military pressure
+maritime blockade	can cause humanitarian crisis
+maritime blockade	increases tensions between nations
+maritime blockade	may lead to international conflict
+maritime blockade	restricts access to resources
+maritime blockade	can impact global economy
+maritime blockade	requires significant naval assets
+maritime blockade	can be a strategic military tactic
+dry bulk cargo	type of cargo
+dry bulk cargo	not refrigerated
+dry bulk cargo	no liquids
+dry bulk cargo	grains, minerals, etc.
+dry bulk cargo	no perishable goods
+dry bulk cargo	transported by ships
+dry bulk cargo	in bulk
+dry bulk cargo	no packaging
+dry bulk cargo	economical
+dry bulk cargo	environmentally friendly
+shipping channel	narrow waterway
+shipping channel	between land
+shipping channel	used for shipping
+shipping channel	important for trade
+shipping channel	can be busy
+shipping channel	needs maintenance
+shipping channel	has rules for navigation
+shipping channel	can be affected by weather
+shipping channel	used by many ships
+shipping channel	crucial for economy
+transportation device	mechanical
+transportation device	vehicle
+transportation device	moving
+transportation device	people
+transportation device	places
+transportation device	speed
+transportation device	distance
+transportation device	efficiency
+transportation device	safety
+transportation device	environmental impact
+motor scooter	two-wheeled vehicle
+motor scooter	powered by engine
+motor scooter	smaller than motorcycle
+motor scooter	one or two seats
+motor scooter	steered by handlebars
+motor scooter	foot-operated brake
+motor scooter	gasoline or electric power
+motor scooter	lightweight and portable
+motor scooter	used for commuting and recreation
+motor scooter	popular in urban areas
+fishing trawler	water-based
+fishing trawler	commercial
+fishing trawler	fish-catching
+fishing trawler	large
+fishing trawler	engine-powered
+fishing trawler	nets-used
+fishing trawler	deep-sea
+fishing trawler	long-distance
+fishing trawler	crew-operated
+fishing trawler	profit-driven
+navigation light	color
+navigation light	intensity
+navigation light	direction
+navigation light	position
+navigation light	purpose
+navigation light	types
+navigation light	shapes
+navigation light	mounting
+navigation light	visibility
+navigation light	specifications
+transportation schedule	planned timing
+transportation schedule	route information
+transportation schedule	vehicle allocation
+transportation schedule	departure and arrival points
+transportation schedule	frequency of trips
+transportation schedule	travel time estimation
+transportation schedule	route changes
+transportation schedule	service disruptions
+transportation schedule	fare information
+transportation schedule	scheduling software
+managing	organizing
+managing	coordinating
+managing	directing
+managing	supervising
+managing	planning
+managing	controlling
+managing	monitoring
+managing	evaluating
+managing	improving
+managing	responsibility
+turboprop airplane	propeller-driven
+turboprop airplane	jet-powered
+turboprop airplane	hybrid
+turboprop airplane	efficient
+turboprop airplane	reduced noise
+turboprop airplane	improved range
+turboprop airplane	increased payload
+turboprop airplane	reduced fuel consumption
+turboprop airplane	environmentally friendly
+turboprop airplane	cost-effective
+jet airplane	powered by jet engines
+jet airplane	fastest mode of transportation
+jet airplane	can fly at high altitudes
+jet airplane	long-range capabilities
+jet airplane	comfortable seating
+jet airplane	pressurized cabins
+jet airplane	high-speed cruise
+jet airplane	can carry heavy loads
+jet airplane	requires specialized maintenance
+jet airplane	complex systems and technology
+organic compound	carbon-based
+organic compound	contains hydrogen
+organic compound	found naturally
+organic compound	non-metallic
+organic compound	molecular structure
+organic compound	chemical bonds
+organic compound	forms crystals
+organic compound	has unique properties
+organic compound	biodegradable
+organic compound	found in living organisms
+atmospheric region	layer
+atmospheric region	air
+atmospheric region	thickness
+atmospheric region	pressure
+atmospheric region	temperature
+atmospheric region	composition
+atmospheric region	altitude
+atmospheric region	boundary
+atmospheric region	transition
+atmospheric region	zone
+road junction	place where roads meet
+road junction	traffic control necessary
+road junction	types: roundabout, intersection, t-junction
+road junction	road signs and markings
+road junction	pedestrian crossing
+road junction	traffic lights
+road junction	traffic flow management
+road junction	junction design
+road junction	traffic safety
+road junction	infrastructure maintenance
+passenger car	designed for transporting people
+passenger car	typically has four wheels
+passenger car	has a fixed or convertible roof
+passenger car	seats usually more than one person
+passenger car	powered by internal combustion engine
+passenger car	can be automatic or manual transmission
+passenger car	has a braking system and suspension
+passenger car	made of various materials like steel
+passenger car	has a fuel tank and fuel system
+passenger car	has a steering system for control
+air traffic control procedure	communication-based
+air traffic control procedure	coordination between controllers
+air traffic control procedure	guided by rules and regulations
+air traffic control procedure	ensures safe separation
+air traffic control procedure	involves multiple controllers
+air traffic control procedure	uses standardized language
+air traffic control procedure	focuses on safety and efficiency
+air traffic control procedure	requires continuous monitoring
+air traffic control procedure	involves conflict resolution
+air traffic control procedure	ensures orderly flow
+keeping	holding onto
+keeping	retaining
+keeping	preserving
+keeping	maintaining
+keeping	conserving
+keeping	upholding
+keeping	sustaining
+keeping	continuing
+keeping	holding in place
+keeping	retaining possession
+air traffic control center	located on ground
+air traffic control center	monitors air traffic
+air traffic control center	coordinates aircraft movements
+air traffic control center	ensures safe separation
+air traffic control center	uses radar and communication
+air traffic control center	receives flight plans
+air traffic control center	issues clearances and instructions
+air traffic control center	coordinates with other centers
+air traffic control center	handles emergencies
+air traffic control center	24/7 operations
+ship hatch	opening in a ship's deck
+ship hatch	allows people to enter/exit
+ship hatch	typically has a door or gate
+ship hatch	may have a ladder or stairs
+ship hatch	often used for cargo or supplies
+ship hatch	can be used as an emergency exit
+ship hatch	may be locked or secured
+ship hatch	usually has a locking mechanism
+ship hatch	can be found on various types of ships
+ship hatch	is a common feature on many vessels
+ship register	official record
+ship register	ship's details
+ship register	ownership information
+ship register	operational data
+ship register	maintenance records
+ship register	safety certifications
+ship register	insurance coverage
+ship register	flag state
+ship register	port of registry
+ship register	maritime authority
+shipping lane	defined by international law
+shipping lane	used for global trade
+shipping lane	marked by buoys and lights
+shipping lane	changes with weather and currents
+shipping lane	patrolled by coast guards
+shipping lane	used by commercial and private vessels
+shipping lane	subject to traffic regulations
+shipping lane	may have restricted areas
+shipping lane	important for global economy
+shipping lane	requires navigation skills
+parking garage	structure for parking vehicles
+parking garage	usually multi-level
+parking garage	enclosed
+parking garage	above ground
+parking garage	accessed via elevators
+parking garage	parking spots are assigned
+parking garage	fee-based
+parking garage	security cameras
+parking garage	lighting
+parking garage	elevators
+sport utility vehicle	four-wheel drive capability
+sport utility vehicle	high ground clearance
+sport utility vehicle	large cargo space
+sport utility vehicle	off-road capability
+sport utility vehicle	comfortable passenger seating
+sport utility vehicle	strong towing capacity
+sport utility vehicle	aggressive exterior design
+sport utility vehicle	available all-wheel drive
+sport utility vehicle	variety of trim levels
+sport utility vehicle	practicality and versatility
+relational attribute	describes a relationship between entities
+relational attribute	identifies a characteristic of an entity
+relational attribute	used in databases and data modeling
+relational attribute	can be single-valued or multi-valued
+relational attribute	can be used to establish relationships
+relational attribute	influences data retrieval and querying
+relational attribute	requires a domain-specific understanding
+relational attribute	can be normalized or denormalized
+relational attribute	influences data consistency and integrity
+relational attribute	used to establish data relationships
+international airport	global connectivity
+international airport	customs and immigration facilities
+international airport	multiple airlines and routes
+international airport	passenger and cargo services
+international airport	runway and terminal infrastructure
+international airport	security measures
+international airport	air traffic control
+international airport	airport operations and management
+international airport	passenger amenities and services
+international airport	expansion and modernization plans
+organic object	biological
+organic object	living
+organic object	non-synthetic
+organic object	natural
+organic object	comprising cells
+organic object	metabolic processes
+organic object	growth
+organic object	response to stimuli
+organic object	homeostasis
+organic object	evolution
+truck trailer	large vehicle
+truck trailer	attached to truck
+truck trailer	carries heavy loads
+truck trailer	used for transportation
+truck trailer	various sizes
+truck trailer	different types
+truck trailer	semi-trailer
+truck trailer	trailers can be detached
+truck trailer	heavy-duty
+truck trailer	common in logistics
+legal charge	fees
+legal charge	cost
+legal charge	amount
+legal charge	payment
+legal charge	liability
+legal charge	debt
+legal charge	obligation
+legal charge	responsibility
+legal charge	liability
+legal charge	financial burden
+electronic device	portable
+electronic device	powerful
+electronic device	electronic
+electronic device	device
+electronic device	man-made
+electronic device	requires electricity
+electronic device	has circuitry
+electronic device	has wires
+electronic device	can be battery-powered
+electronic device	has a screen
+liner service	oceanic shipping
+liner service	regular routes
+liner service	containerized cargo
+liner service	bulk cargo
+liner service	passenger transportation
+liner service	reliable schedule
+liner service	fixed route
+liner service	multiple stops
+liner service	sea travel
+liner service	long-distance shipping
+fuel tank	holds fuel
+fuel tank	underneath vehicle
+fuel tank	metal container
+fuel tank	secured tightly
+fuel tank	protects from leaks
+fuel tank	connected to engine
+fuel tank	stores gasoline
+fuel tank	used for transportation
+fuel tank	replenished regularly
+fuel tank	important for safety
+fire boat	watercraft
+fire boat	firefighting
+fire boat	emergency
+fire boat	rescue
+fire boat	high-pressure
+fire boat	water
+fire boat	pumps
+fire boat	hoses
+fire boat	flames
+fire boat	extinguish
+trade embargo	restriction on imports and exports
+trade embargo	imposed by a country or group
+trade embargo	against a specific nation or entity
+trade embargo	can be economic or military
+trade embargo	may have diplomatic implications
+trade embargo	can be unilateral or multilateral
+trade embargo	intended to achieve specific goals
+trade embargo	can have unintended consequences
+trade embargo	may be lifted or extended
+trade embargo	can affect global trade and economy
+offshore anchorage	location: ocean floor
+offshore anchorage	depth: varies
+offshore anchorage	purpose: temporary
+offshore anchorage	use: ships
+offshore anchorage	security: crucial
+offshore anchorage	risk: damage
+offshore anchorage	regulations: strict
+offshore anchorage	monitoring: continuous
+offshore anchorage	equipment: specialized
+offshore anchorage	expertise: required
+surfaced roadway	man-made
+surfaced roadway	built on land
+surfaced roadway	has a surface
+surfaced roadway	for vehicle travel
+surfaced roadway	usually paved
+surfaced roadway	has boundaries
+surfaced roadway	can be maintained
+surfaced roadway	has a purpose
+surfaced roadway	connects locations
+surfaced roadway	has infrastructure
+internal attribute	private
+internal attribute	hidden
+internal attribute	protected
+internal attribute	confidential
+internal attribute	unique
+internal attribute	accessible
+internal attribute	modifiable
+internal attribute	immutable
+internal attribute	read-only
+internal attribute	encrypted
+diesel engine	combustion internal
+diesel engine	fuel oil
+diesel engine	high compression
+diesel engine	no spark
+diesel engine	diesel fuel
+diesel engine	heavy
+diesel engine	efficient
+diesel engine	low emissions
+diesel engine	reliable
+diesel engine	used in trucks
+transportation company	provides transportation services
+transportation company	operates vehicles or ships
+transportation company	employs drivers or crew
+transportation company	charges for services
+transportation company	offers routes or schedules
+transportation company	may have multiple locations
+transportation company	has vehicles or fleet
+transportation company	provides customer support
+transportation company	may offer additional services
+transportation company	is regulated by government
+offshore supply ship	large vessel
+offshore supply ship	ocean-going
+offshore supply ship	supplies oil rigs
+offshore supply ship	carries crew
+offshore supply ship	provides food
+offshore supply ship	offers accommodation
+offshore supply ship	equipped with crane
+offshore supply ship	has storage capacity
+offshore supply ship	operates in harsh weather
+offshore supply ship	plays vital role in offshore operations
+passenger railway car	carriage
+passenger railway car	railway
+passenger railway car	passenger
+passenger railway car	transport
+passenger railway car	commute
+passenger railway car	seat
+passenger railway car	door
+passenger railway car	window
+passenger railway car	air-conditioned
+passenger railway car	luxurious

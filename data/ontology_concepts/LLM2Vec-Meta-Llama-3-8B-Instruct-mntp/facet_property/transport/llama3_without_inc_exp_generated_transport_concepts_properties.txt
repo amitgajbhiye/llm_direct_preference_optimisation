@@ -1,0 +1,1547 @@
+
+
+{
+"concept": "railroad company",
+"properties": ["operates trains", "owns tracks", "charges fares", "has routes", "uses locomotives", "carries freight", "transports people", "maintains infrastructure", "regulates schedules", "generates revenue"]
+}
+
+{"concept": "railway vehicle", "properties": ["powered by engine", "moves on rails", "carries passengers or cargo", "has wheels", "uses tracks", "stops at stations", "has doors", "has seats or containers", "has safety features", "operates on schedule"]}
+
+{"concept": "body motion", "properties": ["physical movement", "muscle contraction", "joint movement", "posture adjustment", "balance control", "orientation change", "propulsion mechanism", "energy expenditure", "muscle activation", "sensory feedback"]}
+
+{"concept": "pier", "properties": ["structure", "waterfront", "built", "above", "water", "support", "ships", "harbor", "dock", "maritime"]}
+
+{"concept": "chemical tanker ship", "properties": ["Designed for carrying chemicals", "Specialized cargo handling", "Hazardous material transport", "Separate compartments for chemicals", "Specialized crew training", "Regular inspections and maintenance", "Chemical-resistant materials used", "Customized for specific chemicals", "Environmental concerns considered", "Regulations and permits required"]}
+
+{"concept": "dining car", "properties": ["mobile", "food service", "train", "passengers", "seating", "table", "menu", "order", "waitstaff", "fare"]}
+
+{
+"concept": "railway junction",
+"properties": [
+"Multi-track intersection",
+"Railway infrastructure",
+"Connection point",
+"Route diversification",
+"Traffic management",
+"Signaling systems",
+"Track layout",
+"Interchange facility",
+"Train routing",
+"Operational hub"
+]
+}
+
+{"concept": "flight deck", "properties": ["area where pilots control aircraft", "usually located at front of plane", "contains controls and instruments", "pilots' primary workspace", "typically has multiple seats", "used for takeoff and landing", "may have emergency exits", "has warning lights and indicators", "pilots' safety equipment stored", "secure area with restricted access"]}
+
+{
+"concept": "spine car",
+"properties": ["mode of transportation", "long and narrow", "carries goods", "supports weight", "flexible", "used in construction", "high-strength steel", "load-bearing", "elevated", "industrial"]}
+
+{"concept": "tractor trailer", "properties": ["large truck", "long combination vehicle", "several trailers", "attached to tractor unit", "used for hauling heavy loads", "long distance transportation", "road freight", "heavy-duty equipment", "multiple axle", "high capacity"]}
+
+{"concept": "crew list", "properties": ["List of personnel on a ship or aircraft", "Usually organized by rank or role", "Contains crew members' names and positions", "Used for safety, training, and administrative purposes", "May include emergency contact information", "Crew list can be physical or digital", "May be confidential or publicly available", "Depends on type of vessel or aircraft", "Crew list can be used for check-in and check-out", "May include crew members' qualifications and certifications"]}
+
+{"concept": "ship hold", "properties": ["structure", "cargo space", "hatch", "container", "loading", "unloading", "marine", "transportation", "watercraft", "vessel"]}
+
+{
+"concept": "Radar/Sonar",
+"properties": [
+"Detects and tracks objects",
+"Uses radio waves/ultrasound",
+"Active or passive detection",
+"Range and direction measurement",
+"Used in aviation and navigation",
+"Can detect speed and altitude",
+"Used in military and surveillance",
+"Can detect weather and terrain",
+"Interferes with GPS signals",
+"Used in meteorology and astronomy"
+]
+}
+
+{
+"concept": "air traffic control tower",
+"properties": [
+"tall structure",
+"aircraft navigation",
+"radio communication",
+"visual observation",
+"controller's workplace",
+"multiple levels",
+"radar equipment",
+"weather monitoring",
+"aircraft guidance",
+"aviation safety"
+]
+}
+
+{
+"concept": "fishing boat",
+"properties": [
+"Used for catching fish",
+"Has a fishing net",
+"Operates on water",
+"Has a crew",
+"Depends on weather",
+"Has a captain",
+"Is a type of boat",
+"Has fishing gear",
+"Is used for commercial purposes",
+"Is a working vessel"
+]
+}
+
+{"concept": "contract carrier", "properties": ["Freight transportation", "Trucking company", "Logistics provider", "Shipper", "Carrier", "Trucking", "Delivery", "Goods movement", "Transportation service", "Commercial vehicle"]}
+
+{"concept": "airport classification", "properties": ["International", "Domestic", "Military", "Private", "Cargo", "Commercial", "General", "Specialized", "Regional", "National"]}
+
+{
+"concept": "crane ship",
+"properties": [
+"Large vessel with lifting equipment",
+"Used for heavy cargo transport",
+"Equipped with cranes and winches",
+"Operates in ports and open waters",
+"Handles heavy loads and containers",
+"Common in shipbuilding and repair",
+"Found in busy ports worldwide",
+"Requires skilled crew and maintenance",
+"Can be self-propelled or towed",
+"Supports global trade and commerce"
+]}
+
+{
+"concept": "arriving",
+"properties": ["arrival", "destination", "travel", "journey", "end", "point", "reach", "land", "stop", "finish"]
+}
+
+{
+"concept": "Multiple Track Railway",
+"properties": [
+"Multiple parallel tracks",
+"Simultaneous train operations",
+"Increased capacity and efficiency",
+"Reduced congestion and delays",
+"Enhanced safety features",
+"Improved passenger experience",
+"Higher train speeds",
+"Reduced noise pollution",
+"More flexible route planning",
+"Increased economic benefits"
+]
+}
+
+{
+"concept": "water transportation system",
+"properties": [
+"Used for centuries",
+"Global network",
+"Marine and inland",
+"Ships, boats, and ferries",
+"Goods and people",
+"Importance in economy",
+"Environmental impact",
+"Infrastructure development",
+"Technological advancements",
+"Climate change concerns"
+]
+}
+
+{
+"concept": "common carrier",
+"properties": ["transportation service", "publicly available", "regulated", "neutral", "non-discriminatory", "fair", "reasonable", "published rates", "open to all", "no special treatment"]
+}
+
+{"concept": "containerization", "properties": ["Platform-agnostic", "Lightweight", "Portable", "Efficient", "Isolated", "Self-contained", "Decoupled", "Scalable", "Flexible", "Reusable"]}
+
+{
+"concept": "flatcar",
+"properties": ["a type of vehicle", "has no suspension", "has a flat bed", "used for transporting goods", "often seen in construction", "can be open or enclosed", "various sizes and shapes", "used for heavy loads", "may have wheels or tracks", "used in many industries"]
+}
+
+{
+"concept": "electric device",
+"properties": ["powered by electricity", "converts electricity to useful form", "uses electrical circuitry", "has electrical components", "requires power source", "can be portable", "has specific function", "can be controlled", "may have safety features", "can be complex"]
+}
+
+{
+"concept": "container terminal",
+"properties": [
+"Handles container cargo",
+"Located near ports",
+"Facilitates international trade",
+"Has cranes and equipment",
+"Operates 24/7",
+"Requires skilled labor",
+"Manages inventory and logistics",
+"Has security measures",
+"Handles different container sizes",
+"Operates under regulations"
+]
+}
+
+{"concept": "petroleum product", "properties": ["derived from crude oil", "used as fuel", "transported by pipelines", "stored in tanks", "refined into various products", "used in manufacturing", "released as greenhouse gas", "contributes to climate change", "forms natural gas", "used in energy production"]}
+
+{"concept": "ore carrier ship", "properties": ["Large cargo capacity", "Designed for transporting ore", "Typically bulk cargo", "Used for mining industries", "May have open tops or hatches", "Built for heavy cargo", "Usually large in size", "Operates in rough seas", "Has specialized cargo handling", "Safety measures for crew and cargo"]}
+
+{"concept": "Set or Class", "properties": ["Collection of unique items", "No order or sequence", "No duplicates allowed", "Elements are distinct", "Membership is defined", "Addition and removal allowed", "No inherent ordering", "No indexing", "Fast lookup and retrieval", "Efficient storage and management"]}
+
+{"concept": "ship berthing", "properties": ["structure", "water", "dock", "harbor", "port", "marine", "vessel", "anchoring", "mooring", "wharf"]}
+
+{"concept": "transportation authority", "properties": ["regulates transportation modes", "issues permits", "enforces traffic laws", "maintains infrastructure", "sets fares", "coordinates traffic flow", "provides public transportation", "manages parking", "issues traffic citations", "ensures road safety"]}
+
+{
+"concept": "cargo handling",
+"properties": ["physical goods", "transportation", "warehousing", "loading", "unloading", "packing", "handling", "storage", "inventory", "logistics"]
+}
+
+{
+"concept": "general cargo ship",
+"properties": [
+"Used for transporting various goods",
+"Not specialized for specific cargo types",
+"Can carry containers, vehicles, and bulk goods",
+"Has multiple cargo holds and decks",
+"May have refrigerated or temperature-controlled holds",
+"Typically has a flat bottom and a straight bow",
+"Has a raked or curved stern",
+"Usually has a single mast or no masts",
+"Has a propulsion system, often diesel",
+"Not designed for high-speed or long-distance travel"
+]
+}
+
+{"concept": "volume measure", "properties": ["measures three-dimensional space", "used in engineering and architecture", "usually measured in cubic units", "such as cubic meters or liters", "can be calculated using formulas", "like pi*r^2*h", "used in science and technology", "important in fields like physics and chemistry", "can be expressed in different units", "like cubic feet or gallons"]}
+
+{
+"concept": "glider airplane",
+"properties": [
+"Powered by engine or propeller",
+"Can't generate lift on its own",
+"Depends on air currents for lift",
+"Glide ratio is its primary goal",
+"Usually has a fixed wing design",
+"Can carry passengers or cargo",
+"Has a higher ceiling than a normal plane",
+"Requires a runway for takeoff",
+"Has a limited range and speed",
+"Needs a trained pilot for operation"
+]}
+
+{
+"concept": "Intentional Process",
+"properties": ["Deliberate", "Conscious", "Goal-oriented", "Planned", "Directed", "Focused", "Meaningful", "Purposeful", "Rational", "Reflective"]
+}
+
+{"concept": "train assembly", "properties": ["large metal structure", "multiple cars attached", "engine attached", "tracks guided", "mechanical coupling", "passengers or cargo", "speed controlled", "braking system", "regular maintenance", "high-speed rail"]}
+
+{
+"concept": "partial container ship",
+"properties": ["a type of cargo vessel", "carries some containers", "not fully loaded", "reduced capacity", "partially occupied", "not a full container ship", "specific route or port", "flexible scheduling", "cost-effective", "environmentally friendly"]
+}
+
+{
+"concept": "regulatory process",
+"properties": [
+"Formalized procedure",
+"Government involvement",
+"Rules and guidelines",
+"Public participation",
+"Compliance required",
+"Monitoring and enforcement",
+"Adaptation to changes",
+"Transparency and accountability",
+"Risk assessment and management",
+"Fairness and equity"
+]
+}
+
+{"concept": "emergency vehicle", "properties": ["rapid response", "siren", "lights", "ambulance", "fire truck", "police car", "high priority", "medical equipment", "specialized crew", "urgent service"]}
+
+{"concept": "traffic signal", "properties": ["red", "yellow", "green", "stop", "go", "pedestrian", "driver", "intersection", "road", "safety"]}
+
+{"concept": "ship deck", "properties": ["surface of a ship", "above waterline", "exposed to weather", "can be windy", "sunny or cloudy", "occasionally wet", "has railings", "has equipment", "has personnel", "often busy"]}
+
+{
+"concept": "propeller airplane",
+"properties": [
+"powered by propeller",
+"fixed wing aircraft",
+"uses fossil fuel",
+"has multiple parts",
+"needs regular maintenance",
+"can carry passengers",
+"can carry cargo",
+"uses runway for takeoff",
+"has limited range",
+"relatively slow speed"
+]
+}
+
+{
+"concept": "watercraft",
+"properties": ["man-made", "floats", "used for transportation", "various types", "propulsion systems", "hull", "sails", "engines", "crew", "navigation"]
+}
+
+{
+"concept": "land area",
+"properties": ["measurable in square units", "typically measured in acres", "varies by country", "used in geography", "important in real estate", "influences climate", "affects population density", "used in urban planning", "measured by surveying", "used in environmental studies"]
+}
+
+{
+"concept": "emergency road vehicle",
+"properties": [
+"Designed for rescue and emergency services",
+"Equipped with specialized equipment and tools",
+"Operates in hazardous conditions",
+"Typically ambulances, fire trucks, or rescue vehicles",
+"Used to respond to emergencies like fires, accidents",
+"May carry medical supplies and equipment",
+"Staffed by trained emergency responders",
+"Operates under strict protocols and regulations",
+"Prioritizes speed and safety above all else",
+"May be equipped with sirens and lights for visibility"
+]
+}
+
+{"concept": "taking off", "properties": ["aircraft ascent", "leaving ground", "ascending trajectory", "gaining altitude", "airborne", "departure", "launch", "ascension", "lifting off", "ascending"]}
+
+{
+"concept": "navigation",
+"properties": [
+"Direction-finding process",
+"Helps in finding way",
+"Uses maps and compass",
+"Provides route information",
+"Assists in orientation",
+"Can be manual or automated",
+"Used in various fields",
+"Involves spatial awareness",
+"Requires attention to detail",
+"Enhances problem-solving skills"
+]
+}
+
+{
+"concept": "minivan",
+"properties": [
+"Multi-row seating",
+"Sliding doors",
+"Large interior space",
+"Comfortable seating",
+"Family-friendly",
+"Practical storage",
+"Good for road trips",
+"Often used for childcare",
+"Similar to a people mover",
+"Typically large and spacious"
+]
+}
+
+{
+"concept": "ship cabin",
+"properties": [
+"Small, enclosed space on a ship",
+"Usually has a door and windows",
+"May have bunks or seating",
+"Can be used for storage or relaxation",
+"May have amenities like bathroom or galley",
+"Typically has limited space and resources",
+"May have limited access to ship's deck",
+"Can be affected by ship's motion",
+"May have specific rules and regulations",
+"Usually has a unique design and layout"
+]
+}
+
+{
+"concept": "offshore support ship",
+"properties": ["ocean-going vessel", "supporting offshore operations", "supplying equipment", "providing personnel", "refueling", "repairing", "maintaining", "accommodating", "expediting", "logistical"]
+}
+
+{
+"concept": "vehicle wheel",
+"properties": ["round in shape", "spoke or rim design", "tires with tread", "axle attached", "hubcap or cover", "brake rotor or drum", "bearing system", "rotation axis", "air pressure adjustable", "replaced periodically"]
+}
+
+{
+"concept": "traffic control process",
+"properties": [
+"Regulatory",
+"Traffic signals",
+"Stop signs",
+"Pedestrian crossings",
+"Speed limits",
+" Lane markings",
+"Traffic enforcement",
+"Road signs",
+"Driver behavior",
+"Infrastructure"
+]
+}
+
+{"concept": "major air carrier", "properties": ["large fleet", "global routes", "hundreds of planes", "thousands of flights", "millions of passengers", "annual revenues", "complex operations", "hubs and spokes", "code-sharing agreements", "aviation regulatory compliance"]}
+
+{"concept": "air route", "properties": ["network of flight paths", "aircraft travel", "global coverage", "specific route", "flight planning", "air traffic control", "route optimization", "weather considerations", "fuel efficiency", "safety protocols"]}
+
+{"concept": "Deepwater Port", "properties": ["Located offshore", "Handles large ships", "Operates in deep water", "Requires specialized equipment", "Highly secured", "Handles bulk cargo", "Oil and gas terminals", "Cargo and passenger services", "Economic growth driver", "Environmental concerns"]}
+
+{"concept": "railcar carrier ship", "properties": ["large", "ocean-going", "container", "ship", "bulk", "freight", "transport", "hulls", "tracks", "trailers"]}
+
+{"concept": "freight car", "properties": ["used for transporting goods", "attached to locomotive", "various sizes and types", "steel or aluminum construction", "wheels on rails", "coupled together", "carries heavy loads", "protected from weather", "regular maintenance required", "inspected for safety"]}
+
+{"concept": "cubic foot", "properties": ["unit of volume", "equal to 12 inches x 12 inches x 12 inches", "approximately 0.0283168 cubic meters", "used in US customary system", "used in construction and engineering", "used in trade and commerce", "often abbreviated as cu ft", "used to measure capacity", "used to measure volume", "commonly used in everyday life"]}
+
+{"concept": "rolling stock", "properties": ["transportation", "railway", "vehicles", "movable", "heavy", "metal", "wheels", "tracks", "passengers", "freight"]}
+
+{"concept": "ship berth", "properties": ["structure", "waterfront", "fixed", "stable", "loading", "unloading", "safety", "security", "maintenance", "infrastructure"]}
+
+{
+"concept": "land vehicle",
+"properties": [
+"Powered by engine or motor",
+"Designed for transportation",
+"Four or more wheels",
+"Roadworthy, not waterborne",
+"Human-operated, not autonomous",
+"Has a body and frame",
+"Used for daily life, work",
+"Varying sizes and shapes",
+"Can be customized or modified",
+"Requires maintenance and repair"
+]}
+
+{
+"concept": "navigation buoy",
+"properties": ["water-based", "buoyant", "navigational aid", "visual", "floating", "marker", "marine", "aid to navigation", "stationary", "visible"]
+}
+
+{
+"concept": "tank car",
+"properties": ["large capacity", "liquid cargo", "railway transport", "specialized vehicle", "heavy load", "pressurized container", "flammable contents", "hazardous materials", "regulatory compliance", "safety protocols"]
+}
+
+{
+"concept": "railroad bridge",
+"properties": [
+"Structural", "Transportation", "Railway", "Bridge", "Steel", "Concrete", "Supports", "Tracks", "Trains", "Highway"
+]
+}
+
+{
+"concept": "Radio Navigation Beacon",
+"properties": [
+"Transmits radio signals",
+"Used for navigation",
+"Provides location information",
+"Operates on specific frequencies",
+"Identifies aircraft position",
+"Aids in navigation systems",
+"Used for air traffic control",
+"Operates on ground-based stations",
+"Signals are received by aircraft",
+"Used for weather forecasting"
+]
+}
+
+{"concept": "merchant marine", "properties": ["global shipping network", "private companies", "flag of convenience", " cargo and passenger", "international waters", "regulations and laws", "shipbuilding and repair", "marine insurance", "crew and labor", "global economy"]}
+
+{
+"concept": "cabotage",
+"properties": [
+"Maritime trade between nations",
+"International shipping within a country",
+"Foreign-flagged vessels operating domestically",
+"Restrictions on foreign shipping in some countries",
+"Benefits include increased competition and lower prices",
+"Challenges include regulatory compliance and safety concerns",
+"Examples include the US, EU, and Australia",
+"Similar to international trade but with maritime focus",
+"Can be regulated by government agencies",
+"Important for economic growth and development"
+]
+}
+
+{
+"concept": "aid to navigation",
+"properties": ["visual", "electronic", "water-based", "land-based", "fixed", "movable", "temporary", "permanent", "informational", " warning"]
+}
+
+{"concept": "portable bridge", "properties": ["transportable", "temporary", "movable", "lightweight", "easy_to_assemble", "quickly_deployable", "simple_design", "cost-effective", "environmentally_friendly", "multi-purpose"]}
+
+{
+"concept": "canal structure",
+"properties": [
+"Artificial waterway",
+"Connects two bodies of water",
+"Digged or cut",
+"Used for navigation",
+"Improved trade and commerce",
+"Reduced travel time",
+"Enhanced economic growth",
+"Examples: Suez, Panama, Corinth",
+"Water level difference",
+"Locks or gates control flow"
+]
+}
+
+{
+"concept": "cable ship",
+"properties": ["oceanic vessel", "cable-laying equipment", "undersea communications", "telegraphy", "electricity", "wires", "submarine", "marine", "vessel", "historic"]
+}
+
+{"concept": "transit shelter", "properties": ["temporary", "public", "outdoor", "weather-protected", "seating", "shelter", "rest", "wait", "safe", "convenient"]}
+
+{"concept": "hangar bay", "properties": ["a large enclosed space", "for storing and servicing aircraft", "typically found on aircraft carriers", "can be on land or sea", "used for maintenance and repair", "may have multiple levels", "can be large enough for multiple aircraft", "has doors for aircraft entry and exit", "may have advanced technology", "important for military and commercial aviation"]}
+
+{"concept": "Cab Car", "properties": ["mode of transportation", "public vehicle", "hired", "driver", "fare", "route", "schedule", "vehicle", "road", "service"]}
+
+{
+"concept": "fire engine",
+"properties": ["large vehicle", "red color", "siren", "water tank", "firefighters", "emergency service", "loud horn", "lights", "high-pressure pump", "multiple wheels"]
+}
+
+{
+"concept": "fishing vessel",
+"properties": [
+"Designed for fishing",
+"Sea-going vessel",
+"Usually large",
+"Equipped with fishing gear",
+"Used for commercial fishing",
+"Can be powered by engine",
+"Has fishing nets or lines",
+"May have crew quarters",
+"Used for specific fishing methods",
+"Operates in various waters"
+]
+}
+
+{
+"concept": "rocket engine",
+"properties": [
+"Used in space exploration",
+"Provides thrust",
+"Combustion-based",
+"Fuels: liquid or solid",
+"Oxidizer: liquid or gas",
+"High-temperature operation",
+"Nozzle for exhaust",
+"Control systems for guidance",
+"Computer-controlled ignition",
+"Efficiency: 30-50%"
+]
+}
+
+{
+"concept": "Refrigerated Compartment",
+"properties": ["used_for_storing_cold_items", "maintains_cool_temperature", "found_in_frigidators", "prevents_food_waste", "keeps_food_fresh", "common_in_restaurants", "used_for_preserving_food", "requires_cooling_system", "found_in_cruise_ships", "used_for_storing_medicines"]
+}
+
+{"concept": "attaching", "properties": ["joining", "connecting", "fastening", "linking", "uniting", "binding", "securing", "anchoring", "fixing", "stabilizing"]}
+
+{
+"concept": "standard gauge railway",
+"properties": [
+"width of track is 1,435 mm",
+"used globally, most common gauge",
+"compatible with many locomotives",
+"easier to build and maintain",
+"less expensive than other gauges",
+"widespread use in Europe and Asia",
+"popular in North America and Australia",
+"allows for easy interchange of trains",
+"compatible with many types of wagons",
+"universal standard for modern railways"
+]
+}
+
+{"concept": "diesel fuel", "properties": ["liquid", "petroleum-based", "used_in_trucks", "higher_energy_density", "used_in_ships", "less_flammable", "used_in_power_plants", "used_in_vehicles", "has_lower_vapor_pressure", "used_in_machinery"]}
+
+{"concept": "research ship", "properties": ["oceanic exploration", "scientific experiments", "crew of experts", "state-of-the-art equipment", "long-term missions", "data collection", "hypothesis testing", "new discoveries", "environmental monitoring", "educational purposes"]}
+
+{
+"concept": "hopper dredger",
+"properties": ["large ship", "suction dredging", "wet excavation", "sand and gravel", "portable", "cutter suction", "bucket elevator", "bulk handling", "heavy machinery", "marine construction"]
+}
+
+{"concept": "vehicle registration", "properties": ["official record", "unique identifier", "vehicle owner", "licensing authority", "driver's license", "vehicle type", "plate number", "expiration date", "fee payment", "database entry"]}
+
+{"concept": "ship hull", "properties": ["structure", "watercraft", "outer", "shell", "protects", "crew", "cargo", "buoyancy", "stability", "design"]}
+
+{"concept": "animal powered vehicle", "properties": ["uses animals as power source", "no fossil fuels", "sustainable", "environmentally friendly", "historical use", "mainly for transportation", "various types", "e.g. horse-drawn", "e.g. camel-drawn", "e.g. elephant-drawn"]}
+
+{
+"concept": "Etiologic Agent",
+"properties": [
+"Microorganism or substance causing disease",
+"Causes infection or illness",
+"Responsible for pathogenesis",
+"Identified through epidemiological research",
+"May be present in environment or host",
+"Can be transmitted through various means",
+"May cause symptoms or no symptoms",
+"May be treated or not treatable",
+"May have vaccine or not",
+"May have cure or not"
+]
+}
+
+{"concept": "track gauge", "properties": ["standard", "width", "distance", "railway", "transport", "system", "measurement", "uniform", "industry", "standardization"]}
+
+{"concept": "registry ton", "properties": ["unit of measurement", "used in shipping", "equals 2,204.62 pounds", "or 1,000 kilograms", "standardized globally", "used in international trade", "for cargo weight", "measurement", "used in ports", "for customs purposes"]}
+
+{"concept": "commercial shipping", "properties": ["global network", "containerized cargo", "bulk cargo", "tankers", "freight rates", "port congestion", "logistics", "maritime law", "insurance", "trade finance"]}
+
+{"concept": "road vehicle", "properties": ["four-wheeled", "powered", "moves", "on-road", "human-operated", "fossil-fuel-based", "has-speed", "has-direction", "has-stopping", "has-turning"]}
+
+{
+"concept": "petroleum pipeline",
+"properties": [
+"long-distance transportation",
+"oil or gas carrying",
+"underground or above ground",
+"high-pressure transport",
+"pipelines network",
+"oil refineries supply",
+"gas distribution system",
+"environmental concerns",
+"regular maintenance required",
+"accidents potential risk"
+]
+}
+
+{"concept": "Cargo manifest", "properties": ["Definition of", "A file", "Contains package", "List of dependencies", "Version control", "Manifest file", "Cargo.toml", "Rust package", "Dependency management", "Configuration file"]}
+
+{"concept": "government organization", "properties": ["publicly funded", "legally established", "regulates activities", "enforces laws", "provides services", "represents citizens", "has authority", "employs staff", "makes decisions", "taxes citizens"]}
+
+{
+"concept": "personal watercraft",
+"properties": [
+"Pneumatic propulsion",
+"Small to medium size",
+"Designed for recreational use",
+"High-speed capabilities",
+"Typically operated by one person",
+"Jet-powered or propeller-driven",
+"Used for water sports and racing",
+"Popular for thrill-seeking activities",
+"Requires proper licensing and safety gear",
+"Often associated with wakeboarding and skiing"
+]}
+
+{"concept": "bill of lading", "properties": ["document", "shipping", "goods", "transportation", "cargo", "manifest", "inventory", "logistics", "freight", "commerce"]}
+
+{"concept": "ship agent", "properties": ["middleman", "intermediary", "shipping", "agent", "marine", "services", "brokerage", "logistics", "commercial", "marine-related"]}
+
+{
+"concept": "Commercial Airport",
+"properties": [
+"Provides air travel services",
+"Located near cities or towns",
+"Has runways and aprons",
+"Handles passenger and cargo traffic",
+"Operates 24/7",
+"Has security checks",
+"Offers food and beverage services",
+"Provides parking and ground transportation",
+"Has airline check-in and baggage facilities",
+"Regulated by government authorities"
+]}
+
+{
+"concept": "Long Ton",
+"properties": [
+"Unit of weight",
+"Equals 2,000 pounds",
+"Used in British Imperial system",
+"Mainly used for shipping",
+"Less than a short ton",
+"Shorter than a metric ton",
+"Commonly used in maritime industry",
+"Also known as 'tonnage'",
+"Has no direct equivalent in metric system",
+"Not to be confused with 'tonne'"
+]
+}
+
+{
+"concept": "bulk cargo",
+"properties": [
+"Carried in large quantities",
+"Not packaged individually",
+"Usually transported by ships",
+"Examples include grains and minerals",
+"Cargo is often loose or in bags",
+"Not suitable for fragile items",
+"Transported by specialized vessels",
+"Requires careful handling and storage",
+"Can be hazardous if not handled properly",
+"Used in industries like agriculture and mining"
+]
+}
+
+{"concept": "tugboat", "properties": ["small", "powerful", "pushes", "ships", "harbor", "water", "helps", "safe", "controlled", "assistance"]}
+
+{"concept": "cargo container", "properties": ["Large metal box", "Used for shipping goods", "Usually rectangular in shape", "Can be stacked", "Has doors for loading/unloading", "Protected from weather", "Temperature controlled", "Secured with locks", "Tracked electronically", "Customized for specific cargo"]}
+
+{"concept": "unpaved runway", "properties": ["not paved with asphalt or concrete", "may be made of dirt or grass", "can be rough and uneven", "may be prone to erosion", "not suitable for heavy aircraft", "may require special landing procedures", "can be slippery when wet", "may have reduced visibility", "requires careful planning for takeoff and landing", "is typically used in remote or emergency situations"]}
+
+{
+"concept": "ocean liner",
+"properties": ["large passenger ship", "crosses oceans", "multiple decks", "accommodates hundreds", "luxurious accommodations", "dining and entertainment", "cruise-style travel", "port-to-port journey", "steam-powered or diesel", "historic mode of transportation"]
+}
+
+{
+"concept": "Port City",
+"properties": ["located near a body of water", "commercial and industrial hub", "transportation hub", "shipping and trade center", "economic importance", "urban development", "tourist attractions", "cultural diversity", "harbor facilities", "waterfront activities"]
+}
+
+{"concept": "transit route", "properties": ["a path", "between two", "points", "by vehicle", "public", "transportation", "route", "planned", "schedule", "infrequent"]}
+
+{"concept": "pusher tug", "properties": ["smaller", "tugboat", "pushes", "larger", "vessel", "assists", "navigation", "harbor", "waterway", "safety"]}
+
+{"concept": "port facility", "properties": ["location", "waterfront", "ships", "cargo", "import", "export", "warehousing", "storage", "logistics", "trade"]}
+
+{"concept": "dual gauge railway", "properties": ["railway with two different track gauges", "allows trains to switch between gauges", "increases flexibility and accessibility", "used in areas with mixed gauge standards", "reduces need for track relaying", "saves time and money", "used in many countries", "popular in Asia and Africa", "allows for international rail travel", "enhances rail network connectivity"]}
+
+{
+"concept": "Commercial Agent",
+"properties": [
+"Represents buyer or seller",
+"Has authority to act",
+"Negotiates terms",
+"Drafts and signs contracts",
+"Has knowledge of market",
+"Has access to market data",
+"May hold exclusive rights",
+"Works on behalf of client",
+"Has fiduciary responsibility",
+"Is a licensed professional"
+]
+}
+
+{
+"concept": "Canal System",
+"properties": [
+"Artificial waterways",
+"Connects oceans and seas",
+"Trade and commerce facilitation",
+"Navigation and transportation",
+"Reduces shipping distance",
+"Increases global trade",
+"Economical and efficient",
+"Environmental concerns",
+"Human-made infrastructure",
+"Sustainable development"
+]
+}
+
+{"concept": "private railcar", "properties": ["owned by individual or company", "used for personal or business purposes", "not part of public rail network", "usually equipped with luxury amenities", "may have customized interior design", "often used for special events or trips", "can be hired for exclusive use", "may have separate crew and services", "typically more expensive than public rail travel", "offers privacy and exclusivity"]}
+
+{
+"concept": "Head End Car",
+"properties": [
+"Locomotive at the front of a train",
+"Pulls the train forward",
+"Typically diesel or electric powered",
+"Has a cab for the engineer",
+"Contains the train's control systems",
+"Provides braking power",
+"Has a horn and warning devices",
+"Is responsible for train safety",
+"Has multiple axles and wheels",
+"Is a critical component of rail transport"
+]
+}
+
+{
+"concept": "electrified railway",
+"properties": [
+"powered by electricity",
+"uses electric traction",
+"replaces steam locomotives",
+"reduced noise pollution",
+"reduced air pollution",
+"increased efficiency",
+"higher speeds",
+"more reliable",
+"reduced maintenance",
+"cost-effective"
+]
+}
+
+{"concept": "mass measure", "properties": ["physical quantity", "measured in units", "such as kilograms", "or grams", "used in science", "and everyday life", "important in physics", "and engineering", "used to describe", "amount of matter"]}
+
+{"concept": "paved runway", "properties": ["man-made", "flat", "smooth", "hard", "surface", "aircraft", "takeoff", "landing", "aviation", "infrastructure"]}
+
+{
+"concept": "petroleum product pipeline",
+"properties": ["long", "underground", "oil", "gas", "transport", "energy", "supply", "storage", "distribution", "infrastructure"]
+}
+
+{"concept": "flight schedule", "properties": ["time-table", "airlines", "routes", "departure", "arrival", "dates", "times", "frequency", "stops", "duration"]}
+
+{"concept": "fixed bridge", "properties": ["man-made", "non-moveable", "crosses", "water", "land", "supports", "traffic", "vehicles", "pedestrians", "structural"]}
+
+{"concept": "turbojet engine", "properties": ["high-speed", "jet propulsion", "air-breathing", "combustion", "turbo", "compressor", "expansion", "exhaust", "high-temperature", "efficient"]}
+
+{"concept": "whaling ship", "properties": ["large sailing vessel", "historic hunting purpose", "19th-century era", "long voyages", "harpooning method", "catching whales", "processing whale products", "ship's crew", "expeditionary journey", "commercial venture"]}
+
+{"concept": "guiding", "properties": ["Direction", "Leadership", "Influence", "Advice", "Steering", "Mentorship", "Counsel", "Pathway", "Course", "Navigation"]}
+
+{
+"concept": "bulkhead",
+"properties": [
+"Structural partition",
+"Walls or panels",
+"Divide ship compartments",
+"Prevent flooding",
+"Reduce damage",
+"Improve safety",
+"Protect crew",
+"Enhance stability",
+"Used in ships",
+"Critical component"
+]
+}
+
+{
+"concept": "deck crane",
+"properties": [
+"Used for cargo handling",
+"Typically found on ships",
+"Operates on deck",
+"Has a lifting capacity",
+"Uses cables and pulleys",
+"Requires careful operation",
+"Ensures cargo safety",
+"Common in maritime industry",
+"Used for heavy lifting",
+"Reduces labor and risk"
+]
+}
+
+{
+"concept": "electronic signalling",
+"properties": [
+"Digital representation of information",
+"Uses electrical impulses",
+"Signal transmission over wires",
+"Amplification and modulation",
+"Frequency and amplitude control",
+"Error detection and correction",
+"Data encoding and decoding",
+"Signal processing and filtering",
+"Digital-to-analog conversion",
+"Analog-to-digital conversion"
+]
+}
+
+{"concept": "sea lane", "properties": ["navigable waterway", "international shipping route", "defined by buoys and markers", "used for cargo and passenger transport", "subject to weather and traffic regulations", "may be restricted to certain vessels", "often used by commercial ships", "important for global trade and economy", "requires navigation skills and equipment", "may be affected by environmental factors"]}
+
+{"concept": "canal lock gate", "properties": ["mechanical device", "water level control", "water flow regulation", "canal navigation aid", "locks water levels", "allows boat passage", "used in waterways", "serves as a barrier", "water pressure management", "hydrological control"]}
+
+{"concept": "signalling", "properties": ["communication", "information", "transmission", "message", "signal", "medium", "channel", "receiver", "sender", "interpretation"]}
+
+{
+"concept": "port crane",
+"properties": [
+"Mechanical device",
+"Used in ports",
+"Handles heavy loads",
+"Moves containers",
+"Operates on rails",
+"Electric or hydraulic",
+"High-lift capacity",
+"Swiveling or telescoping",
+"Used in cargo handling",
+"Improves port efficiency"
+]
+}
+
+{"concept": "river port", "properties": ["waterway", "shipping", "harbor", "transportation", "waterfront", "industry", "commerce", "maritime", "trade", "economy"]}
+
+{"concept": "military watercraft", "properties": ["used for transportation", "armed with weapons", "used for warfare", "designed for military purposes", "built for durability", "can carry troops", "can carry supplies", "has a crew", "has a commander", "can be used in various environments"]}
+
+{
+"concept": "vehicle crew",
+"properties": [
+"Group of people operating a vehicle",
+"Shared responsibility for vehicle's safety",
+"Vehicle's operation is dependent on crew",
+"Crew's skills and training are crucial",
+"Crew members have specific roles",
+"Crew's communication is essential",
+"Crew's coordination is vital",
+"Crew's size and composition vary",
+"Crew's training and experience matter",
+"Crew's performance affects vehicle's outcome"
+]
+}
+
+{
+"concept": "moving violation",
+"properties": [
+"Traffic infraction",
+"Driving offense",
+"Speeding ticket",
+"Moving traffic offense",
+"Moving traffic infraction",
+"Traffic law violation",
+"Driving violation",
+"Moving traffic code violation",
+"Traffic code infraction",
+"Driving infraction"
+]
+}
+
+{
+"concept": "Radar Facility",
+"properties": ["uses radio waves", "detects and tracks targets", "emits signals", "receives echoes", "calculates distance and speed", "monitors weather", "assists navigation", "detects aircraft and missiles", "tracks weather patterns", "provides early warning"]
+}
+
+{
+"concept": "electric motor",
+"properties": ["uses electrical energy", "converts energy into motion", "has moving parts", "uses electromagnetic forces", "generates torque", "has coils and magnets", "can be reversible", "has varying speeds", "uses power source", "efficient energy conversion"]
+}
+
+{
+"concept": "Broad Gauge Railway",
+"properties": [
+"Rapid transit system",
+"Wider than standard gauge",
+"Typically 1676-1820 mm",
+"Used in Russia and India",
+"Higher capacity",
+"Fewer stops",
+"Faster speeds",
+"Increased efficiency",
+"Reduced maintenance",
+"Wider tracks"
+]
+}
+
+{"concept": "lighter", "properties": ["Portable", "Fuel-based", "Ignition-powered", "Combustion-based", "Fire-starting", "Smoke-producing", "Flame-emitting", "Air-powered", "Handheld", "Portable-fire-starting-device"]}
+
+{"concept": "material handling equipment", "properties": ["mechanical", "industrial", "used", "to", "move", "materials", "efficiently", "in", "warehouses", "and", "factories"]}
+
+{"concept": "Gallery Car", "properties": ["Electric Vehicle", "Luxury Car", "High-Performance", "Limited Production", "Exclusive", "Customizable", "Artistic Design", "Interior Space", "Advanced Technology", "Elegant Appearance"]}
+
+{
+"concept": "light fixture",
+"properties": ["electrical", "illuminates", "mountable", "fixed", "holds", "bulb", "switch", "wire", "ceiling", "portable"]
+}
+
+{"concept": "water area", "properties": ["natural", "freshwater", "saltwater", "ocean", "lake", "river", "pond", "estuary", "wetland", "coastal"]}
+
+{
+"concept": "fish factory ship",
+"properties": [
+"Large vessel",
+"Fish processing",
+"Catches and processes",
+"Seafood production",
+"Global industry",
+"Various species",
+"Fresh and frozen products",
+"Employment opportunities",
+"Environmental concerns",
+"Regulatory compliance"
+]
+}
+
+{
+"concept": "canal lock",
+"properties": [
+"Mechanical device",
+"Raises/lowers water level",
+"Controls water flow",
+"Used in canals",
+"Consists of gates and valves",
+"Helps navigation",
+"Maintains water level",
+"Requires precise operation",
+"Ensures safe passage",
+"Enhances waterway efficiency"
+]
+}
+
+{"concept": "transit stop", "properties": ["public transportation", "station", "bus", "train", "platform", "route", "schedule", "fare", "boarding", "alighting"]}
+
+{
+"concept": "road transportation system",
+"properties": [
+"Network of roads and highways",
+"Vehicles move on roads",
+"Public and private transportation",
+"Various modes: cars, buses, trucks",
+"Road infrastructure: lanes, signs, signals",
+"Traffic management: rules, regulations",
+"Transportation services: routes, schedules",
+"Road safety: laws, enforcement",
+"Environmental impact: emissions, pollution",
+"Infrastructure development: construction, maintenance"
+]
+}
+
+{
+"concept": "dangerous goods",
+"properties": [
+"Flammable or explosive substances",
+"Requires special handling and storage",
+"Risk of fire, explosion, or toxic release",
+"Special packaging and labeling required",
+"Transportation regulations apply",
+"Handling and storage precautions necessary",
+"Risk of injury or death",
+"Potential for environmental damage",
+"Special training and equipment required",
+"Regulations and laws govern handling"
+]}
+
+{"concept": "ship compartment", "properties": ["enclosed space", "watercraft", "partitioned area", "safety zone", "stabilizing factor", "storage capacity", "passenger or cargo area", "separate section", " watertight division", "structural integrity"]}
+
+{"concept": "transit terminal", "properties": ["public transportation hub", "multiple modes of transport", "central location", "connecting routes", "passenger facilities", "ticketing and fare collection", "information services", "security measures", "parking and storage", "commercial activities"]}
+
+{"concept": "waterway junction", "properties": ["natural or artificial", "where waterways meet", "can be rivers, lakes, or seas", "allows water flow", "can be used for navigation", "supports aquatic life", "important for water quality", "influences local climate", "can be used for irrigation", "supports human settlements"]}
+
+{"concept": "organizational process", "properties": ["Formalized", "Structured", "Recurring", "Managed", "Coordinated", "Institutionalized", "Standardized", "Documented", "Auditable", "Continuous"]}
+
+{"concept": "truck tractor", "properties": ["large vehicle", "pulls trailer", "engine powerful", "multiple axles", "high ground clearance", "long wheelbase", "heavy load capacity", "multiple wheels", "traction control", "long distance hauling"]}
+
+{
+"concept": "traffic light",
+"properties": [
+"Red, yellow, green colors",
+"Regulates traffic flow",
+"Three-part system",
+"Typically mounted on poles",
+"Visible from a distance",
+"Day and night visible",
+"Light-emitting diodes used",
+"Power supply required",
+"Regular maintenance needed",
+"Standardized globally"
+]
+}
+
+{
+"concept": "rail transportation system",
+"properties": [
+"Mass transit", "Public transportation", "Tracks", "Trains", "Railway network", "Passenger service", "Freight service", "Infrastructure", "Signaling system", "Safety features"
+]
+}
+
+{
+"concept": "railroad track",
+"properties": [
+"long and narrow",
+"made of steel",
+"laid on ground",
+"used for transportation",
+"consists of rails",
+"supports trains",
+"can be curved",
+"can be elevated",
+"has ballast",
+"maintained regularly"
+]
+}
+
+{
+"concept": "passenger ship",
+"properties": [
+"Carries people",
+"Designed for travel",
+"Multiple decks",
+"Lifeboats on board",
+"Accommodates various classes",
+"Crew on board",
+"Meals and amenities",
+"Long-distance travel",
+"Sea or river travel",
+"Variety of sizes"
+]
+}
+
+{
+"concept": "deck cargo",
+"properties": ["type of cargo", "placed on deck", "not in holds", "exposed to weather", "subject to sea state", "may be secured", "carefully loaded", "monitored during transit", "may be affected by weather", "requires special handling"]
+}
+
+{
+"concept": "jet engine",
+"properties": ["air-powered", "turbo-mechanical", "high-velocity", "gas-turbine", "fuel-burning", "axial-flow", "compressor", "turbine", "nacelle", "aviation"]
+}
+
+{
+"concept": "freighter",
+"properties": ["large cargo vessel", "ships goods", "long-distance", "oceanic", "containerized", "heavy", "slow", "fuel-efficient", "multiple compartments", "crew-operated"]
+}
+
+{
+"concept": "hoisting device",
+"properties": ["lifts heavy loads", "uses mechanical advantage", "reduces manual labor", "increases efficiency", "common in construction", "used in heavy industries", "mechanical or hydraulic powered", "can be stationary or mobile", "enhances workplace safety", "cost-effective solution"]
+}
+
+{"concept": "scale test car", "properties": ["miniature vehicle", "model", "small size", "reduced scale", "prototype", "testing purposes", "mechanical testing", "performance evaluation", "design refinement", "cost-effective"]}
+
+{"concept": "outfit car", "properties": ["mode of transportation", "vehicle", "car", "personal", "owned", "driven", "road", "freedom", "practical", "daily use"]}
+
+{"concept": "mode of transit", "properties": ["Transportation method", "Means of getting from one place to another", "Land", "Sea", "Air", "Public", "Private", "Walking", "Cycling", "Riding"]}
+
+{"concept": "single traffic lane", "properties": ["one-way", "unidirectional", "limited capacity", "no opposing traffic", "separate direction", "no merging", "no passing", "fixed width", "defined edges", "limited access"]}
+
+{"concept": "light truck", "properties": ["smaller size", "lower weight", "less powerful engine", "more fuel efficient", "smaller cargo capacity", "single rear wheels", "front-wheel drive", "less expensive", "easier to maneuver", "urban use"]}
+
+{
+"concept": "Port Embargo",
+"properties": [
+"Restriction on port use",
+"International sanctions",
+"Naval blockade",
+"Economic pressure",
+"Disrupts trade",
+"Affects ports",
+"International relations",
+"Conflict resolution",
+"Strategic advantage",
+"National security"
+]
+}
+
+{"concept": "container ship", "properties": ["large vessel", "carries containers", "sea-based", "transportation", "global trade", "steel hull", "multiple decks", "cranes for loading", "high-tech navigation", "environmental concerns"]}
+
+{
+"concept": "train station",
+"properties": [
+"structure for train arrivals and departures",
+"typically located near city center",
+"platforms for passengers to board and exit",
+"tracks for trains to stop and move",
+"usually staffed by station masters and attendants",
+"may have ticket counters and waiting areas",
+"often has signs and announcements for train schedules",
+"may have shops and restaurants for passengers",
+"security measures for passengers and staff",
+"connected to surrounding infrastructure and transportation"
+]
+}
+
+{
+"concept": "electrical signalling",
+"properties": [
+"transmission of information",
+"electrical impulses",
+"nerve cells and neurons",
+"action potential",
+"ion channels",
+"electrochemical gradients",
+"synaptic transmission",
+"nerve conduction velocity",
+"electrical signals",
+"biological communication"
+]
+}
+
+{
+"concept": "cargo ship",
+"properties": ["large vessel", "carries goods", "sea-based transportation", "containerized", "heavy-lift", "long-distance", "reliable", "economic", "environmental impact", "regulation-bound"]
+}
+
+{
+"concept": "Intermodal Transportation",
+"properties": [
+"Combines multiple modes of transportation",
+"Reduces transportation costs",
+"Increases efficiency",
+"Environmentally friendly",
+"Multi-modal transportation",
+"Reduces congestion",
+"Enhances supply chain",
+"Reduces emissions",
+"Boosts economy",
+"Improves logistics"
+]
+}
+
+{"concept": "coach railcar", "properties": ["mode of transportation", "carriage for passengers", "attached to a train", "typically has seats", "may have luggage storage", "can be attached to multiple trains", "has doors for entry and exit", "usually has windows", "has a roof", "has wheels for movement"]}
+
+{
+"concept": "terminal building",
+"properties": [
+"Provides shelter from weather",
+"Has check-in and baggage claim",
+"Offers food and beverage services",
+"Features shops and kiosks",
+"Provides information and directions",
+"Has security checks and scanners",
+"Has gates and jetways",
+"Has ticketing and boarding",
+"Has restrooms and amenities",
+"Has public transportation connections"
+]
+}
+
+{
+"concept": "commercial carrier",
+"properties": [
+"Provides goods or services for payment",
+"Operates on a for-profit basis",
+"Has a fleet of vehicles or aircraft",
+"Offers routes and schedules for transportation",
+"May have hubs or terminals",
+"Has a system for tracking shipments",
+"May offer additional services like warehousing",
+"Has a customer service department",
+"Is regulated by government agencies",
+"Has a physical presence with offices"
+]
+}
+
+{
+"concept": "Department of Transportation",
+"properties": ["Government agency", "Transportation infrastructure", "Roads and highways", "Airports and airlines", "Public transportation", "Regulations and safety", "Budget allocation", "Employment opportunities", "Infrastructure development", "Policy making"]
+}
+
+{"concept": "vehicle carrier ship", "properties": ["large", "ocean-going", " cargo", "carries", "vehicles", "containerized", "bulk", "passenger", "ferry", "transport"]}
+
+{
+"concept": "transportation system",
+"properties": [
+"Man-made infrastructure",
+"Used for moving people and goods",
+"Roads, rails, air, and sea",
+"Connects cities, towns, and regions",
+"High-speed, low-speed, and mass transit",
+"Public and private sector involvement",
+"Infrastructure maintenance and upgrade",
+"Economic and environmental impact",
+"Traffic management and regulation",
+"Global connectivity and accessibility"
+]}
+
+{
+"concept": "transitway",
+"properties": ["mode of transportation", "public", "road", "dedicated", "route", "traffic", "flow", "separation", "safety", "infrastructure"]
+}
+
+{
+"concept": "petroleum tanker ship",
+"properties": [
+"Large vessel",
+"Carries oil",
+"Long and narrow",
+"Used for transportation",
+"Has cargo holds",
+"Protected from weather",
+"Has engines for propulsion",
+"Requires skilled crew",
+"Operates globally",
+"Contributes to economy"
+]
+}
+
+{
+"concept": "local transit system",
+"properties": [
+"Provides transportation within a city or town",
+"Operates buses, trains, or other vehicles",
+"Has fixed routes and schedules",
+"May offer fare options and payment methods",
+"Usually has a central hub or terminal",
+"May have limited or no service on holidays",
+"Operates within a specific geographic area",
+"May offer transfer options between routes",
+"Has a designated route network and map",
+"Is often funded by government or public revenue"
+]
+}
+
+{
+"concept": "drilling ship",
+"properties": [
+"Large vessel",
+"Deep-sea operation",
+"Oil/gas extraction",
+"Rig-like equipment",
+"Permanent or semi-permanent",
+"Expensive to operate",
+"Multi-disciplinary crew",
+"Environmental concerns",
+"Risk of accidents",
+"Global presence"
+]
+}
+
+{"concept": "full size van", "properties": ["large interior space", "long wheelbase", "heavy-duty suspension", "ample cargo capacity", "comfortable seating", "powerful engine", "advanced safety features", "luxurious interior", "high-tech infotainment", " towing capacity"]}
+
+{
+"concept": "Maritime Blockade",
+"properties": [
+"Naval vessels block enemy ports",
+"Restricts or prevents imports/exports",
+"Used as economic/military pressure",
+"Can cause humanitarian crisis",
+"Increases tensions between nations",
+"May lead to international conflict",
+"Restricts access to resources",
+"Can impact global economy",
+"Requires significant naval assets",
+"Can be a strategic military tactic"
+]
+}
+
+{
+"concept": "dry bulk cargo",
+"properties": ["type of cargo", "not refrigerated", "no liquids", "grains, minerals, etc.", "no perishable goods", "transported by ships", "in bulk", "no packaging", "economical", "environmentally friendly"]
+}
+
+{"concept": "shipping channel", "properties": ["narrow waterway", "between land", "used for shipping", "important for trade", "can be busy", "needs maintenance", "has rules for navigation", "can be affected by weather", "used by many ships", "crucial for economy"]}
+
+{"concept": "transportation device", "properties": ["mechanical", "vehicle", "moving", "people", "places", "speed", "distance", "efficiency", "safety", "environmental impact"]}
+
+{
+"concept": "motor scooter",
+"properties": [
+"two-wheeled vehicle",
+"powered by engine",
+"smaller than motorcycle",
+"one or two seats",
+"steered by handlebars",
+"foot-operated brake",
+"gasoline or electric power",
+"lightweight and portable",
+"used for commuting and recreation",
+"popular in urban areas"
+]
+}
+
+{"concept": "fishing trawler", "properties": ["water-based", "commercial", "fish-catching", "large", "engine-powered", "nets-used", "deep-sea", "long-distance", "crew-operated", "profit-driven"]}
+
+{"concept": "Navigation Light", "properties": ["Color", "Intensity", "Direction", "Position", "Purpose", "Types", "Shapes", "Mounting", "Visibility", "Specifications"]}
+
+{
+"concept": "transportation schedule",
+"properties": ["planned timing", "route information", "vehicle allocation", "departure and arrival points", "frequency of trips", "travel time estimation", "route changes", "service disruptions", "fare information", "scheduling software"]
+}
+
+{
+"concept": "managing",
+"properties": ["organizing", "coordinating", "directing", "supervising", "planning", "controlling", "monitoring", "evaluating", "improving", "responsibility"]
+}
+
+{
+"concept": "turboprop airplane",
+"properties": ["propeller-driven", "jet-powered", "hybrid", "efficient", "reduced noise", "improved range", "increased payload", "reduced fuel consumption", "environmentally friendly", "cost-effective"]
+}
+
+{"concept": "jet airplane", "properties": ["powered by jet engines", "fastest mode of transportation", "can fly at high altitudes", "long-range capabilities", "comfortable seating", "pressurized cabins", "high-speed cruise", "can carry heavy loads", "requires specialized maintenance", "complex systems and technology"]}
+
+{
+"concept": "organic compound",
+"properties": ["carbon-based", "contains hydrogen", "found naturally", "non-metallic", "molecular structure", "chemical bonds", "forms crystals", "has unique properties", "biodegradable", "found in living organisms"]
+}
+
+{
+"concept": "atmospheric region",
+"properties": ["layer", "air", "thickness", "pressure", "temperature", "composition", " altitude", "boundary", "transition", "zone"]
+}
+
+{
+"concept": "road junction",
+"properties": ["place where roads meet", "traffic control necessary", "types: roundabout, intersection, T-junction", "road signs and markings", "pedestrian crossing", "traffic lights", "traffic flow management", "junction design", "traffic safety", "infrastructure maintenance"]
+}
+
+{
+"concept": "passenger car",
+"properties": [
+"Designed for transporting people",
+"Typically has four wheels",
+"Has a fixed or convertible roof",
+"Seats usually more than one person",
+"Powered by internal combustion engine",
+"Can be automatic or manual transmission",
+"Has a braking system and suspension",
+"Made of various materials like steel",
+"Has a fuel tank and fuel system",
+"Has a steering system for control"
+]}
+
+{
+"concept": "air traffic control procedure",
+"properties": [
+"Communication-based",
+"Coordination between controllers",
+"Guided by rules and regulations",
+"Ensures safe separation",
+"Involves multiple controllers",
+"Uses standardized language",
+"Focuses on safety and efficiency",
+"Requires continuous monitoring",
+"Involves conflict resolution",
+"Ensures orderly flow"
+]
+}
+
+{"concept": "keeping", "properties": ["holding onto", "retaining", "preserving", "maintaining", "conserving", "upholding", "sustaining", "continuing", "holding in place", "retaining possession"]}
+
+{"concept": "air traffic control center", "properties": ["located on ground", "monitors air traffic", "coordinates aircraft movements", "ensures safe separation", "uses radar and communication", "receives flight plans", "issues clearances and instructions", "coordinates with other centers", "handles emergencies", "24/7 operations"]}
+
+{
+"concept": "ship hatch",
+"properties": [
+"opening in a ship's deck",
+"allows people to enter/exit",
+"typically has a door or gate",
+"may have a ladder or stairs",
+"often used for cargo or supplies",
+"can be used as an emergency exit",
+"may be locked or secured",
+"usually has a locking mechanism",
+"can be found on various types of ships",
+"is a common feature on many vessels"
+]
+}
+
+{"concept": "ship register", "properties": ["official record", "ship's details", "ownership information", "operational data", "maintenance records", "safety certifications", "insurance coverage", "flag state", "port of registry", "maritime authority"]}
+
+{
+"concept": "shipping lane",
+"properties": [
+"Defined by international law",
+"Used for global trade",
+"Marked by buoys and lights",
+"Changes with weather and currents",
+"Patrolled by coast guards",
+"Used by commercial and private vessels",
+"Subject to traffic regulations",
+"May have restricted areas",
+"Important for global economy",
+"Requires navigation skills"
+]
+}
+
+{"concept": "parking garage", "properties": ["structure for parking vehicles", "usually multi-level", "enclosed", "above ground", "accessed via elevators", "parking spots are assigned", "fee-based", "security cameras", "lighting", "elevators"] }
+
+{
+"concept": "Sport Utility Vehicle",
+"properties": [
+"Four-wheel drive capability",
+"High ground clearance",
+"Large cargo space",
+"Off-road capability",
+"Comfortable passenger seating",
+"Strong towing capacity",
+"Aggressive exterior design",
+"Available all-wheel drive",
+"Variety of trim levels",
+"Practicality and versatility"
+]
+}
+
+{"concept": "relational attribute", "properties": ["Describes a relationship between entities", "Identifies a characteristic of an entity", "Used in databases and data modeling", "Can be single-valued or multi-valued", "Can be used to establish relationships", "Influences data retrieval and querying", "Requires a domain-specific understanding", "Can be normalized or denormalized", "Influences data consistency and integrity", "Used to establish data relationships"]}
+
+{
+"concept": "international airport",
+"properties": [
+"Global connectivity",
+"Customs and immigration facilities",
+"Multiple airlines and routes",
+"Passenger and cargo services",
+"Runway and terminal infrastructure",
+"Security measures",
+"Air traffic control",
+"Airport operations and management",
+"Passenger amenities and services",
+"Expansion and modernization plans"
+]
+}
+
+{
+"concept": "organic object",
+"properties": ["biological", "living", "non-synthetic", "natural", "comprising cells", "metabolic processes", "growth", "response to stimuli", "homeostasis", "evolution"]
+}
+
+{"concept": "truck trailer", "properties": ["large vehicle", "attached to truck", "carries heavy loads", "used for transportation", "various sizes", "different types", "semi-trailer", "trailers can be detached", "heavy-duty", "common in logistics"]}
+
+{"concept": "Legal Charge", "properties": ["Fees", "Cost", "Amount", "Payment", "Liability", "Debt", "Obligation", "Responsibility", "Liability", "Financial Burden"]}
+
+{
+"concept": "electronic device",
+"properties": [
+"Portable",
+"Powerful",
+"Electronic",
+"Device",
+"Man-made",
+"Requires electricity",
+"Has circuitry",
+"Has wires",
+"Can be battery-powered",
+"Has a screen"
+]
+}
+
+{"concept": "liner service", "properties": ["oceanic shipping", "regular routes", "containerized cargo", "bulk cargo", "passenger transportation", "reliable schedule", "fixed route", "multiple stops", "sea travel", "long-distance shipping"]}
+
+{"concept": "fuel tank", "properties": ["holds fuel", "underneath vehicle", "metal container", "secured tightly", "protects from leaks", "connected to engine", "stores gasoline", "used for transportation", "replenished regularly", "important for safety"]}
+
+{
+"concept": "fire boat",
+"properties": ["watercraft", "firefighting", "emergency", "rescue", "high-pressure", "water", "pumps", "hoses", "flames", "extinguish"]
+}
+
+{
+"concept": "trade embargo",
+"properties": [
+"Restriction on imports and exports",
+"Imposed by a country or group",
+"Against a specific nation or entity",
+"Can be economic or military",
+"May have diplomatic implications",
+"Can be unilateral or multilateral",
+"Intended to achieve specific goals",
+"Can have unintended consequences",
+"May be lifted or extended",
+"Can affect global trade and economy"
+]
+}
+
+{
+"concept": "offshore anchorage",
+"properties": [
+"Location: ocean floor",
+"Depth: varies",
+"Purpose: temporary",
+"Use: ships",
+"Security: crucial",
+"Risk: damage",
+"Regulations: strict",
+"Monitoring: continuous",
+"Equipment: specialized",
+"Expertise: required"
+]
+}
+
+{
+"concept": "surfaced roadway",
+"properties": ["man-made", "built on land", "has a surface", "for vehicle travel", "usually paved", "has boundaries", "can be maintained", "has a purpose", "connects locations", "has infrastructure"]
+}
+
+{
+"concept": "Internal Attribute",
+"properties": ["Private", "Hidden", "Protected", "Confidential", "Unique", "Accessible", "Modifiable", "Immutable", "Read-Only", "Encrypted"]
+}
+
+{"concept": "diesel engine", "properties": ["combustion internal", "fuel oil", "high compression", "no spark", "diesel fuel", "heavy", "efficient", "low emissions", "reliable", "used in trucks"]}
+
+{
+"concept": "transportation company",
+"properties": ["provides transportation services", "operates vehicles or ships", "employs drivers or crew", "charges for services", "offers routes or schedules", "may have multiple locations", "has vehicles or fleet", "provides customer support", "may offer additional services", "is regulated by government"]
+}
+
+{"concept": "offshore supply ship", "properties": ["large vessel", "ocean-going", "supplies oil rigs", "carries crew", "provides food", "offers accommodation", "equipped with crane", "has storage capacity", "operates in harsh weather", "plays vital role in offshore operations"]}
+
+{"concept": "passenger railway car", "properties": ["carriage", "railway", "passenger", "transport", "commute", "seat", "door", "window", "air-conditioned", "luxurious"]}

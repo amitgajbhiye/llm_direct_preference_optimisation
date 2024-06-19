@@ -1,0 +1,4301 @@
+concept	facet	property
+railroad company	industry	transportation
+railroad company	industry	logistics
+railroad company	type	freight
+railroad company	type	passenger
+railroad company	type	tourist
+railroad company	operations	tracks
+railroad company	operations	trains
+railroad company	operations	stations
+railroad company	operations	schedules
+railroad company	ownership	private
+railroad company	ownership	public
+railroad company	ownership	government
+railroad company	scope	local
+railroad company	scope	regional
+railroad company	scope	national
+railroad company	scope	international
+railroad company	goals	efficiency
+railroad company	goals	safety
+railroad company	goals	revenue
+railroad company	goals	expansion
+railroad company	employees	train engineers
+railroad company	employees	conductors
+railroad company	employees	mechanics
+railroad company	employees	customer service
+railway vehicle	type	locomotive
+railway vehicle	type	train
+railway vehicle	type	tram
+railway vehicle	type	tramcar
+railway vehicle	purpose	transporting people
+railway vehicle	purpose	transporting goods
+railway vehicle	purpose	construction
+railway vehicle	purpose	maintenance
+railway vehicle	propulsion	diesel
+railway vehicle	propulsion	electric
+railway vehicle	propulsion	steam
+railway vehicle	propulsion	hybrid
+railway vehicle	speed	high speed
+railway vehicle	speed	medium speed
+railway vehicle	speed	low speed
+railway vehicle	design	streamlined
+railway vehicle	design	boxy
+railway vehicle	design	open top
+railway vehicle	design	covered
+railway vehicle	location	station
+railway vehicle	location	track
+railway vehicle	location	yard
+railway vehicle	location	depot
+railway vehicle	features	air conditioning
+railway vehicle	features	canteen
+railway vehicle	features	lavatory
+railway vehicle	features	safety features
+body motion	type	walking
+body motion	type	running
+body motion	type	swimming
+body motion	type	jumping
+body motion	purpose	exercise
+body motion	purpose	transportation
+body motion	purpose	play
+body motion	purpose	self-defense
+body motion	body part	legs
+body motion	body part	arms
+body motion	body part	core
+body motion	body part	whole body
+body motion	speed	fast
+body motion	speed	slow
+body motion	speed	medium
+body motion	location	outdoors
+body motion	location	gym
+body motion	location	pool
+body motion	location	track
+body motion	style	casual
+body motion	style	formal
+body motion	style	professional
+body motion	style	athletic
+pier	structure	man-made
+pier	structure	built over water
+pier	purpose	recreational
+pier	purpose	commercial
+pier	purpose	fishing
+pier	location	coastal
+pier	location	lake
+pier	location	river
+pier	design	sturdy
+pier	design	cantilevered
+pier	features	docks
+pier	features	restaurants
+pier	features	shops
+pier	function	mooring
+pier	function	loading
+pier	function	unloading
+pier	type	beach
+pier	type	marina
+pier	type	fishing
+chemical tanker ship	type	tanker
+chemical tanker ship	type	vessel
+chemical tanker ship	type	ship
+chemical tanker ship	function	transport chemicals
+chemical tanker ship	function	carry hazardous materials
+chemical tanker ship	design	specialized hull
+chemical tanker ship	design	separate compartments
+chemical tanker ship	size	large
+chemical tanker ship	size	long
+chemical tanker ship	operation	requires specialized crew
+chemical tanker ship	operation	needs careful handling
+chemical tanker ship	safety features	containment systems
+chemical tanker ship	safety features	emergency response plans
+chemical tanker ship	environmental impact	pollution risk
+chemical tanker ship	environmental impact	hazardous cargo
+dining car	type	train
+dining car	type	transportation
+dining car	function	serving food
+dining car	function	providing drinks
+dining car	amenities	tables
+dining car	amenities	chairs
+dining car	amenities	kitchen
+dining car	amenities	bar
+dining car	features	windows
+dining car	features	views
+dining car	features	air conditioning
+dining car	features	heating
+dining car	location	train
+dining car	location	station
+dining car	location	route
+dining car	location	journey
+dining car	purpose	enjoying meal
+dining car	purpose	socializing
+dining car	purpose	relaxing
+railway junction	type	major
+railway junction	type	minor
+railway junction	type	interchange
+railway junction	location	city
+railway junction	location	town
+railway junction	location	countryside
+railway junction	purpose	switching trains
+railway junction	purpose	connecting routes
+railway junction	purpose	transferring cargo
+railway junction	features	tracks
+railway junction	features	platforms
+railway junction	features	signal systems
+railway junction	importance	strategic
+railway junction	importance	commercial
+railway junction	importance	logistical
+railway junction	maintenance	regular
+railway junction	maintenance	infrequent
+railway junction	maintenance	dependent on usage
+flight deck	location	aircraft
+flight deck	location	airplane
+flight deck	location	aircraft carrier
+flight deck	function	takeoff
+flight deck	function	landing
+flight deck	function	aircraft operation
+flight deck	features	runway
+flight deck	features	tarmac
+flight deck	features	control tower
+flight deck	safety features	warning lights
+flight deck	safety features	caution signs
+flight deck	safety features	emergency response
+flight deck	equipment	aircraft instruments
+flight deck	equipment	navigation systems
+flight deck	equipment	communication devices
+flight deck	crew roles	pilot
+flight deck	crew roles	co-pilot
+flight deck	crew roles	air traffic controller
+flight deck	regulations	aviation laws
+flight deck	regulations	safety protocols
+flight deck	regulations	standard operating procedures
+spine car	category	mode of transportation
+spine car	category	train
+spine car	category	railway vehicle
+spine car	design	long and slender
+spine car	design	covered in steel
+spine car	design	multiple cars connected
+spine car	function	carry passengers
+spine car	function	carry freight
+spine car	function	connect cities
+spine car	speed	up to 300 km/h
+spine car	speed	dependent on track condition
+spine car	used for	daily commute
+spine car	used for	long-distance travel
+spine car	used for	goods transportation
+spine car	located at	railway station
+spine car	located at	railway yard
+spine car	located at	tracks
+tractor trailer	type	large truck
+tractor trailer	type	semi-trailer
+tractor trailer	type	transportation vehicle
+tractor trailer	size	long
+tractor trailer	size	heavy
+tractor trailer	size	large
+tractor trailer	function	transport goods
+tractor trailer	function	hauled by tractor
+tractor trailer	function	long-distance hauling
+tractor trailer	component	tractor unit
+tractor trailer	component	trailer
+tractor trailer	component	cargo
+tractor trailer	component	engine
+tractor trailer	operational context	highway
+tractor trailer	operational context	freight transport
+tractor trailer	operational context	commerce
+tractor trailer	operational context	logistics
+tractor trailer	features	multiple axles
+tractor trailer	features	large wheels
+tractor trailer	features	air brakes
+tractor trailer	features	gps tracking
+crew list	type	employee
+crew list	type	worker
+crew list	type	team member
+crew list	function	pilot
+crew list	function	co-pilot
+crew list	function	engineer
+crew list	function	cabin crew
+crew list	responsibility	operating aircraft
+crew list	responsibility	maintaining equipment
+crew list	responsibility	serving passengers
+crew list	responsibility	ensuring safety
+crew list	location	aircraft
+crew list	location	airport
+crew list	location	hangar
+crew list	location	office
+crew list	role	leader
+crew list	role	team member
+crew list	role	supervisor
+crew list	credentials	licensing
+crew list	credentials	certification
+crew list	credentials	training
+crew list	credentials	experience
+ship hold	part of	ship
+ship hold	part of	boat
+ship hold	function	storage
+ship hold	function	cargo
+ship hold	shape	rectangular
+ship hold	shape	compartmentalized
+ship hold	capacity	large
+ship hold	capacity	voluminous
+ship hold	access	via hatch
+ship hold	access	through cargo door
+ship hold	used for	storing goods
+ship hold	used for	loading cargo
+ship hold	used for	unloading cargo
+ship hold	found in	merchant ship
+ship hold	found in	tanker
+ship hold	found in	container ship
+radar or sonar	technology	electromagnetic
+radar or sonar	technology	acoustic
+radar or sonar	function	detection
+radar or sonar	function	location
+radar or sonar	function	tracking
+radar or sonar	application	aviation
+radar or sonar	application	naval
+radar or sonar	application	weather forecasting
+radar or sonar	application	military
+radar or sonar	principle	reflection
+radar or sonar	principle	echo
+radar or sonar	components	antenna
+radar or sonar	components	transmitter
+radar or sonar	components	receiver
+radar or sonar	components	processor
+radar or sonar	range	short
+radar or sonar	range	long
+radar or sonar	resolution	low
+radar or sonar	resolution	high
+radar or sonar	usage	weather monitoring
+radar or sonar	usage	air traffic control
+radar or sonar	usage	naval surveillance
+air traffic control tower	function	directing air traffic
+air traffic control tower	function	ensuring safe takeoff and landing
+air traffic control tower	height	tall structure
+air traffic control tower	location	airport
+air traffic control tower	location	near runway
+air traffic control tower	equipment	radar
+air traffic control tower	equipment	communication systems
+air traffic control tower	staff	controllers
+air traffic control tower	staff	air traffic controllers
+air traffic control tower	responsibilities	aircraft safety
+air traffic control tower	responsibilities	traffic flow management
+air traffic control tower	structure	steel or concrete
+fishing boat	type	vessel
+fishing boat	type	watercraft
+fishing boat	type	boat
+fishing boat	purpose	fishing
+fishing boat	purpose	recreational
+fishing boat	purpose	commercial
+fishing boat	size	large
+fishing boat	size	small
+fishing boat	size	medium
+fishing boat	material	wood
+fishing boat	material	metal
+fishing boat	material	fiberglass
+fishing boat	features	engine
+fishing boat	features	railing
+fishing boat	features	nets
+fishing boat	features	tackle
+fishing boat	location	ocean
+fishing boat	location	lake
+fishing boat	location	river
+fishing boat	location	port
+fishing boat	crew	few
+fishing boat	crew	many
+fishing boat	crew	single
+contract carrier	type	transportation company
+contract carrier	type	freight forwarder
+contract carrier	role	moves goods
+contract carrier	role	ships products
+contract carrier	mode	air
+contract carrier	mode	land
+contract carrier	mode	sea
+contract carrier	services	logistics
+contract carrier	services	warehousing
+contract carrier	services	distribution
+contract carrier	responsibilities	ensures delivery
+contract carrier	responsibilities	tracks packages
+contract carrier	responsibilities	handles claims
+contract carrier	industry	transportation
+contract carrier	industry	logistics
+contract carrier	industry	supply chain
+airport classification	category	icao
+airport classification	category	iata
+airport classification	category	civil aviation
+airport classification	size	small
+airport classification	size	medium
+airport classification	size	large
+airport classification	size	hub
+airport classification	size	focus city
+airport classification	traffic	low
+airport classification	traffic	medium
+airport classification	traffic	high
+airport classification	traffic	major
+airport classification	traffic	busiest
+airport classification	function	commercial
+airport classification	function	military
+airport classification	function	private
+airport classification	function	general aviation
+airport classification	facilities	runway
+airport classification	facilities	terminal
+airport classification	facilities	hangar
+airport classification	facilities	control tower
+airport classification	management	public
+airport classification	management	private
+airport classification	management	government
+airport classification	management	authority
+crane ship	function	lifting heavy loads
+crane ship	function	offshore construction
+crane ship	function	oil rig maintenance
+crane ship	structure	large vessel
+crane ship	structure	heavy lifting equipment
+crane ship	structure	multiple cranes
+crane ship	use	oil and gas industry
+crane ship	use	construction industry
+crane ship	use	maritime industry
+crane ship	size	large
+crane ship	size	heavy
+crane ship	size	complex
+crane ship	location	offshore
+crane ship	location	port
+crane ship	location	coastal area
+crane ship	purpose	lifting and transporting
+crane ship	purpose	construction and maintenance
+crane ship	purpose	supporting industries
+arriving	action	come
+arriving	action	reach
+arriving	action	get to
+arriving	place	destination
+arriving	place	location
+arriving	place	spot
+arriving	time	soon
+arriving	time	later
+arriving	time	now
+arriving	transportation	by car
+arriving	transportation	by plane
+arriving	transportation	by train
+arriving	purpose	visit
+arriving	purpose	attend
+arriving	purpose	deliver
+arriving	status	expected
+arriving	status	delayed
+arriving	status	early
+multiple track railway	type	railway infrastructure
+multiple track railway	type	transportation system
+multiple track railway	number of tracks	two or more
+multiple track railway	function	separate multiple trains
+multiple track railway	function	increase capacity
+multiple track railway	function	improve safety
+multiple track railway	used for	passenger transport
+multiple track railway	used for	freight transport
+multiple track railway	used for	commuting
+multiple track railway	characteristics	flexible
+multiple track railway	characteristics	adaptable
+multiple track railway	advantages	increased capacity
+multiple track railway	advantages	reduced congestion
+multiple track railway	advantages	improved safety
+multiple track railway	disadvantages	higher cost
+multiple track railway	disadvantages	complex engineering
+water transportation system	mode	ship
+water transportation system	mode	boat
+water transportation system	mode	barge
+water transportation system	mode	canal
+water transportation system	mode	lock
+water transportation system	purpose	moving goods
+water transportation system	purpose	passenger transport
+water transportation system	purpose	recreational use
+water transportation system	environmental impact	pollution
+water transportation system	environmental impact	habitat destruction
+water transportation system	infrastructure	harbor
+water transportation system	infrastructure	port
+water transportation system	infrastructure	dock
+water transportation system	infrastructure	canal network
+water transportation system	efficiency	energy consumption
+water transportation system	efficiency	speed
+water transportation system	efficiency	capacity
+water transportation system	types of vessels	freighter
+water transportation system	types of vessels	passenger liner
+water transportation system	types of vessels	ferry
+water transportation system	types of vessels	yacht
+water transportation system	types of vessels	sailboat
+common carrier	definition	transportation service
+common carrier	definition	public utility
+common carrier	definition	provider of public transportation
+common carrier	mode of transportation	air
+common carrier	mode of transportation	land
+common carrier	mode of transportation	sea
+common carrier	mode of transportation	rail
+common carrier	responsibilities	safety
+common carrier	responsibilities	security
+common carrier	responsibilities	fairness
+common carrier	responsibilities	liability
+common carrier	regulations	government oversight
+common carrier	regulations	licensing
+common carrier	regulations	safety standards
+common carrier	examples	airlines
+common carrier	examples	shipping companies
+common carrier	examples	bus companies
+common carrier	examples	railroads
+common carrier	services	transportation
+common carrier	services	storage
+common carrier	services	logistics
+common carrier	services	warehousing
+containerization	definition	packing code into container
+containerization	definition	isolating process
+containerization	definition	portability
+containerization	types	docker
+containerization	types	rkt
+containerization	types	lxc
+containerization	advantages	portability
+containerization	advantages	efficiency
+containerization	advantages	security
+containerization	disadvantages	complexity
+containerization	disadvantages	overhead
+containerization	used for	cloud computing
+containerization	used for	devops
+containerization	used for	microservices
+containerization	industry	it
+containerization	industry	software development
+containerization	industry	cloud computing
+flatcar	transportation	railway
+flatcar	transportation	freight
+flatcar	transportation	cargo
+flatcar	design	open
+flatcar	design	flat
+flatcar	design	no sides
+flatcar	usage	carrying goods
+flatcar	usage	moving heavy loads
+flatcar	size	varies
+flatcar	size	long
+flatcar	size	wide
+flatcar	function	freight transport
+flatcar	function	construction
+flatcar	function	event
+flatcar	typical load	containers
+flatcar	typical load	cars
+flatcar	typical load	heavy machinery
+flatcar	railway usage	main line
+flatcar	railway usage	branch line
+flatcar	railway usage	industrial rail
+electric device	function	powers
+electric device	function	charges
+electric device	function	communicates
+electric device	shape	compact
+electric device	shape	portable
+electric device	shape	boxy
+electric device	size	small
+electric device	size	medium
+electric device	size	large
+electric device	material	plastic
+electric device	material	metal
+electric device	material	glass
+electric device	power source	battery
+electric device	power source	electricity
+electric device	power source	rechargeable
+electric device	usage	daily
+electric device	usage	occasional
+electric device	usage	specialized
+electric device	features	screen
+electric device	features	button
+electric device	features	wireless
+container terminal	function	handle cargo
+container terminal	function	receive and dispatch containers
+container terminal	location	port
+container terminal	location	harbor
+container terminal	location	waterfront
+container terminal	equipment	cranes
+container terminal	equipment	tractors
+container terminal	equipment	forklifts
+container terminal	operations	loading
+container terminal	operations	unloading
+container terminal	operations	storing
+container terminal	operations	moving
+container terminal	size	large
+container terminal	size	complex
+container terminal	importance	strategic
+container terminal	importance	economic
+container terminal	type	containerized
+container terminal	type	bulk
+container terminal	type	liquid
+petroleum product	type	gasoline
+petroleum product	type	diesel
+petroleum product	type	jet fuel
+petroleum product	type	plastic
+petroleum product	uses	fuels cars
+petroleum product	uses	powers airplanes
+petroleum product	uses	makes plastic
+petroleum product	uses	heats homes
+petroleum product	properties	flammable
+petroleum product	properties	toxic
+petroleum product	properties	corrosive
+petroleum product	origin	extracted from oil
+petroleum product	origin	formed from crude oil
+petroleum product	forms	liquid
+petroleum product	forms	gas
+petroleum product	forms	solid
+petroleum product	industry	oil refining
+petroleum product	industry	petrochemical
+petroleum product	industry	aviation
+petroleum product	environmental impact	contributes to climate change
+petroleum product	environmental impact	pollutes air and water
+ore carrier ship	type	vessel
+ore carrier ship	type	freighter
+ore carrier ship	function	transporting ore
+ore carrier ship	function	carrying cargo
+ore carrier ship	size	large
+ore carrier ship	size	massive
+ore carrier ship	structure	steel hull
+ore carrier ship	structure	heavy machinery
+ore carrier ship	operating conditions	open waters
+ore carrier ship	operating conditions	harsh weather
+ore carrier ship	speed	slow
+ore carrier ship	speed	relatively fast
+ore carrier ship	used for	mining industry
+ore carrier ship	used for	economic trade
+ore carrier ship	characteristics	heavy
+ore carrier ship	characteristics	powerful
+ore carrier ship	characteristics	long
+set	definition	collection of unique items
+set	definition	group of objects
+set	properties	finite
+set	properties	infinite
+set	operations	union
+set	operations	intersection
+set	operations	difference
+set	types	finite set
+set	types	infinite set
+set	types	empty set
+set	types	universal set
+set	uses	mathematics
+set	uses	computer science
+set	uses	data analysis
+set	characteristics	unordered
+set	characteristics	ordered
+set	relations	subset
+set	relations	superset
+set	relations	equal
+ship berthing	function	docking
+ship berthing	function	mooring
+ship berthing	function	anchoring
+ship berthing	location	port
+ship berthing	location	harbor
+ship berthing	location	dock
+ship berthing	type	fixed
+ship berthing	type	floating
+ship berthing	type	buoy
+ship berthing	structure	pier
+ship berthing	structure	quay
+ship berthing	structure	wharf
+ship berthing	security	mooring lines
+ship berthing	security	fenders
+ship berthing	security	tugboats
+ship berthing	operation	manual
+ship berthing	operation	mechanized
+ship berthing	operation	computerized
+transportation authority	type	government
+transportation authority	type	regulatory body
+transportation authority	responsibility	regulating traffic
+transportation authority	responsibility	maintaining roads
+transportation authority	responsibility	issuing licenses
+transportation authority	scope	local
+transportation authority	scope	national
+transportation authority	scope	international
+transportation authority	function	planning
+transportation authority	function	building
+transportation authority	function	operating
+transportation authority	jurisdiction	city
+transportation authority	jurisdiction	state
+transportation authority	jurisdiction	country
+transportation authority	authority level	high
+transportation authority	authority level	medium
+transportation authority	authority level	low
+transportation authority	regulations	traffic rules
+transportation authority	regulations	licensing regulations
+transportation authority	regulations	safety standards
+cargo handling	process	loading
+cargo handling	process	unloading
+cargo handling	process	transporting
+cargo handling	process	storing
+cargo handling	mode	air
+cargo handling	mode	sea
+cargo handling	mode	land
+cargo handling	mode	rail
+cargo handling	equipment	cranes
+cargo handling	equipment	forklifts
+cargo handling	equipment	containers
+cargo handling	equipment	trailers
+cargo handling	industry	logistics
+cargo handling	industry	shipping
+cargo handling	industry	warehousing
+cargo handling	industry	manufacturing
+cargo handling	location	port
+cargo handling	location	airport
+cargo handling	location	warehouse
+cargo handling	location	factory
+cargo handling	responsibility	shipper
+cargo handling	responsibility	carrier
+cargo handling	responsibility	receiver
+cargo handling	responsibility	logistics provider
+general cargo ship	type	vessel
+general cargo ship	type	transportation
+general cargo ship	size	large
+general cargo ship	size	medium
+general cargo ship	size	small
+general cargo ship	purpose	carrying goods
+general cargo ship	purpose	shipping
+general cargo ship	purpose	trade
+general cargo ship	features	hatches
+general cargo ship	features	cranes
+general cargo ship	features	holds
+general cargo ship	used for	moving goods
+general cargo ship	used for	supply chain
+general cargo ship	used for	international trade
+general cargo ship	operations	loading
+general cargo ship	operations	unloading
+general cargo ship	operations	navigation
+general cargo ship	location	ports
+general cargo ship	location	oceans
+general cargo ship	location	seas
+volume measure	unit	cubic meter
+volume measure	unit	litre
+volume measure	unit	gallon
+volume measure	unit	ounce
+volume measure	used for	measuring liquids
+volume measure	used for	measuring solids
+volume measure	used for	calculating capacity
+volume measure	dimension	length cubed
+volume measure	conversion	can be converted to weight
+volume measure	conversion	dependent on density
+volume measure	common examples	bathtub
+volume measure	common examples	swimming pool
+volume measure	common examples	water bottle
+glider airplane	type	aircraft
+glider airplane	type	recreational
+glider airplane	type	non-powered
+glider airplane	design	wing-shaped
+glider airplane	design	lightweight
+glider airplane	design	streamlined
+glider airplane	operation	no engine
+glider airplane	operation	pilot-powered
+glider airplane	operation	dependent on wind
+glider airplane	use	recreational flying
+glider airplane	use	training
+glider airplane	use	research
+glider airplane	features	ailerons
+glider airplane	features	elevators
+glider airplane	features	rudder
+glider airplane	characteristics	silent
+glider airplane	characteristics	slow
+glider airplane	characteristics	stable
+glider airplane	purpose	entertainment
+glider airplane	purpose	education
+glider airplane	purpose	scientific study
+intentional process	type	thought
+intentional process	type	action
+intentional process	type	goal
+intentional process	purpose	to achieve something
+intentional process	purpose	to accomplish a task
+intentional process	purpose	to solve a problem
+intentional process	characteristics	deliberate
+intentional process	characteristics	conscious
+intentional process	characteristics	purposive
+intentional process	elements	goal
+intentional process	elements	means
+intentional process	elements	motivation
+intentional process	features	planning
+intentional process	features	execution
+intentional process	features	evaluation
+intentional process	scope	personal
+intentional process	scope	social
+intentional process	scope	professional
+train assembly	component	locomotive
+train assembly	component	carriage
+train assembly	component	wagon
+train assembly	component	engine
+train assembly	function	transportation
+train assembly	function	freight
+train assembly	function	passenger
+train assembly	size	large
+train assembly	size	long
+train assembly	speed	fast
+train assembly	speed	high
+train assembly	material	steel
+train assembly	material	metal
+train assembly	material	iron
+train assembly	used for	moving goods
+train assembly	used for	carrying people
+train assembly	used for	tourist ride
+train assembly	operated by	driver
+train assembly	operated by	conductor
+train assembly	operated by	engineer
+train assembly	operated by	mechanic
+partial container ship	type	vessel
+partial container ship	type	cargo ship
+partial container ship	function	transporting
+partial container ship	function	storing
+partial container ship	function	transshipping
+partial container ship	size	medium
+partial container ship	size	small
+partial container ship	size	specialized
+partial container ship	features	refrigerated
+partial container ship	features	temperature controlled
+partial container ship	features	secure
+partial container ship	usage	shipping
+partial container ship	usage	logistics
+partial container ship	usage	supply chain
+partial container ship	advantages	cost-effective
+partial container ship	advantages	environmentally friendly
+partial container ship	advantages	flexible
+partial container ship	disadvantages	limited capacity
+partial container ship	disadvantages	weather dependent
+partial container ship	disadvantages	vulnerable to piracy
+regulatory process	purpose	enforcing rules
+regulatory process	purpose	maintaining order
+regulatory process	purpose	ensuring safety
+regulatory process	steps	planning
+regulatory process	steps	implementation
+regulatory process	steps	monitoring
+regulatory process	steps	evaluation
+regulatory process	actors	government
+regulatory process	actors	bureaucracy
+regulatory process	actors	enforcement agencies
+regulatory process	scope	national
+regulatory process	scope	local
+regulatory process	scope	international
+regulatory process	types	legislative
+regulatory process	types	executive
+regulatory process	types	judicial
+regulatory process	mechanisms	laws
+regulatory process	mechanisms	regulations
+regulatory process	mechanisms	standards
+regulatory process	mechanisms	compliance
+regulatory process	goals	public health
+regulatory process	goals	environmental protection
+regulatory process	goals	consumer protection
+emergency vehicle	type	ambulance
+emergency vehicle	type	fire truck
+emergency vehicle	type	police car
+emergency vehicle	type	rescue vehicle
+emergency vehicle	function	medical transport
+emergency vehicle	function	firefighting
+emergency vehicle	function	law enforcement
+emergency vehicle	function	rescue operations
+emergency vehicle	features	siren
+emergency vehicle	features	lights
+emergency vehicle	features	communication equipment
+emergency vehicle	features	medical equipment
+emergency vehicle	size	large
+emergency vehicle	size	small
+emergency vehicle	size	medium
+emergency vehicle	location	hospital
+emergency vehicle	location	fire station
+emergency vehicle	location	police station
+emergency vehicle	location	disaster area
+emergency vehicle	crew	paramedics
+emergency vehicle	crew	firefighters
+emergency vehicle	crew	police officers
+emergency vehicle	crew	rescue team
+traffic signal	function	regulate traffic flow
+traffic signal	function	direct traffic
+traffic signal	function	control traffic
+traffic signal	colors	red
+traffic signal	colors	yellow
+traffic signal	colors	green
+traffic signal	physical appearance	tower-like structure
+traffic signal	physical appearance	light-emitting device
+traffic signal	physical appearance	mounted on a pole
+traffic signal	purpose	safety
+traffic signal	purpose	order
+traffic signal	purpose	traffic management
+traffic signal	location	roads
+traffic signal	location	intersections
+traffic signal	location	highways
+traffic signal	operation	electronic
+traffic signal	operation	mechanical
+traffic signal	operation	manual
+ship deck	function	platform
+ship deck	function	walking surface
+ship deck	function	observation area
+ship deck	material	wood
+ship deck	material	metal
+ship deck	material	steel
+ship deck	location	top
+ship deck	location	middle
+ship deck	location	bottom
+ship deck	size	large
+ship deck	size	small
+ship deck	size	narrow
+ship deck	purpose	sailing
+ship deck	purpose	anchoring
+ship deck	purpose	loading
+ship deck	structure	flat
+ship deck	structure	angled
+ship deck	structure	curved
+ship deck	features	rails
+ship deck	features	ladders
+ship deck	features	hatches
+propeller airplane	type	aircraft
+propeller airplane	type	single-engine
+propeller airplane	type	small plane
+propeller airplane	propulsion	propeller
+propeller airplane	propulsion	piston engine
+propeller airplane	speed	medium
+propeller airplane	speed	less than 200 mph
+propeller airplane	range	long
+propeller airplane	range	thousands of miles
+propeller airplane	usage	recreational
+propeller airplane	usage	agricultural
+propeller airplane	usage	military
+propeller airplane	usage	general aviation
+propeller airplane	features	open cockpit
+propeller airplane	features	fixed landing gear
+propeller airplane	features	small wingspan
+propeller airplane	history	early aviation
+propeller airplane	history	wwii
+propeller airplane	history	post-war development
+propeller airplane	design	simple
+propeller airplane	design	efficient
+propeller airplane	design	low-cost
+watercraft	type	boat
+watercraft	type	ship
+watercraft	type	yacht
+watercraft	type	canoe
+watercraft	type	raft
+watercraft	size	small
+watercraft	size	large
+watercraft	material	wood
+watercraft	material	metal
+watercraft	material	plastic
+watercraft	material	fiberglass
+watercraft	propulsion	sail
+watercraft	propulsion	motor
+watercraft	propulsion	oar
+watercraft	propulsion	paddle
+watercraft	used for	recreation
+watercraft	used for	fishing
+watercraft	used for	transportation
+watercraft	used for	sailing
+watercraft	features	cabins
+watercraft	features	engines
+watercraft	features	anchors
+watercraft	features	life jackets
+land area	dimension	square
+land area	dimension	cubic
+land area	measurement unit	hectare
+land area	measurement unit	square mile
+land area	measurement unit	square kilometer
+land area	location	earth
+land area	location	planet
+land area	location	continent
+land area	location	country
+land area	location	city
+land area	natural feature	mountain range
+land area	natural feature	valley
+land area	natural feature	plateau
+land area	natural feature	desert
+land area	human impact	urbanization
+land area	human impact	deforestation
+land area	human impact	agriculture
+land area	use	residential
+land area	use	commercial
+land area	use	industrial
+land area	use	recreational
+emergency road vehicle	type	ambulance
+emergency road vehicle	type	fire truck
+emergency road vehicle	type	police car
+emergency road vehicle	function	medical transport
+emergency road vehicle	function	firefighting
+emergency road vehicle	function	law enforcement
+emergency road vehicle	speed	high speed
+emergency road vehicle	speed	fast response
+emergency road vehicle	equipment	medical supplies
+emergency road vehicle	equipment	fire hoses
+emergency road vehicle	equipment	lights and sirens
+emergency road vehicle	driver	trained professionals
+emergency road vehicle	driver	emergency responders
+emergency road vehicle	used for	medical emergencies
+emergency road vehicle	used for	firefighting
+emergency road vehicle	used for	law enforcement
+taking off	mode of transportation	airplane
+taking off	mode of transportation	rocket
+taking off	mode of transportation	spaceship
+taking off	location	airport
+taking off	location	runway
+taking off	location	spaceport
+taking off	process	ascending
+taking off	process	lifting off
+taking off	process	gaining altitude
+taking off	speed	fast
+taking off	speed	rapid
+taking off	speed	high
+taking off	related actions	landing
+taking off	related actions	descending
+taking off	related actions	touching down
+taking off	associated emotions	excitement
+taking off	associated emotions	anticipation
+taking off	associated emotions	relief
+navigation	method	gps
+navigation	method	map
+navigation	method	compass
+navigation	method	directions
+navigation	purpose	finding way
+navigation	purpose	getting lost
+navigation	purpose	traveling
+navigation	purpose	exploring
+navigation	device	phone
+navigation	device	watch
+navigation	device	car
+navigation	device	ship
+navigation	feature	turn-by-turn directions
+navigation	feature	route planning
+navigation	feature	waypoint
+navigation	feature	orientation
+navigation	skill	direction sense
+navigation	skill	map reading
+navigation	skill	route memory
+navigation	environment	land
+navigation	environment	sea
+navigation	environment	air
+navigation	environment	space
+minivan	type	vehicle
+minivan	type	family car
+minivan	size	large
+minivan	size	roomy
+minivan	features	sliding doors
+minivan	features	captain's chairs
+minivan	features	storage compartments
+minivan	seating capacity	up to 7 people
+minivan	seating capacity	up to 8 people
+minivan	used for	family transportation
+minivan	used for	road trips
+minivan	used for	daily errands
+minivan	target audience	families
+minivan	target audience	soccer teams
+minivan	target audience	elderly people
+ship cabin	type	accommodation
+ship cabin	type	room
+ship cabin	type	quarters
+ship cabin	features	bed
+ship cabin	features	desk
+ship cabin	features	wardrobe
+ship cabin	features	bathroom
+ship cabin	features	shower
+ship cabin	features	toilet
+ship cabin	size	small
+ship cabin	size	medium
+ship cabin	size	large
+ship cabin	layout	single room
+ship cabin	layout	multi-room
+ship cabin	amenities	air conditioning
+ship cabin	amenities	tv
+ship cabin	amenities	mini-bar
+ship cabin	amenities	coffee maker
+ship cabin	location	deck
+ship cabin	location	hull
+ship cabin	location	midship
+ship cabin	location	bow
+ship cabin	purpose	residence
+ship cabin	purpose	office
+ship cabin	purpose	storage
+ship cabin	purpose	entertainment
+offshore support ship	function	providing supplies
+offshore support ship	function	offshore oil and gas operations
+offshore support ship	function	support services
+offshore support ship	size	large
+offshore support ship	size	mid-sized
+offshore support ship	design	sturdy
+offshore support ship	design	sea-going
+offshore support ship	cargocarrying capacity	heavy
+offshore support ship	cargocarrying capacity	medium
+offshore support ship	cargocarrying capacity	light
+offshore support ship	propulsion	diesel
+offshore support ship	propulsion	gas turbine
+offshore support ship	used for	supporting offshore oil rigs
+offshore support ship	used for	providing supplies
+offshore support ship	used for	accommodating personnel
+offshore support ship	located at	offshore oil and gas fields
+offshore support ship	located at	port
+offshore support ship	located at	sea
+vehicle wheel	function	supports vehicle
+vehicle wheel	function	provides traction
+vehicle wheel	function	distributes weight
+vehicle wheel	component	rim
+vehicle wheel	component	tire
+vehicle wheel	component	hubcap
+vehicle wheel	component	spoke
+vehicle wheel	material	metal
+vehicle wheel	material	rubber
+vehicle wheel	material	plastic
+vehicle wheel	shape	round
+vehicle wheel	shape	circular
+vehicle wheel	size	varies by vehicle
+vehicle wheel	used for	driving
+vehicle wheel	used for	steering
+vehicle wheel	used for	braking
+vehicle wheel	located at	vehicle
+vehicle wheel	located at	road
+vehicle wheel	located at	garage
+vehicle wheel	located at	repair shop
+traffic control process	goal	safely direct traffic
+traffic control process	goal	minimize congestion
+traffic control process	actors	traffic police
+traffic control process	actors	traffic lights
+traffic control process	actors	road signs
+traffic control process	actors	drivers
+traffic control process	mechanisms	stop signs
+traffic control process	mechanisms	traffic lights
+traffic control process	mechanisms	yield signs
+traffic control process	mechanisms	roundabouts
+traffic control process	rules	right-of-way
+traffic control process	rules	speed limits
+traffic control process	rules	no-left-turn
+traffic control process	environment	urban areas
+traffic control process	environment	highways
+traffic control process	environment	rural areas
+traffic control process	environment	construction zones
+traffic control process	evaluation criteria	safety
+traffic control process	evaluation criteria	efficiency
+traffic control process	evaluation criteria	convenience
+traffic control process	control types	manual
+traffic control process	control types	automatic
+traffic control process	control types	hybrid
+major air carrier	type	commercial
+major air carrier	type	international
+major air carrier	services	flights
+major air carrier	services	booking
+major air carrier	services	check-in
+major air carrier	fleet	airplanes
+major air carrier	fleet	planes
+major air carrier	fleet	jets
+major air carrier	routes	domestic
+major air carrier	routes	international
+major air carrier	routes	global
+major air carrier	facilities	airport
+major air carrier	facilities	terminal
+major air carrier	facilities	hangar
+major air carrier	employees	pilots
+major air carrier	employees	flight attendants
+major air carrier	employees	ground staff
+air route	type	commercial
+air route	type	private
+air route	type	military
+air route	distance	long-haul
+air route	distance	short-haul
+air route	frequency	daily
+air route	frequency	weekly
+air route	frequency	monthly
+air route	aircraft type	jet
+air route	aircraft type	propeller
+air route	aircraft type	helicopter
+air route	route map	charted
+air route	route map	uncharted
+air route	purpose	passenger transport
+air route	purpose	cargo transport
+air route	purpose	military operation
+air route	duration	short
+air route	duration	long
+air route	schedule	fixed
+air route	schedule	variable
+deepwater port	function	shipping
+deepwater port	function	export
+deepwater port	function	import
+deepwater port	function	trade
+deepwater port	location	coastal area
+deepwater port	location	near ocean
+deepwater port	location	marine
+deepwater port	infrastructure	large dock
+deepwater port	infrastructure	deep water
+deepwater port	infrastructure	loading facility
+deepwater port	size	large
+deepwater port	size	small
+deepwater port	size	medium
+deepwater port	type	commercial
+deepwater port	type	military
+deepwater port	type	industrial
+deepwater port	features	locks
+deepwater port	features	canals
+deepwater port	features	warehouses
+deepwater port	importance	economic
+deepwater port	importance	strategic
+deepwater port	importance	environmental
+deepwater port	management	government
+deepwater port	management	private company
+deepwater port	management	public-private partnership
+railcar carrier ship	function	transporting railcars
+railcar carrier ship	function	shipping goods
+railcar carrier ship	size	large
+railcar carrier ship	size	long
+railcar carrier ship	design	specialized
+railcar carrier ship	design	custom-made
+railcar carrier ship	capacity	hundreds of railcars
+railcar carrier ship	operation	oceanic
+railcar carrier ship	operation	coastal
+railcar carrier ship	used for	reducing congestion
+railcar carrier ship	used for	increasing efficiency
+railcar carrier ship	components	railway tracks
+railcar carrier ship	components	cranes
+railcar carrier ship	components	winches
+freight car	purpose	transport goods
+freight car	purpose	move cargo
+freight car	purpose	haul freight
+freight car	type	boxcar
+freight car	type	tank car
+freight car	type	flatcar
+freight car	type	gondola
+freight car	size	varies by type
+freight car	material	steel
+freight car	material	aluminum
+freight car	features	doors
+freight car	features	vents
+freight car	features	couplers
+freight car	features	brakes
+freight car	used in	railway transportation
+freight car	used in	industry
+freight car	used in	commerce
+freight car	characteristics	strong
+freight car	characteristics	durable
+freight car	characteristics	heavy
+freight car	characteristics	long
+cubic foot	unit of measurement	volume
+cubic foot	unit of measurement	capacity
+cubic foot	definition	3-dimensional space
+cubic foot	definition	12 inches by 12 inches by 12 inches
+cubic foot	common usage	measuring space
+cubic foot	common usage	measuring volume of objects
+cubic foot	conversion	equal to 1728 cubic inches
+cubic foot	conversion	equal to 28.316 liters
+cubic foot	application	construction
+cubic foot	application	furniture
+cubic foot	application	shipping
+cubic foot	notation	ft³
+cubic foot	notation	cu ft
+rolling stock	type	locomotive
+rolling stock	type	carriage
+rolling stock	type	wagon
+rolling stock	function	transporting goods
+rolling stock	function	transporting passengers
+rolling stock	size	large
+rolling stock	size	small
+rolling stock	material	steel
+rolling stock	material	aluminum
+rolling stock	speed	fast
+rolling stock	speed	slow
+rolling stock	used in	railway
+rolling stock	used in	industry
+rolling stock	used in	tourism
+rolling stock	location	train yard
+rolling stock	location	station
+rolling stock	location	track
+ship berth	purpose	docking
+ship berth	purpose	mooring
+ship berth	purpose	storing
+ship berth	location	harbor
+ship berth	location	port
+ship berth	location	quay
+ship berth	features	fixed
+ship berth	features	floating
+ship berth	features	anchored
+ship berth	used for	shipping
+ship berth	used for	cruise
+ship berth	used for	recreation
+ship berth	design	fixed structure
+ship berth	design	movable
+ship berth	design	floating
+ship berth	maintenance	regularly cleaned
+ship berth	maintenance	inspected
+ship berth	maintenance	maintained
+land vehicle	type	car
+land vehicle	type	truck
+land vehicle	type	motorcycle
+land vehicle	type	bus
+land vehicle	type	train
+land vehicle	number of wheels	four
+land vehicle	number of wheels	two
+land vehicle	number of wheels	six
+land vehicle	propulsion	engine
+land vehicle	propulsion	electric
+land vehicle	propulsion	human power
+land vehicle	used for	transportation
+land vehicle	used for	recreation
+land vehicle	used for	military
+land vehicle	speed	high
+land vehicle	speed	low
+land vehicle	speed	variable
+land vehicle	features	air conditioning
+land vehicle	features	sunroof
+land vehicle	features	gps
+land vehicle	features	suspension
+land vehicle	environment	road
+land vehicle	environment	track
+land vehicle	environment	off-road
+land vehicle	environment	water
+land vehicle	construction	metal
+land vehicle	construction	plastic
+land vehicle	construction	wood
+land vehicle	construction	fiberglass
+navigation buoy	purpose	aid navigation
+navigation buoy	purpose	mark hazards
+navigation buoy	purpose	assist anchoring
+navigation buoy	material	metal
+navigation buoy	material	plastic
+navigation buoy	material	buoyant material
+navigation buoy	shape	cylindrical
+navigation buoy	shape	spherical
+navigation buoy	size	varies
+navigation buoy	size	typically large
+navigation buoy	color	red
+navigation buoy	color	white
+navigation buoy	color	yellow
+navigation buoy	function	provide visual warning
+navigation buoy	function	indicate safe passage
+navigation buoy	function	mark location
+navigation buoy	location	waterways
+navigation buoy	location	harbors
+navigation buoy	location	open sea
+tank car	type	railway vehicle
+tank car	type	transportation
+tank car	function	carrying liquids
+tank car	function	carrying gases
+tank car	function	carrying solids
+tank car	design	large capacity
+tank car	design	specialized construction
+tank car	usage	transporting oil
+tank car	usage	transporting chemicals
+tank car	usage	transporting food
+tank car	features	separate compartments
+tank car	features	specialized valves
+tank car	safety considerations	leak-proof
+tank car	safety considerations	leak-detection systems
+tank car	maintenance requirements	regular inspection
+tank car	maintenance requirements	specialized cleaning
+railroad bridge	function	connects two areas
+railroad bridge	function	allows train passage
+railroad bridge	function	spans a gap
+railroad bridge	structure	built from steel
+railroad bridge	structure	built from concrete
+railroad bridge	structure	built from wood
+railroad bridge	location	over a river
+railroad bridge	location	over a valley
+railroad bridge	location	over a highway
+railroad bridge	design	arched
+railroad bridge	design	beam
+railroad bridge	design	truss
+railroad bridge	construction	manual labor
+railroad bridge	construction	machine-built
+railroad bridge	construction	engineered
+railroad bridge	maintenance	regular inspections
+railroad bridge	maintenance	repair work
+railroad bridge	maintenance	replacement
+radio navigation beacon	type	ground-based
+radio navigation beacon	type	space-based
+radio navigation beacon	function	transmitting signals
+radio navigation beacon	function	providing navigation data
+radio navigation beacon	signal type	radio waves
+radio navigation beacon	signal type	gps signals
+radio navigation beacon	used for	aircraft navigation
+radio navigation beacon	used for	marine navigation
+radio navigation beacon	used for	land vehicle navigation
+radio navigation beacon	characteristics	highly directional
+radio navigation beacon	characteristics	long-range
+radio navigation beacon	installation location	land
+radio navigation beacon	installation location	sea
+radio navigation beacon	installation location	space
+radio navigation beacon	operating frequency	lf
+radio navigation beacon	operating frequency	mf
+radio navigation beacon	operating frequency	hf
+merchant marine	definition	collection of ships
+merchant marine	definition	used for international trade
+merchant marine	history	ancient times
+merchant marine	history	important for global economy
+merchant marine	functions	transporting goods
+merchant marine	functions	providing jobs
+merchant marine	functions	supporting global commerce
+merchant marine	ships	tankers
+merchant marine	ships	container ships
+merchant marine	ships	cruise ships
+merchant marine	employees	sailors
+merchant marine	employees	officers
+merchant marine	employees	engineers
+merchant marine	regulations	international law
+merchant marine	regulations	safety standards
+merchant marine	regulations	environmental regulations
+cabotage	definition	permission to operate
+cabotage	definition	domestic shipping
+cabotage	definition	freight
+cabotage	purpose	to promote
+cabotage	purpose	domestic economy
+cabotage	purpose	national development
+cabotage	example	shipping goods within a country
+cabotage	example	ferrying passengers
+cabotage	regulation	government permits
+cabotage	regulation	licensing
+cabotage	industry	shipping
+cabotage	industry	freight
+cabotage	industry	logistics
+cabotage	impact	boosting economy
+cabotage	impact	creating jobs
+cabotage	impact	reducing costs
+aid to navigation	type	buoy
+aid to navigation	type	beacon
+aid to navigation	type	lighthouse
+aid to navigation	type	gps
+aid to navigation	function	marking hazards
+aid to navigation	function	indicating safe passage
+aid to navigation	function	providing location information
+aid to navigation	location	water
+aid to navigation	location	air
+aid to navigation	location	land
+aid to navigation	used for	sailing
+aid to navigation	used for	flying
+aid to navigation	used for	navigating
+aid to navigation	characteristics	visible
+aid to navigation	characteristics	radioactive
+aid to navigation	characteristics	electronic
+aid to navigation	purpose	safety
+aid to navigation	purpose	efficiency
+aid to navigation	purpose	convenience
+portable bridge	purpose	temporary
+portable bridge	purpose	emergency
+portable bridge	purpose	connecting
+portable bridge	structure	truss
+portable bridge	structure	beam
+portable bridge	structure	arch
+portable bridge	material	metal
+portable bridge	material	wood
+portable bridge	material	plastic
+portable bridge	size	portable
+portable bridge	size	compact
+portable bridge	usage	construction
+portable bridge	usage	disaster relief
+portable bridge	usage	event
+portable bridge	features	collapsible
+portable bridge	features	foldable
+portable bridge	features	easy to transport
+portable bridge	application	temporary road crossing
+portable bridge	application	event access
+portable bridge	application	disaster response
+canal	type	waterway
+canal	type	shipping route
+canal	type	recreational area
+canal	purpose	transportation
+canal	purpose	irrigation
+canal	purpose	drainage
+canal	location	city
+canal	location	country
+canal	location	continent
+canal	construction	man-made
+canal	construction	natural
+canal	size	large
+canal	size	small
+canal	used for	shipping
+canal	used for	recreation
+canal	used for	flood control
+canal	features	locks
+canal	features	bridges
+canal	features	tunnels
+canal	history	ancient
+canal	history	modern
+cable ship	function	laying underwater cables
+cable ship	function	repairing damaged cables
+cable ship	size	large
+cable ship	size	medium
+cable ship	size	small
+cable ship	design	specialized for deep sea
+cable ship	design	equipped with cranes
+cable ship	design	equipped with cable-laying equipment
+cable ship	location	oceans
+cable ship	location	seas
+cable ship	location	coastlines
+cable ship	purpose	enabling communication
+cable ship	purpose	supporting internet
+cable ship	purpose	providing data transfer
+cable ship	type	offshore
+cable ship	type	oceanic
+cable ship	type	coastal
+transit shelter	purpose	provide protection
+transit shelter	purpose	wait for bus
+transit shelter	design	simple structure
+transit shelter	design	roofed
+transit shelter	location	near bus stop
+transit shelter	location	public area
+transit shelter	materials	metal
+transit shelter	materials	glass
+transit shelter	materials	concrete
+transit shelter	features	seating
+transit shelter	features	lighting
+transit shelter	features	information board
+transit shelter	function	wait for public transportation
+transit shelter	function	provide information
+transit shelter	maintenance	regularly cleaned
+transit shelter	maintenance	occasional repairs
+hangar bay	location	on a ship
+hangar bay	location	on an aircraft carrier
+hangar bay	purpose	storing and launching aircraft
+hangar bay	purpose	housing aircraft during flight
+hangar bay	size	large
+hangar bay	size	capacity for multiple aircraft
+hangar bay	access	elevator
+hangar bay	access	catwalk
+hangar bay	access	ramp
+hangar bay	security	locked doors
+hangar bay	security	security personnel
+hangar bay	equipment	cranes
+hangar bay	equipment	tugs
+hangar bay	equipment	fueling systems
+cab car	type	train
+cab car	type	locomotive
+cab car	function	pulling passenger train
+cab car	function	carrying freight
+cab car	function	leading train
+cab car	size	large
+cab car	size	long
+cab car	features	engine
+cab car	features	wheels
+cab car	features	couplers
+cab car	speed	fast
+cab car	speed	slow
+cab car	used in	railway system
+cab car	used in	transportation industry
+cab car	characteristics	heavy
+cab car	characteristics	powerful
+cab car	characteristics	noisy
+fire engine	vehicle type	emergency vehicle
+fire engine	vehicle type	red
+fire engine	vehicle type	large
+fire engine	function	fighting fires
+fire engine	function	rescue
+fire engine	function	emergency response
+fire engine	features	loud siren
+fire engine	features	water tank
+fire engine	features	fire hose
+fire engine	size	large
+fire engine	size	long
+fire engine	size	tall
+fire engine	color	red
+fire engine	color	silver
+fire engine	color	black
+fire engine	used for	fighting fires
+fire engine	used for	rescue operations
+fire engine	used for	emergency medical services
+fire engine	location	fire station
+fire engine	location	street
+fire engine	location	building
+fishing vessel	type	ocean-going
+fishing vessel	type	freshwater
+fishing vessel	type	sailboat
+fishing vessel	type	trawler
+fishing vessel	purpose	fishing
+fishing vessel	purpose	tourism
+fishing vessel	purpose	transportation
+fishing vessel	size	large
+fishing vessel	size	small
+fishing vessel	size	medium
+fishing vessel	structure	metal
+fishing vessel	structure	wooden
+fishing vessel	structure	composite
+fishing vessel	features	railing
+fishing vessel	features	deck
+fishing vessel	features	engine
+fishing vessel	features	nets
+fishing vessel	location	sea
+fishing vessel	location	lake
+fishing vessel	location	river
+fishing vessel	location	port
+fishing vessel	functionality	catching fish
+fishing vessel	functionality	carrying passengers
+fishing vessel	functionality	storing cargo
+rocket engine	function	propulsion
+rocket engine	function	space travel
+rocket engine	component	combustion chamber
+rocket engine	component	nozzle
+rocket engine	component	fuel pump
+rocket engine	fuel type	liquid
+rocket engine	fuel type	solid
+rocket engine	operation	combustion
+rocket engine	operation	electrical
+rocket engine	performance	high thrust
+rocket engine	performance	high efficiency
+rocket engine	application	space exploration
+rocket engine	application	military
+rocket engine	application	scientific research
+rocket engine	design	pulsed
+rocket engine	design	continuous
+rocket engine	location	spacecraft
+rocket engine	location	launchpad
+rocket engine	location	ground station
+refrigerated compartment	function	keeps food cool
+refrigerated compartment	function	preserves food
+refrigerated compartment	location	kitchen
+refrigerated compartment	location	home
+refrigerated compartment	location	store
+refrigerated compartment	temperature range	below freezing
+refrigerated compartment	temperature range	around 4°c
+refrigerated compartment	content	food
+refrigerated compartment	content	drinks
+refrigerated compartment	content	medicine
+refrigerated compartment	usage	storing perishable items
+refrigerated compartment	usage	preserving food for longer
+refrigerated compartment	design	insulation
+refrigerated compartment	design	cooling system
+refrigerated compartment	safety feature	temperature control
+refrigerated compartment	safety feature	humidity control
+attaching	meaning	connecting
+attaching	meaning	joining
+attaching	meaning	fastening
+attaching	method	glue
+attaching	method	nail
+attaching	method	screw
+attaching	method	taping
+attaching	object	paper
+attaching	object	fabric
+attaching	object	metal
+attaching	object	plastic
+attaching	purpose	repair
+attaching	purpose	assemble
+attaching	purpose	hold together
+attaching	purpose	decorate
+attaching	difficulty	easy
+attaching	difficulty	hard
+attaching	difficulty	requires skill
+attaching	location	office
+attaching	location	workshop
+attaching	location	home
+attaching	location	factory
+standard gauge railway	railway type	track gauge
+standard gauge railway	railway type	infrastructure
+standard gauge railway	standard gauge size	1,435 mm
+standard gauge railway	used for	passenger transport
+standard gauge railway	used for	freight transport
+standard gauge railway	used for	commuting
+standard gauge railway	location	worldwide
+standard gauge railway	location	europe
+standard gauge railway	location	north america
+standard gauge railway	characteristics	wide adoption
+standard gauge railway	characteristics	compatible with most trains
+standard gauge railway	history	developed in 19th century
+standard gauge railway	history	adopted globally
+diesel fuel	type	petroleum-based
+diesel fuel	type	combustible liquid
+diesel fuel	usage	fuels vehicles
+diesel fuel	usage	generates electricity
+diesel fuel	usage	heats homes
+diesel fuel	properties	high viscosity
+diesel fuel	properties	low volatility
+diesel fuel	color	dark brown
+diesel fuel	color	black
+diesel fuel	odor	strong
+diesel fuel	odor	sulfurous
+diesel fuel	storage	in tanks
+diesel fuel	storage	under pressure
+diesel fuel	environmental impact	contributes to air pollution
+diesel fuel	environmental impact	contributes to climate change
+diesel fuel	production	from crude oil
+diesel fuel	production	from recycled materials
+research ship	type	oceanographic
+research ship	type	scientific
+research ship	type	exploratory
+research ship	size	large
+research ship	size	medium
+research ship	size	small
+research ship	function	conducting research
+research ship	function	collecting data
+research ship	function	monitoring environment
+research ship	equipment	sonar
+research ship	equipment	submarine
+research ship	equipment	laboratory
+research ship	equipment	sensors
+research ship	crew	scientists
+research ship	crew	engineers
+research ship	crew	researchers
+research ship	location	ocean
+research ship	location	sea
+research ship	location	lake
+research ship	location	research station
+research ship	purpose	studying ocean life
+research ship	purpose	monitoring climate change
+research ship	purpose	exploring deep sea
+hopper dredger	type	vessel
+hopper dredger	type	ship
+hopper dredger	type	equipment
+hopper dredger	function	remove sediment
+hopper dredger	function	maintain water depth
+hopper dredger	function	construct coastal structures
+hopper dredger	components	hopper
+hopper dredger	components	pumps
+hopper dredger	components	propulsion system
+hopper dredger	size	large
+hopper dredger	size	medium
+hopper dredger	size	small
+hopper dredger	used for	maintenance
+hopper dredger	used for	construction
+hopper dredger	used for	reclamation
+hopper dredger	operating environment	water
+hopper dredger	operating environment	coastal
+hopper dredger	operating environment	port
+vehicle registration	purpose	to identify vehicle
+vehicle registration	purpose	to track ownership
+vehicle registration	process	online
+vehicle registration	process	in-person
+vehicle registration	required documents	proof of insurance
+vehicle registration	required documents	proof of ownership
+vehicle registration	required documents	vehicle identification number
+vehicle registration	duration	annual
+vehicle registration	duration	biennial
+vehicle registration	duration	triennial
+vehicle registration	fees	variable
+vehicle registration	fees	dependent on location
+vehicle registration	renewal	online
+vehicle registration	renewal	in-person
+vehicle registration	renewal	mail
+vehicle registration	penalties	late fees
+vehicle registration	penalties	fine for non-compliance
+ship hull	function	structure
+ship hull	function	protection
+ship hull	function	buoyancy
+ship hull	material	steel
+ship hull	material	aluminum
+ship hull	material	fiberglass
+ship hull	shape	curved
+ship hull	shape	flat
+ship hull	design	monohull
+ship hull	design	catamaran
+ship hull	design	trimaran
+ship hull	purpose	transportation
+ship hull	purpose	recreation
+ship hull	purpose	military
+ship hull	location	ocean
+ship hull	location	lake
+ship hull	location	river
+ship hull	features	propeller
+ship hull	features	rudder
+ship hull	features	anchor
+animal powered vehicle	type	horse-drawn
+animal powered vehicle	type	ox-drawn
+animal powered vehicle	type	donkey-drawn
+animal powered vehicle	purpose	transportation
+animal powered vehicle	purpose	agriculture
+animal powered vehicle	purpose	recreation
+animal powered vehicle	features	wheels
+animal powered vehicle	features	axles
+animal powered vehicle	features	harness
+animal powered vehicle	features	saddle
+animal powered vehicle	historical significance	ancient
+animal powered vehicle	historical significance	medieval
+animal powered vehicle	historical significance	19th century
+animal powered vehicle	used for	carrying people
+animal powered vehicle	used for	carrying goods
+animal powered vehicle	used for	plowing fields
+animal powered vehicle	characteristics	slow speed
+animal powered vehicle	characteristics	heavy load capacity
+animal powered vehicle	examples	chariot
+animal powered vehicle	examples	cart
+animal powered vehicle	examples	plow
+etiologic agent	type	bacteria
+etiologic agent	type	virus
+etiologic agent	type	fungus
+etiologic agent	type	parasite
+etiologic agent	origin	environmental
+etiologic agent	origin	animal
+etiologic agent	origin	human
+etiologic agent	disease caused	infection
+etiologic agent	disease caused	illness
+etiologic agent	disease caused	disorder
+etiologic agent	mode of transmission	contact
+etiologic agent	mode of transmission	airborne
+etiologic agent	mode of transmission	vector-borne
+etiologic agent	mode of transmission	waterborne
+etiologic agent	symptoms	fever
+etiologic agent	symptoms	rash
+etiologic agent	symptoms	cough
+etiologic agent	symptoms	diarrhea
+etiologic agent	treatment	antibiotics
+etiologic agent	treatment	vaccination
+etiologic agent	treatment	medication
+etiologic agent	treatment	surgery
+etiologic agent	prevention	hygiene
+etiologic agent	prevention	vaccination
+etiologic agent	prevention	avoidance
+etiologic agent	prevention	screening
+track gauge	definition	distance between rails
+track gauge	units	millimeters
+track gauge	units	millimeters
+track gauge	units	inches
+track gauge	types	standard gauge
+track gauge	types	broad gauge
+track gauge	types	narrow gauge
+track gauge	types	narrower gauge
+track gauge	used for	trains
+track gauge	used for	railway infrastructure
+track gauge	used for	standardization
+track gauge	historical significance	standardized globally
+track gauge	historical significance	changed over time
+track gauge	historical significance	different in different countries
+registry ton	unit of measurement	ton
+registry ton	unit of measurement	weight
+registry ton	unit of measurement	mass
+registry ton	used for	measuring weight of ships
+registry ton	used for	calculating cargo capacity
+registry ton	used for	estimating ship size
+registry ton	origin	registry of shipping
+registry ton	origin	maritime industry
+registry ton	meaning	one ton
+registry ton	meaning	twenty tons
+registry ton	meaning	hundred tons
+registry ton	context	shipping industry
+registry ton	context	port operations
+registry ton	context	maritime trade
+commercial shipping	mode	sea
+commercial shipping	mode	air
+commercial shipping	mode	land
+commercial shipping	industry	logistics
+commercial shipping	industry	transportation
+commercial shipping	industry	trade
+commercial shipping	vessel	container ship
+commercial shipping	vessel	tanker
+commercial shipping	vessel	cruise liner
+commercial shipping	cargo	goods
+commercial shipping	cargo	commodities
+commercial shipping	cargo	containers
+commercial shipping	route	global
+commercial shipping	route	regional
+commercial shipping	route	local
+commercial shipping	cost	economies of scale
+commercial shipping	cost	fuel costs
+commercial shipping	cost	insurance
+commercial shipping	regulations	safety
+commercial shipping	regulations	environmental
+commercial shipping	regulations	customs
+road vehicle	type	car
+road vehicle	type	truck
+road vehicle	type	bus
+road vehicle	type	motorcycle
+road vehicle	type	scooter
+road vehicle	wheels	four
+road vehicle	wheels	two
+road vehicle	wheels	three
+road vehicle	propulsion	engine
+road vehicle	propulsion	electric
+road vehicle	propulsion	hybrid
+road vehicle	size	small
+road vehicle	size	large
+road vehicle	size	compact
+road vehicle	purpose	transportation
+road vehicle	purpose	recreation
+road vehicle	purpose	work
+road vehicle	features	air conditioning
+road vehicle	features	sunroof
+road vehicle	features	heated seats
+road vehicle	features	infotainment system
+road vehicle	used for	driving
+road vehicle	used for	racing
+road vehicle	used for	carrying cargo
+road vehicle	located at	parking lot
+road vehicle	located at	garage
+road vehicle	located at	highway
+road vehicle	located at	city street
+petroleum pipeline	function	transporting oil
+petroleum pipeline	function	transporting natural gas
+petroleum pipeline	material	steel
+petroleum pipeline	material	plastic
+petroleum pipeline	location	underground
+petroleum pipeline	location	undersea
+petroleum pipeline	location	land
+petroleum pipeline	length	hundreds of miles
+petroleum pipeline	diameter	small
+petroleum pipeline	diameter	large
+petroleum pipeline	purpose	energy supply
+petroleum pipeline	purpose	revenue generation
+petroleum pipeline	maintenance	regular inspection
+petroleum pipeline	maintenance	repair
+petroleum pipeline	maintenance	replacement
+petroleum pipeline	risks	leakage
+petroleum pipeline	risks	accidents
+petroleum pipeline	risks	environmental damage
+cargo manifest	purpose	documenting shipment details
+cargo manifest	purpose	tracking cargo
+cargo manifest	content	listing cargo items
+cargo manifest	content	specifying quantities
+cargo manifest	format	digital
+cargo manifest	format	paper
+cargo manifest	information included	cargo description
+cargo manifest	information included	weight
+cargo manifest	information included	volume
+cargo manifest	information included	shipping date
+cargo manifest	used by	shippers
+cargo manifest	used by	logistics companies
+cargo manifest	used by	customs officials
+cargo manifest	location	ship
+cargo manifest	location	warehouse
+cargo manifest	location	office
+cargo manifest	audience	cargo handlers
+cargo manifest	audience	customers
+cargo manifest	audience	regulatory bodies
+government organization	type	local
+government organization	type	national
+government organization	type	international
+government organization	function	legislation
+government organization	function	regulation
+government organization	function	public service
+government organization	structure	bureaucracy
+government organization	structure	hierarchy
+government organization	responsibilities	law enforcement
+government organization	responsibilities	tax collection
+government organization	responsibilities	public infrastructure
+government organization	size	small
+government organization	size	large
+government organization	budget	limited
+government organization	budget	significant
+government organization	goals	public welfare
+government organization	goals	economic growth
+government organization	goals	national security
+personal watercraft	type	watercraft
+personal watercraft	type	boat
+personal watercraft	type	jet ski
+personal watercraft	size	small
+personal watercraft	size	portable
+personal watercraft	purpose	recreational
+personal watercraft	purpose	water sports
+personal watercraft	purpose	transportation
+personal watercraft	propulsion	jet propulsion
+personal watercraft	propulsion	rotary engine
+personal watercraft	speed	high speed
+personal watercraft	speed	fast
+personal watercraft	features	handlebars
+personal watercraft	features	steering
+personal watercraft	features	speed control
+personal watercraft	environment	water
+personal watercraft	environment	lake
+personal watercraft	environment	ocean
+personal watercraft	environment	sea
+bill of lading	purpose	document of title
+bill of lading	purpose	proof of ownership
+bill of lading	purpose	proof of delivery
+bill of lading	content	description of goods
+bill of lading	content	quantity
+bill of lading	content	weight
+bill of lading	content	value
+bill of lading	format	paper
+bill of lading	format	digital
+bill of lading	used for	shipping
+bill of lading	used for	transportation
+bill of lading	used for	logistics
+bill of lading	party involved	shipper
+bill of lading	party involved	carrier
+bill of lading	party involved	consignee
+bill of lading	relevance to	international trade
+bill of lading	relevance to	commercial transactions
+bill of lading	relevance to	logistics industry
+ship agent	profession	broker
+ship agent	profession	middleman
+ship agent	profession	representative
+ship agent	function	negotiating
+ship agent	function	arranging
+ship agent	function	facilitating
+ship agent	industry	shipping
+ship agent	industry	maritime
+ship agent	industry	logistics
+ship agent	responsibilities	booking
+ship agent	responsibilities	chartering
+ship agent	responsibilities	cargoes
+ship agent	location	port
+ship agent	location	office
+ship agent	location	dock
+ship agent	services	arranging cargo
+ship agent	services	providing insurance
+ship agent	services	handling logistics
+commercial airport	function	transportation hub
+commercial airport	function	air travel
+commercial airport	function	passenger service
+commercial airport	structure	terminal building
+commercial airport	structure	runway
+commercial airport	structure	control tower
+commercial airport	operations	scheduling flights
+commercial airport	operations	handling baggage
+commercial airport	operations	providing amenities
+commercial airport	services	check-in
+commercial airport	services	security screening
+commercial airport	services	boarding
+commercial airport	facilities	food and beverage
+commercial airport	facilities	retail shops
+commercial airport	facilities	lounges
+commercial airport	security	screening
+commercial airport	security	id checks
+commercial airport	security	customs
+commercial airport	management	airport authorities
+commercial airport	management	airlines
+commercial airport	management	security personnel
+long ton	unit of measurement	weight
+long ton	unit of measurement	mass
+long ton	unit of measurement	volume
+long ton	conversion	2240 pounds
+long ton	conversion	1.12 tons
+long ton	origin	united kingdom
+long ton	origin	imperial system
+long ton	used in	shipping industry
+long ton	used in	construction
+long ton	used in	manufacturing
+long ton	alternative name	tonne
+long ton	alternative name	ton
+bulk cargo	type	dry
+bulk cargo	type	liquid
+bulk cargo	mode of transport	ship
+bulk cargo	mode of transport	train
+bulk cargo	mode of transport	truck
+bulk cargo	container type	hopper
+bulk cargo	container type	tank
+bulk cargo	container type	bag
+bulk cargo	material	grains
+bulk cargo	material	minerals
+bulk cargo	material	ores
+bulk cargo	destination	port
+bulk cargo	destination	factory
+bulk cargo	destination	power plant
+bulk cargo	industry	agriculture
+bulk cargo	industry	mining
+bulk cargo	industry	energy
+bulk cargo	volume	large
+bulk cargo	volume	massive
+bulk cargo	handling	careful
+bulk cargo	handling	specialized
+tugboat	type of boat	vessel
+tugboat	type of boat	marine
+tugboat	type of boat	watercraft
+tugboat	function	pull
+tugboat	function	tow
+tugboat	function	assist
+tugboat	size	small
+tugboat	size	medium
+tugboat	size	large
+tugboat	propulsion	engine
+tugboat	propulsion	mechanical
+tugboat	propulsion	manual
+tugboat	used for	assisting larger boats
+tugboat	used for	rescue
+tugboat	used for	salvage
+tugboat	features	strong hull
+tugboat	features	powerful engine
+tugboat	features	anchor
+cargo container	type	shipping
+cargo container	type	freight
+cargo container	type	container
+cargo container	size	large
+cargo container	size	medium
+cargo container	size	small
+cargo container	material	metal
+cargo container	material	plastic
+cargo container	function	transport goods
+cargo container	function	store goods
+cargo container	function	protect goods
+cargo container	usage	ocean
+cargo container	usage	land
+cargo container	usage	air
+cargo container	features	doors
+cargo container	features	locks
+cargo container	features	tracks
+cargo container	purpose	international trade
+cargo container	purpose	domestic trade
+cargo container	purpose	logistics
+unpaved runway	type	airfield
+unpaved runway	type	airstrip
+unpaved runway	surface	grass
+unpaved runway	surface	dirt
+unpaved runway	surface	sand
+unpaved runway	condition	rough
+unpaved runway	condition	uneven
+unpaved runway	condition	muddy
+unpaved runway	use	emergency landing
+unpaved runway	use	small aircraft
+unpaved runway	use	private use
+unpaved runway	location	rural area
+unpaved runway	location	remote location
+unpaved runway	location	developing country
+unpaved runway	maintenance	infrequent
+unpaved runway	maintenance	minimal
+unpaved runway	maintenance	none
+unpaved runway	safety	high risk
+unpaved runway	safety	low visibility
+unpaved runway	safety	uneven terrain
+ocean liner	type	large passenger ship
+ocean liner	type	vessel
+ocean liner	type	maritime transportation
+ocean liner	size	hundreds of meters long
+ocean liner	size	large capacity
+ocean liner	purpose	transporting people
+ocean liner	purpose	carrying cargo
+ocean liner	purpose	tourist attraction
+ocean liner	features	luxurious accommodations
+ocean liner	features	dining options
+ocean liner	features	entertainment facilities
+ocean liner	movement	moving through water
+ocean liner	movement	powered by engines
+ocean liner	history	long history of use
+ocean liner	history	important in maritime trade
+ocean liner	speed	relatively slow
+ocean liner	speed	dependent on wind and currents
+port city	location	coastal area
+port city	location	harbor
+port city	location	waterfront
+port city	function	shipping
+port city	function	trade
+port city	function	commerce
+port city	economic significance	job creator
+port city	economic significance	driver of growth
+port city	economic significance	source of revenue
+port city	infrastructure	docks
+port city	infrastructure	warehouses
+port city	infrastructure	freight yards
+port city	characteristics	industrial
+port city	characteristics	commercial
+port city	characteristics	touristy
+port city	features	marina
+port city	features	pier
+port city	features	lighthouse
+transit route	purpose	transportation
+transit route	purpose	commuting
+transit route	purpose	travel
+transit route	mode	bus
+transit route	mode	train
+transit route	mode	subway
+transit route	mode	ferry
+transit route	mode	airplane
+transit route	location	city
+transit route	location	country
+transit route	location	region
+transit route	location	airport
+transit route	location	seaport
+transit route	route type	local
+transit route	route type	express
+transit route	route type	intercity
+transit route	route type	international
+transit route	route type	tourist
+transit route	schedule	fixed
+transit route	schedule	variable
+transit route	schedule	on-demand
+transit route	schedule	real-time
+transit route	vehicle characteristics	capacity
+transit route	vehicle characteristics	speed
+transit route	vehicle characteristics	frequency
+transit route	vehicle characteristics	stops
+transit route	vehicle characteristics	fare
+transit route	infrastructure	track
+transit route	infrastructure	road
+transit route	infrastructure	waterway
+transit route	infrastructure	tunnel
+transit route	infrastructure	bridge
+pusher tug	type	marine vessel
+pusher tug	type	boat
+pusher tug	type	ship
+pusher tug	function	assisting other vessels
+pusher tug	function	moving heavy loads
+pusher tug	function	towing
+pusher tug	design	strong
+pusher tug	design	heavy-duty
+pusher tug	size	large
+pusher tug	size	long
+pusher tug	used for	marine operations
+pusher tug	used for	harbor maintenance
+pusher tug	used for	construction projects
+pusher tug	associated with	shipping industry
+pusher tug	associated with	port operations
+pusher tug	associated with	coastal activities
+port facility	function	shipping
+port facility	function	cargo handling
+port facility	function	export
+port facility	location	coast
+port facility	location	waterfront
+port facility	location	harbor
+port facility	infrastructure	docks
+port facility	infrastructure	cranes
+port facility	infrastructure	warehouses
+port facility	operations	loading
+port facility	operations	unloading
+port facility	operations	storage
+port facility	types of cargo	containers
+port facility	types of cargo	bulk cargo
+port facility	types of cargo	liquid cargo
+port facility	regulation	customs
+port facility	regulation	port authority
+port facility	regulation	safety regulations
+dual gauge railway	definition	railway track
+dual gauge railway	definition	two different gauges
+dual gauge railway	definition	compatible trains
+dual gauge railway	purpose	increase railway capacity
+dual gauge railway	purpose	reduce costs
+dual gauge railway	purpose	improve connectivity
+dual gauge railway	features	shared track
+dual gauge railway	features	compatible trains
+dual gauge railway	features	adjustable gauge
+dual gauge railway	types	dual gauge railway
+dual gauge railway	types	dual gauge track
+dual gauge railway	types	dual gauge line
+dual gauge railway	challenges	different gauge sizes
+dual gauge railway	challenges	train compatibility
+dual gauge railway	challenges	infrastructure costs
+dual gauge railway	locations	australia
+dual gauge railway	locations	india
+dual gauge railway	locations	europe
+dual gauge railway	locations	asia
+commercial agent	role	intermediary
+commercial agent	role	middleman
+commercial agent	role	broker
+commercial agent	function	buying
+commercial agent	function	selling
+commercial agent	function	trading
+commercial agent	type	real estate
+commercial agent	type	insurance
+commercial agent	type	financial
+commercial agent	responsibilities	negotiating
+commercial agent	responsibilities	communicating
+commercial agent	responsibilities	representing
+commercial agent	characteristics	trustworthy
+commercial agent	characteristics	experienced
+commercial agent	characteristics	knowledgeable
+commercial agent	involves	buying and selling
+commercial agent	involves	negotiating prices
+commercial agent	involves	arranging deals
+canal system	purpose	water transportation
+canal system	purpose	irrigation
+canal system	purpose	recreation
+canal system	type	natural
+canal system	type	man-made
+canal system	type	lock-based
+canal system	features	locks
+canal system	features	dams
+canal system	features	tunnels
+canal system	location	europe
+canal system	location	asia
+canal system	location	north america
+canal system	location	china
+canal system	length	long
+canal system	length	short
+canal system	economic impact	boosts economy
+canal system	economic impact	creates jobs
+canal system	economic impact	increases trade
+canal system	history	ancient
+canal system	history	modern
+canal system	history	developing
+canal system	environmental impact	pollution
+canal system	environmental impact	ecological damage
+canal system	environmental impact	conservation
+private railcar	purpose	luxurious travel
+private railcar	purpose	business meetings
+private railcar	purpose	special events
+private railcar	features	large windows
+private railcar	features	comfortable seating
+private railcar	features	kitchen
+private railcar	features	bathroom
+private railcar	size	small
+private railcar	size	large
+private railcar	luxury level	high-end
+private railcar	luxury level	basic
+private railcar	used by	celebrities
+private railcar	used by	businessmen
+private railcar	used by	royalty
+private railcar	location	train
+private railcar	location	station
+private railcar	location	event
+head end car	function	last car in a train
+head end car	function	car with controls
+head end car	components	engine
+head end car	components	brakes
+head end car	components	controls panel
+head end car	size	larger than other cars
+head end car	location	rear of the train
+head end car	location	at the front of the train
+head end car	purpose	to control the train
+head end car	purpose	to provide braking power
+head end car	features	stronger brakes
+head end car	features	more powerful engine
+head end car	associated with	train
+head end car	associated with	railway
+head end car	associated with	transportation
+electrified railway	purpose	transportation
+electrified railway	purpose	efficient
+electrified railway	purpose	environmentally friendly
+electrified railway	technology	electric power
+electrified railway	technology	overhead wires
+electrified railway	technology	electrified tracks
+electrified railway	components	locomotive
+electrified railway	components	carriage
+electrified railway	components	electric motor
+electrified railway	location	city
+electrified railway	location	country
+electrified railway	location	highway
+electrified railway	benefits	reduced noise
+electrified railway	benefits	reduced pollution
+electrified railway	benefits	increased speed
+electrified railway	history	developed in 19th century
+electrified railway	history	improved in 20th century
+electrified railway	maintenance	regular maintenance
+electrified railway	maintenance	electric maintenance
+mass measure	type	weight
+mass measure	type	size
+mass measure	type	amount
+mass measure	unit	gram
+mass measure	unit	kilogram
+mass measure	unit	ton
+mass measure	unit	ounce
+mass measure	unit	pound
+mass measure	precision	precise
+mass measure	precision	approximate
+mass measure	application	science
+mass measure	application	everyday life
+mass measure	application	business
+mass measure	example	1 kg
+mass measure	example	500 g
+mass measure	example	1 tonne
+mass measure	conversion	convertible
+mass measure	conversion	non-convertible
+mass measure	usage	measuring
+mass measure	usage	weighing
+mass measure	usage	calculating
+paved runway	function	landing
+paved runway	function	takeoff
+paved runway	function	aircraft movement
+paved runway	material	asphalt
+paved runway	material	concrete
+paved runway	width	sufficient for aircraft
+paved runway	length	long enough for takeoff
+paved runway	safety feature	lights
+paved runway	safety feature	signs
+paved runway	safety feature	emergency response plan
+paved runway	maintenance	regularly cleaned
+paved runway	maintenance	periodically resurfaced
+paved runway	environmental impact	minimized noise
+paved runway	environmental impact	minimized pollution
+petroleum product pipeline	function	transporting oil
+petroleum product pipeline	function	gas
+petroleum product pipeline	function	refined products
+petroleum product pipeline	material	steel
+petroleum product pipeline	material	plastic
+petroleum product pipeline	location	underground
+petroleum product pipeline	location	above ground
+petroleum product pipeline	length	long distance
+petroleum product pipeline	diameter	large
+petroleum product pipeline	maintenance	regular
+petroleum product pipeline	maintenance	critical
+petroleum product pipeline	risks	leakage
+petroleum product pipeline	risks	rupture
+petroleum product pipeline	risks	environmental damage
+petroleum product pipeline	uses	energy production
+petroleum product pipeline	uses	transportation
+petroleum product pipeline	uses	industry
+petroleum product pipeline	security	protected
+petroleum product pipeline	security	vulnerable
+flight schedule	type	timetable
+flight schedule	type	travel plan
+flight schedule	type	aviation schedule
+flight schedule	format	digital
+flight schedule	format	printed
+flight schedule	contents	flight numbers
+flight schedule	contents	departure and arrival times
+flight schedule	contents	aircraft types
+flight schedule	contents	route information
+flight schedule	purpose	helping travelers plan
+flight schedule	purpose	ensuring punctuality
+flight schedule	purpose	managing airline operations
+flight schedule	generated by	airline staff
+flight schedule	generated by	computer system
+flight schedule	generated by	travel agent
+flight schedule	updated regularly	yes
+flight schedule	updated regularly	daily
+flight schedule	updated regularly	weekly
+fixed bridge	type	permanent
+fixed bridge	type	structure
+fixed bridge	purpose	connecting land
+fixed bridge	purpose	crossing water
+fixed bridge	design	arch
+fixed bridge	design	beam
+fixed bridge	material	steel
+fixed bridge	material	concrete
+fixed bridge	material	wood
+fixed bridge	location	river
+fixed bridge	location	ocean
+fixed bridge	location	land
+fixed bridge	location	city
+fixed bridge	features	supports traffic
+fixed bridge	features	has pillars
+fixed bridge	features	has lanes
+turbojet engine	type	jet engine
+turbojet engine	type	aerospace
+turbojet engine	type	aircraft
+turbojet engine	working principle	combustion
+turbojet engine	working principle	exhaust gases
+turbojet engine	working principle	high-speed airflow
+turbojet engine	components	compressor
+turbojet engine	components	combustion chamber
+turbojet engine	components	turbine
+turbojet engine	components	nozzle
+turbojet engine	function	generates thrust
+turbojet engine	function	powers aircraft
+turbojet engine	advantages	high power-to-weight ratio
+turbojet engine	advantages	efficient
+turbojet engine	advantages	fast
+turbojet engine	disadvantages	noisy
+turbojet engine	disadvantages	polluting
+turbojet engine	disadvantages	complex
+turbojet engine	used in	commercial airliners
+turbojet engine	used in	military aircraft
+turbojet engine	used in	spacecraft
+turbojet engine	history	developed in 1930s
+turbojet engine	history	improved in 1950s
+whaling ship	purpose	hunting whales
+whaling ship	purpose	processing whale products
+whaling ship	size	large
+whaling ship	size	multiple masts
+whaling ship	materials	wood
+whaling ship	materials	iron
+whaling ship	era	19th century
+whaling ship	era	historical
+whaling ship	features	sail
+whaling ship	features	anchors
+whaling ship	features	cannons
+whaling ship	function	whale hunting
+whaling ship	function	processing
+whaling ship	function	transportation
+whaling ship	location	ocean
+whaling ship	location	coastal waters
+whaling ship	location	arctic
+guiding	purpose	providing direction
+guiding	purpose	showing the way
+guiding	method	using a map
+guiding	method	asking for directions
+guiding	method	using gps
+guiding	source	experienced person
+guiding	source	expert
+guiding	source	authoritative figure
+guiding	context	traveling
+guiding	context	lost
+guiding	context	new place
+guiding	benefit	reducing uncertainty
+guiding	benefit	increasing confidence
+guiding	tools	compass
+guiding	tools	map
+guiding	tools	gps device
+bulkhead	function	seals
+bulkhead	function	divides
+bulkhead	function	provides barrier
+bulkhead	material	metal
+bulkhead	material	plastic
+bulkhead	material	wood
+bulkhead	location	ship
+bulkhead	location	building
+bulkhead	location	aircraft
+bulkhead	purpose	prevents flooding
+bulkhead	purpose	contains pressure
+bulkhead	purpose	separates spaces
+bulkhead	design	watertight
+bulkhead	design	fire-resistant
+bulkhead	design	reinforced
+bulkhead	construction	built-in
+bulkhead	construction	bolted-on
+bulkhead	construction	welded-on
+deck crane	type	marine
+deck crane	type	heavy-lifting
+deck crane	function	lifting
+deck crane	function	moving
+deck crane	function	placing
+deck crane	characteristics	large
+deck crane	characteristics	heavy
+deck crane	characteristics	powerful
+deck crane	components	boom
+deck crane	components	winch
+deck crane	components	cable
+deck crane	uses	building ships
+deck crane	uses	repairing ships
+deck crane	uses	loading cargo
+deck crane	operated by	skilled operators
+deck crane	operated by	mechanics
+deck crane	operated by	marine engineers
+deck crane	found in	shipyards
+deck crane	found in	ports
+deck crane	found in	offshore oil platforms
+electronic signalling	type	digital
+electronic signalling	type	analog
+electronic signalling	medium	wire
+electronic signalling	medium	air
+electronic signalling	medium	fiber optic
+electronic signalling	speed	high
+electronic signalling	speed	low
+electronic signalling	range	short
+electronic signalling	range	long
+electronic signalling	used for	communication
+electronic signalling	used for	control
+electronic signalling	used for	data transfer
+electronic signalling	characteristics	reliable
+electronic signalling	characteristics	unreliable
+electronic signalling	examples	telephone signal
+electronic signalling	examples	internet signal
+electronic signalling	examples	radio signal
+sea lane	definition	navigable waterway
+sea lane	definition	route for ships
+sea lane	function	allowing ships to travel
+sea lane	function	reducing risk of collisions
+sea lane	function	increasing trade
+sea lane	features	buoys
+sea lane	features	lights
+sea lane	features	marks
+sea lane	regulation	defined by international law
+sea lane	regulation	regulated by coastal authorities
+sea lane	importance	critical for global trade
+sea lane	importance	increasingly important for energy transport
+sea lane	types	fairway
+sea lane	types	channel
+sea lane	types	strait
+canal lock gate	function	regulate water level
+canal lock gate	function	allow boat passage
+canal lock gate	function	control water flow
+canal lock gate	structure	hinged
+canal lock gate	structure	movable
+canal lock gate	structure	metal
+canal lock gate	operation	lifted
+canal lock gate	operation	lowered
+canal lock gate	operation	pumped
+canal lock gate	location	canal
+canal lock gate	location	waterway
+canal lock gate	location	harbor
+canal lock gate	size	large
+canal lock gate	size	small
+canal lock gate	material	steel
+canal lock gate	material	iron
+canal lock gate	movement	manual
+canal lock gate	movement	mechanical
+canal lock gate	movement	hydraulic
+signalling	communication method	verbal
+signalling	communication method	non-verbal
+signalling	type of signal	traffic signal
+signalling	type of signal	stop sign
+signalling	type of signal	alarm
+signalling	purpose	informing
+signalling	purpose	warning
+signalling	purpose	directing
+signalling	medium	light
+signalling	medium	sound
+signalling	medium	text
+signalling	receiver	driver
+signalling	receiver	pedestrian
+signalling	receiver	reader
+signalling	context	road
+signalling	context	battlefield
+signalling	context	computer network
+port crane	function	lifting
+port crane	function	moving
+port crane	function	storing
+port crane	size	large
+port crane	size	heavy
+port crane	size	towering
+port crane	material	steel
+port crane	material	metal
+port crane	structure	fixed
+port crane	structure	movable
+port crane	used for	loading
+port crane	used for	unloading
+port crane	used for	shipping
+port crane	location	port
+port crane	location	harbor
+port crane	location	dock
+port crane	operation	mechanical
+port crane	operation	electrical
+port crane	operation	hydraulic
+river port	function	shipping
+river port	function	trade
+river port	function	transportation
+river port	location	near river
+river port	location	waterfront
+river port	location	coastal
+river port	facilities	docks
+river port	facilities	warehouses
+river port	facilities	cranes
+river port	activities	loading
+river port	activities	unloading
+river port	activities	storage
+river port	type	commercial
+river port	type	industrial
+river port	type	tourist
+river port	features	locks
+river port	features	canals
+river port	features	waterways
+military watercraft	type	ship
+military watercraft	type	boat
+military watercraft	type	submarine
+military watercraft	size	large
+military watercraft	size	small
+military watercraft	size	medium
+military watercraft	purpose	transport
+military watercraft	purpose	attack
+military watercraft	purpose	defend
+military watercraft	purpose	patrol
+military watercraft	armament	gun
+military watercraft	armament	missile
+military watercraft	armament	torpedo
+military watercraft	speed	fast
+military watercraft	speed	slow
+military watercraft	range	long
+military watercraft	range	short
+military watercraft	used for	warfare
+military watercraft	used for	peacekeeping
+military watercraft	used for	search and rescue
+military watercraft	located at	port
+military watercraft	located at	sea
+military watercraft	located at	ocean
+military watercraft	located at	coast
+vehicle crew	role	driver
+vehicle crew	role	mechanic
+vehicle crew	role	passenger
+vehicle crew	skill	driving
+vehicle crew	skill	maintenance
+vehicle crew	skill	navigation
+vehicle crew	equipment	vehicle
+vehicle crew	equipment	tools
+vehicle crew	equipment	communication device
+vehicle crew	workplace	road
+vehicle crew	workplace	garage
+vehicle crew	workplace	port
+vehicle crew	responsibility	safety
+vehicle crew	responsibility	maintenance
+vehicle crew	responsibility	route planning
+vehicle crew	communication	verbal
+vehicle crew	communication	written
+vehicle crew	communication	radio
+vehicle crew	training	licensing
+vehicle crew	training	certification
+vehicle crew	training	on-the-job training
+moving violation	type of infraction	speeding
+moving violation	type of infraction	reckless driving
+moving violation	type of infraction	failure to yield
+moving violation	location	road
+moving violation	location	highway
+moving violation	location	interstate
+moving violation	violation of	traffic laws
+moving violation	violation of	speed limits
+moving violation	violation of	rules of the road
+moving violation	consequences	fine
+moving violation	consequences	points on license
+moving violation	consequences	suspension of license
+moving violation	circumstances	during rush hour
+moving violation	circumstances	in a school zone
+moving violation	circumstances	at night
+moving violation	penalty	fines
+moving violation	penalty	court appearance
+moving violation	penalty	community service
+radar facility	purpose	monitoring weather
+radar facility	purpose	detecting aircraft
+radar facility	purpose	tracking targets
+radar facility	technology	radio waves
+radar facility	technology	antennae
+radar facility	technology	computerized systems
+radar facility	components	transmitter
+radar facility	components	receiver
+radar facility	components	antenna
+radar facility	components	processing unit
+radar facility	location	airports
+radar facility	location	military bases
+radar facility	location	weather stations
+radar facility	range	short-range
+radar facility	range	long-range
+radar facility	operational mode	continuous operation
+radar facility	operational mode	manual operation
+radar facility	maintenance	regular maintenance
+radar facility	maintenance	software updates
+electric motor	function	generates torque
+electric motor	function	converts electrical energy
+electric motor	type	dc
+electric motor	type	ac
+electric motor	type	stepper
+electric motor	type	brushless
+electric motor	components	coil
+electric motor	components	magnet
+electric motor	components	brush
+electric motor	components	commutator
+electric motor	application	electric vehicles
+electric motor	application	industrial machinery
+electric motor	application	home appliances
+electric motor	application	wind turbines
+electric motor	efficiency	high
+electric motor	efficiency	low
+electric motor	speed	variable
+electric motor	speed	constant
+electric motor	control	manual
+electric motor	control	automatic
+broad gauge railway	railway type	heavy rail
+broad gauge railway	railway type	freight rail
+broad gauge railway	railway type	passenger rail
+broad gauge railway	track gauge	broad gauge
+broad gauge railway	track gauge	wide gauge
+broad gauge railway	track gauge	standard gauge
+broad gauge railway	used for	passenger transport
+broad gauge railway	used for	freight transport
+broad gauge railway	used for	tourist attraction
+broad gauge railway	characteristics	larger track width
+broad gauge railway	characteristics	more stable
+broad gauge railway	characteristics	better for heavy loads
+broad gauge railway	historical significance	early railway technology
+broad gauge railway	historical significance	important for industrial development
+broad gauge railway	historical significance	used in many countries
+broad gauge railway	current use	still used in many countries
+broad gauge railway	current use	being replaced by standard gauge
+broad gauge railway	current use	preserved for historical purposes
+lighter	purpose	igniting fires
+lighter	purpose	lighting cigarettes
+lighter	material	metal
+lighter	material	plastic
+lighter	mechanism	flint and steel
+lighter	mechanism	spark
+lighter	mechanism	butane
+lighter	size	small
+lighter	size	portable
+lighter	usage	outdoor
+lighter	usage	indoor
+lighter	usage	recreational
+lighter	brand	zippo
+lighter	brand	bic
+lighter	brand	colibri
+lighter	features	refillable
+lighter	features	windproof
+lighter	features	reliable
+material handling equipment	type	forklift
+material handling equipment	type	pallet jack
+material handling equipment	type	crane
+material handling equipment	type	conveyor belt
+material handling equipment	function	lifting
+material handling equipment	function	moving
+material handling equipment	function	storing
+material handling equipment	function	transferring
+material handling equipment	usage	industrial
+material handling equipment	usage	commercial
+material handling equipment	usage	warehouse
+material handling equipment	usage	factory
+material handling equipment	size	large
+material handling equipment	size	medium
+material handling equipment	size	small
+material handling equipment	size	portable
+material handling equipment	operation	manual
+material handling equipment	operation	mechanical
+material handling equipment	operation	electrical
+material handling equipment	operation	hydraulic
+material handling equipment	safety feature	braking system
+material handling equipment	safety feature	stabilizer
+material handling equipment	safety feature	load capacity
+material handling equipment	safety feature	emergency stop
+gallery car	purpose	transportation
+gallery car	purpose	entertainment
+gallery car	purpose	advertising
+gallery car	type	train
+gallery car	type	tram
+gallery car	capacity	seating
+gallery car	capacity	standing
+gallery car	features	comfortable seating
+gallery car	features	air conditioning
+gallery car	features	food and beverage service
+gallery car	routes	urban
+gallery car	routes	tourist attractions
+gallery car	routes	special events
+gallery car	operator	public transportation
+gallery car	operator	private company
+gallery car	operator	non-profit organization
+gallery car	destination	station
+gallery car	destination	terminal
+gallery car	destination	event location
+light fixture	function	provides light
+light fixture	function	illuminates space
+light fixture	type	lamp
+light fixture	type	chandelier
+light fixture	type	sconce
+light fixture	material	metal
+light fixture	material	glass
+light fixture	material	plastic
+light fixture	purpose	decorative
+light fixture	purpose	practical
+light fixture	location	ceiling
+light fixture	location	table
+light fixture	location	wall
+light fixture	power source	electric
+light fixture	power source	battery
+light fixture	power source	solar
+water area	type	ocean
+water area	type	lake
+water area	type	river
+water area	type	pond
+water area	type	sea
+water area	size	large
+water area	size	small
+water area	location	earth
+water area	location	planet
+water area	location	surface
+water area	location	underground
+water area	function	drinking water
+water area	function	recreation
+water area	function	shipping
+water area	function	fishing
+water area	characteristics	blue
+water area	characteristics	wavy
+water area	characteristics	deep
+water area	characteristics	shallow
+water area	used for	drinking
+water area	used for	swimming
+water area	used for	fishing
+water area	used for	boating
+water area	features	coastline
+water area	features	shore
+water area	features	beach
+water area	features	reef
+fish factory ship	function	catching fish
+fish factory ship	function	processing fish
+fish factory ship	function	fishing
+fish factory ship	size	large
+fish factory ship	size	massive
+fish factory ship	location	ocean
+fish factory ship	location	sea
+fish factory ship	location	coast
+fish factory ship	equipment	nets
+fish factory ship	equipment	traps
+fish factory ship	equipment	processors
+fish factory ship	staff	fishermen
+fish factory ship	staff	processors
+fish factory ship	staff	captain
+fish factory ship	purpose	to provide food
+fish factory ship	purpose	for commercial use
+fish factory ship	purpose	for recreational use
+canal lock	purpose	raising water level
+canal lock	purpose	lowering water level
+canal lock	purpose	connecting canals
+canal lock	mechanism	water chamber
+canal lock	mechanism	gates
+canal lock	mechanism	pumps
+canal lock	location	canal
+canal lock	location	waterway
+canal lock	location	harbor
+canal lock	operation	manual
+canal lock	operation	automatic
+canal lock	types	single lock
+canal lock	types	double lock
+canal lock	types	flight of locks
+canal lock	history	ancient
+canal lock	history	modern
+canal lock	features	water level control
+canal lock	features	water flow control
+transit stop	type	bus stop
+transit stop	type	train station
+transit stop	type	subway station
+transit stop	location	street corner
+transit stop	location	side of highway
+transit stop	location	inside airport
+transit stop	purpose	pick up passengers
+transit stop	purpose	drop off passengers
+transit stop	purpose	provide transfer
+transit stop	features	bus shelter
+transit stop	features	platform
+transit stop	features	information board
+transit stop	accessibility	wheelchair accessible
+transit stop	accessibility	elevated
+transit stop	accessibility	underground
+transit stop	services	public transportation
+transit stop	services	taxi stand
+transit stop	services	parking lot
+road transportation system	mode of transport	car
+road transportation system	mode of transport	truck
+road transportation system	mode of transport	bus
+road transportation system	mode of transport	motorcycle
+road transportation system	mode of transport	bicycle
+road transportation system	infrastructure	road
+road transportation system	infrastructure	highway
+road transportation system	infrastructure	freeway
+road transportation system	infrastructure	traffic light
+road transportation system	infrastructure	stop sign
+road transportation system	operation	driving
+road transportation system	operation	parking
+road transportation system	operation	traffic management
+road transportation system	operation	speed limit
+road transportation system	operation	traffic enforcement
+road transportation system	vehicle requirements	license
+road transportation system	vehicle requirements	insurance
+road transportation system	vehicle requirements	registration
+road transportation system	vehicle requirements	vehicle inspection
+road transportation system	vehicle requirements	maintenance
+road transportation system	safety features	seatbelt
+road transportation system	safety features	airbag
+road transportation system	safety features	crash test
+road transportation system	safety features	safety rating
+road transportation system	safety features	speed limit enforcement
+road transportation system	environmental impact	air pollution
+road transportation system	environmental impact	noise pollution
+road transportation system	environmental impact	greenhouse gas emissions
+road transportation system	environmental impact	traffic congestion
+road transportation system	environmental impact	parking space
+dangerous goods	category	hazardous materials
+dangerous goods	category	flammable
+dangerous goods	category	toxic
+dangerous goods	type	chemical
+dangerous goods	type	explosive
+dangerous goods	type	radioactive
+dangerous goods	handling requirements	special care
+dangerous goods	handling requirements	protective gear
+dangerous goods	handling requirements	ventilation
+dangerous goods	risks	fire
+dangerous goods	risks	explosion
+dangerous goods	risks	environmental damage
+dangerous goods	storage requirements	separate area
+dangerous goods	storage requirements	ventilated space
+dangerous goods	storage requirements	secure container
+dangerous goods	transportation regulations	special permits
+dangerous goods	transportation regulations	trained personnel
+dangerous goods	transportation regulations	safety protocols
+ship compartment	function	storage
+ship compartment	function	accommodation
+ship compartment	function	engine room
+ship compartment	size	large
+ship compartment	size	small
+ship compartment	location	lower deck
+ship compartment	location	upper deck
+ship compartment	location	midship
+ship compartment	purpose	storing cargo
+ship compartment	purpose	housing crew
+ship compartment	purpose	housing passengers
+ship compartment	features	doors
+ship compartment	features	windows
+ship compartment	features	lights
+ship compartment	access	stairs
+ship compartment	access	ladder
+ship compartment	access	elevator
+ship compartment	equipment	cranes
+ship compartment	equipment	hoists
+ship compartment	equipment	pipes
+transit terminal	function	transportation hub
+transit terminal	function	bus station
+transit terminal	function	train station
+transit terminal	function	airport
+transit terminal	location	city
+transit terminal	location	suburb
+transit terminal	location	highway
+transit terminal	location	airfield
+transit terminal	facilities	ticket counter
+transit terminal	facilities	waiting area
+transit terminal	facilities	food court
+transit terminal	facilities	restrooms
+transit terminal	services	bus schedules
+transit terminal	services	train schedules
+transit terminal	services	flight information
+transit terminal	services	parking
+transit terminal	features	parking lot
+transit terminal	features	food vendors
+transit terminal	features	rest areas
+transit terminal	features	information kiosk
+transit terminal	environment	indoor
+transit terminal	environment	outdoor
+transit terminal	environment	urban
+transit terminal	environment	rural
+waterway junction	type	river
+waterway junction	type	lake
+waterway junction	type	canal
+waterway junction	location	land
+waterway junction	location	coast
+waterway junction	location	city
+waterway junction	function	connecting rivers
+waterway junction	function	draining water
+waterway junction	function	shipping route
+waterway junction	features	locks
+waterway junction	features	dams
+waterway junction	features	bridges
+waterway junction	importance	economic
+waterway junction	importance	environmental
+waterway junction	importance	recreational
+waterway junction	example	mississippi river delta
+waterway junction	example	port of rotterdam
+waterway junction	example	suez canal
+organizational process	goal	achieve efficiency
+organizational process	goal	improve productivity
+organizational process	structure	hierarchical
+organizational process	structure	flat
+organizational process	communication	clear
+organizational process	communication	open
+organizational process	roles and responsibilities	defined
+organizational process	roles and responsibilities	clearly assigned
+organizational process	task management	prioritized
+organizational process	task management	tracked
+organizational process	teamwork	collaborative
+organizational process	teamwork	coordinated
+organizational process	time management	timely
+organizational process	time management	efficient
+organizational process	resource allocation	effective
+organizational process	resource allocation	optimal
+truck tractor	type	heavy-duty
+truck tractor	type	large
+truck tractor	type	powerful
+truck tractor	purpose	hauling heavy loads
+truck tractor	purpose	transporting goods
+truck tractor	characteristics	big wheels
+truck tractor	characteristics	strong engine
+truck tractor	characteristics	large cab
+truck tractor	features	air brakes
+truck tractor	features	dual tires
+truck tractor	features	crane attachment
+truck tractor	used for	long-distance hauling
+truck tractor	used for	construction work
+truck tractor	used for	logging
+truck tractor	industry	trucking
+truck tractor	industry	construction
+truck tractor	industry	logging
+traffic light	function	regulating traffic flow
+traffic light	function	indicating when to stop
+traffic light	function	indicating when to go
+traffic light	color	red
+traffic light	color	yellow
+traffic light	color	green
+traffic light	location	road
+traffic light	location	intersection
+traffic light	location	highway
+traffic light	operation	electricity powered
+traffic light	operation	manual control
+traffic light	operation	automated
+traffic light	safety	preventing accidents
+traffic light	safety	reducing congestion
+traffic light	safety	improving traffic flow
+traffic light	regulation	government regulated
+traffic light	regulation	standardized across cities
+traffic light	regulation	varies by country
+rail transportation system	purpose	moving people
+rail transportation system	purpose	moving goods
+rail transportation system	type	commuter rail
+rail transportation system	type	freight rail
+rail transportation system	type	high-speed rail
+rail transportation system	infrastructure	tracks
+rail transportation system	infrastructure	stations
+rail transportation system	infrastructure	tunnels
+rail transportation system	infrastructure	bridges
+rail transportation system	operation	electricity
+rail transportation system	operation	diesel
+rail transportation system	operation	hybrid
+rail transportation system	speed	high-speed
+rail transportation system	speed	medium-speed
+rail transportation system	speed	low-speed
+rail transportation system	safety	secure
+rail transportation system	safety	regulated
+rail transportation system	safety	monitored
+rail transportation system	environmental impact	low carbon footprint
+rail transportation system	environmental impact	reduced air pollution
+rail transportation system	cost	affordable
+rail transportation system	cost	expensive
+rail transportation system	cost	cost-effective
+railroad track	function	transportation
+railroad track	function	moving goods
+railroad track	function	moving people
+railroad track	structure	steel
+railroad track	structure	rails
+railroad track	structure	ties
+railroad track	shape	long
+railroad track	shape	straight
+railroad track	shape	curved
+railroad track	location	ground
+railroad track	location	outdoors
+railroad track	location	industrial area
+railroad track	component	rail
+railroad track	component	tie
+railroad track	component	ballast
+railroad track	maintenance	regular inspection
+railroad track	maintenance	repair
+railroad track	maintenance	replacement
+railroad track	history	developed in 19th century
+railroad track	history	important for industrialization
+railroad track	history	used for freight and passenger transport
+passenger ship	type	cruise ship
+passenger ship	type	ferry
+passenger ship	type	ocean liner
+passenger ship	size	large
+passenger ship	size	medium
+passenger ship	size	small
+passenger ship	speed	fast
+passenger ship	speed	medium
+passenger ship	speed	slow
+passenger ship	purpose	recreation
+passenger ship	purpose	transportation
+passenger ship	purpose	commerce
+passenger ship	features	cabin
+passenger ship	features	restaurant
+passenger ship	features	pool
+passenger ship	features	gym
+passenger ship	location	ocean
+passenger ship	location	harbor
+passenger ship	location	port
+passenger ship	mode of operation	sail
+passenger ship	mode of operation	motor
+passenger ship	mode of operation	hybrid
+deck cargo	type	shipping
+deck cargo	type	transportation
+deck cargo	type	freight
+deck cargo	mode	by sea
+deck cargo	mode	by land
+deck cargo	mode	by air
+deck cargo	container	containerized
+deck cargo	container	loose
+deck cargo	container	stacked
+deck cargo	handling	careful
+deck cargo	handling	delicate
+deck cargo	handling	heavy
+deck cargo	risk	damage
+deck cargo	risk	loss
+deck cargo	risk	delay
+deck cargo	purpose	business
+deck cargo	purpose	trade
+deck cargo	purpose	commerce
+deck cargo	storage	warehouse
+deck cargo	storage	port
+deck cargo	storage	container yard
+jet engine	function	generates thrust
+jet engine	function	powers aircraft
+jet engine	component	turbine
+jet engine	component	compressor
+jet engine	component	nozzle
+jet engine	fuel type	jet fuel
+jet engine	fuel type	kerosene
+jet engine	efficiency	highly efficient
+jet engine	efficiency	energy conversion
+jet engine	size	large
+jet engine	size	small
+jet engine	used in	aircraft
+jet engine	used in	spacecraft
+jet engine	used in	military equipment
+jet engine	noise level	loud
+jet engine	noise level	reduced
+jet engine	maintenance	regular maintenance
+jet engine	maintenance	complex repair
+freighter	type	ocean
+freighter	type	land
+freighter	size	large
+freighter	size	medium
+freighter	size	small
+freighter	purpose	transporting goods
+freighter	purpose	carrying cargo
+freighter	design	sturdy
+freighter	design	strong
+freighter	capacity	holding a lot
+freighter	capacity	big load
+freighter	used for	shipping goods
+freighter	used for	carrying supplies
+freighter	features	cranes
+freighter	features	containers
+freighter	features	storage space
+hoisting device	type	crane
+hoisting device	type	winch
+hoisting device	type	pulley
+hoisting device	type	gantry crane
+hoisting device	function	lifting heavy loads
+hoisting device	function	moving objects vertically
+hoisting device	mechanism	cable and pulley
+hoisting device	mechanism	hydraulic system
+hoisting device	mechanism	electric motor
+hoisting device	usage	construction site
+hoisting device	usage	warehouse
+hoisting device	usage	shipyard
+hoisting device	usage	factory
+hoisting device	safety feature	safety harness
+hoisting device	safety feature	load limit
+hoisting device	safety feature	braking system
+hoisting device	component	cable
+hoisting device	component	pulley wheel
+hoisting device	component	motor
+hoisting device	component	control system
+scale test car	type	model
+scale test car	type	prototype
+scale test car	type	experimental
+scale test car	purpose	testing aerodynamics
+scale test car	purpose	evaluating performance
+scale test car	purpose	researching fuel efficiency
+scale test car	features	sensors
+scale test car	features	data logging equipment
+scale test car	features	customized engine
+scale test car	size	small
+scale test car	size	medium
+scale test car	size	large
+scale test car	materials	metal
+scale test car	materials	composite
+scale test car	materials	plastic
+scale test car	used for	research and development
+scale test car	used for	testing new technologies
+scale test car	used for	evaluating environmental impact
+outfit car	type	automobile
+outfit car	type	vehicle
+outfit car	type	car
+outfit car	purpose	transportation
+outfit car	purpose	daily commute
+outfit car	purpose	road trip
+outfit car	features	four wheels
+outfit car	features	engine
+outfit car	features	brakes
+outfit car	design	sleek
+outfit car	design	curvy
+outfit car	design	boxy
+outfit car	materials	metal
+outfit car	materials	plastic
+outfit car	materials	fabric
+outfit car	location	parking lot
+outfit car	location	driveway
+outfit car	location	highway
+outfit car	ownership	owned
+outfit car	ownership	leased
+outfit car	ownership	borrowed
+mode of transit	type	car
+mode of transit	type	bus
+mode of transit	type	train
+mode of transit	type	plane
+mode of transit	type	bike
+mode of transit	type	foot
+mode of transit	type	ship
+mode of transit	type	boat
+mode of transit	speed	fast
+mode of transit	speed	slow
+mode of transit	speed	medium
+mode of transit	route	fixed
+mode of transit	route	flexible
+mode of transit	purpose	commuting
+mode of transit	purpose	recreation
+mode of transit	purpose	business
+mode of transit	purpose	tourism
+mode of transit	capacity	many
+mode of transit	capacity	few
+mode of transit	capacity	single
+mode of transit	environmental impact	high
+mode of transit	environmental impact	low
+mode of transit	environmental impact	neutral
+single traffic lane	road feature	one-way
+single traffic lane	road feature	unidirectional
+single traffic lane	width	narrow
+single traffic lane	width	limited
+single traffic lane	usage	driving
+single traffic lane	usage	parking
+single traffic lane	usage	emergency vehicle
+single traffic lane	regulation	speed limit
+single traffic lane	regulation	lane marking
+single traffic lane	regulation	traffic signal
+single traffic lane	location	highway
+single traffic lane	location	city street
+single traffic lane	location	rural road
+single traffic lane	function	separation
+single traffic lane	function	direction
+single traffic lane	function	flow control
+light truck	type	utility vehicle
+light truck	type	pickup truck
+light truck	size	medium
+light truck	size	large
+light truck	weight capacity	heavy
+light truck	weight capacity	light
+light truck	engine type	gasoline
+light truck	engine type	diesel
+light truck	seating capacity	few
+light truck	seating capacity	many
+light truck	purpose	towing
+light truck	purpose	hauling
+light truck	purpose	off-road
+light truck	features	four-wheel drive
+light truck	features	lifted suspension
+light truck	features	large bed
+port embargo	type	economic
+port embargo	type	military
+port embargo	type	diplomatic
+port embargo	purpose	to exert pressure
+port embargo	purpose	to impose sanctions
+port embargo	purpose	to protect interests
+port embargo	effect	limiting trade
+port embargo	effect	hurting economy
+port embargo	effect	blocking supplies
+port embargo	example	cuba
+port embargo	example	iran
+port embargo	example	north korea
+port embargo	imposed by	government
+port embargo	imposed by	international organization
+port embargo	imposed by	coalition
+port embargo	duration	short-term
+port embargo	duration	long-term
+port embargo	duration	permanent
+port embargo	consequences	economic losses
+port embargo	consequences	humanitarian crisis
+port embargo	consequences	diplomatic tensions
+container ship	size	large
+container ship	size	long
+container ship	size	heavy
+container ship	function	transporting goods
+container ship	function	shipping containers
+container ship	speed	slow
+container ship	speed	average
+container ship	speed	fast
+container ship	size of cargo	large containers
+container ship	size of cargo	heavy loads
+container ship	type of cargo	general cargo
+container ship	type of cargo	refrigerated cargo
+container ship	type of cargo	liquid cargo
+container ship	used for	global trade
+container ship	used for	international shipping
+container ship	used for	logistics
+container ship	operated by	shipping company
+container ship	operated by	port authority
+container ship	operated by	government
+train station	function	transportation hub
+train station	function	departure point
+train station	function	arrival point
+train station	building type	large structure
+train station	building type	public building
+train station	features	platforms
+train station	features	tracks
+train station	features	ticket counters
+train station	features	waiting area
+train station	location	city
+train station	location	town
+train station	location	suburb
+train station	operations	schedules
+train station	operations	timetables
+train station	operations	train arrivals
+train station	operations	fare payment
+train station	services	food and drink
+train station	services	restrooms
+train station	services	waiting area
+train station	services	information desk
+electrical signalling	mechanism	action potential
+electrical signalling	mechanism	ion channels
+electrical signalling	mechanism	neurotransmitters
+electrical signalling	type	sensory
+electrical signalling	type	motor
+electrical signalling	type	cognitive
+electrical signalling	speed	millisecond
+electrical signalling	speed	millisecond range
+electrical signalling	direction	unidirectional
+electrical signalling	direction	bidirectional
+electrical signalling	role	communication
+electrical signalling	role	control
+electrical signalling	role	information transfer
+electrical signalling	medium	nerve fibre
+electrical signalling	medium	synapse
+electrical signalling	medium	electrolyte solution
+cargo ship	purpose	transport goods
+cargo ship	purpose	carry cargo
+cargo ship	size	large
+cargo ship	size	huge
+cargo ship	size	massive
+cargo ship	type	container ship
+cargo ship	type	bulk carrier
+cargo ship	type	tanker
+cargo ship	features	holds
+cargo ship	features	containers
+cargo ship	features	cranes
+cargo ship	features	propulsion
+cargo ship	operation	oceanic
+cargo ship	operation	port-based
+cargo ship	operation	international trade
+cargo ship	crew	skilled
+cargo ship	crew	experienced
+cargo ship	crew	multinational
+cargo ship	materials	steel
+cargo ship	materials	aluminum
+cargo ship	materials	engine
+cargo ship	materials	propulsion system
+intermodal transportation	definition	moving goods or people using multiple modes
+intermodal transportation	definition	combining different transportation methods
+intermodal transportation	types	truck and rail
+intermodal transportation	types	truck and sea
+intermodal transportation	types	truck and air
+intermodal transportation	types	rail and sea
+intermodal transportation	types	air and rail
+intermodal transportation	advantages	increased efficiency
+intermodal transportation	advantages	reduced costs
+intermodal transportation	advantages	reduced environmental impact
+intermodal transportation	challenges	coordination between modes
+intermodal transportation	challenges	different infrastructure requirements
+intermodal transportation	challenges	security concerns
+intermodal transportation	industry	logistics companies
+intermodal transportation	industry	shipping companies
+intermodal transportation	industry	transportation authorities
+intermodal transportation	practical applications	supply chain management
+intermodal transportation	practical applications	international trade
+intermodal transportation	practical applications	urban planning
+coach railcar	type	passenger car
+coach railcar	type	railway vehicle
+coach railcar	function	carries passengers
+coach railcar	function	provides seating
+coach railcar	features	windows
+coach railcar	features	doors
+coach railcar	features	seats
+coach railcar	features	tables
+coach railcar	features	restrooms
+coach railcar	size	varies
+coach railcar	size	dependent on train
+coach railcar	material	metal
+coach railcar	material	plastic
+coach railcar	material	wood
+coach railcar	used for	commuting
+coach railcar	used for	tourism
+coach railcar	used for	business travel
+coach railcar	found in	train station
+coach railcar	found in	railway yard
+coach railcar	found in	on a train
+terminal building	function	airport
+terminal building	function	departure
+terminal building	function	arrival
+terminal building	function	check-in
+terminal building	structure	large
+terminal building	structure	modern
+terminal building	structure	glass
+terminal building	structure	steel
+terminal building	facilities	security check
+terminal building	facilities	baggage claim
+terminal building	facilities	food court
+terminal building	facilities	shops
+terminal building	location	airport
+terminal building	location	near runway
+terminal building	location	city center
+terminal building	size	large
+terminal building	size	complex
+terminal building	architecture	unique
+terminal building	architecture	iconic
+terminal building	architecture	sustainable
+commercial carrier	type	airline
+commercial carrier	type	shipping company
+commercial carrier	type	bus company
+commercial carrier	type	train company
+commercial carrier	purpose	transport goods
+commercial carrier	purpose	transport people
+commercial carrier	purpose	deliver packages
+commercial carrier	fleet	aircraft
+commercial carrier	fleet	trucks
+commercial carrier	fleet	buses
+commercial carrier	fleet	trains
+commercial carrier	coverage	local
+commercial carrier	coverage	regional
+commercial carrier	coverage	national
+commercial carrier	coverage	international
+commercial carrier	services	air freight
+commercial carrier	services	sea freight
+commercial carrier	services	land transportation
+commercial carrier	services	logistics
+commercial carrier	reputation	reliable
+commercial carrier	reputation	efficient
+commercial carrier	reputation	expensive
+commercial carrier	reputation	slow
+department of transportation	government agency	federal
+department of transportation	government agency	state
+department of transportation	government agency	local
+department of transportation	responsibilities	building and maintaining roads
+department of transportation	responsibilities	regulating traffic
+department of transportation	responsibilities	ensuring public safety
+department of transportation	activities	issuing licenses
+department of transportation	activities	enforcing traffic laws
+department of transportation	activities	planning infrastructure projects
+department of transportation	employees	engineers
+department of transportation	employees	law enforcement
+department of transportation	employees	administrators
+department of transportation	functions	transportation planning
+department of transportation	functions	public outreach
+department of transportation	functions	emergency response
+department of transportation	jurisdiction	national
+department of transportation	jurisdiction	state
+department of transportation	jurisdiction	local
+vehicle carrier ship	type	commercial
+vehicle carrier ship	type	military
+vehicle carrier ship	size	large
+vehicle carrier ship	size	giant
+vehicle carrier ship	function	transporting vehicles
+vehicle carrier ship	function	carrying cargo
+vehicle carrier ship	speed	fast
+vehicle carrier ship	speed	slow
+vehicle carrier ship	location	ocean
+vehicle carrier ship	location	port
+vehicle carrier ship	location	sea route
+vehicle carrier ship	purpose	transporting goods
+vehicle carrier ship	purpose	military operations
+vehicle carrier ship	features	deck space
+vehicle carrier ship	features	loading cranes
+vehicle carrier ship	features	steerage
+transportation system	mode	road
+transportation system	mode	air
+transportation system	mode	water
+transportation system	mode	rail
+transportation system	mode	public
+transportation system	mode	private
+transportation system	vehicle	car
+transportation system	vehicle	bus
+transportation system	vehicle	train
+transportation system	vehicle	ship
+transportation system	vehicle	plane
+transportation system	vehicle	bike
+transportation system	vehicle	truck
+transportation system	route	fixed
+transportation system	route	variable
+transportation system	route	route map
+transportation system	route	gps navigation
+transportation system	purpose	commuting
+transportation system	purpose	tourism
+transportation system	purpose	logistics
+transportation system	purpose	emergency
+transportation system	purpose	recreation
+transportation system	infrastructure	road network
+transportation system	infrastructure	airport
+transportation system	infrastructure	seaport
+transportation system	infrastructure	railway
+transportation system	infrastructure	bus station
+transportation system	operation	manual
+transportation system	operation	automatic
+transportation system	operation	scheduling
+transportation system	operation	route planning
+transportation system	operation	traffic management
+transitway	type	road
+transitway	type	highway
+transitway	type	freeway
+transitway	function	connecting cities
+transitway	function	connecting neighborhoods
+transitway	function	reducing traffic congestion
+transitway	design	multiple lanes
+transitway	design	interchanges
+transitway	design	ramps
+transitway	location	urban areas
+transitway	location	suburbs
+transitway	location	highways
+transitway	traffic	heavy
+transitway	traffic	busy
+transitway	traffic	congested
+transitway	maintenance	regularly maintained
+transitway	maintenance	well-maintained
+transitway	maintenance	infrastructure
+transitway	purpose	facilitating transportation
+transitway	purpose	improving traffic flow
+transitway	purpose	increasing accessibility
+petroleum tanker ship	type	ocean-going
+petroleum tanker ship	type	tanker
+petroleum tanker ship	function	transporting oil
+petroleum tanker ship	function	shipping petroleum
+petroleum tanker ship	size	large
+petroleum tanker ship	size	massive
+petroleum tanker ship	structure	steel hull
+petroleum tanker ship	structure	propeller
+petroleum tanker ship	structure	anchor
+petroleum tanker ship	operation	operated by crew
+petroleum tanker ship	operation	requires maintenance
+petroleum tanker ship	operation	subject to regulations
+petroleum tanker ship	location	ocean
+petroleum tanker ship	location	port
+petroleum tanker ship	location	waterway
+petroleum tanker ship	features	holds large amount of oil
+petroleum tanker ship	features	has cargo tanks
+petroleum tanker ship	features	uses gps navigation
+local transit system	purpose	transport people
+local transit system	purpose	connect neighborhoods
+local transit system	purpose	reduce traffic
+local transit system	type	bus
+local transit system	type	train
+local transit system	type	tram
+local transit system	type	ferry
+local transit system	operation	publicly owned
+local transit system	operation	privately operated
+local transit system	operation	24/7 service
+local transit system	operation	limited hours
+local transit system	route	fixed route
+local transit system	route	flexible route
+local transit system	route	on-demand service
+local transit system	vehicle	bus
+local transit system	vehicle	train
+local transit system	vehicle	tram
+local transit system	vehicle	ferry
+local transit system	scheduling	fixed schedule
+local transit system	scheduling	real-time scheduling
+local transit system	scheduling	on-demand scheduling
+local transit system	coverage	city
+local transit system	coverage	county
+local transit system	coverage	region
+local transit system	coverage	state
+local transit system	fare	free
+local transit system	fare	paid
+local transit system	fare	subsidized
+local transit system	fare	by-pass
+drilling ship	function	oil extraction
+drilling ship	function	offshore drilling
+drilling ship	function	exploration
+drilling ship	size	large
+drilling ship	size	heavy
+drilling ship	location	offshore
+drilling ship	location	coastal area
+drilling ship	location	ocean
+drilling ship	structure	floating
+drilling ship	structure	anchored
+drilling ship	equipment	drilling rig
+drilling ship	equipment	cable
+drilling ship	equipment	generator
+drilling ship	purpose	finding oil
+drilling ship	purpose	extracting gas
+drilling ship	purpose	scientific research
+drilling ship	operator	oil company
+drilling ship	operator	government agency
+drilling ship	operator	research institution
+full size van	type	vehicle
+full size van	type	transportation
+full size van	type	utility
+full size van	size	large
+full size van	size	extra long
+full size van	size	extra wide
+full size van	purpose	family transportation
+full size van	purpose	business use
+full size van	purpose	recreational use
+full size van	features	sliding doors
+full size van	features	seating capacity
+full size van	features	cargo space
+full size van	used for	moving
+full size van	used for	camping
+full size van	used for	worksite
+full size van	used for	family road trip
+full size van	characteristics	long
+full size van	characteristics	wide
+full size van	characteristics	tall
+full size van	characteristics	heavy
+full size van	brand	ford
+full size van	brand	chevrolet
+full size van	brand	dodge
+full size van	brand	mercedes-benz
+maritime blockade	definition	restriction on ships entering or leaving a port
+maritime blockade	purpose	economic pressure
+maritime blockade	purpose	diplomatic leverage
+maritime blockade	methods	naval ships surrounding a port
+maritime blockade	methods	minelaying
+maritime blockade	methods	seizing ships
+maritime blockade	historical examples	blockade of germany during world war i
+maritime blockade	historical examples	blockade of cuba during the cuban missile crisis
+maritime blockade	effects	economic hardship
+maritime blockade	effects	humanitarian crisis
+maritime blockade	international law	considered an act of war
+maritime blockade	international law	regulated by international law
+dry bulk cargo	type	grains
+dry bulk cargo	type	ores
+dry bulk cargo	type	coal
+dry bulk cargo	type	cement
+dry bulk cargo	transportation method	ship
+dry bulk cargo	transportation method	truck
+dry bulk cargo	transportation method	train
+dry bulk cargo	destination	power plant
+dry bulk cargo	destination	factory
+dry bulk cargo	destination	farm
+dry bulk cargo	size	large quantity
+dry bulk cargo	size	heavy weight
+dry bulk cargo	handling	careful loading
+dry bulk cargo	handling	specialized equipment
+dry bulk cargo	storage	warehouse
+dry bulk cargo	storage	silos
+dry bulk cargo	industry	agriculture
+dry bulk cargo	industry	construction
+dry bulk cargo	industry	energy
+shipping channel	definition	narrow waterway
+shipping channel	definition	connecting sea and sea
+shipping channel	definition	allowing ships to pass
+shipping channel	purpose	facilitating international trade
+shipping channel	purpose	avoiding land routes
+shipping channel	purpose	reducing travel time
+shipping channel	features	narrow and winding
+shipping channel	features	deep enough for large ships
+shipping channel	features	well-marked for navigation
+shipping channel	location	coastal areas
+shipping channel	location	between islands
+shipping channel	location	connecting two seas
+shipping channel	importance	strategic
+shipping channel	importance	economic
+shipping channel	importance	environmentally sensitive
+transportation device	mode	car
+transportation device	mode	airplane
+transportation device	mode	train
+transportation device	mode	bus
+transportation device	mode	ship
+transportation device	mode	bicycle
+transportation device	mode	motorcycle
+transportation device	propulsion	engine
+transportation device	propulsion	electric
+transportation device	propulsion	human power
+transportation device	propulsion	wind
+transportation device	speed	fast
+transportation device	speed	slow
+transportation device	speed	high
+transportation device	speed	low
+transportation device	capacity	single
+transportation device	capacity	multiple
+transportation device	capacity	massive
+transportation device	purpose	personal
+transportation device	purpose	commercial
+transportation device	purpose	recreational
+transportation device	location	road
+transportation device	location	air
+transportation device	location	water
+transportation device	location	track
+transportation device	location	trail
+transportation device	technology	manual
+transportation device	technology	mechanical
+transportation device	technology	electronic
+transportation device	technology	hybrid
+motor scooter	vehicle type	two-wheeled
+motor scooter	vehicle type	motorized
+motor scooter	mode of transport	personal
+motor scooter	mode of transport	commuting
+motor scooter	mode of transport	recreational
+motor scooter	engine type	gasoline
+motor scooter	engine type	electric
+motor scooter	engine type	hybrid
+motor scooter	speed	moderate
+motor scooter	speed	up to 50 km/h
+motor scooter	design	compact
+motor scooter	design	foldable
+motor scooter	used for	daily commute
+motor scooter	used for	weekend rides
+motor scooter	used for	long distance travel
+motor scooter	features	brakes
+motor scooter	features	lights
+motor scooter	features	suspension
+motor scooter	features	storage space
+fishing trawler	type	vessel
+fishing trawler	type	boat
+fishing trawler	type	fishing gear
+fishing trawler	purpose	fishing
+fishing trawler	purpose	catching fish
+fishing trawler	purpose	commercial fishing
+fishing trawler	size	large
+fishing trawler	size	medium
+fishing trawler	size	small
+fishing trawler	propulsion	engine
+fishing trawler	propulsion	sail
+fishing trawler	propulsion	manual
+fishing trawler	location	ocean
+fishing trawler	location	sea
+fishing trawler	location	coast
+fishing trawler	method	trawling
+fishing trawler	method	fishing net
+fishing trawler	method	fishing line
+fishing trawler	cruising speed	slow
+fishing trawler	cruising speed	medium
+fishing trawler	cruising speed	fast
+navigation light	type	beacon
+navigation light	type	buoy
+navigation light	type	lighthouse
+navigation light	function	aiding navigation
+navigation light	function	providing warning
+navigation light	location	coast
+navigation light	location	waterway
+navigation light	location	harbor
+navigation light	characteristics	visible from distance
+navigation light	characteristics	aiding night navigation
+navigation light	regulations	regulated by maritime authorities
+navigation light	regulations	subject to international regulations
+navigation light	used for	marine navigation
+navigation light	used for	safety of mariners
+navigation light	used for	preventing collisions
+transportation schedule	format	timetable
+transportation schedule	format	calendar
+transportation schedule	purpose	planning
+transportation schedule	purpose	organizing
+transportation schedule	purpose	informing
+transportation schedule	content	departure and arrival times
+transportation schedule	content	route information
+transportation schedule	content	fare details
+transportation schedule	source	online platform
+transportation schedule	source	printed brochure
+transportation schedule	source	mobile app
+transportation schedule	update frequency	daily
+transportation schedule	update frequency	weekly
+transportation schedule	update frequency	monthly
+transportation schedule	scope	local
+transportation schedule	scope	national
+transportation schedule	scope	international
+transportation schedule	audience	passengers
+transportation schedule	audience	drivers
+transportation schedule	audience	logistics managers
+managing	definition	oversight
+managing	definition	control
+managing	definition	direction
+managing	responsibility	task
+managing	responsibility	project
+managing	responsibility	team
+managing	skill	leadership
+managing	skill	organization
+managing	skill	communication
+managing	context	business
+managing	context	personal
+managing	context	team
+managing	goal	efficiency
+managing	goal	productivity
+managing	goal	success
+managing	style	autocratic
+managing	style	democratic
+managing	style	participative
+turboprop airplane	type	aircraft
+turboprop airplane	type	propeller-driven
+turboprop airplane	type	regional airliner
+turboprop airplane	propulsion	turboprop engine
+turboprop airplane	propulsion	jet engine
+turboprop airplane	propulsion	propeller
+turboprop airplane	size	medium
+turboprop airplane	size	large
+turboprop airplane	speed	low
+turboprop airplane	speed	medium
+turboprop airplane	speed	high
+turboprop airplane	range	short
+turboprop airplane	range	medium
+turboprop airplane	range	long
+turboprop airplane	used for	regional flights
+turboprop airplane	used for	cargo transport
+turboprop airplane	used for	military operations
+turboprop airplane	characteristics	high efficiency
+turboprop airplane	characteristics	low noise
+turboprop airplane	characteristics	high reliability
+jet airplane	mode of transportation	air
+jet airplane	mode of transportation	fast
+jet airplane	mode of transportation	long distance
+jet airplane	propulsion	jet engine
+jet airplane	propulsion	turbofan
+jet airplane	size	large
+jet airplane	size	heavy
+jet airplane	speed	high
+jet airplane	speed	sonic
+jet airplane	range	long
+jet airplane	range	transcontinental
+jet airplane	use	passenger travel
+jet airplane	use	cargo transport
+jet airplane	use	military
+jet airplane	components	wings
+jet airplane	components	engines
+jet airplane	components	cockpit
+jet airplane	components	tail
+jet airplane	aircraft types	commercial airliner
+jet airplane	aircraft types	business jet
+jet airplane	aircraft types	military jet
+jet airplane	aircraft types	fighter jet
+organic compound	definition	carbon-based molecule
+organic compound	definition	non-metallic
+organic compound	definition	not containing hydrogen
+organic compound	structure	chain-like
+organic compound	structure	ring-like
+organic compound	structure	branching
+organic compound	properties	soluble
+organic compound	properties	insoluble
+organic compound	properties	volatile
+organic compound	properties	non-volatile
+organic compound	examples	sugar
+organic compound	examples	fat
+organic compound	examples	protein
+organic compound	occurrence	living organisms
+organic compound	occurrence	environment
+organic compound	occurrence	food
+organic compound	occurrence	medicine
+organic compound	characteristics	highly reactive
+organic compound	characteristics	non-reactive
+organic compound	characteristics	colorless
+organic compound	characteristics	colored
+atmospheric region	type	stratosphere
+atmospheric region	type	troposphere
+atmospheric region	type	mesosphere
+atmospheric region	type	thermosphere
+atmospheric region	layer	lower
+atmospheric region	layer	upper
+atmospheric region	layer	middle
+atmospheric region	temperature	increasing
+atmospheric region	temperature	decreasing
+atmospheric region	composition	oxygen
+atmospheric region	composition	nitrogen
+atmospheric region	composition	argon
+atmospheric region	composition	carbon dioxide
+atmospheric region	function	regulates earth's climate
+atmospheric region	function	supports life
+atmospheric region	function	absorbs solar radiation
+atmospheric region	characteristics	thick
+atmospheric region	characteristics	thin
+atmospheric region	characteristics	hot
+atmospheric region	characteristics	cold
+atmospheric region	located at	around earth
+atmospheric region	located at	above earth
+atmospheric region	located at	near earth
+road junction	type	intersection
+road junction	type	crossroads
+road junction	type	roundabout
+road junction	number of roads	three
+road junction	number of roads	four
+road junction	number of roads	five
+road junction	traffic flow	one-way
+road junction	traffic flow	two-way
+road junction	traffic flow	roundabout
+road junction	control	traffic lights
+road junction	control	stop signs
+road junction	control	roundabout
+road junction	location	urban
+road junction	location	rural
+road junction	location	highway
+road junction	function	connecting roads
+road junction	function	distributing traffic
+road junction	function	providing access
+road junction	safety	high risk
+road junction	safety	medium risk
+road junction	safety	low risk
+passenger car	category	vehicle
+passenger car	category	transportation
+passenger car	size	compact
+passenger car	size	medium
+passenger car	size	large
+passenger car	shape	sedan
+passenger car	shape	suv
+passenger car	shape	hatchback
+passenger car	features	air conditioning
+passenger car	features	power windows
+passenger car	features	infotainment system
+passenger car	used for	daily commute
+passenger car	used for	road trip
+passenger car	used for	business meetings
+passenger car	propulsion	gasoline
+passenger car	propulsion	electric
+passenger car	propulsion	hybrid
+passenger car	location	parking lot
+passenger car	location	highway
+passenger car	location	garage
+passenger car	capacity	number of seats
+passenger car	capacity	luggage space
+air traffic control procedure	purpose	ensuring safe flight
+air traffic control procedure	purpose	avoiding collisions
+air traffic control procedure	methods	communication
+air traffic control procedure	methods	radar
+air traffic control procedure	methods	visual observation
+air traffic control procedure	involved entities	pilots
+air traffic control procedure	involved entities	controllers
+air traffic control procedure	involved entities	airplanes
+air traffic control procedure	involved entities	airports
+air traffic control procedure	phases	pre-flight
+air traffic control procedure	phases	in-flight
+air traffic control procedure	phases	post-flight
+air traffic control procedure	rules and regulations	standard procedures
+air traffic control procedure	rules and regulations	regulatory bodies
+air traffic control procedure	rules and regulations	international agreements
+air traffic control procedure	tools and equipment	radars
+air traffic control procedure	tools and equipment	communication devices
+air traffic control procedure	tools and equipment	flight planning software
+keeping	method	storing
+keeping	method	preserving
+keeping	method	conserving
+keeping	duration	short term
+keeping	duration	long term
+keeping	duration	permanent
+keeping	object	item
+keeping	object	thing
+keeping	object	asset
+keeping	purpose	safekeeping
+keeping	purpose	maintenance
+keeping	purpose	protection
+keeping	location	place
+keeping	location	spot
+keeping	location	area
+keeping	responsibility	individual
+keeping	responsibility	group
+keeping	responsibility	organization
+air traffic control center	function	air traffic control
+air traffic control center	function	air traffic management
+air traffic control center	function	aviation safety
+air traffic control center	location	airport
+air traffic control center	location	control tower
+air traffic control center	location	radar station
+air traffic control center	equipment	radar
+air traffic control center	equipment	communication systems
+air traffic control center	equipment	computer systems
+air traffic control center	staff	controllers
+air traffic control center	staff	air traffic controllers
+air traffic control center	staff	meteorologists
+air traffic control center	responsibilities	aircraft separation
+air traffic control center	responsibilities	flight planning
+air traffic control center	responsibilities	weather forecasting
+air traffic control center	communication	radio
+air traffic control center	communication	phone
+air traffic control center	communication	data link
+ship hatch	function	allowing entry and exit
+ship hatch	function	providing access to deck
+ship hatch	location	on deck
+ship hatch	location	below deck
+ship hatch	type	emergency hatch
+ship hatch	type	standard hatch
+ship hatch	material	metal
+ship hatch	material	glass
+ship hatch	operation	opening and closing
+ship hatch	operation	locking and unlocking
+ship hatch	safety feature	emergency release
+ship hatch	safety feature	hinge
+ship hatch	usage	for crew and passengers
+ship hatch	usage	for cargo and supplies
+ship register	purpose	official record
+ship register	purpose	register of ships
+ship register	purpose	identification
+ship register	contents	list of ships
+ship register	contents	information about ships
+ship register	contents	ship details
+ship register	maintenance	updated regularly
+ship register	maintenance	maintained by authorities
+ship register	maintenance	accurate records
+ship register	use	for navigation
+ship register	use	for customs
+ship register	use	for insurance
+ship register	authority	government agency
+ship register	authority	port authority
+ship register	authority	maritime authority
+ship register	format	digital
+ship register	format	physical
+ship register	format	online database
+shipping lane	location	ocean
+shipping lane	location	sea
+shipping lane	location	gulf
+shipping lane	function	route for ships
+shipping lane	function	shipping route
+shipping lane	function	maritime route
+shipping lane	usage	commercial
+shipping lane	usage	military
+shipping lane	usage	recreational
+shipping lane	characteristics	narrow
+shipping lane	characteristics	busy
+shipping lane	characteristics	popular
+shipping lane	regulation	regulated by
+shipping lane	regulation	monitored by
+shipping lane	regulation	managed by
+shipping lane	importance	strategic
+shipping lane	importance	economic
+shipping lane	importance	environmental
+parking garage	function	parking cars
+parking garage	function	storing vehicles
+parking garage	structure	multi-story
+parking garage	structure	enclosed
+parking garage	location	city
+parking garage	location	mall
+parking garage	location	airport
+parking garage	location	office building
+parking garage	size	large
+parking garage	size	small
+parking garage	facilities	elevators
+parking garage	facilities	stairs
+parking garage	facilities	pay machines
+parking garage	security	cameras
+parking garage	security	guards
+parking garage	security	security gates
+parking garage	access	entrance
+parking garage	access	exit
+parking garage	access	parking spots
+sport utility vehicle	type	vehicle
+sport utility vehicle	type	off-road vehicle
+sport utility vehicle	type	four-wheel drive
+sport utility vehicle	size	large
+sport utility vehicle	size	heavy
+sport utility vehicle	design	rugged
+sport utility vehicle	design	aggressive
+sport utility vehicle	design	angular
+sport utility vehicle	features	high ground clearance
+sport utility vehicle	features	four-wheel drive
+sport utility vehicle	features	all-wheel drive
+sport utility vehicle	uses	off-road driving
+sport utility vehicle	uses	towing
+sport utility vehicle	uses	daily driving
+sport utility vehicle	characteristics	powerful engine
+sport utility vehicle	characteristics	good suspension
+sport utility vehicle	characteristics	spacious interior
+sport utility vehicle	target audience	outdoor enthusiasts
+sport utility vehicle	target audience	families
+sport utility vehicle	target audience	adventurers
+relational attribute	definition	property that depends on another property
+relational attribute	example	age depends on date of birth
+relational attribute	types	dependent
+relational attribute	types	independent
+relational attribute	usage	used in database design
+relational attribute	usage	used in data modeling
+relational attribute	characteristics	variable
+relational attribute	characteristics	measurable
+relational attribute	relationship	one-to-one
+relational attribute	relationship	one-to-many
+relational attribute	relationship	many-to-many
+international airport	function	facilitate travel
+international airport	function	handle international flights
+international airport	function	provide amenities
+international airport	features	runways
+international airport	features	terminal buildings
+international airport	features	security checks
+international airport	operations	24/7 operations
+international airport	operations	multiple gates
+international airport	operations	baggage handling
+international airport	facilities	restaurants
+international airport	facilities	shops
+international airport	facilities	lounges
+international airport	security measures	customs checks
+international airport	security measures	immigration controls
+international airport	security measures	tsa screening
+international airport	location	near city
+international airport	location	near highway
+international airport	location	near seaport
+organic object	origin	nature
+organic object	origin	earth
+organic object	origin	soil
+organic object	composition	carbon-based
+organic object	composition	non-synthetic
+organic object	composition	biodegradable
+organic object	structure	living
+organic object	structure	complex
+organic object	structure	self-replicating
+organic object	function	supports life
+organic object	function	provides nutrients
+organic object	function	regulates ecosystem
+organic object	examples	tree
+organic object	examples	bacteria
+organic object	examples	worm
+organic object	characteristics	growing
+organic object	characteristics	changing
+organic object	characteristics	interactive
+truck trailer	purpose	transporting goods
+truck trailer	purpose	hauled by truck
+truck trailer	size	varies
+truck trailer	size	large
+truck trailer	size	long
+truck trailer	structure	metal
+truck trailer	structure	rigid
+truck trailer	features	wheels
+truck trailer	features	axles
+truck trailer	features	coupling
+truck trailer	usage	logistics
+truck trailer	usage	commerce
+truck trailer	usage	industry
+truck trailer	design	customizable
+truck trailer	design	standardized
+truck trailer	attached to	truck
+truck trailer	attached to	tractor
+truck trailer	attached to	tow vehicle
+legal charge	type	fine
+legal charge	type	penalty
+legal charge	type	fee
+legal charge	purpose	punishment
+legal charge	purpose	compensation
+legal charge	purpose	reparation
+legal charge	amount	fixed
+legal charge	amount	variable
+legal charge	payment method	cash
+legal charge	payment method	check
+legal charge	payment method	online transfer
+legal charge	context	court
+legal charge	context	traffic
+legal charge	context	tax
+legal charge	frequency	one-time
+legal charge	frequency	recurring
+legal charge	importance	serious
+legal charge	importance	minor
+electronic device	type	computer
+electronic device	type	phone
+electronic device	type	tv
+electronic device	type	gaming console
+electronic device	function	process information
+electronic device	function	communicate
+electronic device	function	entertain
+electronic device	function	store data
+electronic device	power source	battery
+electronic device	power source	electricity
+electronic device	power source	rechargeable
+electronic device	power source	solar
+electronic device	size	portable
+electronic device	size	desktop
+electronic device	size	large
+electronic device	size	small
+electronic device	interface	touchscreen
+electronic device	interface	keyboard
+electronic device	interface	mouse
+electronic device	interface	voice
+electronic device	usage	personal
+electronic device	usage	professional
+electronic device	usage	entertainment
+electronic device	usage	education
+electronic device	components	processor
+electronic device	components	memory
+electronic device	components	screen
+electronic device	components	speaker
+liner service	purpose	transport people
+liner service	purpose	transport goods
+liner service	purpose	provide regular route
+liner service	type	airline
+liner service	type	shipping company
+liner service	type	bus company
+liner service	frequency	daily
+liner service	frequency	weekly
+liner service	frequency	monthly
+liner service	route	fixed route
+liner service	route	variable route
+liner service	vehicle	plane
+liner service	vehicle	ship
+liner service	vehicle	bus
+liner service	cost	expensive
+liner service	cost	affordable
+liner service	amenities	food and drinks
+liner service	amenities	entertainment
+liner service	amenities	comfortable seating
+fuel tank	purpose	store fuel
+fuel tank	purpose	provide energy
+fuel tank	location	under car
+fuel tank	location	in garage
+fuel tank	location	at gas station
+fuel tank	material	metal
+fuel tank	material	plastic
+fuel tank	material	rubber
+fuel tank	capacity	measured in gallons
+fuel tank	capacity	measured in liters
+fuel tank	connection	connected to engine
+fuel tank	connection	connected to pump
+fuel tank	maintenance	regularly checked
+fuel tank	maintenance	emptied and cleaned
+fuel tank	safety	vented to prevent explosion
+fuel tank	safety	secured to prevent leakage
+fire boat	purpose	fighting fires
+fire boat	purpose	rescue operations
+fire boat	design	large size
+fire boat	design	watercraft
+fire boat	design	firefighting equipment
+fire boat	functions	water cannon
+fire boat	functions	pumps
+fire boat	functions	hose reels
+fire boat	used for	marine firefighting
+fire boat	used for	search and rescue
+fire boat	used for	emergency response
+fire boat	operated by	fire department
+fire boat	operated by	coast guard
+fire boat	operated by	volunteer crew
+fire boat	features	firefighting crew
+fire boat	features	communication equipment
+fire boat	features	navigation systems
+trade embargo	type	economic
+trade embargo	type	diplomatic
+trade embargo	purpose	punish
+trade embargo	purpose	deter
+trade embargo	purpose	protect
+trade embargo	characteristics	prohibits
+trade embargo	characteristics	limits
+trade embargo	characteristics	regulates
+trade embargo	implementation	unilateral
+trade embargo	implementation	multilateral
+trade embargo	implementation	international agreement
+trade embargo	duration	temporary
+trade embargo	duration	permanent
+trade embargo	consequences	economic loss
+trade embargo	consequences	humanitarian crisis
+trade embargo	consequences	diplomatic tension
+offshore anchorage	location	ocean
+offshore anchorage	location	sea
+offshore anchorage	location	coastal area
+offshore anchorage	function	providing safe haven
+offshore anchorage	function	protecting vessels
+offshore anchorage	function	ensuring navigation
+offshore anchorage	characteristics	stable
+offshore anchorage	characteristics	sheltered
+offshore anchorage	characteristics	deep water
+offshore anchorage	types	buoy
+offshore anchorage	types	beacon
+offshore anchorage	types	anchorage zone
+offshore anchorage	importance	ensuring maritime safety
+offshore anchorage	importance	facilitating navigation
+offshore anchorage	importance	protecting marine life
+offshore anchorage	regulation	international regulations
+offshore anchorage	regulation	local authorities
+offshore anchorage	regulation	maritime laws
+offshore anchorage	used by	maritime vessels
+offshore anchorage	used by	ships
+offshore anchorage	used by	yachts
+surfaced roadway	material	asphalt
+surfaced roadway	material	concrete
+surfaced roadway	material	gravel
+surfaced roadway	function	driving
+surfaced roadway	function	parking
+surfaced roadway	function	pedestrian path
+surfaced roadway	width	single lane
+surfaced roadway	width	multi-lane
+surfaced roadway	width	wide
+surfaced roadway	surface condition	smooth
+surfaced roadway	surface condition	rough
+surfaced roadway	surface condition	paved
+surfaced roadway	location	city street
+surfaced roadway	location	highway
+surfaced roadway	location	rural road
+surfaced roadway	maintenance	regularly maintained
+surfaced roadway	maintenance	neglected
+surfaced roadway	traffic volume	heavy
+surfaced roadway	traffic volume	light
+surfaced roadway	traffic volume	medium
+internal attribute	nature	hidden
+internal attribute	nature	private
+internal attribute	nature	personal
+internal attribute	access	difficult
+internal attribute	access	hard to access
+internal attribute	access	only accessible to owner
+internal attribute	importance	high
+internal attribute	importance	crucial
+internal attribute	importance	vital
+internal attribute	relevance	relevant
+internal attribute	relevance	important
+internal attribute	relevance	meaningful
+internal attribute	scope	limited
+internal attribute	scope	specific
+internal attribute	scope	confined
+internal attribute	relationship	intimate
+internal attribute	relationship	close
+internal attribute	relationship	connected
+diesel engine	type	internal combustion
+diesel engine	type	heavy-duty
+diesel engine	fuel	diesel
+diesel engine	fuel	oil
+diesel engine	power source	chemical energy
+diesel engine	power source	combustion
+diesel engine	application	transportation
+diesel engine	application	industry
+diesel engine	application	construction
+diesel engine	efficiency	high torque
+diesel engine	efficiency	low emissions
+diesel engine	components	cylinders
+diesel engine	components	pistons
+diesel engine	components	fuel injectors
+diesel engine	maintenance	regular oil changes
+diesel engine	maintenance	filter replacements
+diesel engine	history	invented by rudolf diesel
+diesel engine	history	first used in 1913
+transportation company	industry	logistics
+transportation company	industry	shipping
+transportation company	industry	delivery
+transportation company	services	air freight
+transportation company	services	land transportation
+transportation company	services	sea freight
+transportation company	vehicles	trucks
+transportation company	vehicles	planes
+transportation company	vehicles	ships
+transportation company	employees	drivers
+transportation company	employees	pilots
+transportation company	employees	mechanics
+transportation company	purpose	moving goods
+transportation company	purpose	supply chain management
+transportation company	revenue source	shipping fees
+transportation company	revenue source	customs duties
+transportation company	revenue source	insurance claims
+transportation company	location	headquarters
+transportation company	location	warehouses
+transportation company	location	ports
+offshore supply ship	function	providing supplies
+offshore supply ship	function	transporting personnel
+offshore supply ship	size	large
+offshore supply ship	size	medium
+offshore supply ship	location	offshore oil rigs
+offshore supply ship	location	seas
+offshore supply ship	location	oceans
+offshore supply ship	type	tanker
+offshore supply ship	type	cargo ship
+offshore supply ship	type	service vessel
+offshore supply ship	features	winches
+offshore supply ship	features	cranes
+offshore supply ship	features	lifeboats
+offshore supply ship	operation	24/7
+offshore supply ship	operation	seasonal
+offshore supply ship	operation	weather dependent
+offshore supply ship	crew	skilled
+offshore supply ship	crew	experienced
+offshore supply ship	crew	trained
+passenger railway car	type	commuter
+passenger railway car	type	high-speed
+passenger railway car	type	tourist
+passenger railway car	features	seats
+passenger railway car	features	tables
+passenger railway car	features	windows
+passenger railway car	features	doors
+passenger railway car	size	small
+passenger railway car	size	medium
+passenger railway car	size	large
+passenger railway car	accommodation	first class
+passenger railway car	accommodation	second class
+passenger railway car	accommodation	third class
+passenger railway car	luxury level	basic
+passenger railway car	luxury level	mid-range
+passenger railway car	luxury level	luxurious
+passenger railway car	purpose	daily commute
+passenger railway car	purpose	long-distance travel
+passenger railway car	purpose	tourist excursion
+passenger railway car	environment	indoor
+passenger railway car	environment	outdoor
+passenger railway car	environment	air-conditioned
+passenger railway car	environment	non-air-conditioned
