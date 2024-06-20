@@ -18,6 +18,7 @@ inp_file = "data/ontology_concepts/transport_vocab.txt"
 
 wine_ontology_file = "data/ontology_concepts/wine/wine_vocab.txt"
 olympics_ontology_file = "data/ontology_concepts/olympics/olympics_vocab.txt"
+economics_ontology_file = "data/ontology_concepts/economy/economy_vocab.txt"
 
 # Quantization configuration
 bnb_config = BitsAndBytesConfig(
@@ -45,7 +46,7 @@ pipeline = transformers.pipeline(
     "text-generation", model=model, device_map="auto", tokenizer=tokenizer
 )
 
-with open(olympics_ontology_file, "r") as inp_file:
+with open(economics_ontology_file, "r") as inp_file:
     concepts = inp_file.readlines()
 concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 
@@ -172,7 +173,7 @@ concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in co
 repeat_times = 10
 
 file_name = (
-    f"llama3_repeat{repeat_times}_concept_facet_property_olympics_onto_concepts.txt"
+    f"llama3_repeat{repeat_times}_concept_facet_property_economy_onto_concepts.txt"
 )
 
 with open(file_name, "w") as out_file:
