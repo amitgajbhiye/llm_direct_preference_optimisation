@@ -10,11 +10,13 @@ from sklearn.preprocessing import StandardScaler
 # file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_property_property_embeddings.pkl"
 
 file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
-hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
 
+transport_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
 wine_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_wine_facet_colon__property_embeddings.pkl"
 
-with open(wine_hawk_file, "rb") as pkl_inp:
+olympics_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_olympics_facet_colon__property_embeddings.pkl"
+
+with open(olympics_hawk_file, "rb") as pkl_inp:
     prop_embed = pickle.load(pkl_inp)
 
 properties = list(prop_embed.keys())
@@ -45,7 +47,7 @@ if cluster_algo == "affinity_propogation":
     for prop, cluster in prop_cluster_list:
         print(prop, cluster)
 
-    output_file = "bienc_entropy_bert_large_cnetpchatgpt_llama3_wine_facet_colon_property_embeddings_affinity_propogation_clusters"
+    output_file = "bienc_entropy_bert_large_cnetpchatgpt_llama3_olympics_facet_colon_property_embeddings_affinity_propogation_clusters"
 
     df = pd.DataFrame(
         prop_cluster_list, columns=["facet_property", "cluster_label"]
