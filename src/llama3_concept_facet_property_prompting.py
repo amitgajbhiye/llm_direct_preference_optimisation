@@ -24,8 +24,9 @@ economics_ontology_file = "data/ontology_concepts/economy/economy_vocab.txt"
 # Evaluation Taxonomy
 food_taxo = "data/evaluation_taxo/terms/food.terms"
 equipment_taxo = "data/evaluation_taxo/terms/equipment.terms"
+science_taxo = "data/evaluation_taxo/terms/science.terms"
 
-df = pd.read_csv(equipment_taxo, sep="\t", names=["id", "concept"])
+df = pd.read_csv(science_taxo, sep="\t", names=["id", "concept"])
 
 
 # Quantization configuration
@@ -183,7 +184,7 @@ concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in co
 repeat_times = 10
 
 file_name = (
-    f"llama3_repeat{repeat_times}_concept_facet_property_equipment_onto_concepts.txt"
+    f"llama3_repeat{repeat_times}_concept_facet_property_science_onto_concepts.txt"
 )
 
 with open(file_name, "w") as out_file:
