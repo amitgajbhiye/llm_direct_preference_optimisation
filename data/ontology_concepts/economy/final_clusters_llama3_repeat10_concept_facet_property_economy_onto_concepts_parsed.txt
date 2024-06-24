@@ -1,0 +1,579 @@
+concept	facet	property	facet_property	cluster_label
+khat	uses	recreational	uses: recreational	10
+controlled substance	purpose	recreational	purpose: recreational	10
+controlled substance	usage	recreational	usage: recreational	10
+khat	usage	recreational	usage: recreational	10
+turkey	physical characteristics	wings	physical characteristics: wings	20
+beverage product	purpose	relaxation	purpose: relaxation	33
+forest product	benefits	environmental	benefits: environmental	45
+organic object	environmental impact	eco-friendly	environmental impact: eco-friendly	45
+petroleum lubricant	environmental impact	eco-friendly	environmental impact: eco-friendly	45
+cooking range	type	hybrid	type: hybrid	46
+motor oil	type	hybrid	type: hybrid	46
+ornamental fish	type	aquatic	type: aquatic	52
+food egg	category	breakfast food	category: breakfast food	56
+passion fruit	used for	dessert	used for: dessert	56
+compound substance	characteristics	stable	characteristics: stable	61
+compound substance	characteristics	unstable	characteristics: unstable	61
+agricultural product	characteristics	versatile	characteristics: versatile	64
+industry	characteristics	competitive	characteristics: competitive	65
+economic sector	characteristics	competitive	characteristics: competitive	65
+cotton fiber	characteristics	lightweight	characteristics: lightweight	66
+jute fiber	characteristics	durable	characteristics: durable	66
+wool fiber	characteristics	durable	characteristics: durable	66
+natural rubber	characteristics	durable	characteristics: durable	66
+motor oil	characteristics	durable	characteristics: durable	66
+manufactured product	characteristics	durable	characteristics: durable	66
+semiprecious gemstone	characteristics	durable	characteristics: durable	66
+cotton fiber	characteristics	durable	characteristics: durable	66
+balsa wood	type	lightweight	type: lightweight	66
+animal skin	characteristics	durable	characteristics: durable	66
+capital good	characteristics	durable	characteristics: durable	66
+cut flower	appearance	delicate	appearance: delicate	68
+flowering plant	appearance	delicate	appearance: delicate	68
+motor oil	characteristics	smooth	characteristics: smooth	70
+handicraft product	characteristics	unique	characteristics: unique	74
+organic object	characteristics	unique	characteristics: unique	74
+lead product	characteristics	unique	characteristics: unique	74
+relational attribute	characteristics	unique	characteristics: unique	74
+relational attribute	type	unique	type: unique	74
+electric device	shape	flat	shape: flat	76
+metal product	shape	flat	shape: flat	76
+tea leaf	shape	flat	shape: flat	76
+fruit or vegetable	appearance	colorful	appearance: colorful	81
+precious gemstone	appearance	colorful	appearance: colorful	81
+textile product	color	monochromatic	color: monochromatic	81
+ornamental fish	color	colorful	color: colorful	81
+flowering plant	appearance	colorful	appearance: colorful	81
+textile product	appearance	colorful	appearance: colorful	81
+ornamental fish	appearance	colorful	appearance: colorful	81
+cut flower	appearance	colorful	appearance: colorful	81
+semiprecious gemstone	appearance	colorful	appearance: colorful	81
+grocery produce	appearance	colorful	appearance: colorful	81
+change of possession	common in	everyday life	common in: everyday life	83
+manufactured product	purpose	communication	purpose: communication	88
+manufactured product	function	communication	function: communication	88
+electric device	used for	communication	used for: communication	88
+electric device	purpose	communication	purpose: communication	88
+alumina	applications	water treatment	applications: water treatment	106
+durable good	maintenance	low maintenance	maintenance: low maintenance	114
+water buffalo	conservation status	endangered	conservation status: endangered	116
+currency	country	usa	country: usa	117
+euro	countries	germany	countries: germany	117
+cut flower	duration	temporary	duration: temporary	155
+capital good	duration	long-term	duration: long-term	157
+food fish	habitat	river	habitat: river	165
+fish	location	river	location: river	165
+food fish	location	river	location: river	165
+fish	habitat	river	habitat: river	165
+ornamental fish	habitat	river	habitat: river	165
+citrus fruit	season	winter	season: winter	166
+sweet pepper	season	winter	season: winter	166
+flowering plant	environment	forest	environment: forest	167
+flowering plant	location	forest	location: forest	167
+mulberry leaf	location	forest	location: forest	167
+hoofed mammal	habitat	forest	habitat: forest	167
+flowering plant	habitat	garden	habitat: garden	167
+wood product	location	forest	location: forest	167
+mulberry leaf	habitat	forest	habitat: forest	167
+mulberry leaf	habitat	garden	habitat: garden	167
+turkey	habitat	forest	habitat: forest	167
+flowering plant	habitat	forest	habitat: forest	167
+organic object	location	water	location: water	168
+ornamental fish	type	freshwater	type: freshwater	168
+flowering plant	environment	water	environment: water	168
+fish	type	freshwater	type: freshwater	168
+ornamental fish	habitat	freshwater	habitat: freshwater	168
+industrial supply	type	equipment	type: equipment	183
+electric device	located at	store	located at: store	183
+macadamia nut	used for	making trail mix	used for: making trail mix	189
+hoofed mammal	used for	riding	used for: riding	202
+financial transaction	frequency	recurring	frequency: recurring	271
+change of possession	frequency	rare	frequency: rare	271
+financial transaction	frequency	daily	frequency: daily	271
+financial transaction	frequency	regular	frequency: regular	271
+financial transaction	frequency	one-time	frequency: one-time	271
+change of possession	frequency	occasional	frequency: occasional	271
+financial transaction	frequency	infrequent	frequency: infrequent	271
+anatomical structure	function	support	function: support	273
+italian lira	usage	business	usage: business	275
+electric device	connection	wired	connection: wired	278
+currency	type	digital	type: digital	280
+fish	habitat	ocean	habitat: ocean	305
+food fish	habitat	ocean	habitat: ocean	305
+fish	habitat	lake	habitat: lake	306
+ornamental fish	habitat	lake	habitat: lake	306
+food fish	location	lake	location: lake	306
+ornamental fish	habitats	aquarium	habitats: aquarium	306
+ornamental fish	habitat	aquarium	habitat: aquarium	306
+flowering plant	habitat	meadow	habitat: meadow	306
+ornamental fish	habitats	pond	habitats: pond	306
+food fish	habitat	lake	habitat: lake	306
+ornamental fish	habitat	pond	habitat: pond	306
+fish	location	lake	location: lake	306
+controlled substance	legality	regulated	legality: regulated	327
+controlled substance	legality	restricted	legality: restricted	327
+major appliance	location	gym	location: gym	338
+cereal grass	environment	field	environment: field	339
+forage crop	location	field	location: field	339
+sugar cane	location	fields	location: fields	339
+crop production	location	field	location: field	339
+cereal grass	location	fields	location: fields	339
+food fish	location	ocean	location: ocean	341
+organic object	location	air	location: air	341
+fish	location	ocean	location: ocean	341
+kentia palm seed	location	garden	location: garden	345
+flowering plant	location	garden	location: garden	345
+cooking range	location	outdoor	location: outdoor	345
+electric device	location	outdoor	location: outdoor	345
+crop production	location	garden	location: garden	345
+cooking range	placement	outdoor	placement: outdoor	345
+major appliance	location	outdoor	location: outdoor	345
+mulberry leaf	location	garden	location: garden	345
+lead ore	location	underground	location: underground	349
+zinc ore	location	underground	location: underground	349
+copper ore	location	underground	location: underground	349
+iron ore	location	underground	location: underground	349
+cooking range	usage	home	usage: home	350
+manufactured product	location	home	location: home	350
+power generation	location	home	location: home	350
+product package	location	home	location: home	350
+electric device	location	home	location: home	350
+financial transaction	location	home	location: home	350
+paddy rice	location	home	location: home	350
+wood product	location	home	location: home	350
+electric device	usage	home	usage: home	350
+metal product	location	home	location: home	350
+manufactured product	location	office	location: office	351
+industrial supply	location	office	location: office	351
+electric device	location	office	location: office	351
+financial transaction	location	office	location: office	351
+electric device	located at	home	located at: home	351
+major appliance	location	office	location: office	351
+crop production	location	farm	location: farm	352
+wheat grain	location	farm	location: farm	352
+cereal grass	location	farm	location: farm	352
+forage crop	location	farm	location: farm	352
+sugar cane	location	farm	location: farm	352
+power generation	location	urban	location: urban	353
+flowering plant	habitat	desert	habitat: desert	358
+hoofed mammal	habitat	desert	habitat: desert	358
+flowering plant	location	desert	location: desert	358
+major appliance	maintenance	regular cleaning	maintenance: regular cleaning	360
+major appliance	maintenance	easy	maintenance: easy	360
+cooking range	material	metal	material: metal	362
+handicraft product	material	metal	material: metal	362
+major appliance	material	metal	material: metal	362
+metal product	material	copper	material: copper	362
+metal product	material	aluminum	material: aluminum	362
+cooking range	material	aluminum	material: aluminum	362
+electric device	material	copper	material: copper	362
+electric device	material	metal	material: metal	362
+durable good	material	metal	material: metal	362
+currency	material	metal	material: metal	362
+product package	material	metal	material: metal	362
+wearable item	material	metal	material: metal	362
+metal product	material	metal	material: metal	362
+manufactured product	material	metal	material: metal	362
+durable good	material	wood	material: wood	363
+handicraft product	material	wood	material: wood	363
+wood product	material	wood	material: wood	363
+durable good	materials	wood	materials: wood	363
+wood product	material	wooden	material: wooden	363
+major appliance	material	glass	material: glass	366
+handicraft product	material	glass	material: glass	366
+manufactured product	material	glass	material: glass	366
+cooking range	material	glass	material: glass	366
+semiprecious gemstone	characteristics	fragile	characteristics: fragile	366
+product package	materials	glass	materials: glass	366
+balsa wood	characteristics	fragile	characteristics: fragile	366
+organic object	characteristics	fragile	characteristics: fragile	366
+manufactured product	materials	glass	materials: glass	366
+electric device	material	glass	material: glass	366
+product package	material	glass	material: glass	366
+ornamental fish	movement	gliding	movement: gliding	381
+chemical product	type	natural	type: natural	390
+grocery produce	nutritional content	high in fiber	nutritional content: high in fiber	395
+forage crop	nutritional content	high in fiber	nutritional content: high in fiber	395
+fruit or vegetable	nutritional content	high in fiber	nutritional content: high in fiber	395
+oat grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+sorghum grain	nutrition	high in fiber	nutrition: high in fiber	395
+edible nut	nutritional content	high in fiber	nutritional content: high in fiber	395
+cereal grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+millet grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+food product	nutritional content	high in fiber	nutritional content: high in fiber	395
+date fruit	nutritional content	high in fiber	nutritional content: high in fiber	395
+barley grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+fruit	nutritional content	high in fiber	nutritional content: high in fiber	395
+fish	nutrition	low in fat	nutrition: low in fat	395
+fish product	nutrition	low in fat	nutrition: low in fat	395
+oat grain	nutrition	high in fiber	nutrition: high in fiber	395
+taro tuber	nutrition	high in fiber	nutrition: high in fiber	395
+grocery produce	nutrition	high in fiber	nutrition: high in fiber	395
+rye grain	nutrition	high in fiber	nutrition: high in fiber	395
+almond nut	nutritional content	high in fiber	nutritional content: high in fiber	395
+rye grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+maize grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+sorghum grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+oat grain	texture	crunchy	texture: crunchy	395
+soya	texture	crunchy	texture: crunchy	395
+pepper	texture	crunchy	texture: crunchy	395
+date fruit	texture	crunchy	texture: crunchy	395
+passion fruit	nutritional content	high in fiber	nutritional content: high in fiber	395
+taro tuber	nutritional content	high in fiber	nutritional content: high in fiber	395
+wheat grain	nutritional content	high in fiber	nutritional content: high in fiber	395
+shea nut	texture	crunchy	texture: crunchy	395
+millet grain	texture	crunchy	texture: crunchy	395
+rice grain	texture	crunchy	texture: crunchy	395
+taro tuber	texture	crunchy	texture: crunchy	395
+green pepper	texture	crunchy	texture: crunchy	395
+wheat grain	texture	crunchy	texture: crunchy	395
+food egg	texture	crunchy	texture: crunchy	395
+edible nut	texture	crunchy	texture: crunchy	395
+fish product	texture	crunchy	texture: crunchy	395
+fish roe	texture	crunchy	texture: crunchy	395
+tea leaf	texture	crunchy	texture: crunchy	395
+edible tuber	texture	crunchy	texture: crunchy	395
+cereal grain	texture	crunchy	texture: crunchy	395
+macadamia nut	texture	crunchy	texture: crunchy	395
+cashew nut	texture	crunchy	texture: crunchy	395
+potato tuber	texture	crunchy	texture: crunchy	395
+fruit or vegetable	texture	crunchy	texture: crunchy	395
+almond nut	texture	crunchy	texture: crunchy	395
+fruit	texture	crunchy	texture: crunchy	395
+barley grain	texture	crunchy	texture: crunchy	395
+sweet pepper	texture	crunchy	texture: crunchy	395
+yam tuber	texture	crunchy	texture: crunchy	395
+fruit	nutrition	high in fiber	nutrition: high in fiber	395
+turkey meat	nutrition	good source of iron	nutrition: good source of iron	395
+food product	nutrition	low in fat	nutrition: low in fat	395
+rice grain	nutrition	low in fat	nutrition: low in fat	395
+turkey meat	nutrition	low in fat	nutrition: low in fat	395
+chicken meat	nutrition	low in fat	nutrition: low in fat	395
+food fish	nutrition	low in fat	nutrition: low in fat	395
+root vegetable	texture	crunchy	texture: crunchy	395
+food product	texture	crunchy	texture: crunchy	395
+rye grain	texture	crunchy	texture: crunchy	395
+pecan nut	texture	crunchy	texture: crunchy	395
+potato	texture	crunchy	texture: crunchy	395
+millet grain	nutrition	high in fiber	nutrition: high in fiber	395
+industrial supply	industry	healthcare	industry: healthcare	408
+textile product	use	industrial	use: industrial	408
+electric device	found in	office	found in: office	411
+product package	found in	office	found in: office	411
+water buffalo	origin	europe	origin: europe	414
+pepper	origin	europe	origin: europe	414
+mulberry leaf	origin	europe	origin: europe	414
+almond nut	origin	europe	origin: europe	414
+guernsey cattle	origin	france	origin: france	414
+rye grain	origin	europe	origin: europe	414
+turkey	origin	europe	origin: europe	414
+oat grain	origin	europe	origin: europe	414
+soya	origin	usa	origin: usa	415
+turkey meat	origin	usa	origin: usa	415
+macadamia nut	origin	united states	origin: united states	415
+turkey	origin	united states	origin: united states	415
+pecan nut	origin	united states	origin: united states	415
+pecan nut	origin	north america	origin: north america	416
+turkey	origin	north america	origin: north america	416
+rye grain	origin	north america	origin: north america	416
+cardamom	origin	sweden	origin: sweden	416
+nickel ore	origin	canada	origin: canada	416
+oat grain	origin	scotland	origin: scotland	416
+taro tuber	origin	asia	origin: asia	417
+rye grain	origin	asia	origin: asia	417
+sorghum grain	origin	asia	origin: asia	417
+mulberry leaf	origin	asia	origin: asia	417
+paddy rice	origin	asia	origin: asia	417
+rice grain	origin	asia	origin: asia	417
+oat grain	origin	asia	origin: asia	417
+pepper	origin	asia	origin: asia	417
+sugar cane	origin	asia	origin: asia	417
+yam tuber	origin	asia	origin: asia	417
+soya	origin	asia	origin: asia	417
+water buffalo	origin	asia	origin: asia	417
+millet grain	origin	asia	origin: asia	417
+nickel ore	origin	australia	origin: australia	417
+macadamia nut	origin	australia	origin: australia	417
+handicraft product	origin	traditional	origin: traditional	417
+sorghum grain	origin	australia	origin: australia	417
+tea leaf	origin	japan	origin: japan	417
+kentia palm seed	origin	australia	origin: australia	417
+food product	purpose	pleasure	purpose: pleasure	419
+grocery produce	packaging	box	packaging: box	421
+afghan afghani	material	plastic	material: plastic	421
+durable good	material	plastic	material: plastic	421
+electric device	material	plastic	material: plastic	421
+food product	packaging	box	packaging: box	421
+manufactured product	material	plastic	material: plastic	421
+major appliance	material	plastic	material: plastic	421
+product package	material	plastic	material: plastic	421
+wearable item	material	plastic	material: plastic	421
+hoofed mammal	social behavior	solitary	social behavior: solitary	428
+perfume essence	characteristics	persistent	characteristics: persistent	432
+animal skin	characteristics	strong	characteristics: strong	445
+perfume essence	characteristics	strong	characteristics: strong	445
+jute fiber	characteristics	strong	characteristics: strong	445
+animal skin	characteristics	flexible	characteristics: flexible	451
+jute fiber	characteristics	flexible	characteristics: flexible	451
+natural rubber	characteristics	flexible	characteristics: flexible	451
+animal skin	characteristics	rigid	characteristics: rigid	451
+sisal fiber	characteristics	rigid	characteristics: rigid	451
+cooking range	usage	outdoor	usage: outdoor	478
+ornamental fish	popularity	low	popularity: low	488
+ornamental fish	popularity	popular	popularity: popular	491
+ornamental fish	popularity	high	popularity: high	491
+major appliance	power source	electric	power source: electric	493
+manufactured product	purpose	entertain	purpose: entertain	499
+electric device	usage	entertainment	usage: entertainment	499
+electric device	purpose	entertainment	purpose: entertainment	499
+food product	purpose	entertainment	purpose: entertainment	499
+beverage product	purpose	entertainment	purpose: entertainment	499
+manufactured product	used for	entertainment	used for: entertainment	499
+manufactured product	function	entertainment	function: entertainment	499
+electric device	used for	entertainment	used for: entertainment	499
+durable good	used for	entertainment	used for: entertainment	499
+change of possession	purpose	entertainment	purpose: entertainment	499
+manufactured product	usage	entertainment	usage: entertainment	499
+ornamental fish	purpose	entertainment	purpose: entertainment	499
+manufactured product	purpose	entertainment	purpose: entertainment	499
+ornamental fish	used for	entertainment	used for: entertainment	499
+change of possession	context	sports	context: sports	501
+beverage product	purpose	social gathering	purpose: social gathering	504
+relational attribute	function	connecting	function: connecting	505
+industrial supply	purpose	research	purpose: research	509
+controlled substance	purpose	research	purpose: research	509
+product package	found in	home	found in: home	510
+manufactured product	purpose	decorative	purpose: decorative	510
+electric device	found in	home	found in: home	510
+textile product	use	decorative	use: decorative	510
+ornamental fish	used for	decorative purpose	used for: decorative purpose	510
+product package	design	ornate	design: ornate	510
+ornamental fish	purpose	decorative	purpose: decorative	510
+handicraft product	purpose	decorative	purpose: decorative	510
+cut flower	purpose	decorative	purpose: decorative	510
+handicraft product	purpose	functional	purpose: functional	514
+controlled substance	use	recreational	use: recreational	515
+fish	used for	recreation	used for: recreation	515
+anatomical structure	purpose	protection	purpose: protection	516
+product package	purpose	protection	purpose: protection	516
+product package	function	protect	function: protect	516
+product package	purpose	protect	purpose: protect	516
+product package	purpose	to protect	purpose: to protect	516
+agricultural product	regulation	regulated by government	regulation: regulated by government	536
+financial transaction	scale	global	scale: global	566
+industry	scale	local	scale: local	566
+industry	scale	global	scale: global	566
+economic attribute	scope	global	scope: global	566
+industry	size	global	size: global	566
+sweet pepper	season	summer	season: summer	572
+forage crop	seasonality	summer	seasonality: summer	572
+tropical fruit	season	summer	season: summer	572
+citrus fruit	season	summer	season: summer	572
+green pepper	season	summer	season: summer	572
+root vegetable	shape	long	shape: long	576
+fish	shape	long	shape: long	576
+potato	shape	long	shape: long	576
+wheat grain	shape	long	shape: long	576
+edible tuber	shape	long	shape: long	576
+rice grain	shape	thin	shape: thin	576
+wheat grain	shape	thin	shape: thin	576
+green pepper	shape	long and narrow	shape: long and narrow	576
+mulberry leaf	shape	long	shape: long	576
+potato tuber	shape	long	shape: long	576
+green pepper	shape	curved	shape: curved	576
+metal product	shape	curved	shape: curved	576
+rice grain	shape	curved	shape: curved	576
+green pepper	shape	long	shape: long	576
+rice grain	shape	long	shape: long	576
+sweet pepper	shape	curved	shape: curved	576
+anatomical structure	shape	curved	shape: curved	576
+yam tuber	shape	curved	shape: curved	576
+yam tuber	shape	long	shape: long	576
+metal product	shape	long	shape: long	576
+product package	shape	curved	shape: curved	576
+sweet pepper	shape	long	shape: long	576
+tea leaf	shape	curved	shape: curved	576
+wheat grain	shape	curved	shape: curved	576
+oat grain	shape	round	shape: round	577
+edible tuber	shape	round	shape: round	577
+wheat grain	shape	round	shape: round	577
+anatomical structure	shape	circular	shape: circular	577
+electric device	shape	circular	shape: circular	577
+electric device	shape	rectangular	shape: rectangular	577
+yam tuber	shape	round	shape: round	577
+root vegetable	shape	round	shape: round	577
+rice grain	shape	oval	shape: oval	577
+product package	shape	rectangular	shape: rectangular	577
+wheat grain	shape	oval	shape: oval	577
+potato tuber	shape	oval	shape: oval	577
+pecan nut	shape	oval	shape: oval	577
+product package	shape	square	shape: square	577
+passion fruit	shape	oval	shape: oval	577
+food egg	shape	oval	shape: oval	577
+oat grain	shape	oval	shape: oval	577
+kentia palm seed	shape	oval	shape: oval	577
+potato tuber	shape	round	shape: round	577
+potato	shape	round	shape: round	577
+food egg	shape	round	shape: round	577
+root vegetable	shape	oval	shape: oval	577
+passion fruit	shape	round	shape: round	577
+economic attribute	scope	personal	scope: personal	579
+anatomical structure	size	small	size: small	580
+wheat grain	size	small	size: small	580
+major appliance	size	small	size: small	580
+manufactured product	size	small	size: small	580
+cooking range	size	small	size: small	580
+mulberry leaf	size	small	size: small	580
+fish	size	small	size: small	580
+water buffalo	size	small	size: small	580
+major appliance	size	compact	size: compact	580
+electric device	size	small	size: small	580
+hoofed mammal	size	small	size: small	580
+ornamental fish	size	small	size: small	580
+economic sector	size	small	size: small	580
+oat grain	size	small	size: small	580
+wearable item	size	small	size: small	580
+turkey	size	small	size: small	580
+crop production	scale	small	scale: small	580
+financial transaction	scale	small	scale: small	580
+industry	scale	small	scale: small	580
+power generation	scale	small	scale: small	580
+cooking range	size	compact	size: compact	580
+guernsey cattle	size	compact	size: compact	580
+product package	size	small	size: small	580
+industry	size	small	size: small	580
+kentia palm seed	size	small	size: small	580
+food egg	size	small	size: small	580
+barley grain	size	small	size: small	580
+maize grain	size	small	size: small	580
+rice grain	size	small	size: small	580
+crop production	scale	large	scale: large	581
+water buffalo	size	heavy	size: heavy	581
+manufactured product	size	large	size: large	581
+rice grain	size	large	size: large	581
+ornamental fish	size	large	size: large	581
+fish	size	large	size: large	581
+passion fruit	size	large	size: large	581
+cooking range	size	large	size: large	581
+turkey	size	large	size: large	581
+product package	size	large	size: large	581
+senepol cattle	size	large	size: large	581
+food egg	size	large	size: large	581
+industry	size	large	size: large	581
+anatomical structure	size	large	size: large	581
+major appliance	size	large	size: large	581
+economic sector	size	large	size: large	581
+hoofed mammal	size	large	size: large	581
+wheat grain	size	large	size: large	581
+water buffalo	size	large	size: large	581
+electric device	size	large	size: large	581
+financial transaction	scale	large	scale: large	581
+industry	scale	large	scale: large	581
+power generation	scale	large	scale: large	581
+wearable item	size	large	size: large	581
+industry	size	medium	size: medium	582
+food egg	size	medium	size: medium	582
+wearable item	size	medium	size: medium	582
+major appliance	size	medium	size: medium	582
+oat grain	size	medium	size: medium	582
+hoofed mammal	size	medium	size: medium	582
+ornamental fish	size	medium	size: medium	582
+cooking range	size	medium	size: medium	582
+mulberry leaf	size	medium	size: medium	582
+wheat grain	size	medium	size: medium	582
+rice grain	size	variable	size: variable	582
+turkey	size	medium	size: medium	582
+rice grain	size	medium	size: medium	582
+guernsey cattle	size	medium	size: medium	582
+barley grain	size	medium	size: medium	582
+product package	size	medium	size: medium	582
+economic sector	size	medium	size: medium	582
+product package	size	varies	size: varies	582
+product package	size	standard	size: standard	582
+senepol cattle	size	medium	size: medium	582
+anatomical structure	size	varies	size: varies	582
+water buffalo	size	medium	size: medium	582
+passion fruit	size	medium	size: medium	582
+rice grain	size	varies	size: varies	582
+fish	size	medium	size: medium	582
+handicraft product	skill level	advanced	skill level: advanced	585
+wood product	shape	board	shape: board	614
+handicraft product	style	traditional	style: traditional	621
+handicraft product	style	modern	style: modern	621
+handicraft product	style	contemporary	style: contemporary	621
+passion fruit	taste	sweet	taste: sweet	627
+cashew nut	taste	sweet	taste: sweet	627
+corn	taste	sweet	taste: sweet	627
+potato tuber	taste	sweet	taste: sweet	627
+yam tuber	taste	sweet	taste: sweet	627
+fruit or vegetable	taste	sweet	taste: sweet	627
+edible tuber	taste	sweet	taste: sweet	627
+edible nut	taste	sweet	taste: sweet	627
+tea leaf	taste	sweet	taste: sweet	627
+taro tuber	taste	sweet	taste: sweet	627
+beverage product	taste	sweet	taste: sweet	627
+date fruit	taste	sweet	taste: sweet	627
+dairy product	taste	sweet	taste: sweet	627
+cocoa bean	taste	sweet	taste: sweet	627
+pecan nut	taste	sweet	taste: sweet	627
+potato	taste	sweet	taste: sweet	627
+sweet pepper	taste	sweet	taste: sweet	627
+food product	taste	sweet	taste: sweet	627
+pepper	taste	sweet	taste: sweet	627
+almond nut	taste	sweet	taste: sweet	627
+maize grain	taste	sweet	taste: sweet	627
+cereal grain	taste	sweet	taste: sweet	627
+root vegetable	taste	sweet	taste: sweet	627
+fruit	taste	sweet	taste: sweet	627
+tropical fruit	taste	sweet	taste: sweet	627
+green pepper	taste	sweet	taste: sweet	627
+cardamom	taste	sweet	taste: sweet	627
+cow pea	taste	sweet	taste: sweet	627
+fish product	taste	sweet	taste: sweet	627
+mulberry leaf	taste	sweet	taste: sweet	627
+citrus fruit	taste	sweet	taste: sweet	627
+ornamental fish	behavior	schooling	behavior: schooling	671
+electric device	connection	wireless	connection: wireless	679
+change of possession	event	game	event: game	683
+cut flower	purpose	celebration	purpose: celebration	690
+currency	location	bank	location: bank	693
+financial transaction	location	bank	location: bank	693
+industry	participants	employees	participants: employees	695
+manufactured product	size	portable	size: portable	696
+major appliance	size	portable	size: portable	696
+manufactured product	characteristics	portable	characteristics: portable	696
+electric device	size	portable	size: portable	696
+cooking range	size	portable	size: portable	696
+electric device	portability	portable	portability: portable	696
+manufactured product	location	online	location: online	700
+financial transaction	type	online	type: online	700
+financial transaction	location	online	location: online	700
+currency	location	online	location: online	700
+motor oil	location	online	location: online	700
+fish	type	saltwater	type: saltwater	702
+ornamental fish	type	saltwater	type: saltwater	702
+ornamental fish	habitat	saltwater	habitat: saltwater	702
+millet grain	type	cereal	type: cereal	709
+rye grain	type	cereal	type: cereal	709
+oat grain	category	cereal	category: cereal	709
+paddy rice	category	cereal	category: cereal	709
+rye grain	category	cereal	category: cereal	709
+millet grain	category	cereal	category: cereal	709
+barley grain	type	cereal	type: cereal	709
+wheat grain	category	cereal	category: cereal	709
+maize grain	category	cereal	category: cereal	709
+barley grain	category	cereal	category: cereal	709
+sorghum grain	category	cereal	category: cereal	709
+corn	category	cereal	category: cereal	709
+japanese yen	used for	tourism	used for: tourism	729
+wood product	used for	building	used for: building	730
+chemical product	use	pest control	use: pest control	744
+khat	used for	recreational use	used for: recreational use	755
+controlled substance	purpose	recreational use	purpose: recreational use	755
+water buffalo	uses	transportation	uses: transportation	765
+water buffalo	used for	transportation	used for: transportation	765
+power generation	purpose	transportation	purpose: transportation	765
+product package	purpose	transport	purpose: transport	765
+product package	purpose	transportation	purpose: transportation	765
+beverage product	temperature	cold	temperature: cold	771

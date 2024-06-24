@@ -1,0 +1,110 @@
+10	recreational
+20	wings
+33	relaxation
+45	environmental	eco-friendly
+46	hybrid
+52	aquatic
+56	breakfast food	dessert
+61	stable	unstable
+64	versatile
+65	competitive
+66	lightweight	durable
+68	delicate
+70	smooth
+74	unique
+76	flat
+81	colorful	monochromatic
+83	everyday life
+88	communication
+106	water treatment
+114	low maintenance
+116	endangered
+117	usa	germany
+155	temporary
+157	long-term
+165	river
+166	winter
+167	forest	garden
+168	water	freshwater
+183	equipment	store
+189	making trail mix
+202	riding
+271	recurring	rare	daily	regular	one-time	occasional	infrequent
+273	support
+275	business
+278	wired
+280	digital
+305	ocean
+306	lake	aquarium	meadow	pond
+327	regulated	restricted
+338	gym
+339	field	fields
+341	ocean	air
+345	garden	outdoor
+349	underground
+350	home
+351	office	home
+352	farm
+353	urban
+358	desert
+360	regular cleaning	easy
+362	metal	copper	aluminum
+363	wood	wooden
+366	glass	fragile
+381	gliding
+390	natural
+395	high in fiber	low in fat	crunchy	good source of iron
+408	healthcare	industrial
+411	office
+414	europe	france
+415	usa	united states
+416	north america	sweden	canada	scotland
+417	asia	australia	traditional	japan
+419	pleasure
+421	box	plastic
+428	solitary
+432	persistent
+445	strong
+451	flexible	rigid
+478	outdoor
+488	low
+491	popular	high
+493	electric
+499	entertain	entertainment
+501	sports
+504	social gathering
+505	connecting
+509	research
+510	home	decorative	decorative purpose	ornate
+514	functional
+515	recreational	recreation
+516	protection	protect	to protect
+536	regulated by government
+566	global	local
+572	summer
+576	long	thin	long and narrow	curved
+577	round	circular	rectangular	oval	square
+579	personal
+580	small	compact
+581	large	heavy
+582	medium	variable	varies	standard
+585	advanced
+614	board
+621	traditional	modern	contemporary
+627	sweet
+671	schooling
+679	wireless
+683	game
+690	celebration
+693	bank
+695	employees
+696	portable
+700	online
+702	saltwater
+709	cereal
+729	tourism
+730	building
+744	pest control
+755	recreational use
+765	transportation	transport
+771	cold

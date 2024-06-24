@@ -1,0 +1,579 @@
+concept	property	cluster_label
+khat	recreational	10
+controlled substance	recreational	10
+controlled substance	recreational	10
+khat	recreational	10
+turkey	wings	20
+beverage product	relaxation	33
+forest product	environmental	45
+organic object	eco-friendly	45
+petroleum lubricant	eco-friendly	45
+cooking range	hybrid	46
+motor oil	hybrid	46
+ornamental fish	aquatic	52
+food egg	breakfast food	56
+passion fruit	dessert	56
+compound substance	stable	61
+compound substance	unstable	61
+agricultural product	versatile	64
+industry	competitive	65
+economic sector	competitive	65
+cotton fiber	lightweight	66
+jute fiber	durable	66
+wool fiber	durable	66
+natural rubber	durable	66
+motor oil	durable	66
+manufactured product	durable	66
+semiprecious gemstone	durable	66
+cotton fiber	durable	66
+balsa wood	lightweight	66
+animal skin	durable	66
+capital good	durable	66
+cut flower	delicate	68
+flowering plant	delicate	68
+motor oil	smooth	70
+handicraft product	unique	74
+organic object	unique	74
+lead product	unique	74
+relational attribute	unique	74
+relational attribute	unique	74
+electric device	flat	76
+metal product	flat	76
+tea leaf	flat	76
+fruit or vegetable	colorful	81
+precious gemstone	colorful	81
+textile product	monochromatic	81
+ornamental fish	colorful	81
+flowering plant	colorful	81
+textile product	colorful	81
+ornamental fish	colorful	81
+cut flower	colorful	81
+semiprecious gemstone	colorful	81
+grocery produce	colorful	81
+change of possession	everyday life	83
+manufactured product	communication	88
+manufactured product	communication	88
+electric device	communication	88
+electric device	communication	88
+alumina	water treatment	106
+durable good	low maintenance	114
+water buffalo	endangered	116
+currency	usa	117
+euro	germany	117
+cut flower	temporary	155
+capital good	long-term	157
+food fish	river	165
+fish	river	165
+food fish	river	165
+fish	river	165
+ornamental fish	river	165
+citrus fruit	winter	166
+sweet pepper	winter	166
+flowering plant	forest	167
+flowering plant	forest	167
+mulberry leaf	forest	167
+hoofed mammal	forest	167
+flowering plant	garden	167
+wood product	forest	167
+mulberry leaf	forest	167
+mulberry leaf	garden	167
+turkey	forest	167
+flowering plant	forest	167
+organic object	water	168
+ornamental fish	freshwater	168
+flowering plant	water	168
+fish	freshwater	168
+ornamental fish	freshwater	168
+industrial supply	equipment	183
+electric device	store	183
+macadamia nut	making trail mix	189
+hoofed mammal	riding	202
+financial transaction	recurring	271
+change of possession	rare	271
+financial transaction	daily	271
+financial transaction	regular	271
+financial transaction	one-time	271
+change of possession	occasional	271
+financial transaction	infrequent	271
+anatomical structure	support	273
+italian lira	business	275
+electric device	wired	278
+currency	digital	280
+fish	ocean	305
+food fish	ocean	305
+fish	lake	306
+ornamental fish	lake	306
+food fish	lake	306
+ornamental fish	aquarium	306
+ornamental fish	aquarium	306
+flowering plant	meadow	306
+ornamental fish	pond	306
+food fish	lake	306
+ornamental fish	pond	306
+fish	lake	306
+controlled substance	regulated	327
+controlled substance	restricted	327
+major appliance	gym	338
+cereal grass	field	339
+forage crop	field	339
+sugar cane	fields	339
+crop production	field	339
+cereal grass	fields	339
+food fish	ocean	341
+organic object	air	341
+fish	ocean	341
+kentia palm seed	garden	345
+flowering plant	garden	345
+cooking range	outdoor	345
+electric device	outdoor	345
+crop production	garden	345
+cooking range	outdoor	345
+major appliance	outdoor	345
+mulberry leaf	garden	345
+lead ore	underground	349
+zinc ore	underground	349
+copper ore	underground	349
+iron ore	underground	349
+cooking range	home	350
+manufactured product	home	350
+power generation	home	350
+product package	home	350
+electric device	home	350
+financial transaction	home	350
+paddy rice	home	350
+wood product	home	350
+electric device	home	350
+metal product	home	350
+manufactured product	office	351
+industrial supply	office	351
+electric device	office	351
+financial transaction	office	351
+electric device	home	351
+major appliance	office	351
+crop production	farm	352
+wheat grain	farm	352
+cereal grass	farm	352
+forage crop	farm	352
+sugar cane	farm	352
+power generation	urban	353
+flowering plant	desert	358
+hoofed mammal	desert	358
+flowering plant	desert	358
+major appliance	regular cleaning	360
+major appliance	easy	360
+cooking range	metal	362
+handicraft product	metal	362
+major appliance	metal	362
+metal product	copper	362
+metal product	aluminum	362
+cooking range	aluminum	362
+electric device	copper	362
+electric device	metal	362
+durable good	metal	362
+currency	metal	362
+product package	metal	362
+wearable item	metal	362
+metal product	metal	362
+manufactured product	metal	362
+durable good	wood	363
+handicraft product	wood	363
+wood product	wood	363
+durable good	wood	363
+wood product	wooden	363
+major appliance	glass	366
+handicraft product	glass	366
+manufactured product	glass	366
+cooking range	glass	366
+semiprecious gemstone	fragile	366
+product package	glass	366
+balsa wood	fragile	366
+organic object	fragile	366
+manufactured product	glass	366
+electric device	glass	366
+product package	glass	366
+ornamental fish	gliding	381
+chemical product	natural	390
+grocery produce	high in fiber	395
+forage crop	high in fiber	395
+fruit or vegetable	high in fiber	395
+oat grain	high in fiber	395
+sorghum grain	high in fiber	395
+edible nut	high in fiber	395
+cereal grain	high in fiber	395
+millet grain	high in fiber	395
+food product	high in fiber	395
+date fruit	high in fiber	395
+barley grain	high in fiber	395
+fruit	high in fiber	395
+fish	low in fat	395
+fish product	low in fat	395
+oat grain	high in fiber	395
+taro tuber	high in fiber	395
+grocery produce	high in fiber	395
+rye grain	high in fiber	395
+almond nut	high in fiber	395
+rye grain	high in fiber	395
+maize grain	high in fiber	395
+sorghum grain	high in fiber	395
+oat grain	crunchy	395
+soya	crunchy	395
+pepper	crunchy	395
+date fruit	crunchy	395
+passion fruit	high in fiber	395
+taro tuber	high in fiber	395
+wheat grain	high in fiber	395
+shea nut	crunchy	395
+millet grain	crunchy	395
+rice grain	crunchy	395
+taro tuber	crunchy	395
+green pepper	crunchy	395
+wheat grain	crunchy	395
+food egg	crunchy	395
+edible nut	crunchy	395
+fish product	crunchy	395
+fish roe	crunchy	395
+tea leaf	crunchy	395
+edible tuber	crunchy	395
+cereal grain	crunchy	395
+macadamia nut	crunchy	395
+cashew nut	crunchy	395
+potato tuber	crunchy	395
+fruit or vegetable	crunchy	395
+almond nut	crunchy	395
+fruit	crunchy	395
+barley grain	crunchy	395
+sweet pepper	crunchy	395
+yam tuber	crunchy	395
+fruit	high in fiber	395
+turkey meat	good source of iron	395
+food product	low in fat	395
+rice grain	low in fat	395
+turkey meat	low in fat	395
+chicken meat	low in fat	395
+food fish	low in fat	395
+root vegetable	crunchy	395
+food product	crunchy	395
+rye grain	crunchy	395
+pecan nut	crunchy	395
+potato	crunchy	395
+millet grain	high in fiber	395
+industrial supply	healthcare	408
+textile product	industrial	408
+electric device	office	411
+product package	office	411
+water buffalo	europe	414
+pepper	europe	414
+mulberry leaf	europe	414
+almond nut	europe	414
+guernsey cattle	france	414
+rye grain	europe	414
+turkey	europe	414
+oat grain	europe	414
+soya	usa	415
+turkey meat	usa	415
+macadamia nut	united states	415
+turkey	united states	415
+pecan nut	united states	415
+pecan nut	north america	416
+turkey	north america	416
+rye grain	north america	416
+cardamom	sweden	416
+nickel ore	canada	416
+oat grain	scotland	416
+taro tuber	asia	417
+rye grain	asia	417
+sorghum grain	asia	417
+mulberry leaf	asia	417
+paddy rice	asia	417
+rice grain	asia	417
+oat grain	asia	417
+pepper	asia	417
+sugar cane	asia	417
+yam tuber	asia	417
+soya	asia	417
+water buffalo	asia	417
+millet grain	asia	417
+nickel ore	australia	417
+macadamia nut	australia	417
+handicraft product	traditional	417
+sorghum grain	australia	417
+tea leaf	japan	417
+kentia palm seed	australia	417
+food product	pleasure	419
+grocery produce	box	421
+afghan afghani	plastic	421
+durable good	plastic	421
+electric device	plastic	421
+food product	box	421
+manufactured product	plastic	421
+major appliance	plastic	421
+product package	plastic	421
+wearable item	plastic	421
+hoofed mammal	solitary	428
+perfume essence	persistent	432
+animal skin	strong	445
+perfume essence	strong	445
+jute fiber	strong	445
+animal skin	flexible	451
+jute fiber	flexible	451
+natural rubber	flexible	451
+animal skin	rigid	451
+sisal fiber	rigid	451
+cooking range	outdoor	478
+ornamental fish	low	488
+ornamental fish	popular	491
+ornamental fish	high	491
+major appliance	electric	493
+manufactured product	entertain	499
+electric device	entertainment	499
+electric device	entertainment	499
+food product	entertainment	499
+beverage product	entertainment	499
+manufactured product	entertainment	499
+manufactured product	entertainment	499
+electric device	entertainment	499
+durable good	entertainment	499
+change of possession	entertainment	499
+manufactured product	entertainment	499
+ornamental fish	entertainment	499
+manufactured product	entertainment	499
+ornamental fish	entertainment	499
+change of possession	sports	501
+beverage product	social gathering	504
+relational attribute	connecting	505
+industrial supply	research	509
+controlled substance	research	509
+product package	home	510
+manufactured product	decorative	510
+electric device	home	510
+textile product	decorative	510
+ornamental fish	decorative purpose	510
+product package	ornate	510
+ornamental fish	decorative	510
+handicraft product	decorative	510
+cut flower	decorative	510
+handicraft product	functional	514
+controlled substance	recreational	515
+fish	recreation	515
+anatomical structure	protection	516
+product package	protection	516
+product package	protect	516
+product package	protect	516
+product package	to protect	516
+agricultural product	regulated by government	536
+financial transaction	global	566
+industry	local	566
+industry	global	566
+economic attribute	global	566
+industry	global	566
+sweet pepper	summer	572
+forage crop	summer	572
+tropical fruit	summer	572
+citrus fruit	summer	572
+green pepper	summer	572
+root vegetable	long	576
+fish	long	576
+potato	long	576
+wheat grain	long	576
+edible tuber	long	576
+rice grain	thin	576
+wheat grain	thin	576
+green pepper	long and narrow	576
+mulberry leaf	long	576
+potato tuber	long	576
+green pepper	curved	576
+metal product	curved	576
+rice grain	curved	576
+green pepper	long	576
+rice grain	long	576
+sweet pepper	curved	576
+anatomical structure	curved	576
+yam tuber	curved	576
+yam tuber	long	576
+metal product	long	576
+product package	curved	576
+sweet pepper	long	576
+tea leaf	curved	576
+wheat grain	curved	576
+oat grain	round	577
+edible tuber	round	577
+wheat grain	round	577
+anatomical structure	circular	577
+electric device	circular	577
+electric device	rectangular	577
+yam tuber	round	577
+root vegetable	round	577
+rice grain	oval	577
+product package	rectangular	577
+wheat grain	oval	577
+potato tuber	oval	577
+pecan nut	oval	577
+product package	square	577
+passion fruit	oval	577
+food egg	oval	577
+oat grain	oval	577
+kentia palm seed	oval	577
+potato tuber	round	577
+potato	round	577
+food egg	round	577
+root vegetable	oval	577
+passion fruit	round	577
+economic attribute	personal	579
+anatomical structure	small	580
+wheat grain	small	580
+major appliance	small	580
+manufactured product	small	580
+cooking range	small	580
+mulberry leaf	small	580
+fish	small	580
+water buffalo	small	580
+major appliance	compact	580
+electric device	small	580
+hoofed mammal	small	580
+ornamental fish	small	580
+economic sector	small	580
+oat grain	small	580
+wearable item	small	580
+turkey	small	580
+crop production	small	580
+financial transaction	small	580
+industry	small	580
+power generation	small	580
+cooking range	compact	580
+guernsey cattle	compact	580
+product package	small	580
+industry	small	580
+kentia palm seed	small	580
+food egg	small	580
+barley grain	small	580
+maize grain	small	580
+rice grain	small	580
+crop production	large	581
+water buffalo	heavy	581
+manufactured product	large	581
+rice grain	large	581
+ornamental fish	large	581
+fish	large	581
+passion fruit	large	581
+cooking range	large	581
+turkey	large	581
+product package	large	581
+senepol cattle	large	581
+food egg	large	581
+industry	large	581
+anatomical structure	large	581
+major appliance	large	581
+economic sector	large	581
+hoofed mammal	large	581
+wheat grain	large	581
+water buffalo	large	581
+electric device	large	581
+financial transaction	large	581
+industry	large	581
+power generation	large	581
+wearable item	large	581
+industry	medium	582
+food egg	medium	582
+wearable item	medium	582
+major appliance	medium	582
+oat grain	medium	582
+hoofed mammal	medium	582
+ornamental fish	medium	582
+cooking range	medium	582
+mulberry leaf	medium	582
+wheat grain	medium	582
+rice grain	variable	582
+turkey	medium	582
+rice grain	medium	582
+guernsey cattle	medium	582
+barley grain	medium	582
+product package	medium	582
+economic sector	medium	582
+product package	varies	582
+product package	standard	582
+senepol cattle	medium	582
+anatomical structure	varies	582
+water buffalo	medium	582
+passion fruit	medium	582
+rice grain	varies	582
+fish	medium	582
+handicraft product	advanced	585
+wood product	board	614
+handicraft product	traditional	621
+handicraft product	modern	621
+handicraft product	contemporary	621
+passion fruit	sweet	627
+cashew nut	sweet	627
+corn	sweet	627
+potato tuber	sweet	627
+yam tuber	sweet	627
+fruit or vegetable	sweet	627
+edible tuber	sweet	627
+edible nut	sweet	627
+tea leaf	sweet	627
+taro tuber	sweet	627
+beverage product	sweet	627
+date fruit	sweet	627
+dairy product	sweet	627
+cocoa bean	sweet	627
+pecan nut	sweet	627
+potato	sweet	627
+sweet pepper	sweet	627
+food product	sweet	627
+pepper	sweet	627
+almond nut	sweet	627
+maize grain	sweet	627
+cereal grain	sweet	627
+root vegetable	sweet	627
+fruit	sweet	627
+tropical fruit	sweet	627
+green pepper	sweet	627
+cardamom	sweet	627
+cow pea	sweet	627
+fish product	sweet	627
+mulberry leaf	sweet	627
+citrus fruit	sweet	627
+ornamental fish	schooling	671
+electric device	wireless	679
+change of possession	game	683
+cut flower	celebration	690
+currency	bank	693
+financial transaction	bank	693
+industry	employees	695
+manufactured product	portable	696
+major appliance	portable	696
+manufactured product	portable	696
+electric device	portable	696
+cooking range	portable	696
+electric device	portable	696
+manufactured product	online	700
+financial transaction	online	700
+financial transaction	online	700
+currency	online	700
+motor oil	online	700
+fish	saltwater	702
+ornamental fish	saltwater	702
+ornamental fish	saltwater	702
+millet grain	cereal	709
+rye grain	cereal	709
+oat grain	cereal	709
+paddy rice	cereal	709
+rye grain	cereal	709
+millet grain	cereal	709
+barley grain	cereal	709
+wheat grain	cereal	709
+maize grain	cereal	709
+barley grain	cereal	709
+sorghum grain	cereal	709
+corn	cereal	709
+japanese yen	tourism	729
+wood product	building	730
+chemical product	pest control	744
+khat	recreational use	755
+controlled substance	recreational use	755
+water buffalo	transportation	765
+water buffalo	transportation	765
+power generation	transportation	765
+product package	transport	765
+product package	transportation	765
+beverage product	cold	771

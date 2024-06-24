@@ -1,0 +1,110 @@
+10	khat	controlled substance
+20	turkey
+33	beverage product
+45	forest product	organic object	petroleum lubricant
+46	cooking range	motor oil
+52	ornamental fish
+56	food egg	passion fruit
+61	compound substance
+64	agricultural product
+65	industry	economic sector
+66	cotton fiber	jute fiber	wool fiber	natural rubber	motor oil	manufactured product	semiprecious gemstone	balsa wood	animal skin	capital good
+68	cut flower	flowering plant
+70	motor oil
+74	handicraft product	organic object	lead product	relational attribute
+76	electric device	metal product	tea leaf
+81	fruit or vegetable	precious gemstone	textile product	ornamental fish	flowering plant	cut flower	semiprecious gemstone	grocery produce
+83	change of possession
+88	manufactured product	electric device
+106	alumina
+114	durable good
+116	water buffalo
+117	currency	euro
+155	cut flower
+157	capital good
+165	food fish	fish	ornamental fish
+166	citrus fruit	sweet pepper
+167	flowering plant	mulberry leaf	hoofed mammal	wood product	turkey
+168	organic object	ornamental fish	flowering plant	fish
+183	industrial supply	electric device
+189	macadamia nut
+202	hoofed mammal
+271	financial transaction	change of possession
+273	anatomical structure
+275	italian lira
+278	electric device
+280	currency
+305	fish	food fish
+306	fish	ornamental fish	food fish	flowering plant
+327	controlled substance
+338	major appliance
+339	cereal grass	forage crop	sugar cane	crop production
+341	food fish	organic object	fish
+345	kentia palm seed	flowering plant	cooking range	electric device	crop production	major appliance	mulberry leaf
+349	lead ore	zinc ore	copper ore	iron ore
+350	cooking range	manufactured product	power generation	product package	electric device	financial transaction	paddy rice	wood product	metal product
+351	manufactured product	industrial supply	electric device	financial transaction	major appliance
+352	crop production	wheat grain	cereal grass	forage crop	sugar cane
+353	power generation
+358	flowering plant	hoofed mammal
+360	major appliance
+362	cooking range	handicraft product	major appliance	metal product	electric device	durable good	currency	product package	wearable item	manufactured product
+363	durable good	handicraft product	wood product
+366	major appliance	handicraft product	manufactured product	cooking range	semiprecious gemstone	product package	balsa wood	organic object	electric device
+381	ornamental fish
+390	chemical product
+395	grocery produce	forage crop	fruit or vegetable	oat grain	sorghum grain	edible nut	cereal grain	millet grain	food product	date fruit	barley grain	fruit	fish	fish product	taro tuber	rye grain	almond nut	maize grain	soya	pepper	passion fruit	wheat grain	shea nut	rice grain	green pepper	food egg	fish roe	tea leaf	edible tuber	macadamia nut	cashew nut	potato tuber	sweet pepper	yam tuber	turkey meat	chicken meat	food fish	root vegetable	pecan nut	potato
+408	industrial supply	textile product
+411	electric device	product package
+414	water buffalo	pepper	mulberry leaf	almond nut	guernsey cattle	rye grain	turkey	oat grain
+415	soya	turkey meat	macadamia nut	turkey	pecan nut
+416	pecan nut	turkey	rye grain	cardamom	nickel ore	oat grain
+417	taro tuber	rye grain	sorghum grain	mulberry leaf	paddy rice	rice grain	oat grain	pepper	sugar cane	yam tuber	soya	water buffalo	millet grain	nickel ore	macadamia nut	handicraft product	tea leaf	kentia palm seed
+419	food product
+421	grocery produce	afghan afghani	durable good	electric device	food product	manufactured product	major appliance	product package	wearable item
+428	hoofed mammal
+432	perfume essence
+445	animal skin	perfume essence	jute fiber
+451	animal skin	jute fiber	natural rubber	sisal fiber
+478	cooking range
+488	ornamental fish
+491	ornamental fish
+493	major appliance
+499	manufactured product	electric device	food product	beverage product	durable good	change of possession	ornamental fish
+501	change of possession
+504	beverage product
+505	relational attribute
+509	industrial supply	controlled substance
+510	product package	manufactured product	electric device	textile product	ornamental fish	handicraft product	cut flower
+514	handicraft product
+515	controlled substance	fish
+516	anatomical structure	product package
+536	agricultural product
+566	financial transaction	industry	economic attribute
+572	sweet pepper	forage crop	tropical fruit	citrus fruit	green pepper
+576	root vegetable	fish	potato	wheat grain	edible tuber	rice grain	green pepper	mulberry leaf	potato tuber	metal product	sweet pepper	anatomical structure	yam tuber	product package	tea leaf
+577	oat grain	edible tuber	wheat grain	anatomical structure	electric device	yam tuber	root vegetable	rice grain	product package	potato tuber	pecan nut	passion fruit	food egg	kentia palm seed	potato
+579	economic attribute
+580	anatomical structure	wheat grain	major appliance	manufactured product	cooking range	mulberry leaf	fish	water buffalo	electric device	hoofed mammal	ornamental fish	economic sector	oat grain	wearable item	turkey	crop production	financial transaction	industry	power generation	guernsey cattle	product package	kentia palm seed	food egg	barley grain	maize grain	rice grain
+581	crop production	water buffalo	manufactured product	rice grain	ornamental fish	fish	passion fruit	cooking range	turkey	product package	senepol cattle	food egg	industry	anatomical structure	major appliance	economic sector	hoofed mammal	wheat grain	electric device	financial transaction	power generation	wearable item
+582	industry	food egg	wearable item	major appliance	oat grain	hoofed mammal	ornamental fish	cooking range	mulberry leaf	wheat grain	rice grain	turkey	guernsey cattle	barley grain	product package	economic sector	senepol cattle	anatomical structure	water buffalo	passion fruit	fish
+585	handicraft product
+614	wood product
+621	handicraft product
+627	passion fruit	cashew nut	corn	potato tuber	yam tuber	fruit or vegetable	edible tuber	edible nut	tea leaf	taro tuber	beverage product	date fruit	dairy product	cocoa bean	pecan nut	potato	sweet pepper	food product	pepper	almond nut	maize grain	cereal grain	root vegetable	fruit	tropical fruit	green pepper	cardamom	cow pea	fish product	mulberry leaf	citrus fruit
+671	ornamental fish
+679	electric device
+683	change of possession
+690	cut flower
+693	currency	financial transaction
+695	industry
+696	manufactured product	major appliance	electric device	cooking range
+700	manufactured product	financial transaction	currency	motor oil
+702	fish	ornamental fish
+709	millet grain	rye grain	oat grain	paddy rice	barley grain	wheat grain	maize grain	sorghum grain	corn
+729	japanese yen
+730	wood product
+744	chemical product
+755	khat	controlled substance
+765	water buffalo	power generation	product package
+771	beverage product
