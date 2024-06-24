@@ -208,6 +208,7 @@ with open(file_name, "w") as out_file:
                 print(f"{seq['generated_text']}\n")
 
                 out_file.write(f'{seq["generated_text"]}')
+                out_file.flush()
 
                 print("===================================")
 
