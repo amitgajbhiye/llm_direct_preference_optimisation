@@ -182,15 +182,13 @@ print(f"Prompt used is : {llama3_8B_1inc_prompt}")
 concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
 repeat_times = 1
-
 file_name = (
     f"llama3_repeat{repeat_times}_concept_facet_property_science_onto_concepts.txt"
 )
-
 batch_size = 16
 
-
 with open(file_name, "w") as out_file:
+
     for i in range(repeat_times):
         print(f"****** i :{i} ******")
         for i in range(0, len(concept_prompts), batch_size):
@@ -201,49 +199,49 @@ with open(file_name, "w") as out_file:
             print("**********")
             print()
 
-            # sequences = pipeline(
-            #     concept_prompt_batch,
-            #     do_sample=True,
-            #     num_return_sequences=1,
-            #     eos_token_id=tokenizer.eos_token_id,
-            #     max_new_tokens=500,
-            #     return_full_text=False,
-            #     repetition_penalty=1.0,
-            #     length_penalty=1.0,
-            #     truncation=True,
-            #     # max_length=500,
-            #     # top_p=,
-            #     # top_k=,
-            # )
+            sequences = pipeline(
+                concept_prompt_batch,
+                do_sample=True,
+                num_return_sequences=1,
+                eos_token_id=tokenizer.eos_token_id,
+                max_new_tokens=500,
+                return_full_text=False,
+                repetition_penalty=1.0,
+                length_penalty=1.0,
+                truncation=True,
+                # max_length=500,
+                # top_p=,
+                # top_k=,
+            )
 
-            # for seq in sequences:
-            #     # response_list.append(f"{seq['generated_text']}\n\n")
-            #     print(f"{seq['generated_text']}\n")
+            for seq in sequences:
+                # response_list.append(f"{seq['generated_text']}\n\n")
+                print(f"{seq['generated_text']}\n")
 
-            #     out_file.write(f'{seq["generated_text"]}')
-            #     # out_file.flush()
+                out_file.write(f'{seq["generated_text"]}')
+                # out_file.flush()
 
-            #     print("===================================")
+                print("===================================")
 
-            # del seq
-            # del sequences
+            del seq
+            del sequences
 
-# del model
-# del pipeline
-# del concept_prompts
+del model
+del pipeline
+del concept_prompts
 
-# end_time = time.time()
-# elapsed_time = end_time - start_time
+end_time = time.time()
+elapsed_time = end_time - start_time
 
-# hours = int(elapsed_time // 3600)
-# minutes = int((elapsed_time % 3600) // 60)
-# seconds = elapsed_time % 60
+hours = int(elapsed_time // 3600)
+minutes = int((elapsed_time % 3600) // 60)
+seconds = elapsed_time % 60
 
-# print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds")
+print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds")
 
-# gc.collect()
-# gc.collect()
-# gc.collect()
+gc.collect()
+gc.collect()
+gc.collect()
 
 
 # with open(file_name, "w") as out_file:
