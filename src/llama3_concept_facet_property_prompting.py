@@ -188,18 +188,22 @@ file_name = (
     f"llama3_repeat{repeat_times}_concept_facet_property_science_onto_concepts.txt"
 )
 batch_size = 4
+total_batches = len(concept_prompts) // batch_size
+
 
 with open(file_name, "w") as out_file:
 
     for i in range(repeat_times):
-        print(f"****** i :{i} ******")
-        for i in range(0, len(concept_prompts), batch_size):
+        print(f"****** repeat_times : {i} ******")
 
-            concept_prompt_batch = concept_prompts[i : i + batch_size]
+        for batch_no, batch_start_idx in enumerate(
+            range(0, len(concept_prompts), batch_size)
+        ):
+            print(f"****** processing_batch: {batch_no} / {total_batches} ******")
 
-            print(f"concept_prompt_batch: {concept_prompt_batch}")
-            print("**********")
-            print()
+            concept_prompt_batch = concept_prompts[
+                batch_start_idx : batch_start_idx + batch_size
+            ]
 
             sequences = pipeline(
                 concept_prompt_batch,
@@ -216,16 +220,14 @@ with open(file_name, "w") as out_file:
                 # top_k=,
             )
 
-            print("sequences")
-            print(sequences)
-            print()
+            # print("sequences")
+            # print(sequences)
+            # print()
 
             for seq in sequences:
-                # response_list.append(f"{seq['generated_text']}\n\n")
                 print(f"{seq[0]['generated_text']}\n", flush=True)
 
                 out_file.write(f'{seq[0]["generated_text"]}')
-                # out_file.flush()
 
                 print("===================================")
 
