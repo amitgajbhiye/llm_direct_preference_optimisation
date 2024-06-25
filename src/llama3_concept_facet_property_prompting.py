@@ -1,5 +1,4 @@
 import gc
-import os
 import time
 
 import pandas as pd
@@ -26,7 +25,7 @@ food_taxo = "data/evaluation_taxo/terms/food.terms"
 equipment_taxo = "data/evaluation_taxo/terms/equipment.terms"
 science_taxo = "data/evaluation_taxo/terms/science.terms"
 
-df = pd.read_csv(science_taxo, sep="\t", names=["id", "concept"])
+df = pd.read_csv(food_taxo, sep="\t", names=["id", "concept"])
 
 
 # Quantization configuration
@@ -183,11 +182,10 @@ print(f"input_concepts: {concepts}")
 print(f"Prompt used is : {llama3_8B_1inc_prompt}")
 concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
-repeat_times = 1
-file_name = (
-    f"llama3_repeat{repeat_times}_concept_facet_property_science_onto_concepts.txt"
-)
-batch_size = 4
+repeat_times = 10
+file_name = f"llama3_repeat{repeat_times}_concept_facet_property_food_onto_concepts.txt"
+
+batch_size = 32
 total_batches = len(concept_prompts) // batch_size
 
 
@@ -220,16 +218,12 @@ with open(file_name, "w") as out_file:
                 # top_k=,
             )
 
-            # print("sequences")
-            # print(sequences)
-            # print()
-
             for seq in sequences:
                 print(f"{seq[0]['generated_text']}\n", flush=True)
 
                 out_file.write(f'{seq[0]["generated_text"]}')
 
-                print("===================================")
+                print("===================================", flush=True)
 
             del seq
             del sequences
@@ -250,53 +244,3 @@ print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seco
 gc.collect()
 gc.collect()
 gc.collect()
-
-
-# with open(file_name, "w") as out_file:
-#     for i in range(repeat_times):
-#         print(f"****** i :{i} ******")
-#         for concept_prompt in concept_prompts:
-#             print(f"concept_prompt: {concept_prompt}")
-#             sequences = pipeline(
-#                 concept_prompt,
-#                 do_sample=True,
-#                 num_return_sequences=1,
-#                 eos_token_id=tokenizer.eos_token_id,
-#                 max_new_tokens=500,
-#                 return_full_text=False,
-#                 repetition_penalty=1.0,
-#                 length_penalty=1.0,
-#                 truncation=True,
-#                 # max_length=500,
-#                 # top_p=,
-#                 # top_k=,
-#             )
-
-#             for seq in sequences:
-#                 # response_list.append(f"{seq['generated_text']}\n\n")
-#                 print(f"{seq['generated_text']}\n")
-
-#                 out_file.write(f'{seq["generated_text"]}')
-#                 # out_file.flush()
-
-#                 print("===================================")
-
-#             del seq
-#             del sequences
-
-# del model
-# del pipeline
-# del concept_prompts
-
-# end_time = time.time()
-# elapsed_time = end_time - start_time
-
-# hours = int(elapsed_time // 3600)
-# minutes = int((elapsed_time % 3600) // 60)
-# seconds = elapsed_time % 60
-
-# print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds")
-
-# gc.collect()
-# gc.collect()
-# gc.collect()
