@@ -39,11 +39,13 @@ bnb_config = BitsAndBytesConfig(
 
 # Load base moodel in quantised form
 model = AutoModelForCausalLM.from_pretrained(
-    base_model, quantization_config=bnb_config, device_map="auto"
+    base_model, quantization_config=bnb_config, device_map=0
 )
 
 print(f"############ Model ############", end="\n\n")
 print(model, end="\n\n")
+print(f"Device map")
+print(model.hf_device_map)
 
 
 # Tokenizer
@@ -218,17 +220,17 @@ with open(file_name, "w") as out_file:
             print(sequences)
             print()
 
-            # for seq in sequences:
-            #     # response_list.append(f"{seq['generated_text']}\n\n")
-            #     print(f"{seq['generated_text']}\n", flush=True)
+            for seq in sequences:
+                # response_list.append(f"{seq['generated_text']}\n\n")
+                print(f"{seq[0]['generated_text']}\n", flush=True)
 
-            #     out_file.write(f'{seq["generated_text"]}')
-            #     # out_file.flush()
+                out_file.write(f'{seq[0]["generated_text"]}')
+                # out_file.flush()
 
-            #     print("===================================")
+                print("===================================")
 
-            # del seq
-            # del sequences
+            del seq
+            del sequences
 
 del model
 del pipeline
