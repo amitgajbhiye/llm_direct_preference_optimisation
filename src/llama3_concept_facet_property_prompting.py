@@ -185,7 +185,7 @@ repeat_times = 1
 file_name = (
     f"llama3_repeat{repeat_times}_concept_facet_property_science_onto_concepts.txt"
 )
-batch_size = 16
+batch_size = 4
 
 with open(file_name, "w") as out_file:
 
@@ -216,7 +216,7 @@ with open(file_name, "w") as out_file:
 
             for seq in sequences:
                 # response_list.append(f"{seq['generated_text']}\n\n")
-                print(f"{seq['generated_text']}\n")
+                print(f"{seq['generated_text']}\n", flush=True)
 
                 out_file.write(f'{seq["generated_text"]}')
                 # out_file.flush()
