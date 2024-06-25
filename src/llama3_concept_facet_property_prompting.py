@@ -181,7 +181,7 @@ print(f"input_concepts: {concepts}")
 print(f"Prompt used is : {llama3_8B_1inc_prompt}")
 concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
-repeat_times = 10
+repeat_times = 1
 
 file_name = (
     f"llama3_repeat{repeat_times}_concept_facet_property_science_onto_concepts.txt"
@@ -198,6 +198,8 @@ with open(file_name, "w") as out_file:
             concept_prompt_batch = concept_prompts[i : i + batch_size]
 
             print(f"concept_prompt_batch: {concept_prompt_batch}")
+            print("**********")
+            print()
 
             # sequences = pipeline(
             #     concept_prompt_batch,
