@@ -187,51 +187,108 @@ file_name = (
     f"llama3_repeat{repeat_times}_concept_facet_property_science_onto_concepts.txt"
 )
 
+batch_size = 16
+
+
 with open(file_name, "w") as out_file:
     for i in range(repeat_times):
         print(f"****** i :{i} ******")
-        for concept_prompt in concept_prompts:
-            print(f"concept_prompt: {concept_prompt}")
-            sequences = pipeline(
-                concept_prompt,
-                do_sample=True,
-                num_return_sequences=1,
-                eos_token_id=tokenizer.eos_token_id,
-                max_new_tokens=500,
-                return_full_text=False,
-                repetition_penalty=1.0,
-                length_penalty=1.0,
-                truncation=True,
-                # max_length=500,
-                # top_p=,
-                # top_k=,
-            )
+        for i in range(0, len(concept_prompts), batch_size):
 
-            for seq in sequences:
-                # response_list.append(f"{seq['generated_text']}\n\n")
-                print(f"{seq['generated_text']}\n")
+            concept_prompt_batch = concept_prompts[i : i + batch_size]
 
-                out_file.write(f'{seq["generated_text"]}')
-                # out_file.flush()
+            print(f"concept_prompt_batch: {concept_prompt_batch}")
 
-                print("===================================")
+            # sequences = pipeline(
+            #     concept_prompt_batch,
+            #     do_sample=True,
+            #     num_return_sequences=1,
+            #     eos_token_id=tokenizer.eos_token_id,
+            #     max_new_tokens=500,
+            #     return_full_text=False,
+            #     repetition_penalty=1.0,
+            #     length_penalty=1.0,
+            #     truncation=True,
+            #     # max_length=500,
+            #     # top_p=,
+            #     # top_k=,
+            # )
 
-            del seq
-            del sequences
+            # for seq in sequences:
+            #     # response_list.append(f"{seq['generated_text']}\n\n")
+            #     print(f"{seq['generated_text']}\n")
 
-del model
-del pipeline
-del concept_prompts
+            #     out_file.write(f'{seq["generated_text"]}')
+            #     # out_file.flush()
 
-end_time = time.time()
-elapsed_time = end_time - start_time
+            #     print("===================================")
 
-hours = int(elapsed_time // 3600)
-minutes = int((elapsed_time % 3600) // 60)
-seconds = elapsed_time % 60
+            # del seq
+            # del sequences
 
-print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds")
+# del model
+# del pipeline
+# del concept_prompts
 
-gc.collect()
-gc.collect()
-gc.collect()
+# end_time = time.time()
+# elapsed_time = end_time - start_time
+
+# hours = int(elapsed_time // 3600)
+# minutes = int((elapsed_time % 3600) // 60)
+# seconds = elapsed_time % 60
+
+# print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds")
+
+# gc.collect()
+# gc.collect()
+# gc.collect()
+
+
+# with open(file_name, "w") as out_file:
+#     for i in range(repeat_times):
+#         print(f"****** i :{i} ******")
+#         for concept_prompt in concept_prompts:
+#             print(f"concept_prompt: {concept_prompt}")
+#             sequences = pipeline(
+#                 concept_prompt,
+#                 do_sample=True,
+#                 num_return_sequences=1,
+#                 eos_token_id=tokenizer.eos_token_id,
+#                 max_new_tokens=500,
+#                 return_full_text=False,
+#                 repetition_penalty=1.0,
+#                 length_penalty=1.0,
+#                 truncation=True,
+#                 # max_length=500,
+#                 # top_p=,
+#                 # top_k=,
+#             )
+
+#             for seq in sequences:
+#                 # response_list.append(f"{seq['generated_text']}\n\n")
+#                 print(f"{seq['generated_text']}\n")
+
+#                 out_file.write(f'{seq["generated_text"]}')
+#                 # out_file.flush()
+
+#                 print("===================================")
+
+#             del seq
+#             del sequences
+
+# del model
+# del pipeline
+# del concept_prompts
+
+# end_time = time.time()
+# elapsed_time = end_time - start_time
+
+# hours = int(elapsed_time // 3600)
+# minutes = int((elapsed_time % 3600) // 60)
+# seconds = elapsed_time % 60
+
+# print(f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds")
+
+# gc.collect()
+# gc.collect()
+# gc.collect()
