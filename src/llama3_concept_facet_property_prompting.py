@@ -214,6 +214,10 @@ with open(file_name, "w") as out_file:
                 # top_k=,
             )
 
+            print("sequences")
+            print(sequences)
+            print()
+
             for seq in sequences:
                 # response_list.append(f"{seq['generated_text']}\n\n")
                 print(f"{seq['generated_text']}\n", flush=True)
