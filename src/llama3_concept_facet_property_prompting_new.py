@@ -18,7 +18,7 @@ from transformers import (
 
 start_time = time.time()
 
-access_token = "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"
+access_token = "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"
 
 
 def get_execution_time(start_time, end_time):
