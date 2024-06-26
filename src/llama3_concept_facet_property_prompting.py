@@ -24,8 +24,9 @@ economics_ontology_file = "data/ontology_concepts/economy/economy_vocab.txt"
 food_taxo = "data/evaluation_taxo/terms/food.terms"
 equipment_taxo = "data/evaluation_taxo/terms/equipment.terms"
 science_taxo = "data/evaluation_taxo/terms/science.terms"
+science_ev_taxo = "data/evaluation_taxo/terms/science_ev.terms"
 
-df = pd.read_csv(food_taxo, sep="\t", names=["id", "concept"])
+df = pd.read_csv(science_ev_taxo, sep="\t", names=["id", "concept"])
 
 
 # Quantization configuration
@@ -183,7 +184,9 @@ print(f"Prompt used is : {llama3_8B_1inc_prompt}")
 concept_prompts = [llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts]
 
 repeat_times = 10
-file_name = f"llama3_repeat{repeat_times}_concept_facet_property_food_onto_concepts.txt"
+file_name = (
+    f"llama3_repeat{repeat_times}_concept_facet_property_science_ev_onto_concepts.txt"
+)
 
 batch_size = 32
 total_batches = len(concept_prompts) // batch_size
