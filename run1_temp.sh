@@ -16,6 +16,6 @@
 
 conda activate venv
 
-python3 src/llama3_concept_facet_property_prompting_new.py --config_file configs/facet_prop_generation/temp.json
+python3 src/llama3_concept_facet_property_prompting_new.py --config_file configs/facet_prop_generation/llama3_science_ev_facet_property.json
 
 echo 'Job Finished !!!'

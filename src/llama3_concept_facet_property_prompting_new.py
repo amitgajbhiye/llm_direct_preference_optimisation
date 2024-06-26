@@ -9,13 +9,32 @@ import pandas as pd
 import torch
 
 # import transformers
-from transformers import (  # BitsAndBytesConfig,
+from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
+    BitsAndBytesConfig,
     pipeline,
 )
 
 start_time = time.time()
+
+
+def get_execution_time(start_time, end_time):
+
+    elapsed_time = end_time - start_time
+
+    hours = int(elapsed_time // 3600)
+    minutes = int((elapsed_time % 3600) // 60)
+    seconds = elapsed_time % 60
+
+    print(
+        f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds",
+        flush=True,
+    )
+
+    logger.info(
+        f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds"
+    )
 
 
 def read_config(config_file):
@@ -55,8 +74,11 @@ def prepare_data(config):
 
     print(f"Number of concepts: {len(concepts)}")
     print(f"input_concepts: {concepts}")
-
     print(f"Prompt used is : {llama3_8B_1inc_prompt}")
+
+    logger.info(f"Number of concepts: {len(concepts)}")
+    logger.info(f"input_concepts: {concepts}")
+    logger.info(f"Prompt used is : {llama3_8B_1inc_prompt}")
 
     concept_prompts = [
         llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts
@@ -82,10 +104,16 @@ def generate_data(config, concept_prompts):
         base_model, quantization_config=bnb_config, device_map=0
     )
 
+    print(f"base_model: {base_model}")
     print(f"############ Model ############", end="\n\n")
     print(model, end="\n\n")
     print(f"Device map")
     print(model.hf_device_map)
+
+    logger.info(f"base_model: {base_model}")
+    logger.info(f"############ Model ############")
+    logger.info(model)
+    logger.info(f"Device map: {model.hf_device_map}")
 
     # Tokenizer
     tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=True)
@@ -111,6 +139,9 @@ def generate_data(config, concept_prompts):
                 range(0, len(concept_prompts), batch_size)
             ):
                 print(f"****** processing_batch: {batch_no} / {total_batches} ******")
+                logger.info(
+                    f"****** processing_batch: {batch_no} / {total_batches} ******"
+                )
 
                 concept_prompt_batch = concept_prompts[
                     batch_start_idx : batch_start_idx + batch_size
@@ -147,15 +178,7 @@ def generate_data(config, concept_prompts):
     del concept_prompts
 
     end_time = time.time()
-    elapsed_time = end_time - start_time
-
-    hours = int(elapsed_time // 3600)
-    minutes = int((elapsed_time % 3600) // 60)
-    seconds = elapsed_time % 60
-
-    print(
-        f"Execution time: {hours} hours, {minutes} minutes, and {seconds:.2f} seconds"
-    )
+    get_execution_time(start_time, end_time)
 
     gc.collect()
     gc.collect()
@@ -191,3 +214,9 @@ if __name__ == "__main__":
 
     logger.info("The model is run with the following configuration")
     logger.info(f"\n {config} \n")
+
+    # Executing pipleine
+    concept_prompts = prepare_data(config)
+    generate_data(config, concept_prompts)
+
+    logger.info(f"Job Finished")
