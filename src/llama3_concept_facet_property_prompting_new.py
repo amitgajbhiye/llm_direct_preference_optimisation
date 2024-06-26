@@ -9,10 +9,9 @@ import pandas as pd
 import torch
 
 # import transformers
-from transformers import (
+from transformers import (  # BitsAndBytesConfig,
     AutoModelForCausalLM,
     AutoTokenizer,
-    BitsAndBytesConfig,
     pipeline,
 )
 
