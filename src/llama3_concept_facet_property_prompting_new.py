@@ -7,7 +7,8 @@ from argparse import ArgumentParser
 
 import pandas as pd
 import torch
-import transformers
+
+# import transformers
 from transformers import (
     AutoModelForCausalLM,
     AutoTokenizer,
@@ -65,7 +66,7 @@ def prepare_data(config):
     return concept_prompts
 
 
-def generate_data(config):
+def generate_data(config, concept_prompts):
 
     base_model = config["base_model"]
 
@@ -92,7 +93,7 @@ def generate_data(config):
     tokenizer.pad_token = tokenizer.eos_token
     tokenizer.padding_side = "right"
 
-    pipeline = transformers.pipeline(
+    generator = pipeline(
         "text-generation", model=model, device_map="auto", tokenizer=tokenizer
     )
 
@@ -116,7 +117,7 @@ def generate_data(config):
                     batch_start_idx : batch_start_idx + batch_size
                 ]
 
-                sequences = pipeline(
+                sequences = generator(
                     concept_prompt_batch,
                     do_sample=True,
                     num_return_sequences=1,
@@ -134,9 +135,8 @@ def generate_data(config):
                 for seq in sequences:
                     print(f"{seq[0]['generated_text']}\n", flush=True)
 
-                    logger.info(f"{seq[0]['generated_text']}\n")
-
                     out_file.write(f'{seq[0]["generated_text"]}')
+                    # logger.info(f"{seq[0]['generated_text']}\n")
 
                     print("===================================", flush=True)
 
