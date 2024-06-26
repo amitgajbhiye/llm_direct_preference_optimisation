@@ -18,6 +18,8 @@ from transformers import (
 
 start_time = time.time()
 
+access_token = "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"
+
 
 def get_execution_time(start_time, end_time):
 
@@ -101,7 +103,7 @@ def generate_data(config, concept_prompts):
 
     # Load base moodel in quantised form
     model = AutoModelForCausalLM.from_pretrained(
-        base_model, quantization_config=bnb_config, device_map=0
+        base_model, quantization_config=bnb_config, device_map=0, token=access_token
     )
 
     print(f"base_model: {base_model}")
