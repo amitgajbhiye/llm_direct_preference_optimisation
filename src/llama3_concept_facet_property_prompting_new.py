@@ -7,6 +7,7 @@ from argparse import ArgumentParser
 
 import pandas as pd
 import torch
+from huggingface_hub import login
 
 # import transformers
 from transformers import (
@@ -19,6 +20,8 @@ from transformers import (
 start_time = time.time()
 
 access_token = "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"
+
+login(token=access_token)
 
 
 def get_execution_time(start_time, end_time):
