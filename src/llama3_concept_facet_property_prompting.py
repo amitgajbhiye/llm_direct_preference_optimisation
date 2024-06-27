@@ -1,6 +1,7 @@
 import gc
 import json
 import logging
+import math
 import os
 import time
 from argparse import ArgumentParser
@@ -120,7 +121,7 @@ def generate_data(config, concept_prompts):
     output_file = config["output_file"]
     batch_size = config["batch_size"]
 
-    total_batches = len(concept_prompts) // batch_size
+    total_batches = math.ceil(len(concept_prompts) / batch_size)
 
     with open(output_file, "w") as out_file:
 
@@ -150,12 +151,12 @@ def generate_data(config, concept_prompts):
                 )
 
                 for seq in sequences:
-                    print(f"{seq[0]['generated_text']}\n", flush=True)
 
                     out_file.write(f'{seq[0]["generated_text"]}')
                     out_file.flush()
 
-                    print("===================================", flush=True)
+                    # print(f"{seq[0]['generated_text']}\n", flush=True)
+                    # print("===================================", flush=True)
 
                 del seq
                 del sequences
