@@ -162,12 +162,12 @@ def generate_data(config, concept_prompts):
                 end_time = time.time()
 
                 print(
-                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size},time_take: {get_execution_time(start_time, end_time)}",
+                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size}, time_take: {get_execution_time(start_time, end_time)}",
                     flush=True,
                 )
 
                 logger.info(
-                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size},time_take: {get_execution_time(start_time, end_time)}"
+                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size}, time_take: {get_execution_time(start_time, end_time)}"
                 )
 
     del model
