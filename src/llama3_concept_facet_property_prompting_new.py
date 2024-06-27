@@ -9,8 +9,6 @@ import pandas as pd
 import torch
 import transformers
 from huggingface_hub import login
-
-# import transformers
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 device = 0
@@ -108,11 +106,11 @@ def generate_data(config, concept_prompts):
         token=access_token,
     )
 
-    print(f"base_model: {base_model}")
-    print(f"############ Model ############", end="\n\n")
-    print(model, end="\n\n")
-    print(f"Device map")
-    print(model.hf_device_map)
+    # print(f"base_model: {base_model}")
+    # print(f"############ Model ############", end="\n\n")
+    # print(model, end="\n\n")
+    # print(f"Device map")
+    # print(model.hf_device_map)
 
     logger.info(f"base_model: {base_model}")
     logger.info(f"############ Model ############")
@@ -137,10 +135,11 @@ def generate_data(config, concept_prompts):
     with open(output_file, "w") as out_file:
 
         for i in range(repeat_times):
-            print(f"****** repeat_times : {i} ******")
+            # print(f"****** repeat_times : {i} ******")
+            logger.info(f"****** repeat_times : {i} ******")
 
             for batch_no, batch_start_idx in enumerate(
-                range(0, len(concept_prompts), batch_size)
+                range(0, len(concept_prompts), batch_size), start=1
             ):
                 print(f"****** processing_batch: {batch_no} / {total_batches} ******")
                 logger.info(
@@ -170,7 +169,7 @@ def generate_data(config, concept_prompts):
                     print(f"{seq[0]['generated_text']}\n", flush=True)
 
                     out_file.write(f'{seq[0]["generated_text"]}')
-                    # logger.info(f"{seq[0]['generated_text']}\n")
+                    out_file.flush()
 
                     print("===================================", flush=True)
 
@@ -178,6 +177,10 @@ def generate_data(config, concept_prompts):
                 del sequences
                 end_time = time.time()
                 print(
+                    f"batch_processing_time: {get_execution_time(start_time, end_time)}",
+                    flush=True,
+                )
+                logger.info(
                     f"batch_processing_time: {get_execution_time(start_time, end_time)}"
                 )
 
