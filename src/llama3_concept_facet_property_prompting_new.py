@@ -7,15 +7,11 @@ from argparse import ArgumentParser
 
 import pandas as pd
 import torch
+import transformers
 from huggingface_hub import login
 
 # import transformers
-from transformers import (
-    AutoModelForCausalLM,
-    AutoTokenizer,
-    BitsAndBytesConfig,
-    pipeline,
-)
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 device = 0
 start_time = time.time()
@@ -128,7 +124,7 @@ def generate_data(config, concept_prompts):
     tokenizer.pad_token = tokenizer.eos_token
     tokenizer.padding_side = "right"
 
-    generator = pipeline(
+    generator = transformers.pipeline(
         "text-generation", model=model, device_map=device, tokenizer=tokenizer
     )
 
