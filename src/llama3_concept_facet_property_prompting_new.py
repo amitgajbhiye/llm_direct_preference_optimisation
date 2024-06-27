@@ -17,8 +17,8 @@ from transformers import (
     pipeline,
 )
 
+device = 0
 start_time = time.time()
-
 access_token = "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"
 
 login(token=access_token)
@@ -106,7 +106,10 @@ def generate_data(config, concept_prompts):
 
     # Load base moodel in quantised form
     model = AutoModelForCausalLM.from_pretrained(
-        base_model, quantization_config=bnb_config, device_map=0, token=access_token
+        base_model,
+        quantization_config=bnb_config,
+        device_map=device,
+        token=access_token,
     )
 
     print(f"base_model: {base_model}")
@@ -126,7 +129,7 @@ def generate_data(config, concept_prompts):
     tokenizer.padding_side = "right"
 
     generator = pipeline(
-        "text-generation", model=model, device_map="auto", tokenizer=tokenizer
+        "text-generation", model=model, device_map=device, tokenizer=tokenizer
     )
 
     repeat_times = config["repeat_times"]
@@ -177,6 +180,10 @@ def generate_data(config, concept_prompts):
 
                 del seq
                 del sequences
+                end_time = time.time()
+                print(
+                    f"batch_processing_time: {get_execution_time(start_time, end_time)}"
+                )
 
     del model
     del pipeline

@@ -19,6 +19,6 @@
 
 conda activate llm_prompts
 
-python3 src/llama3_concept_facet_property_prompting_new.py --config_file configs/facet_prop_generation/llama3_science_ev_facet_property.json
+CUDA_VISIBLE_DEVICES=0, python3 src/llama3_concept_facet_property_prompting_new.py --config_file configs/facet_prop_generation/llama3_science_ev_facet_property.json
 
 echo 'Job Finished !!!'
