@@ -13,7 +13,6 @@ from huggingface_hub import login
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
 
 device = 0
-start_time = time.time()
 access_token = "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"
 
 login(token=access_token)
@@ -130,6 +129,7 @@ def generate_data(config, concept_prompts):
             for batch_no, batch_start_idx in enumerate(
                 range(0, len(concept_prompts), batch_size), start=1
             ):
+                batch_start_time = time.time()
 
                 concept_prompt_batch = concept_prompts[
                     batch_start_idx : batch_start_idx + batch_size
@@ -160,15 +160,15 @@ def generate_data(config, concept_prompts):
 
                 del seq
                 del sequences
-                end_time = time.time()
+                batch_end_time = time.time()
 
                 print(
-                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size}, time_take: {get_execution_time(start_time, end_time)}",
+                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size}, time_take: {get_execution_time(batch_start_time, batch_end_time)}",
                     flush=True,
                 )
 
                 logger.info(
-                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size}, time_take: {get_execution_time(start_time, end_time)}"
+                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, batch_size: {batch_size}, time_take: {get_execution_time(batch_start_time, batch_end_time)}"
                 )
 
     del model
@@ -181,6 +181,7 @@ def generate_data(config, concept_prompts):
 
 
 if __name__ == "__main__":
+    start_time = time.time()
 
     parser = ArgumentParser(description="Fine tune configuration")
 
@@ -216,7 +217,7 @@ if __name__ == "__main__":
 
     # parse_generated_data()
 
-    logger.info(f"Job Finished")
+    logger.info(f"job_finished")
 
     end_time = time.time()
     logger.info(f"total_execution_time: {get_execution_time(start_time, end_time)})")
