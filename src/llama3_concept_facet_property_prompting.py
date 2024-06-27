@@ -71,10 +71,6 @@ def prepare_data(config):
     df = pd.read_csv(input_file, sep="\t", names=["id", "concept"])
     concepts = [con.strip() for con in df["concept"].values]
 
-    # print(f"Number of concepts: {len(concepts)}")
-    # print(f"input_concepts: {concepts}")
-    # print(f"Prompt used is : {llama3_8B_1inc_prompt}")
-
     logger.info(f"Number of concepts: {len(concepts)}")
     logger.info(f"input_concepts: {concepts}")
     logger.info(f"Prompt used is : {llama3_8B_1inc_prompt}")
@@ -129,16 +125,10 @@ def generate_data(config, concept_prompts):
     with open(output_file, "w") as out_file:
 
         for i in range(1, repeat_times):
-            # print(f"****** repeat_times : {i} ******")
-            logger.info(f"****** repeat_times : {i} ******")
 
             for batch_no, batch_start_idx in enumerate(
                 range(0, len(concept_prompts), batch_size), start=1
             ):
-                print(f"****** processing_batch: {batch_no} / {total_batches} ******")
-                logger.info(
-                    f"****** processing_batch: {batch_no} / {total_batches} ******"
-                )
 
                 concept_prompt_batch = concept_prompts[
                     batch_start_idx : batch_start_idx + batch_size
@@ -170,12 +160,14 @@ def generate_data(config, concept_prompts):
                 del seq
                 del sequences
                 end_time = time.time()
+
                 print(
-                    f"batch_processing_time: {get_execution_time(start_time, end_time)}",
+                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, time_take: {get_execution_time(start_time, end_time)}",
                     flush=True,
                 )
+
                 logger.info(
-                    f"batch_processing_time: {get_execution_time(start_time, end_time)}"
+                    f"repeat_times: {i}, processed_batch: {batch_no} / {total_batches}, time_take: {get_execution_time(start_time, end_time)}"
                 )
 
     del model
