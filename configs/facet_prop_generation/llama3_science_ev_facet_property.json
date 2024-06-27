@@ -5,5 +5,5 @@
     "base_model": "meta-llama/Meta-Llama-3-8B-Instruct",
     "repeat_times": 10,
     "output_file": "data/evaluation_taxo/generated_facet_property/lama3_repeat10_concept_facet_property_science_ev_onto_concepts.txt",
-    "batch_size": 32
+    "batch_size": 64
 }

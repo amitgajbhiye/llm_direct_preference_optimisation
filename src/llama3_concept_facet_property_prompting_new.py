@@ -186,7 +186,7 @@ def generate_data(config, concept_prompts):
                 )
 
     del model
-    del pipeline
+    del generator
     del concept_prompts
 
     end_time = time.time()
