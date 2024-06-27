@@ -1,21 +1,21 @@
 #!/bin/bash --login
 
-#SBATCH --job-name=temp
+#SBATCH --job-name=l3ScEV
 
-#SBATCH --output=logs/out_llama3_temp.txt
-#SBATCH --error=logs/err_llama3_temp.txt
+#SBATCH --output=logs/out_llama3_science_ev_facet_property.txt
+#SBATCH --error=logs/err_llama3_science_ev_facet_property.txt
 
 #SBATCH --tasks-per-node=5
 #SBATCH --ntasks=5
 #SBATCH -A scw1858
 
-#SBATCH -p highmem
+#SBATCH -p gpu_v100
 
-#SBATCH --mem=5G
-#SBATCH -t 0-01:00:00
+#SBATCH --mem=40
+#SBATCH -t 0-08:00:00
+
 
 conda activate llm_prompts
-
 
 python3 src/llama3_concept_facet_property_prompting_new.py --config_file configs/facet_prop_generation/llama3_science_ev_facet_property.json
 
