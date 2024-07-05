@@ -69,7 +69,7 @@ def prepare_data(config):
     # concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 
     df = pd.read_csv(input_file, sep="\t", names=["id", "concept"])
-    concepts = [con.strip() for con in df["concept"].values]
+    concepts = [con.strip() for con in df["concept"].values][:20]
 
     logger.info(f"Number of concepts: {len(concepts)}")
     logger.info(f"input_concepts: {concepts}")
@@ -198,21 +198,16 @@ def fix_unbalanced_brackets(data):
             if stack and stack[-1] == closing_brackets[char]:
                 stack.pop()
             else:
-                # Add the corresponding opening bracket at the beginning
                 data = opening_brackets[char] + data
         balanced_data += char
 
-    # Add the corresponding closing brackets at the end
     while stack:
         balanced_data += opening_brackets[stack.pop()]
 
     return balanced_data
 
 
-# Redefine the function to parse the file and handle potential JSON issues
-
-
-def parse_and_fix_concepts(file_path, config):
+def parse_and_format_data(file_path, config):
 
     logger.info(f"Parsing the LLM data: {file_path}")
 
@@ -250,7 +245,6 @@ def parse_and_fix_concepts(file_path, config):
         # facets = facet_properties_dict.keys()
 
         for facet, properties in facet_properties_dict.items():
-            # print (facet, properties)
             for prop in properties:
                 concept_facet_property.append(
                     (concept, facet.lower().strip(), prop.lower().strip())
@@ -321,7 +315,7 @@ if __name__ == "__main__":
     concept_prompts = prepare_data(config)
     concept_facet_property_file = generate_data(config, concept_prompts)
 
-    parse_and_fix_concepts(file_path=concept_facet_property_file)
+    parse_and_format_data(file_path=concept_facet_property_file, config=config)
 
     logger.info(f"job_finished")
     end_time = time.time()
