@@ -562,13 +562,7 @@ In terms of the purpose, write the ten most salient properties of the concept "m
 {"concept": "military watercraft", "properties": ["", ]}<|eot_id|>
 
 
-
-
-
-
-
 {"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "ownership": ["private", "government"], "services": ["passenger", "freight", "tourist"], "equipment": ["trains", "locomotives", "tracks"], "operations": ["scheduling", "maintenance", "safety"], "location": ["global", "local", "regional"], "revenue source": ["ticket sales", "cargo fees", "advertising"]}}
-
 
 {"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "business model": ["freight transport", "passenger transport", "tourism"], "infrastructure": ["tracks", "stations", "trains"], "operations": ["scheduling", "maintenance", "staffing"], "revenue streams": ["ticket sales", "freight charges", "advertising"], "regulation": ["government oversight", "safety standards", "environmental regulations"], "locations": ["across the country", "globally", "in a specific region"]}}
 
@@ -579,5 +573,5 @@ In terms of the purpose, write the ten most salient properties of the concept "m
 
 python3 src/llama3_concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_environment_facet_proper.json
 
-python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_environment_facet_proper copy.json
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_science_facet_proper.json
 
