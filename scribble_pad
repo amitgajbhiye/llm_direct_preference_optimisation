@@ -577,28 +577,7 @@ In terms of the purpose, write the ten most salient properties of the concept "m
 
 
 
-python3 src/llama3_concept_facet_property_prompting.py configs/facet_prop_generation/llama3_environment_facet_proper.json
+python3 src/llama3_concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_environment_facet_proper.json
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_environment_facet_proper copy.json
 

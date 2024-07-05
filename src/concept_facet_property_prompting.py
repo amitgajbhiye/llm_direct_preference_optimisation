@@ -117,7 +117,7 @@ def generate_data(config, concept_prompts):
     )
 
     repeat_times = config["repeat_times"] + 1
-    output_file = config["output_file"]
+    output_file = os.path.join(config["output_dir"], config["output_file"])
     batch_size = config["batch_size"]
 
     total_batches = math.ceil(len(concept_prompts) / batch_size)
@@ -179,6 +179,112 @@ def generate_data(config, concept_prompts):
     gc.collect()
     gc.collect()
 
+    logger.info(f"Finished generating data from LLM")
+    logger.info(f"The raw output from LLM is saved at: {output_file}")
+    return output_file
+
+
+def fix_unbalanced_brackets(data):
+
+    stack = []
+    balanced_data = ""
+    opening_brackets = {"(": ")", "[": "]", "{": "}"}
+    closing_brackets = {")": "(", "]": "[", "}": "{"}
+
+    for char in data:
+        if char in opening_brackets:
+            stack.append(char)
+        elif char in closing_brackets:
+            if stack and stack[-1] == closing_brackets[char]:
+                stack.pop()
+            else:
+                # Add the corresponding opening bracket at the beginning
+                data = opening_brackets[char] + data
+        balanced_data += char
+
+    # Add the corresponding closing brackets at the end
+    while stack:
+        balanced_data += opening_brackets[stack.pop()]
+
+    return balanced_data
+
+
+# Redefine the function to parse the file and handle potential JSON issues
+
+
+def parse_and_fix_concepts(file_path, config):
+
+    logger.info(f"Parsing the LLM data: {file_path}")
+
+    concepts = []
+    with open(file_path, "r") as file:
+        for line in file:
+
+            line = fix_unbalanced_brackets(line)
+
+            if line.strip():
+                try:
+                    data = json.loads(line.strip())
+                    concept = data.get("concept")
+                    facet_properties_dict = data.get("facet_properties_dict")
+
+                    if concept and facet_properties_dict:
+                        concepts.append(
+                            {
+                                "concept": concept,
+                                "facet_properties_dict": facet_properties_dict,
+                            }
+                        )
+                except json.JSONDecodeError as e:
+                    print(f"JSON decoding error: {e}")
+                    print(f"Problematic line: {line}")
+
+    df_fixed = pd.DataFrame(concepts)
+
+    concept_facet_property = []
+
+    for idx, row in df_fixed.iterrows():
+
+        concept = row["concept"].lower().strip()
+        facet_properties_dict = row["facet_properties_dict"]
+        # facets = facet_properties_dict.keys()
+
+        for facet, properties in facet_properties_dict.items():
+            # print (facet, properties)
+            for prop in properties:
+                concept_facet_property.append(
+                    (concept, facet.lower().strip(), prop.lower().strip())
+                )
+
+    df = pd.DataFrame.from_records(
+        concept_facet_property, columns=["concept", "facet", "property"]
+    )
+    logger.info(f"all_records: {df.shape}")
+
+    df.drop_duplicates(inplace=True)
+    logger.info(f"after_drop_duplicate: {df.shape}")
+
+    df["facet_property"] = df["facet"].str.strip() + ": " + df["property"].str.strip()
+    df.sort_values(by="facet", inplace=True)
+
+    file_name, file_extension = os.path.splitext(config["output_file"])
+
+    parsed_file_name = file_name + "_parsed.txt"
+    parsed_file = os.path.join(config["output_dir"], parsed_file_name)
+
+    df.to_csv(parsed_file, sep="\t", index=False)
+
+    colon_file = file_name + "facet_colon_property.txt"
+
+    df["facet_property"].drop_duplicates().to_csv(
+        colon_file, sep="\t", index=0, header=0
+    )
+
+    logger.info(f"Parsed - concept_facet_property file saved at: {parsed_file_name}")
+    logger.info(f"facet_colon_property file saved at: {colon_file}")
+
+    return df
+
 
 if __name__ == "__main__":
     start_time = time.time()
@@ -213,11 +319,10 @@ if __name__ == "__main__":
 
     # Executing pipleine
     concept_prompts = prepare_data(config)
-    generate_data(config, concept_prompts)
+    concept_facet_property_file = generate_data(config, concept_prompts)
 
-    # parse_generated_data()
+    parse_and_fix_concepts(file_path=concept_facet_property_file)
 
     logger.info(f"job_finished")
-
     end_time = time.time()
     logger.info(f"total_execution_time: {get_execution_time(start_time, end_time)})")

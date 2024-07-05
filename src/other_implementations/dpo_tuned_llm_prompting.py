@@ -1,16 +1,15 @@
-import os
 import gc
+import os
+
 import torch
 import transformers
-
+from peft import PeftModel
 from transformers import (
     AutoModelForCausalLM,
-    BitsAndBytesConfig,
     AutoTokenizer,
+    BitsAndBytesConfig,
     pipeline,
 )
-
-from peft import PeftModel
 from transformers.utils import logging
 
 logging.set_verbosity_error()
