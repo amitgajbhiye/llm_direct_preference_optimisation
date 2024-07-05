@@ -3,7 +3,7 @@
     "log_dir": "logs",
     "base_model": "meta-llama/Meta-Llama-3-8B-Instruct",
     "input_file": "data/evaluation_taxo/terms/science.terms",
-    "repeat_times": 2,
+    "repeat_times": 1,
     "batch_size": 128,
     "output_dir": "data/evaluation_taxo/generated_facet_property",
     "output_file": "lama3_concept_facet_property_science_taxo_concepts.txt"
