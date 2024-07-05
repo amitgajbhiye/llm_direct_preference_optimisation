@@ -268,7 +268,10 @@ def parse_and_format_data(file_path, config):
 
     df.to_csv(parsed_file, sep="\t", index=False)
 
-    colon_file = file_name + "facet_colon_property.txt"
+    colon_file_name = file_name + "facet_colon_property.txt"
+
+    colon_file = os.path.join(config["output_dir"], colon_file_name)
+    os.path.join(config["output_dir"], parsed_file_name)
 
     df["facet_property"].drop_duplicates().to_csv(
         colon_file, sep="\t", index=0, header=0
