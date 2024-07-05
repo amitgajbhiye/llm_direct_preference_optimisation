@@ -69,7 +69,7 @@ def prepare_data(config):
     # concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
 
     df = pd.read_csv(input_file, sep="\t", names=["id", "concept"])
-    concepts = [con.strip() for con in df["concept"].values][:20]
+    concepts = [con.strip() for con in df["concept"].values]
 
     logger.info(f"Number of concepts: {len(concepts)}")
     logger.info(f"input_concepts: {concepts}")
