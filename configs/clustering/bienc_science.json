@@ -1,0 +1,7 @@
+{
+    "experiment_name": "bienc_science",
+    "log_dir": "logs",
+    "embedding_file": "data/evaluation_taxo/terms/environment.terms",
+    "output_dir": "data/evaluation_taxo/generated_facet_property",
+    "output_file": "bienc_science_facet_property_embeds_afp_clusters"
+}

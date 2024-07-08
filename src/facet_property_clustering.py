@@ -1,166 +1,175 @@
+import logging
+import os
 import pickle
+import time
+from argparse import ArgumentParser
 
-import hdbscan
 import numpy as np
 import pandas as pd
-from sklearn.cluster import DBSCAN, AffinityPropagation
-from sklearn.metrics import silhouette_score
+from sklearn.cluster import AffinityPropagation
 from sklearn.preprocessing import StandardScaler
 
-# file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_property_property_embeddings.pkl"
-
-file = "/home/amit/cardiff_work/llm_direct_preference_optimisation/output_llm_embeds/bienc_embeds/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
-
-transport_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_facet_colon_sep_property_property_embeddings.pkl"
-wine_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_wine_facet_colon__property_embeddings.pkl"
-olympics_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_olympics_facet_colon__property_embeddings.pkl"
-economy_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_economy_facet_colon__property_embeddings.pkl"
-
-food_hawk_file = "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_food_facet_colon__property_embeddings.pkl"
+from utilities import get_execution_time, read_config
 
 
-with open(food_hawk_file, "rb") as pkl_inp:
-    prop_embed = pickle.load(pkl_inp)
+def affinity_propagation_clustering(config):
 
-properties = list(prop_embed.keys())
-prop_embeddings = np.array(list(prop_embed.values()))
+    embedding_file = config["embedding_file"]
 
-print(f"Properties: {properties[0:10]} ...")
-print(f"prop_embeddings: {prop_embeddings.shape} ...")
-print(f"Properties: {len(set(properties))}")
+    with open(embedding_file, "rb") as pkl_inp:
+        prop_embed = pickle.load(pkl_inp)
 
+    properties = list(prop_embed.keys())
+    prop_embeddings = np.array(list(prop_embed.values()))
 
-cluster_algo = "affinity_propogation"
-print(f"cluster_algo:", cluster_algo)
+    logger.info(f"embedding_file: {embedding_file}")
+    logger.info(f"total_properties: {len(set(properties))}")
+    logger.info(f"some_input_properties: {properties[0:10]} ...")
+    logger.info(f"prop_embeddings_shape: {prop_embeddings.shape} ...")
 
-if cluster_algo == "affinity_propogation":
+    scaled_embeds = StandardScaler().fit_transform(prop_embeddings)
 
-    X = StandardScaler().fit_transform(prop_embeddings)
+    logger.info(f"scaled_embeds.shape {scaled_embeds.shape}")
 
-    print(f"X.shape {X.shape}")
-
-    clustering = AffinityPropagation().fit(X)
+    clustering = AffinityPropagation().fit(scaled_embeds)
     labels = clustering.labels_
+    total_cluster_labels = set(labels)
 
-    print(f"labels: {len(set(labels))}")
-    print(f"labels: {set(labels)}")
+    logger.info(f"total_num_cluster_labels: {len(labels)}")
+    logger.info(f"total_cluster_labels: {total_cluster_labels}")
 
     prop_cluster_list = [(prop, label) for prop, label in zip(properties, labels)]
 
-    for prop, cluster in prop_cluster_list:
-        print(prop, cluster)
-
-    output_file = "bienc_entropy_bert_large_cnetpchatgpt_llama3_food_facet_colon_property_embeddings_affinity_propogation_clusters"
+    clusters_output_file = os.path.join(
+        config["output_dir"], config["clusters_output_file"]
+    )
 
     df = pd.DataFrame(
         prop_cluster_list, columns=["facet_property", "cluster_label"]
     ).sort_values(by=["cluster_label"])
 
-    df.to_csv(f"{output_file}.txt", sep="\t", index=False, encoding="utf-8")
+    df.to_csv(f"{clusters_output_file}.txt", sep="\t", index=False, encoding="utf-8")
 
-    with open(f"{output_file}.pkl", "wb") as pkl_out:
+    with open(f"{clusters_output_file}.pkl", "wb") as pkl_out:
         pickle.dump(prop_cluster_list, pkl_out)
 
+    logger.info(f"clustering_done!!!")
+    logger.info(f"text_clustered_file_saved at: {clusters_output_file}.txt")
+    logger.info(f"pkl_clustered_file_saved at: {clusters_output_file}.pkl")
 
-if cluster_algo == "DBSCAN":
+    return f"{clusters_output_file}.txt"
 
-    def dbscan_clustering(X, eps_values, min_samples_values):
 
-        best_score = -1
-        best_params = None
-        best_labels = None
+def merge_concepts_clusters(all_data_file, cluster_file):
 
-        for eps in eps_values:
-            for min_samples in min_samples_values:
-                db = DBSCAN(
-                    eps=eps, min_samples=min_samples, metric="cosine", algorithm="brute"
-                ).fit(X)
-                labels = db.labels_
+    logger.info(f"creating_final_clusters ...")
 
-                # Ignore clusters where all points are classified as noise
-                if len(set(labels)) <= 1:
-                    continue
+    all_data_df = pd.read_csv(all_data_file, sep="\t")
 
-                # Calculate silhouette score
-                score = silhouette_score(X, labels)
+    for col_name in list(all_data_df.columns):
+        all_data_df[col_name] = all_data_df[col_name].str.strip()
 
-                # Check if we got a better score
-                if score > best_score:
-                    best_score = score
-                    best_params = (eps, min_samples)
-                    best_labels = labels
+    logger.info(f"all_parsed_data_file: {all_data_file}")
+    logger.info(f"all_parsed_data")
+    logger.info(all_data_df)
 
-        return best_score, best_params, best_labels
+    cluster_df = pd.read_csv(cluster_file, sep="\t")
 
-    # eps_values = np.arange(0.1, 1.1, 0.1)
-    # min_samples_values = range(2, 10)
+    logger.info(f"cluster_file: {cluster_file}")
+    logger.info(f"cluster_data")
+    logger.info(cluster_df)
 
-    eps_values = [0.5]
-    min_samples_values = [5]
+    cluster_labels = cluster_df["cluster_label"].unique()
+    logger.info(f"cluster_labels: {len(cluster_labels), cluster_labels}")
 
-    X = StandardScaler().fit_transform(prop_embeddings)
+    sorted_clusters = []
+    for cluster_label in cluster_labels:
 
-    best_score, best_params, best_labels = dbscan_clustering(
-        X, eps_values, min_samples_values
+        logger.info(f"cluster_label: {cluster_label}")
+
+        temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
+        facet_props = temp_df["facet_property"].to_list()
+
+        # print (f"facet_prop: {facet_props}")
+        for facet_prop in facet_props:
+
+            facet_prop_list = facet_prop.split(":")
+            facet_prop_list = [x.strip() for x in facet_prop_list]
+
+            if len(facet_prop_list) > 2:
+                facet = facet_prop_list[0].strip()
+                prop = ":".join(facet_prop_list[1:]).strip()
+            else:
+                facet, prop = facet_prop_list
+                facet = facet.strip()
+                prop = prop.strip()
+
+            # print (f"facet: {facet}, prop: {prop}, cluster_label: {cluster_label}")
+            # print (all_data_df[(all_data_df["facet"] == facet) & (all_data_df["property"] == prop)])
+
+            concept_clusters = all_data_df[
+                (all_data_df["facet"] == facet) & (all_data_df["property"] == prop)
+            ]
+            concept_clusters["cluster_label"] = cluster_label
+            concept_clusters["facet_property"] = facet_prop
+
+            sorted_clusters.append(concept_clusters)
+
+    all_clusters = pd.concat(sorted_clusters, ignore_index=True).sort_values(
+        by=["cluster_label"]
     )
 
-    print(f"Best Silhouette Score: {best_score}")
-    print(f"Best Parameters: eps={best_params[0]}, min_samples={best_params[1]}")
+    # final_cluster_file = "../llm_direct_preference_optimisation/data/evaluation_taxo/generated_facet_property/final_clusters_llama3_repeat10_concept_facet_property_food_onto_concepts_parsed.txt"
+    # final_cluster_df.to_csv(final_cluster_file, sep="\t", index=False)
 
-    # Best Silhouette Score: 0.02702467143535614
-    # Best Parameters: eps=0.5, min_samples=5
+    # final_concept_property_cluster_label_file = "../llm_direct_preference_optimisation/data/evaluation_taxo/generated_facet_property/final_clusters_llama3_repeat10_concept_property_cluster_label_food_onto_concepts_parsed.txt"
+    # final_cluster_df[["concept", "property", "cluster_label"]].to_csv(final_concept_property_cluster_label_file, sep="\t", index=False)
 
-    with open("bienc_cluster_colon_sep.txt", "w") as out_file:
-        for prop, label in zip(properties, best_labels):
-            out_file.write(f"{prop}\t{label}\n")
+    all_cols_final_cluster_file = os.path.join(config["output_dir"], f"final_{config["clusters_output_file"]}.txt")
+    all_clusters.to_csv(all_cols_final_cluster_file, sep="\t", index=False)
+
+    con_prop_cluster_label_file_name = os.path.join(config["output_dir"], f"concept_property_cluster_label_{config["clusters_output_file"]}.txt")
+    all_clusters[["concept", "property", "cluster_label"]].to_csv(con_prop_cluster_label_file_name, sep="\t", index=False)
 
 
-if cluster_algo == "HDBSCAN":
+    return all_clusters
 
-    def hdbscan_clustering(X, min_cluster_size_values, min_samples_values):
-        print(f"In hdbscan_clustering")
-        best_score = -1
-        best_params = None
-        best_labels = None
 
-        for min_cluster_size in min_cluster_size_values:
-            for min_samples in min_samples_values:
-                clusterer = hdbscan.HDBSCAN(
-                    min_cluster_size=min_cluster_size, min_samples=min_samples
-                )
-                labels = clusterer.fit_predict(X)
+if __name__ == "__main__":
+    start_time = time.time()
 
-                # Ignore clusters where all points are classified as noise
-                if len(set(labels)) <= 1 or (len(set(labels)) == 2 and -1 in labels):
-                    continue
+    parser = ArgumentParser(description="Fine tune configuration")
 
-                # Calculate silhouette score
-                score = silhouette_score(X, labels)
-
-                # Check if we got a better score
-                if score > best_score:
-                    best_score = score
-                    best_params = (min_cluster_size, min_samples)
-                    best_labels = labels
-
-                print(f"min_cluster_size: {min_cluster_size}")
-                print(f"min_samples: {min_samples}")
-                print(f"score: {score}")
-                print(f"best_score: {best_score}")
-                print()
-
-        return best_score, best_params, best_labels
-
-    min_cluster_size_values = range(3, 10)
-    min_samples_values = range(1, 10)
-
-    X = StandardScaler().fit_transform(prop_embeddings)
-
-    best_score, best_params, best_labels = hdbscan_clustering(
-        X, min_cluster_size_values, min_samples_values
+    parser.add_argument(
+        "--config_file",
+        default="configs/default_config.json",
+        help="path to the configuration file",
     )
+    args = parser.parse_args()
 
-    print(f"Best Silhouette Score: {best_score}")
-    print(
-        f"Best Parameters: min_cluster_size={best_params[0]}, min_samples={best_params[1]}"
+    config = read_config(args.config_file)
+
+    log_dir = config["log_dir"]
+
+    log_file_name = os.path.join(
+        log_dir,
+        f"log_{config['experiment_name']}_{time.strftime('%d-%m-%Y_%H-%M-%S')}.txt",
     )
+    logging.basicConfig(
+        level=logging.INFO,
+        filename=log_file_name,
+        filemode="w",
+        format="%(asctime)s : %(name)s - %(message)s",
+    )
+    logger = logging.getLogger(__name__)
+    logger.info(f"Reading Configuration File: {args.config_file}")
+
+    logger.info("The model is run with the following configuration")
+    logger.info(f"\n {config} \n")
+
+    clusters_output_file = affinity_propagation_clustering(config=config)
+
+    merge_concepts_clusters(config["all_parsed_data_file"], clusters_output_file)
+
+    end_time = time.time()
+    get_execution_time(start_time, end_time)
