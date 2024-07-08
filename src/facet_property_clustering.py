@@ -119,17 +119,14 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         by=["cluster_label"]
     )
 
-    # final_cluster_file = "../llm_direct_preference_optimisation/data/evaluation_taxo/generated_facet_property/final_clusters_llama3_repeat10_concept_facet_property_food_onto_concepts_parsed.txt"
-    # final_cluster_df.to_csv(final_cluster_file, sep="\t", index=False)
-
-    # final_concept_property_cluster_label_file = "../llm_direct_preference_optimisation/data/evaluation_taxo/generated_facet_property/final_clusters_llama3_repeat10_concept_property_cluster_label_food_onto_concepts_parsed.txt"
-    # final_cluster_df[["concept", "property", "cluster_label"]].to_csv(final_concept_property_cluster_label_file, sep="\t", index=False)
-
     all_cols_final_cluster_file = os.path.join(config["output_dir"], f"final_{config["clusters_output_file"]}.txt")
     all_clusters.to_csv(all_cols_final_cluster_file, sep="\t", index=False)
 
-    con_prop_cluster_label_file_name = os.path.join(config["output_dir"], f"concept_property_cluster_label_{config["clusters_output_file"]}.txt")
+    con_prop_cluster_label_file_name = os.path.join(config["output_dir"], f"concept_property_cluster_label_{config['clusters_output_file']}.txt")
     all_clusters[["concept", "property", "cluster_label"]].to_csv(con_prop_cluster_label_file_name, sep="\t", index=False)
+
+    logger.info(f"all_cols_final_cluster_file saved at: {all_cols_final_cluster_file}")
+    logger.info(f"con_prop_cluster_label_file_name saved at: {con_prop_cluster_label_file_name}")
 
 
     return all_clusters
