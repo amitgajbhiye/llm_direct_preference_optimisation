@@ -119,15 +119,23 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         by=["cluster_label"]
     )
 
-    all_cols_final_cluster_file = os.path.join(config["output_dir"], f"final_{config["clusters_output_file"]}.txt")
+    all_cols_final_cluster_file = os.path.join(
+        config["output_dir"], f"final_{config['clusters_output_file']}.txt"
+    )
     all_clusters.to_csv(all_cols_final_cluster_file, sep="\t", index=False)
 
-    con_prop_cluster_label_file_name = os.path.join(config["output_dir"], f"concept_property_cluster_label_{config['clusters_output_file']}.txt")
-    all_clusters[["concept", "property", "cluster_label"]].to_csv(con_prop_cluster_label_file_name, sep="\t", index=False)
+    con_prop_cluster_label_file_name = os.path.join(
+        config["output_dir"],
+        f"concept_property_cluster_label_{config['clusters_output_file']}.txt",
+    )
+    all_clusters[["concept", "property", "cluster_label"]].to_csv(
+        con_prop_cluster_label_file_name, sep="\t", index=False
+    )
 
     logger.info(f"all_cols_final_cluster_file saved at: {all_cols_final_cluster_file}")
-    logger.info(f"con_prop_cluster_label_file_name saved at: {con_prop_cluster_label_file_name}")
-
+    logger.info(
+        f"con_prop_cluster_label_file_name saved at: {con_prop_cluster_label_file_name}"
+    )
 
     return all_clusters
 
