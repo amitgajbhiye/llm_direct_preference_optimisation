@@ -1,0 +1,955 @@
+concept	facet	property	facet_property
+anemometer	accuracy	highly accurate	accuracy: highly accurate
+nephelometer	accuracy	high precision	accuracy: high precision
+lensmeter	accuracy	precise	accuracy: precise
+pilot direction indicator	accuracy	reliable	accuracy: reliable
+weighing bottle	accuracy	highly accurate	accuracy: highly accurate
+nephelometer	accuracy	sensitive to particle size	accuracy: sensitive to particle size
+weighing bottle	accuracy	precise	accuracy: precise
+anemometer	accuracy	precise measurement	accuracy: precise measurement
+pilot direction indicator	accuracy	high	accuracy: high
+positioning equipment	accuracy	high precision	accuracy: high precision
+positioning equipment	accuracy	millimeter level	accuracy: millimeter level
+pilot direction indicator	accuracy	precise	accuracy: precise
+lensmeter	accuracy	highly accurate	accuracy: highly accurate
+electronic data interchange	advantages	reduced errors	advantages: reduced errors
+electronic data interchange	advantages	improved accuracy	advantages: improved accuracy
+infinite-axis telescope	advantages	wider field of view	advantages: wider field of view
+flat belt conveyor	advantages	efficient	advantages: efficient
+infinite-axis telescope	advantages	increased resolution	advantages: increased resolution
+multiple-effect evaporator	advantages	high concentration ratio	advantages: high concentration ratio
+multiple-effect evaporator	advantages	energy efficient	advantages: energy efficient
+uni-engine	advantages	lightweight	advantages: lightweight
+pneumatic conveyor	advantages	increased efficiency	advantages: increased efficiency
+pneumatic conveyor	advantages	reduced labor costs	advantages: reduced labor costs
+flat belt conveyor	advantages	cost-effective	advantages: cost-effective
+electronic data interchange	advantages	increased efficiency	advantages: increased efficiency
+flat belt conveyor	advantages	easy to maintain	advantages: easy to maintain
+pneumatic conveyor	advantages	cost-effective	advantages: cost-effective
+electronic data interchange	advantages	improved communication	advantages: improved communication
+electronic data interchange	advantages	faster processing	advantages: faster processing
+pneumatic conveyor	advantages	efficient	advantages: efficient
+petrographic microscope	advantages	accurate results	advantages: accurate results
+petrographic microscope	advantages	high resolution	advantages: high resolution
+infinite-axis telescope	advantages	accurate observations	advantages: accurate observations
+infinite-axis telescope	advantages	wide field of view	advantages: wide field of view
+uni-engine	advantages	affordable	advantages: affordable
+tilt table	alternative name	adjustable medical table	alternative name: adjustable medical table
+tilt table	alternative name	tilting examination table	alternative name: tilting examination table
+positioning equipment	application	surveying	application: surveying
+petrographic microscope	application	mineralogy	application: mineralogy
+image-stabilized binoculars	application	astronomy	application: astronomy
+electroscope	application	industrial quality control	application: industrial quality control
+image-stabilized binoculars	application	birdwatching	application: birdwatching
+magnetograph	application	space weather forecasting	application: space weather forecasting
+magnetograph	application	astrophysics research	application: astrophysics research
+infinite-axis telescope	application	astronomy research	application: astronomy research
+image-stabilized binoculars	application	hunting	application: hunting
+petrographic microscope	application	research	application: research
+positioning equipment	application	construction	application: construction
+petrographic microscope	application	geology	application: geology
+electroscope	application	scientific research	application: scientific research
+pneumatic conveyor	application	packaging	application: packaging
+pneumatic conveyor	application	warehousing	application: warehousing
+pneumatic conveyor	application	manufacturing	application: manufacturing
+multiple-effect evaporator	application	wastewater treatment	application: wastewater treatment
+infinite-axis telescope	application	space exploration	application: space exploration
+positioning equipment	application	aviation	application: aviation
+multiple-effect evaporator	application	food processing	application: food processing
+vector magnetograph	application	space weather forecasting	application: space weather forecasting
+vector magnetograph	application	astrophysics	application: astrophysics
+multiple-effect evaporator	application	chemical industry	application: chemical industry
+larmor neutron microscope	application	physics research	application: physics research
+larmor neutron microscope	application	material science	application: material science
+nephelometer	applications	air quality monitoring	applications: air quality monitoring
+nephelometer	applications	climate research	applications: climate research
+nephelometer	applications	cloud physics	applications: cloud physics
+c7 processor	architecture	64-bit	architecture: 64-bit
+c7 processor	architecture	7th generation	architecture: 7th generation
+c7 processor	architecture	x86-64	architecture: x86-64
+l'eplattenier helmet	associated with	french culture	associated with: french culture
+l'eplattenier helmet	associated with	cycling history	associated with: cycling history
+mathiole	availability	hard to find	availability: hard to find
+mathiole	availability	limited	availability: limited
+image-stabilized binoculars	benefit	reduced eye strain	benefit: reduced eye strain
+image-stabilized binoculars	benefit	better image quality	benefit: better image quality
+selective pallet rack	benefits	improved inventory management	benefits: improved inventory management
+selective pallet rack	benefits	increased storage capacity	benefits: increased storage capacity
+intermodal containers	benefits	cost-effective	benefits: cost-effective
+intermodal containers	benefits	reusable	benefits: reusable
+intermodal containers	benefits	efficient	benefits: efficient
+ebro trucks	brand	ebro	brand: ebro
+ebro trucks	brand	spanish	brand: spanish
+meade lx200	brands	meade instruments	brands: meade instruments
+esa space debris telescope	budget	€50 million	budget: €50 million
+esa space debris telescope	budget	€100 million	budget: €100 million
+galileoscope	category	telescope	category: telescope
+c7 processor	category	microprocessor	category: microprocessor
+combustion pipette	category	chemistry tool	category: chemistry tool
+galileoscope	category	optical instrument	category: optical instrument
+meade lx200	category	optical instrument	category: optical instrument
+meade lx200	category	astronomy	category: astronomy
+meade lx200	category	telescope	category: telescope
+combustion pipette	category	science equipment	category: science equipment
+morris c8	category	sports car	category: sports car
+anemometer	category	measurement	category: measurement
+anemometer	category	instrument	category: instrument
+c7 processor	category	cpus	category: cpus
+mathiole	category	rare fruit	category: rare fruit
+mathiole	category	type of fruit	category: type of fruit
+banana	category	fruit	category: fruit
+banana	category	healthy snack	category: healthy snack
+banana	category	food	category: food
+larmor neutron microscope	category	scientific instrument	category: scientific instrument
+larmor neutron microscope	category	microscope	category: microscope
+larmor neutron microscope	category	research tool	category: research tool
+infinite-axis telescope	category	optical instrument	category: optical instrument
+infinite-axis telescope	category	astronomy tool	category: astronomy tool
+galileoscope	category	astronomy	category: astronomy
+morris c8	category	car	category: car
+c7 processor	category	computer hardware	category: computer hardware
+anemometer	category	weather	category: weather
+morris c8	category	electric vehicle	category: electric vehicle
+riot protection helmet	certifications	niosh	certifications: niosh
+riot protection helmet	certifications	osha	certifications: osha
+riot protection helmet	certifications	european standards	certifications: european standards
+infinite-axis telescope	challenges	complex design	challenges: complex design
+infinite-axis telescope	challenges	difficulty in construction	challenges: difficulty in construction
+infinite-axis telescope	challenges	high manufacturing costs	challenges: high manufacturing costs
+electronic data interchange	characteristics	electronic	characteristics: electronic
+electronic data interchange	characteristics	secure	characteristics: secure
+electronic data interchange	characteristics	machine-readable	characteristics: machine-readable
+electronic data interchange	characteristics	standardized format	characteristics: standardized format
+electronic data interchange	characteristics	structured data	characteristics: structured data
+electronic data interchange	characteristics	standardized	characteristics: standardized
+electronic data interchange	characteristics	real-time	characteristics: real-time
+southern african large telescope	collaboration	south africa	collaboration: south africa
+southern african large telescope	collaboration	italy	collaboration: italy
+esa space debris telescope	collaboration	european union	collaboration: european union
+esa space debris telescope	collaboration	space agencies	collaboration: space agencies
+esa space debris telescope	collaboration	european space agency	collaboration: european space agency
+southern african large telescope	collaboration	germany	collaboration: germany
+southern african large telescope	collaboration	england	collaboration: england
+banana	color	yellow	color: yellow
+banana	color	green	color: green
+weighing bottle	commonly found in	laboratory	commonly found in: laboratory
+weighing bottle	commonly found in	pharmacy	commonly found in: pharmacy
+weighing bottle	commonly found in	kitchen	commonly found in: kitchen
+larmor neutron microscope	component	neutron source	component: neutron source
+larmor neutron microscope	component	magnetic coils	component: magnetic coils
+positioning equipment	component	receiver	component: receiver
+larmor neutron microscope	component	detector	component: detector
+positioning equipment	component	antenna	component: antenna
+positioning equipment	component	transmitter	component: transmitter
+disdrometer	components	drop counter	components: drop counter
+disdrometer	components	velocity sensor	components: velocity sensor
+meade lx200	components	hand controller	components: hand controller
+meade lx200	components	mount	components: mount
+meade lx200	components	optical tube assembly	components: optical tube assembly
+half-mile telescope	components	optical system	components: optical system
+disdrometer	components	rain gauge	components: rain gauge
+electroscope	components	metallic sphere	components: metallic sphere
+electroscope	components	insulating material	components: insulating material
+half-mile telescope	components	mirror	components: mirror
+anemometer	components	vanes	components: vanes
+anemometer	components	propellers	components: propellers
+anemometer	components	cups	components: cups
+multiple-effect evaporator	components	pumps	components: pumps
+multiple-effect evaporator	components	condenser	components: condenser
+multiple-effect evaporator	components	heat exchanger	components: heat exchanger
+pneumatic conveyor	components	conveyor belt	components: conveyor belt
+pneumatic conveyor	components	air blower	components: air blower
+pneumatic conveyor	components	control system	components: control system
+petrographic microscope	components	lens	components: lens
+petrographic microscope	components	stage	components: stage
+petrographic microscope	components	objective	components: objective
+infinite-axis telescope	components	mount	components: mount
+half-mile telescope	components	lens	components: lens
+electroscope	components	hairs or threads	components: hairs or threads
+lensmeter	components	meter	components: meter
+magnetograph	components	sensors	components: sensors
+magnetograph	components	magnetometers	components: magnetometers
+magnetograph	components	data analysis software	components: data analysis software
+lensmeter	components	scale	components: scale
+combustion pipette	components	pipette	components: pipette
+infinite-axis telescope	components	lens	components: lens
+infinite-axis telescope	components	mirror	components: mirror
+infinite-axis telescope	components	eyepiece	components: eyepiece
+lensmeter	components	lens	components: lens
+zymoscope	components	glass tube	components: glass tube
+zymoscope	components	indicator	components: indicator
+combustion pipette	components	measuring scale	components: measuring scale
+zymoscope	components	buffer solution	components: buffer solution
+combustion pipette	components	flame source	components: flame source
+dutch open telescope	construction	open	construction: open
+dutch open telescope	construction	wooden	construction: wooden
+dutch open telescope	construction	built in 1869	construction: built in 1869
+advanced crew escape suit	context	space mission	context: space mission
+advanced crew escape suit	context	space exploration	context: space exploration
+advanced crew escape suit	context	space station	context: space station
+crossley telescope	current status	no longer used for research	current status: no longer used for research
+crossley telescope	current status	retired	current status: retired
+esa space debris telescope	data analysis	software	data analysis: software
+esa space debris telescope	data analysis	algorithm	data analysis: algorithm
+electronic data interchange	definition	automated data transfer	definition: automated data transfer
+electronic data interchange	definition	digital exchange of business documents	definition: digital exchange of business documents
+electroscope	definition	instrument to measure electric charge	definition: instrument to measure electric charge
+electroscope	definition	device to detect static electricity	definition: device to detect static electricity
+electronic data interchange	definition	digital data transfer	definition: digital data transfer
+electronic data interchange	definition	electronic exchange of business documents	definition: electronic exchange of business documents
+sonometer	definition	instrument for measuring sound waves	definition: instrument for measuring sound waves
+forwarder	definition	shipping agent	definition: shipping agent
+disdrometer	definition	measures precipitation	definition: measures precipitation
+disdrometer	definition	instrument	definition: instrument
+zymoscope	definition	measures ph	definition: measures ph
+zymoscope	definition	scientific instrument	definition: scientific instrument
+forwarder	definition	logistics company	definition: logistics company
+forwarder	definition	freight forwarder	definition: freight forwarder
+nephelometer	definition	instrument	definition: instrument
+zymoscope	definition	instrument for measuring fermentation	definition: instrument for measuring fermentation
+zymoscope	definition	device for detecting yeast	definition: device for detecting yeast
+nephelometer	definition	measures	definition: measures
+nephelometer	definition	cloud condensation nuclei	definition: cloud condensation nuclei
+zymoscope	definition	measures acidity	definition: measures acidity
+sonometer	definition	device for detecting vibrations	definition: device for detecting vibrations
+tilt table	design	adjustable angle	design: adjustable angle
+tilt table	design	stable surface	design: stable surface
+l'eplattenier helmet	design	historical	design: historical
+tilt table	design	portable	design: portable
+infinite-axis telescope	design	infinite axis adjustment	design: infinite axis adjustment
+selective pallet rack	design	adjustable height	design: adjustable height
+advanced crew escape suit	design	adjustable	design: adjustable
+advanced crew escape suit	design	customizable	design: customizable
+l'eplattenier helmet	design	ornate	design: ornate
+infinite-axis telescope	design	unique axis system	design: unique axis system
+selective pallet rack	design	customizable size	design: customizable size
+l'eplattenier helmet	design	unique	design: unique
+image-stabilized binoculars	design	waterproof	design: waterproof
+riot protection helmet	design	ventilated	design: ventilated
+riot protection helmet	design	shock-absorbing	design: shock-absorbing
+image-stabilized binoculars	design	durable	design: durable
+riot protection helmet	design	ballistic	design: ballistic
+flat belt conveyor	design	flat belt	design: flat belt
+pneumatic conveyor	design	tubular	design: tubular
+pneumatic conveyor	design	linear	design: linear
+morris c8	design	aerodynamic	design: aerodynamic
+morris c8	design	aggressive	design: aggressive
+infinite-axis telescope	design	unique axis	design: unique axis
+galileoscope	design	reflective	design: reflective
+galileoscope	design	portable	design: portable
+flat belt conveyor	design	motorized	design: motorized
+flat belt conveyor	design	pulley system	design: pulley system
+infinite-axis telescope	design	no central axis	design: no central axis
+tauchmann telescope	designer	gerhard tauchmann	designer: gerhard tauchmann
+tauchmann telescope	designer	johann tauchmann	designer: johann tauchmann
+pilot direction indicator	device	navigation	device: navigation
+vector magnetograph	device	equipment	device: equipment
+pilot direction indicator	device	instrument	device: instrument
+pilot direction indicator	device	equipment	device: equipment
+vector magnetograph	device	instrument	device: instrument
+magnetograph	device type	scientific instrument	device type: scientific instrument
+vector magnetograph	device type	magnetometer	device type: magnetometer
+vector magnetograph	device type	scientific instrument	device type: scientific instrument
+magnetograph	device type	space weather monitoring	device type: space weather monitoring
+lurie-houghton telescope	diameter	1.2 meters	diameter: 1.2 meters
+james lick telescope	diameter	120 inches	diameter: 120 inches
+james lick telescope	diameter	3 meters	diameter: 3 meters
+large millimeter telescope	diameter	50 meters	diameter: 50 meters
+uni-engine	disadvantages	high emissions	disadvantages: high emissions
+flat belt conveyor	disadvantages	limited capacity	disadvantages: limited capacity
+flat belt conveyor	disadvantages	dust generation	disadvantages: dust generation
+flat belt conveyor	disadvantages	noise pollution	disadvantages: noise pollution
+uni-engine	disadvantages	low performance	disadvantages: low performance
+pneumatic conveyor	disadvantages	requires maintenance	disadvantages: requires maintenance
+multiple-effect evaporator	disadvantages	high maintenance cost	disadvantages: high maintenance cost
+multiple-effect evaporator	disadvantages	complex design	disadvantages: complex design
+pneumatic conveyor	disadvantages	dust generation	disadvantages: dust generation
+pneumatic conveyor	disadvantages	limited capacity	disadvantages: limited capacity
+pneumatic conveyor	disadvantages	noise pollution	disadvantages: noise pollution
+crossley telescope	discoveries	asteroids	discoveries: asteroids
+crossley telescope	discoveries	comets	discoveries: comets
+crossley telescope	discoveries	many celestial objects	discoveries: many celestial objects
+81-740/741	display	numeric display	display: numeric display
+81-740/741	display	graphing display	display: graphing display
+combustion pipette	domain	chemistry	domain: chemistry
+combustion pipette	domain	science	domain: science
+combustion pipette	domain	physics	domain: physics
+tauchmann telescope	era	17th century	era: 17th century
+tauchmann telescope	era	baroque period	era: baroque period
+l'eplattenier helmet	era	early 20th century	era: early 20th century
+81-740/741	era	1980s	era: 1980s
+l'eplattenier helmet	era	19th century	era: 19th century
+81-740/741	era	1990s	era: 1990s
+sonometer	example of	scientific instrument	example of: scientific instrument
+sonometer	example of	acoustics device	example of: acoustics device
+great refractor	feature	large refracting telescope	feature: large refracting telescope
+great refractor	feature	first achromatic telescope	feature: first achromatic telescope
+great refractor	feature	invented by isaac newton	feature: invented by isaac newton
+petrographic microscope	features	polarized light	features: polarized light
+drive-through rack	features	adjustable arms	features: adjustable arms
+morris c8	features	all-wheel drive	features: all-wheel drive
+morris c8	features	electric motor	features: electric motor
+meade lx200	features	high-resolution optics	features: high-resolution optics
+81-740/741	features	trigonometric functions	features: trigonometric functions
+81-740/741	features	graphing	features: graphing
+kunlun dark universe survey telescope	features	high precision	features: high precision
+ebro trucks	features	strong engines	features: strong engines
+ebro trucks	features	large capacity	features: large capacity
+81-740/741	features	complex numbers	features: complex numbers
+meade lx200	features	computerized control system	features: computerized control system
+meade lx200	features	motorized altazimuth mount	features: motorized altazimuth mount
+lurie-houghton telescope	features	focal length of 12 meters	features: focal length of 12 meters
+lurie-houghton telescope	features	large primary mirror	features: large primary mirror
+pneumatic conveyor	features	adjustable	features: adjustable
+ebro trucks	features	heavy-duty suspension	features: heavy-duty suspension
+kunlun dark universe survey telescope	features	advanced optics	features: advanced optics
+kunlun dark universe survey telescope	features	large collecting area	features: large collecting area
+morris c8	features	high-performance	features: high-performance
+petrographic microscope	features	high magnification	features: high magnification
+advanced crew escape suit	features	pressurized	features: pressurized
+advanced crew escape suit	features	temperature controlled	features: temperature controlled
+advanced crew escape suit	features	oxygen supply	features: oxygen supply
+advanced crew escape suit	features	communication system	features: communication system
+vertico smi	features	eeg sensors	features: eeg sensors
+vertico smi	features	accelerometer	features: accelerometer
+vertico smi	features	gyroscope	features: gyroscope
+james lick telescope	features	manual altazimuth mount	features: manual altazimuth mount
+tauchmann telescope	features	has a focal length	features: has a focal length
+intermodal containers	features	waterproof	features: waterproof
+tauchmann telescope	features	uses concave mirror	features: uses concave mirror
+james lick telescope	features	reflecting telescope	features: reflecting telescope
+selective pallet rack	features	nestable	features: nestable
+drive-through rack	features	easy loading	features: easy loading
+intermodal containers	features	secure	features: secure
+pneumatic conveyor	features	flexible	features: flexible
+intermodal containers	features	stackable	features: stackable
+galileoscope	features	affordable	features: affordable
+c7 processor	features	integrated graphics	features: integrated graphics
+tilt table	features	recline function	features: recline function
+southern african large telescope	features	high-resolution imaging	features: high-resolution imaging
+tilt table	features	handrails	features: handrails
+selective pallet rack	features	stackable	features: stackable
+large millimeter telescope	features	state-of-the-art technology	features: state-of-the-art technology
+crossley telescope	features	used for studying the stars	features: used for studying the stars
+large millimeter telescope	features	cryogenic system	features: cryogenic system
+uni-engine	features	low maintenance	features: low maintenance
+uni-engine	features	simple design	features: simple design
+galileoscope	features	uses mirrors	features: uses mirrors
+image-stabilized binoculars	features	wide field of view	features: wide field of view
+galileoscope	features	simple design	features: simple design
+southern african large telescope	features	adaptive optics	features: adaptive optics
+image-stabilized binoculars	features	adjustable magnification	features: adjustable magnification
+tilt table	features	foot pedals	features: foot pedals
+riot protection helmet	features	face shield	features: face shield
+riot protection helmet	features	ear protection	features: ear protection
+crossley telescope	features	unique design	features: unique design
+tauchmann telescope	features	adjustable focus	features: adjustable focus
+crossley telescope	features	used for studying the solar system	features: used for studying the solar system
+c7 processor	features	turbo boost	features: turbo boost
+tauchmann telescope	features	large primary mirror	features: large primary mirror
+riot protection helmet	features	chin strap	features: chin strap
+c7 processor	features	hyper-threading	features: hyper-threading
+zymoscope	field of study	microbiology	field of study: microbiology
+vector magnetograph	field of study	space science	field of study: space science
+zymoscope	field of study	biochemistry	field of study: biochemistry
+vector magnetograph	field of study	astrophysics	field of study: astrophysics
+disdrometer	found in	weather stations	found in: weather stations
+disdrometer	found in	laboratories	found in: laboratories
+disdrometer	found in	research centers	found in: research centers
+uni-engine	fuel efficiency	low	fuel efficiency: low
+uni-engine	fuel efficiency	average	fuel efficiency: average
+zymoscope	function	measures acidity	function: measures acidity
+infinite-axis telescope	function	study universe	function: study universe
+positioning equipment	function	calculate angle	function: calculate angle
+zymoscope	function	indicates ph level	function: indicates ph level
+vertico smi	function	monitors sleep	function: monitors sleep
+vertico smi	function	tracks physical activity	function: tracks physical activity
+vertico smi	function	tracks brain activity	function: tracks brain activity
+larmor neutron microscope	function	examines atomic structure	function: examines atomic structure
+pneumatic conveyor	function	transports materials	function: transports materials
+vector magnetograph	function	detects solar activity	function: detects solar activity
+positioning equipment	function	determine location	function: determine location
+drive-through rack	function	holding items	function: holding items
+pilot direction indicator	function	shows navigation	function: shows navigation
+zymoscope	function	detecting yeast activity	function: detecting yeast activity
+multiple-effect evaporator	function	separate water from dissolved solids	function: separate water from dissolved solids
+multiple-effect evaporator	function	concentrate solutions	function: concentrate solutions
+zymoscope	function	measuring fermentation levels	function: measuring fermentation levels
+magnetograph	function	tracks solar activity	function: tracks solar activity
+drive-through rack	function	quick service	function: quick service
+larmor neutron microscope	function	analyzes material properties	function: analyzes material properties
+vector magnetograph	function	detects sunspots	function: detects sunspots
+vector magnetograph	function	measures magnetic fields	function: measures magnetic fields
+flat belt conveyor	function	transporting materials	function: transporting materials
+magnetograph	function	measures magnetic field	function: measures magnetic field
+flat belt conveyor	function	conveying goods	function: conveying goods
+pneumatic conveyor	function	moves goods	function: moves goods
+positioning equipment	function	measure distance	function: measure distance
+weighing bottle	function	measuring weight	function: measuring weight
+combustion pipette	function	measuring flammable liquids	function: measuring flammable liquids
+esa space debris telescope	function	tracking	function: tracking
+esa space debris telescope	function	predicting	function: predicting
+sonometer	function	measuring frequency	function: measuring frequency
+sonometer	function	measuring amplitude	function: measuring amplitude
+pilot direction indicator	function	indicates direction	function: indicates direction
+electroscope	function	measure electric field	function: measure electric field
+selective pallet rack	function	storing pallets	function: storing pallets
+electroscope	function	detect electric charge	function: detect electric charge
+weighing bottle	function	measuring	function: measuring
+weighing bottle	function	weighing	function: weighing
+weighing bottle	function	measuring liquids	function: measuring liquids
+dutch open telescope	function	observe celestial objects	function: observe celestial objects
+dutch open telescope	function	study stars	function: study stars
+dutch open telescope	function	make precise measurements	function: make precise measurements
+selective pallet rack	function	organizing inventory	function: organizing inventory
+infinite-axis telescope	function	study distant stars	function: study distant stars
+anemometer	function	measures wind speed	function: measures wind speed
+infinite-axis telescope	function	observe celestial objects	function: observe celestial objects
+half-mile telescope	function	study celestial bodies	function: study celestial bodies
+combustion pipette	function	testing for combustibility	function: testing for combustibility
+half-mile telescope	function	observe distant stars	function: observe distant stars
+weighing bottle	function	measuring volume	function: measuring volume
+vector magnetograph	function	measuring magnetic fields	function: measuring magnetic fields
+forwarder	function	handles customs clearance	function: handles customs clearance
+forwarder	function	coordinates logistics	function: coordinates logistics
+forwarder	function	arranges transportation	function: arranges transportation
+vector magnetograph	function	studying solar activity	function: studying solar activity
+pilot direction indicator	function	shows course	function: shows course
+anemometer	function	measures temperature	function: measures temperature
+anemometer	function	measures air pressure	function: measures air pressure
+esa space debris telescope	function	detecting	function: detecting
+image-stabilized binoculars	functionality	reduces shakiness	functionality: reduces shakiness
+image-stabilized binoculars	functionality	clearer view	functionality: clearer view
+lensmeter	functionality	measuring power	functionality: measuring power
+lensmeter	functionality	measuring axis	functionality: measuring axis
+advanced crew escape suit	functionality	protects against space environment	functionality: protects against space environment
+advanced crew escape suit	functionality	provides life support	functionality: provides life support
+crossley telescope	historical significance	important in the development of astronomy	historical significance: important in the development of astronomy
+electroscope	historical significance	used by benjamin franklin	historical significance: used by benjamin franklin
+electroscope	historical significance	invented by eustachio divini	historical significance: invented by eustachio divini
+tauchmann telescope	history	invented in the 19th century	history: invented in the 19th century
+james lick telescope	history	built in 1888	history: built in 1888
+tauchmann telescope	history	used in professional astronomy	history: used in professional astronomy
+james lick telescope	history	named after james lick	history: named after james lick
+lensmeter	importance	essential in eye care	importance: essential in eye care
+lensmeter	importance	critical in lens manufacturing	importance: critical in lens manufacturing
+dutch open telescope	importance	contributed to our understanding of the universe	importance: contributed to our understanding of the universe
+dutch open telescope	importance	pioneer in astronomy	importance: pioneer in astronomy
+pneumatic conveyor	industrial application	warehousing	industrial application: warehousing
+pneumatic conveyor	industrial application	manufacturing	industrial application: manufacturing
+electronic data interchange	industries	healthcare	industries: healthcare
+electronic data interchange	industries	manufacturing	industries: manufacturing
+electronic data interchange	industries	retail	industries: retail
+forwarder	industry	supply chain	industry: supply chain
+electronic data interchange	industry	retail	industry: retail
+electronic data interchange	industry	manufacturing	industry: manufacturing
+forwarder	industry	shipping	industry: shipping
+electronic data interchange	industry	healthcare	industry: healthcare
+electronic data interchange	industry	logistics	industry: logistics
+vertico smi	industry	technology	industry: technology
+vertico smi	industry	gaming	industry: gaming
+vertico smi	industry	healthcare	industry: healthcare
+forwarder	industry	logistics	industry: logistics
+intermodal containers	industry	logistics	industry: logistics
+intermodal containers	industry	shipping	industry: shipping
+intermodal containers	industry	transportation	industry: transportation
+81-740/741	input	numeric	input: numeric
+81-740/741	input	alphanumeric	input: alphanumeric
+pilot direction indicator	installation	flight deck	installation: flight deck
+pilot direction indicator	installation	cockpit	installation: cockpit
+vector magnetograph	instrument type	telescope	instrument type: telescope
+vector magnetograph	instrument type	spectrograph	instrument type: spectrograph
+nephelometer	instrumentation	laser	instrumentation: laser
+nephelometer	instrumentation	pneumatically controlled	instrumentation: pneumatically controlled
+nephelometer	instrumentation	photodiode	instrumentation: photodiode
+larmor neutron microscope	invented by	physicist's name	invented by: physicist's name
+galileoscope	invented by	galileo galilei	invented by: galileo galilei
+galileoscope	invented by	dutch scientist	invented by: dutch scientist
+great refractor	invented in	17th century	invented in: 17th century
+great refractor	invented in	1671	invented in: 1671
+infinite-axis telescope	inventor	unknown	inventor: unknown
+infinite-axis telescope	inventor	historical figure	inventor: historical figure
+morris c8	launch date	2022	launch date: 2022
+esa space debris telescope	launch date	2023	launch date: 2023
+half-mile telescope	length	880 yards	length: 880 yards
+half-mile telescope	length	half-mile	length: half-mile
+weighing bottle	located at	office	located at: office
+vector magnetograph	located at	astronomy observatories	located at: astronomy observatories
+weighing bottle	located at	pharmacy	located at: pharmacy
+vector magnetograph	located at	space agencies	located at: space agencies
+infinite-axis telescope	located at	astronomy observatories	located at: astronomy observatories
+great refractor	located at	cambridge university	located at: cambridge university
+great refractor	located at	isaac newton's laboratory	located at: isaac newton's laboratory
+banana	located at	fruit bowl	located at: fruit bowl
+banana	located at	fridge	located at: fridge
+vector magnetograph	located at	research institutes	located at: research institutes
+banana	located at	banana tree	located at: banana tree
+great refractor	located at	opticks	located at: opticks
+infinite-axis telescope	located at	laboratories	located at: laboratories
+infinite-axis telescope	located at	research institutions	located at: research institutions
+weighing bottle	located at	lab	located at: lab
+weighing bottle	located at	kitchen	located at: kitchen
+banana	located at	supermarket	located at: supermarket
+drive-through rack	location	gas station	location: gas station
+james lick telescope	location	lick observatory	location: lick observatory
+james lick telescope	location	university of california, santa cruz	location: university of california, santa cruz
+lensmeter	location	laboratory	location: laboratory
+dutch open telescope	location	leiden	location: leiden
+lensmeter	location	eye clinic	location: eye clinic
+lensmeter	location	optical shop	location: optical shop
+drive-through rack	location	fast food restaurant	location: fast food restaurant
+dutch open telescope	location	netherlands	location: netherlands
+tauchmann telescope	location	germany	location: germany
+magnetograph	location	terrestrial observatory	location: terrestrial observatory
+vector magnetograph	location	astronomy observatory	location: astronomy observatory
+vector magnetograph	location	space mission	location: space mission
+large millimeter telescope	location	atacama desert	location: atacama desert
+large millimeter telescope	location	chile	location: chile
+tauchmann telescope	location	europe	location: europe
+pilot direction indicator	location	cockpit	location: cockpit
+pilot direction indicator	location	instrument panel	location: instrument panel
+magnetograph	location	spacecraft	location: spacecraft
+drive-through rack	location	convenience store	location: convenience store
+kunlun dark universe survey telescope	location	kunlun mountains	location: kunlun mountains
+kunlun dark universe survey telescope	location	china	location: china
+magnetograph	location	laboratory	location: laboratory
+vector magnetograph	location	laboratories	location: laboratories
+half-mile telescope	location	desert	location: desert
+tauchmann telescope	location	astronomy observatory	location: astronomy observatory
+southern african large telescope	location	sutherland	location: sutherland
+southern african large telescope	location	south africa	location: south africa
+tauchmann telescope	location	research institution	location: research institution
+lurie-houghton telescope	location	yerkes observatory	location: yerkes observatory
+half-mile telescope	location	astronomy observatory	location: astronomy observatory
+lurie-houghton telescope	location	wisconsin	location: wisconsin
+crossley telescope	location	university of california, santa cruz	location: university of california, santa cruz
+galileoscope	location	astronomy observatory	location: astronomy observatory
+galileoscope	location	netherlands	location: netherlands
+vector magnetograph	location	research institutions	location: research institutions
+vector magnetograph	location	space observatories	location: space observatories
+crossley telescope	location	lick observatory	location: lick observatory
+tauchmann telescope	location	planetarium	location: planetarium
+half-mile telescope	location	mountain top	location: mountain top
+lurie-houghton telescope	location	united states	location: united states
+galileoscope	location	italy	location: italy
+c7 processor	manufactured by	intel	manufactured by: intel
+c7 processor	manufactured by	amd	manufactured by: amd
+morris c8	manufacturer	british	manufacturer: british
+morris c8	manufacturer	morris	manufacturer: morris
+intermodal containers	material	aluminum	material: aluminum
+selective pallet rack	material	steel	material: steel
+great refractor	material	lens	material: lens
+riot protection helmet	material	kevlar	material: kevlar
+great refractor	material	glass	material: glass
+intermodal containers	material	steel	material: steel
+weighing bottle	material	metal	material: metal
+weighing bottle	material	plastic	material: plastic
+weighing bottle	material	glass	material: glass
+tilt table	material	metal	material: metal
+tilt table	material	plastic	material: plastic
+selective pallet rack	material	aluminum	material: aluminum
+riot protection helmet	material	metal	material: metal
+riot protection helmet	material	plastic	material: plastic
+l'eplattenier helmet	material	leather	material: leather
+drive-through rack	material	plastic	material: plastic
+tilt table	material	wood	material: wood
+l'eplattenier helmet	material	metal	material: metal
+drive-through rack	material	metal	material: metal
+advanced crew escape suit	materials	lightweight	materials: lightweight
+advanced crew escape suit	materials	insulating	materials: insulating
+advanced crew escape suit	materials	durable	materials: durable
+pilot direction indicator	measurement	direction	measurement: direction
+pilot direction indicator	measurement	azimuth	measurement: azimuth
+nephelometer	measurement range	particles per liter	measurement range: particles per liter
+nephelometer	measurement range	micrograms per cubic meter	measurement range: micrograms per cubic meter
+disdrometer	measures	raindrop size distribution	measures: raindrop size distribution
+disdrometer	measures	raindrop velocity	measures: raindrop velocity
+disdrometer	measures	precipitation rate	measures: precipitation rate
+morris c8	model	c8	model: c8
+uni-engine	number of cylinders	single	number of cylinders: single
+uni-engine	number of cylinders	one	number of cylinders: one
+banana	nutritional content	high in sugar	nutritional content: high in sugar
+banana	nutritional content	rich in potassium	nutritional content: rich in potassium
+large millimeter telescope	operated by	national radio astronomy observatory	operated by: national radio astronomy observatory
+large millimeter telescope	operated by	carnegie institution for science	operated by: carnegie institution for science
+pneumatic conveyor	operation	uses vacuum	operation: uses vacuum
+pneumatic conveyor	operation	using compressed air	operation: using compressed air
+pneumatic conveyor	operation	using vacuum	operation: using vacuum
+pneumatic conveyor	operation	uses compressed air	operation: uses compressed air
+southern african large telescope	operational	functional	operational: functional
+southern african large telescope	operational	since 2006	operational: since 2006
+petrographic microscope	operator	scientist	operator: scientist
+petrographic microscope	operator	researcher	operator: researcher
+petrographic microscope	operator	geologist	operator: geologist
+kunlun dark universe survey telescope	operators	kunlun dark universe survey team	operators: kunlun dark universe survey team
+kunlun dark universe survey telescope	operators	chinese academy of sciences	operators: chinese academy of sciences
+esa space debris telescope	orbital location	geostationary	orbital location: geostationary
+esa space debris telescope	orbital location	low earth orbit	orbital location: low earth orbit
+mathiole	origin	west africa	origin: west africa
+mathiole	origin	central africa	origin: central africa
+l'eplattenier helmet	origin	france	origin: france
+l'eplattenier helmet	origin	history	origin: history
+zymoscope	originated from	research institution	originated from: research institution
+zymoscope	originated from	scientific community	originated from: scientific community
+vector magnetograph	output	vector maps	output: vector maps
+vector magnetograph	output	magnetic field data	output: magnetic field data
+vector magnetograph	output	data visualizations	output: data visualizations
+vector magnetograph	output	graphs	output: graphs
+vector magnetograph	output	magnetic field strength	output: magnetic field strength
+vector magnetograph	output	charts	output: charts
+vector magnetograph	output	vector field	output: vector field
+c7 processor	performance	high-performance	performance: high-performance
+c7 processor	performance	fast processing	performance: fast processing
+c7 processor	performance	multi-core	performance: multi-core
+sonometer	physical characteristics	long	physical characteristics: long
+sonometer	physical characteristics	made of metal	physical characteristics: made of metal
+sonometer	physical characteristics	thin	physical characteristics: thin
+ebro trucks	popularity	well-known brand	popularity: well-known brand
+ebro trucks	popularity	reliable vehicles	popularity: reliable vehicles
+uni-engine	power output	moderate	power output: moderate
+uni-engine	power output	small	power output: small
+weighing bottle	precision	precise	precision: precise
+weighing bottle	precision	accurate	precision: accurate
+l'eplattenier helmet	preservation	private collection	preservation: private collection
+l'eplattenier helmet	preservation	museum	preservation: museum
+morris c8	price range	$150,000	price range: $150,000
+morris c8	price range	$100,000	price range: $100,000
+meade lx200	price range	high-end	price range: high-end
+meade lx200	price range	professional	price range: professional
+meade lx200	price range	astronomy equipment	price range: astronomy equipment
+anemometer	principle	measures air flow	principle: measures air flow
+larmor neutron microscope	principle	uses neutron beams	principle: uses neutron beams
+larmor neutron microscope	principle	explores magnetic properties	principle: explores magnetic properties
+nephelometer	principle	counts cloud condensation nuclei	principle: counts cloud condensation nuclei
+nephelometer	principle	measures droplet size	principle: measures droplet size
+nephelometer	principle	measures light scattering	principle: measures light scattering
+anemometer	principle	measures air resistance	principle: measures air resistance
+multiple-effect evaporator	principle	vapor compression	principle: vapor compression
+multiple-effect evaporator	principle	heat transfer	principle: heat transfer
+ebro trucks	produced by	ebro trucks, s.a.	produced by: ebro trucks, s.a.
+ebro trucks	produced by	spanish company	produced by: spanish company
+combustion pipette	properties	safe handling required	properties: safe handling required
+combustion pipette	properties	high precision	properties: high precision
+combustion pipette	properties	accurate measurements	properties: accurate measurements
+zymoscope	properties	sensitive to fermentation byproducts	properties: sensitive to fermentation byproducts
+zymoscope	properties	can detect yeast presence	properties: can detect yeast presence
+drive-through rack	purpose	convenient service	purpose: convenient service
+esa space debris telescope	purpose	tracking small objects	purpose: tracking small objects
+esa space debris telescope	purpose	monitoring space debris	purpose: monitoring space debris
+galileoscope	purpose	observe celestial bodies	purpose: observe celestial bodies
+galileoscope	purpose	study the night sky	purpose: study the night sky
+drive-through rack	purpose	holding items	purpose: holding items
+pneumatic conveyor	purpose	transporting materials	purpose: transporting materials
+pilot direction indicator	purpose	enhance safety	purpose: enhance safety
+electronic data interchange	purpose	improved communication	purpose: improved communication
+half-mile telescope	purpose	stargazing	purpose: stargazing
+half-mile telescope	purpose	astronomy	purpose: astronomy
+disdrometer	purpose	measuring precipitation intensity	purpose: measuring precipitation intensity
+l'eplattenier helmet	purpose	protective	purpose: protective
+l'eplattenier helmet	purpose	cycling	purpose: cycling
+electronic data interchange	purpose	reduced paperwork	purpose: reduced paperwork
+l'eplattenier helmet	purpose	historical	purpose: historical
+ebro trucks	purpose	logistics	purpose: logistics
+ebro trucks	purpose	construction	purpose: construction
+tilt table	purpose	research	purpose: research
+tilt table	purpose	medical procedure	purpose: medical procedure
+kunlun dark universe survey telescope	purpose	study dark energy	purpose: study dark energy
+tilt table	purpose	examining patient	purpose: examining patient
+ebro trucks	purpose	heavy hauling	purpose: heavy hauling
+electronic data interchange	purpose	simplified business transactions	purpose: simplified business transactions
+disdrometer	purpose	studying weather patterns	purpose: studying weather patterns
+electronic data interchange	purpose	streamlining business processes	purpose: streamlining business processes
+electronic data interchange	purpose	reducing paperwork	purpose: reducing paperwork
+riot protection helmet	purpose	riot control	purpose: riot control
+lensmeter	purpose	measuring refractive power	purpose: measuring refractive power
+pilot direction indicator	purpose	aid navigation	purpose: aid navigation
+advanced crew escape suit	purpose	emergency escape	purpose: emergency escape
+advanced crew escape suit	purpose	space travel	purpose: space travel
+electronic data interchange	purpose	increasing efficiency	purpose: increasing efficiency
+lensmeter	purpose	checking lens power	purpose: checking lens power
+southern african large telescope	purpose	studying universe	purpose: studying universe
+riot protection helmet	purpose	law enforcement	purpose: law enforcement
+kunlun dark universe survey telescope	purpose	observe dark matter	purpose: observe dark matter
+kunlun dark universe survey telescope	purpose	study dark universe	purpose: study dark universe
+pneumatic conveyor	purpose	moving goods	purpose: moving goods
+southern african large telescope	purpose	astronomical research	purpose: astronomical research
+riot protection helmet	purpose	protective gear	purpose: protective gear
+morris c8	range	250 miles	range: 250 miles
+l'eplattenier helmet	rarity	rare	rarity: rare
+l'eplattenier helmet	rarity	collectible	rarity: collectible
+combustion pipette	related concept	combustion reaction	related concept: combustion reaction
+combustion pipette	related concept	flammability test	related concept: flammability test
+sonometer	related to	music theory	related to: music theory
+sonometer	related to	physics	related to: physics
+sonometer	related to	acoustics	related to: acoustics
+c7 processor	released date	2017	released date: 2017
+c7 processor	released date	2019	released date: 2019
+kunlun dark universe survey telescope	research focus	dark matter	research focus: dark matter
+kunlun dark universe survey telescope	research focus	dark energy	research focus: dark energy
+kunlun dark universe survey telescope	research focus	cosmology	research focus: cosmology
+southern african large telescope	research focus	black holes	research focus: black holes
+southern african large telescope	research focus	dark matter	research focus: dark matter
+southern african large telescope	research focus	galaxy evolution	research focus: galaxy evolution
+kunlun dark universe survey telescope	research focus	dark universe	research focus: dark universe
+large millimeter telescope	resolution	precise measurement	resolution: precise measurement
+large millimeter telescope	resolution	high resolution	resolution: high resolution
+vector magnetograph	resolution	precise measurement	resolution: precise measurement
+half-mile telescope	resolution	detailed observations	resolution: detailed observations
+half-mile telescope	resolution	high-resolution images	resolution: high-resolution images
+vector magnetograph	resolution	high resolution	resolution: high resolution
+forwarder	responsibilities	communicating with customers	responsibilities: communicating with customers
+forwarder	responsibilities	booking transportation	responsibilities: booking transportation
+forwarder	responsibilities	tracking shipments	responsibilities: tracking shipments
+weighing bottle	scale type	digital	scale type: digital
+weighing bottle	scale type	analog	scale type: analog
+half-mile telescope	scientific discovery	accurate distance measurements	scientific discovery: accurate distance measurements
+half-mile telescope	scientific discovery	new planetary discoveries	scientific discovery: new planetary discoveries
+esa space debris telescope	sensors	optical	sensors: optical
+esa space debris telescope	sensors	infrared	sensors: infrared
+esa space debris telescope	sensors	radar	sensors: radar
+weighing bottle	shape	bottle	shape: bottle
+weighing bottle	shape	cylinder	shape: cylinder
+drive-through rack	shape	long	shape: long
+banana	shape	curved	shape: curved
+weighing bottle	shape	container	shape: container
+drive-through rack	shape	horizontal	shape: horizontal
+james lick telescope	significance	one of the first large telescopes in the united states	significance: one of the first large telescopes in the united states
+james lick telescope	significance	important for astronomical research in the 19th century	significance: important for astronomical research in the 19th century
+lurie-houghton telescope	significance	important for studying the universe	significance: important for studying the universe
+lurie-houghton telescope	significance	helped in understanding celestial mechanics	significance: helped in understanding celestial mechanics
+mathiole	similar to	pineapple	similar to: pineapple
+mathiole	similar to	mango	similar to: mango
+zymoscope	similar to	ph meter	similar to: ph meter
+zymoscope	similar to	acid-base indicator	similar to: acid-base indicator
+weighing bottle	size	large	size: large
+kunlun dark universe survey telescope	size	7-meter diameter	size: 7-meter diameter
+crossley telescope	size	36 inches in diameter	size: 36 inches in diameter
+dutch open telescope	size	largest in the world at the time	size: largest in the world at the time
+southern african large telescope	size	9.2 meters	size: 9.2 meters
+intermodal containers	size	various sizes	size: various sizes
+weighing bottle	size	small	size: small
+dutch open telescope	size	3.3 meters in diameter	size: 3.3 meters in diameter
+kunlun dark universe survey telescope	size	large aperture	size: large aperture
+intermodal containers	size	standardized	size: standardized
+southern african large telescope	size	largest in southern hemisphere	size: largest in southern hemisphere
+drive-through rack	size	long	size: long
+drive-through rack	size	adjustable	size: adjustable
+forwarder	skills	organizational	skills: organizational
+forwarder	skills	communicative	skills: communicative
+forwarder	skills	problem-solving	skills: problem-solving
+electronic data interchange	standards	x12	standards: x12
+electronic data interchange	standards	edifact	standards: edifact
+electronic data interchange	standards	xml schema	standards: xml schema
+dutch open telescope	status	still used today	status: still used today
+dutch open telescope	status	operational	status: operational
+vertico smi	target audience	fitness enthusiasts	target audience: fitness enthusiasts
+vertico smi	target audience	people with sleep disorders	target audience: people with sleep disorders
+vertico smi	target audience	researchers	target audience: researchers
+banana	taste	sweet	taste: sweet
+mathiole	taste	tart	taste: tart
+mathiole	taste	sweet	taste: sweet
+vector magnetograph	technique	polarimetry	technique: polarimetry
+vector magnetograph	technique	solar spectroscopy	technique: solar spectroscopy
+image-stabilized binoculars	technology	accelerometers	technology: accelerometers
+positioning equipment	technology	satellite signal	technology: satellite signal
+kunlun dark universe survey telescope	technology	optical	technology: optical
+kunlun dark universe survey telescope	technology	infrared	technology: infrared
+kunlun dark universe survey telescope	technology	sensitive to faint light	technology: sensitive to faint light
+positioning equipment	technology	inertial measurement	technology: inertial measurement
+vector magnetograph	technology	records vectorial data	technology: records vectorial data
+image-stabilized binoculars	technology	gyroscopes	technology: gyroscopes
+vector magnetograph	technology	uses magnetometers	technology: uses magnetometers
+positioning equipment	technology	laser beam	technology: laser beam
+mathiole	texture	soft	texture: soft
+mathiole	texture	juicy	texture: juicy
+morris c8	top speed	180 mph	top speed: 180 mph
+infinite-axis telescope	type	optical	type: optical
+infinite-axis telescope	type	astronomical	type: astronomical
+anemometer	type	cup anemometer	type: cup anemometer
+pilot direction indicator	type	magnetic	type: magnetic
+selective pallet rack	type	warehouse storage	type: warehouse storage
+81-740/741	type	calculator	type: calculator
+81-740/741	type	scientific calculator	type: scientific calculator
+81-740/741	type	texas instruments	type: texas instruments
+pneumatic conveyor	type	mechanical	type: mechanical
+pneumatic conveyor	type	air-powered	type: air-powered
+selective pallet rack	type	industrial equipment	type: industrial equipment
+meade lx200	type	computerized	type: computerized
+james lick telescope	type	telescope	type: telescope
+meade lx200	type	altazimuth	type: altazimuth
+anemometer	type	vane anemometer	type: vane anemometer
+uni-engine	type	internal combustion	type: internal combustion
+uni-engine	type	gasoline	type: gasoline
+uni-engine	type	piston	type: piston
+great refractor	type	telescope	type: telescope
+great refractor	type	astronomical instrument	type: astronomical instrument
+james lick telescope	type	astronomical instrument	type: astronomical instrument
+meade lx200	type	go-to	type: go-to
+james lick telescope	type	optical telescope	type: optical telescope
+crossley telescope	type	reflecting telescope	type: reflecting telescope
+dutch open telescope	type	telescope	type: telescope
+dutch open telescope	type	astronomical instrument	type: astronomical instrument
+anemometer	type	propeller anemometer	type: propeller anemometer
+tauchmann telescope	type	astronomical instrument	type: astronomical instrument
+tauchmann telescope	type	reflecting telescope	type: reflecting telescope
+pilot direction indicator	type	gyroscopic	type: gyroscopic
+crossley telescope	type	astronomical instrument	type: astronomical instrument
+kunlun dark universe survey telescope	type	astronomical instrument	type: astronomical instrument
+kunlun dark universe survey telescope	type	telescope	type: telescope
+flat belt conveyor	type	material handling system	type: material handling system
+pneumatic conveyor	type	horizontal	type: horizontal
+pneumatic conveyor	type	vertical	type: vertical
+multiple-effect evaporator	type	evaporation equipment	type: evaporation equipment
+positioning equipment	type	gps receiver	type: gps receiver
+positioning equipment	type	laser tracker	type: laser tracker
+positioning equipment	type	theodolite	type: theodolite
+lurie-houghton telescope	type	reflecting telescope	type: reflecting telescope
+lurie-houghton telescope	type	optical telescope	type: optical telescope
+southern african large telescope	type	optical	type: optical
+pneumatic conveyor	type	inclined	type: inclined
+southern african large telescope	type	infrared	type: infrared
+large millimeter telescope	type	astronomical observatory	type: astronomical observatory
+large millimeter telescope	type	radio telescope	type: radio telescope
+zymoscope	type	scientific instrument	type: scientific instrument
+zymoscope	type	laboratory tool	type: laboratory tool
+vertico smi	type	gadget	type: gadget
+vertico smi	type	smart helmet	type: smart helmet
+ebro trucks	type	trucks	type: trucks
+ebro trucks	type	vehicles	type: vehicles
+ebro trucks	type	transportation	type: transportation
+flat belt conveyor	type	industrial equipment	type: industrial equipment
+multiple-effect evaporator	type	mechanical device	type: mechanical device
+southern african large telescope	type	radio	type: radio
+petrographic microscope	type	scientific instrument	type: scientific instrument
+petrographic microscope	type	optical	type: optical
+nephelometer	types	condensation	types: condensation
+electroscope	types	faraday's electrostatic generator	types: faraday's electrostatic generator
+forwarder	types	air freight forwarder	types: air freight forwarder
+electronic data interchange	types	xml	types: xml
+forwarder	types	ocean freight forwarder	types: ocean freight forwarder
+intermodal containers	types	dry containers	types: dry containers
+electronic data interchange	types	edi	types: edi
+forwarder	types	land freight forwarder	types: land freight forwarder
+nephelometer	types	electrical	types: electrical
+nephelometer	types	optical	types: optical
+electronic data interchange	types	api	types: api
+intermodal containers	types	reefer containers	types: reefer containers
+intermodal containers	types	open-top containers	types: open-top containers
+electroscope	types	wimshurst electrostatic generator	types: wimshurst electrostatic generator
+larmor neutron microscope	unique feature	high-resolution imaging	unique feature: high-resolution imaging
+larmor neutron microscope	unique feature	uses larmor radiation	unique feature: uses larmor radiation
+flat belt conveyor	usage	packaging	usage: packaging
+zymoscope	usage	research	usage: research
+zymoscope	usage	scientific experiment	usage: scientific experiment
+combustion pipette	usage	laboratory	usage: laboratory
+combustion pipette	usage	testing	usage: testing
+combustion pipette	usage	research	usage: research
+flat belt conveyor	usage	manufacturing	usage: manufacturing
+flat belt conveyor	usage	warehousing	usage: warehousing
+c7 processor	usage	gaming	usage: gaming
+zymoscope	usage	laboratory	usage: laboratory
+c7 processor	usage	video editing	usage: video editing
+pilot direction indicator	usage	aviation	usage: aviation
+c7 processor	usage	3d modeling	usage: 3d modeling
+pilot direction indicator	usage	aircraft	usage: aircraft
+petrographic microscope	use	studying minerals	use: studying minerals
+81-740/741	use	mathematics	use: mathematics
+intermodal containers	use	transporting goods	use: transporting goods
+81-740/741	use	engineering	use: engineering
+81-740/741	use	science	use: science
+intermodal containers	use	shipping	use: shipping
+petrographic microscope	use	examining rocks	use: examining rocks
+vertico smi	use case	brain-computer interface	use case: brain-computer interface
+vertico smi	use case	sleep monitoring	use case: sleep monitoring
+image-stabilized binoculars	use case	outdoors	use case: outdoors
+image-stabilized binoculars	use case	wildlife observation	use case: wildlife observation
+image-stabilized binoculars	use case	travel	use case: travel
+vertico smi	use case	fitness tracking	use case: fitness tracking
+advanced crew escape suit	used by	astronauts	used by: astronauts
+lensmeter	used by	ophthalmologists	used by: ophthalmologists
+lensmeter	used by	optometrists	used by: optometrists
+positioning equipment	used by	construction engineers	used by: construction engineers
+positioning equipment	used by	pilots	used by: pilots
+positioning equipment	used by	surveyors	used by: surveyors
+advanced crew escape suit	used by	space agencies	used by: space agencies
+ebro trucks	used for	logistics and transportation	used for: logistics and transportation
+ebro trucks	used for	construction projects	used for: construction projects
+pilot direction indicator	used for	orientation	used for: orientation
+tauchmann telescope	used for	studying astronomy	used for: studying astronomy
+tauchmann telescope	used for	observing celestial bodies	used for: observing celestial bodies
+pilot direction indicator	used for	navigating	used for: navigating
+sonometer	used for	music education	used for: music education
+lurie-houghton telescope	used for	studying celestial objects	used for: studying celestial objects
+lurie-houghton telescope	used for	making observations	used for: making observations
+vector magnetograph	used for	studying sun's magnetic field	used for: studying sun's magnetic field
+weighing bottle	used for	measuring solids	used for: measuring solids
+vector magnetograph	used for	monitoring solar activity	used for: monitoring solar activity
+pilot direction indicator	used for	flying	used for: flying
+sonometer	used for	scientific research	used for: scientific research
+nephelometer	used for	monitoring air pollution	used for: monitoring air pollution
+vector magnetograph	used for	understanding solar cycles	used for: understanding solar cycles
+magnetograph	used for	studying sun's magnetic field	used for: studying sun's magnetic field
+james lick telescope	used for	studying stars	used for: studying stars
+james lick telescope	used for	measuring distances	used for: measuring distances
+weighing bottle	used for	measuring liquids	used for: measuring liquids
+weighing bottle	used for	measuring chemicals	used for: measuring chemicals
+weighing bottle	used for	measuring medicine	used for: measuring medicine
+vector magnetograph	used for	studying sun's internal dynamics	used for: studying sun's internal dynamics
+ebro trucks	used for	industrial applications	used for: industrial applications
+large millimeter telescope	used for	detecting dark matter	used for: detecting dark matter
+large millimeter telescope	used for	searching for dark energy	used for: searching for dark energy
+large millimeter telescope	used for	studying universe	used for: studying universe
+great refractor	used for	studying celestial bodies	used for: studying celestial bodies
+infinite-axis telescope	used for	studying distant galaxies	used for: studying distant galaxies
+nephelometer	used for	studying cloud formation	used for: studying cloud formation
+infinite-axis telescope	used for	discovering new stars	used for: discovering new stars
+galileoscope	used for	astronomical observations	used for: astronomical observations
+magnetograph	used for	predicting space weather	used for: predicting space weather
+nephelometer	used for	atmospheric research	used for: atmospheric research
+james lick telescope	used for	astronomical research	used for: astronomical research
+vector magnetograph	used for	predicting solar flares	used for: predicting solar flares
+galileoscope	used for	scientific research	used for: scientific research
+anemometer	used for	aviation	used for: aviation
+anemometer	used for	weather forecasting	used for: weather forecasting
+banana	used for	making smoothie	used for: making smoothie
+banana	used for	making cakes	used for: making cakes
+banana	used for	healthy snack	used for: healthy snack
+lurie-houghton telescope	used for	astronomical research	used for: astronomical research
+weighing bottle	used for	mixing chemicals	used for: mixing chemicals
+anemometer	used for	wind farm	used for: wind farm
+great refractor	used for	making observations of the sky	used for: making observations of the sky
+disdrometer	used in	meteorology	used in: meteorology
+disdrometer	used in	hydrology	used in: hydrology
+disdrometer	used in	environmental research	used in: environmental research
+selective pallet rack	used in	distribution centers	used in: distribution centers
+selective pallet rack	used in	warehouses	used in: warehouses
+zymoscope	used in	food industry	used in: food industry
+tilt table	used in	hospital	used in: hospital
+tilt table	used in	clinic	used in: clinic
+tilt table	used in	research lab	used in: research lab
+zymoscope	used in	winemaking	used in: winemaking
+zymoscope	used in	brewing	used in: brewing
+uni-engine	used in	small cars	used in: small cars
+uni-engine	used in	motorcycles	used in: motorcycles
+uni-engine	used in	tractors	used in: tractors
+selective pallet rack	used in	manufacturing facilities	used in: manufacturing facilities
+riot protection helmet	uses	law enforcement	uses: law enforcement
+riot protection helmet	uses	crowd control	uses: crowd control
+riot protection helmet	uses	military	uses: military
+meade lx200	uses	astronomical observations	uses: astronomical observations
+meade lx200	uses	stargazing	uses: stargazing
+meade lx200	uses	planetary imaging	uses: planetary imaging
+tauchmann telescope	uses	studying celestial objects	uses: studying celestial objects
+tauchmann telescope	uses	observing planets	uses: observing planets
+tauchmann telescope	uses	making astronomical measurements	uses: making astronomical measurements
+mathiole	uses	eating fresh	uses: eating fresh
+mathiole	uses	making jams	uses: making jams
+mathiole	uses	medicinal purposes	uses: medicinal purposes
+large millimeter telescope	wavelength	millimeter range	wavelength: millimeter range
+riot protection helmet	weight	heavy-duty	weight: heavy-duty
+riot protection helmet	weight	lightweight	weight: lightweight
+tauchmann telescope	year invented	1673	year invented: 1673
+lurie-houghton telescope	year of construction	1960	year of construction: 1960
+galileoscope	year of invention	1608	year of invention: 1608
+larmor neutron microscope	year of invention	year of invention	year of invention: year of invention
+galileoscope	year of invention	1610	year of invention: 1610

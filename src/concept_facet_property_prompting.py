@@ -184,29 +184,6 @@ def generate_data(config, concept_prompts):
     return output_file
 
 
-def fix_unbalanced_brackets(data):
-
-    stack = []
-    balanced_data = ""
-    opening_brackets = {"(": ")", "[": "]", "{": "}"}
-    closing_brackets = {")": "(", "]": "[", "}": "{"}
-
-    for char in data:
-        if char in opening_brackets:
-            stack.append(char)
-        elif char in closing_brackets:
-            if stack and stack[-1] == closing_brackets[char]:
-                stack.pop()
-            else:
-                data = opening_brackets[char] + data
-        balanced_data += char
-
-    while stack:
-        balanced_data += opening_brackets[stack.pop()]
-
-    return balanced_data
-
-
 def parse_and_format_data(file_path, config):
 
     logger.info(f"Parsing the LLM data: {file_path}")
@@ -215,7 +192,8 @@ def parse_and_format_data(file_path, config):
     with open(file_path, "r") as file:
         for line in file:
 
-            line = fix_unbalanced_brackets(line)
+            if not line.endswith("}}"):
+                line = line + "}"
 
             if line.strip():
                 try:

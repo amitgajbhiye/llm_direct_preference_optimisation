@@ -578,3 +578,5 @@ python3 src/concept_facet_property_prompting.py --config configs/facet_prop_gene
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_equipment_facet_proper.json
 
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_science_ev_facet_property.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_science_wn_facet_property.json
