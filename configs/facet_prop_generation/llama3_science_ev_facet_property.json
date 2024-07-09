@@ -1,9 +1,10 @@
 {
     "experiment_name": "llama3_science_ev_facet_property",
     "log_dir": "logs",
-    "input_file": "data/evaluation_taxo/terms/science_ev.terms",
     "base_model": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "input_file": "data/evaluation_taxo/terms/science_ev.terms",
     "repeat_times": 10,
-    "output_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_science_ev_onto_concepts.txt",
-    "batch_size": 64
+    "batch_size": 128,
+    "output_dir": "data/evaluation_taxo/generated_facet_property",
+    "output_file": "lama3_concept_facet_property_science_ev_taxo_concepts.txt"
 }
