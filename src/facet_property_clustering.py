@@ -137,7 +137,7 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         f"con_prop_cluster_label_file_name saved at: {con_prop_cluster_label_file_name}"
     )
 
-    return all_clusters
+    return all_clusters, con_prop_cluster_label_file_name
 
 
 if __name__ == "__main__":

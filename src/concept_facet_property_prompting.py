@@ -192,8 +192,8 @@ def parse_and_format_data(file_path, config):
     with open(file_path, "r") as file:
         for line in file:
 
-            if not line.endswith("}}"):
-                line = line + "}"
+            # if not line.endswith("}}"):
+            #     line = line + "}"
 
             if line.strip():
                 try:
