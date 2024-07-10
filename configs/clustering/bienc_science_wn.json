@@ -1,0 +1,8 @@
+{
+    "experiment_name": "bienc_science_wn_clustering",
+    "log_dir": "logs",
+    "embedding_file": "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/bienc_entropy_bert_large_cnetpchatgpt_llama3_science_wn_facet_colon_property_embeddings.pkl",
+    "output_dir": "data/evaluation_taxo/generated_facet_property",
+    "clusters_output_file": "bienc_science_wn_facet_property_embeds_afp_clusters",
+    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_science_wn_taxo_concepts_parsed.txt"
+}
