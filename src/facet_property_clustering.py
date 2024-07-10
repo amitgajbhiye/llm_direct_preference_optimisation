@@ -126,7 +126,7 @@ def merge_concepts_clusters(all_data_file, cluster_file):
 
     con_prop_cluster_label_file_name = os.path.join(
         config["output_dir"],
-        f"concept_property_cluster_label_{config['clusters_output_file']}.txt",
+        f"final_concept_property_cluster_label_{config['clusters_output_file']}.txt",
     )
     all_clusters[["concept", "property", "cluster_label"]].to_csv(
         con_prop_cluster_label_file_name, sep="\t", index=False
