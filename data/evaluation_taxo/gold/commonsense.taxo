@@ -1,0 +1,246 @@
+alligator	dangerous
+bear	dangerous
+beehive	dangerous
+bull	dangerous
+cheetah	dangerous
+crocodile	dangerous
+lion	dangerous
+rattlesnake	dangerous
+tiger	dangerous
+bazooka	dangerous
+bomb	dangerous
+bullet	dangerous
+crossbow	dangerous
+dagger	dangerous
+grenade	dangerous
+gun	dangerous
+harpoon	dangerous
+missile	dangerous
+pistol	dangerous
+revolver	dangerous
+rifle	dangerous
+rocket	dangerous
+shotgun	dangerous
+sword	dangerous
+axe	dangerous
+baseball bat	dangerous
+knife	dangerous
+machete	dangerous
+motorcycle	dangerous
+apple	edible
+banana	edible
+cranberry	edible
+tomato	edible
+tangerine	edible
+strawberry	edible
+spinach	edible
+rhubarb	edible
+raspberry	edible
+radish	edible
+pumpkin	edible
+prune	edible
+mushroom	edible
+parsley	edible
+walnut	edible
+rice	edible
+raisin	edible
+potato	edible
+plum	edible
+pineapple	edible
+pepper	edible
+peas	edible
+pear	edible
+peach	edible
+orange	edible
+onions	edible
+olive	edible
+nectarine	edible
+lime	edible
+lettuce	edible
+lemon	edible
+grapefruit	edible
+grape	edible
+garlic	edible
+cucumber	edible
+corn	edible
+coconut	edible
+cherry	edible
+celery	edible
+cauliflower	edible
+carrot	edible
+cantaloupe	edible
+cabbage	edible
+broccoli	edible
+blueberry	edible
+beets	edible
+beans	edible
+avocado	edible
+asparagus	edible
+bread	edible
+cake	edible
+cheese	edible
+hot dog	edible
+pizza	edible
+sandwich	edible
+pie	edible
+donut	edible
+biscuit	edible
+crab	edible
+deer	edible
+hare	edible
+octopus	edible
+salmon	edible
+turkey	edible
+tuna	edible
+trout	edible
+squid	edible
+shrimp	edible
+sardine	edible
+pig	edible
+octopus	edible
+lobster	edible
+lamb	edible
+goat	edible
+cow	edible
+clam	edible
+chicken	edible
+bird	 flies
+crow	 flies
+dove	 flies
+duck	 flies
+eagle	 flies
+falcon	 flies
+flamingo	 flies
+goose	 flies
+hawk	 flies
+woodpecker	 flies
+pigeon	 flies
+owl	 flies
+peacock	 flies
+seagull	 flies
+butterfly	 flies
+hornet	 flies
+housefly	 flies
+wasp	 flies
+moth	 flies
+airplane	 flies
+helicopter	 flies
+jet	 flies
+missile	 flies
+rocket	 flies
+balloon	 flies
+kite	 flies
+frisbee	 flies
+bathtub	 hot
+cigar	 hot
+cigarette	 hot
+candle	 hot
+hair drier	 hot
+kettle	 hot
+oven	 hot
+stove	 hot
+toaster	 hot
+alligator	lives in water
+crocodile	lives in water
+otter	lives in water
+turtle	lives in water
+seal	lives in water
+frog	lives in water
+flamingo	lives in water
+salamander	lives in water
+swan	lives in water
+walrus	lives in water
+clam	lives in water
+crab	lives in water
+lobster	lives in water
+octopus	lives in water
+squid	lives in water
+shrimp	lives in water
+dolphin	lives in water
+eel	lives in water
+goldfish	lives in water
+whale	lives in water
+salmon	lives in water
+sardine	lives in water
+trout	lives in water
+tuna	lives in water
+boat	lives in water
+sailboat	lives in water
+ship	lives in water
+submarine	lives in water
+yacht	lives in water
+canoe	lives in water
+accordion	produces noise
+bagpipe	produces noise
+clarinet	produces noise
+flute	produces noise
+harp	produces noise
+piano	produces noise
+trombone	produces noise
+violin	produces noise
+airplane	produces noise
+ambulance	produces noise
+helicopter	produces noise
+bomb	produces noise
+cannon	produces noise
+grenade	produces noise
+cell phone	produces noise
+hair drier	produces noise
+stereo	produces noise
+axe	sharp
+bayonet	sharp
+dagger	sharp
+machete	sharp
+knife	sharp
+spear	sharp
+sword	sharp
+chisel	sharp
+corkscrew	sharp
+screwdriver	sharp
+scissors	sharp
+blender	sharp
+grater	sharp
+razor	sharp
+pin	sharp
+balloon	used by children
+buggy	used by children
+crayon	used by children
+paintbrush	used by children
+pencil	used by children
+doll	used by children
+teddy bear	used by children
+toy	used by children
+earmuffs	used by children
+frisbee	used by children
+kite	used by children
+skateboard	used by children
+sled	used by children
+tricycle	used by children
+apron	used for cooking
+blender	used for cooking
+grater	used for cooking
+mixer	used for cooking
+bowl	used for cooking
+colander	used for cooking
+pan	used for cooking
+pot	used for cooking
+skillet	used for cooking
+strainer	used for cooking
+kettle	used for cooking
+microwave	used for cooking
+oven	used for cooking
+stove	used for cooking
+toaster	used for cooking
+knife	used for cooking
+ladle	used for cooking
+spatula	used for cooking
+spoon	used for cooking
+tongs	used for cooking
+boots	worn on feet
+sandals	worn on feet
+shoes	worn on feet
+slippers	worn on feet
+nylons	worn on feet
+socks	worn on feet
+skis	worn on feet
+snowboard	worn on feet
