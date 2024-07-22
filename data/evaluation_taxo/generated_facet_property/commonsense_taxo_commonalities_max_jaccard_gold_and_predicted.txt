@@ -1,0 +1,134 @@
+********************
+**gold_taxo_property: dangerous
+**gold_taxo_cons: ['alligator', 'axe', 'baseball bat', 'bazooka', 'bear', 'beehive', 'bomb', 'bull', 'bullet', 'cheetah', 'crocodile', 'crossbow', 'dagger', 'grenade', 'gun', 'harpoon', 'knife', 'lion', 'machete', 'missile', 'motorcycle', 'pistol', 'rattlesnake', 'revolver', 'rifle', 'rocket', 'shotgun', 'sword', 'tiger']
+**best_jaccard_index: 0.5161
+**best_jaccard_clusters: [847]
+**cluster_label: 847
+**predicted_cluster_con: ['axe', 'bayonet', 'bazooka', 'bomb', 'bull', 'bullet', 'dagger', 'grenade', 'gun', 'harpoon', 'knife', 'machete', 'pistol', 'revolver', 'rifle', 'shotgun', 'spear', 'sword']
+**predicted_cluster_prop: ['self-defense' 'close combat' 'arming' 'fighting' 'disarming' 'combat'
+ 'for self-defense' 'self defense']
+**con_intersection: ['axe', 'bazooka', 'bomb', 'bull', 'bullet', 'dagger', 'grenade', 'gun', 'harpoon', 'knife', 'machete', 'pistol', 'revolver', 'rifle', 'shotgun', 'sword']
+**extra_cons_in_predicted_cluster: ['bayonet', 'spear']
+
+********************
+**gold_taxo_property: edible
+**gold_taxo_cons: ['apple', 'asparagus', 'avocado', 'banana', 'beans', 'beets', 'biscuit', 'blueberry', 'bread', 'broccoli', 'cabbage', 'cake', 'cantaloupe', 'carrot', 'cauliflower', 'celery', 'cheese', 'cherry', 'chicken', 'clam', 'coconut', 'corn', 'cow', 'crab', 'cranberry', 'cucumber', 'deer', 'donut', 'garlic', 'goat', 'grape', 'grapefruit', 'hare', 'hot dog', 'lamb', 'lemon', 'lettuce', 'lime', 'lobster', 'mushroom', 'nectarine', 'octopus', 'olive', 'onions', 'orange', 'parsley', 'peach', 'pear', 'peas', 'pepper', 'pie', 'pig', 'pineapple', 'pizza', 'plum', 'potato', 'prune', 'pumpkin', 'radish', 'raisin', 'raspberry', 'rhubarb', 'rice', 'salmon', 'sandwich', 'sardine', 'shrimp', 'spinach', 'squid', 'strawberry', 'tangerine', 'tomato', 'trout', 'tuna', 'turkey', 'walnut']
+**best_jaccard_index: 0.65
+**best_jaccard_clusters: [235]
+**cluster_label: 235
+**predicted_cluster_con: ['apple', 'asparagus', 'avocado', 'banana', 'beans', 'beets', 'biscuit', 'bread', 'broccoli', 'cabbage', 'cake', 'cantaloupe', 'carrot', 'cauliflower', 'celery', 'cheese', 'chicken', 'clam', 'coconut', 'corn', 'cucumber', 'donut', 'garlic', 'goldfish', 'grape', 'hot dog', 'housefly', 'lamb', 'lettuce', 'lobster', 'moth', 'mushroom', 'olive', 'onion', 'onions', 'orange', 'pear', 'peas', 'pepper', 'pie', 'pizza', 'potato', 'prune', 'raisin', 'rhubarb', 'rice', 'sandwich', 'sardine', 'shrimp', 'spinach', 'squid', 'strawberry', 'tomato', 'trout', 'turkey', 'walnut']
+**predicted_cluster_prop: ['food' 'live foods' 'human consumption' 'pellets' 'nutrition'
+ 'healthy food' 'live food' 'tissue' 'tissues' 'human food' 'vegan']
+**con_intersection: ['apple', 'asparagus', 'avocado', 'banana', 'beans', 'beets', 'biscuit', 'bread', 'broccoli', 'cabbage', 'cake', 'cantaloupe', 'carrot', 'cauliflower', 'celery', 'cheese', 'chicken', 'clam', 'coconut', 'corn', 'cucumber', 'donut', 'garlic', 'grape', 'hot dog', 'lamb', 'lettuce', 'lobster', 'mushroom', 'olive', 'onions', 'orange', 'pear', 'peas', 'pepper', 'pie', 'pizza', 'potato', 'prune', 'raisin', 'rhubarb', 'rice', 'sandwich', 'sardine', 'shrimp', 'spinach', 'squid', 'strawberry', 'tomato', 'trout', 'turkey', 'walnut']
+**extra_cons_in_predicted_cluster: ['goldfish', 'housefly', 'moth', 'onion']
+
+********************
+**gold_taxo_property:  flies
+**gold_taxo_cons: ['airplane', 'balloon', 'bird', 'butterfly', 'crow', 'dove', 'duck', 'eagle', 'falcon', 'flamingo', 'frisbee', 'goose', 'hawk', 'helicopter', 'hornet', 'housefly', 'jet', 'kite', 'missile', 'moth', 'owl', 'peacock', 'pigeon', 'rocket', 'seagull', 'wasp', 'woodpecker']
+**best_jaccard_index: 0.7143
+**best_jaccard_clusters: [46]
+**cluster_label: 46
+**predicted_cluster_con: ['airplane', 'balloon', 'bird', 'butterfly', 'dove', 'duck', 'eagle', 'falcon', 'flamingo', 'frisbee', 'hawk', 'helicopter', 'housefly', 'jet', 'kite', 'moth', 'owl', 'pigeon', 'seagull', 'swan', 'woodpecker']
+**predicted_cluster_prop: ['flies around' 'flying' 'soaring' 'soars' 'airborne' 'hovering'
+ 'graceful flight' 'soar' 'aerial' 'night flying' 'flies'
+ 'beautiful flight' 'flies erratically' 'fly' 'flying between trees'
+ 'silent flight' 'flight' 'kite' 'fly at night' 'swift' 'flaps wings']
+**con_intersection: ['airplane', 'balloon', 'bird', 'butterfly', 'dove', 'duck', 'eagle', 'falcon', 'flamingo', 'frisbee', 'hawk', 'helicopter', 'housefly', 'jet', 'kite', 'moth', 'owl', 'pigeon', 'seagull', 'woodpecker']
+**extra_cons_in_predicted_cluster: ['swan']
+
+********************
+**gold_taxo_property:  hot
+**gold_taxo_cons: ['bathtub', 'candle', 'cigar', 'cigarette', 'hair drier', 'kettle', 'oven', 'stove', 'toaster']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [692]
+**cluster_label: 692
+**predicted_cluster_con: ['bathtub', 'kettle', 'microwave', 'oven', 'stove', 'toaster']
+**predicted_cluster_prop: ['timer' 'auto shut-off' 'jet sprays' 'automatic shut-off'
+ 'thermal cutoff']
+**con_intersection: ['bathtub', 'kettle', 'oven', 'stove', 'toaster']
+**extra_cons_in_predicted_cluster: ['microwave']
+
+********************
+**gold_taxo_property: lives in water
+**gold_taxo_cons: ['alligator', 'boat', 'canoe', 'clam', 'crab', 'crocodile', 'dolphin', 'eel', 'flamingo', 'frog', 'goldfish', 'lobster', 'octopus', 'otter', 'sailboat', 'salamander', 'salmon', 'sardine', 'seal', 'ship', 'shrimp', 'squid', 'submarine', 'swan', 'trout', 'tuna', 'turtle', 'walrus', 'whale', 'yacht']
+**best_jaccard_index: 0.6471
+**best_jaccard_clusters: [793]
+**cluster_label: 793
+**predicted_cluster_con: ['alligator', 'bear', 'clam', 'crab', 'crocodile', 'dolphin', 'duck', 'eagle', 'eel', 'flamingo', 'frog', 'goldfish', 'lobster', 'octopus', 'otter', 'salamander', 'salmon', 'sardine', 'seagull', 'seal', 'squid', 'swan', 'trout', 'tuna', 'walrus', 'whale']
+**predicted_cluster_prop: ['fish' 'brook trout' 'freshwater fish' 'brown trout' 'rainbow trout'
+ 'small fish' 'game fish' 'food fish' 'popular sport fish']
+**con_intersection: ['alligator', 'clam', 'crab', 'crocodile', 'dolphin', 'eel', 'flamingo', 'frog', 'goldfish', 'lobster', 'octopus', 'otter', 'salamander', 'salmon', 'sardine', 'seal', 'squid', 'swan', 'trout', 'tuna', 'walrus', 'whale']
+**extra_cons_in_predicted_cluster: ['bear', 'duck', 'eagle', 'seagull']
+
+********************
+**gold_taxo_property: produces noise
+**gold_taxo_cons: ['accordion', 'airplane', 'ambulance', 'bagpipe', 'bomb', 'cannon', 'cell phone', 'clarinet', 'flute', 'grenade', 'hair drier', 'harp', 'helicopter', 'piano', 'stereo', 'trombone', 'violin']
+**best_jaccard_index: 0.4706
+**best_jaccard_clusters: [319, 737]
+**cluster_label: 319
+**predicted_cluster_con: ['accordion', 'bagpipe', 'clarinet', 'flute', 'harp', 'piano', 'stereo', 'violin']
+**predicted_cluster_prop: ['playing music' 'music performance' 'composing music' 'music'
+ 'music composition' 'play music' 'making music' 'music equipment'
+ 'playing accompaniment']
+**con_intersection: ['accordion', 'bagpipe', 'clarinet', 'flute', 'harp', 'piano', 'stereo', 'violin']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 737
+**predicted_cluster_con: ['accordion', 'bagpipe', 'clarinet', 'flute', 'harp', 'piano', 'trombone', 'violin']
+**predicted_cluster_prop: ['melodious' 'acoustic' 'sonorous' 'mournful' 'mellow' 'soulful' 'elegant'
+ 'folk-like' 'melodic' 'rich' 'harmonious' 'pop music' 'unique'
+ 'piano-like' 'varied' 'distinctive' 'emotional' 'harmonic' 'soothing']
+**con_intersection: ['accordion', 'bagpipe', 'clarinet', 'flute', 'harp', 'piano', 'trombone', 'violin']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: sharp
+**gold_taxo_cons: ['axe', 'bayonet', 'blender', 'chisel', 'corkscrew', 'dagger', 'grater', 'knife', 'machete', 'pin', 'razor', 'scissors', 'screwdriver', 'spear', 'sword']
+**best_jaccard_index: 0.6471
+**best_jaccard_clusters: [790]
+**cluster_label: 790
+**predicted_cluster_con: ['axe', 'bayonet', 'blender', 'chisel', 'dagger', 'helicopter', 'knife', 'machete', 'mixer', 'razor', 'scissors', 'screwdriver', 'sword']
+**predicted_cluster_prop: ['multi-edge' 'blade' 'curved blade' 'rapier' 'replaceable' 'adjustable'
+ 'single-edge' 'knife' 'electric' 'main blades' 'cartridge' 'disposable'
+ 'flat blade' 'blades' 'multiple blades' 'adjustable blade' 'bladed'
+ 'saber' 'double-edge' 'blade attached']
+**con_intersection: ['axe', 'bayonet', 'blender', 'chisel', 'dagger', 'knife', 'machete', 'razor', 'scissors', 'screwdriver', 'sword']
+**extra_cons_in_predicted_cluster: ['helicopter', 'mixer']
+
+********************
+**gold_taxo_property: used by children
+**gold_taxo_cons: ['balloon', 'buggy', 'crayon', 'doll', 'earmuffs', 'frisbee', 'kite', 'paintbrush', 'pencil', 'skateboard', 'sled', 'teddy bear', 'toy', 'tricycle']
+**best_jaccard_index: 0.7143
+**best_jaccard_clusters: [357]
+**cluster_label: 357
+**predicted_cluster_con: ['balloon', 'buggy', 'crayon', 'doll', 'frisbee', 'kite', 'skateboard', 'sled', 'teddy bear', 'tricycle']
+**predicted_cluster_prop: ['toy' 'toys']
+**con_intersection: ['balloon', 'buggy', 'crayon', 'doll', 'frisbee', 'kite', 'skateboard', 'sled', 'teddy bear', 'tricycle']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: used for cooking
+**gold_taxo_cons: ['apron', 'blender', 'bowl', 'colander', 'grater', 'kettle', 'knife', 'ladle', 'microwave', 'mixer', 'oven', 'pan', 'pot', 'skillet', 'spatula', 'spoon', 'stove', 'strainer', 'toaster', 'tongs']
+**best_jaccard_index: 0.619
+**best_jaccard_clusters: [83]
+**cluster_label: 83
+**predicted_cluster_con: ['apron', 'bayonet', 'colander', 'grater', 'knife', 'ladle', 'mixer', 'pan', 'pot', 'skillet', 'spatula', 'spoon', 'strainer', 'tongs']
+**predicted_cluster_prop: ['eating utensil' 'handling food' 'holding utensils' 'spoon'
+ 'cooking utensil' 'utensil' 'eating tool' 'utensil holder'
+ 'can be used to scoop' 'cutlery' 'spatula']
+**con_intersection: ['apron', 'colander', 'grater', 'knife', 'ladle', 'mixer', 'pan', 'pot', 'skillet', 'spatula', 'spoon', 'strainer', 'tongs']
+**extra_cons_in_predicted_cluster: ['bayonet']
+
+********************
+**gold_taxo_property: worn on feet
+**gold_taxo_cons: ['boots', 'nylons', 'sandals', 'shoes', 'skis', 'slippers', 'snowboard', 'socks']
+**best_jaccard_index: 0.75
+**best_jaccard_clusters: [841]
+**cluster_label: 841
+**predicted_cluster_con: ['boots', 'nylons', 'sandals', 'shoes', 'slippers', 'socks']
+**predicted_cluster_prop: ['casual daily wear' 'casual wear' 'casual' 'athletic wear'
+ 'for casual wear']
+**con_intersection: ['boots', 'nylons', 'sandals', 'shoes', 'slippers', 'socks']
+**extra_cons_in_predicted_cluster: []
+
+**avg_jaccard_index: 0.6228

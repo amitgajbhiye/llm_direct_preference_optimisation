@@ -9,6 +9,15 @@
 **con_intersection: ['adaptation to climate change', 'clean development mechanism', 'joint implementation']
 **extra_cons_in_predicted_cluster: []
 
+********************
+**gold_taxo_property: emission allowance
+**gold_taxo_cons: ['EU emission allowance']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: emission trading
+**gold_taxo_cons: ['EU Emissions Trading Scheme']
+**best_jaccard_index: 0.0
 
 ********************
 **gold_taxo_property: environmental policy
@@ -34,7 +43,6 @@
  'assess ecosystem health' 'environmental impact assessments']
 **con_intersection: ['environmental economics', 'environmental indicator', 'environmental law', 'environmental monitoring', 'environmental research']
 **extra_cons_in_predicted_cluster: ['carbon credit', 'environmental standard', 'environmental statistics', 'eu environmental policy']
-
 
 ********************
 **gold_taxo_property: economic instrument for the environment
@@ -70,7 +78,6 @@
 **con_intersection: ['deposit on a polluting product', 'environmental tax']
 **extra_cons_in_predicted_cluster: ['carbon credit', 'carbon tax']
 
-
 ********************
 **gold_taxo_property: environmental law
 **gold_taxo_cons: ['environmental liability', 'environmental standard']
@@ -84,7 +91,6 @@
  'whoever causes harm' 'liable for']
 **con_intersection: ['environmental liability']
 **extra_cons_in_predicted_cluster: ['polluter pays principle']
-
 
 ********************
 **gold_taxo_property: environmental standard
@@ -127,7 +133,6 @@
 **con_intersection: ['biological standard']
 **extra_cons_in_predicted_cluster: ['sensitive area']
 
-
 ********************
 **gold_taxo_property: environmental research
 **gold_taxo_cons: ['environmental statistics']
@@ -167,7 +172,6 @@
 **con_intersection: ['environmental statistics']
 **extra_cons_in_predicted_cluster: ['environmental indicator']
 
-
 ********************
 **gold_taxo_property: management of resources
 **gold_taxo_cons: ['evaluation of resources', 'exploitation of resources', 'replacement of resources']
@@ -178,7 +182,6 @@
 **predicted_cluster_prop: ['human resources' 'trained personnel' 'employees' 'human resource']
 **con_intersection: ['evaluation of resources', 'exploitation of resources', 'replacement of resources']
 **extra_cons_in_predicted_cluster: ['decontamination', 'exhaustion of resources', 'management of resources', 'resource management']
-
 
 ********************
 **gold_taxo_property: exploitation of resources
@@ -192,7 +195,6 @@
 **con_intersection: ['exploitation of the sea-bed', 'exploitation of the seas', 'over-exploitation of resources']
 **extra_cons_in_predicted_cluster: ['climate change', 'deforestation', 'exploitation of resources', 'protection of animal life']
 
-
 ********************
 **gold_taxo_property: risk prevention
 **gold_taxo_cons: ['industrial hazard', 'natural hazard']
@@ -203,7 +205,6 @@
 **predicted_cluster_prop: ['insurance' 'insurance companies' 'having insurance']
 **con_intersection: ['industrial hazard', 'natural hazard']
 **extra_cons_in_predicted_cluster: ['destruction of crops', 'earthquake', 'fire protection', 'risk prevention']
-
 
 ********************
 **gold_taxo_property: environmental protection
@@ -216,7 +217,6 @@
  'conservation' 'preserve']
 **con_intersection: ['conservation of resources', 'national city park', 'protected area', 'protection of animal life', 'protection of plant life']
 **extra_cons_in_predicted_cluster: ['acidification', 'biodiversity', 'biosphere', 'environment', 'environmental protection', 'environmental research', 'national park', 'prevention of pollution', 'water protection']
-
 
 ********************
 **gold_taxo_property: protected area
@@ -245,7 +245,6 @@
 **con_intersection: ['national park', 'nature reserve']
 **extra_cons_in_predicted_cluster: ['national city park']
 
-
 ********************
 **gold_taxo_property: protection of animal life
 **gold_taxo_cons: ['hunting regulations', 'protection of animals']
@@ -272,7 +271,6 @@
 **con_intersection: ['hunting regulations']
 **extra_cons_in_predicted_cluster: []
 
-
 ********************
 **gold_taxo_property: protection of plant life
 **gold_taxo_cons: ['seismic monitoring', 'water protection']
@@ -294,7 +292,6 @@
  'detect earthquakes' 'earthquake early warning' 'seismic instruments']
 **con_intersection: ['seismic monitoring']
 **extra_cons_in_predicted_cluster: []
-
 
 ********************
 **gold_taxo_property: pollution control measures
@@ -324,7 +321,6 @@
 **con_intersection: ['non-polluting vehicle', 'prevention of pollution']
 **extra_cons_in_predicted_cluster: ['local pollution', 'motor vehicle pollution', 'replacement of resources']
 
-
 ********************
 **gold_taxo_property: pollution control
 **gold_taxo_cons: ['degree of pollution']
@@ -342,7 +338,6 @@
 **con_intersection: ['degree of pollution']
 **extra_cons_in_predicted_cluster: ['evaluation of resources', 'management of resources']
 
-
 ********************
 **gold_taxo_property: prevention of pollution
 **gold_taxo_cons: ['anti-pollution device', 'biodegradability']
@@ -356,7 +351,6 @@
 **con_intersection: ['anti-pollution device', 'biodegradability']
 **extra_cons_in_predicted_cluster: ['dust']
 
-
 ********************
 **gold_taxo_property: waste management
 **gold_taxo_cons: ['storage of waste', 'waste disposal', 'waste recycling']
@@ -369,6 +363,10 @@
 **con_intersection: ['storage of waste', 'waste disposal', 'waste recycling']
 **extra_cons_in_predicted_cluster: ['agricultural waste', 'domestic waste', 'dumping of waste', 'waste', 'waste management', 'waste storage']
 
+********************
+**gold_taxo_property: storage of waste
+**gold_taxo_cons: ['underground storage of waste']
+**best_jaccard_index: 0.0
 
 ********************
 **gold_taxo_property: waste disposal
@@ -384,7 +382,6 @@
  'using resources for personal gain']
 **con_intersection: ['dumping of waste']
 **extra_cons_in_predicted_cluster: ['exploitation of resources']
-
 
 ********************
 **gold_taxo_property: water management
@@ -402,7 +399,6 @@
 **predicted_cluster_prop: ['sprays' 'spraying' 'spray']
 **con_intersection: ['use of water']
 **extra_cons_in_predicted_cluster: ['fight against insects']
-
 
 ********************
 **gold_taxo_property: climate
@@ -422,7 +418,6 @@
 **con_intersection: ['atmospheric conditions', 'climatic zone']
 **extra_cons_in_predicted_cluster: ['bad weather', 'climate']
 
-
 ********************
 **gold_taxo_property: climatic zone
 **gold_taxo_cons: ['equatorial zone', 'frigid zone', 'humid zone', 'subtropical zone', 'temperate zone', 'tropical zone']
@@ -433,7 +428,6 @@
 **predicted_cluster_prop: ['exotic birds' 'tropical birds' 'tropical animals']
 **con_intersection: ['equatorial zone', 'humid zone', 'subtropical zone', 'tropical zone']
 **extra_cons_in_predicted_cluster: []
-
 
 ********************
 **gold_taxo_property: geophysical environment
@@ -447,6 +441,30 @@
 **con_intersection: ['arid zone', 'desert', 'island', 'plain']
 **extra_cons_in_predicted_cluster: ['indian ocean']
 
+********************
+**gold_taxo_property: ocean
+**gold_taxo_cons: ['Antarctic Ocean', 'Arctic Ocean', 'Atlantic Ocean', 'Indian Ocean', 'Pacific Ocean']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: Atlantic Ocean
+**gold_taxo_cons: ['Baltic Sea', 'English Channel', 'Irish Sea', 'North Sea', 'Norwegian Sea']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: polar region
+**gold_taxo_cons: ['Antarctica', 'Arctic']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: sea
+**gold_taxo_cons: ['Black Sea', 'Caspian Sea', 'Mediterranean Sea', 'Red Sea']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: Mediterranean Sea
+**gold_taxo_cons: ['Adriatic Sea', 'Aegean Sea', 'Ionian Sea', 'Ligurian Sea', 'Tyrrhenian Sea']
+**best_jaccard_index: 0.0
 
 ********************
 **gold_taxo_property: natural resources
@@ -458,7 +476,6 @@
 **predicted_cluster_prop: ['finite' 'infinite' 'not finite' 'no']
 **con_intersection: ['mineral resources', 'plant resources', 'renewable resources', 'resources of the sea']
 **extra_cons_in_predicted_cluster: ['natural resources']
-
 
 ********************
 **gold_taxo_property: physical environment
@@ -480,7 +497,6 @@
 **con_intersection: ['aquatic environment', 'atmosphere', 'ecological balance']
 **extra_cons_in_predicted_cluster: ['atmospheric conditions', 'littoral']
 
-
 ********************
 **gold_taxo_property: aquatic environment
 **gold_taxo_cons: ['marine environment', 'water']
@@ -498,7 +514,6 @@
 **con_intersection: ['marine environment']
 **extra_cons_in_predicted_cluster: ['atmospheric conditions']
 
-
 ********************
 **gold_taxo_property: marine environment
 **gold_taxo_cons: ['littoral', 'sea-bed']
@@ -509,7 +524,6 @@
 **predicted_cluster_prop: ['muddy or sandy bottom' 'muddy' 'muddy or clear water']
 **con_intersection: ['littoral', 'sea-bed']
 **extra_cons_in_predicted_cluster: ['estuary', 'inshore grounds']
-
 
 ********************
 **gold_taxo_property: sea-bed
@@ -522,7 +536,6 @@
  'open' 'horizontal']
 **con_intersection: ['continental shelf', 'inshore grounds']
 **extra_cons_in_predicted_cluster: ['plain']
-
 
 ********************
 **gold_taxo_property: water
@@ -541,7 +554,6 @@
 **predicted_cluster_prop: ['fresh' 'refreshing' 'tender' 'clean']
 **con_intersection: ['bathing water', 'drinking water', 'freshwater', 'groundwater', 'percolation water', 'surface water']
 **extra_cons_in_predicted_cluster: ['sensitive area', 'use of water', 'water', 'water resources']
-
 
 ********************
 **gold_taxo_property: atmosphere
@@ -569,7 +581,6 @@
 **con_intersection: ['ozone']
 **extra_cons_in_predicted_cluster: ['atmosphere']
 
-
 ********************
 **gold_taxo_property: biosphere
 **gold_taxo_cons: ['biodiversity']
@@ -583,7 +594,6 @@
 **con_intersection: ['biodiversity']
 **extra_cons_in_predicted_cluster: ['environmental statistics']
 
-
 ********************
 **gold_taxo_property: ecosystem
 **gold_taxo_cons: ['biotope', 'marine ecosystem', 'terrestrial ecosystem']
@@ -595,7 +605,6 @@
 **con_intersection: ['marine ecosystem', 'terrestrial ecosystem']
 **extra_cons_in_predicted_cluster: []
 
-
 ********************
 **gold_taxo_property: wildlife
 **gold_taxo_cons: ['animal life', 'marine life', 'plant life', 'protected species']
@@ -606,7 +615,6 @@
 **predicted_cluster_prop: ['visible under microscope' 'scales' 'distinctive markings' 'reptile']
 **con_intersection: ['animal life', 'marine life', 'protected species']
 **extra_cons_in_predicted_cluster: ['animal resources', 'dust', 'reptile']
-
 
 ********************
 **gold_taxo_property: animal life
@@ -623,7 +631,6 @@
  'pups' 'seasonal']
 **con_intersection: ['bird', 'insect', 'reptile', 'wild mammal']
 **extra_cons_in_predicted_cluster: ['bear', 'marine mammal', 'marsupial', 'rodent', 'seal', 'wolf']
-
 
 ********************
 **gold_taxo_property: wild mammal
@@ -643,7 +650,6 @@
 **con_intersection: ['bear', 'lynx', 'marsupial', 'monkey', 'rodent', 'wolf']
 **extra_cons_in_predicted_cluster: ['animal life', 'chiroptera', 'watercourse']
 
-
 ********************
 **gold_taxo_property: marine mammal
 **gold_taxo_cons: ['dolphin', 'seal', 'whale']
@@ -654,7 +660,6 @@
 **predicted_cluster_prop: ['flippers' 'flippers for swimming']
 **con_intersection: ['dolphin', 'seal', 'whale']
 **extra_cons_in_predicted_cluster: ['marine mammal']
-
 
 ********************
 **gold_taxo_property: plant life
@@ -679,7 +684,6 @@
 **con_intersection: ['harmful plant']
 **extra_cons_in_predicted_cluster: ['fire', 'use of water']
 
-
 ********************
 **gold_taxo_property: degradation of the environment
 **gold_taxo_cons: ['acid rain', 'climate change', 'corrosion', 'defoliation', 'deforestation', 'desertification', 'destruction of crops', 'disaster area', 'fire', 'man-made disaster', 'natural disaster', 'polluted area', 'sensitive area']
@@ -690,7 +694,6 @@
 **predicted_cluster_prop: ['natural' 'artificial' 'nature']
 **con_intersection: ['climate change', 'defoliation', 'desertification', 'disaster area', 'fire', 'polluted area']
 **extra_cons_in_predicted_cluster: ['acidification', 'biodegradability', 'environment', 'island', 'mineral resources', 'ocean', 'resources of the sea', 'risk prevention', 'thermal discharge']
-
 
 ********************
 **gold_taxo_property: climate change
@@ -713,7 +716,6 @@
 **con_intersection: ['global warming']
 **extra_cons_in_predicted_cluster: ['antarctic ocean', 'climate change']
 
-
 ********************
 **gold_taxo_property: natural disaster
 **gold_taxo_cons: ['agricultural disaster', 'bad weather', 'cyclone', 'drought', 'earthquake', 'erosion', 'flood', 'volcanic eruption']
@@ -726,7 +728,6 @@
  'medical aid' 'calling emergency services' 'aid' 'emergency aid']
 **con_intersection: ['agricultural disaster', 'bad weather', 'cyclone', 'drought', 'earthquake', 'flood', 'volcanic eruption']
 **extra_cons_in_predicted_cluster: ['dangerous substance', 'disaster area', 'industrial hazard', 'man-made disaster', 'natural disaster', 'natural hazard']
-
 
 ********************
 **gold_taxo_property: nuisance
@@ -741,7 +742,6 @@
 **con_intersection: ['electromagnetic interference', 'mechanical vibration', 'noise']
 **extra_cons_in_predicted_cluster: ['noise level', 'non-ionising radiation', 'radioactive waste']
 
-
 ********************
 **gold_taxo_property: dangerous substance
 **gold_taxo_cons: ['carcinogenic substance', 'inflammable product', 'toxic substance']
@@ -752,7 +752,6 @@
 **predicted_cluster_prop: ['wear gloves' 'use gloves' 'wearing gloves']
 **con_intersection: ['inflammable product', 'toxic substance']
 **extra_cons_in_predicted_cluster: ['harmful plant']
-
 
 ********************
 **gold_taxo_property: electromagnetic interference
@@ -767,7 +766,6 @@
 **con_intersection: ['non-ionising radiation']
 **extra_cons_in_predicted_cluster: []
 
-
 ********************
 **gold_taxo_property: noise
 **gold_taxo_cons: ['noise level']
@@ -778,7 +776,6 @@
 **predicted_cluster_prop: ['db' 'dba']
 **con_intersection: ['noise level']
 **extra_cons_in_predicted_cluster: []
-
 
 ********************
 **gold_taxo_property: pollutant
@@ -796,7 +793,6 @@
 **con_intersection: ['atmospheric pollutant', 'pesticide residue', 'water pollutant']
 **extra_cons_in_predicted_cluster: ['combustion gases', 'greenhouse gas', 'ozone', 'pollutant', 'radioactive pollution', 'stratospheric pollutant']
 
-
 ********************
 **gold_taxo_property: atmospheric pollutant
 **gold_taxo_cons: ['combustion gases', 'dust', 'greenhouse gas', 'stratospheric pollutant']
@@ -807,7 +803,6 @@
 **predicted_cluster_prop: ['vacuum' 'vacuuming' 'scrubbed from the atmosphere' 'drain']
 **con_intersection: ['dust', 'stratospheric pollutant']
 **extra_cons_in_predicted_cluster: ['stagnant water', 'underwater mineral resources']
-
 
 ********************
 **gold_taxo_property: pollution
@@ -823,7 +818,6 @@
 **con_intersection: ['chemical pollution', 'coastal pollution', 'food contamination', 'industrial pollution', 'local pollution', 'metal pollution', 'organic pollution', 'pollution from agricultural sources', 'soil pollution', 'thermal pollution', 'water pollution']
 **extra_cons_in_predicted_cluster: ['atmospheric pollutant', 'degree of pollution', 'environmental liability', 'eutrophication', 'landfill', 'marine pollution', 'nuisance', 'polluted area', 'pollution', 'pollution from land-based sources', 'pollution of waterways', 'prevention of pollution']
 
-
 ********************
 **gold_taxo_property: atmospheric pollution
 **gold_taxo_cons: ['greenhouse effect']
@@ -834,7 +828,6 @@
 **predicted_cluster_prop: ['trapping heat' 'trapping of heat' 'heat retention' 'traps heat']
 **con_intersection: ['greenhouse effect']
 **extra_cons_in_predicted_cluster: ['greenhouse gas']
-
 
 ********************
 **gold_taxo_property: water pollution
@@ -856,7 +849,6 @@
 **con_intersection: ['eutrophication', 'marine pollution', 'pollution of waterways']
 **extra_cons_in_predicted_cluster: ['pollution from agricultural sources', 'thermal pollution', 'water pollutant']
 
-
 ********************
 **gold_taxo_property: marine pollution
 **gold_taxo_cons: ['pollution from land-based sources']
@@ -867,7 +859,6 @@
 **predicted_cluster_prop: ['birth defects']
 **con_intersection: ['pollution from land-based sources']
 **extra_cons_in_predicted_cluster: ['carcinogenic substance', 'chemical pollution', 'cost of pollution', 'radioactive effluent', 'toxic substance']
-
 
 ********************
 **gold_taxo_property: waste
@@ -880,7 +871,6 @@
  'transmutation' 'collection' 'reprocessing' 'dispose' 'disposing of']
 **con_intersection: ['agricultural waste', 'domestic waste', 'export of waste', 'hazardous waste', 'hospital waste', 'industrial waste', 'metal waste', 'non-recoverable waste', 'radioactive waste', 'sewage sludge', 'used oil', 'wastewater']
 **extra_cons_in_predicted_cluster: ['carcinogenic substance', 'dumping of waste', 'radioactive effluent', 'storage of waste', 'waste', 'waste disposal', 'waste management', 'waste recycling', 'waste storage']
-
 
 ********************
 **gold_taxo_property: radioactive waste
@@ -924,7 +914,6 @@
 **con_intersection: ['radioactive effluent']
 **extra_cons_in_predicted_cluster: ['biodiversity', 'electromagnetic interference', 'radioactive pollution']
 
-
 ********************
 **gold_taxo_property: environment
 **gold_taxo_cons: ['climate', 'climate change policy', 'degradation of the environment', 'environmental policy', 'environmental protection', 'geophysical environment', 'natural resources', 'nuisance', 'physical environment', 'pollution', 'pollution control measures', 'waste', 'waste management', 'water management', 'wildlife']
@@ -935,6 +924,5 @@
 **predicted_cluster_prop: ['ngos' 'ngo']
 **con_intersection: ['climate change policy', 'degradation of the environment', 'environmental policy', 'environmental protection', 'pollution control measures', 'waste management', 'water management']
 **extra_cons_in_predicted_cluster: ['carbon credit', 'countryside conservation', 'emission trading', 'environmental economics', 'environmental law', 'pollution control', 'protected area', 'protected species', 'protection of animals']
-
 
 **avg_jaccard_index: 0.3916

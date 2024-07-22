@@ -1,0 +1,890 @@
+********************
+**gold_taxo_property: positioning equipment
+**gold_taxo_cons: ['air film device', 'balancer', 'ball transfer table', 'dock leveler', 'hoist', 'industrial robot', 'lift table', 'manipulator', 'manual', 'parts feeder', 'rotary index table', 'tilt table', 'turn table']
+**best_jaccard_index: 0.375
+**best_jaccard_clusters: [64]
+**cluster_label: 64
+**predicted_cluster_con: ['glue', 'industrial robot', 'manipulator', 'manual', 'mechanical connections', 'parts feeder', 'roller conveyor', 'rotary index table', 'tilt table']
+**predicted_cluster_prop: ['assembly aid' 'assembly']
+**con_intersection: ['industrial robot', 'manipulator', 'manual', 'parts feeder', 'rotary index table', 'tilt table']
+**extra_cons_in_predicted_cluster: ['glue', 'mechanical connections', 'roller conveyor']
+
+********************
+**gold_taxo_property: stroboscope
+**gold_taxo_cons: ['timing light']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2538]
+**cluster_label: 2538
+**predicted_cluster_con: ['drive-through rack', 'timing light']
+**predicted_cluster_prop: ['at gas station' 'at convenience store' 'at gas stations'
+ 'during vehicle maintenance' 'gas station' 'at convenience stores']
+**con_intersection: ['timing light']
+**extra_cons_in_predicted_cluster: ['drive-through rack']
+
+********************
+**gold_taxo_property: storage equipment
+**gold_taxo_cons: ['automatic storage', 'bins', 'block stacking', 'cantilever rack', 'drawers', 'drive-in rack', 'drive-through rack', 'flow-through rack', 'mezzanine', 'push-back rack', 'retrieval systems', 'selective pallet rack', 'shelves', 'sliding rack', 'split case order picking system', 'stacking frame', 'storage carousel']
+**best_jaccard_index: 0.56
+**best_jaccard_clusters: [1951]
+**cluster_label: 1951
+**predicted_cluster_con: ['automatic storage', 'bins', 'cantilever rack', 'crates', 'drawers', 'drive-in rack', 'drive-through rack', 'flow-through rack', 'manual', 'office equipment', 'pallets', 'push-back rack', 'racks', 'retrieval systems', 'rotary index table', 'selective pallet rack', 'shelves', 'sliding rack', 'stacking frame', 'storage carousel', 'storage equipment', 'trolley conveyor']
+**predicted_cluster_prop: ['organizing' 'organize' 'arranging' 'organizational' 'keeping organized'
+ 'organization' 'documenting process' 'organizes']
+**con_intersection: ['automatic storage', 'bins', 'cantilever rack', 'drawers', 'drive-in rack', 'drive-through rack', 'flow-through rack', 'push-back rack', 'retrieval systems', 'selective pallet rack', 'shelves', 'sliding rack', 'stacking frame', 'storage carousel']
+**extra_cons_in_predicted_cluster: ['crates', 'manual', 'office equipment', 'pallets', 'racks', 'rotary index table', 'storage equipment', 'trolley conveyor']
+
+********************
+**gold_taxo_property: equipment
+**gold_taxo_cons: ['agricultural equipment', 'audio equipment', 'camping equipment', 'communication equipment', 'electrical equipment', 'emergency vehicle equipment', 'fire apparatus', 'heavy equipment', 'identification equipment', 'laboratory equipment', 'list of agricultural equipment', 'medical equipment', 'military equipment', 'office equipment', 'personal protective equipment', 'positioning equipment', 'rolling stock', 'scientific instrument', 'self-propelled passenger equipment', 'storage equipment', 'transport equipment', 'unit load formation equipment']
+**best_jaccard_index: 0.2143
+**best_jaccard_clusters: [562]
+**cluster_label: 562
+**predicted_cluster_con: ['audio equipment', 'automatic storage', 'binoculars', 'cinetheodolite', 'conveyor', 'crates', 'drosometer', 'electrical equipment', 'electronic data interchange', 'emergency vehicle equipment', 'equipment', 'headphones', 'hypsometer', 'identification equipment', 'laboratory equipment', 'lensmeter', 'manipulator', 'medical equipment', 'military equipment', 'parts feeder', 'scientific instrument', 'solar x-ray imager', 'sortation conveyor', 'time pressure gauge', 'tower viewer', 'turntable', 'twist compression tester', 'unit load formation equipment', 'variometer']
+**predicted_cluster_prop: ['electronic' 'digital' 'electronics']
+**con_intersection: ['audio equipment', 'electrical equipment', 'emergency vehicle equipment', 'identification equipment', 'laboratory equipment', 'medical equipment', 'military equipment', 'scientific instrument', 'unit load formation equipment']
+**extra_cons_in_predicted_cluster: ['automatic storage', 'binoculars', 'cinetheodolite', 'conveyor', 'crates', 'drosometer', 'electronic data interchange', 'equipment', 'headphones', 'hypsometer', 'lensmeter', 'manipulator', 'parts feeder', 'solar x-ray imager', 'sortation conveyor', 'time pressure gauge', 'tower viewer', 'turntable', 'twist compression tester', 'variometer']
+
+********************
+**gold_taxo_property: airport crash tender
+**gold_taxo_cons: ['alvis salamander']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [2193]
+**cluster_label: 2193
+**predicted_cluster_con: ['alvis salamander']
+**predicted_cluster_prop: ['reptile' 'salamander' 'alvis salamander']
+**con_intersection: ['alvis salamander']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: helmet
+**gold_taxo_cons: ['attic helmet', 'barbute', 'bascinet', 'batting helmet', 'bicycle helmet', "boar's tusk helmet", 'boeotian helmet', 'bulgarian m36 helmet', 'chalcidian helmet', 'close helm', 'close helmet', 'conical helmet', 'coolus helmet', 'corinthian helmet', 'crosby garrett helmet', 'custodian helmet', 'diving helmet', "firefighter's helmet", 'flight helmet', 'galea', 'guisborough helmet', 'hallaton helmet', 'headgear', 'helmet of coţofeneşti', 'horned helmet', 'hounskull', 'illyrian type helmet', 'imperial helmet', 'iraqi m80 helmet', 'kegelhelm', 'konos', "l'eplattenier helmet", "lifeboatman's helmet", 'makarapa', 'mathiole', 'mining helmet', 'modèle 1978 helmet', 'motorcycle helmet', 'negau helmet', 'newstead helmet', 'nijmegen helmet', 'olympic cool-cap system', 'phrygian type helmet', 'pickelhaube', 'pith helmet', 'racing helmet', 'ribchester helmet', 'riot protection helmet', 'shmarjet', 'ssh-68', 'stahlhelm', 'tarnhelm', 'visor', 'welding helmet', 'winged helmet', 'zuckerman helmet']
+**best_jaccard_index: 0.6724
+**best_jaccard_clusters: [2379]
+**cluster_label: 2379
+**predicted_cluster_con: ['attic helmet', 'barbute', 'bascinet', 'batting helmet', 'bicycle helmet', "boar's tusk helmet", 'bulgarian m36 helmet', 'chalcidian helmet', 'close helm', 'close helmet', 'conical helmet', 'corinthian helmet', 'custodian helmet', "firefighter's helmet", 'flight helmet', 'galea', 'helmet', 'helmet of cotofenesti', 'helmet of coţofeneşti', 'horned helmet', 'illyrian type helmet', 'imperial helmet', 'iraqi m80 helmet', 'kegelhelm', "l'eplattenier helmet", "lifeboatman's helmet", 'makarapa', 'mining helmet', 'motorcycle helmet', 'negau helmet', 'newstead helmet', 'nijmegen helmet', 'phrygian type helmet', 'pickelhaube', 'pith helmet', 'racing helmet', 'riot protection helmet', 'stahlhelm', 'tarnhelm', 'welding helmet', 'zuckerman helmet']
+**predicted_cluster_prop: ['shaped for head' 'headgear' 'adjustable headband' "warrior's headgear"
+ 'headpiece' 'protective headgear' 'evolved from ancient headgear'
+ 'usually worn on head' 'shaped to fit head' 'skullcap'
+ 'military headgear' 'traditional headpiece']
+**con_intersection: ['attic helmet', 'barbute', 'bascinet', 'batting helmet', 'bicycle helmet', "boar's tusk helmet", 'bulgarian m36 helmet', 'chalcidian helmet', 'close helm', 'close helmet', 'conical helmet', 'corinthian helmet', 'custodian helmet', "firefighter's helmet", 'flight helmet', 'galea', 'helmet of coţofeneşti', 'horned helmet', 'illyrian type helmet', 'imperial helmet', 'iraqi m80 helmet', 'kegelhelm', "l'eplattenier helmet", "lifeboatman's helmet", 'makarapa', 'mining helmet', 'motorcycle helmet', 'negau helmet', 'newstead helmet', 'nijmegen helmet', 'phrygian type helmet', 'pickelhaube', 'pith helmet', 'racing helmet', 'riot protection helmet', 'stahlhelm', 'tarnhelm', 'welding helmet', 'zuckerman helmet']
+**extra_cons_in_predicted_cluster: ['helmet', 'helmet of cotofenesti']
+
+********************
+**gold_taxo_property: solar telescope
+**gold_taxo_cons: ['spectrohelioscope', 'sunrise', 'swedish solar telescope']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [155, 868, 2122]
+**cluster_label: 155
+**predicted_cluster_con: ['sunrise']
+**predicted_cluster_prop: ['rebirth' 'marking new day' 'inspiration' 'fresh start' 'new beginning'
+ 'new day']
+**con_intersection: ['sunrise']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 868
+**predicted_cluster_con: ['high resolution coronal imager', 'james webb space telescope', 'solar telescope', 'spectrohelioscope', 'swedish solar telescope']
+**predicted_cluster_prop: ['unique sunshield' 'coronal' "sun's corona" 'solar image' 'sunshield'
+ 'solar granulation']
+**con_intersection: ['spectrohelioscope', 'swedish solar telescope']
+**extra_cons_in_predicted_cluster: ['high resolution coronal imager', 'james webb space telescope', 'solar telescope']
+
+**cluster_label: 2122
+**predicted_cluster_con: ['actinometer', 'magnetograph', 'net radiometer', 'pyranoscope', 'pyrheliometer', 'spectrohelioscope', 'sunrise', 'swedish solar telescope', 'vector magnetograph']
+**predicted_cluster_prop: ['solar radiation' 'solar irradiance' "sun's magnetic field"
+ 'solar flares' 'sunlight intensity' 'solar activity' "sun's"
+ 'energy from sun' 'net radiation = solar radiation - infrared radiation'
+ 'principle of solar radiation' 'solar energy' "sun's movement"
+ "sun's energy" 'solar' 'solar activity data']
+**con_intersection: ['spectrohelioscope', 'sunrise', 'swedish solar telescope']
+**extra_cons_in_predicted_cluster: ['actinometer', 'magnetograph', 'net radiometer', 'pyranoscope', 'pyrheliometer', 'vector magnetograph']
+
+********************
+**gold_taxo_property: optical telescope
+**gold_taxo_cons: ['automated planet finder', 'binoculars', 'bta-6', 'jacobus kapteyn telescope', 'reflecting telescope', 'schmidt camera', 'southern african large telescope']
+**best_jaccard_index: 0.1429
+**best_jaccard_clusters: [2429]
+**cluster_label: 2429
+**predicted_cluster_con: ['binoculars', 'finderscope', 'heliometer', 'image-stabilized binoculars', 'monocular', 'operating microscope', 'schmidt camera', 'spotting scope', 'tower viewer']
+**predicted_cluster_prop: ['target shooting' 'help in spotting' 'telescopic' 'monocular'
+ 'telescopic sight' 'rifle scope' 'spotting scope']
+**con_intersection: ['binoculars', 'schmidt camera']
+**extra_cons_in_predicted_cluster: ['finderscope', 'heliometer', 'image-stabilized binoculars', 'monocular', 'operating microscope', 'spotting scope', 'tower viewer']
+
+********************
+**gold_taxo_property: pressure suit
+**gold_taxo_cons: ['advanced crew escape suit', 'apollo/skylab a7l', 'launch entry suit', 'navy mark iv']
+**best_jaccard_index: 0.6
+**best_jaccard_clusters: [1228]
+**cluster_label: 1228
+**predicted_cluster_con: ['advanced crew escape suit', 'apollo/skylab a7l', 'broad band x-ray telescope', 'launch entry suit']
+**predicted_cluster_prop: ['protects from space' 'protects against space environment'
+ 'specific to launch conditions' 'allow safe entry into space'
+ 'must withstand harsh space environment'
+ 'protection from space environment' 'protection from space']
+**con_intersection: ['advanced crew escape suit', 'apollo/skylab a7l', 'launch entry suit']
+**extra_cons_in_predicted_cluster: ['broad band x-ray telescope']
+
+********************
+**gold_taxo_property: tachometer
+**gold_taxo_cons: ['wheel speed sensor']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1439]
+**cluster_label: 1439
+**predicted_cluster_con: ['odometer', 'wheel speed sensor']
+**predicted_cluster_prop: ['attached to axle' 'near wheel hub' 'on vehicle wheel' 'bike handlebars'
+ 'attached to wheel hub' 'attached to wheel' 'bicycle handlebar'
+ 'bicycle handlebars']
+**con_intersection: ['wheel speed sensor']
+**extra_cons_in_predicted_cluster: ['odometer']
+
+********************
+**gold_taxo_property: scanning tunneling microscope
+**gold_taxo_cons: ['scanning hall probe microscope']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2056]
+**cluster_label: 2056
+**predicted_cluster_con: ['scanning hall probe microscope', 'schlenk line']
+**predicted_cluster_prop: ['to differentiate' 'characterizing' 'to distinguish']
+**con_intersection: ['scanning hall probe microscope']
+**extra_cons_in_predicted_cluster: ['schlenk line']
+
+********************
+**gold_taxo_property: conveyor
+**gold_taxo_cons: ['bucket conveyor', 'cart-on-track conveyor', 'chain conveyor', 'chute conveyor', 'flat belt conveyor', 'magnetic belt conveyor', 'monorail', 'pneumatic conveyor', 'power-and-free conveyor', 'roller conveyor', 'screw conveyor', 'slat conveyor', 'sortation conveyor', 'tow conveyor', 'trolley conveyor', 'troughed belt conveyor', 'vertical conveyor', 'vibrating conveyor', 'wheel conveyor']
+**best_jaccard_index: 0.7083
+**best_jaccard_clusters: [1143]
+**cluster_label: 1143
+**predicted_cluster_con: ['automatic guided vehicle (agv)', 'ball transfer table', 'bucket conveyor', 'burden carrier', 'cart-on-track conveyor', 'chain conveyor', 'chute conveyor', 'conveyor', 'flat belt conveyor', 'magnetic belt conveyor', 'mechanical connections', 'pneumatic conveyor', 'power-and-free conveyor', 'roller conveyor', 'screw conveyor', 'slat conveyor', 'tow conveyor', 'trolley conveyor', 'troughed belt conveyor', 'vertical conveyor', 'vibrating conveyor', 'wheel conveyor']
+**predicted_cluster_prop: ['conveying materials' 'transporting materials'
+ 'transporting ferrous materials' 'transporting material'
+ 'conveying bulk materials' 'transports load' 'material handling system'
+ 'convey materials' 'transferring materials' 'transports material'
+ 'conveying products' 'material transport' 'distribute loads'
+ 'transports materials']
+**con_intersection: ['bucket conveyor', 'cart-on-track conveyor', 'chain conveyor', 'chute conveyor', 'flat belt conveyor', 'magnetic belt conveyor', 'pneumatic conveyor', 'power-and-free conveyor', 'roller conveyor', 'screw conveyor', 'slat conveyor', 'tow conveyor', 'trolley conveyor', 'troughed belt conveyor', 'vertical conveyor', 'vibrating conveyor', 'wheel conveyor']
+**extra_cons_in_predicted_cluster: ['automatic guided vehicle (agv)', 'ball transfer table', 'burden carrier', 'conveyor', 'mechanical connections']
+
+********************
+**gold_taxo_property: schmidt camera
+**gold_taxo_cons: ['samuel oschin telescope', 'uppsala southern schmidt telescope']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1672]
+**cluster_label: 1672
+**predicted_cluster_con: ['anna l. nickel telescope', 'samuel oschin telescope']
+**predicted_cluster_prop: ['donor' 'philanthropist' 'philanthropist and businessman'
+ 'donor to the university']
+**con_intersection: ['samuel oschin telescope']
+**extra_cons_in_predicted_cluster: ['anna l. nickel telescope']
+
+********************
+**gold_taxo_property: artillery tractor
+**gold_taxo_cons: ['aec matador', 'at-l', 'at-t', 'ats-59', 'c7p', 'hitachi type 73', 'krupp protze', 'laffly v15', 'landwasserschlepper', 'm4 tractor', 'm5 tractor', 'm6 tractor', 'm8 tractor', 'morris c8', 'morris cdsw', 'somua mcg']
+**best_jaccard_index: 0.2857
+**best_jaccard_clusters: [2510]
+**cluster_label: 2510
+**predicted_cluster_con: ['aec matador', 'amx-30 bridge', 'artillery tractor', 'flak jacket', 'krupp protze', 'laffly v15', 'm5 tractor', 'm8 tractor', 'military equipment', 'personnel carrier', 'somua mcg']
+**predicted_cluster_prop: ['armored' 'armored body' 'armored vehicle' 'not equipped with weapons'
+ 'armored car' 'non-armored' 'strongly armored' 'heavily armored']
+**con_intersection: ['aec matador', 'krupp protze', 'laffly v15', 'm5 tractor', 'm8 tractor', 'somua mcg']
+**extra_cons_in_predicted_cluster: ['amx-30 bridge', 'artillery tractor', 'flak jacket', 'military equipment', 'personnel carrier']
+
+********************
+**gold_taxo_property: heavy equipment
+**gold_taxo_cons: ['amx-30 bridge', 'cold planer', 'forwarder', 'harvester', 'kouppas', 'paver', 'road roller', 'suction excavator', 'tracked loader', 'tractor']
+**best_jaccard_index: 0.2727
+**best_jaccard_clusters: [237, 1567]
+**cluster_label: 237
+**predicted_cluster_con: ['amx-30 bridge', 'cold planer', 'monorail', 'road roller']
+**predicted_cluster_prop: ['infrastructure' 'building infrastructure' 'fixed guideway'
+ 'pre-fabricated sections' 'maintaining infrastructure']
+**con_intersection: ['amx-30 bridge', 'cold planer', 'road roller']
+**extra_cons_in_predicted_cluster: ['monorail']
+
+**cluster_label: 1567
+**predicted_cluster_con: ['amx-30 bridge', 'paver', 'road roller', 'vertical conveyor']
+**predicted_cluster_prop: ['concrete' 'brick' 'poured']
+**con_intersection: ['amx-30 bridge', 'paver', 'road roller']
+**extra_cons_in_predicted_cluster: ['vertical conveyor']
+
+********************
+**gold_taxo_property: airspeed indicator
+**gold_taxo_cons: ['indicated airspeed']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: medical equipment
+**gold_taxo_cons: ['cervical collar', 'rapid dna', 'suzuki frame']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1898, 2564]
+**cluster_label: 1898
+**predicted_cluster_con: ['rapid dna']
+**predicted_cluster_prop: ['rapid' 'quick' 'efficient' 'speeded up' 'faster' 'accelerated']
+**con_intersection: ['rapid dna']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 2564
+**predicted_cluster_con: ['cervical collar']
+**predicted_cluster_prop: ['wearing while sleeping' 'during sleep' 'wearing during sleep']
+**con_intersection: ['cervical collar']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: binoculars
+**gold_taxo_cons: ['image-stabilized binoculars', 'tower viewer']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [982, 2073]
+**cluster_label: 982
+**predicted_cluster_con: ['monorail', 'tower viewer']
+**predicted_cluster_prop: ['used in disney theme parks' 'theme parks' 'theme park']
+**con_intersection: ['tower viewer']
+**extra_cons_in_predicted_cluster: ['monorail']
+
+**cluster_label: 2073
+**predicted_cluster_con: ['binoculars', 'tower viewer']
+**predicted_cluster_prop: ['sightseeing' 'enjoying view' 'enjoy the view' 'enjoy scenic views'
+ 'enjoy scenery']
+**con_intersection: ['tower viewer']
+**extra_cons_in_predicted_cluster: ['binoculars']
+
+********************
+**gold_taxo_property: rolling stock
+**gold_taxo_cons: ['81-720/721', '81-740/741', 'austauschbauart', 'dbag class 641', 'intercity 250', 'kawasaki heavy industries c151', 'la brugeoise cars', 'ma 51', 'mp ng', 'sprague-thomson', 'steamrail victoria', 'stock car', 'öbb rolling stock']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [232]
+**cluster_label: 232
+**predicted_cluster_con: ['81-720/721', '81-740/741', 'dbag class 641', 'intercity 250', 'kawasaki heavy industries c151', 'monorail', 'personnel carrier', 'rms titanic', 'rolling stock', 'self-propelled passenger equipment', 'öbb rolling stock']
+**predicted_cluster_prop: ['passengers' 'number of passengers' 'up to 60 passengers'
+ 'up to 50 passengers' 'up to 40 passengers' 'many passengers'
+ 'up to 150 passengers' '250 passengers' 'few passengers' 'over 2,200'
+ '60 passengers' '200 passengers' 'over 1,000 passengers'
+ 'around 1,000 passengers' 'large number of passengers' 'first class'
+ '40 passengers' 'capacity for 40 passengers' '71 passengers'
+ '65 passengers' 'cabin']
+**con_intersection: ['81-720/721', '81-740/741', 'dbag class 641', 'intercity 250', 'kawasaki heavy industries c151', 'öbb rolling stock']
+**extra_cons_in_predicted_cluster: ['monorail', 'personnel carrier', 'rms titanic', 'rolling stock', 'self-propelled passenger equipment']
+
+********************
+**gold_taxo_property: safety harness
+**gold_taxo_cons: ['child harness', 'fall arrest', 'seat belt']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [253]
+**cluster_label: 253
+**predicted_cluster_con: ['child harness', 'seat belt']
+**predicted_cluster_prop: ['transporting child' 'stroller' 'making child comfortable' 'baby gear'
+ 'infant equipment' 'child seat' 'stroller attachment']
+**con_intersection: ['child harness', 'seat belt']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: seismometer
+**gold_taxo_cons: ['ocean-bottom seismometer']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [405]
+**cluster_label: 405
+**predicted_cluster_con: ['ocean-bottom seismometer']
+**predicted_cluster_prop: ['hydrophone' 'hydrophones']
+**con_intersection: ['ocean-bottom seismometer']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: seat belt
+**gold_taxo_cons: ['five-point harness']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1159]
+**cluster_label: 1159
+**predicted_cluster_con: ['five-point harness', 'seat belt']
+**predicted_cluster_prop: ['worn by passenger' 'restrains passenger' 'protect passenger'
+ 'protecting passenger' 'protects passenger']
+**con_intersection: ['five-point harness']
+**extra_cons_in_predicted_cluster: ['seat belt']
+
+********************
+**gold_taxo_property: electrical equipment
+**gold_taxo_cons: ['cathodic protection rectifier', 'cryogenic current comparator', 'current transformer', 'mechanical connections']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [85, 1879]
+**cluster_label: 85
+**predicted_cluster_con: ['aedc range g', 'ampere balance', 'cathodic protection rectifier', 'cryogenic current comparator', 'current transformer', 'dynamic voltage restoration', 'electrical equipment', 'mass interconnect']
+**predicted_cluster_prop: ['electric power distribution' 'electrical power distribution'
+ 'transfers electricity' 'airborne electrical distribution company'
+ 'power transmission' 'industrial power system' 'electrical power system'
+ 'industrial power systems' 'electrical grid' 'converts ac to dc'
+ 'power distribution' 'industrial power supply' 'electricity grid'
+ 'electrical power systems' 'power systems' 'power grid'
+ 'distributes electricity' 'electrical grids' 'electricity distribution'
+ 'power transmission and distribution' 'power system']
+**con_intersection: ['cathodic protection rectifier', 'cryogenic current comparator', 'current transformer']
+**extra_cons_in_predicted_cluster: ['aedc range g', 'ampere balance', 'dynamic voltage restoration', 'electrical equipment', 'mass interconnect']
+
+**cluster_label: 1879
+**predicted_cluster_con: ['cryogenic current comparator', 'current transformer', 'heinrich hertz submillimeter telescope', 'large millimeter telescope']
+**predicted_cluster_prop: ['based on superconducting quantum interference device'
+ 'superconducting quantum interference device' 'quantum computing'
+ 'uses superconducting quantum interference device'
+ 'superconducting detector' 'electromagnetic core']
+**con_intersection: ['cryogenic current comparator', 'current transformer']
+**extra_cons_in_predicted_cluster: ['heinrich hertz submillimeter telescope', 'large millimeter telescope']
+
+********************
+**gold_taxo_property: x-ray telescope
+**gold_taxo_cons: ['nustar', 'rosat', 'solar x-ray imager']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [2208]
+**cluster_label: 2208
+**predicted_cluster_con: ['hounskull', 'rosat']
+**predicted_cluster_prop: ['harvested in summer' 'harvested in fall' 'harvested in autumn']
+**con_intersection: ['rosat']
+**extra_cons_in_predicted_cluster: ['hounskull']
+
+********************
+**gold_taxo_property: dna sequencer
+**gold_taxo_cons: ['polonator']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1683]
+**cluster_label: 1683
+**predicted_cluster_con: ['apache axis2', 'polonator']
+**predicted_cluster_prop: ['open-source' 'open-source community' 'free and open-source'
+ 'open source' 'true' 'apache license' 'free to use']
+**con_intersection: ['polonator']
+**extra_cons_in_predicted_cluster: ['apache axis2']
+
+********************
+**gold_taxo_property: barbecue
+**gold_taxo_cons: ['barrel barbecue', 'god-grilla']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [753, 2872]
+**cluster_label: 753
+**predicted_cluster_con: ['barbecue', 'barrel barbecue', 'camping equipment', 'god-grilla']
+**predicted_cluster_prop: ['barrel-shaped grill' 'barbecue' 'grilling' 'camp stove' 'bbq pit'
+ 'portable grill' 'outdoor grill' 'cooking grill' 'electric grill'
+ 'charcoal grill' 'grilling food' 'grill' 'barbecue pit']
+**con_intersection: ['barrel barbecue', 'god-grilla']
+**extra_cons_in_predicted_cluster: ['barbecue', 'camping equipment']
+
+**cluster_label: 2872
+**predicted_cluster_con: ['god-grilla']
+**predicted_cluster_prop: ['ancient cultures' 'none' 'tribal communities' 'some cultures']
+**con_intersection: ['god-grilla']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: apron
+**gold_taxo_cons: ['kappōgi', 'podea']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [56]
+**cluster_label: 56
+**predicted_cluster_con: ['kappōgi', 'podea', 'rose']
+**predicted_cluster_prop: ['thorny stem' 'evergreen' 'deciduous' 'thorny trunk' 'large leaves'
+ 'has a distinctive leaf' 'palm-like' 'leaves' 'green leaves']
+**con_intersection: ['kappōgi', 'podea']
+**extra_cons_in_predicted_cluster: ['rose']
+
+********************
+**gold_taxo_property: identification equipment
+**gold_taxo_cons: ['bar codes', 'machine vision', 'magnetic stripe', 'radio frequency tag']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [946, 1096, 2476]
+**cluster_label: 946
+**predicted_cluster_con: ['atm', 'magnetic stripe', 'radio frequency tag', 'tribometer']
+**predicted_cluster_prop: ['card reader' 'pin-on-disk' 'contactless' 'swiped']
+**con_intersection: ['magnetic stripe', 'radio frequency tag']
+**extra_cons_in_predicted_cluster: ['atm', 'tribometer']
+
+**cluster_label: 1096
+**predicted_cluster_con: ['atm', 'bar codes', 'identification equipment', 'magnetic stripe']
+**predicted_cluster_prop: ['cash' 'deposit money' 'cash deposit' 'cash storage' 'payment'
+ 'making deposits' 'deposit cash' 'bank' 'make payment' 'accept deposits'
+ 'accepts deposits']
+**con_intersection: ['bar codes', 'magnetic stripe']
+**extra_cons_in_predicted_cluster: ['atm', 'identification equipment']
+
+**cluster_label: 2476
+**predicted_cluster_con: ['bar code', 'bar codes', 'radio frequency tag', 'ssh-1']
+**predicted_cluster_prop: ['sftp' 'code 128' 'cryptography protocol' 'qr code'
+ 'cryptographic protocol' 'network protocol' 'public key cryptography'
+ 'nfc' 'secure shell protocol']
+**con_intersection: ['bar codes', 'radio frequency tag']
+**extra_cons_in_predicted_cluster: ['bar code', 'ssh-1']
+
+********************
+**gold_taxo_property: road roller
+**gold_taxo_cons: ['caterpillar cs-533e', 'steamroller']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [1131, 2767]
+**cluster_label: 1131
+**predicted_cluster_con: ['knelson concentrator', 'road roller', 'steamroller']
+**predicted_cluster_prop: ['tailings' 'compacting materials' 'compacting']
+**con_intersection: ['steamroller']
+**extra_cons_in_predicted_cluster: ['knelson concentrator', 'road roller']
+
+**cluster_label: 2767
+**predicted_cluster_con: ['cold planer', 'road roller', 'steamroller']
+**predicted_cluster_prop: ['road repair' 'road maintenance' 'fixing potholes'
+ 'pavement maintenance tool' 'road construction equipment' 'fixing roads'
+ 'road reconstruction' 'repairing roads' 'repairing damaged roads'
+ 'road maintenance equipment']
+**con_intersection: ['steamroller']
+**extra_cons_in_predicted_cluster: ['cold planer', 'road roller']
+
+********************
+**gold_taxo_property: truck
+**gold_taxo_cons: ['industrial truck', 'tractor']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [993]
+**cluster_label: 993
+**predicted_cluster_con: ['81-720/721', 'industrial truck', 'john deere mc', "koenig's manometric flame apparatus", 'landwasserschlepper', 'tractor', 'transport equipment', 'uni-engine']
+**predicted_cluster_prop: ['gasoline' 'petrol' 'fuel' 'diesel' 'compressed natural gas']
+**con_intersection: ['industrial truck', 'tractor']
+**extra_cons_in_predicted_cluster: ['81-720/721', 'john deere mc', "koenig's manometric flame apparatus", 'landwasserschlepper', 'transport equipment', 'uni-engine']
+
+********************
+**gold_taxo_property: audio equipment
+**gold_taxo_cons: ['lenco turntables', 'mixer-settler', 'picture line-up generation equipment', 'snickometer', 'tail-pulse generator', 'talkback']
+**best_jaccard_index: 0.2222
+**best_jaccard_clusters: [2588]
+**cluster_label: 2588
+**predicted_cluster_con: ['barbecue', 'barrel barbecue', 'snickometer', 'talkback', 'tilt table']
+**predicted_cluster_prop: ['entertaining' 'engaging audience' 'to entertain audience']
+**con_intersection: ['snickometer', 'talkback']
+**extra_cons_in_predicted_cluster: ['barbecue', 'barrel barbecue', 'tilt table']
+
+********************
+**gold_taxo_property: batting helmet
+**gold_taxo_cons: ['coolflo']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [579]
+**cluster_label: 579
+**predicted_cluster_con: ['barbute', 'coolflo', 'hegra', 'quint']
+**predicted_cluster_prop: ['a made-up word' 'no information available' 'a word with no significance'
+ 'archaic' 'no meaning' 'idiomatic expressions']
+**con_intersection: ['coolflo']
+**extra_cons_in_predicted_cluster: ['barbute', 'hegra', 'quint']
+
+********************
+**gold_taxo_property: fire apparatus
+**gold_taxo_cons: ['aerial straps', 'airport crash tender', 'apache axis2', 'barbecue', 'dennis dagger', 'dennis ds series', 'dennis rs series', 'dennis ss series', 'quint', 'uni-engine', 'water tender']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [2314]
+**cluster_label: 2314
+**predicted_cluster_con: ['dennis ds series', 'dennis rs series', 'dennis ss series', 'vertico smi']
+**predicted_cluster_prop: ['professional cyclists' 'motorcyclists' 'discerning riders'
+ 'endurance riders' 'professional riders' 'serious road cyclists'
+ 'serious cyclists' 'serious amateur cyclists' 'enthusiast riders']
+**con_intersection: ['dennis ds series', 'dennis rs series', 'dennis ss series']
+**extra_cons_in_predicted_cluster: ['vertico smi']
+
+********************
+**gold_taxo_property: microscope
+**gold_taxo_cons: ['atom probe', 'cathodoluminescence microscope', 'environmental scanning electron microscope', 'field emission probes', 'inverted microscope', 'knife-edge scanning microscope', 'larmor neutron microscope', 'low-voltage electron microscope', 'multiphoton fluorescence microscope', 'operating microscope', 'optical microscope', 'scanning electron microscope', 'stanhope lens', 'total internal reflection fluorescence microscope', 'x-ray microscope']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2472]
+**cluster_label: 2472
+**predicted_cluster_con: ['atom probe', 'cathodoluminescence microscope', 'environmental scanning electron microscope', 'field emission probes', 'interferometre', 'knife-edge scanning microscope', 'larmor neutron microscope', 'low-voltage electron microscope', 'microscope', 'optical microscope', 'scanning electron microscope', 'scanning hall probe microscope']
+**predicted_cluster_prop: ['neutron' 'scanning electron microscopy' 'scanning electron microscope'
+ 'electron microscope' 'field emission microscopy' 'scanning microscope'
+ 'higher than light microscope' 'scanning tunneling microscope'
+ 'field emission scanning electron microscope'
+ 'transmission electron microscope' 'optical interferometre'
+ 'atomic force microscope'
+ 'uses lower voltage than traditional electron microscopes'
+ 'lower than high-voltage electron microscope'
+ 'better than light microscope']
+**con_intersection: ['atom probe', 'cathodoluminescence microscope', 'environmental scanning electron microscope', 'field emission probes', 'knife-edge scanning microscope', 'larmor neutron microscope', 'low-voltage electron microscope', 'optical microscope', 'scanning electron microscope']
+**extra_cons_in_predicted_cluster: ['interferometre', 'microscope', 'scanning hall probe microscope']
+
+********************
+**gold_taxo_property: communication equipment
+**gold_taxo_cons: ['electronic data interchange', 'internet', 'portable data terminal']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1329]
+**cluster_label: 1329
+**predicted_cluster_con: ['internet']
+**predicted_cluster_prop: ['developed by arpanet' 'arpanet' 'world wide web']
+**con_intersection: ['internet']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: laboratory equipment
+**gold_taxo_cons: ['ampere balance', 'balance beam', 'bars apparatus', 'bathometer', 'belt dryer', 'blink comparator', 'bubble column reactor', 'chemigation valve', 'chronophone', 'colony counter', 'combustion pipette', 'coulter counter', 'double boiler', 'drosometer', 'dynamic voltage restoration', 'egg hatch assay', 'fog fence', 'french pressure cell press', 'hydration system', 'hyfrecator', 'impact microscope', "kipp's apparatus", 'knelson concentrator', 'kugelrohr', 'light gas gun', 'microscope', 'mooney viscometer', 'multiple-effect evaporator', 'nichols radiometer', 'operant conditioning chamber', 'perkin triangle', 'phonodeik', 'plate reader', 'rheoscope', 'scanning tunneling microscope', 'schlenk line', 'self-injurious behavior inhibiting system', 'slit lamp', 'sonometer', 'system80', 'telescope', 'thermal cycler', 'traveling microscope', 'twist compression tester', 'vaccine bath', 'vise', 'weighing bottle']
+**best_jaccard_index: 0.1786
+**best_jaccard_clusters: [2769]
+**cluster_label: 2769
+**predicted_cluster_con: ['ampere balance', 'atom probe', 'automated analyser', 'automated analyzer', 'automatic pressure tracking adiabatic calorimeter', 'balancer', 'clarity meter', 'colony counter', 'combustion pipette', 'coulter counter', 'cryogenic current comparator', 'cyanometer', 'disdrometer', 'dna sequencer', 'drosometer', 'dynameter', 'energy analyzer', 'field emission probes', 'frequency domain sensor', 'hook gauge evaporimeter', 'hydrometer', "kipp's apparatus", 'knife-edge scanning microscope', "koenig's manometric flame apparatus", 'laboratory equipment', 'manipulator', 'medical equipment', 'microprobe', 'microscope', 'nichols radiometer', 'operating microscope', 'optical microscope', 'personal protective equipment', 'petrographic microscope', 'plate reader', 'pyranoscope', 'rheoscope', 'rotary index table', 'saccharimeter', 'scanning electron microscope', 'schlenk line', 'scientific instrument', 'seismometer', 'sonometer', 'stratoscope', 'sysmex xe-2100', 'thermal cycler', 'tilt table', 'tribometer', 'twist compression tester', 'weighing bottle', 'zymoscope']
+**predicted_cluster_prop: ['research laboratory' 'laboratory' 'lab cabinet' 'laboratory setting'
+ 'in laboratory setup' 'in a laboratory' 'laboratories' 'in laboratory'
+ 'lab setting' 'used in laboratory' 'laboratory settings' 'lab'
+ 'in laboratory settings' 'used in labs']
+**con_intersection: ['ampere balance', 'colony counter', 'combustion pipette', 'coulter counter', 'drosometer', "kipp's apparatus", 'microscope', 'nichols radiometer', 'plate reader', 'rheoscope', 'schlenk line', 'sonometer', 'thermal cycler', 'twist compression tester', 'weighing bottle']
+**extra_cons_in_predicted_cluster: ['atom probe', 'automated analyser', 'automated analyzer', 'automatic pressure tracking adiabatic calorimeter', 'balancer', 'clarity meter', 'cryogenic current comparator', 'cyanometer', 'disdrometer', 'dna sequencer', 'dynameter', 'energy analyzer', 'field emission probes', 'frequency domain sensor', 'hook gauge evaporimeter', 'hydrometer', 'knife-edge scanning microscope', "koenig's manometric flame apparatus", 'laboratory equipment', 'manipulator', 'medical equipment', 'microprobe', 'operating microscope', 'optical microscope', 'personal protective equipment', 'petrographic microscope', 'pyranoscope', 'rotary index table', 'saccharimeter', 'scanning electron microscope', 'scientific instrument', 'seismometer', 'stratoscope', 'sysmex xe-2100', 'tilt table', 'tribometer', 'zymoscope']
+
+********************
+**gold_taxo_property: light gas gun
+**gold_taxo_cons: ['aedc range g']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [2113]
+**cluster_label: 2113
+**predicted_cluster_con: ['aedc range g', 'carbon dioxide sensor', 'clarity meter']
+**predicted_cluster_prop: ['parts per million' 'aedc range h' '0-5000' '0-1000' '0-500']
+**con_intersection: ['aedc range g']
+**extra_cons_in_predicted_cluster: ['carbon dioxide sensor', 'clarity meter']
+
+********************
+**gold_taxo_property: sound level meter
+**gold_taxo_cons: ['noise dosimeter']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [854]
+**cluster_label: 854
+**predicted_cluster_con: ['noise dosimeter']
+**predicted_cluster_prop: ['noise exposure calculator' 'noise exposure calculation']
+**con_intersection: ['noise dosimeter']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: automated analyser
+**gold_taxo_cons: ['hitachi 917', 'sysmex xe-2100']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1373]
+**cluster_label: 1373
+**predicted_cluster_con: ['sysmex xe-2100', 'vaccine bath']
+**predicted_cluster_prop: ['vaccines' 'antigens' 'edta-anticoagulated blood' 'viral particles'
+ 'vaccine' 'antibiotics' 'antibodies' 'adjuvants' 'medicines']
+**con_intersection: ['sysmex xe-2100']
+**extra_cons_in_predicted_cluster: ['vaccine bath']
+
+********************
+**gold_taxo_property: military equipment
+**gold_taxo_cons: ['artillery tractor']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2756]
+**cluster_label: 2756
+**predicted_cluster_con: ['artillery tractor', 'krupp protze']
+**predicted_cluster_prop: ['moving heavy artillery' 'moving artillery' 'towing artillery'
+ 'transporting artillery' 'to pull and transport heavy artillery'
+ 'trench runner']
+**con_intersection: ['artillery tractor']
+**extra_cons_in_predicted_cluster: ['krupp protze']
+
+********************
+**gold_taxo_property: tractor
+**gold_taxo_cons: ['allis-chalmers d series', 'allis-chalmers model b', 'allis-chalmers model g', 'allis-chalmers model wc', 'artillery tractor', 'ats 56 g', 'caterpillar d2', 'caterpillar d8', 'caterpillar d9', 'caterpillar twenty-two', 'challenger tractor', 'claas axion', 'cmp fat', 'darby steam-digger', 'ebro trucks', 'empire state pullers', 'farmall', 'farmall 1026', 'farmall cub', 'ferguson te20', 'ford 5000', 'hiboy', 'john deere 3020', 'john deere 5220', 'john deere mc', 'kirovets k-700', 'lanz bulldog', 'massey ferguson 399', 'massey-harris model 101', 'massey-harris model 20', 'massey-harris model 81', 'minneapolis-moline', 'nuffield universal', 'rmas fiona (a148)', 'subsoiler', 'terence the tractor', 'type 60 tracked tractor']
+**best_jaccard_index: 0.52
+**best_jaccard_clusters: [1647]
+**cluster_label: 1647
+**predicted_cluster_con: ['agricultural equipment', 'airport crash tender', 'allis-chalmers d series', 'allis-chalmers model b', 'allis-chalmers model g', 'allis-chalmers model wc', 'artillery tractor', 'challenger tractor', 'claas axion', 'ebro trucks', 'farmall', 'farmall 1026', 'farmall cub', 'ferguson te20', 'ford 5000', 'harvester', 'heavy equipment', 'hitachi 917', 'john deere 3020', 'john deere 5220', 'john deere mc', 'kirovets k-700', 'landwasserschlepper', 'list of agricultural equipment', 'm4 tractor', 'm5 tractor', 'm6 tractor', 'm8 tractor', 'massey ferguson 399', 'massey-harris model 101', 'massey-harris model 20', 'massey-harris model 81', 'minneapolis-moline', 'nuffield universal', 'sideloader', 'subsoiler', 'terence the tractor', 'tractor', 'type 60 tracked tractor']
+**predicted_cluster_prop: ['tractor' 'early tractor model' 'tractors' 'medium-sized tractor'
+ 'tractors for farming' 'small tractor' 'tractor-trailer'
+ 'industrial tractor' 'tractors with diesel engines' 'tractors for sale'
+ 'tractors with attachments' 'small tractors' 'farm tractor'
+ 'row crop tractor' 'first tractor produced by massey-harris'
+ 'tractors with hydrostatic transmission' 'pulls behind tractor'
+ 'tractors with 20 horsepower' 'one of the first tractors'
+ 'tractors with 4wd' 'tractor-mounted' 'specific tractor model'
+ 'tractor model' 'specific model of tractor' 'farm tractors' 'lawn mower']
+**con_intersection: ['allis-chalmers d series', 'allis-chalmers model b', 'allis-chalmers model g', 'allis-chalmers model wc', 'artillery tractor', 'challenger tractor', 'claas axion', 'ebro trucks', 'farmall', 'farmall 1026', 'farmall cub', 'ferguson te20', 'ford 5000', 'john deere 3020', 'john deere 5220', 'john deere mc', 'kirovets k-700', 'massey ferguson 399', 'massey-harris model 101', 'massey-harris model 20', 'massey-harris model 81', 'minneapolis-moline', 'nuffield universal', 'subsoiler', 'terence the tractor', 'type 60 tracked tractor']
+**extra_cons_in_predicted_cluster: ['agricultural equipment', 'airport crash tender', 'harvester', 'heavy equipment', 'hitachi 917', 'landwasserschlepper', 'list of agricultural equipment', 'm4 tractor', 'm5 tractor', 'm6 tractor', 'm8 tractor', 'sideloader', 'tractor']
+
+********************
+**gold_taxo_property: actinometer
+**gold_taxo_cons: ['net radiometer']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [134, 428, 1015, 1377]
+**cluster_label: 134
+**predicted_cluster_con: ['energy analyzer', 'eso 3.6 m telescope', 'methanometer', 'net radiometer']
+**predicted_cluster_prop: ['energy audit' 'energy auditing' 'espresso observatory'
+ 'energy assessment' 'monitoring energy consumption'
+ 'monitoring natural gas']
+**con_intersection: ['net radiometer']
+**extra_cons_in_predicted_cluster: ['energy analyzer', 'eso 3.6 m telescope', 'methanometer']
+
+**cluster_label: 428
+**predicted_cluster_con: ['net radiometer', 'phoropter', 'stroboscope', 'welding helmet']
+**predicted_cluster_prop: ['shutter']
+**con_intersection: ['net radiometer']
+**extra_cons_in_predicted_cluster: ['phoropter', 'stroboscope', 'welding helmet']
+
+**cluster_label: 1015
+**predicted_cluster_con: ['infrared telescope', 'net radiometer', 'schmidt-väisälä camera', 'viper telescope']
+**predicted_cluster_prop: ['detect heat' 'detecting heat' 'can detect heat from distant objects'
+ 'heat-sensitive detectors' 'detect heat signatures'
+ 'detects heat signatures' 'detects heat' 'can detect heat signatures'
+ 'detects heat gain' 'heat detection'
+ 'ability to detect hidden heat sources']
+**con_intersection: ['net radiometer']
+**extra_cons_in_predicted_cluster: ['infrared telescope', 'schmidt-väisälä camera', 'viper telescope']
+
+**cluster_label: 1377
+**predicted_cluster_con: ['anemometer', 'net radiometer', 'pyrheliometer', 'vane anemometer']
+**predicted_cluster_prop: ['mounted on tower' 'on a roof' 'installed on ground, water, or in air'
+ 'on a rooftop' 'mounted on roof']
+**con_intersection: ['net radiometer']
+**extra_cons_in_predicted_cluster: ['anemometer', 'pyrheliometer', 'vane anemometer']
+
+********************
+**gold_taxo_property: reflecting telescope
+**gold_taxo_cons: ['astroscan', 'c. donald shane telescope', 'carnegie telescope', 'crossley telescope', 'gran telescopio canarias', 'gregorian telescope', 'hale telescope', 'nasmyth telescope', 'newtonian telescope', 'tauchmann telescope', 'vista (telescope)']
+**best_jaccard_index: 0.2083
+**best_jaccard_clusters: [1402]
+**cluster_label: 1402
+**predicted_cluster_con: ['carnegie telescope', 'crossley telescope', 'darby steam-digger', 'galileoscope', 'gregorian telescope', 'hale telescope', 'hypsometer', 'infinite-axis telescope', 'james gregory telescope', 'long michelson interferometer', 'lurie-houghton telescope', 'mercator telescope', 'michelson interferometer', 'nasmyth telescope', 'nuffield universal', 'snickometer', 'stanhope lens', 'versorium']
+**predicted_cluster_prop: ['richard trevithick' 'philip stanhope' 'dutch scientist'
+ 'italian scientist' 'edward morley' 'harry woolhouse' 'edward crossley'
+ 'james nasmyth' 'william richard morris' 'unknown' 'william gilbert'
+ 'simon newcomb' 'william nasmyth' 'james gregory' 'george hale'
+ 'edward emerson barnard' 'george ellery hale' 'nicolaas mercator'
+ 'gerardus mercator' 'english scientist' 'matthew murray' 'john d napier'
+ 'lord nuffield' 'john zachariah staunton' 'houghton']
+**con_intersection: ['carnegie telescope', 'crossley telescope', 'gregorian telescope', 'hale telescope', 'nasmyth telescope']
+**extra_cons_in_predicted_cluster: ['darby steam-digger', 'galileoscope', 'hypsometer', 'infinite-axis telescope', 'james gregory telescope', 'long michelson interferometer', 'lurie-houghton telescope', 'mercator telescope', 'michelson interferometer', 'nuffield universal', 'snickometer', 'stanhope lens', 'versorium']
+
+********************
+**gold_taxo_property: anemometer
+**gold_taxo_cons: ['vane anemometer']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2287]
+**cluster_label: 2287
+**predicted_cluster_con: ['intermodal containers', 'vane anemometer']
+**predicted_cluster_prop: ['uniform sizes' 'shipping standards' 'uniform size' 'containerization'
+ 'standardization' 'uniform shape']
+**con_intersection: ['vane anemometer']
+**extra_cons_in_predicted_cluster: ['intermodal containers']
+
+********************
+**gold_taxo_property: cranes
+**gold_taxo_cons: ['bridge crane', 'gantry crane', 'jib crane', 'stacker crane']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [384]
+**cluster_label: 384
+**predicted_cluster_con: ['blast', 'bridge crane', 'gantry crane', 'jib crane', 'sideloader', 'stacker crane']
+**predicted_cluster_prop: ['boom' 'sonic boom']
+**con_intersection: ['bridge crane', 'gantry crane', 'jib crane', 'stacker crane']
+**extra_cons_in_predicted_cluster: ['blast', 'sideloader']
+
+********************
+**gold_taxo_property: refracting telescope
+**gold_taxo_cons: ['achromatic telescope', 'copyscope', 'craig telescope', 'galileoscope', 'monocular', 'shuckburgh telescope']
+**best_jaccard_index: 0.2
+**best_jaccard_clusters: [1393, 1433]
+**cluster_label: 1393
+**predicted_cluster_con: ['bernard lyot telescope', 'craig telescope', 'galileoscope', 'great refractor', 'jacobus kapteyn telescope', 'james gregory telescope', 'kraus-type', 'nasmyth telescope', 'razdow telescope', 'shuckburgh telescope', 'tauchmann telescope', 'telescopio carlos sánchez']
+**predicted_cluster_prop: ['german mathematician' 'astronomer' 'scottish astronomer'
+ 'italian astronomer' 'dutch astronomer' 'french astronomer'
+ 'german astronomer' 'english astronomer' 'american astronomer'
+ 'scottish mathematician and astronomer' 'russian astronomer'
+ 'spanish astronomer']
+**con_intersection: ['craig telescope', 'galileoscope', 'shuckburgh telescope']
+**extra_cons_in_predicted_cluster: ['bernard lyot telescope', 'great refractor', 'jacobus kapteyn telescope', 'james gregory telescope', 'kraus-type', 'nasmyth telescope', 'razdow telescope', 'tauchmann telescope', 'telescopio carlos sánchez']
+
+**cluster_label: 1433
+**predicted_cluster_con: ['81-720/721', 'empire state building', 'empire state pullers', 'galileoscope', 'great refractor', 'shuckburgh telescope']
+**predicted_cluster_prop: ['brooklyn' 'manhattan' 'queens' 'rome' 'new york city' 'london'
+ 'new york' 'united states']
+**con_intersection: ['galileoscope', 'shuckburgh telescope']
+**extra_cons_in_predicted_cluster: ['81-720/721', 'empire state building', 'empire state pullers', 'great refractor']
+
+********************
+**gold_taxo_property: scientific instrument
+**gold_taxo_cons: ['actinometer', 'airspeed indicator', 'anemometer', 'automated analyser', 'automatic pressure tracking adiabatic calorimeter', 'carbon dioxide sensor', 'cathetometer', 'cinetheodolite', 'clarity meter', 'creepmeter', 'cyanometer', 'disdrometer', 'dna sequencer', 'dynameter', 'electrometer', 'electroscope', 'energy analyser', 'frequency domain sensor', 'geiger tube telescope', 'glossmeter', 'graphometer', 'hearfones', 'heliometer', 'hook gauge evaporimeter', 'hydrometer', 'hypsometer', "koenig's manometric flame apparatus", 'lensmeter', 'macrometer', 'magnetograph', 'mass interconnect', 'methanometer', 'microprobe', 'microstructured optical arrays', 'nephelometer', 'odometer', 'optical tweezers', 'oscillograph', 'pendulum', 'permeameter', 'phoropter', 'pilot direction indicator', 'plethysmograph', 'potentiometer', 'pyranoscope', 'pyrheliometer', 'saccharimeter', 'scintillating bolometer', 'sclerometer', 'seismometer', 'sound level meter', 'strainmeter', 'stroboscope', 'tachometer', 'time pressure gauge', 'tribometer', 'variometer', 'vertometer', 'viscometer', 'zymoscope']
+**best_jaccard_index: 0.4
+**best_jaccard_clusters: [6]
+**cluster_label: 6
+**predicted_cluster_con: ['actinometer', 'airspeed indicator', 'ampere balance', 'anemometer', 'ats 56 g', 'automated analyser', 'automatic pressure tracking adiabatic calorimeter', 'balancer', 'bathometer', 'carbon dioxide sensor', 'cathetometer', 'cinetheodolite', 'clarity meter', 'colony counter', 'combustion pipette', 'copyscope', 'coulter counter', 'creepmeter', 'cryogenic current comparator', 'current transformer', 'cyanometer', 'disdrometer', 'dna sequencer', 'drosometer', 'dynameter', 'dynamic voltage restoration', 'electrometer', 'energy analyzer', 'glossmeter', 'graphometer', 'heliometer', 'hook gauge evaporimeter', 'hydrometer', 'hypsometer', 'identification equipment', "koenig's manometric flame apparatus", 'lensmeter', 'light gas gun', 'long michelson interferometer', 'machine vision', 'macrometer', 'magnetic belt conveyor', 'methanometer', 'michelson interferometer', 'mooney viscometer', 'navy mark iv', 'nephelometer', 'net radiometer', 'nichols radiometer', 'noise dosimeter', 'odometer', 'permeameter', 'picture line-up generation equipment', 'pilot direction indicator', 'plate reader', 'plethysmograph', 'positioning equipment', 'potentiometer', 'pyrheliometer', 'rapid dna', 'rotary index table', 'saccharimeter', 'scientific instrument', 'sclerometer', 'snickometer', 'sortation conveyor', 'sound level meter', 'space surveillance telescope', 'strainmeter', 'sysmex xe-2100', 'tachometer', 'tail-pulse generator', 'time pressure gauge', 'timing light', 'twist compression tester', 'vane anemometer', 'variometer', 'vertometer', 'weighing bottle', 'wheel speed sensor']
+**predicted_cluster_prop: ['accurate' 'adjustable' 'high precision' 'highly precise' 'calibrated'
+ 'relatively accurate' 'very high' 'high accuracy' 'millimeter level'
+ '±1 degree' 'low' 'highly accurate' 'not very accurate' 'high'
+ 'somewhat accurate' '±1%' 'high-accuracy' 'precision instrument']
+**con_intersection: ['actinometer', 'airspeed indicator', 'anemometer', 'automated analyser', 'automatic pressure tracking adiabatic calorimeter', 'carbon dioxide sensor', 'cathetometer', 'cinetheodolite', 'clarity meter', 'creepmeter', 'cyanometer', 'disdrometer', 'dna sequencer', 'dynameter', 'electrometer', 'glossmeter', 'graphometer', 'heliometer', 'hook gauge evaporimeter', 'hydrometer', 'hypsometer', "koenig's manometric flame apparatus", 'lensmeter', 'macrometer', 'methanometer', 'nephelometer', 'odometer', 'permeameter', 'pilot direction indicator', 'plethysmograph', 'potentiometer', 'pyrheliometer', 'saccharimeter', 'sclerometer', 'sound level meter', 'strainmeter', 'tachometer', 'time pressure gauge', 'variometer', 'vertometer']
+**extra_cons_in_predicted_cluster: ['ampere balance', 'ats 56 g', 'balancer', 'bathometer', 'colony counter', 'combustion pipette', 'copyscope', 'coulter counter', 'cryogenic current comparator', 'current transformer', 'drosometer', 'dynamic voltage restoration', 'energy analyzer', 'identification equipment', 'light gas gun', 'long michelson interferometer', 'machine vision', 'magnetic belt conveyor', 'michelson interferometer', 'mooney viscometer', 'navy mark iv', 'net radiometer', 'nichols radiometer', 'noise dosimeter', 'picture line-up generation equipment', 'plate reader', 'positioning equipment', 'rapid dna', 'rotary index table', 'scientific instrument', 'snickometer', 'sortation conveyor', 'space surveillance telescope', 'sysmex xe-2100', 'tail-pulse generator', 'timing light', 'twist compression tester', 'vane anemometer', 'weighing bottle', 'wheel speed sensor']
+
+********************
+**gold_taxo_property: personal protective equipment
+**gold_taxo_cons: ['anti-flash gear', 'apron', 'chainsaw safety clothing', 'eye protection', 'flak jacket', 'helmet', 'hockey pants', 'knee pad', 'pressure suit', 'safety harness', 'wrist guard']
+**best_jaccard_index: 0.3077
+**best_jaccard_clusters: [2762]
+**cluster_label: 2762
+**predicted_cluster_con: ['cervical collar', 'chainsaw safety clothing', 'galea', 'helmet', 'knee pad', 'safety harness']
+**predicted_cluster_prop: ['protecting wounds' 'protects from cuts' 'treating whiplash'
+ 'prevents cuts and lacerations' 'protecting from injury'
+ 'prevention of whiplash' 'injuries' 'preventing whiplash'
+ 'injury prevention' 'protects from injury' 'preventing injury'
+ 'bandage wrapped around the head']
+**con_intersection: ['chainsaw safety clothing', 'helmet', 'knee pad', 'safety harness']
+**extra_cons_in_predicted_cluster: ['cervical collar', 'galea']
+
+********************
+**gold_taxo_property: electroscope
+**gold_taxo_cons: ['versorium']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [2450]
+**cluster_label: 2450
+**predicted_cluster_con: ['paver', 'stanhope lens', 'versorium']
+**predicted_cluster_prop: ['brick' 'mortared' 'lodestone' 'stone' 'natural stone' 'reading stone']
+**con_intersection: ['versorium']
+**extra_cons_in_predicted_cluster: ['paver', 'stanhope lens']
+
+********************
+**gold_taxo_property: telescope
+**gold_taxo_cons: ['3.67 m advanced electro optical system telescope', '40-foot telescope', 'a broadband imaging x-ray all-sky survey', 'advanced telescope for high energy astrophysics', 'anna l. nickel telescope', 'antarctic muon and neutrino detector array', 'astrograph', 'astronomical netherlands satellite', 'atacama cosmology telescope', 'automated patrol telescope', 'ball state university observatory', 'balloon-borne telescope', 'bernard lyot telescope', 'blast', 'bok telescope', 'bradford robotic telescope', 'broad band x-ray telescope', 'cambridge low frequency synthesis telescope', 'canada–france–hawaii telescope', 'carlsberg meridian telescope', 'cerro chajnantor atacama telescope', 'cfa 1.2 m millimeter-wave telescope', 'chandra x-ray observatory', 'cherenkov array at themi', 'chinese giant solar telescope', 'comet seeker', 'cosmic anisotropy telescope', 'cosmic background imager', 'coudé auxiliary telescope', 'discovery channel telescope', 'dutch open telescope', 'effelsberg 100-m radio telescope', 'einstein observatory', 'esa space debris telescope', 'eso 3.6 m telescope', 'european extremely large telescope', 'far ultraviolet spectroscopic explorer', 'finderscope', 'galenki rt-70 radio telescope', 'gornergrat infrared telescope', 'grand interferometre a 2 telescopes', 'great refractor', 'green bank interferometer', 'half-mile telescope', 'hegra', 'heinrich hertz submillimeter telescope', 'hexapod-telescope', 'high resolution coronal imager', 'history of the telescope', 'hobby-eberly telescope', 'hubble space telescope', 'infinite-axis telescope', 'infrared telescope', 'james clerk maxwell telescope', 'james gregory telescope', 'james lick telescope', 'james webb space telescope', 'katzman automatic imaging telescope', 'klevtsov–cassegrain telescope', 'korea advanced institute of science and technology satellite 4', 'korsch telescope', 'kraus-type', 'kunlun dark universe survey telescope', 'large millimeter telescope', 'livermore optical transient imaging system', 'liverpool telescope', 'long michelson interferometer', 'lorun', 'lurie–houghton telescope', 'm49 telescope', 'major atmospheric cerenkov experiment telescope', 'mauritius radio telescope', 'meade lx200', 'mercator telescope', 'modified dall–kirkham telescope', 'molonglo observatory synthesis telescope', 'mons telescope', 'mpg/eso telescope', 'nançay radio telescope', 'nasa infrared telescope facility', 'national large solar telescope', 'near earth object camera', 'nicholas u. mayall telescope', 'nordic optical telescope', 'ogs telescope', 'ohio state university radio observatory', 'ooty radio telescope', 'optical telescope', 'otto struve telescope', 'palomar testbed interferometer', 'pfund telescope', 'primeval structure telescope', 'prompt telescopes', 'razdow telescope', 'reber radio telescope', 'refracting telescope', 'relikt-1', 'robotic telescope', 'sardinia radio telescope', 'schmidt-väisälä camera', 'schmidt–newton telescope', 'siding spring 2.3 m telescope', 'small telescope', 'solar telescope', 'south pole telescope', 'southern astrophysical research telescope', 'space solar telescope', 'space surveillance telescope', 'spotting scope', 'stockert radio telescope', 'stratoscope', 'subaru telescope', 'suffa rt-70 radio telescope', 'swedish vacuum solar telescope', 'telescopio carlos sánchez', 'telescopio nazionale galileo', 'three-mirror anastigmat', 'tower telescope', 'tower viewer', 'vector magnetograph', 'very large telescope', 'very small array', 'viper telescope', 'vlt survey telescope', 'víctor m. blanco telescope', 'westerbork synthesis radio telescope', 'wolter telescope', 'x-ray astronomy satellites', 'x-ray telescope', 'xo telescope', 'yevpatoria rt-70 radio telescope', 'zenith telescope']
+**best_jaccard_index: 0.5238
+**best_jaccard_clusters: [2689]
+**cluster_label: 2689
+**predicted_cluster_con: ['3.67 m advanced electro optical system telescope', '40-foot telescope', 'achromatic telescope', 'anna l. nickel telescope', 'anti-flash gear', 'astrograph', 'astroscan', 'atacama cosmology telescope', 'automated patrol telescope', 'ball state university observatory', 'balloon-borne telescope', 'bernard lyot telescope', 'binoculars', 'bok telescope', 'bradford robotic telescope', 'broad band x-ray telescope', 'c. donald shane telescope', 'cambridge low frequency synthesis telescope', 'canada-france-hawaii telescope', 'canada–france–hawaii telescope', 'carlsberg meridian telescope', 'carnegie telescope', 'cathetometer', 'cfa 1.2 m millimeter-wave telescope', 'chinese giant solar telescope', 'cinetheodolite', 'cinétheodolite', 'comet seeker', 'coudé auxiliary telescope', 'crafoord telescope', 'craig telescope', 'crossley telescope', 'cyanometer', 'discovery channel telescope', 'dutch open telescope', 'effelsberg 100-m radio telescope', 'eso 3.6 m telescope', 'european extremely large telescope', 'finderscope', 'galenki rt-70 radio telescope', 'galileoscope', 'geiger tube telescope', 'gornergrat infrared telescope', 'gran telescopio canarias', 'graphometer', 'great refractor', 'green bank interferometer', 'green bank radio telescope', 'gregorian telescope', 'hale telescope', 'half-mile telescope', 'heinrich hertz submillimeter telescope', 'heliometer', 'hexapod-telescope', 'hobby-eberly telescope', "hog's telescope", 'hubble space telescope', 'image-stabilized binoculars', 'infinite-axis telescope', 'infrared telescope', 'jacobus kapteyn telescope', 'james clerk maxwell telescope', 'james gregory telescope', 'james lick telescope', 'katzman automatic imaging telescope', 'klevtsov-cassegrain telescope', 'konos', 'korsch telescope', 'kunlun dark universe survey telescope', 'large millimeter telescope', 'livermore optical transient imaging system', 'liverpool telescope', 'lurie-houghton telescope', 'm49 telescope', 'magnetograph', 'major atmospheric cerenkov experiment telescope', 'mauritius radio telescope', 'meade lx200', 'mercator telescope', 'modified dall-kirkham telescope', 'modified dall–kirkham telescope', 'molonglo observatory synthesis telescope', 'monocular', 'mons telescope', 'mpg/eso telescope', 'nancay radio telescope', 'nançay radio telescope', 'nasa infrared telescope facility', 'nasmyth telescope', 'national large solar telescope', 'near earth object camera', 'newtonian telescope', 'nicholas u. mayall telescope', 'nichols radiometer', 'nordic optical telescope', 'nustar', 'ohio state university radio observatory', 'ooty radio telescope', 'optical telescope', 'otto struve telescope', 'palomar testbed interferometer', 'pendulum', 'pfund telescope', 'primeval structure telescope', 'prompt telescopes', 'razdow telescope', 'reber radio telescope', 'reflecting telescope', 'refracting telescope', 'robotic telescope', 'samuel oschin telescope', 'sardinia radio telescope', 'schmidt camera', 'schmidt-newton telescope', 'schmidt-väisälä camera', 'scientific instrument', 'scintillating bolometer', 'shuckburgh telescope', 'siding spring 2.3 m telescope', 'small telescope', 'solar telescope', 'solar x-ray imager', 'southern african large telescope', 'southern astrophysical research telescope', 'space surveillance telescope', 'spectrohelioscope', 'spotting scope', 'stanhope lens', 'stockert radio telescope', 'stratoscope', 'subaru telescope', 'suffa rt-70 radio telescope', 'swedish solar telescope', 'tauchmann telescope', 'telescope', 'telescopes', 'telescopio carlos sánchez', 'telescopio nazionale galileo', 'three-mirror anastigmat', 'tower telescope', 'tower viewer', 'uppsala southern schmidt telescope', 'upsala southern schmidt telescope', 'vector magnetograph', 'vertometer', 'victor m. blanco telescope', 'viper telescope', 'vista (telescope)', 'vlt survey telescope', 'víctor m. blanco telescope', 'westerbork synthesis radio telescope', 'wolter telescope', 'x-ray telescope', 'xo telescope', 'yevpatoria rt-70 radio telescope', 'zenith telescope']
+**predicted_cluster_prop: ['studying cosmic objects' 'astrophysics'
+ 'conducting astronomical research' 'stellar research' 'astronomy'
+ 'studying astronomical objects' 'astrophysics research'
+ 'astronomical discovery' 'astronomers' 'observing asteroids'
+ 'astronomical institute of the university of groningen' 'studying stars'
+ 'make astronomical observations' 'studying the solar system'
+ 'astronomical observations' 'studying space phenomena'
+ 'studying asteroids' 'making astronomical discoveries'
+ 'astronomical institute of the university of copenhagen'
+ 'for astronomical research' 'making astronomical observations'
+ 'studying planetary motion' 'astronomical instruments'
+ 'aid in astronomical research' 'astronomical research'
+ 'used for astronomical research' 'astronomical instrument'
+ 'making discoveries in astronomy' 'used for astronomical observations'
+ 'astronomical observation' 'astronomical tool' 'astrophysical research'
+ 'studying astronomy' 'used in modern astronomy'
+ 'researching cosmic phenomena' 'used in astronomy'
+ 'research in astronomy' 'aid in astronomical observations'
+ 'astronomical institute of the university of amsterdam'
+ 'used by many famous astronomers' 'studying comets'
+ 'studying cosmic phenomena' 'astronomy equipment'
+ 'used by notable astronomers' 'used for astronomical observation'
+ 'used for astronomy research' 'studying planetary formation'
+ 'astronomical' 'astronomy software' 'comet research'
+ 'discovering cosmic objects' 'observatory' 'studying exoplanets'
+ 'researching stars' 'used for various astronomical research'
+ 'used for studying the solar system' 'studying solar system'
+ 'collecting data for astronomical research' 'studying solar corona'
+ 'observing comets' 'studying stars and planets' 'for astronomy'
+ 'researching astronomy' 'first used for astronomy' 'astronomy research'
+ 'used in 18th century astronomy']
+**con_intersection: ['3.67 m advanced electro optical system telescope', '40-foot telescope', 'anna l. nickel telescope', 'astrograph', 'atacama cosmology telescope', 'automated patrol telescope', 'ball state university observatory', 'balloon-borne telescope', 'bernard lyot telescope', 'bok telescope', 'bradford robotic telescope', 'broad band x-ray telescope', 'cambridge low frequency synthesis telescope', 'canada–france–hawaii telescope', 'carlsberg meridian telescope', 'cfa 1.2 m millimeter-wave telescope', 'chinese giant solar telescope', 'comet seeker', 'coudé auxiliary telescope', 'discovery channel telescope', 'dutch open telescope', 'effelsberg 100-m radio telescope', 'eso 3.6 m telescope', 'european extremely large telescope', 'finderscope', 'galenki rt-70 radio telescope', 'gornergrat infrared telescope', 'great refractor', 'green bank interferometer', 'half-mile telescope', 'heinrich hertz submillimeter telescope', 'hexapod-telescope', 'hobby-eberly telescope', 'hubble space telescope', 'infinite-axis telescope', 'infrared telescope', 'james clerk maxwell telescope', 'james gregory telescope', 'james lick telescope', 'katzman automatic imaging telescope', 'korsch telescope', 'kunlun dark universe survey telescope', 'large millimeter telescope', 'livermore optical transient imaging system', 'liverpool telescope', 'm49 telescope', 'major atmospheric cerenkov experiment telescope', 'mauritius radio telescope', 'meade lx200', 'mercator telescope', 'modified dall–kirkham telescope', 'molonglo observatory synthesis telescope', 'mons telescope', 'mpg/eso telescope', 'nançay radio telescope', 'nasa infrared telescope facility', 'national large solar telescope', 'near earth object camera', 'nicholas u. mayall telescope', 'nordic optical telescope', 'ohio state university radio observatory', 'ooty radio telescope', 'optical telescope', 'otto struve telescope', 'palomar testbed interferometer', 'pfund telescope', 'primeval structure telescope', 'prompt telescopes', 'razdow telescope', 'reber radio telescope', 'refracting telescope', 'robotic telescope', 'sardinia radio telescope', 'schmidt-väisälä camera', 'siding spring 2.3 m telescope', 'small telescope', 'solar telescope', 'southern astrophysical research telescope', 'space surveillance telescope', 'spotting scope', 'stockert radio telescope', 'stratoscope', 'subaru telescope', 'suffa rt-70 radio telescope', 'telescopio carlos sánchez', 'telescopio nazionale galileo', 'three-mirror anastigmat', 'tower telescope', 'tower viewer', 'vector magnetograph', 'viper telescope', 'vlt survey telescope', 'víctor m. blanco telescope', 'westerbork synthesis radio telescope', 'wolter telescope', 'x-ray telescope', 'xo telescope', 'yevpatoria rt-70 radio telescope', 'zenith telescope']
+**extra_cons_in_predicted_cluster: ['achromatic telescope', 'anti-flash gear', 'astroscan', 'binoculars', 'c. donald shane telescope', 'canada-france-hawaii telescope', 'carnegie telescope', 'cathetometer', 'cinetheodolite', 'cinétheodolite', 'crafoord telescope', 'craig telescope', 'crossley telescope', 'cyanometer', 'galileoscope', 'geiger tube telescope', 'gran telescopio canarias', 'graphometer', 'green bank radio telescope', 'gregorian telescope', 'hale telescope', 'heliometer', "hog's telescope", 'image-stabilized binoculars', 'jacobus kapteyn telescope', 'klevtsov-cassegrain telescope', 'konos', 'lurie-houghton telescope', 'magnetograph', 'modified dall-kirkham telescope', 'monocular', 'nancay radio telescope', 'nasmyth telescope', 'newtonian telescope', 'nichols radiometer', 'nustar', 'pendulum', 'reflecting telescope', 'samuel oschin telescope', 'schmidt camera', 'schmidt-newton telescope', 'scientific instrument', 'scintillating bolometer', 'shuckburgh telescope', 'solar x-ray imager', 'southern african large telescope', 'spectrohelioscope', 'stanhope lens', 'swedish solar telescope', 'tauchmann telescope', 'telescope', 'telescopes', 'uppsala southern schmidt telescope', 'upsala southern schmidt telescope', 'vertometer', 'victor m. blanco telescope', 'vista (telescope)']
+
+********************
+**gold_taxo_property: hydration system
+**gold_taxo_cons: ['hydration pack']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2675]
+**cluster_label: 2675
+**predicted_cluster_con: ['custodian helmet', 'hydration pack']
+**predicted_cluster_prop: ['cleaning' 'cleaning brush' 'cleaning professionals'
+ 'cleaning professional' 'janitors' 'janitor']
+**con_intersection: ['hydration pack']
+**extra_cons_in_predicted_cluster: ['custodian helmet']
+
+********************
+**gold_taxo_property: transport equipment
+**gold_taxo_cons: ['conveyor', 'cranes', 'truck']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [182, 1641]
+**cluster_label: 182
+**predicted_cluster_con: ['cranes']
+**predicted_cluster_prop: ['short' 'bent' 'sharp beak' 'thin' 'pointy beak' 'curved' 'long']
+**con_intersection: ['cranes']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1641
+**predicted_cluster_con: ['cranes']
+**predicted_cluster_prop: ['seasonal' 'long-distance' 'migrates' 'seasonal movements']
+**con_intersection: ['cranes']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: optical microscope
+**gold_taxo_cons: ['fluorescence microscope', 'petrographic microscope', 'vertico smi']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [2636]
+**cluster_label: 2636
+**predicted_cluster_con: ['petrographic microscope']
+**predicted_cluster_prop: ['identify minerals' 'identify rock types' 'mineral identification'
+ 'mineralogy' 'identifying minerals' 'rock identification'
+ 'rock classification' 'mineral specimens' 'mineral analysis']
+**con_intersection: ['petrographic microscope']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: eye protection
+**gold_taxo_cons: ['sunglasses']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [645]
+**cluster_label: 645
+**predicted_cluster_con: ['sunglasses', 'visor']
+**predicted_cluster_prop: ['wraparound']
+**con_intersection: ['sunglasses']
+**extra_cons_in_predicted_cluster: ['visor']
+
+********************
+**gold_taxo_property: industrial truck
+**gold_taxo_cons: ['automatic guided vehicle (agv)', 'burden carrier', 'counterbalanced lift truck', 'hand truck', 'narrow-aisle reach truck', 'narrow-aisle straddle truck', 'order picker', 'pallet jack', 'pallet truck', 'personnel carrier', 'platform truck', 'sideloader', 'tractor-trailer', 'turret truck', 'walkie stacker']
+**best_jaccard_index: 0.5263
+**best_jaccard_clusters: [2386]
+**cluster_label: 2386
+**predicted_cluster_con: ['burden carrier', 'counterbalanced lift truck', 'heavy equipment', 'industrial truck', 'm8 tractor', 'narrow-aisle reach truck', 'narrow-aisle straddle truck', 'order picker', 'pallet jack', 'pallet truck', 'palletizers', 'platform truck', 'turret truck', 'walkie stacker']
+**predicted_cluster_prop: ['forklift' 'backhoe' 'forklift-like' 'bulldozer' 'vna forklift'
+ 'very narrow aisle forklift' 'forklifts']
+**con_intersection: ['burden carrier', 'counterbalanced lift truck', 'narrow-aisle reach truck', 'narrow-aisle straddle truck', 'order picker', 'pallet jack', 'pallet truck', 'platform truck', 'turret truck', 'walkie stacker']
+**extra_cons_in_predicted_cluster: ['heavy equipment', 'industrial truck', 'm8 tractor', 'palletizers']
+
+********************
+**gold_taxo_property: unit load formation equipment
+**gold_taxo_cons: ['bags', 'baskets', 'bins', 'bulk load containers', 'cartons', 'crates', 'glue', 'intermodal containers', 'pallet boxes', 'palletizers', 'pallets', 'racks', 'self-restraining', 'shrink-wrap', 'skid boxes', 'skids', 'slipsheets', 'strapping', 'stretch-wrap', 'tape', 'tote pans']
+**best_jaccard_index: 0.3095
+**best_jaccard_clusters: [1046]
+**cluster_label: 1046
+**predicted_cluster_con: ['basket', 'baskets', 'bins', 'bulk load containers', 'cantilever rack', 'carton', 'cartons', 'crates', 'drawers', 'drive-in rack', 'drive-through rack', 'flow-through rack', 'forwarder', 'intermodal containers', 'mezzanine', 'military equipment', 'pallet', 'pallet box', 'pallet boxes', 'pallets', 'racks', 'retrieval systems', 'selective pallet rack', 'shelves', 'shrink-wrap', 'skid boxes', 'skids', 'sliding rack', 'small array', 'storage carousel', 'storage equipment', 'stretch-wrap', 'system80', 'tilt table']
+**predicted_cluster_prop: ['storage' 'bins' 'storage facility' 'storing' 'ram' 'physical'
+ 'compartments' 'in storage rooms' 'arranges storage' 'storage system']
+**con_intersection: ['baskets', 'bins', 'bulk load containers', 'cartons', 'crates', 'intermodal containers', 'pallet boxes', 'pallets', 'racks', 'shrink-wrap', 'skid boxes', 'skids', 'stretch-wrap']
+**extra_cons_in_predicted_cluster: ['basket', 'cantilever rack', 'carton', 'drawers', 'drive-in rack', 'drive-through rack', 'flow-through rack', 'forwarder', 'mezzanine', 'military equipment', 'pallet', 'pallet box', 'retrieval systems', 'selective pallet rack', 'shelves', 'sliding rack', 'small array', 'storage carousel', 'storage equipment', 'system80', 'tilt table']
+
+********************
+**gold_taxo_property: robotic telescope
+**gold_taxo_cons: ['trappist']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [533, 783, 1280, 1758, 2171]
+**cluster_label: 533
+**predicted_cluster_con: ['trappist']
+**predicted_cluster_prop: ['ascetic' 'celibate' 'contemplative' 'simple']
+**con_intersection: ['trappist']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 783
+**predicted_cluster_con: ['trappist']
+**predicted_cluster_prop: ['cheese' 'trappist wine' 'trappist cheese' 'bread']
+**con_intersection: ['trappist']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1280
+**predicted_cluster_con: ['trappist']
+**predicted_cluster_prop: ['pray' 'prayer' 'spiritual growth']
+**con_intersection: ['trappist']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1758
+**predicted_cluster_con: ['trappist']
+**predicted_cluster_prop: ['monastic' 'monastic order' 'augustinian' 'benedictine' 'trappist monks'
+ 'cistercian' 'trappist' 'cistercian order']
+**con_intersection: ['trappist']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 2171
+**predicted_cluster_con: ['trappist']
+**predicted_cluster_prop: ['monk' 'priest' 'cleric']
+**con_intersection: ['trappist']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: oscillograph
+**gold_taxo_cons: ['electromagnetic oscillograph']
+**best_jaccard_index: 0.1667
+**best_jaccard_clusters: [1813]
+**cluster_label: 1813
+**predicted_cluster_con: ['chronophone', 'egg hatch assay', 'electromagnetic oscillograph', 'navy mark iv', 'rapid dna', 'westerbork synthesis radio telescope']
+**predicted_cluster_prop: ['date' 'minute' 'duration' 'milliarcseconds' 'weeks' 'time' 'phase'
+ 'hour']
+**con_intersection: ['electromagnetic oscillograph']
+**extra_cons_in_predicted_cluster: ['chronophone', 'egg hatch assay', 'navy mark iv', 'rapid dna', 'westerbork synthesis radio telescope']
+
+**avg_jaccard_index: 0.4263

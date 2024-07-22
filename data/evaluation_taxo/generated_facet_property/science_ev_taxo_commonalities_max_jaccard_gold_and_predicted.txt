@@ -1,0 +1,673 @@
+********************
+**gold_taxo_property: applied sciences
+**gold_taxo_cons: ['agronomy', 'cybernetics', 'electrotechnology', 'industrial chemistry', 'information science', 'mathematics', 'metrology']
+**best_jaccard_index: 0.375
+**best_jaccard_clusters: [134]
+**cluster_label: 134
+**predicted_cluster_con: ['albert einstein', 'cybernetics', 'mathematics', 'metrology']
+**predicted_cluster_prop: ['mathematics' 'topology' 'applied mathematics' 'algebra' 'geometry'
+ 'calculus' 'arithmetic' 'number theory' 'pure mathematics']
+**con_intersection: ['cybernetics', 'mathematics', 'metrology']
+**extra_cons_in_predicted_cluster: ['albert einstein']
+
+********************
+**gold_taxo_property: mathematics
+**gold_taxo_cons: ['biometrics']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [0, 27, 28, 95, 662, 710]
+**cluster_label: 0
+**predicted_cluster_con: ['biometrics']
+**predicted_cluster_prop: ['high' 'low' 'medium']
+**con_intersection: ['biometrics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 27
+**predicted_cluster_con: ['biometrics']
+**predicted_cluster_prop: ['border control']
+**con_intersection: ['biometrics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 28
+**predicted_cluster_con: ['biometrics']
+**predicted_cluster_prop: ['authentication']
+**con_intersection: ['biometrics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 95
+**predicted_cluster_con: ['biometrics']
+**predicted_cluster_prop: ['access control']
+**con_intersection: ['biometrics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 662
+**predicted_cluster_con: ['biometrics']
+**predicted_cluster_prop: ['scanner' 'iris scan']
+**con_intersection: ['biometrics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 710
+**predicted_cluster_con: ['biometrics']
+**predicted_cluster_prop: ['facial recognition' 'face recognition']
+**con_intersection: ['biometrics']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: earth sciences
+**gold_taxo_cons: ['cindynics', 'geography', 'geology', 'geomorphology', 'hydrology', 'meteorology', 'oceanography', 'soil science']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1107]
+**cluster_label: 1107
+**predicted_cluster_con: ['geography', 'geomorphology', 'hydrology', 'oceanography']
+**predicted_cluster_prop: ['ocean' 'oceans']
+**con_intersection: ['geography', 'geomorphology', 'hydrology', 'oceanography']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: geography
+**gold_taxo_cons: ['cartography', 'cultural geography', 'economic geography', 'geographical information system', 'historical geography', 'human geography', 'political geography', 'regional geography']
+**best_jaccard_index: 0.75
+**best_jaccard_clusters: [87]
+**cluster_label: 87
+**predicted_cluster_con: ['cartography', 'economic geography', 'geographical information system', 'historical geography', 'human geography', 'political geography']
+**predicted_cluster_prop: ['gis' 'spatial data' 'mobile gis' 'web gis' 'gis mapping' 'gis software']
+**con_intersection: ['cartography', 'economic geography', 'geographical information system', 'historical geography', 'human geography', 'political geography']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: geology
+**gold_taxo_cons: ['geochemistry', 'geophysics', 'hydrogeology', 'mineralogy', 'petrology', 'sedimentology', 'seismology', 'volcanology']
+**best_jaccard_index: 0.75
+**best_jaccard_clusters: [66]
+**cluster_label: 66
+**predicted_cluster_con: ['geochemistry', 'mineralogy', 'petrology', 'sedimentology', 'seismology', 'volcanology']
+**predicted_cluster_prop: ['mineral exploration' 'resource exploration' 'resource extraction']
+**con_intersection: ['geochemistry', 'mineralogy', 'petrology', 'sedimentology', 'seismology', 'volcanology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: geophysics
+**gold_taxo_cons: ['geodesy']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [654, 1028, 1038]
+**cluster_label: 654
+**predicted_cluster_con: ['geodesy']
+**predicted_cluster_prop: ['meter' 'degree']
+**con_intersection: ['geodesy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1028
+**predicted_cluster_con: ['geodesy']
+**predicted_cluster_prop: ['level' 'leveling instrument']
+**con_intersection: ['geodesy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1038
+**predicted_cluster_con: ['geodesy']
+**predicted_cluster_prop: ['theodolite']
+**con_intersection: ['geodesy']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: meteorology
+**gold_taxo_cons: ['bioclimatology', 'climatology']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [237, 453]
+**cluster_label: 237
+**predicted_cluster_con: ['bioclimatology', 'climatology', 'meteorology']
+**predicted_cluster_prop: ['humidity' 'atmospheric conditions']
+**con_intersection: ['bioclimatology', 'climatology']
+**extra_cons_in_predicted_cluster: ['meteorology']
+
+**cluster_label: 453
+**predicted_cluster_con: ['bioclimatology', 'climatology', 'hydrology']
+**predicted_cluster_prop: ['precipitation']
+**con_intersection: ['bioclimatology', 'climatology']
+**extra_cons_in_predicted_cluster: ['hydrology']
+
+********************
+**gold_taxo_property: soil science
+**gold_taxo_cons: ['soil analysis', 'soil chemistry', 'soil type']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [845]
+**cluster_label: 845
+**predicted_cluster_con: ['soil analysis', 'soil chemistry', 'soil type']
+**predicted_cluster_prop: ['acidic' 'basic' 'ph level' 'alkaline' 'neutral']
+**con_intersection: ['soil analysis', 'soil chemistry', 'soil type']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: life sciences
+**gold_taxo_cons: ['biology', 'ecology', 'parasitology', 'pharmacology']
+**best_jaccard_index: 0.4
+**best_jaccard_clusters: [550]
+**cluster_label: 550
+**predicted_cluster_con: ['dna', 'parasitology', 'pharmacology']
+**predicted_cluster_prop: ['public health' 'essential for life']
+**con_intersection: ['parasitology', 'pharmacology']
+**extra_cons_in_predicted_cluster: ['dna']
+
+********************
+**gold_taxo_property: biology
+**gold_taxo_cons: ['botany', 'cytology', 'embryo and foetus', 'genetics', 'histology', 'microorganism', 'neurobiology', 'radiobiology', 'stem cell', 'zoology']
+**best_jaccard_index: 0.4
+**best_jaccard_clusters: [67]
+**cluster_label: 67
+**predicted_cluster_con: ['cytology', 'genetics', 'histology', 'stem cell']
+**predicted_cluster_prop: ['tissue engineering' 'cell culture'
+ 'study of microscopic structure of tissues' 'histology' 'genomics'
+ 'understanding tissue function']
+**con_intersection: ['cytology', 'genetics', 'histology', 'stem cell']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: botany
+**gold_taxo_cons: ['plant taxonomy']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [159, 160, 325]
+**cluster_label: 159
+**predicted_cluster_con: ['plant taxonomy']
+**predicted_cluster_prop: ['linnaean system']
+**con_intersection: ['plant taxonomy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 160
+**predicted_cluster_con: ['plant taxonomy']
+**predicted_cluster_prop: ['binomial nomenclature']
+**con_intersection: ['plant taxonomy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 325
+**predicted_cluster_con: ['plant taxonomy']
+**predicted_cluster_prop: ['homology']
+**con_intersection: ['plant taxonomy']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: genetics
+**gold_taxo_cons: ['DNA', 'eugenics']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [253, 531, 534, 535, 706, 740, 816]
+**cluster_label: 253
+**predicted_cluster_con: ['eugenics']
+**predicted_cluster_prop: ['racism']
+**con_intersection: ['eugenics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 531
+**predicted_cluster_con: ['eugenics']
+**predicted_cluster_prop: ['nazi germany']
+**con_intersection: ['eugenics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 534
+**predicted_cluster_con: ['eugenics']
+**predicted_cluster_prop: ['usa' 'united states']
+**con_intersection: ['eugenics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 535
+**predicted_cluster_con: ['eugenics']
+**predicted_cluster_prop: ['outdated' 'early 20th century' 'late 19th and early 20th centuries']
+**con_intersection: ['eugenics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 706
+**predicted_cluster_con: ['eugenics']
+**predicted_cluster_prop: ['sterilization' 'forced marriage' 'forced sterilization']
+**con_intersection: ['eugenics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 740
+**predicted_cluster_con: ['eugenics']
+**predicted_cluster_prop: ['19th century']
+**con_intersection: ['eugenics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 816
+**predicted_cluster_con: ['eugenics']
+**predicted_cluster_prop: ['selective breeding']
+**con_intersection: ['eugenics']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: zoology
+**gold_taxo_cons: ['animal taxonomy']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [121, 331, 759, 935]
+**cluster_label: 121
+**predicted_cluster_con: ['animal taxonomy']
+**predicted_cluster_prop: ['vertebrate' 'mammal' 'reptile' 'invertebrate' 'fish']
+**con_intersection: ['animal taxonomy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 331
+**predicted_cluster_con: ['animal taxonomy']
+**predicted_cluster_prop: ['bird']
+**con_intersection: ['animal taxonomy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 759
+**predicted_cluster_con: ['animal taxonomy']
+**predicted_cluster_prop: ['metazoan' 'eukaryotic']
+**con_intersection: ['animal taxonomy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 935
+**predicted_cluster_con: ['animal taxonomy']
+**predicted_cluster_prop: ['felis catus' 'canis lupus' 'equus caballus']
+**con_intersection: ['animal taxonomy']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: physical sciences
+**gold_taxo_cons: ['acoustics', 'aerodynamics', 'chemistry', 'electronics', 'ionising radiation', 'laser physics', 'nuclear physics', 'optics', 'plasma physics', 'spectrometry', 'thermodynamics']
+**best_jaccard_index: 0.3077
+**best_jaccard_clusters: [772]
+**cluster_label: 772
+**predicted_cluster_con: ['aerodynamics', 'chemistry', 'electrotechnology', 'industrial chemistry', 'nuclear physics', 'thermodynamics']
+**predicted_cluster_prop: ['power plants' 'power generation' 'wind turbine' 'wind turbines'
+ 'energy production']
+**con_intersection: ['aerodynamics', 'chemistry', 'nuclear physics', 'thermodynamics']
+**extra_cons_in_predicted_cluster: ['electrotechnology', 'industrial chemistry']
+
+********************
+**gold_taxo_property: chemistry
+**gold_taxo_cons: ['analytical chemistry', 'biochemistry', 'electrochemistry', 'photochemistry']
+**best_jaccard_index: 0.5714
+**best_jaccard_clusters: [799, 826]
+**cluster_label: 799
+**predicted_cluster_con: ['analytical chemistry', 'biochemistry', 'chemistry', 'electrochemistry', 'geochemistry', 'industrial chemistry', 'photochemistry']
+**predicted_cluster_prop: ['reaction' 'excitation of molecules' 'chemical reactions'
+ 'photochemical reaction' 'electron transfer' 'acid-base reactions'
+ 'electrochemical reactions' 'oxidation and reduction' 'catalysis'
+ 'enzymatic catalysis']
+**con_intersection: ['analytical chemistry', 'biochemistry', 'electrochemistry', 'photochemistry']
+**extra_cons_in_predicted_cluster: ['chemistry', 'geochemistry', 'industrial chemistry']
+
+**cluster_label: 826
+**predicted_cluster_con: ['analytical chemistry', 'biochemistry', 'biology', 'chemistry', 'electrochemistry', 'industrial chemistry', 'photochemistry']
+**predicted_cluster_prop: ['crystallization' 'corrosion' 'oxidation' 'reduction' 'electrolysis'
+ 'photodegradation' 'ionization' 'extraction' 'titration' 'photolysis']
+**con_intersection: ['analytical chemistry', 'biochemistry', 'electrochemistry', 'photochemistry']
+**extra_cons_in_predicted_cluster: ['biology', 'chemistry', 'industrial chemistry']
+
+********************
+**gold_taxo_property: biochemistry
+**gold_taxo_cons: ['enzyme']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [475, 486, 656, 720, 945]
+**cluster_label: 475
+**predicted_cluster_con: ['enzyme']
+**predicted_cluster_prop: ['organisms']
+**con_intersection: ['enzyme']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 486
+**predicted_cluster_con: ['enzyme']
+**predicted_cluster_prop: ['speed up chemical reaction' 'speeds up chemical reaction']
+**con_intersection: ['enzyme']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 656
+**predicted_cluster_con: ['enzyme']
+**predicted_cluster_prop: ['binding site' 'substrate binding']
+**con_intersection: ['enzyme']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 720
+**predicted_cluster_con: ['enzyme']
+**predicted_cluster_prop: ['protein']
+**con_intersection: ['enzyme']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 945
+**predicted_cluster_con: ['enzyme']
+**predicted_cluster_prop: ['active site']
+**con_intersection: ['enzyme']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: nuclear physics
+**gold_taxo_cons: ['atom', 'fundamental particle']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [469, 838, 937, 1075]
+**cluster_label: 469
+**predicted_cluster_con: ['atom', 'fundamental particle']
+**predicted_cluster_prop: ['weak' 'strong' 'electromagnetic']
+**con_intersection: ['atom', 'fundamental particle']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 838
+**predicted_cluster_con: ['atom', 'fundamental particle']
+**predicted_cluster_prop: ['charge' 'chargeless']
+**con_intersection: ['atom', 'fundamental particle']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 937
+**predicted_cluster_con: ['atom', 'fundamental particle']
+**predicted_cluster_prop: ['0' '1/2' 'spin' '1']
+**con_intersection: ['atom', 'fundamental particle']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1075
+**predicted_cluster_con: ['atom', 'fundamental particle']
+**predicted_cluster_prop: ['elementary']
+**con_intersection: ['atom', 'fundamental particle']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: space science
+**gold_taxo_cons: ['astronautics', 'astronomy']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [368]
+**cluster_label: 368
+**predicted_cluster_con: ['astronautics', 'astronomy', 'space science']
+**predicted_cluster_prop: ['space exploration' 'study of space' 'planetary science' 'space travel'
+ 'rocket science' 'spacecraft design' 'space research']
+**con_intersection: ['astronautics', 'astronomy']
+**extra_cons_in_predicted_cluster: ['space science']
+
+********************
+**gold_taxo_property: astronomy
+**gold_taxo_cons: ['cosmology']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [858]
+**cluster_label: 858
+**predicted_cluster_con: ['cosmology']
+**predicted_cluster_prop: ['what is the universe made of' 'what is the universe expanding into']
+**con_intersection: ['cosmology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: behavioural sciences
+**gold_taxo_cons: ['criminology', 'psychoanalysis', 'psychology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [35, 1008]
+**cluster_label: 35
+**predicted_cluster_con: ['biometrics', 'criminology', 'psychology']
+**predicted_cluster_prop: ['law enforcement' 'crime investigation']
+**con_intersection: ['criminology', 'psychology']
+**extra_cons_in_predicted_cluster: ['biometrics']
+
+**cluster_label: 1008
+**predicted_cluster_con: ['acoustics', 'behavioural sciences', 'criminology', 'information science', 'psychoanalysis', 'psychology']
+**predicted_cluster_prop: ['social learning theory' 'cognitive theory' 'social learning'
+ 'behavioral' 'behavioural learning' 'cognitive development' 'cognitive'
+ 'cybernetics' 'defense mechanisms' 'behaviourism' 'behaviorism'
+ 'psychoacoustics']
+**con_intersection: ['criminology', 'psychoanalysis', 'psychology']
+**extra_cons_in_predicted_cluster: ['acoustics', 'behavioural sciences', 'information science']
+
+********************
+**gold_taxo_property: psychology
+**gold_taxo_cons: ['personality', 'psychometric test', 'sexuality']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [722, 848]
+**cluster_label: 722
+**predicted_cluster_con: ['george washington', 'personality', 'sexuality']
+**predicted_cluster_prop: ['tolerant' 'open-minded' 'honest']
+**con_intersection: ['personality', 'sexuality']
+**extra_cons_in_predicted_cluster: ['george washington']
+
+**cluster_label: 848
+**predicted_cluster_con: ['personality', 'psychoanalysis', 'psychometric test']
+**predicted_cluster_prop: ['ego' 'confident' 'personality traits']
+**con_intersection: ['personality', 'psychometric test']
+**extra_cons_in_predicted_cluster: ['psychoanalysis']
+
+********************
+**gold_taxo_property: social sciences
+**gold_taxo_cons: ['administrative science', 'archaeology', 'economics', 'ethnology', 'history', 'linguistics', 'philosophy', 'political science', 'sociology']
+**best_jaccard_index: 0.375
+**best_jaccard_clusters: [424]
+**cluster_label: 424
+**predicted_cluster_con: ['archaeology', 'economic geography', 'ethics', 'ethnology', 'geopolitics', 'historical geography', 'linguistics', 'living language', 'philosophy', 'political geography', 'political science', 'politics', 'sociology']
+**predicted_cluster_prop: ['historical events' 'history']
+**con_intersection: ['archaeology', 'ethnology', 'linguistics', 'philosophy', 'political science', 'sociology']
+**extra_cons_in_predicted_cluster: ['economic geography', 'ethics', 'geopolitics', 'historical geography', 'living language', 'political geography', 'politics']
+
+********************
+**gold_taxo_property: ethnology
+**gold_taxo_cons: ['ethnography']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [513, 743, 744, 745, 885, 1027]
+**cluster_label: 513
+**predicted_cluster_con: ['ethnography']
+**predicted_cluster_prop: ['describing society']
+**con_intersection: ['ethnography']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 743
+**predicted_cluster_con: ['ethnography']
+**predicted_cluster_prop: ['book' 'books']
+**con_intersection: ['ethnography']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 744
+**predicted_cluster_con: ['ethnography']
+**predicted_cluster_prop: ['thick descriptions' 'thick description']
+**con_intersection: ['ethnography']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 745
+**predicted_cluster_con: ['ethnography']
+**predicted_cluster_prop: ['academic paper' 'written reports' 'research paper' 'academic articles'
+ 'research papers']
+**con_intersection: ['ethnography']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 885
+**predicted_cluster_con: ['ethnography']
+**predicted_cluster_prop: ['observer' 'participant']
+**con_intersection: ['ethnography']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1027
+**predicted_cluster_con: ['ethnography']
+**predicted_cluster_prop: ['ethnographic report']
+**con_intersection: ['ethnography']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: history
+**gold_taxo_cons: ['ancient history', 'contemporary history', 'historical figure', 'medieval history', 'modern history', 'prehistory', 'world history']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [317, 501, 580]
+**cluster_label: 317
+**predicted_cluster_con: ['ancient history', 'contemporary history', 'history', 'modern history', 'world history']
+**predicted_cluster_prop: ['revolution' 'revolutions' 'american revolution' 'decolonization'
+ 'arab spring']
+**con_intersection: ['ancient history', 'contemporary history', 'modern history', 'world history']
+**extra_cons_in_predicted_cluster: ['history']
+
+**cluster_label: 501
+**predicted_cluster_con: ['ancient history', 'contemporary history', 'historical geography', 'history', 'medieval history', 'modern history', 'prehistoric', 'world history']
+**predicted_cluster_prop: ['europe' 'european' 'greece']
+**con_intersection: ['ancient history', 'contemporary history', 'medieval history', 'modern history', 'world history']
+**extra_cons_in_predicted_cluster: ['historical geography', 'history', 'prehistoric']
+
+**cluster_label: 580
+**predicted_cluster_con: ['ancient history', 'contemporary history', 'history', 'modern history', 'world history']
+**predicted_cluster_prop: ['napoleon']
+**con_intersection: ['ancient history', 'contemporary history', 'modern history', 'world history']
+**extra_cons_in_predicted_cluster: ['history']
+
+********************
+**gold_taxo_property: linguistics
+**gold_taxo_cons: ['language', 'language policy', 'living language']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [149, 857]
+**cluster_label: 149
+**predicted_cluster_con: ['language', 'living language']
+**predicted_cluster_prop: ['spoken' 'has grammar']
+**con_intersection: ['language', 'living language']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 857
+**predicted_cluster_con: ['language', 'living language']
+**predicted_cluster_prop: ['expression']
+**con_intersection: ['language', 'living language']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: language
+**gold_taxo_cons: ['bilingualism', 'multilingualism']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [4, 141, 280, 914, 1068, 1081]
+**cluster_label: 4
+**predicted_cluster_con: ['bilingualism', 'multilingualism']
+**predicted_cluster_prop: ['immersion']
+**con_intersection: ['bilingualism', 'multilingualism']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 141
+**predicted_cluster_con: ['bilingualism', 'multilingualism']
+**predicted_cluster_prop: ['cognitive overload' 'language learning difficulties' 'language loss'
+ 'language learning difficulty' 'language learning'
+ 'language interference' 'language barriers']
+**con_intersection: ['bilingualism', 'multilingualism']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 280
+**predicted_cluster_con: ['bilingualism', 'multilingualism']
+**predicted_cluster_prop: ['language proficiency' 'ability to speak two languages'
+ 'ability to speak multiple languages']
+**con_intersection: ['bilingualism', 'multilingualism']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 914
+**predicted_cluster_con: ['bilingualism', 'multilingualism']
+**predicted_cluster_prop: ['social stigma']
+**con_intersection: ['bilingualism', 'multilingualism']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1068
+**predicted_cluster_con: ['bilingualism', 'multilingualism']
+**predicted_cluster_prop: ['passive multilingualism' 'multilingualism' 'polyglot']
+**con_intersection: ['bilingualism', 'multilingualism']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1081
+**predicted_cluster_con: ['bilingualism', 'multilingualism']
+**predicted_cluster_prop: ['simultaneous bilingualism' 'sequential bilingualism' 'bilingualism'
+ 'passive bilingualism']
+**con_intersection: ['bilingualism', 'multilingualism']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: living language
+**gold_taxo_cons: ['European language', 'minority language', 'non-European language', 'regional language']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [305, 932]
+**cluster_label: 305
+**predicted_cluster_con: ['minority language', 'regional language']
+**predicted_cluster_prop: ['endangered']
+**con_intersection: ['minority language', 'regional language']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 932
+**predicted_cluster_con: ['minority language', 'regional language']
+**predicted_cluster_prop: ['minority group' 'native speakers' 'small population']
+**con_intersection: ['minority language', 'regional language']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: philosophy
+**gold_taxo_cons: ['ethics', 'philosophy of science']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [820]
+**cluster_label: 820
+**predicted_cluster_con: ['administrative science', 'ethics', 'philosophy of science']
+**predicted_cluster_prop: ['accountability' 'honesty' 'objectivity' 'integrity']
+**con_intersection: ['ethics', 'philosophy of science']
+**extra_cons_in_predicted_cluster: ['administrative science']
+
+********************
+**gold_taxo_property: political science
+**gold_taxo_cons: ['geopolitics']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [5, 6, 228, 249, 406, 454, 694, 704, 939, 1044]
+**cluster_label: 5
+**predicted_cluster_con: ['geopolitics', 'politics']
+**predicted_cluster_prop: ['ngos' 'interest groups' 'international organizations']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['politics']
+
+**cluster_label: 6
+**predicted_cluster_con: ['geopolitics', 'political geography']
+**predicted_cluster_prop: ['government' 'governments' 'non-state actors']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['political geography']
+
+**cluster_label: 228
+**predicted_cluster_con: ['economics', 'geopolitics']
+**predicted_cluster_prop: ['resources']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['economics']
+
+**cluster_label: 249
+**predicted_cluster_con: ['eugenics', 'geopolitics']
+**predicted_cluster_prop: ['human rights' 'human rights violations']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['eugenics']
+
+**cluster_label: 406
+**predicted_cluster_con: ['geopolitics', 'political geography']
+**predicted_cluster_prop: ['countries' 'nations' 'territories']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['political geography']
+
+**cluster_label: 454
+**predicted_cluster_con: ['geopolitics', 'political geography']
+**predicted_cluster_prop: ['states']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['political geography']
+
+**cluster_label: 694
+**predicted_cluster_con: ['geopolitics', 'language policy']
+**predicted_cluster_prop: ['incentives' 'punishments' 'economic sanctions']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['language policy']
+
+**cluster_label: 704
+**predicted_cluster_con: ['geopolitics', 'politics']
+**predicted_cluster_prop: ['propaganda' 'lobbying' 'lobby groups']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['politics']
+
+**cluster_label: 939
+**predicted_cluster_con: ['enzyme', 'geopolitics']
+**predicted_cluster_prop: ['stability' 'reversible']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['enzyme']
+
+**cluster_label: 1044
+**predicted_cluster_con: ['geopolitics', 'history']
+**predicted_cluster_prop: ['military' 'military intervention' 'military power']
+**con_intersection: ['geopolitics']
+**extra_cons_in_predicted_cluster: ['history']
+
+********************
+**gold_taxo_property: sociology
+**gold_taxo_cons: ['industrial sociology', 'political sociology', 'rural sociology', 'sociology of education', 'urban sociology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [702]
+**cluster_label: 702
+**predicted_cluster_con: ['ethnography', 'ethnology', 'industrial sociology', 'political sociology', 'sociology', 'sociology of education', 'urban sociology']
+**predicted_cluster_prop: ['ethnographic research' 'ethnographic analysis' 'ethnography'
+ 'ethnographic study']
+**con_intersection: ['industrial sociology', 'political sociology', 'sociology of education', 'urban sociology']
+**extra_cons_in_predicted_cluster: ['ethnography', 'ethnology', 'sociology']
+
+********************
+**gold_taxo_property: science
+**gold_taxo_cons: ['applied sciences', 'behavioural sciences', 'earth sciences', 'life sciences', 'physical sciences', 'social sciences', 'space science']
+**best_jaccard_index: 0.2727
+**best_jaccard_clusters: [1045]
+**cluster_label: 1045
+**predicted_cluster_con: ['analytical chemistry', 'applied sciences', 'histology', 'life sciences', 'physical sciences', 'science', 'spectrometry']
+**predicted_cluster_prop: ['laboratory equipment' 'microtome' 'biology']
+**con_intersection: ['applied sciences', 'life sciences', 'physical sciences']
+**extra_cons_in_predicted_cluster: ['analytical chemistry', 'histology', 'science', 'spectrometry']
+
+**avg_jaccard_index: 0.6732

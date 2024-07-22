@@ -1,0 +1,1776 @@
+********************
+**gold_taxo_property: zoology
+**gold_taxo_cons: ['entomology', 'ethology', 'herpetology', 'ichthyology', 'malacology', 'mammalogy', 'oology', 'ornithology', 'paleozoology', 'protozoology']
+**best_jaccard_index: 0.4
+**best_jaccard_clusters: [2194]
+**cluster_label: 2194
+**predicted_cluster_con: ['entomology', 'mammalogy', 'oology', 'ornithology']
+**predicted_cluster_prop: ['bird tracking devices' 'entomological net' 'bird identification guides'
+ 'ornithology']
+**con_intersection: ['entomology', 'mammalogy', 'oology', 'ornithology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: chemistry
+**gold_taxo_cons: ['electrochemistry', 'femtochemistry', 'geochemistry', 'immunochemistry', 'inorganic chemistry', 'organic chemistry', 'photochemistry', 'physical chemistry', 'radiochemistry', 'surface chemistry', 'thermochemistry']
+**best_jaccard_index: 0.5385
+**best_jaccard_clusters: [280]
+**cluster_label: 280
+**predicted_cluster_con: ['biochemistry', 'enzymology', 'femtochemistry', 'geochemistry', 'inorganic chemistry', 'organic chemistry', 'physical chemistry', 'radiochemistry', 'thermochemistry']
+**predicted_cluster_prop: ['molecular interactions' 'chemical reactions' 'reaction mechanisms'
+ 'chemical reactions and heat' 'catalysis' 'catalytic mechanisms'
+ 'biocatalysis' 'catalyze chemical reactions' 'nuclear reactions'
+ 'chemical dynamics' 'chemical processes' 'reactions between elements']
+**con_intersection: ['femtochemistry', 'geochemistry', 'inorganic chemistry', 'organic chemistry', 'physical chemistry', 'radiochemistry', 'thermochemistry']
+**extra_cons_in_predicted_cluster: ['biochemistry', 'enzymology']
+
+********************
+**gold_taxo_property: earth science
+**gold_taxo_cons: ['geography', 'geology', 'limnology', 'meteorology', 'oceanography', 'paleontology']
+**best_jaccard_index: 0.2857
+**best_jaccard_clusters: [854, 1587, 2302]
+**cluster_label: 854
+**predicted_cluster_con: ['geography', 'hydrology', 'limnology']
+**predicted_cluster_prop: ['freshwater lakes' 'ponds' 'lakes']
+**con_intersection: ['geography', 'limnology']
+**extra_cons_in_predicted_cluster: ['hydrology']
+
+**cluster_label: 1587
+**predicted_cluster_con: ['ichthyology', 'limnology', 'oceanography']
+**predicted_cluster_prop: ['fisheries management' 'aquaculture' 'fish conservation'
+ 'fishing industry' 'fish habitats' 'coastal management'
+ 'aquatic habitat assessment' 'aquatic conservation'
+ 'marine resource management']
+**con_intersection: ['limnology', 'oceanography']
+**extra_cons_in_predicted_cluster: ['ichthyology']
+
+**cluster_label: 2302
+**predicted_cluster_con: ['euthenics', 'geography', 'limnology']
+**predicted_cluster_prop: ['physical']
+**con_intersection: ['geography', 'limnology']
+**extra_cons_in_predicted_cluster: ['euthenics']
+
+********************
+**gold_taxo_property: geology
+**gold_taxo_cons: ['economic geology', 'geophysics', 'hypsography', 'mineralogy', 'orology', 'paleogeology', 'speleology', 'stratigraphy']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1408]
+**cluster_label: 1408
+**predicted_cluster_con: ['economic geology', 'geochemistry', 'geophysics', 'hypsography', 'paleobotany', 'paleoecology', 'paleoethnography', 'paleogeography', 'paleogeology', 'paleornithology', 'petroleum geology', 'petrology', 'protoarcheology', 'seismology', 'speleology', 'stratigraphy']
+**predicted_cluster_prop: ['geomorphological study' 'geologic mapping' 'geological surveys'
+ 'stratigraphy' 'geophysical surveys' 'explaining geological events'
+ 'geochemical analysis' 'geomorphological analysis'
+ 'understanding geological processes' 'geological mapping'
+ 'analysis of topographic data' 'archaeological site identification'
+ 'geophysicists' 'topography' 'geomorphology' 'geoarchaeology'
+ 'cave surveying' 'geological survey']
+**con_intersection: ['economic geology', 'geophysics', 'hypsography', 'paleogeology', 'speleology', 'stratigraphy']
+**extra_cons_in_predicted_cluster: ['geochemistry', 'paleobotany', 'paleoecology', 'paleoethnography', 'paleogeography', 'paleornithology', 'petroleum geology', 'petrology', 'protoarcheology', 'seismology']
+
+********************
+**gold_taxo_property: science
+**gold_taxo_cons: ['agrobiology', 'agrology', 'agronomy', 'architectonics', 'cognitive science', 'cryptanalysis', 'information science', 'linguistics', 'mathematics', 'metallurgy', 'metrology', 'natural history', 'natural science', 'nutrition', 'psychology', 'social science', 'strategics', 'systematics', 'thanatology']
+**best_jaccard_index: 0.16
+**best_jaccard_clusters: [1868]
+**cluster_label: 1868
+**predicted_cluster_con: ['agrology', 'agronomy', 'architectonics', 'ecology', 'economic geology', 'euthenics', 'forestry', 'garbology', 'natural history', 'radiobiology']
+**predicted_cluster_prop: ['environmental sustainability' 'sustainability' 'clean living'
+ 'what is sustainability?']
+**con_intersection: ['agrology', 'agronomy', 'architectonics', 'natural history']
+**extra_cons_in_predicted_cluster: ['ecology', 'economic geology', 'euthenics', 'forestry', 'garbology', 'radiobiology']
+
+********************
+**gold_taxo_property: calculus
+**gold_taxo_cons: ['analysis', 'calculus of variations', 'differential calculus', 'integral calculus']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1278]
+**cluster_label: 1278
+**predicted_cluster_con: ['calculus', 'differential calculus', 'integral calculus', 'topology']
+**predicted_cluster_prop: ['limit' 'limits' 'limit point']
+**con_intersection: ['differential calculus', 'integral calculus']
+**extra_cons_in_predicted_cluster: ['calculus', 'topology']
+
+********************
+**gold_taxo_property: medicine
+**gold_taxo_cons: ['allergology', 'anesthesiology', 'angiology', 'bacteriology', 'biomedicine', 'cardiology', 'dentistry', 'dermatology', 'emergency medicine', 'endocrinology', 'epidemiology', 'forensic medicine', 'gastroenterology', 'geriatrics', 'gynecology', 'hematology', 'hygiene', 'immunology', 'internal medicine', 'nephrology', 'neurology', 'neuropsychiatry', 'nosology', 'nuclear medicine', 'obstetrics', 'oncology', 'ophthalmology', 'otology', 'pediatrics', 'pharmacology', 'pharmacy', 'podiatry', 'proctology', 'prosthetics', 'psychiatry', 'rheumatology', 'rhinolaryngology', 'space medicine', 'sports medicine', 'therapeutics', 'thoracic medicine', 'traumatology', 'tropical medicine', 'urology', 'veterinary medicine', 'virology']
+**best_jaccard_index: 0.4815
+**best_jaccard_clusters: [1511]
+**cluster_label: 1511
+**predicted_cluster_con: ['abnormal psychology', 'allergology', 'anesthesiology', 'audiology', 'cardiology', 'dental surgery', 'emergency medicine', 'endocrinology', 'gastroenterology', 'geriatrics', 'gynecology', 'internal medicine', 'neonatology', 'nephrology', 'neurology', 'neuropsychiatry', 'ophthalmology', 'orthopedics', 'otology', 'pathology', 'pharmacy', 'podiatry', 'proctology', 'psychiatry', 'psychopharmacology', 'psychotherapy', 'rheumatology', 'rhinolaryngology', 'space medicine', 'sports medicine', 'therapeutics', 'thoracic medicine', 'traumatology', 'urology']
+**predicted_cluster_prop: ['medication' 'addiction treatment' 'medications' 'pharmacological'
+ 'self-medication' 'intravenous medications' 'birth control'
+ 'over-the-counter medications' 'pharmacotherapy'
+ 'prescription medication' 'medications for anxiety']
+**con_intersection: ['allergology', 'anesthesiology', 'cardiology', 'emergency medicine', 'endocrinology', 'gastroenterology', 'geriatrics', 'gynecology', 'internal medicine', 'nephrology', 'neurology', 'neuropsychiatry', 'ophthalmology', 'otology', 'pharmacy', 'podiatry', 'proctology', 'psychiatry', 'rheumatology', 'rhinolaryngology', 'space medicine', 'sports medicine', 'therapeutics', 'thoracic medicine', 'traumatology', 'urology']
+**extra_cons_in_predicted_cluster: ['abnormal psychology', 'audiology', 'dental surgery', 'neonatology', 'orthopedics', 'pathology', 'psychopharmacology', 'psychotherapy']
+
+********************
+**gold_taxo_property: anthropology
+**gold_taxo_cons: ['archeology', 'ethnography', 'ethnology', 'physical anthropology', 'social anthropology']
+**best_jaccard_index: 0.375
+**best_jaccard_clusters: [142]
+**cluster_label: 142
+**predicted_cluster_con: ['anthropology', 'dialect geography', 'ethnography', 'ethnology', 'social anthropology', 'sumerology']
+**predicted_cluster_prop: ['cultural competence' 'cultural sensitivity' 'cultural understanding'
+ 'comparing cultures' 'cultural awareness'
+ 'understanding cultural identity' 'promoting cultural understanding'
+ 'developing cultural sensitivity' 'developing cultural competence'
+ 'understanding cultural differences' 'cross-cultural understanding']
+**con_intersection: ['ethnography', 'ethnology', 'social anthropology']
+**extra_cons_in_predicted_cluster: ['anthropology', 'dialect geography', 'sumerology']
+
+********************
+**gold_taxo_property: electronics
+**gold_taxo_cons: ['electron optics', 'microelectronics', 'thermionics']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [567, 1071]
+**cluster_label: 567
+**predicted_cluster_con: ['electrochemistry', 'electromagnetism', 'electron optics', 'electrostatics', 'thermionics']
+**predicted_cluster_prop: ['thermionic converter' 'high-voltage power supply'
+ 'electromagnetic induction' 'thermistor' 'vacuum tube'
+ 'thermionic vacuum tube' 'thermionic valve' 'thermionic tube'
+ 'thermionic generator' 'electrochemical cell' 'electromagnet'
+ 'electromagnets']
+**con_intersection: ['electron optics', 'thermionics']
+**extra_cons_in_predicted_cluster: ['electrochemistry', 'electromagnetism', 'electrostatics']
+
+**cluster_label: 1071
+**predicted_cluster_con: ['thermionics']
+**predicted_cluster_prop: ['pioneered by frederick guthrie' 'invented by owen richardson'
+ 'invented by frederick guthrie' 'leo szilard' 'pioneered by albert hull']
+**con_intersection: ['thermionics']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: sociology
+**gold_taxo_cons: ['criminology', 'demography', 'psephology', 'sociometry']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [1241, 1406, 1522]
+**cluster_label: 1241
+**predicted_cluster_con: ['demography']
+**predicted_cluster_prop: ['population growth rate' 'fertility rates' 'birth rate' 'fertility rate']
+**con_intersection: ['demography']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1406
+**predicted_cluster_con: ['psephology']
+**predicted_cluster_prop: ['campaign analysis' 'understanding voter behavior'
+ 'study of voting patterns' 'public opinion analysis' 'polling'
+ 'study of elections' 'scientific analysis of voting'
+ 'understanding public opinion' 'voting patterns' 'ballots'
+ 'analysis of voting patterns' 'analysis of election data'
+ 'voting behavior analysis' 'voter turnout prediction'
+ 'election forecasting' 'elections' 'study of election outcomes']
+**con_intersection: ['psephology']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1522
+**predicted_cluster_con: ['demography']
+**predicted_cluster_prop: ['censuses' 'census data' 'census']
+**con_intersection: ['demography']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: algebra
+**gold_taxo_cons: ['linear algebra', 'matrix algebra', 'quadratics', 'vector algebra']
+**best_jaccard_index: 0.75
+**best_jaccard_clusters: [1267]
+**cluster_label: 1267
+**predicted_cluster_con: ['linear algebra', 'matrix algebra', 'vector algebra']
+**predicted_cluster_prop: ['basis']
+**con_intersection: ['linear algebra', 'matrix algebra', 'vector algebra']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: quantum field theory
+**gold_taxo_cons: ['quantum chromodynamics', 'quantum electrodynamics']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [154, 1172, 1229, 1654, 2298]
+**cluster_label: 154
+**predicted_cluster_con: ['electron optics', 'quantum electrodynamics', 'solid state physics']
+**predicted_cluster_prop: ['semiconductors' 'semiconductor manufacturing' 'semiconductor industry'
+ 'manufacturing semiconductors' 'electronic properties'
+ 'semiconductor devices']
+**con_intersection: ['quantum electrodynamics']
+**extra_cons_in_predicted_cluster: ['electron optics', 'solid state physics']
+
+**cluster_label: 1172
+**predicted_cluster_con: ['assyriology', 'quantum electrodynamics', 'quantum field theory']
+**predicted_cluster_prop: ['sin-itiro tomonaga' 'ashurbanipal']
+**con_intersection: ['quantum electrodynamics']
+**extra_cons_in_predicted_cluster: ['assyriology', 'quantum field theory']
+
+**cluster_label: 1229
+**predicted_cluster_con: ['cryogenics', 'quantum electrodynamics', 'quantum field theory']
+**predicted_cluster_prop: ['renormalization' "linde's process" 'symmetry breaking']
+**con_intersection: ['quantum electrodynamics']
+**extra_cons_in_predicted_cluster: ['cryogenics', 'quantum field theory']
+
+**cluster_label: 1654
+**predicted_cluster_con: ['astrophysics', 'quantum electrodynamics', 'quantum field theory']
+**predicted_cluster_prop: ['magnetic moment of electron' 'existence of dark matter'
+ 'unification of forces' 'verified by experiments on electron scattering'
+ 'mössbauer effect' 'prediction of anomalous magnetic moment'
+ 'electron behavior' 'photon behavior' 'existence of higgs boson'
+ 'verified by experiments on muon g-2' 'asymptotic freedom'
+ 'predicts particle interactions' 'anomalous magnetic moment of electron'
+ 'anomalous magnetic moment' 'anomalous magnetic moments'
+ 'predicting particle interactions' 'electron self-energy'
+ 'gauge boson masses' 'predicts particle masses']
+**con_intersection: ['quantum electrodynamics']
+**extra_cons_in_predicted_cluster: ['astrophysics', 'quantum field theory']
+
+**cluster_label: 2298
+**predicted_cluster_con: ['crystallography', 'group theory', 'quantum electrodynamics']
+**predicted_cluster_prop: ['finite group' 'symmetric group' 'lie groups' 'lie group' 'abelian'
+ 'space groups' 'non-abelian group' 'symmetry groups' 'finite groups'
+ 'abelian group' 'non-abelian' 'renormalization group' 'quotient group'
+ 'infinite group']
+**con_intersection: ['quantum electrodynamics']
+**extra_cons_in_predicted_cluster: ['crystallography', 'group theory']
+
+********************
+**gold_taxo_property: morphology
+**gold_taxo_cons: ['anatomy', 'compound morphology', 'derivational morphology', 'inflectional morphology', 'petrology', 'tectonics']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [355]
+**cluster_label: 355
+**predicted_cluster_con: ['compound morphology', 'derivational morphology', 'inflectional morphology']
+**predicted_cluster_prop: ['prefixes' 'suffixes' 'suffix' 'infixes' 'prefix']
+**con_intersection: ['compound morphology', 'derivational morphology', 'inflectional morphology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: psychology
+**gold_taxo_cons: ['abnormal psychology', 'applied psychology', 'cognitive psychology', 'comparative psychology', 'developmental psychology', 'differential psychology', 'experimental psychology', 'physiological psychology', 'psychometry', 'social psychology']
+**best_jaccard_index: 0.4615
+**best_jaccard_clusters: [857]
+**cluster_label: 857
+**predicted_cluster_con: ['abnormal psychology', 'applied psychology', 'cognitive psychology', 'experimental psychology', 'magnetism', 'neurophysiology', 'physiological psychology', 'psychology', 'social psychology']
+**predicted_cluster_prop: ['personality' 'what drives altruism' 'motivation' 'attractive'
+ 'motivation theories' 'action potential']
+**con_intersection: ['abnormal psychology', 'applied psychology', 'cognitive psychology', 'experimental psychology', 'physiological psychology', 'social psychology']
+**extra_cons_in_predicted_cluster: ['magnetism', 'neurophysiology', 'psychology']
+
+********************
+**gold_taxo_property: biotechnology
+**gold_taxo_cons: ['bioremediation', 'genetic engineering']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [573]
+**cluster_label: 573
+**predicted_cluster_con: ['genetic engineering', 'macrobiotics']
+**predicted_cluster_prop: ['whole grains' 'soybeans' 'legumes' 'brown rice' 'gmo crops'
+ 'whole grain' 'refined grains']
+**con_intersection: ['genetic engineering']
+**extra_cons_in_predicted_cluster: ['macrobiotics']
+
+********************
+**gold_taxo_property: biology
+**gold_taxo_cons: ['biogeography', 'botany', 'cryobiology', 'cytology', 'ecology', 'embryology', 'exobiology', 'forestry', 'genetics', 'microbiology', 'molecular biology', 'morphology', 'neurobiology', 'paleobiology', 'physiology', 'radiobiology', 'sociobiology', 'zoology']
+**best_jaccard_index: 0.2222
+**best_jaccard_clusters: [1943]
+**cluster_label: 1943
+**predicted_cluster_con: ['agrobiology', 'biochemistry', 'biogeography', 'biology', 'biophysics', 'biosystematics', 'ecology', 'exobiology', 'genetics', 'geochemistry', 'inorganic chemistry', 'life science', 'limnology', 'natural history', 'natural science', 'nonparametric statistics', 'organic chemistry', 'paleobiology', 'paleobotany', 'paleoecology', 'paleozoology', 'photochemistry', 'physiology', 'radiobiology', 'taxonomy', 'zoology']
+**predicted_cluster_prop: ['study of chemical processes in living organisms'
+ 'study of living organisms' 'living organisms' 'life' 'biology'
+ 'organisms' 'study of ancient microorganisms' 'life beyond earth'
+ 'study of radiation effects on living organisms'
+ 'systematic study of living organisms'
+ 'study of biological classification' 'all life forms' 'photobiology'
+ 'study of the relationships between organisms'
+ 'study of relationships between living organisms and environment'
+ 'study of interactions between organisms and their environment'
+ 'study of non-living matter' 'biological sciences' 'biological'
+ 'study of interactions between organisms and environment'
+ 'study of relationships between living organisms'
+ 'study of effects of ionizing radiation on living organisms'
+ "study of life's building blocks"]
+**con_intersection: ['biogeography', 'ecology', 'exobiology', 'genetics', 'paleobiology', 'physiology', 'radiobiology', 'zoology']
+**extra_cons_in_predicted_cluster: ['agrobiology', 'biochemistry', 'biology', 'biophysics', 'biosystematics', 'geochemistry', 'inorganic chemistry', 'life science', 'limnology', 'natural history', 'natural science', 'nonparametric statistics', 'organic chemistry', 'paleobotany', 'paleoecology', 'paleozoology', 'photochemistry', 'taxonomy']
+
+********************
+**gold_taxo_property: physics
+**gold_taxo_cons: ['acoustics', 'aeronautics', 'astronomy', 'biophysics', 'cryogenics', 'crystallography', 'electromagnetism', 'electronics', 'electrostatics', 'mechanics', 'nuclear physics', 'optics', 'particle physics', 'plasma physics', 'quantum physics', 'rheology', 'solid state physics', 'statistical mechanics', 'thermodynamics']
+**best_jaccard_index: 0.3611
+**best_jaccard_clusters: [2144]
+**cluster_label: 2144
+**predicted_cluster_con: ['astrodynamics', 'astrophysics', 'biophysics', 'catoptrics', 'celestial mechanics', 'chemistry', 'cryogenics', 'electromagnetism', 'electron optics', 'electrostatics', 'inorganic chemistry', 'magnetism', 'matrix algebra', 'mechanics', 'nuclear physics', 'optics', 'organic chemistry', 'particle physics', 'photochemistry', 'physical chemistry', 'physics', 'plasma physics', 'quantum electrodynamics', 'quantum field theory', 'quantum mechanics', 'quantum physics', 'solar physics', 'solid state physics', 'statistical mechanics', 'thermodynamics']
+**predicted_cluster_prop: ['electromagnetic' 'electromagnetic induction' 'quantum electromagnetism'
+ 'quantum gravity' 'quantum field theory' 'quantum mechanics' 'quantum'
+ 'wave-particle duality' 'foundational theory in particle physics'
+ 'quantum electrodynamics' 'electromagnetic theory' 'classical mechanics'
+ 'gauge theory' 'unified theory of electromagnetism and quantum mechanics'
+ 'explains atomic behavior' 'quantum chromodynamics' 'string theory'
+ 'quantum field' 'building block of quantum field theory'
+ 'theory of light-matter interaction' 'wave function collapse'
+ 'describes particle behavior' 'fermi level' 'uses wave functions'
+ 'gauge theories' 'developed from quantum mechanics' 'quantum mechanical'
+ 'quantum theory' 'atomic model'
+ 'unifies electromagnetism and quantum mechanics' 'wave theory'
+ 'quantum bayesianism' 'atomic theory']
+**con_intersection: ['biophysics', 'cryogenics', 'electromagnetism', 'electrostatics', 'mechanics', 'nuclear physics', 'optics', 'particle physics', 'plasma physics', 'quantum physics', 'solid state physics', 'statistical mechanics', 'thermodynamics']
+**extra_cons_in_predicted_cluster: ['astrodynamics', 'astrophysics', 'catoptrics', 'celestial mechanics', 'chemistry', 'electron optics', 'inorganic chemistry', 'magnetism', 'matrix algebra', 'organic chemistry', 'photochemistry', 'physical chemistry', 'physics', 'quantum electrodynamics', 'quantum field theory', 'quantum mechanics', 'solar physics']
+
+********************
+**gold_taxo_property: neuroscience
+**gold_taxo_cons: ['brain science', 'cognitive neuroscience', 'neurophysiology']
+**best_jaccard_index: 0.4
+**best_jaccard_clusters: [170]
+**cluster_label: 170
+**predicted_cluster_con: ['cognitive neuroscience', 'neurolinguistics', 'neurophysiology', 'neuroscience']
+**predicted_cluster_prop: ['brain-computer interfaces' 'brain-machine interfaces']
+**con_intersection: ['cognitive neuroscience', 'neurophysiology']
+**extra_cons_in_predicted_cluster: ['neurolinguistics', 'neuroscience']
+
+********************
+**gold_taxo_property: paleobotany
+**gold_taxo_cons: ['paleodendrology']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [31, 1404, 2056]
+**cluster_label: 31
+**predicted_cluster_con: ['etymology', 'paleodendrology', 'paleography']
+**predicted_cluster_prop: ['dating manuscripts' 'dating ancient texts' 'dating ancient events'
+ 'historical documents' 'dating historical documents' 'dating of texts'
+ 'dating of events' 'dating archaeological sites' 'dating of manuscripts']
+**con_intersection: ['paleodendrology']
+**extra_cons_in_predicted_cluster: ['etymology', 'paleography']
+
+**cluster_label: 1404
+**predicted_cluster_con: ['paleodendrology', 'statics', 'stratigraphy']
+**predicted_cluster_prop: ['tree rings' 'tree ring analysis' 'tree ring counting' 'dendrochronology'
+ 'analysis of bridges' 'analysis of tree rings' 'dating rock layers'
+ 'analyzing tree rings']
+**con_intersection: ['paleodendrology']
+**extra_cons_in_predicted_cluster: ['statics', 'stratigraphy']
+
+**cluster_label: 2056
+**predicted_cluster_con: ['paleodendrology', 'silviculture', 'systematics']
+**predicted_cluster_prop: ['tree rings' 'tree growth' 'tree growth patterns' 'tree of life'
+ 'tree ring']
+**con_intersection: ['paleodendrology']
+**extra_cons_in_predicted_cluster: ['silviculture', 'systematics']
+
+********************
+**gold_taxo_property: life science
+**gold_taxo_cons: ['biology', 'biomedical science', 'biometrics', 'craniology', 'dermatoglyphics', 'dietetics', 'dysgenics', 'eugenics', 'euthenics', 'medical science']
+**best_jaccard_index: 0.2727
+**best_jaccard_clusters: [1812]
+**cluster_label: 1812
+**predicted_cluster_con: ['dysgenics', 'egyptology', 'eugenics', 'euthenics']
+**predicted_cluster_prop: ['eugenics' 'opposite of eugenics' 'social darwinism' 'mummification'
+ 'eugenics movement' 'opposite concept']
+**con_intersection: ['dysgenics', 'eugenics', 'euthenics']
+**extra_cons_in_predicted_cluster: ['egyptology']
+
+********************
+**gold_taxo_property: correlation
+**gold_taxo_cons: ['curvilinear correlation', 'negative correlation', 'partial correlation', 'positive correlation', 'spurious correlation']
+**best_jaccard_index: 0.8
+**best_jaccard_clusters: [1991]
+**cluster_label: 1991
+**predicted_cluster_con: ['curvilinear correlation', 'negative correlation', 'positive correlation', 'spurious correlation']
+**predicted_cluster_prop: ['positive correlation' 'no correlation' 'linear correlation'
+ 'perfect negative correlation' 'opposite direction'
+ 'inverse relationship' 'negative correlation'
+ 'unintentional statistical relationship'
+ 'near perfect negative correlation' 'negative coefficient'
+ 'opposite of positive correlation' 'chance correlation'
+ 'weak negative correlation']
+**con_intersection: ['curvilinear correlation', 'negative correlation', 'positive correlation', 'spurious correlation']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: economics
+**gold_taxo_cons: ['econometrics', 'finance', 'macroeconomics', 'microeconomics', 'supply side economics']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [1680]
+**cluster_label: 1680
+**predicted_cluster_con: ['econometrics', 'economics', 'finance', 'microeconomics', 'supply side economics']
+**predicted_cluster_prop: ['supply and demand' 'opposite approach' 'supply and demand equilibrium'
+ 'supply' 'market equilibrium']
+**con_intersection: ['econometrics', 'finance', 'microeconomics', 'supply side economics']
+**extra_cons_in_predicted_cluster: ['economics']
+
+********************
+**gold_taxo_property: microscopic anatomy
+**gold_taxo_cons: ['cytology', 'histology']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [2100]
+**cluster_label: 2100
+**predicted_cluster_con: ['biotechnology', 'cytology', 'virology']
+**predicted_cluster_prop: ['cell culture']
+**con_intersection: ['cytology']
+**extra_cons_in_predicted_cluster: ['biotechnology', 'virology']
+
+********************
+**gold_taxo_property: social anthropology
+**gold_taxo_cons: ['garbology', 'mythology', 'ritualism']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [610, 665, 951]
+**cluster_label: 610
+**predicted_cluster_con: ['ritualism']
+**predicted_cluster_prop: ['offering' 'sacred space' 'symbols' 'sacred objects' 'symbolism' 'sacred'
+ 'sacred texts' 'ritual objects']
+**con_intersection: ['ritualism']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 665
+**predicted_cluster_con: ['ritualism']
+**predicted_cluster_prop: ['dance' 'dancing']
+**con_intersection: ['ritualism']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 951
+**predicted_cluster_con: ['ritualism']
+**predicted_cluster_prop: ['wedding ceremony' 'wedding']
+**con_intersection: ['ritualism']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: genetics
+**gold_taxo_cons: ['cytogenetics', 'genomics', 'molecular genetics', 'pharmacogenetics', 'proteomics']
+**best_jaccard_index: 0.5556
+**best_jaccard_clusters: [2217]
+**cluster_label: 2217
+**predicted_cluster_con: ['bacteriology', 'biotechnology', 'cytogenetics', 'genomics', 'immunochemistry', 'molecular genetics', 'pharmacogenetics', 'proteomics', 'serology']
+**predicted_cluster_prop: ['microarray' 'microarray analysis' 'elisa' 'protein microarray'
+ 'microarrays' 'chromatin immunoprecipitation' 'antibody purification'
+ 'chromosomal staining']
+**con_intersection: ['cytogenetics', 'genomics', 'molecular genetics', 'pharmacogenetics', 'proteomics']
+**extra_cons_in_predicted_cluster: ['bacteriology', 'biotechnology', 'immunochemistry', 'serology']
+
+********************
+**gold_taxo_property: paleontology
+**gold_taxo_cons: ['micropaleontology', 'paleobiology', 'vertebrate paleontology']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [875]
+**cluster_label: 875
+**predicted_cluster_con: ['paleobiology', 'paleoecology', 'paleontology', 'paleozoology', 'vertebrate paleontology']
+**predicted_cluster_prop: ['ancient species' 'ancient organisms' 'ancient life' 'prehistoric plants'
+ 'ancient ecosystems' 'ancient life forms']
+**con_intersection: ['paleobiology', 'vertebrate paleontology']
+**extra_cons_in_predicted_cluster: ['paleoecology', 'paleontology', 'paleozoology']
+
+********************
+**gold_taxo_property: malacology
+**gold_taxo_cons: ['conchology']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: grammar
+**gold_taxo_cons: ['descriptive grammar', 'morphology', 'prescriptive grammar', 'syntax']
+**best_jaccard_index: 0.6
+**best_jaccard_clusters: [352]
+**cluster_label: 352
+**predicted_cluster_con: ['descriptive grammar', 'grammar', 'morphology', 'syntax']
+**predicted_cluster_prop: ['sentence structure' 'sentence formation' 'structure of sentences'
+ 'parts of speech' 'dependent clauses' 'sentence order' 'phrase structure'
+ 'structuring sentences' 'clause structure' 'subject-verb-object'
+ 'modifying phrases']
+**con_intersection: ['descriptive grammar', 'morphology', 'syntax']
+**extra_cons_in_predicted_cluster: ['grammar']
+
+********************
+**gold_taxo_property: botany
+**gold_taxo_cons: ['mycology', 'paleobotany', 'phycology', 'pomology', 'pteridology']
+**best_jaccard_index: 0.2727
+**best_jaccard_clusters: [2060]
+**cluster_label: 2060
+**predicted_cluster_con: ['agrobiology', 'agrology', 'agronomy', 'bioclimatology', 'botany', 'mycology', 'paleobotany', 'phytochemistry', 'pteridology']
+**predicted_cluster_prop: ['plant ecology' 'crop physiology' 'plant biology' 'agricultural mycology'
+ 'plant anatomy' 'plant systematics' 'fern ecology' 'plant chemistry'
+ 'plant physiology' 'plant biochemistry' 'plant genetics' 'fern evolution'
+ 'plant science' 'plant biotechnology' 'fungal ecology'
+ 'branch of plant biology' 'plant pathology' 'horticulture']
+**con_intersection: ['mycology', 'paleobotany', 'pteridology']
+**extra_cons_in_predicted_cluster: ['agrobiology', 'agrology', 'agronomy', 'bioclimatology', 'botany', 'phytochemistry']
+
+********************
+**gold_taxo_property: linguistics
+**gold_taxo_cons: ['computational linguistics', 'descriptive linguistics', 'dialect geography', 'etymology', 'historical linguistics', 'neurolinguistics', 'pragmatics', 'prescriptive linguistics', 'semantics', 'sociolinguistics', 'structuralism', 'synchronic linguistics']
+**best_jaccard_index: 0.5714
+**best_jaccard_clusters: [443]
+**cluster_label: 443
+**predicted_cluster_con: ['deixis', 'descriptive linguistics', 'dialect geography', 'etymology', 'historical linguistics', 'linguistics', 'neurolinguistics', 'prescriptive linguistics', 'sociolinguistics', 'synchronic linguistics']
+**predicted_cluster_prop: ['language reconstruction' 'language contact' 'speech community'
+ 'linguistic relativity' 'dialect boundaries' 'language and power'
+ 'language identity' 'language production' 'language variations'
+ 'language development' 'bilingualism' 'language variation'
+ 'cross-linguistic differences' 'language change over time' 'language use'
+ 'language acquisition' 'dialect contact' 'language evolution'
+ 'language origins' 'language patterns' 'language family'
+ 'language relationships' 'word changes' 'language usage'
+ 'language use in society']
+**con_intersection: ['descriptive linguistics', 'dialect geography', 'etymology', 'historical linguistics', 'neurolinguistics', 'prescriptive linguistics', 'sociolinguistics', 'synchronic linguistics']
+**extra_cons_in_predicted_cluster: ['deixis', 'linguistics']
+
+********************
+**gold_taxo_property: quantum physics
+**gold_taxo_cons: ['quantum field theory', 'quantum mechanics']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [561, 1263]
+**cluster_label: 561
+**predicted_cluster_con: ['particle physics', 'quantum field theory', 'quantum mechanics', 'trigonometry']
+**predicted_cluster_prop: ['explaining fundamental forces' 'interacting' 'describing waves'
+ 'explains particle behavior' 'description of particle interactions'
+ 'describing matter and energy']
+**con_intersection: ['quantum field theory', 'quantum mechanics']
+**extra_cons_in_predicted_cluster: ['particle physics', 'trigonometry']
+
+**cluster_label: 1263
+**predicted_cluster_con: ['neurobiology', 'quantum field theory', 'quantum mechanics', 'quantum physics']
+**predicted_cluster_prop: ['non-locality' 'localization' 'locality']
+**con_intersection: ['quantum field theory', 'quantum mechanics']
+**extra_cons_in_predicted_cluster: ['neurobiology', 'quantum physics']
+
+********************
+**gold_taxo_property: meteorology
+**gold_taxo_cons: ['aerology', 'climatology', 'nephology']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [468, 676, 923]
+**cluster_label: 468
+**predicted_cluster_con: ['aerology', 'bioclimatology', 'climatology', 'hygiene', 'meteorology']
+**predicted_cluster_prop: ['humidity' 'proper ventilation']
+**con_intersection: ['aerology', 'climatology']
+**extra_cons_in_predicted_cluster: ['bioclimatology', 'hygiene', 'meteorology']
+
+**cluster_label: 676
+**predicted_cluster_con: ['aerology', 'bioclimatology', 'climatology', 'earth science', 'meteorology']
+**predicted_cluster_prop: ['study of weather' 'study of climate and weather' 'weather forecasting'
+ 'weather patterns' 'study of weather and climate' 'weather']
+**con_intersection: ['aerology', 'climatology']
+**extra_cons_in_predicted_cluster: ['bioclimatology', 'earth science', 'meteorology']
+
+**cluster_label: 923
+**predicted_cluster_con: ['aerology', 'climatology', 'curvilinear correlation', 'meteorology', 'pneumatics']
+**predicted_cluster_prop: ['temperature and atmospheric pressure' 'air pressure'
+ 'relationship between temperature and atmospheric pressure'
+ 'atmospheric pressure']
+**con_intersection: ['aerology', 'climatology']
+**extra_cons_in_predicted_cluster: ['curvilinear correlation', 'meteorology', 'pneumatics']
+
+********************
+**gold_taxo_property: psychotherapy
+**gold_taxo_cons: ['clinical psychology', 'freudian psychology', 'jungian psychology']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1244]
+**cluster_label: 1244
+**predicted_cluster_con: ['jungian psychology']
+**predicted_cluster_prop: ['shadow']
+**con_intersection: ['jungian psychology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: geophysics
+**gold_taxo_cons: ['geodesy', 'hydrology', 'magnetism', 'morphology', 'seismology', 'volcanology']
+**best_jaccard_index: 0.2222
+**best_jaccard_clusters: [1423]
+**cluster_label: 1423
+**predicted_cluster_con: ['astrometry', 'geodesy', 'hypsography', 'seismology', 'triangulation']
+**predicted_cluster_prop: ['triangulation algorithm' 'triangulation' 'ground-based measurements'
+ 'triangulation using gps' 'satellite geodesy' 'trigonometry'
+ 'parallax method' 'gps measurements' 'delaunay triangulation']
+**con_intersection: ['geodesy', 'seismology']
+**extra_cons_in_predicted_cluster: ['astrometry', 'hypsography', 'triangulation']
+
+********************
+**gold_taxo_property: anatomy
+**gold_taxo_cons: ['clinical anatomy', 'comparative anatomy', 'developmental anatomy', 'functional anatomy', 'gross anatomy', 'microscopic anatomy', 'neuroanatomy', 'osteology', 'regional anatomy']
+**best_jaccard_index: 0.5385
+**best_jaccard_clusters: [1078]
+**cluster_label: 1078
+**predicted_cluster_con: ['anatomy', 'clinical anatomy', 'comparative anatomy', 'developmental anatomy', 'embryology', 'functional anatomy', 'gross anatomy', 'microscopic anatomy', 'pathology', 'physiology', 'regional anatomy']
+**predicted_cluster_prop: ['visible organs' 'consists of organs' 'human organs' 'comprises organs'
+ 'organs' 'muscular' 'human body' 'vestigial organs' 'organ'
+ 'organ rudiments' 'organ system']
+**con_intersection: ['clinical anatomy', 'comparative anatomy', 'developmental anatomy', 'functional anatomy', 'gross anatomy', 'microscopic anatomy', 'regional anatomy']
+**extra_cons_in_predicted_cluster: ['anatomy', 'embryology', 'pathology', 'physiology']
+
+********************
+**gold_taxo_property: fluid mechanics
+**gold_taxo_cons: ['hydrodynamics', 'hydrostatics']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [102, 376]
+**cluster_label: 102
+**predicted_cluster_con: ['fluid mechanics', 'hydrodynamics', 'hydrostatics']
+**predicted_cluster_prop: ['naval architecture' 'ship design' 'marine engineering'
+ 'design of ships and submarines' 'submarine design' 'design of ships'
+ 'design of submarines' 'shipbuilding' 'optimized ship propellers']
+**con_intersection: ['hydrodynamics', 'hydrostatics']
+**extra_cons_in_predicted_cluster: ['fluid mechanics']
+
+**cluster_label: 376
+**predicted_cluster_con: ['fluid mechanics', 'hydrodynamics', 'hydrostatics']
+**predicted_cluster_prop: ['buoyancy' 'buoyancy force' 'floatation']
+**con_intersection: ['hydrodynamics', 'hydrostatics']
+**extra_cons_in_predicted_cluster: ['fluid mechanics']
+
+********************
+**gold_taxo_property: descriptive linguistics
+**gold_taxo_cons: ['grammar', 'morphophonemics', 'phonology']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [64, 135, 1246, 2335]
+**cluster_label: 64
+**predicted_cluster_con: ['grammar', 'neurolinguistics']
+**predicted_cluster_prop: ['reading' 'reading comprehension' 'reading instruction']
+**con_intersection: ['grammar']
+**extra_cons_in_predicted_cluster: ['neurolinguistics']
+
+**cluster_label: 135
+**predicted_cluster_con: ['acoustics', 'audiology', 'electronics', 'ethnography', 'ethnology', 'grammar', 'phonology']
+**predicted_cluster_prop: ['speakers' 'sound system' 'amplify sound' 'audio equipment'
+ 'sound systems' 'car stereo' 'audio recorders' 'sound amplifiers'
+ 'audio recordings' 'listening']
+**con_intersection: ['grammar', 'phonology']
+**extra_cons_in_predicted_cluster: ['acoustics', 'audiology', 'electronics', 'ethnography', 'ethnology']
+
+**cluster_label: 1246
+**predicted_cluster_con: ['phonology', 'solid state physics']
+**predicted_cluster_prop: ['distinctive sounds' 'phonons' 'minimal units of sound' 'phonemes'
+ 'allophones' 'units of sound' 'minimal pairs']
+**con_intersection: ['phonology']
+**extra_cons_in_predicted_cluster: ['solid state physics']
+
+**cluster_label: 2335
+**predicted_cluster_con: ['electronics', 'phonology']
+**predicted_cluster_prop: ['phone' 'making phone calls' 'making calls' 'phones']
+**con_intersection: ['phonology']
+**extra_cons_in_predicted_cluster: ['electronics']
+
+********************
+**gold_taxo_property: taxonomy
+**gold_taxo_cons: ['cladistics']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: metallurgy
+**gold_taxo_cons: ['powder metallurgy']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: statistics
+**gold_taxo_cons: ['biometrics', 'correlation', 'nonparametric statistics']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [107, 328]
+**cluster_label: 107
+**predicted_cluster_con: ['biometrics']
+**predicted_cluster_prop: ['door' 'access control']
+**con_intersection: ['biometrics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 328
+**predicted_cluster_con: ['nonparametric statistics']
+**predicted_cluster_prop: ['less sensitive to distribution' 'no assumptions on distribution'
+ 'distribution-free']
+**con_intersection: ['nonparametric statistics']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: applied mathematics
+**gold_taxo_cons: ['linear programming', 'probability theory', 'statistics']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [126, 498, 1972]
+**cluster_label: 126
+**predicted_cluster_con: ['linear programming', 'strategy']
+**predicted_cluster_prop: ['production planning' 'project management' 'supply chain management']
+**con_intersection: ['linear programming']
+**extra_cons_in_predicted_cluster: ['strategy']
+
+**cluster_label: 498
+**predicted_cluster_con: ['correlation', 'linear programming']
+**predicted_cluster_prop: ['dependence' 'constraints' 'linear' 'constraint function'
+ 'linear inequality' 'linear equations']
+**con_intersection: ['linear programming']
+**extra_cons_in_predicted_cluster: ['correlation']
+
+**cluster_label: 1972
+**predicted_cluster_con: ['analysis', 'linear programming']
+**predicted_cluster_prop: ['simplex method' 'bounded solution' 'gradient method' 'mixed-methods']
+**con_intersection: ['linear programming']
+**extra_cons_in_predicted_cluster: ['analysis']
+
+********************
+**gold_taxo_property: paleozoology
+**gold_taxo_cons: ['paleomammalogy', 'paleornithology']
+**best_jaccard_index: 0.2
+**best_jaccard_clusters: [834, 869, 2059]
+**cluster_label: 834
+**predicted_cluster_con: ['oology', 'ornithology', 'paleornithology', 'zoology']
+**predicted_cluster_prop: ['prehistoric bird behavior' 'prehistoric birds' 'bird evolution'
+ 'ancient bird fossils' 'prehistoric bird evolution'
+ 'study of ancient birds' 'understanding modern bird diversity'
+ 'extinct bird species' 'study of bird evolution'
+ 'from tiny insects to giant mammals' 'bird biology'
+ 'prehistoric bird migration' 'ancient bird behavior'
+ 'prehistoric bird species' 'fossilized bird remains']
+**con_intersection: ['paleornithology']
+**extra_cons_in_predicted_cluster: ['oology', 'ornithology', 'zoology']
+
+**cluster_label: 869
+**predicted_cluster_con: ['biogeography', 'paleoanthropology', 'paleobiology', 'paleoecology', 'paleogeology', 'paleomammalogy', 'paleontology', 'paleornithology', 'paleozoology', 'vertebrate paleontology']
+**predicted_cluster_prop: ['extinction events' 'extinction of species' 'mass extinctions'
+ 'extinction' 'extinction of non-mammalian synapsids'
+ 'what caused mass extinctions' 'extinction patterns']
+**con_intersection: ['paleomammalogy', 'paleornithology']
+**extra_cons_in_predicted_cluster: ['biogeography', 'paleoanthropology', 'paleobiology', 'paleoecology', 'paleogeology', 'paleontology', 'paleozoology', 'vertebrate paleontology']
+
+**cluster_label: 2059
+**predicted_cluster_con: ['biogeography', 'oology', 'ornithology', 'paleornithology']
+**predicted_cluster_prop: ['bird migration' 'birds' 'species migration' 'avian migration']
+**con_intersection: ['paleornithology']
+**extra_cons_in_predicted_cluster: ['biogeography', 'oology', 'ornithology']
+
+********************
+**gold_taxo_property: information science
+**gold_taxo_cons: ['cybernetics', 'natural language processing']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [538, 1668]
+**cluster_label: 538
+**predicted_cluster_con: ['applied mathematics', 'cybernetics']
+**predicted_cluster_prop: ['influence of machines on humans'
+ 'influence of machines on living beings' 'robotics'
+ 'influence of machines on human' 'technology']
+**con_intersection: ['cybernetics']
+**extra_cons_in_predicted_cluster: ['applied mathematics']
+
+**cluster_label: 1668
+**predicted_cluster_con: ['cybernetics', 'orthoepy']
+**predicted_cluster_prop: ['feedback loop' 'feedback' 'negative feedback']
+**con_intersection: ['cybernetics']
+**extra_cons_in_predicted_cluster: ['orthoepy']
+
+********************
+**gold_taxo_property: geometry
+**gold_taxo_cons: ['affine geometry', 'analytic geometry', 'elementary geometry', 'fractal geometry', 'non euclidean geometry', 'plane geometry', 'projective geometry', 'solid geometry', 'spherical geometry']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [378, 386]
+**cluster_label: 378
+**predicted_cluster_con: ['analytic geometry', 'elementary geometry', 'geometry', 'plane geometry', 'solid geometry', 'spherical geometry']
+**predicted_cluster_prop: ['quadrilaterals' 'circle' 'circles' 'spheres' 'great circles']
+**con_intersection: ['analytic geometry', 'elementary geometry', 'plane geometry', 'solid geometry', 'spherical geometry']
+**extra_cons_in_predicted_cluster: ['geometry']
+
+**cluster_label: 386
+**predicted_cluster_con: ['analytic geometry', 'elementary geometry', 'geometry', 'plane geometry', 'projective geometry', 'solid geometry']
+**predicted_cluster_prop: ['point' 'points']
+**con_intersection: ['analytic geometry', 'elementary geometry', 'plane geometry', 'projective geometry', 'solid geometry']
+**extra_cons_in_predicted_cluster: ['geometry']
+
+********************
+**gold_taxo_property: forestry
+**gold_taxo_cons: ['silviculture', 'undercut']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [614, 760]
+**cluster_label: 614
+**predicted_cluster_con: ['forestry', 'silviculture']
+**predicted_cluster_prop: ['carbon sequestration' 'oxygen production']
+**con_intersection: ['silviculture']
+**extra_cons_in_predicted_cluster: ['forestry']
+
+**cluster_label: 760
+**predicted_cluster_con: ['forestry', 'silviculture']
+**predicted_cluster_prop: ['science of forestry' 'forest ecology' 'forestry'
+ 'science of cultivating forests' 'study of forest management'
+ 'forest management']
+**con_intersection: ['silviculture']
+**extra_cons_in_predicted_cluster: ['forestry']
+
+********************
+**gold_taxo_property: biomedicine
+**gold_taxo_cons: ['aeromedicine']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: geography
+**gold_taxo_cons: ['economic geography', 'physical geography', 'topography']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [1292]
+**cluster_label: 1292
+**predicted_cluster_con: ['physical geography', 'topography']
+**predicted_cluster_prop: ['canyon' 'canyons' 'gorge']
+**con_intersection: ['physical geography', 'topography']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: psychiatry
+**gold_taxo_cons: ['alienism', 'psychotherapy']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1918]
+**cluster_label: 1918
+**predicted_cluster_con: ['analysis', 'psychotherapy']
+**predicted_cluster_prop: ['insights' 'insight']
+**con_intersection: ['psychotherapy']
+**extra_cons_in_predicted_cluster: ['analysis']
+
+********************
+**gold_taxo_property: immunology
+**gold_taxo_cons: ['immunochemistry', 'immunopathology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2132]
+**cluster_label: 2132
+**predicted_cluster_con: ['immunochemistry']
+**predicted_cluster_prop: ['immune surveillance' 'antigen-antibody binding'
+ 'antigen-antibody reaction']
+**con_intersection: ['immunochemistry']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: mechanics
+**gold_taxo_cons: ['aeromechanics', 'classical mechanics', 'dynamics', 'fluid mechanics', 'kinematics', 'pneumatics', 'statics']
+**best_jaccard_index: 0.4615
+**best_jaccard_clusters: [1827]
+**cluster_label: 1827
+**predicted_cluster_con: ['aeromechanics', 'applied mathematics', 'classical mechanics', 'dynamics', 'hydrodynamics', 'hydrostatics', 'kinematics', 'mechanics', 'physical chemistry', 'pneumatics', 'sociolinguistics', 'statics']
+**predicted_cluster_prop: ['dynamics' 'kinematics' 'fluid dynamics' 'reaction kinetics'
+ 'dynamics of rigid bodies' 'kinetics' 'turbulence' 'power dynamics'
+ 'dynamics of a system']
+**con_intersection: ['aeromechanics', 'classical mechanics', 'dynamics', 'kinematics', 'pneumatics', 'statics']
+**extra_cons_in_predicted_cluster: ['applied mathematics', 'hydrodynamics', 'hydrostatics', 'mechanics', 'physical chemistry', 'sociolinguistics']
+
+********************
+**gold_taxo_property: semantics
+**gold_taxo_cons: ['cognitive semantics', 'deixis', 'formal semantics', 'lexical semantics']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1492]
+**cluster_label: 1492
+**predicted_cluster_con: ['formal semantics', 'lexical semantics', 'metamathematics', 'semantics']
+**predicted_cluster_prop: ['categorical semantics' 'category theory' 'category-theoretic'
+ 'proof-theoretic semantics' 'truth-conditional semantics'
+ 'formal semantics' 'computational semantics' 'word sense induction'
+ 'denotational semantics' 'pragmatic semantics' 'distributional semantics'
+ 'compositional semantics' 'model-theoretic semantics'
+ 'cognitive semantics']
+**con_intersection: ['formal semantics', 'lexical semantics']
+**extra_cons_in_predicted_cluster: ['metamathematics', 'semantics']
+
+********************
+**gold_taxo_property: natural science
+**gold_taxo_cons: ['chemistry', 'cosmography', 'earth science', 'life science', 'physics']
+**best_jaccard_index: 0.2222
+**best_jaccard_clusters: [909]
+**cluster_label: 909
+**predicted_cluster_con: ['chemistry', 'cosmology', 'natural science', 'particle physics', 'physical chemistry', 'physics']
+**predicted_cluster_prop: ['matter']
+**con_intersection: ['chemistry', 'physics']
+**extra_cons_in_predicted_cluster: ['cosmology', 'natural science', 'particle physics', 'physical chemistry']
+
+********************
+**gold_taxo_property: cognitive psychology
+**gold_taxo_cons: ['memory', 'problem solving', 'psycholinguistics']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [290]
+**cluster_label: 290
+**predicted_cluster_con: ['memory']
+**predicted_cluster_prop: ['limited' 'variable']
+**con_intersection: ['memory']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: dentistry
+**gold_taxo_cons: ['cosmetic dentistry', 'dental surgery', 'endodontics', 'orthodontics', 'periodontics', 'prosthodontics']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [1738, 1974]
+**cluster_label: 1738
+**predicted_cluster_con: ['cosmetic dentistry', 'craniology', 'dental surgery', 'dentistry', 'endodontics', 'exodontics', 'orthodontics', 'periodontics', 'prosthodontics']
+**predicted_cluster_prop: ['dentist' 'dental hygienist' 'dentists' 'oral surgeon' 'oral surgeons'
+ 'general dentist' 'specialized dentist']
+**con_intersection: ['cosmetic dentistry', 'dental surgery', 'endodontics', 'orthodontics', 'periodontics', 'prosthodontics']
+**extra_cons_in_predicted_cluster: ['craniology', 'dentistry', 'exodontics']
+
+**cluster_label: 1974
+**predicted_cluster_con: ['cosmetic dentistry', 'craniology', 'dental surgery', 'dentistry', 'endodontics', 'exodontics', 'orthodontics', 'periodontics', 'prosthodontics']
+**predicted_cluster_prop: ['oral surgeon' 'orthodontist' 'orthodontic specialist' 'prosthodontists'
+ 'prosthodontist' 'endodontist' 'orthodontists' 'periodontists'
+ 'oral surgeons' 'endodontists']
+**con_intersection: ['cosmetic dentistry', 'dental surgery', 'endodontics', 'orthodontics', 'periodontics', 'prosthodontics']
+**extra_cons_in_predicted_cluster: ['craniology', 'dentistry', 'exodontics']
+
+********************
+**gold_taxo_property: experimental psychology
+**gold_taxo_cons: ['behaviorism', 'psychophysics']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [149, 1199, 1249, 2115]
+**cluster_label: 149
+**predicted_cluster_con: ['functional anatomy', 'otology', 'psychophysics']
+**predicted_cluster_prop: ['designing prosthetic limbs' 'developing sensory technologies'
+ 'understanding sensory impairments' 'sensory evaluation'
+ 'developing sensory substitution devices' 'development of hearing aids'
+ 'optimizing sensory experiences' 'designing sensory experiences'
+ 'developing sensory aids']
+**con_intersection: ['psychophysics']
+**extra_cons_in_predicted_cluster: ['functional anatomy', 'otology']
+
+**cluster_label: 1199
+**predicted_cluster_con: ['behaviorism', 'experimental psychology', 'psychology']
+**predicted_cluster_prop: ['b.f. skinner' 'skinner']
+**con_intersection: ['behaviorism']
+**extra_cons_in_predicted_cluster: ['experimental psychology', 'psychology']
+
+**cluster_label: 1249
+**predicted_cluster_con: ['neonatology', 'psychophysics', 'toxicology']
+**predicted_cluster_prop: ['nicu' 'threshold' 'difference threshold' 'absolute threshold'
+ 'threshold levels']
+**con_intersection: ['psychophysics']
+**extra_cons_in_predicted_cluster: ['neonatology', 'toxicology']
+
+**cluster_label: 2115
+**predicted_cluster_con: ['audiology', 'behaviorism', 'cognitive neuroscience', 'comparative psychology', 'physiological psychology', 'phytochemistry', 'psychophysics', 'psychotherapy']
+**predicted_cluster_prop: ['conditioning' 'operant conditioning' 'behavioural adaptation'
+ 'classical conditioning' 'plant defense mechanisms'
+ 'behavioral conditioning' 'sensory integration' 'stimulus-response'
+ 'behavioral techniques' 'auditory brainstem response']
+**con_intersection: ['behaviorism', 'psychophysics']
+**extra_cons_in_predicted_cluster: ['audiology', 'cognitive neuroscience', 'comparative psychology', 'physiological psychology', 'phytochemistry', 'psychotherapy']
+
+********************
+**gold_taxo_property: archeology
+**gold_taxo_cons: ['assyriology', 'egyptology', 'marine archeology', 'paleoclimatology', 'paleoethnography', 'paleogeography', 'paleography', 'paleology', 'paleopathology', 'paletiology', 'protohistory', 'sumerology']
+**best_jaccard_index: 0.5333
+**best_jaccard_clusters: [57]
+**cluster_label: 57
+**predicted_cluster_con: ['archeology', 'assyriology', 'craniology', 'egyptology', 'paleoclimatology', 'paleodendrology', 'paleoethnography', 'paleogeography', 'paleopathology', 'protohistory', 'sumerology']
+**predicted_cluster_prop: ['shedding light on ancient societies' 'studying ancient civilizations'
+ 'study of early empires' 'documenting lost cultures'
+ 'understanding modern-day egypt' 'understanding past societies'
+ 'reconstructing ancient societies' 'historical artifacts'
+ 'reconstructing past cultures' 'insights into ancient society'
+ 'historical' 'understanding ancient civilizations'
+ 'understanding ancient societies' 'reconstructing ancient lifestyles'
+ 'understanding ancient mesopotamian society'
+ 'understanding ancient cultures' 'anthropological research'
+ 'reconstructing ancient cultures' 'history of mesopotamia'
+ 'reconstructing past societies']
+**con_intersection: ['assyriology', 'egyptology', 'paleoclimatology', 'paleoethnography', 'paleogeography', 'paleopathology', 'protohistory', 'sumerology']
+**extra_cons_in_predicted_cluster: ['archeology', 'craniology', 'paleodendrology']
+
+********************
+**gold_taxo_property: paleobiology
+**gold_taxo_cons: ['paleobotany', 'paleozoology']
+**best_jaccard_index: 0.2222
+**best_jaccard_clusters: [2199]
+**cluster_label: 2199
+**predicted_cluster_con: ['archeology', 'compound morphology', 'dentistry', 'paleobotany', 'paleontology', 'paleozoology', 'protoarcheology', 'stratigraphy', 'vertebrate paleontology']
+**predicted_cluster_prop: ['brushes' 'toothbrush' 'brush' 'fossil brushes' 'polisher']
+**con_intersection: ['paleobotany', 'paleozoology']
+**extra_cons_in_predicted_cluster: ['archeology', 'compound morphology', 'dentistry', 'paleontology', 'protoarcheology', 'stratigraphy', 'vertebrate paleontology']
+
+********************
+**gold_taxo_property: pure mathematics
+**gold_taxo_cons: ['algebra', 'arithmetic', 'calculus', 'geometry', 'group theory', 'metamathematics', 'numerical analysis', 'set theory', 'topology', 'trigonometry']
+**best_jaccard_index: 0.4667
+**best_jaccard_clusters: [442]
+**cluster_label: 442
+**predicted_cluster_con: ['algebra', 'applied mathematics', 'arithmetic', 'calculus', 'group theory', 'integral calculus', 'linear algebra', 'metamathematics', 'quantum electrodynamics', 'quantum field theory', 'set theory', 'topology']
+**predicted_cluster_prop: ['the nature of mathematical proof'
+ 'underlying structure of many mathematical objects'
+ 'foundational in mathematics' 'foundation for other math fields'
+ 'foundational to mathematics' 'foundations of abstract algebra'
+ 'mathematical language' 'foundations of mathematics' 'mathematical truth'
+ 'mathematics' 'infinitesimal changes'
+ 'underlying structure for many mathematical systems' 'mathematical rigor'
+ 'mathematical framework' 'mathematical concept'
+ 'the foundations of mathematics' 'the nature of mathematical truth'
+ 'nature of mathematical truth' 'connection to calculus'
+ 'pure mathematics' 'foundation of math' 'foundational to math'
+ 'what are the foundations of mathematics?'
+ 'connected to other areas of mathematics' 'mathematical logic']
+**con_intersection: ['algebra', 'arithmetic', 'calculus', 'group theory', 'metamathematics', 'set theory', 'topology']
+**extra_cons_in_predicted_cluster: ['applied mathematics', 'integral calculus', 'linear algebra', 'quantum electrodynamics', 'quantum field theory']
+
+********************
+**gold_taxo_property: molecular biology
+**gold_taxo_cons: ['biotechnology']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [2100]
+**cluster_label: 2100
+**predicted_cluster_con: ['biotechnology', 'cytology', 'virology']
+**predicted_cluster_prop: ['cell culture']
+**con_intersection: ['biotechnology']
+**extra_cons_in_predicted_cluster: ['cytology', 'virology']
+
+********************
+**gold_taxo_property: astronomy
+**gold_taxo_cons: ['astrodynamics', 'astrometry', 'astrophysics', 'celestial mechanics', 'radio astronomy', 'selenology', 'solar physics']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2002]
+**cluster_label: 2002
+**predicted_cluster_con: ['astrometry', 'astronomy', 'astrophysics', 'celestial mechanics', 'cosmography', 'cosmology', 'radio astronomy', 'solar physics']
+**predicted_cluster_prop: ['galaxies' 'formation of galaxies' 'study of galaxies' 'solar flares'
+ 'evolution of stars' 'black holes' 'galaxy formation'
+ 'cosmic microwave background' 'behavior of galaxies' 'stellar evolution'
+ 'study of the universe' 'formation of stars' 'galaxy evolution'
+ 'modern astrophysics' 'star formation']
+**con_intersection: ['astrometry', 'astrophysics', 'celestial mechanics', 'radio astronomy', 'solar physics']
+**extra_cons_in_predicted_cluster: ['astronomy', 'cosmography', 'cosmology']
+
+********************
+**gold_taxo_property: biochemistry
+**gold_taxo_cons: ['enzymology', 'zymology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [2088]
+**cluster_label: 2088
+**predicted_cluster_con: ['enzymology']
+**predicted_cluster_prop: ['low' 'catalytic' 'highly specific' 'substrate specificity'
+ 'specific to substrate' 'heat labile' 'substrate concentration' 'high']
+**con_intersection: ['enzymology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: medical science
+**gold_taxo_cons: ['medicine', 'neurology', 'orthopedics', 'pathology', 'radiology', 'serology', 'surgery']
+**best_jaccard_index: 0.2727
+**best_jaccard_clusters: [136]
+**cluster_label: 136
+**predicted_cluster_con: ['hemodynamics', 'immunopathology', 'nuclear medicine', 'oncology', 'pathology', 'radiology', 'serology']
+**predicted_cluster_prop: ['monitoring disease progression' 'detecting tumors' 'monitoring disease'
+ 'tracking disease progression' 'monitoring of surgical patients'
+ 'monitoring of immune response' 'cancer detection'
+ 'monitoring surgical patients' 'monitoring of disease progression']
+**con_intersection: ['pathology', 'radiology', 'serology']
+**extra_cons_in_predicted_cluster: ['hemodynamics', 'immunopathology', 'nuclear medicine', 'oncology']
+
+********************
+**gold_taxo_property: optics
+**gold_taxo_cons: ['catoptrics', 'holography']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1167]
+**cluster_label: 1167
+**predicted_cluster_con: ['catoptrics', 'optics']
+**predicted_cluster_prop: ['fresnel']
+**con_intersection: ['catoptrics']
+**extra_cons_in_predicted_cluster: ['optics']
+
+********************
+**gold_taxo_property: pharmacology
+**gold_taxo_cons: ['pharmacokinetics', 'posology', 'psychopharmacology', 'toxicology']
+**best_jaccard_index: 0.375
+**best_jaccard_clusters: [801, 1677]
+**cluster_label: 801
+**predicted_cluster_con: ['immunochemistry', 'pharmacokinetics', 'pharmacology', 'physiological psychology', 'psychopharmacology', 'therapeutics', 'toxicology']
+**predicted_cluster_prop: ['study of how body metabolizes' 'study of drug action'
+ 'study of the adverse effects of chemicals' 'medications' 'drugs'
+ "drugs' effects" 'study of drugs' 'study of drug effects on mind'
+ 'study of drug movement' 'study of the effects of drugs on the mind'
+ 'pharmacogenomics' 'study of effects of drugs on mind'
+ 'study of how body handles drugs' 'study of drug effects'
+ 'how drugs interact with body' 'study of poisons' 'study of antibodies'
+ 'study of psychoactive substances' 'study of drug interactions'
+ 'study of antigens' 'understanding of addiction'
+ 'studying medication interactions' 'study of drug distribution'
+ 'scientific study of the adverse effects of chemicals'
+ 'study of drug absorption' 'study of drug excretion'
+ 'study of drug metabolism' 'study of immune system']
+**con_intersection: ['pharmacokinetics', 'psychopharmacology', 'toxicology']
+**extra_cons_in_predicted_cluster: ['immunochemistry', 'pharmacology', 'physiological psychology', 'therapeutics']
+
+**cluster_label: 1677
+**predicted_cluster_con: ['immunochemistry', 'pharmacogenetics', 'pharmacokinetics', 'psychopharmacology', 'psychophysics', 'radiobiology', 'toxicology']
+**predicted_cluster_prop: ['immune tolerance' 'stimulus-response relationship' 'pharmacodynamics'
+ 'radiation sensitivity' 'influence on drug response'
+ 'dose response curve' 'dose' 'pharmacokinetics'
+ 'dose-response relationship' 'dose response' 'dose-response']
+**con_intersection: ['pharmacokinetics', 'psychopharmacology', 'toxicology']
+**extra_cons_in_predicted_cluster: ['immunochemistry', 'pharmacogenetics', 'psychophysics', 'radiobiology']
+
+********************
+**gold_taxo_property: quantum mechanics
+**gold_taxo_cons: ['wave mechanics']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: hydrodynamics
+**gold_taxo_cons: ['magnetohydrodynamics']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: trigonometry
+**gold_taxo_cons: ['spherical trigonometry', 'triangulation']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [598, 2289]
+**cluster_label: 598
+**predicted_cluster_con: ['proxemics', 'triangulation']
+**predicted_cluster_prop: ['0-18 inches' '1.5-4 feet' 'more than 25 feet' '4-12 feet' 'circumcenter'
+ '12-25 feet']
+**con_intersection: ['triangulation']
+**extra_cons_in_predicted_cluster: ['proxemics']
+
+**cluster_label: 2289
+**predicted_cluster_con: ['hyperbolic geometry', 'triangulation']
+**predicted_cluster_prop: ['klein bottle' 'delaunay' 'delaunay mesh' 'delaunay refinement']
+**con_intersection: ['triangulation']
+**extra_cons_in_predicted_cluster: ['hyperbolic geometry']
+
+********************
+**gold_taxo_property: paleography
+**gold_taxo_cons: ['epigraphy']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: non euclidean geometry
+**gold_taxo_cons: ['elliptic geometry', 'hyperbolic geometry']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [2289]
+**cluster_label: 2289
+**predicted_cluster_con: ['hyperbolic geometry', 'triangulation']
+**predicted_cluster_prop: ['klein bottle' 'delaunay' 'delaunay mesh' 'delaunay refinement']
+**con_intersection: ['hyperbolic geometry']
+**extra_cons_in_predicted_cluster: ['triangulation']
+
+********************
+**gold_taxo_property: genomics
+**gold_taxo_cons: ['functional genomics', 'structural genomics']
+**best_jaccard_index: 0.2
+**best_jaccard_clusters: [1558]
+**cluster_label: 1558
+**predicted_cluster_con: ['biochemistry', 'microscopic anatomy', 'molecular biology', 'structural genomics']
+**predicted_cluster_prop: ['protein structures' 'protein function' 'protein structure'
+ 'protein-protein interactions' 'protein synthesis'
+ 'protein-ligand complexes' 'protein-ligand interactions']
+**con_intersection: ['structural genomics']
+**extra_cons_in_predicted_cluster: ['biochemistry', 'microscopic anatomy', 'molecular biology']
+
+********************
+**gold_taxo_property: economic geology
+**gold_taxo_cons: ['mining geology', 'petroleum geology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1307]
+**cluster_label: 1307
+**predicted_cluster_con: ['petroleum geology']
+**predicted_cluster_prop: ['subsea' 'gas well' 'oil field' 'oil fields' 'gas fields']
+**con_intersection: ['petroleum geology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: social science
+**gold_taxo_cons: ['anthropology', 'civics', 'economics', 'home economics', 'politics', 'proxemics', 'sociology']
+**best_jaccard_index: 0.375
+**best_jaccard_clusters: [1620]
+**cluster_label: 1620
+**predicted_cluster_con: ['civics', 'economics', 'home economics', 'ritualism']
+**predicted_cluster_prop: ['groups' 'country' 'family' 'individuals' 'world' 'community'
+ 'communities']
+**con_intersection: ['civics', 'economics', 'home economics']
+**extra_cons_in_predicted_cluster: ['ritualism']
+
+********************
+**gold_taxo_property: mathematics
+**gold_taxo_cons: ['applied mathematics', 'pure mathematics']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [538, 1123, 1298, 1615]
+**cluster_label: 538
+**predicted_cluster_con: ['applied mathematics', 'cybernetics']
+**predicted_cluster_prop: ['influence of machines on humans'
+ 'influence of machines on living beings' 'robotics'
+ 'influence of machines on human' 'technology']
+**con_intersection: ['applied mathematics']
+**extra_cons_in_predicted_cluster: ['cybernetics']
+
+**cluster_label: 1123
+**predicted_cluster_con: ['applied mathematics', 'calculus', 'differential calculus', 'integral calculus', 'numerical analysis', 'pure mathematics']
+**predicted_cluster_prop: ['optimization' 'with optimization' 'optimization problems']
+**con_intersection: ['applied mathematics', 'pure mathematics']
+**extra_cons_in_predicted_cluster: ['calculus', 'differential calculus', 'integral calculus', 'numerical analysis']
+
+**cluster_label: 1298
+**predicted_cluster_con: ['algebra', 'pure mathematics']
+**predicted_cluster_prop: ['highly abstract' 'abstract' 'symbolic' 'abstract entities'
+ 'abstract structures']
+**con_intersection: ['pure mathematics']
+**extra_cons_in_predicted_cluster: ['algebra']
+
+**cluster_label: 1615
+**predicted_cluster_con: ['applied mathematics', 'cryptanalysis', 'cybernetics', 'finance', 'group theory', 'pure mathematics']
+**predicted_cluster_prop: ['cryptography' 'key search' 'secure communication'
+ 'cryptanalysis by pattern' 'used in cryptography'
+ 'differential cryptanalysis' 'cybersecurity' 'encryption algorithms'
+ 'black box' 'ciphertext analysis' 'cryptology' 'key recovery'
+ 'public-key cryptography' 'linear cryptanalysis' 'cryptocurrency']
+**con_intersection: ['applied mathematics', 'pure mathematics']
+**extra_cons_in_predicted_cluster: ['cryptanalysis', 'cybernetics', 'finance', 'group theory']
+
+********************
+**gold_taxo_property: neurobiology
+**gold_taxo_cons: ['neuroscience']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [170]
+**cluster_label: 170
+**predicted_cluster_con: ['cognitive neuroscience', 'neurolinguistics', 'neurophysiology', 'neuroscience']
+**predicted_cluster_prop: ['brain-computer interfaces' 'brain-machine interfaces']
+**con_intersection: ['neuroscience']
+**extra_cons_in_predicted_cluster: ['cognitive neuroscience', 'neurolinguistics', 'neurophysiology']
+
+********************
+**gold_taxo_property: syntax
+**gold_taxo_cons: ['generative grammar']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: obstetrics
+**gold_taxo_cons: ['fetology', 'perinatology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [189, 698]
+**cluster_label: 189
+**predicted_cluster_con: ['fetology', 'obstetrics', 'pediatrics', 'perinatology']
+**predicted_cluster_prop: ['electronic fetal monitoring' 'fetal monitoring'
+ 'assessing fetal well-being' 'monitoring fetal health'
+ 'predicting fetal outcomes' 'growth monitoring' 'fetal monitor']
+**con_intersection: ['fetology', 'perinatology']
+**extra_cons_in_predicted_cluster: ['obstetrics', 'pediatrics']
+
+**cluster_label: 698
+**predicted_cluster_con: ['fetology', 'gynecology', 'obstetrics', 'perinatology']
+**predicted_cluster_prop: ["study of women's health" "women's health" 'maternal-fetal medicine'
+ 'specialized in childbirth' 'caring for pregnant women'
+ "women's diseases" 'reproductive medicine'
+ 'specialized care for pregnant women' 'concerned with pregnancy'
+ 'pregnancy and childbirth' 'study of female reproductive system'
+ 'specializing in pregnancy' 'concerned with female reproductive system'
+ 'study of fetal development' "women's reproductive system"
+ 'specialization in pregnancy' 'concerned with childbirth'
+ 'specializes in pregnancy' 'labor and delivery'
+ 'diagnosis and treatment of female disorders' 'pregnancy']
+**con_intersection: ['fetology', 'perinatology']
+**extra_cons_in_predicted_cluster: ['gynecology', 'obstetrics']
+
+********************
+**gold_taxo_property: oceanography
+**gold_taxo_cons: ['hydrography']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: entomology
+**gold_taxo_cons: ['lepidopterology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1207]
+**cluster_label: 1207
+**predicted_cluster_con: ['entomology', 'lepidopterology']
+**predicted_cluster_prop: ['butterflies' 'ants' 'bees' 'moths' 'beetles' 'butterfly' 'insect' 'moth']
+**con_intersection: ['lepidopterology']
+**extra_cons_in_predicted_cluster: ['entomology']
+
+********************
+**gold_taxo_property: psychodynamics
+**gold_taxo_cons: ['group dynamics']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: physical anthropology
+**gold_taxo_cons: ['craniometry']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1832]
+**cluster_label: 1832
+**predicted_cluster_con: ['craniometry', 'eugenics']
+**predicted_cluster_prop: ['racist' 'racism' 'scientific racism' 'racial differences']
+**con_intersection: ['craniometry']
+**extra_cons_in_predicted_cluster: ['eugenics']
+
+********************
+**gold_taxo_property: arithmetic
+**gold_taxo_cons: ['algorism']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: craniology
+**gold_taxo_cons: ['phrenology']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [241, 955]
+**cluster_label: 241
+**predicted_cluster_con: ['phrenology']
+**predicted_cluster_prop: ['linking skull shape to intelligence'
+ 'brain shape determines personality'
+ 'different parts of the brain control different personality traits'
+ 'intelligence can be measured by skull shape'
+ 'correlation between head shape and intelligence'
+ 'linking skull shape to personality']
+**con_intersection: ['phrenology']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 955
+**predicted_cluster_con: ['phrenology']
+**predicted_cluster_prop: ['influenced by franz joseph gall' 'franz joseph gall']
+**con_intersection: ['phrenology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: analysis
+**gold_taxo_cons: ['fourier analysis']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [113]
+**cluster_label: 113
+**predicted_cluster_con: ['fourier analysis']
+**predicted_cluster_prop: ['modulation']
+**con_intersection: ['fourier analysis']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: dynamics
+**gold_taxo_cons: ['ballistics']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: pathology
+**gold_taxo_cons: ['paleopathology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [555, 2350]
+**cluster_label: 555
+**predicted_cluster_con: ['paleopathology', 'social anthropology']
+**predicted_cluster_prop: ['study of ancient diseases' 'diseases of ancient populations'
+ 'identification of diseases in ancient populations'
+ 'understanding disease patterns in ancient populations'
+ 'study of ancient populations'
+ 'application of modern medical knowledge to ancient remains'
+ 'study of diseases in ancient populations'
+ 'health and wellness in ancient populations' 'medical anthropology'
+ 'epidemiology of ancient societies' 'diseases in ancient populations'
+ 'reconstructing ancient diets and lifestyles']
+**con_intersection: ['paleopathology']
+**extra_cons_in_predicted_cluster: ['social anthropology']
+
+**cluster_label: 2350
+**predicted_cluster_con: ['paleopathology', 'virology']
+**predicted_cluster_prop: ['viral culture' 'vector-borne' 'contact' 'airborne' 'disease spread'
+ 'vector-free' 'can cause disease' 'can be treated']
+**con_intersection: ['paleopathology']
+**extra_cons_in_predicted_cluster: ['virology']
+
+********************
+**gold_taxo_property: organic chemistry
+**gold_taxo_cons: ['biochemistry', 'phytochemistry']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [878]
+**cluster_label: 878
+**predicted_cluster_con: ['biochemistry', 'biotechnology', 'enzymology', 'phytochemistry']
+**predicted_cluster_prop: ['biological catalysts' 'enzymes' 'nucleic acids' 'catalysts'
+ 'plant secondary metabolites' 'enzyme inhibition' 'specific functions']
+**con_intersection: ['biochemistry', 'phytochemistry']
+**extra_cons_in_predicted_cluster: ['biotechnology', 'enzymology']
+
+********************
+**gold_taxo_property: group theory
+**gold_taxo_cons: ['galois theory']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: astrophysics
+**gold_taxo_cons: ['cosmology']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [1794]
+**cluster_label: 1794
+**predicted_cluster_con: ['cosmology']
+**predicted_cluster_prop: ['what is the fate of the universe?' 'what is the nature of time'
+ 'what is the fate of the universe' 'what caused the big bang?'
+ 'what is universe made of' 'universe has no center'
+ 'what happened in the beginning' 'what is the universe made of'
+ 'what is universe expanding into' 'what is the origin of the universe?'
+ 'what is the origin of the universe']
+**con_intersection: ['cosmology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: etymology
+**gold_taxo_cons: ['lexicostatistics']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: social psychology
+**gold_taxo_cons: ['psychodynamics']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1816]
+**cluster_label: 1816
+**predicted_cluster_con: ['penology', 'psychodynamics']
+**predicted_cluster_prop: ['corrections' 'compensation']
+**con_intersection: ['psychodynamics']
+**extra_cons_in_predicted_cluster: ['penology']
+
+********************
+**gold_taxo_property: systematics
+**gold_taxo_cons: ['biosystematics', 'taxonomy']
+**best_jaccard_index: 0.6667
+**best_jaccard_clusters: [1005, 1890]
+**cluster_label: 1005
+**predicted_cluster_con: ['biosystematics', 'systematics', 'taxonomy']
+**predicted_cluster_prop: ['organizing life forms' 'organize living organisms'
+ 'organizing living organisms' 'organizing living things']
+**con_intersection: ['biosystematics', 'taxonomy']
+**extra_cons_in_predicted_cluster: ['systematics']
+
+**cluster_label: 1890
+**predicted_cluster_con: ['biosystematics', 'politics', 'taxonomy']
+**predicted_cluster_prop: ['kingdom' 'monarchy' 'state']
+**con_intersection: ['biosystematics', 'taxonomy']
+**extra_cons_in_predicted_cluster: ['politics']
+
+********************
+**gold_taxo_property: thermodynamics
+**gold_taxo_cons: ['thermostatics']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: cytology
+**gold_taxo_cons: ['cytogenetics']
+**best_jaccard_index: 0.2
+**best_jaccard_clusters: [68]
+**cluster_label: 68
+**predicted_cluster_con: ['cytogenetics', 'developmental anatomy', 'genetics', 'molecular genetics', 'teratology']
+**predicted_cluster_prop: ['diagnosis of genetic disorders' 'diagnosing developmental disorders'
+ 'diagnosing genetic disorders' 'diagnosis of genetic diseases'
+ 'identifying genetic mutations' 'genetic mutations'
+ 'studying genetic diseases']
+**con_intersection: ['cytogenetics']
+**extra_cons_in_predicted_cluster: ['developmental anatomy', 'genetics', 'molecular genetics', 'teratology']
+
+********************
+**gold_taxo_property: geopolitics
+**gold_taxo_cons: ['geostrategy']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: physiology
+**gold_taxo_cons: ['hemodynamics', 'kinesiology', 'myology', 'neurophysiology']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [399, 531, 766, 1896, 2073]
+**cluster_label: 399
+**predicted_cluster_con: ['functional anatomy', 'kinesiology', 'myology', 'orthopedics']
+**predicted_cluster_prop: ['muscle movement' 'muscle types' 'muscle function' "body's movement"
+ 'muscle tone' 'muscle structure' 'muscle physiology' 'muscle']
+**con_intersection: ['kinesiology', 'myology']
+**extra_cons_in_predicted_cluster: ['functional anatomy', 'orthopedics']
+
+**cluster_label: 531
+**predicted_cluster_con: ['hemodynamics', 'kinematics', 'myology', 'pharmacokinetics']
+**predicted_cluster_prop: ['movement within body' 'movement through body' 'jerk'
+ 'muscle contraction' 'process of how body handles' 'movement of blood']
+**con_intersection: ['hemodynamics', 'myology']
+**extra_cons_in_predicted_cluster: ['kinematics', 'pharmacokinetics']
+
+**cluster_label: 766
+**predicted_cluster_con: ['functional anatomy', 'kinesiology', 'myology', 'physiology']
+**predicted_cluster_prop: ['muscle physiology' 'muscles' 'muscle anatomy' 'cardiovascular anatomy'
+ 'exercise physiology' 'skeletal muscle biology' 'kinesiology'
+ 'study of muscles' 'cardiovascular physiology']
+**con_intersection: ['kinesiology', 'myology']
+**extra_cons_in_predicted_cluster: ['functional anatomy', 'physiology']
+
+**cluster_label: 1896
+**predicted_cluster_con: ['memory', 'myology', 'neuroanatomy', 'neurophysiology']
+**predicted_cluster_prop: ['axons' 'dendrites' 'muscle fibers' 'axon' 'ganglion' 'neural pathways']
+**con_intersection: ['myology', 'neurophysiology']
+**extra_cons_in_predicted_cluster: ['memory', 'neuroanatomy']
+
+**cluster_label: 2073
+**predicted_cluster_con: ['cybernetics', 'kinesiology', 'neurophysiology', 'regional anatomy']
+**predicted_cluster_prop: ['motor control' 'motor learning' 'servomechanism' 'motor']
+**con_intersection: ['kinesiology', 'neurophysiology']
+**extra_cons_in_predicted_cluster: ['cybernetics', 'regional anatomy']
+
+********************
+**gold_taxo_property: vertebrate paleontology
+**gold_taxo_cons: ['paleoanthropology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1161]
+**cluster_label: 1161
+**predicted_cluster_con: ['paleoanthropology', 'paleontology']
+**predicted_cluster_prop: ['lucy']
+**con_intersection: ['paleoanthropology']
+**extra_cons_in_predicted_cluster: ['paleontology']
+
+********************
+**gold_taxo_property: dental surgery
+**gold_taxo_cons: ['exodontics']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1446, 1797, 2181, 2324]
+**cluster_label: 1446
+**predicted_cluster_con: ['exodontics', 'prosthodontics']
+**predicted_cluster_prop: ['denture' 'dentures' 'denture adjustments' 'denture fitting'
+ 'denture materials' 'preparation for dentures']
+**con_intersection: ['exodontics']
+**extra_cons_in_predicted_cluster: ['prosthodontics']
+
+**cluster_label: 1797
+**predicted_cluster_con: ['exodontics', 'orthodontics']
+**predicted_cluster_prop: ['overcrowding' 'crowding']
+**con_intersection: ['exodontics']
+**extra_cons_in_predicted_cluster: ['orthodontics']
+
+**cluster_label: 2181
+**predicted_cluster_con: ['exodontics', 'trigonometry']
+**predicted_cluster_prop: ['finding heights' 'elevators' 'elevator']
+**con_intersection: ['exodontics']
+**extra_cons_in_predicted_cluster: ['trigonometry']
+
+**cluster_label: 2324
+**predicted_cluster_con: ['dental anatomy', 'exodontics']
+**predicted_cluster_prop: ['incisors' 'premolar' 'wisdom teeth' 'molars' 'canines' 'premolars'
+ 'incisal' 'wisdom tooth' 'molar']
+**con_intersection: ['exodontics']
+**extra_cons_in_predicted_cluster: ['dental anatomy']
+
+********************
+**gold_taxo_property: topography
+**gold_taxo_cons: ['topology']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [1281]
+**cluster_label: 1281
+**predicted_cluster_con: ['topology']
+**predicted_cluster_prop: ['compactness']
+**con_intersection: ['topology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: acoustics
+**gold_taxo_cons: ['harmonics', 'phonetics']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [60, 497]
+**cluster_label: 60
+**predicted_cluster_con: ['acoustics', 'harmonics']
+**predicted_cluster_prop: ['music composition' 'music']
+**con_intersection: ['harmonics']
+**extra_cons_in_predicted_cluster: ['acoustics']
+
+**cluster_label: 497
+**predicted_cluster_con: ['harmonics', 'hygiene']
+**predicted_cluster_prop: ['residue' 'body odor' 'odors' 'unpleasant odor']
+**con_intersection: ['harmonics']
+**extra_cons_in_predicted_cluster: ['hygiene']
+
+********************
+**gold_taxo_property: climatology
+**gold_taxo_cons: ['bioclimatology']
+**best_jaccard_index: 0.2
+**best_jaccard_clusters: [468, 676, 1880]
+**cluster_label: 468
+**predicted_cluster_con: ['aerology', 'bioclimatology', 'climatology', 'hygiene', 'meteorology']
+**predicted_cluster_prop: ['humidity' 'proper ventilation']
+**con_intersection: ['bioclimatology']
+**extra_cons_in_predicted_cluster: ['aerology', 'climatology', 'hygiene', 'meteorology']
+
+**cluster_label: 676
+**predicted_cluster_con: ['aerology', 'bioclimatology', 'climatology', 'earth science', 'meteorology']
+**predicted_cluster_prop: ['study of weather' 'study of climate and weather' 'weather forecasting'
+ 'weather patterns' 'study of weather and climate' 'weather']
+**con_intersection: ['bioclimatology']
+**extra_cons_in_predicted_cluster: ['aerology', 'climatology', 'earth science', 'meteorology']
+
+**cluster_label: 1880
+**predicted_cluster_con: ['bioclimatology', 'electromagnetism', 'magnetism', 'optics', 'photochemistry']
+**predicted_cluster_prop: ['light' 'light intensity' 'caused by light' 'electromagnetic radiation'
+ 'light is a form of em' 'ultraviolet light' 'infrared light'
+ 'visible light']
+**con_intersection: ['bioclimatology']
+**extra_cons_in_predicted_cluster: ['electromagnetism', 'magnetism', 'optics', 'photochemistry']
+
+********************
+**gold_taxo_property: protohistory
+**gold_taxo_cons: ['protoarcheology']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [516]
+**cluster_label: 516
+**predicted_cluster_con: ['archeology', 'geography', 'protoarcheology', 'thermionics']
+**predicted_cluster_prop: ['cultural heritage' 'monuments' 'national parks' 'developed in the 1920s'
+ 'historical sites' 'cultural landmark' 'tourist attractions'
+ 'historical site']
+**con_intersection: ['protoarcheology']
+**extra_cons_in_predicted_cluster: ['archeology', 'geography', 'thermionics']
+
+********************
+**gold_taxo_property: partial correlation
+**gold_taxo_cons: ['first order correlation']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: embryology
+**gold_taxo_cons: ['teratology']
+**best_jaccard_index: 0.3333
+**best_jaccard_clusters: [1180]
+**cluster_label: 1180
+**predicted_cluster_con: ['endodontics', 'exodontics', 'teratology']
+**predicted_cluster_prop: ['cleft palate' 'impacted tooth' 'impacted wisdom teeth' 'tooth trauma'
+ 'impacted wisdom tooth' 'cracked tooth']
+**con_intersection: ['teratology']
+**extra_cons_in_predicted_cluster: ['endodontics', 'exodontics']
+
+********************
+**gold_taxo_property: politics
+**gold_taxo_cons: ['geopolitics', 'realpolitik']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [227]
+**cluster_label: 227
+**predicted_cluster_con: ['geopolitics', 'realpolitik']
+**predicted_cluster_prop: ['alliances' 'alliance']
+**con_intersection: ['geopolitics', 'realpolitik']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: ecology
+**gold_taxo_cons: ['paleoecology']
+**best_jaccard_index: 0.25
+**best_jaccard_clusters: [936]
+**cluster_label: 936
+**predicted_cluster_con: ['paleoclimatology', 'paleoecology', 'paleogeography', 'paleogeology']
+**predicted_cluster_prop: ['past climates' 'ancient climates' "earth's ancient climate"
+ 'ancient climate' 'prehistoric climate']
+**con_intersection: ['paleoecology']
+**extra_cons_in_predicted_cluster: ['paleoclimatology', 'paleogeography', 'paleogeology']
+
+********************
+**gold_taxo_property: behaviorism
+**gold_taxo_cons: ['reflexology']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: cryobiology
+**gold_taxo_cons: ['cryonics']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [1825, 1826]
+**cluster_label: 1825
+**predicted_cluster_con: ['cryonics']
+**predicted_cluster_prop: ['reincarnation' 'immortality' 'longevity']
+**con_intersection: ['cryonics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1826
+**predicted_cluster_con: ['cryonics']
+**predicted_cluster_prop: ['transhumanism']
+**con_intersection: ['cryonics']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: aeronautics
+**gold_taxo_cons: ['avionics']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [1209, 1309]
+**cluster_label: 1209
+**predicted_cluster_con: ['avionics']
+**predicted_cluster_prop: ['onboard' 'pilot' 'aircraft manufacturer' 'aviation mechanic']
+**con_intersection: ['avionics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1309
+**predicted_cluster_con: ['avionics']
+**predicted_cluster_prop: ['aircraft body' 'hangar' 'ground station' 'avionics bay' 'cockpit']
+**con_intersection: ['avionics']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: dietetics
+**gold_taxo_cons: ['macrobiotics']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [501, 574, 1064, 1696]
+**cluster_label: 501
+**predicted_cluster_con: ['macrobiotics']
+**predicted_cluster_prop: ['steaming' 'roasting' 'baking' 'cooked']
+**con_intersection: ['macrobiotics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 574
+**predicted_cluster_con: ['macrobiotics']
+**predicted_cluster_prop: ['plant-based' 'vegetables' 'vegetarian' 'wholesome']
+**con_intersection: ['macrobiotics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1064
+**predicted_cluster_con: ['macrobiotics']
+**predicted_cluster_prop: ['improves digestion' 'improved digestion' 'increased energy'
+ 'promotes digestive health' 'weight loss' 'increases energy' 'energy']
+**con_intersection: ['macrobiotics']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1696
+**predicted_cluster_con: ['macrobiotics']
+**predicted_cluster_prop: ['avoid animal products' 'avoid processed food' 'avoid refined sugar'
+ 'avoid meat' 'avoid dairy' 'avoid processed foods'
+ 'emphasize natural foods']
+**con_intersection: ['macrobiotics']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: criminology
+**gold_taxo_cons: ['penology']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [1213, 1496]
+**cluster_label: 1213
+**predicted_cluster_con: ['penology']
+**predicted_cluster_prop: ['correctional facilities' 'prison' 'probation offices' 'jail' 'prisons'
+ 'correctional facility' 'jails']
+**con_intersection: ['penology']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1496
+**predicted_cluster_con: ['penology']
+**predicted_cluster_prop: ['parole systems' 'parole' 'probation' 'incarceration']
+**con_intersection: ['penology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: pediatrics
+**gold_taxo_cons: ['neonatology']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [2256]
+**cluster_label: 2256
+**predicted_cluster_con: ['neonatology']
+**predicted_cluster_prop: ['ventilation']
+**con_intersection: ['neonatology']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: computational linguistics
+**gold_taxo_cons: ['machine translation']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: mammalogy
+**gold_taxo_cons: ['primatology']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: otology
+**gold_taxo_cons: ['audiology']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1497]
+**cluster_label: 1497
+**predicted_cluster_con: ['audiology', 'otology']
+**predicted_cluster_prop: ['hearing tests' 'audiometry' 'speech audiometry' 'hearing test']
+**con_intersection: ['audiology']
+**extra_cons_in_predicted_cluster: ['otology']
+
+********************
+**gold_taxo_property: vector algebra
+**gold_taxo_cons: ['decomposition']
+**best_jaccard_index: 0.0
+
+********************
+**gold_taxo_property: gross anatomy
+**gold_taxo_cons: ['dental anatomy']
+**best_jaccard_index: 1.0
+**best_jaccard_clusters: [970, 1561, 1562]
+**cluster_label: 970
+**predicted_cluster_con: ['dental anatomy']
+**predicted_cluster_prop: ['anchoring']
+**con_intersection: ['dental anatomy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1561
+**predicted_cluster_con: ['dental anatomy']
+**predicted_cluster_prop: ['cementum' 'pulp' 'dental nerves' 'periodontium' 'dentin'
+ 'cementum layer' 'enamel' 'pulp chamber' 'dental pulp' 'gums']
+**con_intersection: ['dental anatomy']
+**extra_cons_in_predicted_cluster: []
+
+**cluster_label: 1562
+**predicted_cluster_con: ['dental anatomy']
+**predicted_cluster_prop: ['cementum' 'cementum layer']
+**con_intersection: ['dental anatomy']
+**extra_cons_in_predicted_cluster: []
+
+********************
+**gold_taxo_property: phonology
+**gold_taxo_cons: ['orthoepy']
+**best_jaccard_index: 0.5
+**best_jaccard_clusters: [1668]
+**cluster_label: 1668
+**predicted_cluster_con: ['cybernetics', 'orthoepy']
+**predicted_cluster_prop: ['feedback loop' 'feedback' 'negative feedback']
+**con_intersection: ['orthoepy']
+**extra_cons_in_predicted_cluster: ['cybernetics']
+
+**avg_jaccard_index: 0.3824

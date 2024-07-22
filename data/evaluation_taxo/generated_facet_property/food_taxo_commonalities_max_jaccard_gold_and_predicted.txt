@@ -12,7 +12,6 @@
 **con_intersection: ['100% bran', 'all-bran', 'alpha-bits', 'buc wheats cereal', 'chocapic', 'clackers cereal', 'cocoa krispies', 'complete wheat bran flakes', 'cookie crisp', 'corn flakes', "cracklin' oat bran", "disney hunny b's honey-graham", 'french toast crunch', 'frosted flakes', 'frosted mini-wheats', "fruit 'n fibre", 'granula', 'honey bunches of oats', 'honey loops', 'honey nut clusters', 'honey smacks', 'kix', 'kream krunch', 'nintendo cereal system', 'oatibix', 'porridge', 'raisin bran', 'raisin wheats', 'ready brek', "reese's puffs", 'rice krispies', 'rocky road cereal', "scott's porage oats", 'shredded wheat', 'shreddies', 'special k', 'sugar puffs', 'uncle sam cereal', 'waffle crisp', 'weetabix']
 **extra_cons_in_predicted_cluster: ['barley', 'barley gruel', 'buc wheels cereal', 'cabinet pudding', 'cereal', 'cooking starch', 'evaporated milk', 'farfel', 'granola', 'grape-nut', 'grits', 'helmipuuro', 'instant oatmeal', 'kasha', 'millet', 'non-dairy milk', 'oat wheats cereal', 'oatmeal', 'oats', 'ogi', 'raisin wheat', 'rupjmaize', 'rye', 'sunny boy cereal', 'undercover bears instant oatmeal', 'waffle', 'wheat']
 
-
 ********************
 **gold_taxo_property: condiment
 **gold_taxo_cons: ['albert sauce', 'babi panggang', 'barbecue sauce', 'beurre blanc', 'beurre noisette', 'bolognese sauce', 'béarnaise sauce', 'café de paris sauce', 'caruso sauce', 'chancaca', 'cheez whiz', 'chutney', 'cocktail sauce', 'coffee creamer', 'curry ketchup', 'curry sauce', 'dessert toppings', 'fish sauce', 'ganjang', 'gravy', 'guacamole', 'hard sauce', 'honey', 'horseradish sauce', 'hot sauce', 'katara', 'ketchup', 'khrenovina sauce', 'mahyawa', 'mala sauce', 'marinade', 'mayonnaise', 'mujdei', 'mustard', 'nali sauce', 'olives and capers', 'oyster sauce', 'pasta sauces', 'peach sauce', 'peanut sauce', 'pecel', 'pesto', 'pickles and relishes', 'pique verde boricua', 'pizza sauce', 'ponzu', 'ragù', 'romesco', 'rouille', 'rântaş', 'salad dressings', 'salsa golf', 'salvitxada', 'satay sauce', 'sauce', 'sauce ravigote', 'sauce vierge', 'scorcolga', 'soy sauce', 'stasulli', 'steak sauce', "sugo all'amatriciana", 'syrup', 'tahini', 'tartar sauce', 'tianmianjiang', 'vinegar', 'worcestershire sauce', 'wow-wow sauce', 'xo sauce']
@@ -30,7 +29,6 @@
 **con_intersection: ['albert sauce', 'barbecue sauce', 'beurre blanc', 'bolognese sauce', 'béarnaise sauce', 'café de paris sauce', 'caruso sauce', 'cheez whiz', 'chutney', 'cocktail sauce', 'curry ketchup', 'curry sauce', 'fish sauce', 'ganjang', 'gravy', 'guacamole', 'hard sauce', 'horseradish sauce', 'hot sauce', 'ketchup', 'khrenovina sauce', 'mayonnaise', 'mujdei', 'mustard', 'nali sauce', 'olives and capers', 'oyster sauce', 'peach sauce', 'peanut sauce', 'pesto', 'pickles and relishes', 'pique verde boricua', 'pizza sauce', 'ponzu', 'romesco', 'rouille', 'salvitxada', 'satay sauce', 'sauce', 'sauce ravigote', 'sauce vierge', 'soy sauce', 'steak sauce', "sugo all'amatriciana", 'syrup', 'tahini', 'tartar sauce', 'vinegar', 'worcestershire sauce', 'wow-wow sauce', 'xo sauce']
 **extra_cons_in_predicted_cluster: ['aioli', 'albufera sauce', 'amandine', 'anchovy essence', 'apple butter', 'apple sauce', 'bika ambon', 'bordelaise sauce', 'bow wow sauce', 'bread sauce', 'breton sauce', 'brown sauce', "bull's-eye barbecue sauce", 'caramel', 'cheese dog', 'cheese spread', 'chicago-style hot dog', 'chili dog', 'chilli oil', 'chilli powder', 'chimichurri', 'confiture de lait', 'cranberry sauce', 'crème ninon', 'cumberland sauce', 'cumin', 'dessert topping', 'dill', 'dip', 'dodger dog', 'falukorv', 'fruit sauce', 'garlic', 'garlic powder', 'gastrique', 'green sauce', 'harissa', 'hogao', 'honey garlic sauce', 'horseradish root', 'hot dog', 'hot dog bun', 'hummus', 'italian hot dog', 'jams and preserves', 'kaeng som', 'kc masterpiece', 'kesme', 'kewpie', 'liverwurst', 'lobster sauce', 'louis dressing', 'lunch meat', 'manwich', "maul's barbecue sauce", "maull's barbecue sauce", 'meunière sauce', 'mint sauce', 'moambe', 'molasses', 'mortel sausage', 'mushroom gravy', 'nantua sauce', 'nut butter', 'ok sauce', 'olive oil', 'onion powder', 'pasta sauce', 'pepper', 'phu quoc fish sauce', 'pickled pigs feet', 'pistou', 'pol pani', 'red-eye gravy', 'salad dressing', 'salad topping', 'salsa', 'sambal', 'sauce gribiche', 'sauce lyonnaise', 'seattle-style hot dog', 'sesame seed', 'sesame stick', 'siu haau sauce', 'solyanka', "somebody's mother's chocolate sauce", 'soubise sauce', 'soup number five', 'sour cream', 'spice', 'sugar pearl', 'sujuk', 'suprême sauce', 'tamarind', 'tapenade', 'tkemali', 'tomato paste', 'tucupi', 'vanilla extract', 'vegetable dip', 'venetian sauce', 'vinegar drink', 'whipped cream']
 
-
 ********************
 **gold_taxo_property: fruit salad
 **gold_taxo_cons: ['candle salad', 'es teler']
@@ -41,7 +39,6 @@
 **predicted_cluster_prop: ['joy' 'surprise' 'laughter' 'source of joy' 'happiness']
 **con_intersection: ['candle salad']
 **extra_cons_in_predicted_cluster: ['dessert bar', 'sweet']
-
 
 ********************
 **gold_taxo_property: tart
@@ -54,7 +51,6 @@
  'cheesecake ingredient' 'shortcrust pastry' 'sweet pastry']
 **con_intersection: ['butter tart', 'caramel tart', 'crostata', 'manchester tart', 'neenish tart', 'pineapple tart', 'quetschentaart', 'rhubarb tart', 'tarte tatin', 'vlaai']
 **extra_cons_in_predicted_cluster: ['black bun', 'cream cheese', 'crème ninon', 'eccles cake', 'galette', 'pastiera', 'rosette de lyon', 'sabounee', 'salvitxada', 'st. honoré cake', 'tart']
-
 
 ********************
 **gold_taxo_property: dairy product
@@ -71,7 +67,6 @@
 **con_intersection: ['butter and margarine', 'cheese', 'cream', 'sour cream', 'whipped cream', 'yoghurt']
 **extra_cons_in_predicted_cluster: ['bika ambon', 'cervelat', 'ciavàr', 'dairy product', 'evaporated milk', 'hemp milk', 'knipp', 'kulen', 'magiritsa', 'milk', 'non-dairy milk', 'poppy milk', 'powdered milk', 'purée mongole', 'rice milk', 'southern illinois chowder', 'tequeño', "vallée d'aoste lard d'arnad"]
 
-
 ********************
 **gold_taxo_property: beef
 **gold_taxo_cons: ['bresaola', 'brési', 'carbonade flamande', 'chipped beef', 'chunchullo', 'kobe beef', 'organic beef', 'pastirma', 'restructured steak', 'secca de bœuf', 'standing rib roast', 'suet', 'tallow', 'yonezawa beef']
@@ -84,7 +79,6 @@
 **con_intersection: ['chipped beef', 'kobe beef', 'organic beef', 'secca de bœuf', 'standing rib roast', 'tallow']
 **extra_cons_in_predicted_cluster: ['bavette', 'beef', 'breed', 'cheese', 'crazy cow', 'cream', 'dairy product', 'fresh meat', 'meat', 'milk', 'pork', 'sour cream']
 
-
 ********************
 **gold_taxo_property: frozen dessert
 **gold_taxo_cons: ['frozen yoghurt', 'ice cream', 'non-dairy frozen dessert', 'popsicles', 'sherbet', 'sorbet', 'sundae cones']
@@ -95,7 +89,6 @@
 **predicted_cluster_prop: ['coney island' 'cone' 'in cone']
 **con_intersection: ['frozen yoghurt', 'ice cream', 'sherbet', 'sorbet']
 **extra_cons_in_predicted_cluster: ['coney island hot dog', 'frozen dessert']
-
 
 ********************
 **gold_taxo_property: sponge cake
@@ -108,7 +101,6 @@
  'rum-soaked sponge cake' 'two layers of sponge cake' 'light sponge cake']
 **con_intersection: ['génoise cake', 'ladyfinger', 'madeira cake', 'princess cake', 'tipsy cake', 'tres leches cake']
 **extra_cons_in_predicted_cluster: ['boston cream pie', 'colaci', 'graham bread', 'gundel pancake', 'herman cake', 'lolly cake', 'madeleine', 'rum baba', 'snack cake', 'sponge and dough', 'taiyaki']
-
 
 ********************
 **gold_taxo_property: sausage
@@ -129,7 +121,6 @@
 **con_intersection: ['ahle wurst', 'alheira', 'amsterdam ossenworst', 'andouille', 'andouillette', 'bierwurst', 'bockwurst', 'boerewors', 'bologna sausage', 'botifarra', 'braadworst', 'bratwurst', 'breakfast sausage', 'bregenwurst', 'cabanossi', 'cervelat', 'chistorra', 'ciauscolo', 'cotechino modena', 'crépinette', 'cudighi', 'cumberland sausage', 'debrecener', 'extrawurst', 'falukorv', 'fläskkorv', 'frankfurter rindswurst', 'frankfurter würstchen', 'gelbwurst', 'glamorgan sausage', "hog's pudding", 'jagdwurst', 'kohlwurst', 'krakowska', 'kulen', 'landjäger', 'lebanon bologna', 'lincolnshire sausage', 'liverwurst', 'longaniza', 'lucanica', 'merguez', 'mettwurst', 'morteau sausage', 'newmarket sausage', 'oxford sausage', 'pleşcoi sausages', 'pølser', 'regensburger wurst', 'rookworst', 'sausage making', 'saveloy', 'siskonmakkara', 'sobrassada', 'sujuk', 'summer sausage', 'teewurst', 'thuringian sausage', 'weisswurst']
 **extra_cons_in_predicted_cluster: ['beutelwurst', 'dodger dog', 'italian hot dog', 'kaszanka', 'ketwurst', 'kielbasa', 'kolwurst', 'mortau sausage', 'mortel sausage', 'mortellata sausage', 'mortuea sausage', 'nalac sausage', 'nduja sausage', 'nădlac sausage', 'pork', 'pork roll', 'shchi', 'sobrasada', 'vienna sausage']
 
-
 ********************
 **gold_taxo_property: baking extracts
 **gold_taxo_cons: ['almond extract', 'vanilla extract']
@@ -140,7 +131,6 @@
 **predicted_cluster_prop: ['high' 'weak' 'low' 'highly concentrated' 'diluted']
 **con_intersection: ['almond extract', 'vanilla extract']
 **extra_cons_in_predicted_cluster: ['flavoured syrup', 'food colouring', 'vinegar drink']
-
 
 ********************
 **gold_taxo_property: beer
@@ -155,7 +145,6 @@
 **con_intersection: ['non-alcoholic beer']
 **extra_cons_in_predicted_cluster: ['meme', 'morning funnies', 'product 19', "tony's turboz", 'youtazi']
 
-
 ********************
 **gold_taxo_property: bakery
 **gold_taxo_cons: ['cake', 'coffee cakes', 'cupcakes', 'dessert bars', 'dessert platters', 'donuts', 'fudge', 'ice cream cones', 'pastries', 'pie', 'taco shells', 'tart', 'tortillas']
@@ -168,7 +157,6 @@
  'cupcakes']
 **con_intersection: ['cake', 'fudge', 'pie', 'tart']
 **extra_cons_in_predicted_cluster: ['almond extract', 'bean paste', 'butter cake', 'bánh chuối', 'bánh khoai mì', 'caramel tart', 'chocolate cake', 'chocolate mint', 'coulis', 'cupcone', 'dairy product', 'dessert bar', 'dessert topping', 'edible baking decoration', 'figgy duff', 'figgy pudding', 'food colouring', 'frozen dessert', 'frozen yoghurt', 'fruit sauce', 'fudge cake', 'funing big cake', 'german chocolate cake', 'halfsies', 'heavy cake', 'hotteok', 'ice cream cone', 'kesme', 'khao poon', 'kissel', 'kladdkaka', 'kuzumochi', 'london bun', 'manchester tart', 'milk', 'non-dairy frozen dessert', 'peach sauce', 'pineapple tart', 'pound cake', 'semifreddo', 'sherbet', 'smultring', 'snow cone syrup', 'sour cherry soup', 'sundae cone', 'syrup', 'taiyaki', 'teacake', 'vanilla extract']
-
 
 ********************
 **gold_taxo_property: dough
@@ -183,7 +171,6 @@
 **con_intersection: ['bread', 'doughnut']
 **extra_cons_in_predicted_cluster: ['brown windsor soup', 'faluche', 'hodge-podge', 'lantern', 'manchet', 'mead', 'minestrone', 'nettle soup', "pain d'épices", 'pottage', 'slow bread', 'soul cake']
 
-
 ********************
 **gold_taxo_property: bread
 **gold_taxo_cons: ['adobe bread', 'afghan bread', 'ajdov kruh', 'almojábana', 'amish friendship bread', 'anadama bread', 'antidoron', 'baati', 'bagel', 'bagel toast', 'bakarkhani', 'balep korkun', 'banana bread', 'bara brith', 'barley bread', 'barmbrack', 'basler brot', 'bazlama', 'beer bread', 'bhakri', 'bhatoora', 'biscuit', 'biskotso', 'bolillo', 'brioche', 'brown bread', 'bun', 'burebrot', 'canadian white', 'cardamom bread', 'challah', 'chapati', 'chikkolee', 'cocktail bun', 'cocol', 'colaci', 'colston bun', 'corn tortilla', 'cottage loaf', 'cozonac', 'crisp bread', 'crustless bread', 'daktyla', 'dripping cake', 'easter bread', 'empanada', 'faluche', 'farl', 'ficelle', 'filone', 'flatbread', 'flatbrød', 'focaccia', 'folar', 'fougasse', 'fried bread', 'garlic bread', 'goro', 'graham bread', 'hallulla', 'hard dough bread', 'himbasha', 'horsebread', 'hoyha', 'kalach', 'kalács', 'khakhra', 'kitcha', 'kommissbrot', 'kompyang', 'korovai', 'lahoh', 'lardy cake', 'laufabrauð', 'lazarakia', 'lipie', 'malawach', 'maltese bread', 'manchet', 'marraqueta', 'matnakash', 'matzo', 'mollete', 'montreal-style bagel', 'muffin', 'murtabak', 'mutschel', 'national loaf', 'nshkhar', 'olive loaf', 'pain aux raisins', 'pain brié', 'pain de mie', 'pan de yuca', 'pan loaf', 'panbrioche', 'pandebono', 'pandoro', 'pane di altamura', 'panfocaccia', 'parotta', 'paska', 'paški baškotin', 'penia', 'pesaha appam', 'pesarattu', 'phitti', 'piki', 'pita', 'pitha', 'pită de pecica', 'pizza', 'pogača', 'potato bread', 'potbrood', 'pulla', 'pullman loaf', 'quick bread', 'raisin bread', 'rewena bread', 'rice bread', 'roti', 'rugbrød', 'rumali roti', 'rupjmaize', 'rye bread', 'rúgbrauð', 'sacramental bread', 'sally lunn bun', 'salt-rising bread', 'scali bread', 'sel roti', 'shoti', 'simit', 'slow bread', 'soldiers', 'sponge and dough', 'sprouted bread', 'stottie cake', 'suikerbrood', 'sushki', 'sweet roll', 'taftan', 'talau', 'tandoor bread', 'tapalapa bread', 'tequeño', 'toast', 'tohax', 'tone bread', 'tortilla de rescoldo', 'tsoureki', 'twist bread', 'vasilopita', 'vastedda', 'veda bread', 'vienna bread', 'vánočka', 'wagafi bread', 'white bread', 'whole wheat bread', 'youtazi', 'zapiekanka', 'zopf', 'zwieback']
@@ -197,7 +184,6 @@
 **con_intersection: ['adobe bread', 'afghan bread', 'ajdov kruh', 'anadama bread', 'antidoron', 'bagel', 'bakarkhani', 'banana bread', 'barley bread', 'barmbrack', 'basler brot', 'bazlama', 'beer bread', 'bhatoora', 'bolillo', 'brioche', 'brown bread', 'bun', 'burebrot', 'cardamom bread', 'challah', 'cocktail bun', 'cottage loaf', 'cozonac', 'crisp bread', 'crustless bread', 'easter bread', 'farl', 'ficelle', 'filone', 'flatbread', 'flatbrød', 'focaccia', 'fougasse', 'fried bread', 'garlic bread', 'graham bread', 'hard dough bread', 'himbasha', 'horsebread', 'kalach', 'kalács', 'kommissbrot', 'korovai', 'lahoh', 'maltese bread', 'manchet', 'marraqueta', 'matnakash', 'mollete', 'national loaf', 'olive loaf', 'pain aux raisins', 'pain de mie', 'pan de yuca', 'pan loaf', 'panbrioche', 'pandoro', 'pane di altamura', 'panfocaccia', 'parotta', 'paska', 'pesaha appam', 'pita', 'pizza', 'pogača', 'potato bread', 'potbrood', 'pulla', 'pullman loaf', 'quick bread', 'raisin bread', 'rewena bread', 'rice bread', 'rugbrød', 'rye bread', 'rúgbrauð', 'sacramental bread', 'sally lunn bun', 'scali bread', 'simit', 'slow bread', 'sponge and dough', 'sprouted bread', 'stottie cake', 'suikerbrood', 'sushki', 'taftan', 'tandoor bread', 'tapalapa bread', 'toast', 'tone bread', 'tsoureki', 'twist bread', 'vasilopita', 'vastedda', 'veda bread', 'vienna bread', 'vánočka', 'wagafi bread', 'white bread', 'whole wheat bread', 'zopf', 'zwieback']
 **extra_cons_in_predicted_cluster: ['anpan', 'babka', 'bakery', 'barley', 'barm cake', 'bath bun', 'belgian bun', 'bialy', 'boli', 'bread', 'bread crumb', 'breadstick', 'breakfast sandwich', 'caruso sauce', 'chipa guasu', "chipa so'o", 'ciabatta', 'ciavàr', 'cotechino modena', 'crouton', 'crumpet', 'crépinette', 'cudighi', 'currant bun', 'dough', 'farfel', 'flour', 'fruit bun', 'guagua de pan', 'hawaiian pizza', 'horsbread', 'hot dog bun', 'kesme', 'landjäger', 'liverwurst', 'mantou', 'marinade', 'mexican pizza', 'michetta', 'millet', 'mohnnudel', 'morteau sausage', 'mujdei', 'nduja', 'olives and capers', "pain d'épices", 'pambazo', 'pan bati', 'pan de coco', 'pan de muerto', 'pan de pascua', 'panada', 'paris buns', 'passatelli', 'persian roll', 'portuguese sweet bread', 'prepared sandwich', 'pretzel', 'ptitim', 'rouille', 'rye', 'salvitxada', 'sausage', 'sausage bread', 'semle', 'sfenj', 'sfnj', 'shish kebab', 'solyanka', 'soup', 'starter culture', 'stollen', 'taiyaki', 'tapenade', 'tea loaf', 'tonight bread', 'touton', 'uirō', 'wheat']
 
-
 ********************
 **gold_taxo_property: milk
 **gold_taxo_cons: ['non-dairy milk', 'powdered milk']
@@ -208,7 +194,6 @@
 **predicted_cluster_prop: ['in infant formula' 'making infant formula' 'baby food']
 **con_intersection: ['powdered milk']
 **extra_cons_in_predicted_cluster: ['ogi', 'pastina']
-
 
 ********************
 **gold_taxo_property: korean noodle
@@ -221,7 +206,6 @@
 **con_intersection: ['kalguksu', 'kongguksu']
 **extra_cons_in_predicted_cluster: ['cheongsachae', 'dotori guksu', 'gamjatang', 'gimbap', 'gomguk', 'guk', 'gulgukbap', 'imoni', 'janggukjuk', 'jeon', 'jeonbokjuk', 'jjolmyeon', 'juk', 'korean noodle', 'korean noodles', 'miyeok guk', 'naengguk', 'sujebi', 'uirō']
 
-
 ********************
 **gold_taxo_property: edible baking decoration
 **gold_taxo_cons: ['coloured sugar', 'hundreds and thousands', 'sugar pearls']
@@ -232,7 +216,6 @@
 **predicted_cluster_prop: ['nonpareils']
 **con_intersection: ['hundreds and thousands']
 **extra_cons_in_predicted_cluster: ['edible baking decoration']
-
 
 ********************
 **gold_taxo_property: wine
@@ -250,7 +233,6 @@
 **con_intersection: ['blush wine', 'dessert wine', 'mead', 'non-alcoholic wine', 'red wine', 'rice wine', 'rosã© wine', 'sangria', 'sparkling wine', 'white wine']
 **extra_cons_in_predicted_cluster: ['beverage', 'brandy', 'canadian white', 'cooking wine', 'flavored water', 'grape', 'liquor', 'mafalda', 'sangiovese', 'sangue de vin', 'schnapps', 'sherry', 'snow cone syrup', 'sweet', 'torta caprese', 'vermouth']
 
-
 ********************
 **gold_taxo_property: soy product
 **gold_taxo_cons: ['tempeh', 'tofu']
@@ -262,7 +244,6 @@
  'adding protein to dishes']
 **con_intersection: ['tempeh']
 **extra_cons_in_predicted_cluster: ['dried bean', 'soy']
-
 
 ********************
 **gold_taxo_property: cake
@@ -282,7 +263,6 @@
 **con_intersection: ['babka', 'basbousa', 'baumkuchen', 'black sesame rice cake', 'bolo de mel', 'boston cream pie', 'buccellato', 'bulla cake', 'bundt cake', 'butter cake', 'bánh chuối', 'bánh tét', 'caraway seed cake', 'carrot cake', 'changzhou sesame cake', 'chiffon cake', 'chongyang cake', 'colomba di pasqua', 'cupcake', 'dacquoise', 'dobos torte', 'eccles cake', 'erotic cake', 'esterházy torte', 'far breton', 'fat rascal', 'flourless chocolate cake', 'fruit cake', 'german chocolate cake', 'gooey butter cake', 'herman cake', 'hot milk cake', 'hummingbird cake', 'idli', 'jewish apple cake', 'kakara pitha', 'kek lapis sarawak', 'kladdkaka', 'kuchen', 'lane cake', 'madeleine', 'marble cake', 'opera cake', "pain d'épices", 'pan de pascua', 'pandan cake', 'paris buns', 'parkin', 'pastisset', 'pound cake', 'rab cake', 'red bean cake', 'red velvet cake', 'rum baba', 'rum cake', 'sesame seed cake', 'soul cake', 'spekkoek', 'spice cake', 'sponge cake', 'st. honoré cake', 'tarta de santiago', 'tea loaf', 'torta alla monferrina', 'torta tre monti', 'torte', 'upside-down cake', 'vasilopita', 'wacky cake', 'wedding cake', 'wine cake', 'šakotis']
 **extra_cons_in_predicted_cluster: ['agrodolce', 'angel food cake', 'bakery', 'baking mix', 'bara brith', 'barm cake', 'barmbrack', 'belgian bun', 'biskotso', 'buchtel', 'buchteln', 'bánh bò', 'cake and brownie mix', 'castella', 'christmas cake', 'ciambella', 'colston bun', 'cozonac', 'crempog', 'crostata', 'cuban bread', 'dripping cake', 'dundee cake', 'es teler', 'flour', 'fudge cake', 'garash cake', 'gundel pancake', 'gypsy tart', 'génoise cake', "herman's cake", 'ladyfinger', 'lanecake', 'lardy cake', 'london bun', 'madeira cake', 'manchester tart', 'pan de coco', 'pandoro', 'panettone', 'panforte', 'pannekoek', 'paska', 'pastel de camiguín', 'pinca', 'portuguese sweet bread', 'princess cake', 'prinzregententorte', 'puffed rice cake', 'quetschentaart', 'quick bread', 'rock cake', 'sabounee', 'sachertorte', 'sally lunn bun', 'serabi', 'simnel cake', 'smultring', 'snack cake', 'sponge and dough', 'stollen', 'stottie cake', 'suikerbrood', 'sweet', 'tipsy cake', 'tres leches cake']
 
-
 ********************
 **gold_taxo_property: side dishes
 **gold_taxo_cons: ['breakfast sandwiches', 'french toast', 'pancake', 'pizza', 'prepared main courses', 'prepared sandwiches', 'prepared side dishes', 'waffles']
@@ -295,7 +275,6 @@
 **con_intersection: ['french toast', 'pancake']
 **extra_cons_in_predicted_cluster: ['basbousa', 'blintz', 'crêpe', 'eggette', 'hotteok', 'lazarakia', 'maple bar', 'murtabak', 'pancake and maple syrup', 'pannekoek', 'phitti', 'snoball', 'touton', 'unni appam', 'waffle', 'æbleskiver']
 
-
 ********************
 **gold_taxo_property: doughnut
 **gold_taxo_cons: ['boston cream doughnut', 'brown bobby', 'ciambella', 'coconut doughnut', "dunkin' donuts", 'dutchie', 'fritelli', 'honey dew donuts', 'jelly doughnut', 'koeksister', 'kreple', 'maple bar', 'oliebol', 'potato doughnut', 'sel roti', 'sfenj', 'smultring', 'sour cream doughnut', 'sufganiyah', 'timbits', 'vortex ring']
@@ -307,7 +286,6 @@
 **con_intersection: ['boston cream doughnut', 'coconut doughnut', 'fritelli', 'koeksister', 'kreple', 'potato doughnut', 'timbits']
 **extra_cons_in_predicted_cluster: ['bean paste', 'colaci', 'czernina', 'helmipuuro', 'ho hos', 'malapua', 'pinca', 'piti', 'schupfnudel', 'syrniki', 'tian mo']
 
-
 ********************
 **gold_taxo_property: fruit
 **gold_taxo_cons: ['apples', 'apricots', 'atemoyas', 'avocados', 'babacos', 'bananas', 'berries', 'cherimoyas', 'cherries', 'coconuts', 'currants', 'dates', 'dragonfruit', 'dried fruit', 'feijoas', 'figs', 'fruit salad', 'grapefruits', 'grapes', 'guavas', 'homli fruits', 'kiwis', 'kumquats', 'lemons', 'limequats', 'limes', 'longan', 'loquats', 'lychees', 'madroã±o', 'mamey', 'mangos', 'mangosteens', 'melons', 'nectarines', 'oranges', 'papayas', 'passion fruit', 'peaches', 'pears', 'persimmons', 'physalis', 'pineapples', 'plumcots', 'plums', 'pomegranates', 'prickly pears', 'quince', 'rambutans', 'sapodillo', 'sapote', 'soursops', 'starfruits', 'sugar apples', 'tamarind', 'tangelos', 'tangerines']
@@ -318,7 +296,6 @@
 **predicted_cluster_prop: ['exotic' 'exotic ingredient']
 **con_intersection: ['dragonfruit', 'mamey', 'passion fruit', 'sapodillo', 'sapote', 'soursops']
 **extra_cons_in_predicted_cluster: ['carne de chango', 'cherimoya', 'cumian', 'erotic cake', 'feijoa', 'flower', 'jatjuk', 'kiwi', 'lychee', 'mangosteen', 'paio', 'papaya', 'paradise nut', 'paški baškotin', 'pineapple', 'prepared side dish', 'rambutan', 'starfruit', 'turtle soup']
-
 
 ********************
 **gold_taxo_property: pudding
@@ -333,7 +310,6 @@
 **con_intersection: ['cabinet pudding', 'cheese pudding', "eve's pudding", 'figgy duff', 'figgy pudding', 'flummery', 'gajar ka halwa', 'hasty pudding', 'malva pudding', 'malvern pudding', 'pistachio pudding', 'sago pudding', 'spotted dick', 'steak and kidney pudding', 'sussex pond pudding', 'tapioca pudding', 'tavuk göğsü', 'tembleque', 'welf pudding']
 **extra_cons_in_predicted_cluster: ['bánh bò', 'czernina', 'far breton', 'frozen dessert', 'gypsy tart', 'kissel', 'manchester tart', 'parkin', 'pol pani', 'sagnarelli', 'torta alla monferrina', 'vispipuuro', "welch's pudding"]
 
-
 ********************
 **gold_taxo_property: coffee
 **gold_taxo_cons: ['bottled coffee drinks', 'ground and whole bean coffee', 'instant coffee']
@@ -344,7 +320,6 @@
 **predicted_cluster_prop: ['espresso']
 **con_intersection: ['ground and whole bean coffee']
 **extra_cons_in_predicted_cluster: ['coffee']
-
 
 ********************
 **gold_taxo_property: noodle
@@ -364,7 +339,6 @@
  'spring noodle' 'wheat flour' 'thick' 'springy' 'starched noodle']
 **con_intersection: ['bakmi', 'biángbiáng noodles', 'black noodles', 'cellophane noodles', 'chinese noodles', 'chinkiang pot cover noodles', 'dandan noodles', 'dotori guksu', 'dragon beard noodles', 'drunken noodles', 'duck soup noodles', 'fideo', 'frozen noodles', 'henan braised noodle', 'henan braised noodles', 'hot dry noodles', 'jjolmyeon', 'jook-sing noodles', 'korean noodle', 'korean noodles', 'noodle with tomato egg sauce', 'oil noodles', 'pan mee', 'rice noodle roll', 'rice noodles', 'rice vermicelli', 'schupfnudel', 'sevai', 'shanghai fried noodles', 'shirataki noodles', 'shrimp roe noodles', 'silver needle noodles', 'singapore style noodle', 'spätzle', 'taglierini', 'udon', 'vietnamese noodles', 'wanko soba', 'wonton noodles', 'yaki udon', 'yi mein']
 **extra_cons_in_predicted_cluster: ['bun rieu', 'bún bò huế', 'bún mắm', 'capellini', 'crossing the bridge noodles', 'croxetti', 'dried soup', 'ficelle', 'fuži', 'kalguksu', 'kugel', 'lai fun', 'lamian', 'linguine', 'mafalda', 'mafaldine', 'mi san dao', 'misua', 'okinawa soba', 'pastina', 'peanut sauce', 'pici', 'rotini', 'saang mein', 'sang mee', 'shahe fen', 'singapore-style noodle', 'smith & jones instant noodle', 'soto ayam', 'spaghetti', 'stringozzi', 'sujebi', 'tagliatelle', 'trenette', 'zōni']
-
 
 ********************
 **gold_taxo_property: pasta
@@ -401,7 +375,6 @@
 **con_intersection: ['acini di pepe', 'anellini', 'bigoli', 'bucatini', 'campanelle', 'capellini', 'conchiglie', 'croxetti', 'fagottini', 'farfalle', 'fregula', 'fusilli', 'garganelli', 'gemelli', 'linguine', 'mafaldine', 'occhi di lupo', 'ravioli', 'rigatoni', 'rotelle', 'sagnarelli', 'spaghetti', 'stringozzi', 'tagliatelle', 'taglierini', 'trenette']
 **extra_cons_in_predicted_cluster: ['agrodolce', 'anchovy essence', 'aubergine', 'caruso sauce', 'cotechino modena', 'ficelle', 'fideo', 'garlic powder', 'lamian', 'mafalda', 'mezzaluna', 'tuscan cabbage']
 
-
 ********************
 **gold_taxo_property: soup
 **gold_taxo_cons: ['ajiaco', 'ajoblanco', 'avgolemono', 'bak kut teh', 'beef noodle soup', 'beer soup', 'bermuda fish chowder', 'binignit', 'bisque', 'black soup', 'blood soup', 'booyah', 'borscht', 'bouillon', 'bouneschlupp', 'bread soup', 'brown windsor soup', 'bun rieu', 'butajiru', 'buttermilk koldskål', 'bún bò huế', 'bún mắm', 'caldo de pollo', 'caldo verde', 'cantonese seafood soup', 'changua', 'chicken soup', 'chikhirtma', 'ching bo leung', 'chorba', 'cold borsch', 'consommé', 'corn chowder', 'corn soup', 'creamed corn', 'crème ninon', 'cucumber soup', 'cullen skink', 'czernina', 'dalithoy', 'dashi', 'draw soup', 'dried soup', 'egg drop soup', 'empal gentong', "escudella i carn d'olla", 'ezogelin soup', 'fanesca', 'fish tea', "fisherman's soup", 'frejon', 'french onion soup', 'gamjatang', 'garbure', 'gazpacho', 'gazpachuelo', 'gomguk', 'goulash', 'gulgukbap', 'gulyásleves', 'gumbo', 'harira', 'hochzeitssuppe', 'hodge-podge', 'hot and sour soup', 'hulatang', 'hyderabadi marag', 'imoni', 'instant soup', 'kaeng som', 'kapusniak', 'khao poon', 'kharcho', 'kissel', 'konro', 'kulajda', 'kyselo', 'köttsoppa', 'leek soup', 'liver soup', 'lung fung soup', 'macaroni soup', 'magiritsa', 'mami soup', 'mannish water', 'minestrone', 'miso soup', 'miyeok guk', 'mulligatawny', 'mykyrokka', 'naengguk', 'nettle soup', 'noodle soup', 'ohaw', 'oille', 'okroshka', 'oxtail soup', 'panada', 'pea soup', "pig's organ soup", 'piti', 'poppy milk', 'porra antequerana', 'pottage', 'pozole', 'prežganka', 'psarosoupa', 'pumpkin soup', 'purée mongole', 'qingtang wanzi', 'rasam', 'rassolnik', 'rawon', 'red peas soup', 'ribollita', 'rose hip soup', 'sancocho', 'scotch broth', 'senate bean soup', 'shambar', 'shchi', 'she-crab soup', 'siemieniotka', 'sinigang', 'solyanka', 'sopa de mondongo', 'sopa de pata', 'sopa teologa', 'sorrel soup', 'soto', 'soto ayam', "soup all'imperatrice", 'soup alla canavese', 'soup number five', 'sour cherry soup', 'sour rye soup', 'sour soup', 'southern illinois chowder', 'soyo', 'spring soup', 'styrian sour soup', 'suaasat', 'sujebi', 'svartsoppa', 'tacacá', 'taco soup', 'talunan', 'tekwan', 'tian mo', 'tinned soup', 'tom kha kai', 'tom yum', 'tomato soup', 'tourin', 'turtle soup', 'ukha', 'vichyssoise', 'vori vori', 'wedding soup', 'wodzionka', 'zosui', 'zuppa alla modenese', 'zōni']
@@ -427,7 +400,6 @@
 **con_intersection: ['ajiaco', 'ajoblanco', 'avgolemono', 'bak kut teh', 'beef noodle soup', 'bermuda fish chowder', 'bisque', 'blood soup', 'borscht', 'bread soup', 'brown windsor soup', 'bun rieu', 'butajiru', 'buttermilk koldskål', 'bún bò huế', 'bún mắm', 'caldo de pollo', 'caldo verde', 'cantonese seafood soup', 'chorba', 'cold borsch', 'consommé', 'corn chowder', 'corn soup', 'cucumber soup', 'cullen skink', 'draw soup', 'dried soup', 'egg drop soup', 'empal gentong', "escudella i carn d'olla", 'ezogelin soup', 'fanesca', "fisherman's soup", 'french onion soup', 'gamjatang', 'garbure', 'gazpacho', 'gazpachuelo', 'goulash', 'gulyásleves', 'gumbo', 'harira', 'hochzeitssuppe', 'hot and sour soup', 'kaeng som', 'kapusniak', 'kharcho', 'kulajda', 'köttsoppa', 'leek soup', 'liver soup', 'macaroni soup', 'magiritsa', 'mami soup', 'minestrone', 'miso soup', 'miyeok guk', 'mulligatawny', 'nettle soup', 'okroshka', 'oxtail soup', 'pea soup', "pig's organ soup", 'porra antequerana', 'pozole', 'psarosoupa', 'pumpkin soup', 'purée mongole', 'rasam', 'rassolnik', 'rawon', 'red peas soup', 'ribollita', 'rose hip soup', 'sancocho', 'scotch broth', 'senate bean soup', 'shchi', 'she-crab soup', 'sinigang', 'solyanka', 'sopa de mondongo', 'sopa de pata', 'sopa teologa', 'sorrel soup', 'soto', 'soto ayam', "soup all'imperatrice", 'soup alla canavese', 'soup number five', 'sour cherry soup', 'sour rye soup', 'sour soup', 'southern illinois chowder', 'spring soup', 'styrian sour soup', 'sujebi', 'svartsoppa', 'tacacá', 'taco soup', 'tinned soup', 'tom kha kai', 'tom yum', 'turtle soup', 'ukha', 'vichyssoise', 'wedding soup', 'zuppa alla modenese', 'zōni']
 **extra_cons_in_predicted_cluster: ['ajo blanco', 'banh canh', 'black noodles', 'bánh tét', 'chinese noodles', 'cold borscht', 'cooking starch', 'crossing the bridge noodles', 'duck soup noodles', 'frying pan dinner', 'grits', 'jook-sing noodles', 'kai kou xiao', 'kalguksu', 'kishka', 'laksa', 'lamian', 'lung fungus soup', 'mbeju', 'misua', 'mock turtle soup', 'oil noodles', 'okinawa soba', 'pork jowl', 'potage', 'rice noodles', 'rântaş', 'savory', 'shrimp roe noodles', 'tapalapa bread', 'thenthuk', 'thukpa', 'wonton noodles', 'xiao long bao']
 
-
 ********************
 **gold_taxo_property: baking mixes
 **gold_taxo_cons: ['biscuit mixes', 'bread', 'bread pudding mixes', 'cake and brownie mixes', 'pretzel mixes', 'waffle and pancake mixes']
@@ -449,7 +421,6 @@
 **con_intersection: ['bread']
 **extra_cons_in_predicted_cluster: ['amish friendship bread', 'beer bread', 'brioche', 'caraway seed cake', 'chiffon cake', 'maltese bread', 'manchet', 'panettone', 'quick bread', 'salt-rising bread', 'sorbet', 'stollen', 'tandoor bread']
 
-
 ********************
 **gold_taxo_property: barbecue sauce
 **gold_taxo_cons: ["bull's-eye barbecue sauce", 'kc masterpiece', "maull's barbecue sauce", 'siu haau sauce']
@@ -463,7 +434,6 @@
 **con_intersection: ["bull's-eye barbecue sauce", 'kc masterpiece']
 **extra_cons_in_predicted_cluster: ['dodger dog', 'gooey butter cake', 'manchester tart', "maul's barbecue sauce", 'st. louis-style pizza']
 
-
 ********************
 **gold_taxo_property: syrup
 **gold_taxo_cons: ['agave syrup', 'flavoured syrup', 'pancake and maple syrup', 'snow cone syrup']
@@ -475,7 +445,6 @@
  'for snow cones']
 **con_intersection: ['snow cone syrup']
 **extra_cons_in_predicted_cluster: ['stasulli']
-
 
 ********************
 **gold_taxo_property: beverage
@@ -489,7 +458,6 @@
 **con_intersection: ['beer', 'cider', 'coffee', 'liquor']
 **extra_cons_in_predicted_cluster: ['beverage', 'bottled coffee drink', 'gin', 'krakowska', 'non-alcoholic beer', 'rupjmaize']
 
-
 ********************
 **gold_taxo_property: instant noodle
 **gold_taxo_cons: ['smith & jones instant noodle']
@@ -500,7 +468,6 @@
 **predicted_cluster_prop: ['stopping' 'stop' 'wait']
 **con_intersection: ['smith & jones instant noodle']
 **extra_cons_in_predicted_cluster: ['start', 'stasulli']
-
 
 ********************
 **gold_taxo_property: herb
@@ -513,7 +480,6 @@
  'herb-like' 'herbaceous' 'medicinal']
 **con_intersection: ['aniseed', 'basil', 'chilli powder', 'chives', 'cinnamon', 'coriander', 'cumin', 'dill', 'garlic powder', 'lemon grass', 'marjoram', 'mint', 'onion powder', 'oregano', 'paprika', 'parsley', 'rosemary', 'sage', 'savory', 'sorrel', 'tarragon', 'thyme']
 **extra_cons_in_predicted_cluster: ['acini di pepe', 'aji', 'amaranth', 'baking extract', 'bay leaf', 'borage', 'celery root', 'chicory', 'ching bo leung', 'chocolate mint', 'chrysanthemum', 'chunchullo', 'cooking ingredient', 'fennel bulb', 'fennel seed', "foglie d'ulivo", 'garlic', 'ginger root', 'greens', 'kesme', 'kitchen bouquet', 'leek', 'linguine', 'lotus root', 'merguez', 'mint sauce', 'nagasaari', 'occhi di lupo', 'parsley root', 'pesto', 'pistou', 'pizza sauce', 'qingtang wanzi', 'rubaboo', 'sauce ravigote', 'sauce vierge', 'shallot', 'spice', 'taglierini', 'tamarind', 'tianmianjiang', 'tortelloni', 'vastedda', 'watercress', 'wheatgrass', 'white wine']
-
 
 ********************
 **gold_taxo_property: seafood
@@ -528,7 +494,6 @@
 **con_intersection: ['frozen seafood', 'tinned seafood']
 **extra_cons_in_predicted_cluster: ["fisherman's soup"]
 
-
 ********************
 **gold_taxo_property: food
 **gold_taxo_cons: ['appetiser', 'bakery', 'beverage', 'cereals', 'condiment', 'cooking ingredient', 'dairy product', 'dip', 'eggs', 'frozen dessert', 'fruit', 'meat', 'noodle', 'pasta', 'prepared food', 'seafood', 'seeds', 'soup', 'soy product', 'spice', 'sweets', 'vegetable']
@@ -540,7 +505,6 @@
  'adds nutrition' 'provides sustenance' 'provide nutrition']
 **con_intersection: ['beverage', 'cooking ingredient', 'fruit', 'soup']
 **extra_cons_in_predicted_cluster: ['breakfast sandwich', 'chicken soup', 'food', 'ganjang', 'juice', 'piti', 'potage', 'salad topping']
-
 
 ********************
 **gold_taxo_property: hot dog
@@ -554,7 +518,6 @@
 **con_intersection: ['cheese dog', 'chicago-style hot dog', 'chili dog', 'coney island hot dog', 'dodger dog', 'italian hot dog', 'michigan hot dog', 'seattle-style hot dog']
 **extra_cons_in_predicted_cluster: ['corn dog', 'hot dog', 'pizza', 'pølser']
 
-
 ********************
 **gold_taxo_property: infusion
 **gold_taxo_cons: ['loose tea leaves', 'powdered tea']
@@ -565,7 +528,6 @@
 **predicted_cluster_prop: ['pots' 'tea chest' 'powder packets' 'teabag' 'tea bag']
 **con_intersection: ['powdered tea']
 **extra_cons_in_predicted_cluster: ['food colouring', 'lipstick', 'loose tea leaf', 'mint']
-
 
 ********************
 **gold_taxo_property: pizza
@@ -605,7 +567,6 @@
 **con_intersection: ['california-style pizza', 'chicago-style pizza', 'detroit-style pizza', 'greenwich pizza', 'grilled pizza', 'neapolitan pizza', 'new york-style pizza', 'pizza al taglio', 'st. louis-style pizza']
 **extra_cons_in_predicted_cluster: ['béchamel sauce', 'campanelle', 'caramel', 'chicago-style hot dog', 'coney island hot dog', 'coulis', 'dessert bar', 'dodger dog', 'frankfurter würstchen', 'frozen yoghurt', 'hot dog', 'hot dog bun', 'hot dry noodles', 'ice cream cone', 'italian hot dog', 'ketchup', 'mantou', 'pozole', 'seattle-style hot dog', 'spätzle', 'sundae cone']
 
-
 ********************
 **gold_taxo_property: pork
 **gold_taxo_cons: ['boston butt', 'carne de chango', 'chunchullo', 'geera pork', 'nataing', 'petit salé', 'pickled pigs feet', 'pork chop', 'pork jowl', 'pork ribs', 'pork roll', 'pork tenderloin', 'salt pork', 'sweet and sour pork', "vallée d'aoste lard d'arnad"]
@@ -627,7 +588,6 @@
 **con_intersection: ['boston butt', 'pork chop', 'pork jowl', 'pork ribs', 'pork tenderloin']
 **extra_cons_in_predicted_cluster: ['fresh meat', 'meat', 'pork']
 
-
 ********************
 **gold_taxo_property: vegetable
 **gold_taxo_cons: ['alfalfa sprouts', 'arracachas', 'artichokes', 'asparagus', 'aubergines', 'bean sprouts', 'beans', 'beetroot greens', 'beetroots', 'bok choi', 'borage', 'broccoli', 'brussels sprouts', 'cabbage', 'cactus leaves', 'canned and jarred vegetable', 'cardoon', 'carrots', 'cauliflower', 'celery', 'celery roots', 'chard', 'chick peas', 'chicory', 'choi sum', 'corn', 'cucumbers', 'dried beans', 'fennel bulbs', 'fiddlehead ferns', 'gai choi', 'gai lan', 'garlic', 'ginger root', 'gobo root', 'gourds', 'greens', 'horseradish root', 'jerusalem artichokes', 'jicama', 'kale', 'kohlrabi', 'leeks', 'lettuce', 'lotus roots', 'malangas', 'mushrooms', 'okra', 'on choy', 'onions', 'parsley roots', 'parsnips', 'peas', 'peppers', 'potatoes', 'pumpkins', 'radishes', 'rhubarb', 'rocket', 'rutabagas', 'salad mixes', 'shallots', 'spinach', 'squashes', 'sugar cane', 'sweet potatoes', 'tamarillos', 'taro root', 'tomatoes', 'turnips', 'tuscan cabbage', 'water chestnuts', 'watercress', 'wheatgrass', 'yam', 'yu choy', 'yucca root']
@@ -642,7 +602,6 @@
 **con_intersection: ['asparagus', 'bok choi', 'broccoli', 'cabbage', 'celery', 'chard', 'chicory', 'gai choi', 'gai lan', 'gobo root', 'greens', 'kale', 'kohlrabi', 'lettuce', 'on choy', 'rhubarb', 'spinach', 'tuscan cabbage', 'watercress', 'yu choy']
 **extra_cons_in_predicted_cluster: ['alfalfa sprout', 'bok choy', 'brussels sprout', 'brésil', 'buckwheat', 'canadian white', 'celery root', 'chives', 'chrysanthemum', 'diot', 'fennel bulb', 'hazelnut', 'leek', 'mint', 'oats', 'parsley', 'parsnip', 'pea', 'potato', 'radish', 'rutabaga', 'rye', 'salsify', 'shallot', 'sorrel', 'turnip']
 
-
 ********************
 **gold_taxo_property: liquor
 **gold_taxo_cons: ['brandy', 'gin', 'liqueurs', 'rum', 'schnapps', 'tequilaseed', 'vodka', 'whisky']
@@ -654,7 +613,6 @@
  '40% to 75% abv']
 **con_intersection: ['brandy', 'gin', 'rum', 'whisky']
 **extra_cons_in_predicted_cluster: ['krakowska']
-
 
 ********************
 **gold_taxo_property: prepared food
@@ -674,7 +632,6 @@
 **con_intersection: ['appetiser']
 **extra_cons_in_predicted_cluster: ["hors d'oeuvre"]
 
-
 ********************
 **gold_taxo_property: sweet roll
 **gold_taxo_cons: ['anpan', 'bakpia pathok', 'bath bun', 'belgian bun', 'buchteln', 'cinnamon roll', 'couque suisse', 'currant bun', 'fruit bun', 'guagua de pan', 'hot cross bun', 'pain au chocolat', 'pan de coco', 'pan de muerto', 'persian roll', 'pinca', 'portuguese sweet bread', 'pulla', 'saffron bun', 'semla', 'spiced bun', 'teacake']
@@ -686,7 +643,6 @@
  'green glaze']
 **con_intersection: ['cinnamon roll', 'currant bun', 'hot cross bun', 'portuguese sweet bread', 'spiced bun']
 **extra_cons_in_predicted_cluster: ['bundt cake', 'chocolate cake', 'coffee cake', 'colston bun', 'cumberland sauce', 'donut', 'doughnut', 'fudge cake', 'honey dew donut', 'jelly doughnut', 'lazarakia', 'muffin', 'oliebol', 'sally lunn bun', 'sour cream doughnut']
-
 
 ********************
 **gold_taxo_property: spice
@@ -712,7 +668,6 @@
 **con_intersection: ['salt']
 **extra_cons_in_predicted_cluster: ['soybean oil', 'tallow', 'yucca root']
 
-
 ********************
 **gold_taxo_property: black pudding
 **gold_taxo_cons: ['beutelwurst', 'kaszanka', 'mustamakkara']
@@ -724,7 +679,6 @@
  "stuffed into pig's intestine" 'colon health']
 **con_intersection: ['kaszanka']
 **extra_cons_in_predicted_cluster: ['all-bran', 'kishka', 'lollipop', 'yeast']
-
 
 ********************
 **gold_taxo_property: noodle soup
@@ -740,7 +694,6 @@
 **con_intersection: ['okinawa soba', 'pho']
 **extra_cons_in_predicted_cluster: ['aji', 'banh canh', 'biángbiáng noodles', 'bánh tét', 'vietnamese noodles']
 
-
 ********************
 **gold_taxo_property: cooking ingredient
 **gold_taxo_cons: ['artificial sweeteners', 'baking chocolate', 'baking extracts', 'baking mixes', 'baking powder', 'baking soda', 'batter and coating mixes', 'bean pastes', 'bread crumbs', 'condensed milk', 'cooking oil', 'cooking starch', 'cooking wine', 'corn syrup', 'dough', 'edible baking decoration', 'evaporated milk', 'floss sugar', 'flour', 'food colouring', 'marshmallows', 'molasses', 'pie fillings', 'shortening and lard', 'shredded coconut', 'starter cultures', 'sugar', 'tomato paste', 'unflavored gelatine', 'yeast']
@@ -754,7 +707,6 @@
 **con_intersection: ['baking chocolate', 'baking powder', 'baking soda', 'condensed milk', 'cooking oil', 'corn syrup', 'dough', 'floss sugar', 'flour', 'food colouring', 'shortening and lard', 'shredded coconut', 'sugar', 'unflavored gelatine', 'yeast']
 **extra_cons_in_predicted_cluster: ['almond extract', 'almond milk', 'aniseed', 'apple butter', 'artificial sweetener', 'baking mix', 'beurre noisette', 'biscuit mix', 'bread crumb', 'bread pudding mix', 'buttermilk', 'cake and brownie mix', 'canned and jarred vegetable', 'caramel', 'cinnamon', 'coffee creamer', 'coloured sugar', 'confiture de lait', 'coulis', 'cream', 'crème ninon', 'flavoured syrup', 'fruit sauce', 'ganache', 'hard sauce', 'hazelnut', 'jams and preserves', 'kesme', 'kitchen bouquet', 'knipp', 'liqueur', 'manjar branco', 'marshmallow', 'onion powder', 'peanut butter cups', 'poppy milk', 'powdered milk', 'raisin wheat', 'rum', 'spice', 'sprinkle spangles', 'sweet', 'syrup', 'tahini', 'tarragon', "vallée d'aoste lard d'arnad", 'vanilla bean', 'vanilla extract', 'vegetable oil']
 
-
 ********************
 **gold_taxo_property: cereals
 **gold_taxo_cons: ['amaranth', 'barley', 'breakfast cereal', 'buckwheat', 'cornmeal', 'granola', 'grits', 'millet', 'oatmeal', 'oats', 'quinoa', 'rice', 'rye', 'wheat']
@@ -767,7 +719,6 @@
  'as a gluten-free alternative' 'gluten-free option']
 **con_intersection: ['amaranth', 'buckwheat', 'cornmeal', 'millet', 'oatmeal', 'oats', 'quinoa']
 **extra_cons_in_predicted_cluster: ['barley bread', 'crustless bread', 'filone', 'flour', 'kasha', 'mămăligă', 'okinawa soba', 'pie crust', 'rice bread', 'rice noodles', 'shirataki noodles', 'sprouted bread']
-
 
 ********************
 **gold_taxo_property: pancake
@@ -784,7 +735,6 @@
 **con_intersection: ['bánh xèo', 'chinese pancake', 'crempog', 'crêpe', "david eyre's pancake", 'dosa', 'gamjajeon', 'gundel pancake', 'hotteok', 'jeon', 'okonomiyaki', 'pannekoek', 'syrniki', 'touton', 'æbleskiver']
 **extra_cons_in_predicted_cluster: ['boxty', 'fruit sauce', 'génoise cake', 'krepel', 'murtabak', 'nagasari', 'rântaş', 'sata andagi', 'syrup', 'taiyaki', 'unni appam']
 
-
 ********************
 **gold_taxo_property: chocolate cake
 **gold_taxo_cons: ['ding dong', 'fudge cake', 'garash cake', 'sachertorte']
@@ -796,7 +746,6 @@
  'announcing visitor' 'notifying caller' 'notify' 'arrival of guests']
 **con_intersection: ['ding dong']
 **extra_cons_in_predicted_cluster: []
-
 
 ********************
 **gold_taxo_property: dip
@@ -813,7 +762,6 @@
 **con_intersection: ['apple butter', 'cream cheese', 'guacamole', 'houmous', 'jams and preserves', 'tapenade', 'vegetable dip']
 **extra_cons_in_predicted_cluster: ['aioli', 'bagel toast', 'butter and margarine', 'cheez whiz', 'hummus', 'khrenovina sauce', 'liverwurst', 'manwich', 'nantua sauce', 'nduja', 'post toasties', 'prepared sandwich', 'salvitxada', 'sobrassada', 'tahini', 'tkemali']
 
-
 ********************
 **gold_taxo_property: fruit sauce
 **gold_taxo_cons: ['apple sauce', 'cranberry sauce']
@@ -825,7 +773,6 @@
 **con_intersection: ['cranberry sauce']
 **extra_cons_in_predicted_cluster: ['agrodolce', 'just right', 'pasta sauce', 'salsa']
 
-
 ********************
 **gold_taxo_property: turtle soup
 **gold_taxo_cons: ['mock turtle soup']
@@ -836,7 +783,6 @@
 **predicted_cluster_prop: ['a foolish or absurd idea' 'absurd' 'mock' 'ridiculousness' 'absurdity']
 **con_intersection: ['mock turtle soup']
 **extra_cons_in_predicted_cluster: ['flummadiddle', 'meatcake']
-
 
 ********************
 **gold_taxo_property: beef noodle soup
@@ -853,7 +799,6 @@
 **con_intersection: ['yaka mein']
 **extra_cons_in_predicted_cluster: ["escudella i carn d'olla", 'king cake', 'morteau sausage', 'rosette de lyon', 'touton', 'velouté sauce', 'vichyssoise']
 
-
 ********************
 **gold_taxo_property: meat
 **gold_taxo_cons: ['beef', 'deli meats', 'fresh meat', 'frozen meat', 'hot dogs', 'lunch meats', 'meat patties', 'pork', 'sausage', 'tinned meat']
@@ -864,7 +809,6 @@
 **predicted_cluster_prop: ['butcher shop' 'butcher']
 **con_intersection: ['beef', 'fresh meat', 'frozen meat', 'sausage']
 **extra_cons_in_predicted_cluster: ['jagdwurst', 'pork tenderloin', 'sausage making']
-
 
 ********************
 **gold_taxo_property: white bread
@@ -881,6 +825,10 @@
 **con_intersection: ['ciabatta', 'michetta', 'pambazo']
 **extra_cons_in_predicted_cluster: ['bollo', 'cudighi', 'filone', 'focaccia', 'fritelli', 'hard dough bread', 'italian hot dog', 'lazarakia', 'pandoro', 'pane di altamura', 'panettone', 'panfocaccia', 'scali bread', 'stasulli', 'tone bread', 'tonight bread', 'torta caprese', 'tsoureki']
 
+********************
+**gold_taxo_property: seeds
+**gold_taxo_cons: ['almonds', 'brazil nuts', 'cashews', 'chestnuts', 'chocolate covered nuts', 'hazelnuts', 'kola nuts', 'macadamia nuts', 'mamoncillo nuts', 'maya nuts', 'mixed nuts', 'ogbono nuts', 'paradise nuts', 'peanuts', 'pecans', 'pine nuts', 'pistachios', 'pumpkin seeds', 'sesame seeds', 'soy nuts', 'sunflower seeds', 'walnuts']
+**best_jaccard_index: 0.0
 
 ********************
 **gold_taxo_property: potato pancake
@@ -894,7 +842,6 @@
 **con_intersection: ['boxty']
 **extra_cons_in_predicted_cluster: ['cider', 'gin', 'gypsy tart', 'sausage making', 'whisky']
 
-
 ********************
 **gold_taxo_property: water
 **gold_taxo_cons: ['bottled water', 'carbonated water', 'flavoured water', 'tonic water']
@@ -905,7 +852,6 @@
 **predicted_cluster_prop: ['tap']
 **con_intersection: ['bottled water', 'carbonated water']
 **extra_cons_in_predicted_cluster: ['mannish water', 'water']
-
 
 ********************
 **gold_taxo_property: fruit cake
@@ -918,7 +864,6 @@
 **con_intersection: ['christmas cake', 'simnel cake']
 **extra_cons_in_predicted_cluster: ['bagel', 'bagel toast', 'montreal-style bagel']
 
-
 ********************
 **gold_taxo_property: sweets
 **gold_taxo_cons: ['boiled sweets', 'candy bars', 'candy canes', 'candy corn', 'caramels', 'chewing gum', 'chocolate assortments', 'chocolate bars', 'chocolate covered fruit', 'chocolate mints', 'chocolate truffles', 'fruit chews', 'gumdrops', 'gummy sweets', 'jelly beans', 'licorice', 'lollipops', 'marshmallow sweets', 'mints', 'nougat', 'peanut butter cups', 'suckers', 'taffy', 'toffee', 'toffee brittle']
@@ -929,7 +874,6 @@
 **predicted_cluster_prop: ['candy' 'type of candy' 'candy pieces' 'cotton candy']
 **con_intersection: ['candy corn', 'licorice', 'nougat', 'peanut butter cups', 'taffy', 'toffee', 'toffee brittle']
 **extra_cons_in_predicted_cluster: ['boiled sweet', 'bolo de mel', 'cheese puffs', 'chocolate mint', 'corn syrup', 'dessert bar', 'edible baking decoration', 'flavoured syrup', 'food colouring', 'fruit chew', 'fudge', 'golden crisp', 'goody', 'gumdrop', 'gummy sweet', 'ho hos', 'honey loops', 'honey nut clusters', 'jelly bean', 'kesme', 'lollipop', 'marshmallow', 'marshmallow sweet', 'potatiskorv', 'sucker', 'sugar', 'sugar pearl', 'sugar puffs', 'sweet', 'turrón', 'wacky cake']
-
 
 ********************
 **gold_taxo_property: porridge
@@ -944,7 +888,6 @@
 **con_intersection: ['barley gruel', 'champorado', 'helmipuuro', 'juk', 'mămăligă', 'oatmeal', 'ogi', 'rømmegrøt']
 **extra_cons_in_predicted_cluster: ['buc wheats cereal', 'grits', 'instant oatmeal', 'just right', 'kitcha', 'mami soup', 'mbeju', 'millet', 'oatibix', 'oats', 'palappam', 'panada', 'pastina', 'porridge', 'ready brek', "scott's porage oats", 'undercover bears instant oatmeal', 'zosui']
 
-
 ********************
 **gold_taxo_property: appetiser
 **gold_taxo_cons: ['breadsticks', 'cereal and granola bars', 'cheese puffs', 'chips', 'crackers', 'croutons', 'fruit and nut snacks', 'fruit snacks', 'jerky', 'popcorn', 'pork scratchings', 'pretzels', 'puffed rice cakes', 'salad toppings', 'sesame sticks', 'snack cakes', 'sticky rice cakes']
@@ -956,7 +899,6 @@
  'movie experience' 'moviegoers']
 **con_intersection: ['cheese puffs', 'chips', 'popcorn']
 **extra_cons_in_predicted_cluster: ['corn pops', 'golden crisp', 'pork scratching', 'pretzel mix']
-
 
 ********************
 **gold_taxo_property: chinese noodles
@@ -973,7 +915,6 @@
  'fuži with vegetables' 'kung pao chicken']
 **con_intersection: ['lai fun', 'lamian', 'saang mein', 'shahe fen', 'youmian']
 **extra_cons_in_predicted_cluster: ['biángbiáng noodles', 'chilli oil', 'chinese pancake', 'chinkiang pot cover noodles', 'crossing the bridge noodles', 'duck soup noodles', 'egg drop soup', 'fuži', 'gai choi', 'gai lan', 'henan braised noodles', 'hot dry noodles', 'kai kou xiao', 'lung fungus soup', 'mala sauce', 'mandarin roll', 'mantou', 'rice noodle roll', 'sang mein', 'shanghai fried noodles', 'shrimp roe noodles', 'siu haau sauce', 'sour soup', 'soy sauce', 'sweet and sour pork', 'tian mo', 'turtle soup', 'wonton noodles', 'wow-wow sauce', 'yak mein', 'yaka mein', 'yi mein', 'zosui']
-
 
 ********************
 **gold_taxo_property: sauce
@@ -996,7 +937,6 @@
  'meat-based' 'no tomato sauce' 'classic sauce' 'vinegar-based']
 **con_intersection: ['agrodolce', 'aioli', 'albufera sauce', 'barbecue sauce', 'bordelaise sauce', 'bread sauce', 'breton sauce', 'brown sauce', 'béchamel sauce', 'chimichurri', 'coulis', 'cranberry sauce', 'cumberland sauce', 'espagnole sauce', 'gastrique', 'gravy', 'green sauce', 'hogao', 'honey garlic sauce', 'lobster sauce', 'louis dressing', 'maafe', 'meunière sauce', 'mint sauce', 'mushroom gravy', 'nantua sauce', 'neapolitan ragù', 'ok sauce', 'red-eye gravy', 'sambal', 'sauce gribiche', 'sauce lyonnaise', "somebody's mother's chocolate sauce", 'soubise sauce', 'suprême sauce', 'tucupi', 'velouté sauce', 'venetian sauce']
 **extra_cons_in_predicted_cluster: ['ajo blanco', 'ajoblanco', 'albert sauce', 'amandine', 'berlingozzo', 'beurre blanc', 'bolognese sauce', "bull's-eye barbecue sauce", 'béarnaise sauce', 'café de paris sauce', 'california-style pizza', 'cannelloni', 'caramel', 'carbonade flamande', 'cavatelli', 'chicago-style pizza', 'chilli oil', 'chutney', 'condiment', 'curry ketchup', 'curry sauce', 'dessert topping', 'dip', 'gemelli', 'harissa', 'hot dog', 'kaeng som', 'kc masterpiece', 'khrenovina sauce', 'kissel', 'mafalda', 'marinade', "maul's barbecue sauce", "maull's barbecue sauce", 'nali sauce', 'neapolitan pizza', 'new york-style pizza', 'occhi di lupo', 'oil noodles', 'orecchiette', 'peach sauce', 'peanut sauce', 'pesto', 'pique verde boricua', 'pizza', 'pizza carbonara', 'ragù', 'romesco', 'rotelle', 'rouille', 'salsa', 'salvitxada', 'sauce', 'sauce ravigote', 'sauce vierge', 'sheer korma', 'siu haau sauce', "sugo all'amatriciana", 'sweet and sour pork', 'taglierini', 'tortelloni', 'udon', 'vanilla extract', 'wow-wow sauce']
-
 
 ********************
 **gold_taxo_property: dessert wine
@@ -1021,7 +961,6 @@
 **con_intersection: ['port']
 **extra_cons_in_predicted_cluster: []
 
-
 ********************
 **gold_taxo_property: non-dairy milk
 **gold_taxo_cons: ['almond milk', 'coconut milk', 'hemp milk', 'oat milk', 'rice milk', 'soy milk']
@@ -1032,7 +971,6 @@
 **predicted_cluster_prop: ['almond breeze']
 **con_intersection: ['almond milk', 'oat milk', 'rice milk', 'soy milk']
 **extra_cons_in_predicted_cluster: ['non-dairy milk', 'poppy milk']
-
 
 ********************
 **gold_taxo_property: cooking oil
@@ -1045,7 +983,6 @@
 **con_intersection: ['canola oil', 'coconut oil', 'corn oil', 'hemp oil', 'olive oil', 'peanut oil', 'rice oil', 'sesame oil', 'soybean oil', 'vegetable oil', 'walnut oil']
 **extra_cons_in_predicted_cluster: ['cornmeal', 'onion powder', 'poppy milk', 'sugar cane']
 
-
 ********************
 **gold_taxo_property: bun
 **gold_taxo_cons: ['barm cake', 'bath bun', 'belgian bun', 'bialy', 'bollo', 'currant bun', 'fruit bun', 'hot cross bun', 'hot dog bun', 'london bun', 'mandarin roll', 'mantou', 'pastel de camiguín', 'penny bun', 'saffron bun', 'sata andagi', 'spiced bun', 'xab momo']
@@ -1056,6 +993,5 @@
 **predicted_cluster_prop: ['sweet glaze' 'glaze' 'glaze for meats']
 **con_intersection: ['bath bun', 'fruit bun', 'london bun', 'spiced bun']
 **extra_cons_in_predicted_cluster: ['babka', 'boston cream doughnut', 'coconut doughnut', 'coffee cake', 'cumberland sauce', 'cupcake', 'donut', 'doughnut', 'gastrique', 'honey dew donut', 'muffin', 'pulla', 'sweet roll']
-
 
 **avg_jaccard_index: 0.2625
