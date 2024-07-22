@@ -1,3 +1,4 @@
+import gc
 import os
 import pickle
 
@@ -5,6 +6,13 @@ import torch
 from llm2vec import LLM2Vec
 from peft import PeftModel
 from transformers import AutoConfig, AutoModel, AutoTokenizer
+
+torch.cuda.empty_cache()
+torch.cuda.empty_cache()
+
+gc.collect()
+gc.collect()
+gc.collect()
 
 
 def prepare_model(MODEL_ID):
@@ -66,9 +74,16 @@ for fact_property_file in facet_colon_property_files:
     file_name, file_extension = os.path.splitext(file_name_with_ext)
 
     out_file_name = os.path.join(os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl")
-    pickle_output_file = os.path("embeds/llm2vec", out_file_name)
+    pickle_output_file = os.path.join("embeds/llm2vec", out_file_name)
 
     with open(pickle_output_file, "wb") as pkl_file:
         pickle.dump(facet_property_and_embedding, pkl_file)
 
     print(f"got_embeddings: {fact_property_file}", flush=True)
+
+torch.cuda.empty_cache()
+torch.cuda.empty_cache()
+
+gc.collect()
+gc.collect()
+gc.collect()
