@@ -16,6 +16,8 @@ def affinity_propagation_clustering(config):
 
     embedding_file = config["embedding_file"]
 
+    logger.info(f"starting afp clustering, embedding_file: {embedding_file}")
+
     with open(embedding_file, "rb") as pkl_inp:
         prop_embed = pickle.load(pkl_inp)
 
@@ -152,6 +154,8 @@ def max_jaccard_gold_and_predicted_clusters(
     # taxo_file = "data/evaluation_taxo/gold/commonsense.taxo"
     # final_output_file = "commonsense_taxo_commonalities_max_jaccard_gold_and_predicted.txt"
 
+    logger.info(f"calculating max_jaccard_gold_and_predicted_clusters")
+
     cluster_df = pd.read_csv(con_prop_cluster_label_file, sep="\t")
     taxo_df = pd.read_csv(taxo_file, sep="\t", names=["concept", "property"])
 
@@ -270,6 +274,7 @@ def max_jaccard_gold_and_predicted_clusters(
 
         print(f"**avg_jaccard_index: {avg_jaccard_index}")
 
+        logger.info(f"calculating max_jaccard_gold_and_predicted_clusters - Done !!")
         logger.info(f"max_jaccard_gold_and_predicted_clusters saved at: {output_file}")
 
 
@@ -310,8 +315,6 @@ if __name__ == "__main__":
     all_cols_final_cluster_file, con_prop_cluster_label_file_name = (
         merge_concepts_clusters(config["all_parsed_data_file"], clusters_output_file)
     )
-
-    logger.info(f"calculating max_jaccard_gold_and_predicted_clusters")
 
     taxo_file = config["taxo_file"]
     output_file = os.path.join(
