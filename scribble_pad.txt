@@ -586,3 +586,4 @@ python3 src/concept_facet_property_prompting.py --config configs/facet_prop_gene
 
 python3 src/facet_property_clustering.py --config_file configs/clustering/llama3b8_inst_mntp_embeds_equipment.json
 
+python3 src/facet_property_clustering.py --config_file configs/clustering/llama3b8_inst_mntp_embeds_commonsense.json
