@@ -311,7 +311,7 @@ if __name__ == "__main__":
         merge_concepts_clusters(config["all_parsed_data_file"], clusters_output_file)
     )
 
-    logger.info()
+    logger.info(f"calculating max_jaccard_gold_and_predicted_clusters")
 
     taxo_file = config["taxo_file"]
     output_file = os.path.join(
