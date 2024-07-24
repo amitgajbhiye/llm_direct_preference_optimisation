@@ -2,6 +2,7 @@ import logging
 import os
 import pickle
 import time
+import warnings
 from argparse import ArgumentParser
 
 import numpy as np
@@ -10,6 +11,8 @@ from sklearn.cluster import AffinityPropagation
 from sklearn.preprocessing import StandardScaler
 
 from utilities import get_execution_time, read_config
+
+warnings.filterwarnings("ignore")
 
 
 def affinity_propagation_clustering(config):
