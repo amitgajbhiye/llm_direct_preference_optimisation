@@ -19,6 +19,10 @@ def affinity_propagation_clustering(config):
     with open(embedding_file, "rb") as pkl_inp:
         prop_embed = pickle.load(pkl_inp)
 
+    if isinstance(prop_embed, list):
+        logger.info(f"converting (prop, embed) lost to prop: embed dict")
+        prop_embed = {facet_prop: embed for facet_prop, embed in prop_embed}
+
     properties = list(prop_embed.keys())
     prop_embeddings = np.array(list(prop_embed.values()))
 

@@ -66,6 +66,11 @@ for fact_property_file in facet_colon_property_files:
         for facet_prop, embed in zip(facet_property, facet_property_embeds)
     ]
 
+    facet_property_and_embedding_dict = {
+        facet_prop: embed
+        for facet_prop, embed in zip(facet_property, facet_property_embeds)
+    }
+
     print(f"Top 5 facet_property_and_embedding")
     print(facet_property_and_embedding[0:5])
 
@@ -77,7 +82,7 @@ for fact_property_file in facet_colon_property_files:
     pickle_output_file = os.path.join("embeds", out_file_name)
 
     with open(pickle_output_file, "wb") as pkl_file:
-        pickle.dump(facet_property_and_embedding, pkl_file)
+        pickle.dump(facet_property_and_embedding_dict, pkl_file)
 
     print(f"got_embeddings: {fact_property_file}", flush=True)
     print(f"embeds_saved: {pickle_output_file}", flush=True)
