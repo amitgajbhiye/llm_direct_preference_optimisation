@@ -1,0 +1,10 @@
+{
+    "experiment_name": "llama3b8_inst_mntp_embeds_environment",
+    "log_dir": "logs",
+    "taxo_file": "data/evaluation_taxo/gold/environment.taxo",
+    "embedding_file": "embeds/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp/llama3_repeat10_environment_facet_colon_property_embeds.pkl",
+    "output_dir": "data/evaluation_taxo/generated_facet_property",
+    "clusters_output_file": "llama3b8_inst_mntp_environment_facet_property_embeds_afp_clusters",
+    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_environment_taxo_concepts_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": "llama3b8_inst_mntp_embeds_environment_taxo_commonalities_max_jaccard_gold_and_predicted.txt"
+}

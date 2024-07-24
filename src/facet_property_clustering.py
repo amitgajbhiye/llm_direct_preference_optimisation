@@ -137,7 +137,136 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         f"con_prop_cluster_label_file_name saved at: {con_prop_cluster_label_file_name}"
     )
 
-    return all_clusters, con_prop_cluster_label_file_name
+    return all_cols_final_cluster_file, con_prop_cluster_label_file_name
+
+
+def max_jaccard_gold_and_predicted_clusters(
+    con_prop_cluster_label_file, taxo_file, output_file
+):
+    # Files required for
+    # cluster_file = "data/evaluation_taxo/generated_facet_property/final_concept_property_cluster_label_bienc_commonsense_facet_property_embeds_afp_clusters.txt"
+    # taxo_file = "data/evaluation_taxo/gold/commonsense.taxo"
+    # final_output_file = "commonsense_taxo_commonalities_max_jaccard_gold_and_predicted.txt"
+
+    cluster_df = pd.read_csv(con_prop_cluster_label_file, sep="\t")
+    taxo_df = pd.read_csv(taxo_file, sep="\t", names=["concept", "property"])
+
+    print("taxo_df")
+    print(taxo_df)
+    print(len(taxo_df["concept"].unique()), taxo_df["concept"].unique())
+
+    taxo_prop = taxo_df["property"].unique().tolist()
+    predicted_cluster_labels = cluster_df["cluster_label"].unique()
+
+    jaccard_indices = []
+
+    print(f"taxo_prop: {len(taxo_prop)}, {taxo_prop}")
+    print(
+        f"predicted_cluster_labels: {len(predicted_cluster_labels)}, {predicted_cluster_labels}"
+    )
+
+    with open(output_file, "w") as out_file:
+        for prop in taxo_prop:
+            prop_results = []
+
+            taxo_con = set(taxo_df[taxo_df["property"] == prop]["concept"].unique())
+            for cluster_label in predicted_cluster_labels:
+                predicted_cluster_con = set(
+                    cluster_df[cluster_df["cluster_label"] == int(cluster_label)][
+                        "concept"
+                    ].unique()
+                )
+
+                intersection = predicted_cluster_con.intersection(taxo_con)
+                union = predicted_cluster_con.union(taxo_con)
+
+                jaccard_score = round(len(intersection) / len(union), 4)
+
+                prop_results.append((cluster_label, jaccard_score))
+
+            max_jaccard_index = max(prop_results, key=lambda x: x[1])[1]
+            max_jaccard_tuples = [t for t in prop_results if t[1] == max_jaccard_index]
+            jaccard_indices.append(max_jaccard_index)
+
+            if max_jaccard_index != 0.0:
+                max_jaccard_cluster_labels = [t[0] for t in max_jaccard_tuples]
+
+                print(f"{'*'*20}")
+                print(f"**gold_taxo_property: {prop}")
+                print(f"**gold_taxo_cons: {sorted(taxo_con)}")
+                print(f"**best_jaccard_index: {max_jaccard_index}")
+                print(f"**best_jaccard_clusters: {max_jaccard_cluster_labels}")
+
+                out_file.write(f"{'*'*20}\n")
+                out_file.write(f"**gold_taxo_property: {prop}\n")
+                out_file.write(f"**gold_taxo_cons: {sorted(taxo_con)}\n")
+                out_file.write(f"**best_jaccard_index: {max_jaccard_index}\n")
+                out_file.write(
+                    f"**best_jaccard_clusters: {max_jaccard_cluster_labels}\n"
+                )
+
+                for cluster_label in max_jaccard_cluster_labels:
+
+                    predicted_cluster_con = sorted(
+                        cluster_df[cluster_df["cluster_label"] == int(cluster_label)][
+                            "concept"
+                        ].unique()
+                    )
+                    predicted_cluster_prop = cluster_df[
+                        cluster_df["cluster_label"] == int(cluster_label)
+                    ]["property"].unique()
+
+                    extra_cons_predicted_cluster = [
+                        item for item in predicted_cluster_con if item not in taxo_con
+                    ]
+                    common_cons_predicted_gold_cons = [
+                        item for item in predicted_cluster_con if item in taxo_con
+                    ]
+
+                    print(f"**cluster_label: {cluster_label}")
+                    print(f"**predicted_cluster_con: {sorted(predicted_cluster_con)}")
+                    print(f"**predicted_cluster_prop: {predicted_cluster_prop}")
+                    print(f"**con_intersection: {common_cons_predicted_gold_cons}")
+                    print(
+                        f"**extra_cons_in_predicted_cluster: {extra_cons_predicted_cluster}"
+                    )
+                    print()
+
+                    out_file.write(f"**cluster_label: {cluster_label}\n")
+                    out_file.write(
+                        f"**predicted_cluster_con: {sorted(predicted_cluster_con)}\n"
+                    )
+                    out_file.write(
+                        f"**predicted_cluster_prop: {predicted_cluster_prop}\n"
+                    )
+                    out_file.write(
+                        f"**con_intersection: {common_cons_predicted_gold_cons}\n"
+                    )
+                    out_file.write(
+                        f"**extra_cons_in_predicted_cluster: {extra_cons_predicted_cluster}\n"
+                    )
+                    out_file.write(f"\n")
+
+            else:
+
+                print(f"{'*'*20}")
+                print(f"**gold_taxo_property: {prop}")
+                print(f"**gold_taxo_cons: {sorted(taxo_con)}")
+                print(f"**best_jaccard_index: {max_jaccard_index}")
+                print()
+
+                out_file.write(f"{'*'*20}\n")
+                out_file.write(f"**gold_taxo_property: {prop}\n")
+                out_file.write(f"**gold_taxo_cons: {sorted(taxo_con)}\n")
+                out_file.write(f"**best_jaccard_index: {max_jaccard_index}\n")
+                out_file.write(f"\n")
+
+        avg_jaccard_index = round(np.average(jaccard_indices), 4)
+        out_file.write(f"**avg_jaccard_index: {avg_jaccard_index}\n")
+
+        print(f"**avg_jaccard_index: {avg_jaccard_index}")
+
+        logger.info(f"max_jaccard_gold_and_predicted_clusters saved at: {output_file}")
 
 
 if __name__ == "__main__":
@@ -174,7 +303,22 @@ if __name__ == "__main__":
 
     clusters_output_file = affinity_propagation_clustering(config=config)
 
-    merge_concepts_clusters(config["all_parsed_data_file"], clusters_output_file)
+    all_cols_final_cluster_file, con_prop_cluster_label_file_name = (
+        merge_concepts_clusters(config["all_parsed_data_file"], clusters_output_file)
+    )
+
+    logger.info()
+
+    taxo_file = config["taxo_file"]
+    output_file = os.path.join(
+        config["output_dir"], config["max_jaccard_gold_and_predicted_clusters_file"]
+    )
+
+    max_jaccard_gold_and_predicted_clusters(
+        con_prop_cluster_label_file=con_prop_cluster_label_file_name,
+        taxo_file=taxo_file,
+        output_file=output_file,
+    )
 
     end_time = time.time()
     get_execution_time(start_time, end_time)

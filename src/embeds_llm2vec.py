@@ -80,7 +80,8 @@ for fact_property_file in facet_colon_property_files:
         pickle.dump(facet_property_and_embedding, pkl_file)
 
     print(f"got_embeddings: {fact_property_file}", flush=True)
-    print(f"embeds_saved: {pickle_output_file}")
+    print(f"embeds_saved: {pickle_output_file}", flush=True)
+    print(flush=True)
 
 torch.cuda.empty_cache()
 torch.cuda.empty_cache()
