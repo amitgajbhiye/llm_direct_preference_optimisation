@@ -37,7 +37,10 @@ def prepare_model(MODEL_ID):
     return llm2vec_model
 
 
-MODEL_ID = "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp"
+# MODEL_ID = "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp"
+
+MODEL_ID = "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp-supervised"
+
 llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
 
