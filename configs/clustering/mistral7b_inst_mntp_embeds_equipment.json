@@ -1,0 +1,10 @@
+{
+    "experiment_name": "mistral7b_inst_mntp_embeds_equipment",
+    "log_dir": "logs",
+    "taxo_file": "data/evaluation_taxo/gold/equipment.taxo",
+    "embedding_file": "embeds/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_repeat10_equipment_facet_colon_property_embeds.pkl",
+    "output_dir": "data/evaluation_taxo/generated_facet_property",
+    "clusters_output_file": "mistral7b_inst_mntp_embeds_equipment_facet_property_afp_clusters",
+    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_equipment_taxo_concepts_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": "mistral7b_inst_mntp_embeds_equipment_taxo_commonalities_max_jaccard_gold_and_predicted.txt"
+}
