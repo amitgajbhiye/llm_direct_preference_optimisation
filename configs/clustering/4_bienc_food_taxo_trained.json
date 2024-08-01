@@ -1,0 +1,10 @@
+{
+    "experiment_name": "bienc_food_taxo_trained",
+    "log_dir": "logs",
+    "taxo_file": "data/evaluation_taxo/gold/food.taxo",
+    "embedding_file": "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/llama3_food_facet_property_bienc_food_taxo_trained_property_embeddings.pkl",
+    "output_dir": "data/evaluation_taxo/generated_facet_property",
+    "clusters_output_file": "bienc_taxo_trained_embeds_food_facet_property_afp_clusters",
+    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_food_taxo_concepts_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": "bienc_taxo_trained_embeds_food_taxo_commonalities_max_jaccard_gold_and_predicted.txt"
+}
