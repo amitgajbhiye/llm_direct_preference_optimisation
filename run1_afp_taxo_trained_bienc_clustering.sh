@@ -8,7 +8,7 @@
 #SBATCH --error=logs/err_run1_afp_taxo_trained_bienc_clustering.txt
 
 #SBATCH --nodes=1
-#SBATCH --ntasks=1
+#SBATCH --ntasks=30
 #SBATCH -p highmem
 #SBATCH --cpus-per-task=30
 #SBATCH --mem=75G
