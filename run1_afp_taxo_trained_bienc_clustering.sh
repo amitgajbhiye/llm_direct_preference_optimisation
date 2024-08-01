@@ -10,7 +10,7 @@
 #SBATCH --nodes=1
 #SBATCH -p highmem
 #SBATCH --ntasks=20
-#SBATCH --ntasks-per-node=40
+#SBATCH --ntasks-per-node=20
 #SBATCH --cpus-per-task=2
 
 
