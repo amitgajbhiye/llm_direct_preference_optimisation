@@ -369,11 +369,11 @@ if __name__ == "__main__":
                 f"{clusters_output_file}_preference_{preference}"
             )
 
-            clusters_output_file = affinity_propagation_clustering(config=config)
+            created_clusters_file = affinity_propagation_clustering(config=config)
 
             all_cols_final_cluster_file, con_prop_cluster_label_file_name = (
                 merge_concepts_clusters(
-                    config["all_parsed_data_file"], clusters_output_file
+                    config["all_parsed_data_file"], created_clusters_file
                 )
             )
 
