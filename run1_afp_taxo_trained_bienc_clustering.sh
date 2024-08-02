@@ -4,8 +4,8 @@
 #SBATCH -A scw1858
 #SBATCH --job-name=commAFP
 
-#SBATCH --output=logs/out_run1_afp_taxo_trained_bienc_clustering.txt
-#SBATCH --error=logs/err_run1_afp_taxo_trained_bienc_clustering.txt
+#SBATCH --output=logs/out_run1_afp_equipment_trained_bienc_clustering.txt
+#SBATCH --error=logs/err_run1_afp_equipment_trained_bienc_clustering.txt
 
 #SBATCH --nodes=1
 #SBATCH -p highmem
@@ -20,11 +20,13 @@
 
 conda activate venv
 
-python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_science_taxo_trained.json
-python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_food_taxo_trained.json
+# python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_science_taxo_trained.json
+# python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_food_taxo_trained.json
+# python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_environment_taxo_trained.json
+# python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_commonsense_taxo_trained.json
+
+
 python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_equipment_taxo_trained.json
-python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_environment_taxo_trained.json
-python3 src/facet_property_clustering.py --config_file configs/clustering/4_bienc_commonsense_taxo_trained.json
 
 
 echo 'Job Finished !!!'

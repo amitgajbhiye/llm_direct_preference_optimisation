@@ -2,7 +2,7 @@
     "experiment_name": "bienc_equipment_taxo_trained",
     "log_dir": "logs",
     "taxo_file": "data/evaluation_taxo/gold/equipment.taxo",
-    "embedding_file": "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities",
+    "embedding_file": "/scratch/c.scmag3/property_augmentation/trained_models/embeds_for_commonalities/llama3_equipment_facet_property_bienc_equipment_taxo_trained_property_embeddings.pkl",
     "output_dir": "data/evaluation_taxo/generated_facet_property",
     "clusters_output_file": "bienc_taxo_trained_embeds_equipment_facet_property_afp_clusters",
     "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_equipment_taxo_concepts_parsed.txt",
