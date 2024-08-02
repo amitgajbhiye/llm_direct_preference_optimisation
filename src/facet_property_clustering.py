@@ -53,7 +53,7 @@ def affinity_propagation_clustering(config):
 
     prop_cluster_list = [(prop, label) for prop, label in zip(properties, labels)]
 
-    clusters_output_file = os.path.join(
+    clustered_file_name = os.path.join(
         config["output_dir"], config["clusters_output_file"]
     )
 
@@ -61,16 +61,16 @@ def affinity_propagation_clustering(config):
         prop_cluster_list, columns=["facet_property", "cluster_label"]
     ).sort_values(by=["cluster_label"])
 
-    df.to_csv(f"{clusters_output_file}.txt", sep="\t", index=False, encoding="utf-8")
+    df.to_csv(f"{clustered_file_name}.txt", sep="\t", index=False, encoding="utf-8")
 
-    with open(f"{clusters_output_file}.pkl", "wb") as pkl_out:
+    with open(f"{clustered_file_name}.pkl", "wb") as pkl_out:
         pickle.dump(prop_cluster_list, pkl_out)
 
     logger.info(f"clustering_done!!!")
-    logger.info(f"text_clustered_file_saved at: {clusters_output_file}.txt")
-    logger.info(f"pkl_clustered_file_saved at: {clusters_output_file}.pkl")
+    logger.info(f"text_clustered_file_saved at: {clustered_file_name}.txt")
+    logger.info(f"pkl_clustered_file_saved at: {clustered_file_name}.pkl")
 
-    return f"{clusters_output_file}.txt"
+    return f"{clustered_file_name}.txt"
 
 
 def merge_concepts_clusters(all_data_file, cluster_file):
