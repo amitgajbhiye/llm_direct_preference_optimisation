@@ -592,6 +592,8 @@ python3 src/facet_property_clustering.py --config_file configs/clustering/llama3
 ***** hf_token = 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 *****
 
 
+python3 src/facet_property_clustering.py --config_file configs/clustering/5_bienc_commonsense_preferences.json
+
 
 
 

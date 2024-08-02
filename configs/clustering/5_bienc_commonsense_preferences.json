@@ -1,10 +1,12 @@
 {
     "experiment_name": "bienc_commonsense_preferences",
-    "log_dir": "logs/",
+    "do_preference_exp": true,
+    "taxo_name": "commonsense",
+    "log_dir": "logs/preference_exp",
     "taxo_file": "data/evaluation_taxo/gold/commonsense.taxo",
     "embedding_file": "embeds/biencoder/llama3_commonsense_facet_property_bienc_commonsense_taxo_trained_property_embeddings.pkl",
+    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_commonsense_taxo_concepts_parsed.txt",
     "output_dir": "data/evaluation_taxo/preference_exp",
     "clusters_output_file": "bienc_taxo_trained_embeds_commonsense_facet_property_afp_clusters",
-    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_commonsense_taxo_concepts_parsed.txt",
-    "max_jaccard_gold_and_predicted_clusters_file": "bienc_taxo_trained_embeds_commonsense_taxo_commonalities_max_jaccard_gold_and_predicted.txt"
+    "max_jaccard_gold_and_predicted_clusters_file": "bienc_taxo_trained_embeds_commonsense_taxo_commonalities_max_jaccard_gold_and_predicted"
 }

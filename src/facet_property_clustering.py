@@ -10,7 +10,7 @@ import pandas as pd
 from sklearn.cluster import AffinityPropagation
 from sklearn.preprocessing import StandardScaler
 
-from utilities import get_execution_time, read_config
+from utilities import create_directories, get_execution_time, read_config
 
 warnings.filterwarnings("ignore")
 
@@ -20,6 +20,10 @@ def affinity_propagation_clustering(config):
     embedding_file = config["embedding_file"]
 
     logger.info(f"starting afp clustering, embedding_file: {embedding_file}")
+
+    preference = config.get(preference, None)
+
+    logger.info(f"affinity_propogation_preference: {preference}")
 
     with open(embedding_file, "rb") as pkl_inp:
         prop_embed = pickle.load(pkl_inp)
@@ -40,7 +44,7 @@ def affinity_propagation_clustering(config):
 
     logger.info(f"scaled_embeds.shape {scaled_embeds.shape}")
 
-    clustering = AffinityPropagation().fit(scaled_embeds)
+    clustering = AffinityPropagation(preference=preference).fit(scaled_embeds)
     labels = clustering.labels_
     total_cluster_labels = set(labels)
 
@@ -129,10 +133,11 @@ def merge_concepts_clusters(all_data_file, cluster_file):
     )
 
     all_cols_final_cluster_file = os.path.join(
-        config["output_dir"], f"final_{config['clusters_output_file']}.txt"
+        config["output_dir"], f"final_all_columns_{config['clusters_output_file']}.txt"
     )
     all_clusters.to_csv(all_cols_final_cluster_file, sep="\t", index=False)
 
+    #######
     con_prop_cluster_label_file_name = os.path.join(
         config["output_dir"],
         f"final_concept_property_cluster_label_{config['clusters_output_file']}.txt",
@@ -296,6 +301,7 @@ if __name__ == "__main__":
     config = read_config(args.config_file)
 
     log_dir = config["log_dir"]
+    create_directories(log_dir)
 
     log_file_name = os.path.join(
         log_dir,
@@ -313,22 +319,71 @@ if __name__ == "__main__":
     logger.info("The model is run with the following configuration")
     logger.info(f"\n {config} \n")
 
-    clusters_output_file = affinity_propagation_clustering(config=config)
+    do_preference_exp = config["do_preference_exp"]
 
-    all_cols_final_cluster_file, con_prop_cluster_label_file_name = (
-        merge_concepts_clusters(config["all_parsed_data_file"], clusters_output_file)
-    )
+    if not do_preference_exp:
+        logger.info(f"Experiment with default preference param.")
 
-    taxo_file = config["taxo_file"]
-    output_file = os.path.join(
-        config["output_dir"], config["max_jaccard_gold_and_predicted_clusters_file"]
-    )
+        clusters_output_file = affinity_propagation_clustering(config=config)
+        all_cols_final_cluster_file, con_prop_cluster_label_file_name = (
+            merge_concepts_clusters(
+                config["all_parsed_data_file"], clusters_output_file
+            )
+        )
 
-    max_jaccard_gold_and_predicted_clusters(
-        con_prop_cluster_label_file=con_prop_cluster_label_file_name,
-        taxo_file=taxo_file,
-        output_file=output_file,
-    )
+        taxo_file = config["taxo_file"]
+        output_file = os.path.join(
+            config["output_dir"],
+            f'{config["max_jaccard_gold_and_predicted_clusters_file"]}.txt',
+        )
 
-    end_time = time.time()
-    get_execution_time(start_time, end_time)
+        max_jaccard_gold_and_predicted_clusters(
+            con_prop_cluster_label_file=con_prop_cluster_label_file_name,
+            taxo_file=taxo_file,
+            output_file=output_file,
+        )
+
+        end_time = time.time()
+        get_execution_time(start_time, end_time)
+
+    else:
+
+        output_dir = config["output_dir"]
+        taxo_name = config["taxo_name"]
+        config["output_dir"] = os.path.join(output_dir, taxo_name)
+        create_directories(config["output_dir"])
+        preferences = (0.5, 0.6, 0.7, 0.8, 0.9)
+
+        logger.info(f"Experiment with different preference param: {preferences}")
+
+        for preference in preferences:
+
+            logger.info(f"clustering_preference: {preference}")
+
+            config["preference"] = preference
+            config["clusters_output_file"] = (
+                f'{config["clusters_output_file"]}_preference_{preference}'
+            )
+
+            clusters_output_file = affinity_propagation_clustering(config=config)
+
+            all_cols_final_cluster_file, con_prop_cluster_label_file_name = (
+                merge_concepts_clusters(
+                    config["all_parsed_data_file"], clusters_output_file
+                )
+            )
+
+            taxo_file = config["taxo_file"]
+            output_file = os.path.join(
+                config["output_dir"],
+                f'{config["max_jaccard_gold_and_predicted_clusters_file"]}_preference_{preference}.txt',
+            )
+
+            max_jaccard_gold_and_predicted_clusters(
+                con_prop_cluster_label_file=con_prop_cluster_label_file_name,
+                taxo_file=taxo_file,
+                output_file=output_file,
+            )
+
+            end_time = time.time()
+            get_execution_time(start_time, end_time)
