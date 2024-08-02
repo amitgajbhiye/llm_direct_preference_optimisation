@@ -98,7 +98,7 @@ def merge_concepts_clusters(all_data_file, cluster_file):
     sorted_clusters = []
     for cluster_label in cluster_labels:
 
-        logger.info(f"cluster_label: {cluster_label}")
+        # logger.info(f"cluster_label: {cluster_label}")
 
         temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
         facet_props = temp_df["facet_property"].to_list()
@@ -351,6 +351,9 @@ if __name__ == "__main__":
         output_dir = config["output_dir"]
         taxo_name = config["taxo_name"]
         config["output_dir"] = os.path.join(output_dir, taxo_name)
+
+        clusters_output_file = config["clusters_output_file"]
+
         create_directories(config["output_dir"])
         preferences = (0.5, 0.6, 0.7, 0.8, 0.9)
 
@@ -361,8 +364,9 @@ if __name__ == "__main__":
             logger.info(f"clustering_preference: {preference}")
 
             config["preference"] = preference
+
             config["clusters_output_file"] = (
-                f'{config["clusters_output_file"]}_preference_{preference}'
+                f"{clusters_output_file}_preference_{preference}"
             )
 
             clusters_output_file = affinity_propagation_clustering(config=config)
