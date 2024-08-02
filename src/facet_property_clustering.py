@@ -21,7 +21,7 @@ def affinity_propagation_clustering(config):
 
     logger.info(f"starting afp clustering, embedding_file: {embedding_file}")
 
-    preference = config.get(preference, None)
+    preference = config.get("preference", None)
 
     logger.info(f"affinity_propogation_preference: {preference}")
 
