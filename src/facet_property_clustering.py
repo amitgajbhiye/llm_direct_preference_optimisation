@@ -8,6 +8,7 @@ from argparse import ArgumentParser
 import numpy as np
 import pandas as pd
 from sklearn.cluster import AffinityPropagation
+from sklearn.metrics import euclidean_distances
 from sklearn.preprocessing import StandardScaler
 
 from utilities import create_directories, get_execution_time, read_config
@@ -357,8 +358,31 @@ if __name__ == "__main__":
         create_directories(config["output_dir"])
         # preferences = (0.5, 0.6, 0.7, 0.8, 0.9)
         # preferences = (-50, -30, 10)
+        # preferences = (-200, -100, 0, 100, 200)
 
-        preferences = (-200, -100, 0, 100, 200)
+        #################
+        embedding_file = config["embedding_file"]
+
+        with open(embedding_file, "rb") as pkl_inp:
+            prop_embed = pickle.load(pkl_inp)
+
+        if isinstance(prop_embed, list):
+            logger.info(f"converting (prop, embed) lost to prop: embed dict")
+            prop_embed = {facet_prop: embed for facet_prop, embed in prop_embed}
+
+        properties = list(prop_embed.keys())
+        prop_embeddings = np.array(list(prop_embed.values()))
+
+        S = -euclidean_distances(prop_embeddings, squared=True)
+        preferences = np.linspace(np.min(S), np.max(S), 10)
+
+        logger.info(f"prop_embeddings.shape: {prop_embeddings.shape}")
+        logger.info(f"S.shape: {S.shape}")
+        logger.info(f"min_S: {np.min(S)}")
+        logger.info(f"max_S: {np.max(S)}")
+        logger.info(f"preferences: {preferences}")
+
+        ################
 
         logger.info(f"Experiment with different preference param: {preferences}")
 
