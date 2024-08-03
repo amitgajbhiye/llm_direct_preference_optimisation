@@ -355,7 +355,8 @@ if __name__ == "__main__":
         clusters_output_file = config["clusters_output_file"]
 
         create_directories(config["output_dir"])
-        preferences = (0.5, 0.6, 0.7, 0.8, 0.9)
+        # preferences = (0.5, 0.6, 0.7, 0.8, 0.9)
+        preferences = (-50, -30, 10)
 
         logger.info(f"Experiment with different preference param: {preferences}")
 
