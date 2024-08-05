@@ -1,6 +1,8 @@
 {
     "experiment_name": "6_mistral7b_inst_mntp_property_embeds_science",
     "log_dir": "logs",
+    "do_preference_exp": false,
+    "taxo_name": "science",
     "taxo_file": "data/evaluation_taxo/gold/science.taxo",
     "embedding_file": "embeds/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_science_property_embeds.pkl",
     "output_dir": "data/evaluation_taxo/property_clustering",
