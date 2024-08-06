@@ -3,8 +3,8 @@
 #SBATCH -A scw1858
 #SBATCH --job-name=commAFP
 
-#SBATCH --output=logs/run4_afp_mistral_all_eval_property_terms_facet_clustering.txt
-#SBATCH --error=logs/run4_afp_mistral_all_eval_property_terms_facet_clustering.txt
+#SBATCH --output=logs/out_run4_afp_mistral_all_eval_property_terms_facet_clustering.txt
+#SBATCH --error=logs/err_run4_afp_mistral_all_eval_property_terms_facet_clustering.txt
 
 #SBATCH --nodes=1
 #SBATCH -p highmem
