@@ -23,7 +23,8 @@ conda activate ven
 # python3 src/facet_property_clustering.py --config_file configs/clustering/7_mistral7b_inst_mntp_property_terms_facet_embeds_equipment.json
 # python3 src/facet_property_clustering.py --config_file configs/clustering/7_mistral7b_inst_mntp_property_terms_facet_embeds_environment.json
 
-python3 src/facet_property_clustering.py --config_file configs/clustering/7_mistral7b_inst_mntp_property_terms_facet_embeds_commonsense.json
+# python3 src/facet_property_clustering.py --config_file configs/clustering/7_mistral7b_inst_mntp_property_terms_facet_embeds_commonsense.json
 
+python3 src/facet_property_clustering.py --config_file configs/clustering/7_mistral7b_inst_mntp_property_terms_facet_embeds_commonsense_new.json
 
 echo 'Job Finished !!!'
