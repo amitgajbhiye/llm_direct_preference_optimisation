@@ -16,8 +16,6 @@
 
 conda activate llm_prompts
 
-huggingface-cli login --token "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"
-
 python3 src/embeds_llm2vec.py
 
 echo 'Job Finished !!!'

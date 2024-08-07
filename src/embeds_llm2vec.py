@@ -14,6 +14,8 @@ gc.collect()
 gc.collect()
 gc.collect()
 
+hf_token = "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"
+
 
 def prepare_model(MODEL_ID):
 
@@ -25,6 +27,7 @@ def prepare_model(MODEL_ID):
         config=config,
         torch_dtype=torch.bfloat16,
         device_map="cuda" if torch.cuda.is_available() else "cpu",
+        token=hf_token,
     )
 
     model = PeftModel.from_pretrained(
