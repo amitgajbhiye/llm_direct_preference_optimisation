@@ -45,7 +45,8 @@ def affinity_propagation_clustering(config):
 
     logger.info(f"scaled_embeds.shape {scaled_embeds.shape}")
 
-    clustering = AffinityPropagation(preference=preference).fit(scaled_embeds)
+    # clustering = AffinityPropagation(preference=preference).fit(scaled_embeds)
+    clustering = AffinityPropagation().fit(scaled_embeds)
     labels = clustering.labels_
     total_cluster_labels = set(labels)
 
