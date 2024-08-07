@@ -94,14 +94,15 @@ def merge_concepts_clusters(all_data_file, cluster_file):
     logger.info(cluster_df)
 
     cluster_labels = cluster_df["cluster_label"].unique()
-    logger.info(f"cluster_labels: {len(cluster_labels), cluster_labels}")
+    # logger.info(f"cluster_labels: {len(cluster_labels), cluster_labels}")
+    logger.info(f"cluster_labels_len: {len(cluster_labels)}")
 
     sorted_clusters = []
     for cluster_label in cluster_labels:
 
         # logger.info(f"cluster_label: {cluster_label}")
 
-        # code when clustering facet property ##############
+        ############## code when clustering facet property ##############
 
         # temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
         # facet_props = temp_df["facet_property"].to_list()
@@ -132,15 +133,36 @@ def merge_concepts_clusters(all_data_file, cluster_file):
 
         #         sorted_clusters.append(concept_clusters)
 
-        # for clustering_facet_property ##############
+        ############## for clustering_facet_property ##############
+
+        # temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
+        # properties = temp_df["facet_property"].to_list()
+
+        # for property in properties:
+
+        #     concept_clusters = all_data_df[all_data_df["property"] == property.strip()]
+        #     concept_clusters["cluster_label"] = cluster_label
+
+        #     sorted_clusters.append(concept_clusters)
+
+        ############## code for clustering prompt: "in terms of" ##############
 
         temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
-        properties = temp_df["facet_property"].to_list()
+        facet_properties = temp_df["facet_property"].to_list()
 
-        for property in properties:
+        facet_properties = [
+            prop.strip("\n").split(" in terms of ") for prop in facet_properties
+        ]
 
-            concept_clusters = all_data_df[all_data_df["property"] == property.strip()]
+        for facet, property in facet_properties:
+
+            concept_clusters = all_data_df[
+                (all_data_df["facet"] == facet) & (all_data_df["property"] == property)
+            ]
             concept_clusters["cluster_label"] = cluster_label
+            concept_clusters["property_terms_facet"] = (
+                property + " in terms of " + facet
+            )
 
             sorted_clusters.append(concept_clusters)
 
