@@ -16,7 +16,7 @@
 #SBATCH --mem=35G
 #SBATCH -t 0-03:00:00
 
-conda activate ven
+conda activate llm_prompts
 
 python3 src/embeds_llm2vec.py
 
