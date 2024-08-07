@@ -7,16 +7,16 @@
 #SBATCH --error=logs/err_llm2vec_embeds.txt
 
 #SBATCH --nodes=1
-#SBATCH -p highmem
-
 #SBATCH --ntasks=1
-#SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=1
 
+#SBATCH -p gpu_v100
 #SBATCH --mem=35G
+#SBATCH --gres=gpu:1
 #SBATCH -t 0-03:00:00
 
 conda activate llm_prompts
+
+huggingface-cli login --token "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"
 
 python3 src/embeds_llm2vec.py
 
