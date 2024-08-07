@@ -10,8 +10,8 @@
 #SBATCH -p highmem
 
 #SBATCH --ntasks=1
-#SBATCH --ntasks-per-node=1
-#SBATCH --cpus-per-task=1
+#SBATCH --ntasks-per-node=10
+#SBATCH --cpus-per-task=10
 
 #SBATCH --mem=35G
 #SBATCH -t 0-03:00:00
