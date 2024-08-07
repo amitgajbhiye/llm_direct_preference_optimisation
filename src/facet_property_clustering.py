@@ -151,7 +151,7 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
         facet_properties = temp_df["facet_property"].to_list()
 
-        print(f"cluster_df_cluster", flush=True)
+        print(f"cluster_df_cluster: {cluster_label}", flush=True)
         print(f"{temp_df}", flush=True)
 
         facet_properties = [
@@ -161,7 +161,7 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         logger.info(f"facet_properties: {facet_properties}")
         print(f"facet_properties_after_split: {facet_properties}")
 
-        for facet, property in facet_properties:
+        for property, facet in facet_properties:
 
             print(f"facet: {facet}, property: {property}", flush=True)
 
