@@ -158,6 +158,14 @@ def merge_concepts_clusters(all_data_file, cluster_file):
             prop.strip("\n").split(" in terms of ") for prop in facet_properties
         ]
 
+        logger.info(f"property_facet_before_length_filter: {len(facet_properties)}")
+        #########################
+        facet_properties = [
+            facet_prop for facet_prop in facet_properties if facet_prop == 2
+        ]
+        #########################
+        logger.info(f"property_facet_after_length_filter: {len(facet_properties)}")
+
         logger.info(f"facet_properties: {facet_properties}")
         print(f"facet_properties_after_split: {facet_properties}")
 
