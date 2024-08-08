@@ -9,11 +9,11 @@
 #SBATCH --nodes=1
 #SBATCH -p highmem
 
-#SBATCH --ntasks=10
-#SBATCH --ntasks-per-node=10
+#SBATCH --ntasks=5
+#SBATCH --ntasks-per-node=5
 #SBATCH --cpus-per-task=1
 
-#SBATCH --mem=80G
+#SBATCH --mem=70G
 #SBATCH -t 0-08:00:00
 
 conda activate venv
