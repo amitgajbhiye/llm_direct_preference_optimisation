@@ -1,6 +1,5 @@
 #!/bin/bash --login
 
-
 #SBATCH -A scw1858
 #SBATCH --job-name=commAFP
 

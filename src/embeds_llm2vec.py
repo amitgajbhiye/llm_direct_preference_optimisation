@@ -65,13 +65,22 @@ llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 # ]
 
 
+# facet_colon_property_files = [
+#     "data/evaluation_taxo/generated_facet_property/llama3_commonsense_property_terms_facet.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_environment_property_terms_facet.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_equipment_property_terms_facet.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_food_property_terms_facet.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_science_property_terms_facet.tsv",
+# ]
+
 facet_colon_property_files = [
-    "data/evaluation_taxo/generated_facet_property/llama3_commonsense_property_terms_facet.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_environment_property_terms_facet.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_equipment_property_terms_facet.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_food_property_terms_facet.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_science_property_terms_facet.tsv",
+    "data/evaluation_taxo/generated_facet_property/llama3_commonsense_property_feature_facet.tsv",
+    "data/evaluation_taxo/generated_facet_property/llama3_environment_property_feature_facet.tsv",
+    "data/evaluation_taxo/generated_facet_property/llama3_equipment_property_feature_facet.tsv",
+    "data/evaluation_taxo/generated_facet_property/llama3_food_property_feature_facet.tsv",
+    "data/evaluation_taxo/generated_facet_property/llama3_science_property_feature_facet.tsv",
 ]
+
 
 for fact_property_file in facet_colon_property_files:
     print(f"getting_embeddings: {fact_property_file}", flush=True)

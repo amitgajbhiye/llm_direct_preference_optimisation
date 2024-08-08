@@ -161,7 +161,7 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         logger.info(f"property_facet_before_length_filter: {len(facet_properties)}")
         #########################
         facet_properties = [
-            facet_prop for facet_prop in facet_properties if facet_prop == 2
+            facet_prop for facet_prop in facet_properties if len(facet_prop) == 2
         ]
         #########################
         logger.info(f"property_facet_after_length_filter: {len(facet_properties)}")
