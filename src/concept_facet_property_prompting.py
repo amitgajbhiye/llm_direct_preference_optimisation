@@ -121,10 +121,10 @@ def prepare_data(config):
 
     logger.info(f"Number of concepts: {len(concepts)}")
     logger.info(f"input_concepts: {concepts}")
-    logger.info(f"Prompt used is : {llama3_8B_1inc_prompt}")
+    logger.info(f"Prompt used is : {llama3_8B_5inc_prompt}")
 
     concept_prompts = [
-        llama3_8B_1inc_prompt.replace("<CONCEPT>", con) for con in concepts
+        llama3_8B_5inc_prompt.replace("<CONCEPT>", con) for con in concepts
     ]
 
     return concept_prompts
