@@ -16,7 +16,7 @@
 #SBATCH --mem=16G
 #SBATCH -t 0-01:00:00
 
-conda activate venv
+conda activate llm_prompts
 
 python3 src/concept_facet_property_prompting.py --config_file configs/facet_prop_generation/2_llama3_5inc_equipment_facet_property.json
 
