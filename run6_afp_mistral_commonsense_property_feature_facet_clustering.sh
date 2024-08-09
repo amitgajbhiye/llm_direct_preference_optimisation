@@ -14,7 +14,7 @@
 #SBATCH --cpus-per-task=1
 
 #SBATCH --mem=35G
-#SBATCH -t 0-02:00:00
+#SBATCH -t 0-01:00:00
 
 conda activate venv
 
