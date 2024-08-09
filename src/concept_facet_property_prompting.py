@@ -148,6 +148,7 @@ def generate_data(config, concept_prompts):
         quantization_config=bnb_config,
         device_map=device,
         token=access_token,
+        cache_dir="hf_model_cache/",
     )
 
     model_config = AutoConfig.from_pretrained(base_model)
