@@ -7,7 +7,7 @@
 #SBATCH --error=logs/err_run6_afp_mistral_commonsense_property_feature_facet_clustering.txt
 
 #SBATCH --nodes=1
-#SBATCH -p highmem
+#SBATCH -p dev
 
 #SBATCH --ntasks=5
 #SBATCH --ntasks-per-node=5
