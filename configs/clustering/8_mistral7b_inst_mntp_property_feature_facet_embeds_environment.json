@@ -1,0 +1,13 @@
+{
+    "experiment_name": "8_mistral7b_inst_mntp_property_feature_facet_embeds_environment",
+    "log_dir": "logs",
+    "do_preference_exp": false,
+    "taxo_name": "environment",
+    "taxo_file": "data/evaluation_taxo/gold/environment.taxo",
+    "embedding_file": "embeds/temp_dir/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_environment_property_feature_facet_embeds.pkl",
+    "output_dir": "data/evaluation_taxo/property_feature_facet",
+    "clusters_output_file": "mistral7b_inst_mntp_environment_afp_clusters",
+    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_environment_taxo_concepts_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": "mistral7b_inst_mntp_environment_taxo_commonalities_max_jaccard_gold_and_predicted.txt",
+    "facet_property_separator": " as a feature of "
+}

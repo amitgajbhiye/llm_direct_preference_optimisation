@@ -75,7 +75,7 @@ def affinity_propagation_clustering(config):
     return f"{clustered_file_name}.txt"
 
 
-def merge_concepts_clusters(all_data_file, cluster_file):
+def merge_concepts_clusters(all_data_file, cluster_file, facet_property_separator):
 
     logger.info(f"creating_final_clusters ...")
 
@@ -154,9 +154,19 @@ def merge_concepts_clusters(all_data_file, cluster_file):
         print(f"cluster_df_cluster: {cluster_label}", flush=True)
         print(f"{temp_df}", flush=True)
 
+        # facet_properties = [
+        #     prop.strip("\n").split(" in terms of ") for prop in facet_properties
+        # ]
+
         facet_properties = [
-            prop.strip("\n").split(" in terms of ") for prop in facet_properties
+            prop.strip("\n").split(facet_property_separator)
+            for prop in facet_properties
         ]
+
+        logger.info(
+            f"some_facet_properties_after_seperating_with: {facet_property_separator}"
+        )
+        logger.info(facet_properties[0:10])
 
         logger.info(f"property_facet_before_length_filter: {len(facet_properties)}")
         #########################
@@ -379,6 +389,7 @@ if __name__ == "__main__":
     logger.info(f"\n {config} \n")
 
     do_preference_exp = config["do_preference_exp"]
+    facet_property_separator = config["facet_property_separator"]
 
     if not do_preference_exp:
         logger.info(f"Experiment with default preference param.")
