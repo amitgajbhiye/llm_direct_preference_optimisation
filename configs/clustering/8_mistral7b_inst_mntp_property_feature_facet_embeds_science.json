@@ -4,7 +4,7 @@
     "do_preference_exp": false,
     "taxo_name": "science",
     "taxo_file": "data/evaluation_taxo/gold/science.taxo",
-    "embedding_file": "embeds/temp_dir/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_science_property_feature_facet_embeds.pkl",
+    "embedding_file": "embeds/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_science_property_feature_facet_embeds.pkl",
     "output_dir": "data/evaluation_taxo/property_feature_facet",
     "clusters_output_file": "mistral7b_inst_mntp_science_afp_clusters",
     "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_science_taxo_concepts_parsed.txt",
