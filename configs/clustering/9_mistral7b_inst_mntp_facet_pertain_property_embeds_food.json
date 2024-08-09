@@ -1,0 +1,13 @@
+{
+    "experiment_name": "9_mistral7b_inst_mntp_facet_pertain_property_embeds_food",
+    "log_dir": "logs",
+    "do_preference_exp": false,
+    "taxo_name": "food",
+    "taxo_file": "data/evaluation_taxo/gold/food.taxo",
+    "embedding_file": "embeds/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_food_facet_pertain_property_embeds.pkl",
+    "output_dir": "data/evaluation_taxo/facet_pertain_property",
+    "clusters_output_file": "mistral7b_inst_mntp_food_afp_clusters",
+    "all_parsed_data_file": "data/evaluation_taxo/generated_facet_property/lama3_concept_facet_property_food_taxo_concepts_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": "mistral7b_inst_mntp_food_taxo_commonalities_max_jaccard_gold_and_predicted.txt",
+    "facet_property_separator": " as it pertains to "
+}
