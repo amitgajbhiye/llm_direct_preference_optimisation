@@ -187,8 +187,8 @@ def merge_concepts_clusters(all_data_file, cluster_file, facet_property_separato
                 (all_data_df["facet"] == facet) & (all_data_df["property"] == property)
             ]
             concept_clusters["cluster_label"] = cluster_label
-            concept_clusters["property_terms_facet"] = (
-                property + " in terms of " + facet
+            concept_clusters["facet_property_separator"] = (
+                property + facet_property_separator + facet
             )
             print(f"concept_clusters", flush=True)
             print(concept_clusters, flush=True)
