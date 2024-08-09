@@ -397,7 +397,9 @@ if __name__ == "__main__":
         clusters_output_file = affinity_propagation_clustering(config=config)
         all_cols_final_cluster_file, con_prop_cluster_label_file_name = (
             merge_concepts_clusters(
-                config["all_parsed_data_file"], clusters_output_file
+                config["all_parsed_data_file"],
+                clusters_output_file,
+                facet_property_separator,
             )
         )
 
