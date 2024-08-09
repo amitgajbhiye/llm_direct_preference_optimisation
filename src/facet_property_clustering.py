@@ -50,7 +50,7 @@ def affinity_propagation_clustering(config):
     labels = clustering.labels_
     total_cluster_labels = set(labels)
 
-    logger.info(f"total_num_cluster_labels: {len(labels)}")
+    logger.info(f"total_num_cluster_labels: {len(total_cluster_labels)}")
     logger.info(f"total_cluster_labels: {total_cluster_labels}")
 
     prop_cluster_list = [(prop, label) for prop, label in zip(properties, labels)]
