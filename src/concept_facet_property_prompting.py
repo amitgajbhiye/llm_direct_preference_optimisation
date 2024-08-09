@@ -263,6 +263,8 @@ def parse_and_format_data(file_path, config):
                 except json.JSONDecodeError as e:
                     print(f"JSON decoding error: {e}")
                     print(f"Problematic line: {line}")
+                    logger.info(f"JSON decoding error: {e}")
+                    logger.info(f"Problematic line: {line}")
 
     df_fixed = pd.DataFrame(concepts)
 
