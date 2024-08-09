@@ -18,7 +18,7 @@ from transformers import (
 )
 
 device = 0
-access_token = "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"
+access_token = "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"
 
 login(token=access_token)
 
