@@ -150,13 +150,13 @@ def generate_data(config, concept_prompts):
         token=access_token,
     )
 
-    config = AutoConfig.from_pretrained(base_model)
+    model_config = AutoConfig.from_pretrained(base_model)
 
     logger.info(f"base_model: {base_model}")
     logger.info(f"############ Model ############")
     logger.info(model)
     logger.info(f"Device map: {model.hf_device_map}")
-    logger.info(f"model_context_length: {config.max_position_embeddings}")
+    logger.info(f"model_context_length: {model_config.max_position_embeddings}")
 
     # Tokenizer
     tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=True)
