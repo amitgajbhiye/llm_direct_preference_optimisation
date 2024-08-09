@@ -10,7 +10,12 @@ import pandas as pd
 import torch
 import transformers
 from huggingface_hub import login
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from transformers import (
+    AutoConfig,
+    AutoModelForCausalLM,
+    AutoTokenizer,
+    BitsAndBytesConfig,
+)
 
 device = 0
 access_token = "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"
@@ -60,6 +65,49 @@ For the concept of the <CONCEPT>, write its different facets and most salient pr
 <|start_header_id|>assistant<|end_header_id|>"""
 
 
+###########
+llama3_8B_5inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "facet_properties_dict": {facet: [list of properties with each property less than ten words long]}}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of teacher, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "teacher", "facet_properties_dict": {"role": ["teaching", "guiding students", "assessing", "classroom management"], "workplace": ["school", "college", "university", "training centre"], "skill": ["creativity", "communication", "patience", "subject expertise", "organisation"], "tool": ["textbook", "whiteboard", "computer", "educational materials"], "impact": ["knowledge transfer", "skill development", "inspiration", "career guidance"], "types": ["primary school teacher", "high school teacher", "college professor", "special education teacher"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of bamboo, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "bamboo", "facet_properties_dict": {"category": ["plant", "grass family", "natural resource"], "growth": ["fast-growing", "tall", "woody stems"], "used for": ["construction", "furniture", "paper", "textiles", "food for pandas"], "location": ["Asia", "tropical regions", "forests", "gardens"], "appearance": ["green stem", "hollow", "jointed nodes"], "environmental impact": ["afforestation", "carbon sequestration", "erosion control", "renewable resource"], "types": ["clumping bamboo", "running bamboo"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of Bill Gates, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "Bill Gates", "facet_properties_dict": {"profession": ["entrepreneur", "philanthropist", "author"], "founded": ["Microsoft", "Bill & Melinda Gates Foundation"], "known for": ["co-founding Microsoft", "Windows software", "philanthropy"], "born": ["October 28, 1955"], "philanthropy": ["global health", "education", "poverty alleviation", "climate change"], "publications": ["The Road Ahead", "Business @ the Speed of Thought", "How to Avoid a Climate Disaster", "How to Prevent the Next Pandemic"], "awards": ["Presidential Medal of Freedom", "Padma Bhushan", "Knight Commander of the Order of the British Empire"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of human, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "human", "facet_properties_dict": {"anatomy": ["brain", "heart", "lungs", "skin", "muscles", "bones"], "characteristics": ["bipedal", "intelligent", "social", "emotional", "tool users"], "life stages": ["infant", "child", "adolescent", "adult", "elderly"], "used for": ["social interaction", "cultural development", "technology creation", "reproduction"], "location": ["earth", "cities", "villages", "homes"], "needs": ["food", "water", "shelter", "community", "education"], "communication": ["language", "gestures", "writing", "art"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of book, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "book", "facet_properties_dict": {"types": ["fiction", "non-fiction", "textbook", "manual", "graphic novel"], "parts": ["cover", "pages", "spine", "chapters", "table of contents"], "used for": ["reading", "education", "entertainment", "reference"], "formats": ["physical", "ebook", "audiobook"], "materials": ["paper", "ink", "binding materials"], "location": ["library", "bookstore", "home", "school", "college"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of <CONCEPT>, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
 def prepare_data(config):
 
     input_file = config["input_file"]
@@ -102,10 +150,13 @@ def generate_data(config, concept_prompts):
         token=access_token,
     )
 
+    config = AutoConfig.from_pretrained(base_model)
+
     logger.info(f"base_model: {base_model}")
     logger.info(f"############ Model ############")
     logger.info(model)
     logger.info(f"Device map: {model.hf_device_map}")
+    logger.info(f"model_context_length: {config.max_position_embeddings}")
 
     # Tokenizer
     tokenizer = AutoTokenizer.from_pretrained(base_model, use_fast=True)
