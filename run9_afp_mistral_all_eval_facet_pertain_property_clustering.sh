@@ -9,8 +9,8 @@
 #SBATCH --nodes=1
 #SBATCH -p highmem
 
-#SBATCH --ntasks=5
-#SBATCH --ntasks-per-node=5
+#SBATCH --ntasks=7
+#SBATCH --ntasks-per-node=7
 #SBATCH --cpus-per-task=1
 
 #SBATCH --mem=70G
@@ -18,9 +18,10 @@
 
 conda activate venv
 
-python3 src/facet_property_clustering.py --config_file configs/clustering/9_mistral7b_inst_mntp_facet_pertain_property_embeds_environment.json
-python3 src/facet_property_clustering.py --config_file configs/clustering/9_mistral7b_inst_mntp_facet_pertain_property_embeds_equipment.json
 python3 src/facet_property_clustering.py --config_file configs/clustering/9_mistral7b_inst_mntp_facet_pertain_property_embeds_food.json
+python3 src/facet_property_clustering.py --config_file configs/clustering/9_mistral7b_inst_mntp_facet_pertain_property_embeds_equipment.json
 python3 src/facet_property_clustering.py --config_file configs/clustering/9_mistral7b_inst_mntp_facet_pertain_property_embeds_science.json
+python3 src/facet_property_clustering.py --config_file configs/clustering/9_mistral7b_inst_mntp_facet_pertain_property_embeds_environment.json
+python3 src/facet_property_clustering.py --config_file configs/clustering/9_mistral7b_inst_mntp_facet_pertain_property_embeds_commonsense.json
 
 echo 'Job Finished !!!'
