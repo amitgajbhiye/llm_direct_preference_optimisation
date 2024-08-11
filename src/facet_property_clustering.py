@@ -179,7 +179,7 @@ def merge_concepts_clusters(all_data_file, cluster_file, facet_property_separato
         logger.info(f"facet_properties: {facet_properties}")
         print(f"facet_properties_after_split: {facet_properties}")
 
-        for property, facet in facet_properties:  ############
+        for facet, property in facet_properties:  ############
 
             print(f"facet: {facet}, property: {property}", flush=True)
 
