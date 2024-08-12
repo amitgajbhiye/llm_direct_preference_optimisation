@@ -46,13 +46,12 @@ MODEL_ID = "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp"
 
 llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
-
 facet_colon_property_files = [
-    "data/evaluation_taxo/generated_facet_property/llama3_commonsense_facet_pertain_property.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_environment_facet_pertain_property.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_equipment_facet_pertain_property.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_food_facet_pertain_property.tsv",
-    "data/evaluation_taxo/generated_facet_property/llama3_science_facet_pertain_property.tsv",
+    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_food_facet_colon_property_5inc.txt",
+    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_science_facet_colon_property_5inc.txt",
+    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_equipment_facet_colon_property_5inc.txt",
+    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_commonsense_facet_colon_property_5inc.txt",
+    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_environment_facet_colon_property_5inc.txt",
 ]
 
 
@@ -64,7 +63,9 @@ for fact_property_file in facet_colon_property_files:
 
     print(f"num_facet_property: {len(facet_property)}")
 
-    facet_property_embeds = llm2vec_model.encode(facet_property).detach().cpu().numpy()
+    facet_property_embeds = (
+        llm2vec_model.encode(facet_property, batch_size=1024).detach().cpu().numpy()
+    )
 
     print(f"facet_property_embeds.shape: {facet_property_embeds.shape}")
 
@@ -142,4 +143,12 @@ gc.collect()
 #     "data/evaluation_taxo/generated_facet_property/llama3_equipment_property_feature_facet.tsv",
 #     "data/evaluation_taxo/generated_facet_property/llama3_food_property_feature_facet.tsv",
 #     "data/evaluation_taxo/generated_facet_property/llama3_science_property_feature_facet.tsv",
+# ]
+
+# facet_colon_property_files = [
+#     "data/evaluation_taxo/generated_facet_property/llama3_commonsense_facet_pertain_property.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_environment_facet_pertain_property.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_equipment_facet_pertain_property.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_food_facet_pertain_property.tsv",
+#     "data/evaluation_taxo/generated_facet_property/llama3_science_facet_pertain_property.tsv",
 # ]
