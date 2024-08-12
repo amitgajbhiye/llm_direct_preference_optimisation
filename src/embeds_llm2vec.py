@@ -43,6 +43,7 @@ def prepare_model(MODEL_ID):
 # MODEL_ID = "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp"
 
 MODEL_ID = "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp"
+batch_size = 900
 
 llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
@@ -64,7 +65,10 @@ for fact_property_file in facet_colon_property_files:
     print(f"num_facet_property: {len(facet_property)}")
 
     facet_property_embeds = (
-        llm2vec_model.encode(facet_property, batch_size=1024).detach().cpu().numpy()
+        llm2vec_model.encode(facet_property, batch_size=batch_size)
+        .detach()
+        .cpu()
+        .numpy()
     )
 
     print(f"facet_property_embeds.shape: {facet_property_embeds.shape}")
