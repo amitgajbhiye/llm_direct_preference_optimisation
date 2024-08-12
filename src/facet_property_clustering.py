@@ -105,34 +105,33 @@ def merge_concepts_clusters(all_data_file, cluster_file, facet_property_separato
 
         ############## code when clustering facet property ##############
 
-        # temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
-        # facet_props = temp_df["facet_property"].to_list()
+        temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
+        facet_props = temp_df["facet_property"].to_list()
 
-        # if clustering_facet_property:
-        #     # print (f"facet_prop: {facet_props}")
-        #     for facet_prop in facet_props:
+        # print (f"facet_prop: {facet_props}")
+        for facet_prop in facet_props:
 
-        #         facet_prop_list = facet_prop.split(":")
-        #         facet_prop_list = [x.strip() for x in facet_prop_list]
+            facet_prop_list = facet_prop.split(":")
+            facet_prop_list = [x.strip() for x in facet_prop_list]
 
-        #         if len(facet_prop_list) > 2:
-        #             facet = facet_prop_list[0].strip()
-        #             prop = ":".join(facet_prop_list[1:]).strip()
-        #         else:
-        #             facet, prop = facet_prop_list
-        #             facet = facet.strip()
-        #             prop = prop.strip()
+            if len(facet_prop_list) > 2:
+                facet = facet_prop_list[0].strip()
+                prop = ":".join(facet_prop_list[1:]).strip()
+            else:
+                facet, prop = facet_prop_list
+                facet = facet.strip()
+                prop = prop.strip()
 
-        #         # print (f"facet: {facet}, prop: {prop}, cluster_label: {cluster_label}")
-        #         # print (all_data_df[(all_data_df["facet"] == facet) & (all_data_df["property"] == prop)])
+            # print (f"facet: {facet}, prop: {prop}, cluster_label: {cluster_label}")
+            # print (all_data_df[(all_data_df["facet"] == facet) & (all_data_df["property"] == prop)])
 
-        #         concept_clusters = all_data_df[
-        #             (all_data_df["facet"] == facet) & (all_data_df["property"] == prop)
-        #         ]
-        #         concept_clusters["cluster_label"] = cluster_label
-        #         concept_clusters["facet_property"] = facet_prop
+            concept_clusters = all_data_df[
+                (all_data_df["facet"] == facet) & (all_data_df["property"] == prop)
+            ]
+            concept_clusters["cluster_label"] = cluster_label
+            concept_clusters["facet_property"] = facet_prop
 
-        #         sorted_clusters.append(concept_clusters)
+            sorted_clusters.append(concept_clusters)
 
         ############## for clustering_facet_property ##############
 
@@ -148,54 +147,54 @@ def merge_concepts_clusters(all_data_file, cluster_file, facet_property_separato
 
         ############## code for clustering prompt: "in terms of" ##############
 
-        temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
-        facet_properties = temp_df["facet_property"].to_list()
+        # temp_df = cluster_df[cluster_df["cluster_label"] == cluster_label]
+        # facet_properties = temp_df["facet_property"].to_list()
 
-        print(f"cluster_df_cluster: {cluster_label}", flush=True)
-        print(f"{temp_df}", flush=True)
+        # print(f"cluster_df_cluster: {cluster_label}", flush=True)
+        # print(f"{temp_df}", flush=True)
 
         # facet_properties = [
         #     prop.strip("\n").split(" in terms of ") for prop in facet_properties
         # ]
 
-        facet_properties = [
-            prop.strip("\n").split(facet_property_separator)
-            for prop in facet_properties
-        ]
+        # facet_properties = [
+        #     prop.strip("\n").split(facet_property_separator)
+        #     for prop in facet_properties
+        # ]
 
-        logger.info(
-            f"some_facet_properties_after_seperating_with: {facet_property_separator}"
-        )
-        logger.info(facet_properties[0:10])
+        # logger.info(
+        #     f"some_facet_properties_after_seperating_with: {facet_property_separator}"
+        # )
+        # logger.info(facet_properties[0:10])
 
-        logger.info(f"property_facet_before_length_filter: {len(facet_properties)}")
-        #########################
-        facet_properties = [
-            facet_prop for facet_prop in facet_properties if len(facet_prop) == 2
-        ]
-        #########################
-        logger.info(f"property_facet_after_length_filter: {len(facet_properties)}")
+        # logger.info(f"property_facet_before_length_filter: {len(facet_properties)}")
+        # #########################
+        # facet_properties = [
+        #     facet_prop for facet_prop in facet_properties if len(facet_prop) == 2
+        # ]
+        # #########################
+        # logger.info(f"property_facet_after_length_filter: {len(facet_properties)}")
 
-        logger.info(f"facet_properties: {facet_properties}")
-        print(f"facet_properties_after_split: {facet_properties}")
+        # logger.info(f"facet_properties: {facet_properties}")
+        # print(f"facet_properties_after_split: {facet_properties}")
 
-        for facet, property in facet_properties:  ############
+        # for facet, property in facet_properties:  ############
 
-            print(f"facet: {facet}, property: {property}", flush=True)
+        #     print(f"facet: {facet}, property: {property}", flush=True)
 
-            concept_clusters = all_data_df[
-                (all_data_df["facet"] == facet) & (all_data_df["property"] == property)
-            ]
-            concept_clusters["cluster_label"] = cluster_label
-            concept_clusters["facet_property_separator"] = (
-                property + facet_property_separator + facet
-            )
-            print(f"concept_clusters", flush=True)
-            print(concept_clusters, flush=True)
-            print("****************", flush=True)
-            print()
+        #     concept_clusters = all_data_df[
+        #         (all_data_df["facet"] == facet) & (all_data_df["property"] == property)
+        #     ]
+        #     concept_clusters["cluster_label"] = cluster_label
+        #     concept_clusters["facet_property_separator"] = (
+        #         property + facet_property_separator + facet
+        #     )
+        #     print(f"concept_clusters", flush=True)
+        #     print(concept_clusters, flush=True)
+        #     print("****************", flush=True)
+        #     print()
 
-            sorted_clusters.append(concept_clusters)
+        #     sorted_clusters.append(concept_clusters)
 
     all_clusters = pd.concat(sorted_clusters, ignore_index=True).sort_values(
         by=["cluster_label"]
