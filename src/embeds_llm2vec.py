@@ -43,7 +43,7 @@ def prepare_model(MODEL_ID):
 # MODEL_ID = "McGill-NLP/LLM2Vec-Meta-Llama-3-8B-Instruct-mntp"
 
 MODEL_ID = "McGill-NLP/LLM2Vec-Mistral-7B-Instruct-v2-mntp"
-batch_size = 900
+batch_size = 500
 
 llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
