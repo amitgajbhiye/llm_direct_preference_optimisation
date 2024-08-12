@@ -1,0 +1,13 @@
+{
+    "experiment_name": "10_mistral7b_inst_mntp_facet_colon_property_embeds_5inc_science",
+    "log_dir": "logs",
+    "do_preference_exp": false,
+    "taxo_name": "science",
+    "taxo_file": "data/evaluation_taxo/gold/science.taxo",
+    "embedding_file": "embeds/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_science_facet_colon_property_5inc_embeds.pkl",
+    "output_dir": "data/evaluation_taxo/facet_colon_property_5inc",
+    "clusters_output_file": "mistral7b_inst_mntp_science_afp_clusters",
+    "all_parsed_data_file": "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_science_concept_facet_property_5inc_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": "mistral7b_inst_mntp_science_taxo_commonalities_max_jaccard_gold_and_predicted.txt",
+    "facet_property_separator": ":"
+}
