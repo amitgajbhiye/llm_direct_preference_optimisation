@@ -1,0 +1,10 @@
+{
+    "experiment_name": "3_llama3_1inc_equipment_repeat_1",
+    "log_dir": "logs/facet_prop_generation",
+    "base_model": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "input_file": "data/evaluation_taxo/terms/equipment.terms",
+    "repeat_times": 1,
+    "batch_size": 128,
+    "output_dir": "data/evaluation_taxo/facet_property_1inc",
+    "output_file": "lama38b_equipment_taxo_concepts_facet_property_1inc.txt"
+}
