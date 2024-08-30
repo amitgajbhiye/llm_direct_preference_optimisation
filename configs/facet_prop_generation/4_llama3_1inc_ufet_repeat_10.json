@@ -3,8 +3,8 @@
     "log_dir": "logs/facet_prop_generation",
     "base_model": "meta-llama/Meta-Llama-3-8B-Instruct",
     "input_file": "data/ufet/clean_types.txt",
-    "repeat_times": 10,
+    "repeat_times": 5,
     "batch_size": 128,
     "output_dir": "data/evaluation_taxo/ufet_generated",
-    "output_file": "lama38b_ufet_concepts_facet_property_1inc_repeat10.txt"
+    "output_file": "lama38b_ufet_concepts_facet_property_1inc_repeat5.txt"
 }

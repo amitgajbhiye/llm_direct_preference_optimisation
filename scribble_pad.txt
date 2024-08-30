@@ -660,7 +660,6 @@ python3 src/concept_facet_property_prompting.py --config configs/facet_prop_gene
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/2_llama3_5inc_food_facet_property.json
 
 
-
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/4_llama3_1inc_ufet_repeat_10.json
 
 
