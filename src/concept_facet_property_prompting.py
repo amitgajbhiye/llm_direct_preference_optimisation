@@ -112,12 +112,12 @@ def prepare_data(config):
 
     input_file = config["input_file"]
 
-    # with open(economics_ontology_file, "r") as inp_file:
-    #     concepts = inp_file.readlines()
-    # concepts = [con.strip("\n").replace("_", " ").lower() for con in concepts]
+    with open(input_file, "r") as inp_file:
+        concepts = inp_file.readlines()
+    concepts = [con.strip("\n").replace("_", " ").lower().strip() for con in concepts]
 
-    df = pd.read_csv(input_file, sep="\t", names=["id", "concept"])
-    concepts = [str(con).strip() for con in df["concept"].unique()]
+    # df = pd.read_csv(input_file, sep="\t", names=["id", "concept"])
+    # concepts = [str(con).strip() for con in df["concept"].unique()]
 
     logger.info(f"Number of concepts: {len(concepts)}")
     logger.info(f"input_concepts: {concepts}")
