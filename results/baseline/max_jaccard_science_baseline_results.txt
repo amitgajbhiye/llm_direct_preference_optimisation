@@ -1,0 +1,325 @@
+********************
+**gold_taxo_property: science
+**gold_taxo_cons: ['engineering', 'humanities', 'life science', 'physical science', 'social science']
+**jaccard_index: 0.0099
+**predicted_cluster_con: ['aerospace engineering', 'agronomy', 'algebra', 'analysis', 'analytical chemistry', 'ancient philosophy', 'applied mathematics', 'archaeologist', 'atomic, molecular and optical physics', 'bacteriology', 'biochemical nutrition', 'biomechanics', 'biomedical', 'biometry', 'biostatistics', 'botany', 'cell biology', 'clinical nutrition', 'cognitive psychology', 'comparative physiology', 'composition', 'computational biology', 'computer science', 'control theory', 'electrical and electronics', 'electrical engineering', 'electronic devices and semiconductor manufacturing', 'engineering', 'engineering physics', 'entomology', 'environmental chemistry', 'environmental engineering', 'environmental microbiology', 'epidemiology', 'epistemology', 'ethics', 'evolutionary ecology', 'evolutionary physiology', 'exercise physiology', 'fluid mechanics', 'food biotechnology', 'genetic nutrition', 'genetics', 'genomics', 'glaciology', 'history of philosophy', 'instrumentation', 'intellectual history', 'international nutrition', 'kinesiology', 'materials chemistry', 'mathematics', 'mechanical engineering', 'medicinal chemistry', 'medicinal-pharmaceutical chemistry', 'metaphysics', 'meteorology', 'methodologies', 'microbial ecology', 'models and methods', 'molecular genetics', 'molecular nutrition', 'molecular physiology', 'molecular, cellular, and tissue engineering', 'multidisciplinary design optimization', 'music theory', 'numerical analysis', 'nutrition', 'nutritional epidemiology', 'optics', 'organic chemistry', 'paleobiology', 'paleontology', 'pathology', 'petroleum engineering', 'pharmaceutics', 'pharmacology', 'philosophy', 'philosophy of religion', 'physiology', 'plant pathology', 'plasma and beam physics', 'population biology', 'poultry science', 'probability', 'quantum physics', 'robotics', 'statistical theory', 'statistics and probability', 'systems and communications', 'systems and integrative engineering', 'systems and integrative physiology', 'systems engineering', 'terrestrial ecology', 'theology', 'toxicology', 'zoology']
+**con_intersection: {'engineering'}
+********************
+**gold_taxo_property: life science
+**gold_taxo_cons: ['animal science', 'biogeochemistry', 'biophysics', 'cell biology', 'computational biology', 'ecology', 'entomology', 'environmental health', 'food science', 'forest sciences', 'genetics', 'genomics', 'immunology', 'kinesiology', 'medicinal chemistry', 'microbiology', 'molecular biology', 'molecular genetics', 'neuroscience', 'nutrition', 'pharmaceutics', 'pharmacology', 'physiology', 'plant science', 'public health', 'structural biology', 'toxicology']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['bacteriology', 'molecular physiology', 'science', 'virology']
+**con_intersection: set()
+********************
+**gold_taxo_property: cell biology
+**gold_taxo_cons: ['cancer biology', 'developmental biology']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['biochemical and biomolecular engineering', 'biochemistry', 'biological engineering', 'biotransport', 'molecular physiology', 'molecular, cellular, and tissue engineering', 'structural biology']
+**con_intersection: set()
+********************
+**gold_taxo_property: ecology
+**gold_taxo_cons: ['aquatic ecology', 'behavioral ecology', 'biogeochemistry', 'botany', 'evolutionary ecology', 'population biology', 'terrestrial ecology']
+**jaccard_index: 0.1538
+**predicted_cluster_con: ['agronomy', 'animal science', 'aquaculture and fisheries', 'atmospheric sciences', 'behavioral ecology', 'biogeochemistry', 'biological and physical', 'biology and physics', 'botany', 'cell biology', 'comparative physiology', 'crop sciences', 'developmental biology', 'entomology', 'environmental chemistry', 'environmental microbiology', 'environmental sciences', 'evolutionary ecology', 'evolutionary physiology', 'forest sciences', 'fresh water studies', 'geochemistry', 'glaciology', 'horticulture', 'life science', 'microbial ecology', 'microbial physiology', 'microbiology', 'morphology', 'oceanography', 'paleobiology', 'plant genetics', 'plant pathology', 'plant science', 'population biology', 'soil science', 'terrestrial ecology', 'zoology']
+**con_intersection: {'biogeochemistry', 'terrestrial ecology', 'population biology', 'botany', 'evolutionary ecology', 'behavioral ecology'}
+********************
+**gold_taxo_property: public health
+**gold_taxo_cons: ['biostatistics', 'environmental health', 'epidemiology']
+**jaccard_index: 0.0513
+**predicted_cluster_con: ['anthropology', 'applied statistics', 'bacteriology', 'behavioral economics', 'biostatistics', 'civil engineering', 'community nutrition', 'community psychology', 'comparative nutrition', 'demography, population, and ecology', 'developmental psychology', 'environmental engineering', 'environmental microbiology', 'environmental sciences', 'epidemiology', 'evolutionary ecology', 'exercise physiology', 'food microbiology', 'food science', 'fresh water studies', 'genetic nutrition', 'health communication', 'health psychology', 'immunology of infectious disease', 'immunopathology', 'immunoprophylaxis', 'international nutrition', 'kinesiology', 'nutritional epidemiology', 'parasitology', 'pathogenic microbiology', 'population biology', 'poultry science', 'public economics', 'social science', 'systems and integrative physiology', 'toxicology', 'virology']
+**con_intersection: {'biostatistics', 'epidemiology'}
+********************
+**gold_taxo_property: immunology
+**gold_taxo_cons: ['immunology of infectious disease', 'immunopathology', 'immunoprophylaxis', 'parasitology', 'pathology']
+**jaccard_index: 0.25
+**predicted_cluster_con: ['biomedical', 'cancer biology', 'immunopathology', 'life science', 'microbiology', 'parasitology', 'pathogenic microbiology', 'pathology', 'poultry science', 'virology']
+**con_intersection: {'parasitology', 'immunopathology', 'pathology'}
+********************
+**gold_taxo_property: kinesiology
+**gold_taxo_cons: ['exercise physiology', 'motor control', 'psychology of movement']
+**jaccard_index: 0.5
+**predicted_cluster_con: ['biomechanics', 'exercise physiology', 'psychology of movement']
+**con_intersection: {'exercise physiology', 'psychology of movement'}
+********************
+**gold_taxo_property: microbiology
+**gold_taxo_cons: ['bacteriology', 'environmental microbiology', 'microbial ecology', 'microbial physiology', 'pathogenic microbiology', 'virology']
+**jaccard_index: 0.2857
+**predicted_cluster_con: ['bacteriology', 'biological engineering', 'cell biology', 'computational biology', 'dairy science', 'environmental microbiology', 'epidemiology', 'food biotechnology', 'food chemistry', 'food microbiology', 'food science', 'immunology', 'immunology of infectious disease', 'life science', 'microbial ecology', 'microbial physiology', 'parasitology', 'pathogenic microbiology', 'pathology', 'plant pathology', 'virology']
+**con_intersection: {'bacteriology', 'environmental microbiology', 'microbial ecology', 'pathogenic microbiology', 'microbial physiology', 'virology'}
+********************
+**gold_taxo_property: neuroscience
+**gold_taxo_cons: ['behavioral neurobiology', 'cellular neuroscience', 'cognitive neuroscience', 'computational neuroscience', 'developmental neuroscience', 'molecular neuroscience', 'systems neuroscience']
+**jaccard_index: 0.3684
+**predicted_cluster_con: ['behavioral economics', 'behavioral neurobiology', 'bioelectrical and neuroengineering', 'biological psychology', 'biomedical', 'cellular neuroscience', 'cognition and perception', 'cognitive neuroscience', 'cognitive psychology', 'computational neuroscience', 'developmental neuroscience', 'life science', 'molecular neuroscience', 'neurolinguistics', 'philosophy of mind', 'psycholinguistics', 'psychology of movement', 'systems and integrative physiology', 'systems neuroscience']
+**con_intersection: {'systems neuroscience', 'cognitive neuroscience', 'cellular neuroscience', 'behavioral neurobiology', 'computational neuroscience', 'developmental neuroscience', 'molecular neuroscience'}
+********************
+**gold_taxo_property: physiology
+**gold_taxo_cons: ['cellular physiology', 'comparative physiology', 'endocrinology', 'evolutionary physiology', 'exercise physiology', 'molecular physiology', 'systems and integrative physiology']
+**jaccard_index: 0.3158
+**predicted_cluster_con: ['animal science', 'biological psychology', 'biomechanics', 'biomedical', 'biotransport', 'comparative physiology', 'endocrinology', 'entomology', 'evolutionary physiology', 'exercise physiology', 'kinesiology', 'medicinal-pharmaceutical chemistry', 'molecular nutrition', 'molecular physiology', 'physiology', 'poultry science', 'systems and integrative physiology', 'zoology']
+**con_intersection: {'systems and integrative physiology', 'evolutionary physiology', 'comparative physiology', 'exercise physiology', 'molecular physiology', 'endocrinology'}
+********************
+**gold_taxo_property: animal science
+**gold_taxo_cons: ['aquaculture and fisheries', 'dairy science', 'poultry science', 'zoology']
+**jaccard_index: 0.5
+**predicted_cluster_con: ['dairy science', 'poultry science']
+**con_intersection: {'poultry science', 'dairy science'}
+********************
+**gold_taxo_property: food science
+**gold_taxo_cons: ['food biotechnology', 'food chemistry', 'food microbiology', 'food processing']
+**jaccard_index: 0.2222
+**predicted_cluster_con: ['biochemical nutrition', 'dairy science', 'food chemistry', 'food microbiology', 'international nutrition', 'molecular nutrition', 'nutrition']
+**con_intersection: {'food chemistry', 'food microbiology'}
+********************
+**gold_taxo_property: forest sciences
+**gold_taxo_cons: ['forest biology', 'forest management', 'pulp/paper technology', 'wood science']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: nutrition
+**gold_taxo_cons: ['biochemical nutrition', 'clinical nutrition', 'community nutrition', 'comparative nutrition', 'genetic nutrition', 'human nutrition', 'international nutrition', 'molecular nutrition', 'nutritional epidemiology']
+**jaccard_index: 0.1765
+**predicted_cluster_con: ['animal science', 'dairy science', 'food biotechnology', 'food chemistry', 'food processing', 'food science', 'genetic nutrition', 'growth and development', 'molecular nutrition', 'nutritional epidemiology', 'poultry science']
+**con_intersection: {'nutritional epidemiology', 'genetic nutrition', 'molecular nutrition'}
+********************
+**gold_taxo_property: plant science
+**gold_taxo_cons: ['agronomy', 'botany', 'crop sciences', 'horticulture', 'plant biology', 'plant breeding', 'plant genetics', 'plant pathology']
+**jaccard_index: 0.125
+**predicted_cluster_con: ['botany']
+**con_intersection: {'botany'}
+********************
+**gold_taxo_property: physical science
+**gold_taxo_cons: ['applied mathematics', 'astrophysics and astronomy', 'atmospheric sciences', 'chemistry', 'climate', 'computer science', 'earth science', 'fresh water studies', 'mathematics', 'meteorology', 'oceanography', 'physics', 'statistics and probability']
+**jaccard_index: 0.25
+**predicted_cluster_con: ['astrophysics and astronomy', 'atmospheric sciences', 'chemistry', 'earth science', 'materials science', 'nuclear physics', 'science']
+**con_intersection: {'chemistry', 'atmospheric sciences', 'astrophysics and astronomy', 'earth science'}
+********************
+**gold_taxo_property: applied mathematics
+**gold_taxo_cons: ['applied dynamics', 'control theory', 'dynamic systems', 'non-linear dynamic', 'numerical analysis', 'ordinary differential equations', 'partial differential equations']
+**jaccard_index: 0.1333
+**predicted_cluster_con: ['discrete mathematics and combinatorics', 'engineering mechanics', 'fluid dynamics', 'fluid mechanics', 'harmonic analysis and representation', 'mathematics', 'mechanical engineering', 'numerical analysis', 'partial differential equations', 'scientific computing']
+**con_intersection: {'partial differential equations', 'numerical analysis'}
+********************
+**gold_taxo_property: astrophysics and astronomy
+**gold_taxo_cons: ['cosmology', 'external galaxies', 'instrumentation', 'physical processes', 'stars, interstellar medium and the galaxy', 'the sun and the solar system']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: chemistry
+**gold_taxo_cons: ['analytical chemistry', 'biochemistry', 'environmental chemistry', 'inorganic chemistry', 'materials chemistry', 'medicinal-pharmaceutical chemistry', 'organic chemistry', 'physical chemistry', 'polymer chemistry']
+**jaccard_index: 0.1385
+**predicted_cluster_con: ['analytical chemistry', 'atomic, molecular and optical physics', 'biochemical and biomolecular engineering', 'biochemical nutrition', 'biochemistry', 'biogeochemistry', 'biological and chemical physics', 'biological and physical', 'biological engineering', 'biology and physics', 'biomaterials', 'biomedical', 'biophysics', 'catalysis and reaction engineering', 'chemical engineering', 'composition', 'condensed matter physics', 'cosmochemistry', 'dairy science', 'dynamics/dynamical systems', 'earth science', 'ecology', 'engineering', 'engineering physics', 'engineering science', 'environmental chemistry', 'environmental sciences', 'food chemistry', 'food science', 'fresh water studies', 'geochemistry', 'history of science, technology, and medicine', 'inorganic chemistry', 'life science', 'materials chemistry', 'materials science', 'medicinal chemistry', 'medicinal-pharmaceutical chemistry', 'membrane science', 'metallurgy', 'mineral physics', 'molecular neuroscience', 'molecular nutrition', 'nanotechnology fabrication', 'numerical analysis', 'organic chemistry', 'paleobiology', 'petroleum engineering', 'pharmacology', 'physical chemistry', 'physical processes', 'physical science', 'polymer chemistry', 'polymer science', 'science', 'scientific computing', 'soil science', 'structural biology', 'terrestrial ecology', 'theory, knowledge and science', 'theory, knowledge, and science', 'thermodynamics', 'toxicology', 'transport phenomena', 'wood science']
+**con_intersection: {'polymer chemistry', 'inorganic chemistry', 'organic chemistry', 'physical chemistry', 'analytical chemistry', 'medicinal-pharmaceutical chemistry', 'materials chemistry', 'biochemistry', 'environmental chemistry'}
+********************
+**gold_taxo_property: computer science
+**gold_taxo_cons: ['algorithms', 'artificial intelligence', 'compilers', 'computer architecture', 'graphics', 'human computer interfaces', 'information systems', 'networks', 'numerical analysis', 'os', 'programming languages', 'robotics', 'scientific computing', 'software engineering']
+**jaccard_index: 0.1887
+**predicted_cluster_con: ['aerospace engineering', 'algebra', 'algebraic geometry', 'algorithm', 'algorithms', 'applied mathematics', 'artificial intelligence', 'bioelectrical and neuroengineering', 'biology and physics', 'biomechanical engineering', 'biometry', 'compilers', 'computational biology', 'computational linguistics', 'computational neuroscience', 'computer engineering', 'discrete mathematics and combinatorics', 'electrical and electronics', 'engineering physics', 'geographic information sciences', 'geometry and topology', 'graphics', 'harmonic analysis and representation', 'industrial engineering', 'information systems', 'linguistics', 'logic and foundations', 'logic and foundations of mathematics', 'mathematics', 'models and methods', 'multi-vehicle systems', 'multidisciplinary design optimization', 'networking', 'neuroscience', 'number theory', 'numerical analysis', 'operational research', 'philosophy of language', 'physics', 'programming languages', 'psycholinguistics', 'robotics', 'scientific computing', 'semantics', 'set theory', 'signal processing', 'software engineering', 'syntax', 'systems neuroscience']
+**con_intersection: {'graphics', 'compilers', 'numerical analysis', 'software engineering', 'scientific computing', 'information systems', 'algorithms', 'programming languages', 'robotics', 'artificial intelligence'}
+********************
+**gold_taxo_property: earth science
+**gold_taxo_cons: ['biogeochemistry', 'cosmochemistry', 'environmental sciences', 'geochemistry', 'geology', 'geophysics', 'glaciology', 'mineral physics', 'paleobiology', 'paleontology', 'seismology', 'soil science', 'tectonics and structure', 'vulcanology']
+**jaccard_index: 0.4667
+**predicted_cluster_con: ['biogeochemistry', 'biological and physical', 'glaciology', 'mineral physics', 'paleontology', 'seismology', 'soil science', 'vulcanology']
+**con_intersection: {'biogeochemistry', 'mineral physics', 'vulcanology', 'seismology', 'glaciology', 'soil science', 'paleontology'}
+********************
+**gold_taxo_property: mathematics
+**gold_taxo_cons: ['algebra', 'algebraic geometry', 'analysis', 'discrete mathematics and combinatorics', 'dynamics/dynamical systems', 'geometry and topology', 'harmonic analysis and representation', 'logic and foundations', 'number theory', 'set theory']
+**jaccard_index: 0.1
+**predicted_cluster_con: ['acoustics, dynamics, and controls', 'aerospace engineering', 'algebra', 'algorithm', 'algorithms', 'analysis', 'applied dynamics', 'applied mathematics', 'applied mechanics', 'applied statistics', 'artificial intelligence', 'astrodynamics', 'biological engineering', 'biomechanical engineering', 'biomechanics', 'biostatistics', 'chemical engineering', 'civil engineering', 'computational biology', 'computational linguistics', 'computer engineering', 'computer science', 'construction engineering/management', 'control theory', 'cosmology, relativity, and gravity', 'discrete mathematics and combinatorics', 'dynamical systems', 'dynamics/dynamical systems', 'econometrics', 'economics', 'engineering', 'engineering mechanics', 'engineering physics', 'engineering science', 'epidemiology', 'fluid mechanics', 'geometry and topology', 'geotechnical engineering', 'industrial engineering', 'life science', 'logic and foundations', 'logic and foundations of mathematics', 'mechanical engineering', 'medicinal-pharmaceutical chemistry', 'models and methods', 'multidisciplinary design optimization', 'near eastern languages and societies', 'non-linear dynamic', 'non-linear dynamics', 'numerical analysis', 'operational research', 'optics', 'ordinary differential equations', 'petroleum engineering', 'robotics', 'science', 'scientific computing', 'set theory', 'signal processing', 'statistical methodology', 'statistical theory', 'statistics and probability', 'structural engineering', 'systems engineering', 'theory, knowledge and science', 'theory, knowledge, and science', 'theory, knowledge, science']
+**con_intersection: {'analysis', 'set theory', 'geometry and topology', 'dynamics/dynamical systems', 'logic and foundations', 'discrete mathematics and combinatorics', 'algebra'}
+********************
+**gold_taxo_property: physics
+**gold_taxo_cons: ['astronomy and astrophysics', 'atomic, molecular and optical physics', 'biological and chemical physics', 'condensed matter physics', 'cosmology, relativity, and gravity', 'elementary particles and fields and string theory', 'engineering physics', 'fluid dynamics', 'non-linear dynamics', 'nuclear physics', 'optics', 'plasma and beam physics', 'quantum physics']
+**jaccard_index: 0.1068
+**predicted_cluster_con: ['acoustics, dynamics, and controls', 'aerodynamics', 'aerospace engineering', 'algebra', 'algebraic geometry', 'ancient philosophy', 'applied dynamics', 'applied mathematics', 'applied mechanics', 'astrodynamics', 'astronomy and astrophysics', 'atmospheric sciences', 'atomic, molecular and optical physics', 'bioimaging and biomedical optics', 'biological and chemical physics', 'biological and physical', 'biology and physics', 'biomechanical engineering', 'biomechanics', 'biomedical', 'biophysics', 'chemical engineering', 'civil engineering', 'computer engineering', 'condensed matter physics', 'construction engineering/management', 'control theory', 'cosmochemistry', 'cosmology', 'cosmology, relativity, and gravity', 'dairy science', 'dynamic systems', 'dynamical systems', 'dynamics/dynamical systems', 'earth science', 'ecology', 'electrical and electronics', 'electromagnetics', 'engineering', 'engineering mechanics', 'engineering science', 'environmental chemistry', 'environmental sciences', 'fluid dynamics', 'fluid mechanics', 'food science', 'geometry and topology', 'geophysics', 'geotechnical engineering', 'harmonic analysis and representation', 'history of science, technology, and medicine', 'industrial engineering', 'inorganic chemistry', 'instrumentation', 'life science', 'logic and foundations of mathematics', 'materials chemistry', 'materials science', 'mathematics', 'mechanical engineering', 'mechanics of materials', 'medicinal-pharmaceutical chemistry', 'metallurgy', 'mineral physics', 'models and methods', 'nanotechnology fabrication', 'navigation, guidance, control and dynamics', 'non-linear dynamic', 'non-linear dynamics', 'nuclear physics', 'number theory', 'numerical analysis', 'optics', 'ordinary differential equations', 'paleobiology', 'partial differential equations', 'petroleum engineering', 'phonetics', 'photonics', 'physical chemistry', 'physical processes', 'physical science', 'plasma and beam physics', 'polymer science', 'probability', 'quantum physics', 'science', 'scientific computing', 'seismology', 'signal processing', 'soil science', 'structural biology', 'structural engineering', 'terrestrial ecology', 'theory, knowledge and science', 'theory, knowledge, and science', 'theory, knowledge, science', 'thermodynamics', 'transport phenomena', 'tribology', 'wood science']
+**con_intersection: {'atomic, molecular and optical physics', 'astronomy and astrophysics', 'cosmology, relativity, and gravity', 'biological and chemical physics', 'quantum physics', 'nuclear physics', 'condensed matter physics', 'plasma and beam physics', 'optics', 'non-linear dynamics', 'fluid dynamics'}
+********************
+**gold_taxo_property: statistics and probability
+**gold_taxo_cons: ['applied statistics', 'biometry', 'biostatistics', 'probability', 'statistical methodology', 'statistical theory']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: engineering
+**gold_taxo_cons: ['aerospace engineering', 'bioelectrical and neuroengineering', 'bioimaging and biomedical optics', 'biological engineering', 'biomaterials', 'biomechanics', 'biotransport', 'chemical engineering', 'civil engineering', 'computer engineering', 'construction engineering/management', 'electrical engineering', 'engineering science', 'environmental engineering', 'geotechnical engineering', 'materials science', 'mechanical engineering', 'molecular, cellular, and tissue engineering', 'structural engineering', 'systems and integrative engineering', 'systems engineering']
+**jaccard_index: 0.1313
+**predicted_cluster_con: ['acoustics, dynamics, and controls', 'aerodynamics', 'aerospace engineering', 'algebra', 'algebraic geometry', 'algorithm', 'algorithms', 'analysis', 'applied dynamics', 'applied mathematics', 'applied mechanics', 'applied statistics', 'artificial intelligence', 'astrodynamics', 'biochemical and biomolecular engineering', 'bioelectrical and neuroengineering', 'bioimaging and biomedical optics', 'biological engineering', 'biology and physics', 'biomechanical engineering', 'biomechanics', 'biometry', 'biophysics', 'ceramic materials', 'computational biology', 'computer science', 'computer-aided engineering and design', 'construction engineering/management', 'control theory', 'dynamic systems', 'dynamical systems', 'dynamics/dynamical systems', 'electrical and electronics', 'electrical engineering', 'electromagnetics', 'electronic devices and semiconductor manufacturing', 'engineering mechanics', 'engineering physics', 'environmental engineering', 'ergonomics', 'fluid dynamics', 'fluid mechanics', 'food science', 'geology', 'geometry and topology', 'geotechnical engineering', 'harmonic analysis and representation', 'industrial engineering', 'instrumentation', 'materials chemistry', 'materials science', 'mathematics', 'mechanical engineering', 'mechanics of materials', 'membrane science', 'metallurgy', 'methodologies', 'mineral physics', 'models and methods', 'multidisciplinary design optimization', 'nanotechnology fabrication', 'non-linear dynamic', 'non-linear dynamics', 'numerical analysis', 'operational research', 'optics', 'ordinary differential equations', 'partial differential equations', 'petroleum engineering', 'photonics', 'physical processes', 'physical science', 'physics', 'plasma and beam physics', 'polymer chemistry', 'polymer science', 'probability', 'robotics', 'scientific computing', 'signal processing', 'soil science', 'statistics and probability', 'structural materials', 'structures and materials', 'systems and communications', 'systems and integrative engineering', 'systems engineering', 'thermodynamics', 'transport phenomena', 'tribology', 'wood science']
+**con_intersection: {'systems engineering', 'aerospace engineering', 'bioimaging and biomedical optics', 'biomechanics', 'bioelectrical and neuroengineering', 'geotechnical engineering', 'mechanical engineering', 'construction engineering/management', 'materials science', 'electrical engineering', 'environmental engineering', 'biological engineering', 'systems and integrative engineering'}
+********************
+**gold_taxo_property: aerospace engineering
+**gold_taxo_cons: ['aerodynamics', 'aeronautical vehicles', 'air traffic control', 'astrodynamics', 'fluid mechanics', 'multi-vehicle systems', 'multidisciplinary design optimization', 'navigation, guidance, control and dynamics', 'propulsion and power', 'space vehicles', 'structures and materials', 'systems engineering']
+**jaccard_index: 0.16
+**predicted_cluster_con: ['acoustics, dynamics, and controls', 'applied dynamics', 'applied mechanics', 'computer-aided engineering and design', 'control theory', 'electro-mechanical systems', 'engineering mechanics', 'engineering physics', 'engineering science', 'fluid dynamics', 'fluid mechanics', 'mechanical engineering', 'multi-vehicle systems', 'multidisciplinary design optimization', 'navigation, guidance, control and dynamics', 'transport phenomena', 'tribology']
+**con_intersection: {'navigation, guidance, control and dynamics', 'multi-vehicle systems', 'multidisciplinary design optimization', 'fluid mechanics'}
+********************
+**gold_taxo_property: chemical engineering
+**gold_taxo_cons: ['biochemical and biomolecular engineering', 'catalysis and reaction engineering', 'complex fluids', 'membrane science', 'petroleum engineering', 'polymer science', 'process control and systems', 'thermodynamics', 'transport phenomena']
+**jaccard_index: 0.2941
+**predicted_cluster_con: ['biochemical and biomolecular engineering', 'catalysis and reaction engineering', 'control theory', 'engineering', 'engineering science', 'environmental engineering', 'fluid dynamics', 'fluid mechanics', 'inorganic chemistry', 'membrane science', 'physical chemistry', 'polymer science', 'transport phenomena']
+**con_intersection: {'polymer science', 'biochemical and biomolecular engineering', 'catalysis and reaction engineering', 'transport phenomena', 'membrane science'}
+********************
+**gold_taxo_property: computer engineering
+**gold_taxo_cons: ['computer architecture', 'data storage systems', 'digital circuits', 'digital communications', 'hardware systems', 'networking', 'robotics']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: electrical engineering
+**gold_taxo_cons: ['biomedical', 'circuits', 'computer engineering', 'control theory', 'electrical and electronics', 'electromagnetics', 'electronic devices and semiconductor manufacturing', 'nanotechnology fabrication', 'photonics', 'power and energy', 'signal processing', 'systems and communications']
+**jaccard_index: 0.2
+**predicted_cluster_con: ['bioelectrical and neuroengineering', 'biomechanical engineering', 'computer engineering', 'computer science', 'computer-aided engineering and design', 'condensed matter physics', 'construction engineering/management', 'dynamics/dynamical systems', 'electrical and electronics', 'electro-mechanical systems', 'electromagnetics', 'engineering physics', 'engineering science', 'harmonic analysis and representation', 'multi-vehicle systems', 'photonics', 'signal processing', 'systems and integrative engineering']
+**con_intersection: {'photonics', 'electromagnetics', 'signal processing', 'electrical and electronics', 'computer engineering'}
+********************
+**gold_taxo_property: engineering science
+**gold_taxo_cons: ['dynamical systems', 'engineering mechanics', 'mechanics of materials', 'non-linear dynamics']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: materials science
+**gold_taxo_cons: ['ceramic materials', 'metallurgy', 'polymer and organic materials', 'semiconductor and optical materials', 'structural materials']
+**jaccard_index: 0.025
+**predicted_cluster_con: ['aerospace engineering', 'algebraic geometry', 'atomic, molecular and optical physics', 'biological and chemical physics', 'biomaterials', 'biomechanical engineering', 'catalysis and reaction engineering', 'chemical engineering', 'chemistry', 'civil engineering', 'condensed matter physics', 'construction engineering/management', 'electronic devices and semiconductor manufacturing', 'engineering', 'engineering mechanics', 'engineering physics', 'engineering science', 'geometry and topology', 'inorganic chemistry', 'mechanical engineering', 'mechanics of materials', 'membrane science', 'metallurgy', 'mineral physics', 'nanotechnology fabrication', 'nuclear physics', 'ocean engineering', 'organic chemistry', 'photonics', 'physical chemistry', 'polymer chemistry', 'polymer science', 'scientific computing', 'structural engineering', 'thermodynamics', 'tribology']
+**con_intersection: {'metallurgy'}
+********************
+**gold_taxo_property: mechanical engineering
+**gold_taxo_cons: ['acoustics, dynamics, and controls', 'applied mechanics', 'biomechanical engineering', 'computer-aided engineering and design', 'electro-mechanical systems', 'energy systems', 'heat transfer, combustion', 'manufacturing', 'ocean engineering', 'tribology']
+**jaccard_index: 0.2917
+**predicted_cluster_con: ['acoustics, dynamics, and controls', 'aerodynamics', 'applied dynamics', 'applied mechanics', 'biomechanical engineering', 'computer-aided engineering and design', 'construction engineering/management', 'electro-mechanical systems', 'engineering mechanics', 'engineering physics', 'engineering science', 'environmental engineering', 'fluid dynamics', 'fluid mechanics', 'multi-vehicle systems', 'ocean engineering', 'robotics', 'structural engineering', 'systems and integrative engineering', 'transport phenomena', 'tribology']
+**con_intersection: {'ocean engineering', 'computer-aided engineering and design', 'applied mechanics', 'tribology', 'electro-mechanical systems', 'acoustics, dynamics, and controls', 'biomechanical engineering'}
+********************
+**gold_taxo_property: systems engineering
+**gold_taxo_cons: ['ergonomics', 'industrial engineering', 'operational research']
+**jaccard_index: 0.25
+**predicted_cluster_con: ['industrial engineering', 'systems and integrative engineering']
+**con_intersection: {'industrial engineering'}
+********************
+**gold_taxo_property: social science
+**gold_taxo_cons: ['agricultural and resource economics', 'anthropology', 'communication', 'economics', 'geography', 'linguistics', 'political science', 'psychology', 'public administration', 'public affairs', 'public policy', 'sociology', 'urban studies']
+**jaccard_index: 0.1481
+**predicted_cluster_con: ['cognitive psychology', 'community psychology', 'comparative politics', 'criminology', 'demography, population, and ecology', 'econometrics', 'economic theory', 'economics', 'environmental sciences', 'ethnomusicology', 'labor economics', 'linguistic anthropology', 'linguistics', 'political science', 'psycholinguistics', 'psychology', 'science', 'social anthropology']
+**con_intersection: {'political science', 'linguistics', 'psychology', 'economics'}
+********************
+**gold_taxo_property: anthropology
+**gold_taxo_cons: ['archaeological', 'biological and physical', 'cultural anthropology', 'linguistic anthropology', 'social anthropology']
+**jaccard_index: 0.0714
+**predicted_cluster_con: ['anthropological linguistics', 'archaeologist', 'classical archaeology and art history', 'comparative literature', 'critical and cultural studies', 'demography, population, and ecology', 'discourse linguistics', 'ethnic studies', 'ethnomusicology', 'human geography', 'humanities', 'indo-european linguistics and philology', 'language documentation', 'linguistic anthropology', 'linguistics', 'morphology', 'musicology', 'paleontology', 'regional sociology', 'rural sociology', 'social anthropology', 'social science', 'sociolinguistics', 'sociology', 'sociology of culture']
+**con_intersection: {'linguistic anthropology', 'social anthropology'}
+********************
+**gold_taxo_property: communication
+**gold_taxo_cons: ['broadcast studies', 'communication technology and new media', 'critical and cultural studies', 'gender, race, sexuality, and ethnicity in communication', 'health communication', 'international and intercultural communication', 'interpersonal/small group communication', 'journalism studies', 'mass communication', 'organizational communication', 'public relations/advertising', 'social influence and political communication', 'speech and rhetorical studies']
+**jaccard_index: 0.0615
+**predicted_cluster_con: ['air traffic control', 'american material culture', 'anthropological linguistics', 'applied linguistics', 'archaeologist', 'broadcast studies', 'byzantine and modern greek', 'cell biology', 'cellular physiology', 'circuits', 'comparative and historical linguistics', 'computer engineering', 'computer science', 'construction engineering/management', 'digital communications', 'discourse linguistics', 'electrical and electronics', 'electronic devices and semiconductor manufacturing', 'english language and literature', 'environmental engineering', 'french linguistics', 'graphics', 'hardware systems', 'human computer interfaces', 'humanities', 'industrial engineering', 'information systems', 'journalism studies', 'language description', 'language documentation', 'linguistic anthropology', 'linguistic diversity', 'linguistics', 'music', 'networking', 'networks', 'neurolinguistics', 'performance studies', 'philosophy of language', 'playwriting', 'pragmatics', 'psycholinguistics', 'public relations/advertising', 'rhetoric and composition', 'second language acquisition', 'semantics', 'signal processing', 'social psychology and interaction', 'sociolinguistics', 'space vehicles', 'speech and rhetorical studies', 'structural engineering', 'structures and materials', 'systems and communications', 'systems engineering', 'work']
+**con_intersection: {'public relations/advertising', 'journalism studies', 'speech and rhetorical studies', 'broadcast studies'}
+********************
+**gold_taxo_property: economics
+**gold_taxo_cons: ['behavioral economics', 'econometrics', 'economic history', 'economic theory', 'growth and development', 'industrial organization', 'international economics', 'labor economics', 'macroeconomics', 'public economics']
+**jaccard_index: 0.1724
+**predicted_cluster_con: ['agricultural and resource economics', 'applied mathematics', 'applied statistics', 'behavioral economics', 'dynamic systems', 'dynamical systems', 'dynamics/dynamical systems', 'econometrics', 'international economics', 'labor economics', 'mathematics', 'models and methods', 'non-linear dynamic', 'numerical analysis', 'operational research', 'ordinary differential equations', 'partial differential equations', 'political science', 'public economics', 'public policy', 'social science', 'sociology', 'statistics and probability', 'urban studies']
+**con_intersection: {'behavioral economics', 'international economics', 'public economics', 'labor economics', 'econometrics'}
+********************
+**gold_taxo_property: geography
+**gold_taxo_cons: ['geographic information sciences', 'human geography', 'nature and society relations', 'physical and environmental geography']
+**jaccard_index: 0.1538
+**predicted_cluster_con: ['atmospheric sciences', 'climate', 'environmental sciences', 'forest sciences', 'geographic information sciences', 'human geography', 'international relations', 'politics', 'regional sociology', 'social science', 'urban studies']
+**con_intersection: {'geographic information sciences', 'human geography'}
+********************
+**gold_taxo_property: linguistics
+**gold_taxo_cons: ['anthropological linguistics', 'applied linguistics', 'comparative and historical linguistics', 'computational linguistics', 'discourse linguistics', 'first language acquisition', 'language description', 'language documentation', 'linguistic diversity', 'morphology', 'neurolinguistics', 'phonetics', 'phonology', 'pragmatics', 'psycholinguistics', 'second language acquisition', 'semantics', 'sociolinguistics', 'syntax', 'typological linguistics']
+**jaccard_index: 0.5714
+**predicted_cluster_con: ['anthropological linguistics', 'anthropology', 'applied linguistics', 'classical literature and philology', 'comparative and historical linguistics', 'computational linguistics', 'discourse linguistics', 'french linguistics', 'german linguistics', 'humanities', 'indo-european linguistics and philology', 'language documentation', 'linguistic anthropology', 'morphology', 'neurolinguistics', 'philosophy of language', 'phonetics', 'phonology', 'pragmatics', 'psycholinguistics', 'semantics', 'sociolinguistics', 'syntax', 'typological linguistics']
+**con_intersection: {'applied linguistics', 'comparative and historical linguistics', 'neurolinguistics', 'sociolinguistics', 'morphology', 'phonology', 'computational linguistics', 'language documentation', 'semantics', 'typological linguistics', 'syntax', 'pragmatics', 'discourse linguistics', 'phonetics', 'anthropological linguistics', 'psycholinguistics'}
+********************
+**gold_taxo_property: political science
+**gold_taxo_cons: ['american politics', 'comparative politics', 'international relations', 'models and methods', 'political theory']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: psychology
+**gold_taxo_cons: ['biological psychology', 'clinical psychology', 'cognition and perception', 'cognitive psychology', 'community psychology', 'developmental psychology', 'health psychology', 'industrial and organizational psychology', 'personality and social contexts', 'social psychology']
+**jaccard_index: 0.2045
+**predicted_cluster_con: ['anthropological linguistics', 'anthropology', 'applied linguistics', 'artificial intelligence', 'behavioral economics', 'behavioral neurobiology', 'bioelectrical and neuroengineering', 'biological psychology', 'biometry', 'cellular neuroscience', 'clinical psychology', 'cognition and perception', 'cognitive neuroscience', 'cognitive psychology', 'community psychology', 'computational neuroscience', 'criminology', 'developmental neuroscience', 'developmental psychology', 'epistemology', 'ergonomics', 'health psychology', 'industrial and organizational psychology', 'kinesiology', 'linguistics', 'models and methods', 'musicology', 'neurolinguistics', 'neuroscience', 'performance studies', 'philosophy of language', 'phonetics', 'physiology', 'pragmatics', 'psycholinguistics', 'social psychology', 'social psychology and interaction', 'social science', 'sociolinguistics', 'sociology', 'systems neuroscience', 'theory and criticism history', 'theory, knowledge, science']
+**con_intersection: {'clinical psychology', 'health psychology', 'cognitive psychology', 'developmental psychology', 'social psychology', 'biological psychology', 'community psychology', 'cognition and perception', 'industrial and organizational psychology'}
+********************
+**gold_taxo_property: sociology
+**gold_taxo_cons: ['criminology', 'demography, population, and ecology', 'family, life course, and society', 'gender and sexuality', 'inequality and stratification', 'medicine and health', 'methodologies : quantitative, qualitative, comparative, and historical', 'place and environment', 'politics and social change', 'race and ethnicity', 'regional sociology', 'rural sociology', 'social control, law, crime, and deviance', 'social psychology and interaction', 'sociology of culture', 'theory, knowledge and science', 'work, economy and organizations']
+**jaccard_index: 0.1538
+**predicted_cluster_con: ['anthropological linguistics', 'anthropology', 'applied linguistics', 'behavioral economics', 'comparative literature', 'criminology', 'critical and cultural studies', 'demography, population, and ecology', 'discourse linguistics', 'ethnic studies', 'ethnomusicology', 'humanities', 'kinesiology', 'linguistic anthropology', 'linguistics', 'models and methods', 'musicology', 'performance studies', 'political science', 'pragmatics', 'regional sociology', 'rural sociology', 'social psychology and interaction', 'social science', 'sociolinguistics', 'sociology of culture', 'theory and criticism history', 'urban studies']
+**con_intersection: {'rural sociology', 'criminology', 'social psychology and interaction', 'demography, population, and ecology', 'regional sociology', 'sociology of culture'}
+********************
+**gold_taxo_property: humanities
+**gold_taxo_cons: ['african languages and societies', 'american studies', 'classics', 'comparative literature', 'east asian languages and societies', 'european languages and societies', 'history', 'latin american languages and societies', 'latin american literature', 'music', 'near eastern languages and societies', 'philosophy', 'portuguese literature', 'religion', 'slavic languages and societies', 'south and southeast asian languages and societies', 'spanish linguistics', 'spanish literature', 'theatre']
+**jaccard_index: 0.0513
+**predicted_cluster_con: ['american studies', 'anthropological linguistics', 'applied linguistics', 'classical literature and philology', 'comparative and historical linguistics', 'comparative literature', 'critical and cultural studies', 'cultural anthropology', 'discourse linguistics', 'epistemology', 'ethnic studies', 'ethnomusicology', 'journalism studies', 'linguistic anthropology', 'linguistics', 'models and methods', 'musicology', 'performance studies', 'political science', 'social anthropology', 'sociolinguistics', 'speech and rhetorical studies']
+**con_intersection: {'comparative literature', 'american studies'}
+********************
+**gold_taxo_property: american studies
+**gold_taxo_cons: ['american film studies', 'american material culture', 'american popular culture', 'ethnic studies']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: classics
+**gold_taxo_cons: ['ancient history', 'ancient philosophy', 'byzantine and modern greek', 'classical archaeology and art history', 'classical literature and philology', 'indo-european linguistics and philology']
+**jaccard_index: 0.1667
+**predicted_cluster_con: ['classical literature and philology']
+**con_intersection: {'classical literature and philology'}
+********************
+**gold_taxo_property: comparative literature
+**gold_taxo_cons: ['english language and literature', 'french and francophone language and literature', 'german language and literature']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: english language and literature
+**gold_taxo_cons: ['feminist, gender and sexuality studies', 'literature in english, anglophone', 'literature in english, british isles', 'literature in english, north america', 'literature in english, north america, ethnic and minority', 'rhetoric and composition']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: french and francophone language and literature
+**gold_taxo_cons: ['french and francophone literature', 'french linguistics']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: german language and literature
+**gold_taxo_cons: ['german linguistics', 'german literature']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: history
+**gold_taxo_cons: ['african history', 'american art and architecture history', 'ancient, medieval, renaissance and baroque art and architecture', 'asian art and architecture history', 'asian history', 'contemporary art history', 'cultural history', 'diplomatic history', 'european history', 'gender history', 'history of religion', 'history of science, technology, and medicine', 'intellectual history', 'islamic world/near east history', 'latin american history', 'medieval history', 'military history', 'modern art and architecture history', 'political history', 'social history', 'theatre history', 'theory and criticism history', 'united states history', 'women’s history']
+**jaccard_index: 0.0204
+**predicted_cluster_con: ['american studies', 'archaeologist', 'biblical studies', 'classical archaeology and art history', 'classical literature and philology', 'comparative literature', 'continental philosophy', 'economic theory', 'esthetics', 'ethnic studies', 'european languages and societies', 'humanities', 'intellectual history', 'international relations', 'latin american literature', 'literature in english', 'literature in english, north america, ethnic and minority', 'music theory', 'paleobiology', 'philosophy', 'playwriting', 'political science', 'politics', 'science', 'social science', 'theology']
+**con_intersection: {'intellectual history'}
+********************
+**gold_taxo_property: music
+**gold_taxo_cons: ['composition', 'ethnomusicology', 'music theory', 'musicology']
+**jaccard_index: 0.1034
+**predicted_cluster_con: ['african history', 'african languages and societies', 'american material culture', 'american popular culture', 'classical literature and philology', 'classics', 'composition', 'cultural history', 'esthetics', 'ethnomusicology', 'european languages and societies', 'french and francophone language and literature', 'german language and literature', 'german literature', 'humanities', 'instrumentation', 'latin american languages and societies', 'medieval history', 'musicology', 'performance studies', 'place and environment', 'race and ethnicity', 'religious thought', 'slavic languages and societies', 'sociology of culture', 'south and southeast asian languages and societies', 'theatre', 'theory and criticism history']
+**con_intersection: {'ethnomusicology', 'composition', 'musicology'}
+********************
+**gold_taxo_property: philosophy
+**gold_taxo_cons: ['continental philosophy', 'epistemology', 'esthetics', 'ethics and political philosophy', 'feminist philosophy', 'history of philosophy', 'logic and foundations of mathematics', 'metaphysics', 'philosophy of language', 'philosophy of mind', 'philosophy of science']
+**jaccard_index: 0.1481
+**predicted_cluster_con: ['ancient history', 'anthropology', 'artificial intelligence', 'behavioral economics', 'byzantine and modern greek', 'classical archaeology and art history', 'classical literature and philology', 'cognitive neuroscience', 'comparative literature', 'discourse linguistics', 'epistemology', 'esthetics', 'ethics', 'ethics and political philosophy', 'european languages and societies', 'feminist', 'french and francophone language and literature', 'german language and literature', 'german literature', 'history of religion', 'humanities', 'indo-european linguistics and philology', 'intellectual history', 'linguistic anthropology', 'linguistics', 'literature in english', 'logic and foundations', 'logic and foundations of mathematics', 'metaphysics', 'methodologies', 'musicology', 'near eastern languages and societies', 'performance studies', 'philosophy of language', 'philosophy of mind', 'philosophy of religion', 'philosophy of science', 'political science', 'portuguese literature', 'pragmatics', 'science', 'semantics', 'set theory', 'social science', 'sociology', 'sociology of culture', 'speech and rhetorical studies', 'syntax', 'theology', 'theory and criticism history', 'theory, knowledge and science']
+**con_intersection: {'esthetics', 'epistemology', 'philosophy of mind', 'philosophy of language', 'philosophy of science', 'logic and foundations of mathematics', 'ethics and political philosophy', 'metaphysics'}
+********************
+**gold_taxo_property: religion
+**gold_taxo_cons: ['biblical studies', 'ethics', 'history of religions of eastern origins', 'history of religions of western origin', 'philosophy of religion', 'religious thought', 'theology']
+**jaccard_index: 0.1364
+**predicted_cluster_con: ['ancient history', 'art and architecture', 'biblical studies', 'classical archaeology and art history', 'classical literature and philology', 'epistemology', 'ethics', 'history', 'history of philosophy', 'humanities', 'metaphysics', 'philosophy', 'portuguese literature', 'race and ethnicity', 'regional sociology', 'social anthropology', 'social history', 'theology']
+**con_intersection: {'biblical studies', 'theology', 'ethics'}
+********************
+**gold_taxo_property: theatre
+**gold_taxo_cons: ['dramatic literature, criticism and theory', 'performance studies', 'playwriting', 'theatre history']
+**jaccard_index: 0.5
+**predicted_cluster_con: ['classics', 'dramatic literature, criticism and theory', 'french and francophone literature', 'performance studies', 'playwriting']
+**con_intersection: {'performance studies', 'playwriting', 'dramatic literature, criticism and theory'}
+**avg_jaccard_index: 0.1548

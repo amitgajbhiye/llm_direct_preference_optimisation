@@ -1,0 +1,61 @@
+********************
+**gold_taxo_property: dangerous
+**gold_taxo_cons: ['alligator', 'axe', 'baseball bat', 'bazooka', 'bear', 'beehive', 'bomb', 'bull', 'bullet', 'cheetah', 'crocodile', 'crossbow', 'dagger', 'grenade', 'gun', 'harpoon', 'knife', 'lion', 'machete', 'missile', 'motorcycle', 'pistol', 'rattlesnake', 'revolver', 'rifle', 'rocket', 'shotgun', 'sword', 'tiger']
+**jaccard_index: 0.069
+**predicted_cluster_con: ['grenade', 'gun']
+**con_intersection: {'grenade', 'gun'}
+********************
+**gold_taxo_property: edible
+**gold_taxo_cons: ['apple', 'asparagus', 'avocado', 'banana', 'beans', 'beets', 'biscuit', 'blueberry', 'bread', 'broccoli', 'cabbage', 'cake', 'cantaloupe', 'carrot', 'cauliflower', 'celery', 'cheese', 'cherry', 'chicken', 'clam', 'coconut', 'corn', 'cow', 'crab', 'cranberry', 'cucumber', 'deer', 'donut', 'garlic', 'goat', 'grape', 'grapefruit', 'hare', 'hot dog', 'lamb', 'lemon', 'lettuce', 'lime', 'lobster', 'mushroom', 'nectarine', 'octopus', 'olive', 'onions', 'orange', 'parsley', 'peach', 'pear', 'peas', 'pepper', 'pie', 'pig', 'pineapple', 'pizza', 'plum', 'potato', 'prune', 'pumpkin', 'radish', 'raisin', 'raspberry', 'rhubarb', 'rice', 'salmon', 'sandwich', 'sardine', 'shrimp', 'spinach', 'squid', 'strawberry', 'tangerine', 'tomato', 'trout', 'tuna', 'turkey', 'walnut']
+**jaccard_index: 0.0526
+**predicted_cluster_con: ['chicken', 'clam', 'mushroom', 'raspberry']
+**con_intersection: {'chicken', 'mushroom', 'clam', 'raspberry'}
+********************
+**gold_taxo_property:  flies
+**gold_taxo_cons: ['airplane', 'balloon', 'bird', 'butterfly', 'crow', 'dove', 'duck', 'eagle', 'falcon', 'flamingo', 'frisbee', 'goose', 'hawk', 'helicopter', 'hornet', 'housefly', 'jet', 'kite', 'missile', 'moth', 'owl', 'peacock', 'pigeon', 'rocket', 'seagull', 'wasp', 'woodpecker']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property:  hot
+**gold_taxo_cons: ['bathtub', 'candle', 'cigar', 'cigarette', 'hair drier', 'kettle', 'oven', 'stove', 'toaster']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: lives in water
+**gold_taxo_cons: ['alligator', 'boat', 'canoe', 'clam', 'crab', 'crocodile', 'dolphin', 'eel', 'flamingo', 'frog', 'goldfish', 'lobster', 'octopus', 'otter', 'sailboat', 'salamander', 'salmon', 'sardine', 'seal', 'ship', 'shrimp', 'squid', 'submarine', 'swan', 'trout', 'tuna', 'turtle', 'walrus', 'whale', 'yacht']
+**jaccard_index: 0.0333
+**predicted_cluster_con: ['eel']
+**con_intersection: {'eel'}
+********************
+**gold_taxo_property: produces noise
+**gold_taxo_cons: ['accordion', 'airplane', 'ambulance', 'bagpipe', 'bomb', 'cannon', 'cell phone', 'clarinet', 'flute', 'grenade', 'hair drier', 'harp', 'helicopter', 'piano', 'stereo', 'trombone', 'violin']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: sharp
+**gold_taxo_cons: ['axe', 'bayonet', 'blender', 'chisel', 'corkscrew', 'dagger', 'grater', 'knife', 'machete', 'pin', 'razor', 'scissors', 'screwdriver', 'spear', 'sword']
+**jaccard_index: 0.4545
+**predicted_cluster_con: ['axe', 'bayonet', 'bird', 'cheese', 'dagger', 'eagle', 'falcon', 'goose', 'knife', 'machete', 'pencil', 'pin', 'razor', 'scissors', 'seagull', 'spear', 'sword']
+**con_intersection: {'sword', 'dagger', 'scissors', 'axe', 'spear', 'machete', 'bayonet', 'knife', 'razor', 'pin'}
+********************
+**gold_taxo_property: used by children
+**gold_taxo_cons: ['balloon', 'buggy', 'crayon', 'doll', 'earmuffs', 'frisbee', 'kite', 'paintbrush', 'pencil', 'skateboard', 'sled', 'teddy bear', 'toy', 'tricycle']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: used for cooking
+**gold_taxo_cons: ['apron', 'blender', 'bowl', 'colander', 'grater', 'kettle', 'knife', 'ladle', 'microwave', 'mixer', 'oven', 'pan', 'pot', 'skillet', 'spatula', 'spoon', 'stove', 'strainer', 'toaster', 'tongs']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: worn on feet
+**gold_taxo_cons: ['boots', 'nylons', 'sandals', 'shoes', 'skis', 'slippers', 'snowboard', 'socks']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+**avg_jaccard_index: 0.0609

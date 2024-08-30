@@ -656,11 +656,14 @@ For the concept of book, write its different facets and most salient properties 
 For the concept of <CONCEPT>, write its different facets and most salient properties under each facet.<|eot_id|>
 <|start_header_id|>assistant<|end_header_id|>"""
 
-
-
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/2_llama3_5inc_commonsense_facet_proper.json
-
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/2_llama3_5inc_food_facet_property.json
+
+
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/4_llama3_1inc_ufet_repeat_10.json
+
+
 
 
 src/facet_property_clustering.py 

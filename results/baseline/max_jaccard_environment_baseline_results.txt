@@ -1,0 +1,361 @@
+********************
+**gold_taxo_property: climate change policy
+**gold_taxo_cons: ['adaptation to climate change', 'clean development mechanism', 'emission allowance', 'emission trading', 'joint implementation', 'reduction of gas emissions']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['environmental economics']
+**con_intersection: set()
+********************
+**gold_taxo_property: emission allowance
+**gold_taxo_cons: ['EU emission allowance']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: emission trading
+**gold_taxo_cons: ['EU Emissions Trading Scheme']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['emission allowance', 'reduction of gas emissions', 'tradeable emission permit']
+**con_intersection: set()
+********************
+**gold_taxo_property: environmental policy
+**gold_taxo_cons: ['EU environmental policy', 'area management', 'cost of pollution', 'economic instrument for the environment', 'environmental economics', 'environmental education', 'environmental impact', 'environmental indicator', 'environmental law', 'environmental monitoring', 'environmental research', 'fight against wastage', 'management of resources', 'quality of the environment', 'risk prevention']
+**jaccard_index: 0.0588
+**predicted_cluster_con: ['carbon credit', 'carbon tax', 'environmental monitoring']
+**con_intersection: {'environmental monitoring'}
+********************
+**gold_taxo_property: economic instrument for the environment
+**gold_taxo_cons: ['deposit on a polluting product', 'environmental tax', 'tradeable emission permit']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: environmental law
+**gold_taxo_cons: ['environmental liability', 'environmental standard']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['polluter pays principle']
+**con_intersection: set()
+********************
+**gold_taxo_property: environmental standard
+**gold_taxo_cons: ['biological standard']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: environmental research
+**gold_taxo_cons: ['environmental statistics']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: management of resources
+**gold_taxo_cons: ['evaluation of resources', 'exploitation of resources', 'replacement of resources']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: exploitation of resources
+**gold_taxo_cons: ['exhaustion of resources', 'exploitation of the sea-bed', 'exploitation of the seas', 'over-exploitation of resources']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: risk prevention
+**gold_taxo_cons: ['industrial hazard', 'natural hazard']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: environmental protection
+**gold_taxo_cons: ['coastal protection', 'conservation of resources', 'countryside conservation', 'fight against insects', 'fire protection', 'national city park', 'protected area', 'protection of animal life', 'protection of plant life']
+**jaccard_index: 0.0556
+**predicted_cluster_con: ['adaptation to climate change', 'carbon credit', 'climate change policy', 'conservation of resources', 'decontamination', 'deposit on a polluting product', 'ecological balance', 'emission allowance', 'emission trading', 'environmental economics', 'exploitation of resources', 'export of waste', 'management of resources', 'national city park', 'oil pollution', 'over-exploitation of resources', 'polluted area', 'polluter pays principle', 'pollution control measures', 'replacement of resources', 'sewage system', 'soil resources', 'storage of waste', 'tradeable emission permit', 'waste disposal', 'waste management', 'waste recycling', 'waste storage', 'water management']
+**con_intersection: {'national city park', 'conservation of resources'}
+********************
+**gold_taxo_property: protected area
+**gold_taxo_cons: ['national park', 'nature reserve']
+**jaccard_index: 1.0
+**predicted_cluster_con: ['national park', 'nature reserve']
+**con_intersection: {'national park', 'nature reserve'}
+********************
+**gold_taxo_property: protection of animal life
+**gold_taxo_cons: ['hunting regulations', 'protection of animals']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: protection of plant life
+**gold_taxo_cons: ['seismic monitoring', 'water protection']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: pollution control measures
+**gold_taxo_cons: ['decontamination', 'noise protection', 'non-polluting vehicle', 'polluter pays principle', 'pollution control', 'prevention of pollution']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['water pollution']
+**con_intersection: set()
+********************
+**gold_taxo_property: pollution control
+**gold_taxo_cons: ['degree of pollution']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['emission allowance', 'environmental economics', 'environmental law', 'environmental monitoring', 'environmental research', 'environmental standard', 'natural resources', 'polluter pays principle', 'protected area', 'water resources']
+**con_intersection: set()
+********************
+**gold_taxo_property: prevention of pollution
+**gold_taxo_cons: ['anti-pollution device', 'biodegradability']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['water protection']
+**con_intersection: set()
+********************
+**gold_taxo_property: waste management
+**gold_taxo_cons: ['storage of waste', 'waste disposal', 'waste recycling']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['anti-pollution device', 'biodegradability', 'chemical pollution', 'climate change policy', 'coastal pollution', 'conservation of resources', 'cost of pollution', 'degradation of the environment', 'environment', 'environmental economics', 'environmental impact', 'environmental law', 'environmental liability', 'environmental policy', 'environmental quality', 'environmental standard', 'environmental tax', 'eu environmental policy', 'eutrophication', 'export of waste', 'industrial pollution', 'local pollution', 'organic pollution', 'pollutant', 'pollution', 'pollution control', 'pollution control measures', 'pollution from land-based sources', 'pollution from ships', 'pollution of waterways', 'prevention of pollution', 'radioactive pollution', 'replacement of resources', 'sewage system', 'soil pollution', 'thermal pollution', 'toxic substance', 'underwater mineral resources', 'use of water', 'waste incineration', 'water management', 'water pollution', 'water resources']
+**con_intersection: set()
+********************
+**gold_taxo_property: storage of waste
+**gold_taxo_cons: ['underground storage of waste']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: waste disposal
+**gold_taxo_cons: ['dumping of waste', 'waste incineration']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['environmental liability', 'industrial pollution', 'landfill', 'metal pollution', 'organic pollution', 'polluter pays principle', 'pollution', 'pollution from land-based sources', 'pollution from ships', 'pollution of waterways', 'radioactive pollution', 'septic tank', 'sewage system', 'sewer', 'thermal pollution', 'toxic substance']
+**con_intersection: set()
+********************
+**gold_taxo_property: water management
+**gold_taxo_cons: ['use of water']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['adaptation to climate change', 'countryside conservation', 'flood']
+**con_intersection: set()
+********************
+**gold_taxo_property: climate
+**gold_taxo_cons: ['atmospheric conditions', 'climatic zone']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['atmosphere', 'ecosystem', 'environmental statistics', 'geophysical environment', 'terrestrial ecosystem']
+**con_intersection: set()
+********************
+**gold_taxo_property: climatic zone
+**gold_taxo_cons: ['equatorial zone', 'frigid zone', 'humid zone', 'subtropical zone', 'temperate zone', 'tropical zone']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: geophysical environment
+**gold_taxo_cons: ['arid zone', 'desert', 'estuary', 'island', 'lake', 'mountain', 'ocean', 'plain', 'polar region', 'sea', 'watercourse']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: ocean
+**gold_taxo_cons: ['Antarctic Ocean', 'Arctic Ocean', 'Atlantic Ocean', 'Indian Ocean', 'Pacific Ocean']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['accidental pollution', 'animal life', 'animal resources', 'antarctic ocean', 'antarctica', 'aquatic environment', 'bathing water', 'biosphere', 'biotope', 'bird', 'black sea', 'climate', 'coastal pollution', 'coastal protection', 'continental shelf', 'cyclone', 'disaster area', 'dolphin', 'dumping of waste', 'earthquake', 'environment', 'environmental impact', 'environmental indicator', 'eutrophication', 'freshwater', 'geophysical environment', 'greenhouse gas', 'island', 'lake', 'littoral', 'man-made disaster', 'marine ecosystem', 'marine environment', 'marine life', 'marine mammal', 'marine pollution', 'mineral resources', 'natural disaster', 'natural hazard', 'natural resources', 'non-recoverable waste', 'north sea', 'oil pollution', 'physical environment', 'pollution', 'pollution from ships', 'protected species', 'red sea', 'sea', 'seal', 'surface water', 'thermal discharge', 'tropical zone', 'use of water', 'volcanic eruption', 'waste', 'wastewater', 'water', 'water resources', 'watercourse', 'whale', 'wildlife']
+**con_intersection: set()
+********************
+**gold_taxo_property: Atlantic Ocean
+**gold_taxo_cons: ['Baltic Sea', 'English Channel', 'Irish Sea', 'North Sea', 'Norwegian Sea']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: polar region
+**gold_taxo_cons: ['Antarctica', 'Arctic']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['arctic', 'arctic ocean', 'bear', 'frigid zone', 'wildlife']
+**con_intersection: set()
+********************
+**gold_taxo_property: sea
+**gold_taxo_cons: ['Black Sea', 'Caspian Sea', 'Mediterranean Sea', 'Red Sea']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['animal resources', 'aquatic environment', 'black sea', 'disaster area', 'dolphin', 'energy resources', 'english channel', 'exploitation of resources', 'ionian sea', 'island', 'ligurian sea', 'man-made disaster', 'marine ecosystem', 'marine environment', 'marine life', 'marine mammal', 'marine pollution', 'natural hazard', 'north sea', 'oil pollution', 'physical environment', 'protected area', 'red sea', 'surface water', 'tyrrhenian sea', 'watercourse', 'whale']
+**con_intersection: set()
+********************
+**gold_taxo_property: Mediterranean Sea
+**gold_taxo_cons: ['Adriatic Sea', 'Aegean Sea', 'Ionian Sea', 'Ligurian Sea', 'Tyrrhenian Sea']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: natural resources
+**gold_taxo_cons: ['animal resources', 'energy resources', 'mineral resources', 'plant resources', 'renewable resources', 'resources of the sea', 'soil resources', 'underwater mineral resources', 'water resources']
+**jaccard_index: 0.0588
+**predicted_cluster_con: ['ecological balance', 'environment', 'environmental economics', 'exploitation of resources', 'management of resources', 'plant resources', 'protected area', 'replacement of resources', 'resource management']
+**con_intersection: {'plant resources'}
+********************
+**gold_taxo_property: physical environment
+**gold_taxo_cons: ['aquatic environment', 'atmosphere', 'biosphere', 'ecological balance', 'ecosystem']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: aquatic environment
+**gold_taxo_cons: ['marine environment', 'water']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: marine environment
+**gold_taxo_cons: ['littoral', 'sea-bed']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['accidental pollution', 'corrosion', 'pollution from ships', 'sea', 'whale']
+**con_intersection: set()
+********************
+**gold_taxo_property: sea-bed
+**gold_taxo_cons: ['continental shelf', 'inshore grounds']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: water
+**gold_taxo_cons: ['bathing water', 'drinking water', 'freshwater', 'groundwater', 'ice', 'percolation water', 'saltwater', 'stagnant water', 'surface water']
+**jaccard_index: 0.0308
+**predicted_cluster_con: ['accidental pollution', 'adaptation to climate change', 'agricultural waste', 'animal life', 'animal resources', 'anti-pollution device', 'aquatic environment', 'biosphere', 'biotope', 'bird', 'carcinogenic substance', 'chemical pollution', 'coastal pollution', 'conservation of resources', 'corrosion', 'decontamination', 'degree of pollution', 'disaster area', 'ecosystem', 'environment', 'environmental law', 'environmental protection', 'environmental standard', 'erosion', 'exhaustion of resources', 'exploitation of resources', 'fire', 'flood', 'geophysical environment', 'ice', 'industrial pollution', 'insect', 'local pollution', 'natural resources', 'ocean', 'over-exploitation of resources', 'pesticide residue', 'physical environment', 'plant life', 'plant resources', 'pollutant', 'polluted area', 'pollution', 'pollution control', 'pollution from land-based sources', 'prevention of pollution', 'protected area', 'renewable resources', 'replacement of resources', 'reptile', 'resources of the sea', 'sea', 'soil resources', 'surface water', 'terrestrial ecosystem', 'toxic substance', 'unauthorised dumping', 'wastewater']
+**con_intersection: {'surface water', 'ice'}
+********************
+**gold_taxo_property: atmosphere
+**gold_taxo_cons: ['ozone']
+**jaccard_index: 0.0333
+**predicted_cluster_con: ['acidification', 'biosphere', 'climate', 'combustion gases', 'cyclone', 'degree of pollution', 'environment', 'environmental impact', 'environmental indicator', 'freshwater', 'geophysical environment', 'greenhouse effect', 'greenhouse gas', 'natural resources', 'non-recoverable waste', 'ozone', 'physical environment', 'plant life', 'plant resources', 'pollution', 'pollution from agricultural sources', 'pollution from land-based sources', 'stratospheric pollutant', 'stratospheric pollution', 'surface water', 'terrestrial ecosystem', 'thermal discharge', 'waste', 'water', 'water resources']
+**con_intersection: {'ozone'}
+********************
+**gold_taxo_property: biosphere
+**gold_taxo_cons: ['biodiversity']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: ecosystem
+**gold_taxo_cons: ['biotope', 'marine ecosystem', 'terrestrial ecosystem']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['animal resources', 'antarctica', 'biodiversity', 'biosphere', 'chemical pollution', 'degradation of the environment', 'environment', 'environmental degradation', 'environmental indicator', 'environmental protection', 'environmental statistics', 'marine life', 'ocean', 'pacific ocean', 'physical environment', 'plant resources', 'pollutant', 'radioactive effluent', 'stratospheric pollutant', 'surface water', 'water', 'water resources', 'wildlife']
+**con_intersection: set()
+********************
+**gold_taxo_property: wildlife
+**gold_taxo_cons: ['animal life', 'marine life', 'plant life', 'protected species']
+**jaccard_index: 0.0556
+**predicted_cluster_con: ['animal resources', 'antarctica', 'bear', 'bird', 'climate', 'countryside conservation', 'drought', 'environment', 'environmental law', 'environmental protection', 'environmental standard', 'hunting regulations', 'island', 'marine life', 'marine mammal', 'marsupial', 'monkey', 'mountain', 'national park', 'nature reserve', 'over-exploitation of resources', 'plain', 'plant resources', 'pollutant', 'polluted area', 'protected area', 'protected species', 'protection of animals', 'quality of the environment', 'temperate zone', 'terrestrial ecosystem', 'use of water', 'whale', 'wolf']
+**con_intersection: {'marine life', 'protected species'}
+********************
+**gold_taxo_property: animal life
+**gold_taxo_cons: ['bird', 'insect', 'reptile', 'wild mammal']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['climatic zone']
+**con_intersection: set()
+********************
+**gold_taxo_property: wild mammal
+**gold_taxo_cons: ['Chiroptera', 'bear', 'fur-bearing animal', 'lynx', 'marine mammal', 'marsupial', 'monkey', 'rodent', 'wolf']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: marine mammal
+**gold_taxo_cons: ['dolphin', 'seal', 'whale']
+**jaccard_index: 1.0
+**predicted_cluster_con: ['dolphin', 'seal', 'whale']
+**con_intersection: {'seal', 'whale', 'dolphin'}
+********************
+**gold_taxo_property: plant life
+**gold_taxo_cons: ['harmful plant']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: degradation of the environment
+**gold_taxo_cons: ['acid rain', 'climate change', 'corrosion', 'defoliation', 'deforestation', 'desertification', 'destruction of crops', 'disaster area', 'fire', 'man-made disaster', 'natural disaster', 'polluted area', 'sensitive area']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: climate change
+**gold_taxo_cons: ['global warming']
+**jaccard_index: 0.0093
+**predicted_cluster_con: ['acidification', 'agricultural disaster', 'antarctica', 'aquatic environment', 'arctic', 'arctic ocean', 'atmosphere', 'atmospheric pollutant', 'atmospheric pollution', 'bad weather', 'biodiversity', 'biosphere', 'biotope', 'black sea', 'carbon credit', 'chemical pollution', 'clean development mechanism', 'climate', 'coastal protection', 'combustion gases', 'conservation of resources', 'cost of pollution', 'countryside conservation', 'defoliation', 'deforestation', 'degradation of the environment', 'degree of pollution', 'desertification', 'destruction of crops', 'domestic waste', 'drought', 'dumping of waste', 'ecological balance', 'ecosystem', 'environment', 'environmental degradation', 'environmental economics', 'environmental education', 'environmental impact', 'environmental indicator', 'environmental law', 'environmental liability', 'environmental policy', 'environmental protection', 'environmental quality', 'environmental research', 'environmental statistics', 'equatorial zone', 'erosion', 'eu environmental policy', 'exhaustion of resources', 'exploitation of resources', 'exploitation of the seas', 'export of waste', 'fight against wastage', 'geophysical environment', 'global warming', 'greenhouse effect', 'greenhouse gas', 'industrial pollution', 'joint implementation', 'littoral', 'local pollution', 'marine ecosystem', 'marine environment', 'marine life', 'marine pollution', 'metal pollution', 'motor vehicle pollution', 'non-recoverable waste', 'ocean', 'over-exploitation of resources', 'ozone', 'pacific ocean', 'physical environment', 'pollutant', 'polluter pays principle', 'pollution', 'pollution control', 'pollution control measures', 'pollution from agricultural sources', 'pollution from land-based sources', 'pollution from ships', 'pollution of waterways', 'prevention of pollution', 'protected species', 'protection of animal life', 'protection of plant life', 'quality of the environment', 'red sea', 'reduction of gas emissions', 'resources of the sea', 'sea', 'sea-bed', 'stratospheric pollutant', 'stratospheric pollution', 'surface water', 'terrestrial ecosystem', 'thermal discharge', 'waste', 'waste disposal', 'waste management', 'water management', 'water pollutant', 'water pollution', 'water protection', 'water resources', 'wildlife']
+**con_intersection: {'global warming'}
+********************
+**gold_taxo_property: natural disaster
+**gold_taxo_cons: ['agricultural disaster', 'bad weather', 'cyclone', 'drought', 'earthquake', 'erosion', 'flood', 'volcanic eruption']
+**jaccard_index: 0.3684
+**predicted_cluster_con: ['accidental pollution', 'agricultural disaster', 'bad weather', 'climate', 'cyclone', 'dangerous substance', 'destruction of crops', 'disaster area', 'drought', 'earthquake', 'environmental liability', 'fire', 'flood', 'industrial hazard', 'man-made disaster', 'pollutant', 'polluted area', 'volcanic eruption']
+**con_intersection: {'flood', 'agricultural disaster', 'earthquake', 'drought', 'cyclone', 'bad weather', 'volcanic eruption'}
+********************
+**gold_taxo_property: nuisance
+**gold_taxo_cons: ['dangerous substance', 'electromagnetic interference', 'mechanical vibration', 'noise', 'pollutant', 'thermal discharge']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['fight against insects']
+**con_intersection: set()
+********************
+**gold_taxo_property: dangerous substance
+**gold_taxo_cons: ['carcinogenic substance', 'inflammable product', 'toxic substance']
+**jaccard_index: 0.3333
+**predicted_cluster_con: ['inflammable product']
+**con_intersection: {'inflammable product'}
+********************
+**gold_taxo_property: electromagnetic interference
+**gold_taxo_cons: ['non-ionising radiation']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: noise
+**gold_taxo_cons: ['noise level']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['degree of pollution', 'electromagnetic interference', 'landfill', 'marine pollution', 'mechanical vibration', 'nuisance', 'physical environment', 'polluted area', 'pollution', 'pollution control', 'pollution from land-based sources']
+**con_intersection: set()
+********************
+**gold_taxo_property: pollutant
+**gold_taxo_cons: ['atmospheric pollutant', 'pesticide residue', 'water pollutant']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['carcinogenic substance', 'combustion gases', 'ozone', 'toxic substance', 'used oil']
+**con_intersection: set()
+********************
+**gold_taxo_property: atmospheric pollutant
+**gold_taxo_cons: ['combustion gases', 'dust', 'greenhouse gas', 'stratospheric pollutant']
+**jaccard_index: 0.0
+**predicted_cluster_con: []
+**con_intersection: set()
+********************
+**gold_taxo_property: pollution
+**gold_taxo_cons: ['acidification', 'atmospheric pollution', 'biodiversity', 'chemical pollution', 'coastal pollution', 'food contamination', 'industrial pollution', 'local pollution', 'metal pollution', 'motor vehicle pollution', 'noise pollution', 'oil pollution', 'organic pollution', 'pollution from agricultural sources', 'pollution from ships', 'radioactive pollution', 'soil pollution', 'stratospheric pollution', 'thermal pollution', 'water pollution']
+**jaccard_index: 0.018
+**predicted_cluster_con: ['acidification', 'adriatic sea', 'agricultural waste', 'antarctica', 'aquatic environment', 'arctic', 'arctic ocean', 'atlantic ocean', 'atmosphere', 'baltic sea', 'biodiversity', 'biosphere', 'biotope', 'black sea', 'caspian sea', 'chemical waste', 'climate', 'conservation of resources', 'countryside conservation', 'defoliation', 'degradation of the environment', 'disaster area', 'domestic waste', 'dumping of waste', 'ecological balance', 'ecosystem', 'electronic waste', 'environment', 'environmental degradation', 'environmental economics', 'environmental impact', 'environmental indicator', 'environmental liability', 'environmental policy', 'environmental protection', 'environmental research', 'environmental statistics', 'erosion', 'exhaustion of resources', 'exploitation of resources', 'exploitation of the sea-bed', 'exploitation of the seas', 'export of waste', 'fight against insects', 'fight against wastage', 'geophysical environment', 'harmful plant', 'hazardous waste', 'hospital waste', 'industrial waste', 'landfill', 'littoral', 'man-made disaster', 'marine ecosystem', 'marine environment', 'marine life', 'mediterranean sea', 'metal waste', 'mineral resources', 'non-recoverable waste', 'north sea', 'nuisance', 'ocean', 'over-exploitation of resources', 'pacific ocean', 'physical environment', 'protected species', 'protection of animal life', 'protection of plant life', 'radioactive effluent', 'red sea', 'resources of the sea', 'sea', 'sea-bed', 'soil resources', 'stagnant water', 'storage of waste', 'surface water', 'tyrrhenian sea', 'unauthorised dumping', 'underwater mineral resources', 'use of water', 'waste', 'waste disposal', 'waste management', 'waste storage', 'wastewater', 'water', 'water management', 'water protection', 'water resources', 'whale', 'wildlife']
+**con_intersection: {'acidification', 'biodiversity'}
+********************
+**gold_taxo_property: atmospheric pollution
+**gold_taxo_cons: ['greenhouse effect']
+**jaccard_index: 0.0909
+**predicted_cluster_con: ['acid rain', 'acidification', 'deforestation', 'dumping of waste', 'electronic waste', 'greenhouse effect', 'industrial waste', 'ozone', 'pollution from agricultural sources', 'stratospheric pollutant', 'stratospheric pollution']
+**con_intersection: {'greenhouse effect'}
+********************
+**gold_taxo_property: water pollution
+**gold_taxo_cons: ['eutrophication', 'marine pollution', 'pollution of waterways']
+**jaccard_index: 0.04
+**predicted_cluster_con: ['accidental pollution', 'acid rain', 'agricultural waste', 'atmospheric pollutant', 'atmospheric pollution', 'chemical pollution', 'coastal pollution', 'cost of pollution', 'dangerous substance', 'deforestation', 'degradation of the environment', 'degree of pollution', 'deposit on a polluting product', 'domestic waste', 'drought', 'dumping of waste', 'ecological balance', 'electronic waste', 'environment', 'environmental degradation', 'environmental economics', 'environmental impact', 'environmental law', 'environmental liability', 'environmental protection', 'environmental quality', 'environmental research', 'environmental standard', 'environmental statistics', 'eu environmental policy', 'eutrophication', 'exhaustion of resources', 'exploitation of the seas', 'fight against insects', 'fight against wastage', 'hazardous waste', 'industrial pollution', 'industrial waste', 'landfill', 'local pollution', 'marine pollution', 'metal pollution', 'motor vehicle pollution', 'non-recoverable waste', 'organic pollution', 'over-exploitation of resources', 'pollutant', 'polluted area', 'pollution', 'pollution control', 'pollution control measures', 'pollution from agricultural sources', 'pollution from land-based sources', 'pollution from ships', 'pollution of waterways', 'prevention of pollution', 'quality of the environment', 'radioactive effluent', 'radioactive waste', 'sewage sludge', 'soil pollution', 'stagnant water', 'storage of waste', 'surface water', 'thermal discharge', 'thermal pollution', 'unauthorised dumping', 'waste', 'waste disposal', 'waste incineration', 'waste management', 'wastewater', 'water management', 'water protection', 'watercourse']
+**con_intersection: {'eutrophication', 'marine pollution', 'pollution of waterways'}
+********************
+**gold_taxo_property: marine pollution
+**gold_taxo_cons: ['pollution from land-based sources']
+**jaccard_index: 0.0
+**predicted_cluster_con: ['exploitation of the seas', 'marine environment']
+**con_intersection: set()
+********************
+**gold_taxo_property: waste
+**gold_taxo_cons: ['agricultural waste', 'chemical waste', 'domestic waste', 'electronic waste', 'export of waste', 'hazardous waste', 'hospital waste', 'industrial waste', 'metal waste', 'non-recoverable waste', 'radioactive waste', 'sewage sludge', 'unauthorised dumping', 'used oil', 'wastewater']
+**jaccard_index: 0.1111
+**predicted_cluster_con: ['accidental pollution', 'degree of pollution', 'environmental liability', 'environmental standard', 'eutrophication', 'management of resources', 'marine pollution', 'organic pollution', 'pollutant', 'pollution from land-based sources', 'pollution from ships', 'unauthorised dumping', 'used oil', 'wastewater', 'water management']
+**con_intersection: {'unauthorised dumping', 'wastewater', 'used oil'}
+********************
+**gold_taxo_property: radioactive waste
+**gold_taxo_cons: ['radioactive effluent']
+**jaccard_index: 0.5
+**predicted_cluster_con: ['radioactive effluent', 'radioactive pollution']
+**con_intersection: {'radioactive effluent'}
+********************
+**gold_taxo_property: environment
+**gold_taxo_cons: ['climate', 'climate change policy', 'degradation of the environment', 'environmental policy', 'environmental protection', 'geophysical environment', 'natural resources', 'nuisance', 'physical environment', 'pollution', 'pollution control measures', 'waste', 'waste management', 'water management', 'wildlife']
+**jaccard_index: 0.0882
+**predicted_cluster_con: ['acidification', 'atmospheric pollution', 'biotope', 'chemical pollution', 'degree of pollution', 'disaster area', 'dumping of waste', 'electromagnetic interference', 'environmental economics', 'evaluation of resources', 'exhaustion of resources', 'local pollution', 'management of resources', 'nuisance', 'ocean', 'pesticide residue', 'plant resources', 'pollution', 'radioactive pollution', 'risk prevention', 'toxic substance', 'waste']
+**con_intersection: {'pollution', 'nuisance', 'waste'}
+**avg_jaccard_index: 0.0642
