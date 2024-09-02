@@ -1,0 +1,13 @@
+{
+    "experiment_name": "11_transport_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10",
+    "log_dir": "logs",
+    "do_preference_exp": false,
+    "taxo_name": "transport_ontology",
+    "taxo_file": null,
+    "embedding_file": "embeds/ontology_embeddings/LLM2Vec-Mistral-7B-Instruct-v2-mntp/final_concept_facet_propert_clusterlabel_embeds.pkl",
+    "output_dir": "data/ontology_concepts/transport",
+    "clusters_output_file": "mistral7b_inst_mntp_transport_afp_clusters",
+    "all_parsed_data_file": "data/ontology_concepts/transport/facet_property/transport/final_concept_facet_propert_clusterlabel.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": null,
+    "facet_property_separator": ":"
+}

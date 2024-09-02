@@ -48,12 +48,6 @@ batch_size = 500
 
 llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
-facet_colon_property_files = [
-    "data/ontology_concepts/wine/llama3_repeat10_concept_facet_property_wine_onto_concepts_parsed.txt",
-    "data/ontology_concepts/transport/facet_property/transport/final_concept_facet_propert_clusterlabel.txt",
-    "data/ontology_concepts/economy/llama3_repeat10_concept_facet_property_economy_onto_concepts_parsed.txt",
-    "data/ontology_concepts/olympics/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed.txt",
-]
 
 facet_colon_property_files = [
     "data/evaluation_taxo/ufet_generated/lama38b_ufet_facet_colon_property_1inc_repeat5_parsed.txt"
@@ -179,4 +173,12 @@ gc.collect()
 #     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_equipment_facet_colon_property_5inc.txt",
 #     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_commonsense_facet_colon_property_5inc.txt",
 #     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_environment_facet_colon_property_5inc.txt",
+# ]
+
+
+# facet_colon_property_files = [
+#     "data/ontology_concepts/wine/llama3_repeat10_concept_facet_property_wine_onto_concepts_parsed.txt",
+#     "data/ontology_concepts/transport/facet_property/transport/final_concept_facet_propert_clusterlabel.txt",
+#     "data/ontology_concepts/economy/llama3_repeat10_concept_facet_property_economy_onto_concepts_parsed.txt",
+#     "data/ontology_concepts/olympics/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed.txt",
 # ]

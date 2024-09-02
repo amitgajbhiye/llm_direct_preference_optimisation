@@ -3,8 +3,8 @@
 #SBATCH -A scw1858
 #SBATCH --job-name=ecoAFP
 
-#SBATCH --output=logs/out_run3_afp_mistral_economy_1inc_facet_property_clustering.txt
-#SBATCH --error=logs/err_run3_afp_mistral_economy_1inc_facet_property_clustering.txt
+#SBATCH --output=logs/ontology_clustering/out_run3_afp_mistral_economy_1inc_facet_property_clustering.txt
+#SBATCH --error=logs/ontology_clustering/err_run3_afp_mistral_economy_1inc_facet_property_clustering.txt
 
 #SBATCH --nodes=1
 #SBATCH -p highmem
@@ -18,6 +18,6 @@
 
 conda activate venv
 
-python3 src/facet_property_clustering.py --config_file configs/clustering/11_economy_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat5.json
+python3 src/facet_property_clustering.py --config_file configs/clustering/11_economy_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10.json
 
 echo 'Job Finished !!!'

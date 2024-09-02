@@ -1,0 +1,13 @@
+{
+    "experiment_name": "11_olympics_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10",
+    "log_dir": "logs/ontology_clustering",
+    "do_preference_exp": false,
+    "taxo_name": "olympics_ontology",
+    "taxo_file": null,
+    "embedding_file": "embeds/ontology_embeddings/LLM2Vec-Mistral-7B-Instruct-v2-mntp/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed_embeds.pkl",
+    "output_dir": "data/ontology_concepts/olympics",
+    "clusters_output_file": "mistral7b_inst_mntp_olympics_afp_clusters",
+    "all_parsed_data_file": "data/ontology_concepts/olympics/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": null,
+    "facet_property_separator": ":"
+}
