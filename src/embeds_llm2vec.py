@@ -2,6 +2,7 @@ import gc
 import os
 import pickle
 
+import pandas as pd
 import torch
 from llm2vec import LLM2Vec
 from peft import PeftModel
@@ -48,19 +49,28 @@ batch_size = 500
 llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
 facet_colon_property_files = [
-    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_food_facet_colon_property_5inc.txt",
-    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_science_facet_colon_property_5inc.txt",
-    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_equipment_facet_colon_property_5inc.txt",
-    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_commonsense_facet_colon_property_5inc.txt",
-    "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_environment_facet_colon_property_5inc.txt",
+    "data/ontology_concepts/transport/facet_property/transport/final_concept_facet_propert_clusterlabel.txt"
+    "data/ontology_concepts/economy/llama3_repeat10_concept_facet_property_economy_onto_concepts_parsed.txt",
+    "data/ontology_concepts/olympics/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed.txt",
+    "data/ontology_concepts/wine/llama3_repeat10_concept_facet_property_wine_onto_concepts_parsed.txt",
 ]
+
+
+def get_ontology_facet_colon(ontology_file):
+    df = pd.read_csv(ontology_file, sep="\t")
+    facet_colon_property_list = df["facet_property"].str.strip().unique()
+
+    return facet_colon_property_list
 
 
 for fact_property_file in facet_colon_property_files:
     print(f"getting_embeddings: {fact_property_file}", flush=True)
 
-    with open(fact_property_file, "r") as fin:
-        facet_property = [fp.strip("\n") for fp in fin.readlines()]
+    # with open(fact_property_file, "r") as fin:
+    #     facet_property = [fp.strip("\n") for fp in fin.readlines()]
+
+    # for ontology data
+    facet_property = get_ontology_facet_colon(fact_property_file)
 
     print(f"num_facet_property: {len(facet_property)}")
 
@@ -90,7 +100,9 @@ for fact_property_file in facet_colon_property_files:
     file_name_with_ext = os.path.basename(fact_property_file)
     file_name, file_extension = os.path.splitext(file_name_with_ext)
 
-    out_file_name = os.path.join(os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl")
+    out_file_name = os.path.join(
+        "ontology_embeddings", os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl"
+    )
     pickle_output_file = os.path.join("embeds", out_file_name)
 
     #####################
@@ -155,4 +167,12 @@ gc.collect()
 #     "data/evaluation_taxo/generated_facet_property/llama3_equipment_facet_pertain_property.tsv",
 #     "data/evaluation_taxo/generated_facet_property/llama3_food_facet_pertain_property.tsv",
 #     "data/evaluation_taxo/generated_facet_property/llama3_science_facet_pertain_property.tsv",
+# ]
+
+# facet_colon_property_files = [
+#     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_food_facet_colon_property_5inc.txt",
+#     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_science_facet_colon_property_5inc.txt",
+#     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_equipment_facet_colon_property_5inc.txt",
+#     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_commonsense_facet_colon_property_5inc.txt",
+#     "data/evaluation_taxo/fewshot_5inc_generated_facet_prop/llama3_environment_facet_colon_property_5inc.txt",
 # ]
