@@ -75,7 +75,7 @@ def affinity_propagation_clustering(config):
     return f"{clustered_file_name}.txt"
 
 
-def merge_concepts_clusters(all_data_file, cluster_file, facet_property_separator):
+def merge_concepts_clusters(all_data_file, cluster_file, facet_property_separator=None):
 
     logger.info(f"creating_final_clusters ...")
 
@@ -402,17 +402,17 @@ if __name__ == "__main__":
             )
         )
 
-        taxo_file = config["taxo_file"]
-        output_file = os.path.join(
-            config["output_dir"],
-            f'{config["max_jaccard_gold_and_predicted_clusters_file"]}.txt',
-        )
+        # taxo_file = config["taxo_file"]
+        # output_file = os.path.join(
+        #     config["output_dir"],
+        #     f'{config["max_jaccard_gold_and_predicted_clusters_file"]}.txt',
+        # )
 
-        max_jaccard_gold_and_predicted_clusters(
-            con_prop_cluster_label_file=con_prop_cluster_label_file_name,
-            taxo_file=taxo_file,
-            output_file=output_file,
-        )
+        # max_jaccard_gold_and_predicted_clusters(
+        #     con_prop_cluster_label_file=con_prop_cluster_label_file_name,
+        #     taxo_file=taxo_file,
+        #     output_file=output_file,
+        # )
 
         end_time = time.time()
         get_execution_time(start_time, end_time)
