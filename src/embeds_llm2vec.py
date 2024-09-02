@@ -55,6 +55,10 @@ facet_colon_property_files = [
     "data/ontology_concepts/olympics/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed.txt",
 ]
 
+facet_colon_property_files = [
+    "data/evaluation_taxo/ufet_generated/lama38b_ufet_facet_colon_property_1inc_repeat5_parsed.txt"
+]
+
 
 def get_ontology_facet_colon(ontology_file):
     df = pd.read_csv(ontology_file, sep="\t")
@@ -66,11 +70,11 @@ def get_ontology_facet_colon(ontology_file):
 for fact_property_file in facet_colon_property_files:
     print(f"getting_embeddings: {fact_property_file}", flush=True)
 
-    # with open(fact_property_file, "r") as fin:
-    #     facet_property = [fp.strip("\n") for fp in fin.readlines()]
+    with open(fact_property_file, "r") as fin:
+        facet_property = [fp.strip("\n") for fp in fin.readlines()]
 
-    # for ontology data
-    facet_property = get_ontology_facet_colon(fact_property_file)
+    # # for ontology data
+    # facet_property = get_ontology_facet_colon(fact_property_file)
 
     print(f"num_facet_property: {len(facet_property)}")
 
@@ -101,7 +105,7 @@ for fact_property_file in facet_colon_property_files:
     file_name, file_extension = os.path.splitext(file_name_with_ext)
 
     out_file_name = os.path.join(
-        "ontology_embeddings", os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl"
+        "ufet", os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl"
     )
     pickle_output_file = os.path.join("embeds", out_file_name)
 
