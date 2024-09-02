@@ -3,8 +3,8 @@
 #SBATCH -A scw1858
 #SBATCH --job-name=olyAFP
 
-#SBATCH --output=logs/ontology_clustering/out_run5_afp_mistral_olympics_1inc_facet_property_clustering.sh
-#SBATCH --error=logs/ontology_clustering/err_run5_afp_mistral_olympics_1inc_facet_property_clustering.sh
+#SBATCH --output=logs/ontology_clustering/out_run5_afp_mistral_olympics_1inc_facet_property_clustering.txt
+#SBATCH --error=logs/ontology_clustering/err_run5_afp_mistral_olympics_1inc_facet_property_clustering.txt
 
 #SBATCH --nodes=1
 #SBATCH -p highmem

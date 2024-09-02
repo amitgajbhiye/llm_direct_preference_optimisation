@@ -1,0 +1,13 @@
+{
+    "experiment_name": "12_ufet_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat5",
+    "log_dir": "logs/ufet_clustering",
+    "do_preference_exp": false,
+    "taxo_name": "wine_ontology",
+    "taxo_file": null,
+    "embedding_file": "embeds/ufet/LLM2Vec-Mistral-7B-Instruct-v2-mntp/lama38b_ufet_facet_colon_property_1inc_repeat5_parsed_embeds.pkl",
+    "output_dir": "data/ufet",
+    "clusters_output_file": "mistral7b_inst_mntp_ufet_afp_clusters",
+    "all_parsed_data_file": "data/ufet/ufet_generated/lama38b_ufet_concepts_facet_property_1inc_repeat5_parsed.txt",
+    "max_jaccard_gold_and_predicted_clusters_file": null,
+    "facet_property_separator": ":"
+}
