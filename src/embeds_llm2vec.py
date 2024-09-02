@@ -50,7 +50,7 @@ llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
 facet_colon_property_files = [
     "data/ontology_concepts/wine/llama3_repeat10_concept_facet_property_wine_onto_concepts_parsed.txt",
-    "data/ontology_concepts/transport/facet_property/transport/final_concept_facet_propert_clusterlabel.txt"
+    "data/ontology_concepts/transport/facet_property/transport/final_concept_facet_propert_clusterlabel.txt",
     "data/ontology_concepts/economy/llama3_repeat10_concept_facet_property_economy_onto_concepts_parsed.txt",
     "data/ontology_concepts/olympics/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed.txt",
 ]
