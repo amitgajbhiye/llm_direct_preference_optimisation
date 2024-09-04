@@ -1,0 +1,43 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q106827,Second Life,http://www.wikidata.org/entity/Q106827,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q336177,EVE Online,http://www.wikidata.org/entity/Q336177,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q390223,Club Penguin,http://www.wikidata.org/entity/Q390223,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q219743,OGame,http://www.wikidata.org/entity/Q219743,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q327602,Ikariam,http://www.wikidata.org/entity/Q327602,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q486189,Elsword,http://www.wikidata.org/entity/Q486189,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q495763,GunZ: The Duel,http://www.wikidata.org/entity/Q495763,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q48721,Curiosity – What's Inside the Cube?,http://www.wikidata.org/entity/Q48721,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q487975,Grand Chase,http://www.wikidata.org/entity/Q487975,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q202934,Hattrick,http://www.wikidata.org/entity/Q202934,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q244503,eRepublik,http://www.wikidata.org/entity/Q244503,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q54851,Clone Wars Adventures,http://www.wikidata.org/entity/Q54851,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q484863,Ace Online,http://www.wikidata.org/entity/Q484863,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q74245,GetAmped,http://www.wikidata.org/entity/Q74245,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q862490,massively multiplayer online game,games,1
+Q388247,Might and Magic III: Isles of Terra,http://www.wikidata.org/entity/Q388247,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q744038,role-playing video game,games,0
+Q210552,Darwinia,http://www.wikidata.org/entity/Q210552,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q208189,real-time strategy,games,0
+Q167359,Pirates of the Caribbean: Dead Man's Chest,http://www.wikidata.org/entity/Q167359,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q343568,action-adventure game,games,0
+Q268616,Metin2,http://www.wikidata.org/entity/Q268616,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q175173,massively multiplayer online role-playing game,games,0
+Q49607,The Elder Scrolls IV: Oblivion,http://www.wikidata.org/entity/Q49607,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q744038,role-playing video game,games,0
+Q55313,Star Wars: X-Wing Alliance,http://www.wikidata.org/entity/Q55313,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q21154509,space combat simulation game,games,0
+Q427050,Witchaven,http://www.wikidata.org/entity/Q427050,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q111184276,dark fantasy video game,games,0
+Q538821,Crysis 3,http://www.wikidata.org/entity/Q538821,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q858523,stealth game,games,0
+Q100096,Mega Man X2,http://www.wikidata.org/entity/Q100096,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q828322,platform game,games,0
+Q54856,Star Wars Trilogy: Apprentice of the Force,http://www.wikidata.org/entity/Q54856,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q270948,action game,games,0
+Q484877,Point Blank,http://www.wikidata.org/entity/Q484877,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q185029,first-person shooter,games,0
+Q277377,Catherine,http://www.wikidata.org/entity/Q277377,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q343568,action-adventure game,games,0
+Q111683,Chromehounds,http://www.wikidata.org/entity/Q111683,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q270948,action game,games,0
+Q24516,Fire Emblem: New Mystery of the Emblem,http://www.wikidata.org/entity/Q24516,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q1529437,tactical role-playing game,games,0
+Q55272,Star Wars Galaxies,http://www.wikidata.org/entity/Q55272,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q175173,massively multiplayer online role-playing game,games,0
+Q495044,Knight Online,http://www.wikidata.org/entity/Q495044,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q42409239,fantasy video game,games,0
+Q477882,Wing Commander: Prophecy,http://www.wikidata.org/entity/Q477882,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q27670585,science fiction video game,games,0
+Q327602,Ikariam,http://www.wikidata.org/entity/Q327602,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q472055,strategy video game,games,0
+Q245006,Final Fantasy VIII,http://www.wikidata.org/entity/Q245006,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q107542272,science fantasy video game,games,0
+Q211096,Call of Duty,http://www.wikidata.org/entity/Q211096,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q185029,first-person shooter,games,0
+Q131007,World of Warcraft,http://www.wikidata.org/entity/Q131007,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q42409239,fantasy video game,games,0
+Q219804,Zombies Ate My Neighbors,http://www.wikidata.org/entity/Q219804,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q1044478,shoot 'em up,games,0
+Q484072,Granado Espada,http://www.wikidata.org/entity/Q484072,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q42409239,fantasy video game,games,0
+Q300339,A Boy and His Blob: Trouble on Blobolonia,http://www.wikidata.org/entity/Q300339,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q54767,puzzle video game,games,0
+Q484863,Ace Online,http://www.wikidata.org/entity/Q484863,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q27670585,science fiction video game,games,0
+Q372774,Xexyz,http://www.wikidata.org/entity/Q372774,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q828322,platform game,games,0
+Q225912,Kingdom Hearts,http://www.wikidata.org/entity/Q225912,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q744038,role-playing video game,games,0
+Q31332,Wind: A Breath of Heart,http://www.wikidata.org/entity/Q31332,http://www.wikidata.org/prop/direct/P136,genre,http://www.wikidata.org/entity/Q689445,visual novel,games,0

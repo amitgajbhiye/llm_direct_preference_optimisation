@@ -1,0 +1,826 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q1374,Matterhorn,http://www.wikidata.org/entity/Q1374,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q4425,Eiger,http://www.wikidata.org/entity/Q4425,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15312,Jungfrau,http://www.wikidata.org/entity/Q15312,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q3403,Dufourspitze,http://www.wikidata.org/entity/Q3403,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15265,Mount Pilatus,http://www.wikidata.org/entity/Q15265,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15224,Säntis,http://www.wikidata.org/entity/Q15224,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15132,Piz Bernina,http://www.wikidata.org/entity/Q15132,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15291,Rigi,http://www.wikidata.org/entity/Q15291,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15138,Titlis,http://www.wikidata.org/entity/Q15138,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15127,Finsteraarhorn,http://www.wikidata.org/entity/Q15127,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16525,Mönch,http://www.wikidata.org/entity/Q16525,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15117,Dom,http://www.wikidata.org/entity/Q15117,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16588,Piz Buin,http://www.wikidata.org/entity/Q16588,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15122,Weisshorn,http://www.wikidata.org/entity/Q15122,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16540,Breithorn,http://www.wikidata.org/entity/Q16540,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16524,Üetliberg,http://www.wikidata.org/entity/Q16524,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15241,Schesaplana,http://www.wikidata.org/entity/Q15241,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15126,Grand Combin,http://www.wikidata.org/entity/Q15126,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15125,Dent Blanche,http://www.wikidata.org/entity/Q15125,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15120,Lyskamm,http://www.wikidata.org/entity/Q15120,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30405,Signalkuppe,http://www.wikidata.org/entity/Q30405,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16693,Niesen,http://www.wikidata.org/entity/Q16693,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16648,Monte San Giorgio,http://www.wikidata.org/entity/Q16648,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15271,Monte Generoso,http://www.wikidata.org/entity/Q15271,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16613,Stanserhorn,http://www.wikidata.org/entity/Q16613,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43246,Bürgenstock,http://www.wikidata.org/entity/Q43246,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15226,Brienzer Rothorn,http://www.wikidata.org/entity/Q15226,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15229,Chasseral,http://www.wikidata.org/entity/Q15229,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30397,Nordend,http://www.wikidata.org/entity/Q30397,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15134,Tödi,http://www.wikidata.org/entity/Q15134,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q154898,First,http://www.wikidata.org/entity/Q154898,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15135,Rheinwaldhorn,http://www.wikidata.org/entity/Q15135,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16539,Schreckhorn,http://www.wikidata.org/entity/Q16539,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30525,Allalinhorn,http://www.wikidata.org/entity/Q30525,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30446,Castor,http://www.wikidata.org/entity/Q30446,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15139,Diablerets,http://www.wikidata.org/entity/Q15139,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15293,Aletschhorn,http://www.wikidata.org/entity/Q15293,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30426,Nadelhorn,http://www.wikidata.org/entity/Q30426,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30436,Lenzspitze,http://www.wikidata.org/entity/Q30436,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30400,Zumsteinspitze,http://www.wikidata.org/entity/Q30400,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16543,Monte San Salvatore,http://www.wikidata.org/entity/Q16543,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30529,Weissmies,http://www.wikidata.org/entity/Q30529,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16674,Piz Zupò,http://www.wikidata.org/entity/Q16674,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q235840,Fronalpstock,http://www.wikidata.org/entity/Q235840,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q117417,Männlichen,http://www.wikidata.org/entity/Q117417,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30459,Dent d'Hérens,http://www.wikidata.org/entity/Q30459,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16646,Hoher Kasten,http://www.wikidata.org/entity/Q16646,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15302,Stockhorn,http://www.wikidata.org/entity/Q15302,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30464,Bishorn,http://www.wikidata.org/entity/Q30464,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15305,Blüemlisalp,http://www.wikidata.org/entity/Q15305,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15128,Zinalrothorn,http://www.wikidata.org/entity/Q15128,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16586,Moléson,http://www.wikidata.org/entity/Q16586,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q248667,Zürichberg,http://www.wikidata.org/entity/Q248667,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43172,Salbitschijen,http://www.wikidata.org/entity/Q43172,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15289,Bietschhorn,http://www.wikidata.org/entity/Q15289,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15296,Monte Leone,http://www.wikidata.org/entity/Q15296,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15232,Schnebelhorn,http://www.wikidata.org/entity/Q15232,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q302276,Mont Pèlerin,http://www.wikidata.org/entity/Q302276,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15285,Monte Tamaro,http://www.wikidata.org/entity/Q15285,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30485,Pollux,http://www.wikidata.org/entity/Q30485,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15258,Lägern,http://www.wikidata.org/entity/Q15258,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15137,Ringelspitz,http://www.wikidata.org/entity/Q15137,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15130,Alphubel,http://www.wikidata.org/entity/Q15130,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15283,Pfannenstiel,http://www.wikidata.org/entity/Q15283,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30408,Täschhorn,http://www.wikidata.org/entity/Q30408,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15225,Vanil Noir,http://www.wikidata.org/entity/Q15225,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15133,Dammastock,http://www.wikidata.org/entity/Q15133,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16650,Lagginhorn,http://www.wikidata.org/entity/Q16650,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15260,Glärnisch,http://www.wikidata.org/entity/Q15260,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q277809,Mont Tendre,http://www.wikidata.org/entity/Q277809,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15240,St. Chrischona,http://www.wikidata.org/entity/Q15240,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15299,Napf,http://www.wikidata.org/entity/Q15299,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16647,Doldenhorn,http://www.wikidata.org/entity/Q16647,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15298,Albis,http://www.wikidata.org/entity/Q15298,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30490,Ober Gabelhorn,http://www.wikidata.org/entity/Q30490,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15286,Wildstrubel,http://www.wikidata.org/entity/Q15286,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15294,Balmhorn,http://www.wikidata.org/entity/Q15294,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q82662,Silberhorn,http://www.wikidata.org/entity/Q82662,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43299,Bristen,http://www.wikidata.org/entity/Q43299,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q155030,Gantrisch,http://www.wikidata.org/entity/Q155030,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16529,Calanda,http://www.wikidata.org/entity/Q16529,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16532,Schrattenfluh,http://www.wikidata.org/entity/Q16532,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15308,Speer,http://www.wikidata.org/entity/Q15308,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30496,Grünhorn,http://www.wikidata.org/entity/Q30496,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16545,Piz Beverin,http://www.wikidata.org/entity/Q16545,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30418,Parrotspitze,http://www.wikidata.org/entity/Q30418,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q228379,Zugerberg,http://www.wikidata.org/entity/Q228379,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15249,Wildhorn,http://www.wikidata.org/entity/Q15249,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30457,Strahlhorn,http://www.wikidata.org/entity/Q30457,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q257696,Piz da las Trais Linguas,http://www.wikidata.org/entity/Q257696,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30455,Rimpfischhorn,http://www.wikidata.org/entity/Q30455,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16589,Bachtel,http://www.wikidata.org/entity/Q16589,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30499,Lauteraarhorn,http://www.wikidata.org/entity/Q30499,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15230,Hasenmatt,http://www.wikidata.org/entity/Q15230,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30423,Ludwigshöhe,http://www.wikidata.org/entity/Q30423,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q85166,Cornettes de Bise,http://www.wikidata.org/entity/Q85166,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16536,Hohgant,http://www.wikidata.org/entity/Q16536,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q75570,Falknis,http://www.wikidata.org/entity/Q75570,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16672,Altmann,http://www.wikidata.org/entity/Q16672,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30495,Gross Fiescherhorn,http://www.wikidata.org/entity/Q30495,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q155031,Gridone,http://www.wikidata.org/entity/Q155031,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16660,Alvier,http://www.wikidata.org/entity/Q16660,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16656,Etzel,http://www.wikidata.org/entity/Q16656,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q277813,Dent de Jaman,http://www.wikidata.org/entity/Q277813,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16531,Piz Ela,http://www.wikidata.org/entity/Q16531,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q154896,Le Grammont,http://www.wikidata.org/entity/Q154896,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15231,Mont Raimeux,http://www.wikidata.org/entity/Q15231,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16632,Kronberg,http://www.wikidata.org/entity/Q16632,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16631,Piz Segnas,http://www.wikidata.org/entity/Q16631,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16688,Silvrettahorn,http://www.wikidata.org/entity/Q16688,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15261,Pizzo Tambò,http://www.wikidata.org/entity/Q15261,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16542,Mürtschenstock,http://www.wikidata.org/entity/Q16542,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16522,Basòdino,http://www.wikidata.org/entity/Q16522,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q185990,Blinnenhorn,http://www.wikidata.org/entity/Q185990,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16527,Sustenhorn,http://www.wikidata.org/entity/Q16527,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16649,Clariden,http://www.wikidata.org/entity/Q16649,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15141,Bös Fulen,http://www.wikidata.org/entity/Q15141,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16615,Brisen,http://www.wikidata.org/entity/Q16615,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30448,Hohberghorn,http://www.wikidata.org/entity/Q30448,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q176231,Piz Languard,http://www.wikidata.org/entity/Q176231,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16633,Gonzen,http://www.wikidata.org/entity/Q16633,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q203581,Zimmerberg,http://www.wikidata.org/entity/Q203581,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43446,Witenwasserenstock,http://www.wikidata.org/entity/Q43446,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16636,Bella Tola,http://www.wikidata.org/entity/Q16636,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q117399,Vilan,http://www.wikidata.org/entity/Q117399,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q177758,Piz Sesvenna,http://www.wikidata.org/entity/Q177758,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16657,Bifertenstock,http://www.wikidata.org/entity/Q16657,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43178,Galenstock,http://www.wikidata.org/entity/Q43178,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16590,Ortstock,http://www.wikidata.org/entity/Q16590,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q175584,Corn da Tinizong,http://www.wikidata.org/entity/Q175584,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15234,Hohgrat,http://www.wikidata.org/entity/Q15234,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15233,Hinteri Egg,http://www.wikidata.org/entity/Q15233,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15259,Irchel,http://www.wikidata.org/entity/Q15259,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16617,Piz Terri,http://www.wikidata.org/entity/Q16617,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q75819,Pierre Avoi,http://www.wikidata.org/entity/Q75819,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q155035,Kaiseregg,http://www.wikidata.org/entity/Q155035,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q117414,Pic Chaussy,http://www.wikidata.org/entity/Q117414,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16541,Nesthorn,http://www.wikidata.org/entity/Q16541,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16550,Breithorn,http://www.wikidata.org/entity/Q16550,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q186186,Ebnefluh,http://www.wikidata.org/entity/Q186186,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15267,Tomlishorn,http://www.wikidata.org/entity/Q15267,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30444,Stecknadelhorn,http://www.wikidata.org/entity/Q30444,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q176101,Agassizhorn,http://www.wikidata.org/entity/Q176101,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16662,Fil de Cassons,http://www.wikidata.org/entity/Q16662,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16652,Gspaltenhorn,http://www.wikidata.org/entity/Q16652,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16670,Morgenberghorn,http://www.wikidata.org/entity/Q16670,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15239,Geissflue,http://www.wikidata.org/entity/Q15239,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q196791,Zervreilahorn,http://www.wikidata.org/entity/Q196791,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q191711,Berneuse,http://www.wikidata.org/entity/Q191711,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15263,Pizzo Campo Tencia,http://www.wikidata.org/entity/Q15263,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136875,Les Jumelles,http://www.wikidata.org/entity/Q136875,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30511,Dürrenhorn,http://www.wikidata.org/entity/Q30511,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16616,Born,http://www.wikidata.org/entity/Q16616,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15295,Oberalpstock,http://www.wikidata.org/entity/Q15295,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q163131,Hockenhorn,http://www.wikidata.org/entity/Q163131,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16534,Camoghè,http://www.wikidata.org/entity/Q16534,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16585,Gäbris,http://www.wikidata.org/entity/Q16585,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q191741,Le Chamossaire,http://www.wikidata.org/entity/Q191741,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15300,Hausstock,http://www.wikidata.org/entity/Q15300,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16612,Piz Daint,http://www.wikidata.org/entity/Q16612,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16614,Gross Windgällen,http://www.wikidata.org/entity/Q16614,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16530,Gross Schärhorn,http://www.wikidata.org/entity/Q16530,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q141362,Silberen,http://www.wikidata.org/entity/Q141362,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16544,Hundwiler Höhi,http://www.wikidata.org/entity/Q16544,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16535,Gross Aubrig,http://www.wikidata.org/entity/Q16535,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16659,Hahnen,http://www.wikidata.org/entity/Q16659,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q258684,Munt Pers,http://www.wikidata.org/entity/Q258684,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15140,Rotstöckli,http://www.wikidata.org/entity/Q15140,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16546,Badus,http://www.wikidata.org/entity/Q16546,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q60916,Spitzmeilen,http://www.wikidata.org/entity/Q60916,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16667,Fronalpstock,http://www.wikidata.org/entity/Q16667,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q224681,Sex de Marinda,http://www.wikidata.org/entity/Q224681,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q75567,Dent de Nendaz,http://www.wikidata.org/entity/Q75567,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q58277,Tschuggen,http://www.wikidata.org/entity/Q58277,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15297,Piz Fess,http://www.wikidata.org/entity/Q15297,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16629,Oberbauenstock,http://www.wikidata.org/entity/Q16629,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q30527,Hinter Fiescherhorn,http://www.wikidata.org/entity/Q30527,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16690,Wildhuser Schafberg,http://www.wikidata.org/entity/Q16690,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q25201,Fürstein,http://www.wikidata.org/entity/Q25201,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16630,Piz Varuna,http://www.wikidata.org/entity/Q16630,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136921,Schwalmis,http://www.wikidata.org/entity/Q136921,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16537,Rautispitz,http://www.wikidata.org/entity/Q16537,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16708,Wissigstock,http://www.wikidata.org/entity/Q16708,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43160,Mittaggüpfi,http://www.wikidata.org/entity/Q43160,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16655,Regitzer Spitz,http://www.wikidata.org/entity/Q16655,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q75406,Glegghorn,http://www.wikidata.org/entity/Q75406,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q58398,Glishorn,http://www.wikidata.org/entity/Q58398,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q58281,Magerrain,http://www.wikidata.org/entity/Q58281,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q60923,Crap Masegn,http://www.wikidata.org/entity/Q60923,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q281848,Crêt-du-Midi,http://www.wikidata.org/entity/Q281848,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15303,Tweralpspitz,http://www.wikidata.org/entity/Q15303,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q125968,Schwarzhorn (Rätikon),http://www.wikidata.org/entity/Q125968,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15304,Hochwang,http://www.wikidata.org/entity/Q15304,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15310,Piz Curvér,http://www.wikidata.org/entity/Q15310,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q141463,Schilt,http://www.wikidata.org/entity/Q141463,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43340,Düssi,http://www.wikidata.org/entity/Q43340,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43167,Klimsenhorn,http://www.wikidata.org/entity/Q43167,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q84166,L'Argentine,http://www.wikidata.org/entity/Q84166,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16681,Fänerenspitz,http://www.wikidata.org/entity/Q16681,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43356,Gemsfairenstock,http://www.wikidata.org/entity/Q43356,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16668,Dreieckhorn,http://www.wikidata.org/entity/Q16668,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q58283,Glogghüs,http://www.wikidata.org/entity/Q58283,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136873,Dent de Ruth,http://www.wikidata.org/entity/Q136873,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q204346,Zindlenspitz,http://www.wikidata.org/entity/Q204346,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43219,Grassen,http://www.wikidata.org/entity/Q43219,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q15268,Bruschghorn,http://www.wikidata.org/entity/Q15268,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43294,Piz Giuv,http://www.wikidata.org/entity/Q43294,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43237,Beichlen,http://www.wikidata.org/entity/Q43237,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16634,Piz Forbesch,http://www.wikidata.org/entity/Q16634,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16643,Höch Hirschberg,http://www.wikidata.org/entity/Q16643,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q262583,Furgghorn,http://www.wikidata.org/entity/Q262583,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q141486,Mutteristock,http://www.wikidata.org/entity/Q141486,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136990,La Breya,http://www.wikidata.org/entity/Q136990,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16701,Schiahorn,http://www.wikidata.org/entity/Q16701,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43409,Klein Furkahorn,http://www.wikidata.org/entity/Q43409,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16658,Piz Sezner,http://www.wikidata.org/entity/Q16658,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16548,Alperschällihorn,http://www.wikidata.org/entity/Q16548,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16651,Furggelenstock,http://www.wikidata.org/entity/Q16651,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q75400,Spillgerte,http://www.wikidata.org/entity/Q75400,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q235844,Pointe de Bellevue,http://www.wikidata.org/entity/Q235844,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16592,Brünnelistock,http://www.wikidata.org/entity/Q16592,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q117314,Croix de Fer,http://www.wikidata.org/entity/Q117314,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16549,Piz Surlej,http://www.wikidata.org/entity/Q16549,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136877,Pointe de Chésery,http://www.wikidata.org/entity/Q136877,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q280792,Giferspitz,http://www.wikidata.org/entity/Q280792,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43191,Wendenhorn,http://www.wikidata.org/entity/Q43191,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q328312,Amselflue,http://www.wikidata.org/entity/Q328312,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43253,Erlosen,http://www.wikidata.org/entity/Q43253,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43288,Piz Alv,http://www.wikidata.org/entity/Q43288,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q84164,Gufelstock,http://www.wikidata.org/entity/Q84164,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43268,Huetstock,http://www.wikidata.org/entity/Q43268,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43398,Gross Furkahorn,http://www.wikidata.org/entity/Q43398,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16653,Le Rubli,http://www.wikidata.org/entity/Q16653,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136844,Arnenhorn,http://www.wikidata.org/entity/Q136844,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43257,Widderfeld Stock,http://www.wikidata.org/entity/Q43257,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136859,Pointe de Bricola,http://www.wikidata.org/entity/Q136859,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43265,Nünalphorn,http://www.wikidata.org/entity/Q43265,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136856,Pointe d'Orny,http://www.wikidata.org/entity/Q136856,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q60890,Mont Rouge,http://www.wikidata.org/entity/Q60890,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q84163,Gürgaletsch,http://www.wikidata.org/entity/Q84163,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43291,Chrüzlistock,http://www.wikidata.org/entity/Q43291,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q252773,Äbeflue,http://www.wikidata.org/entity/Q252773,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136871,Tête du Géant,http://www.wikidata.org/entity/Q136871,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q141470,Dent de Savigny,http://www.wikidata.org/entity/Q141470,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43186,Gross Bielenhorn,http://www.wikidata.org/entity/Q43186,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16519,Schinberg,http://www.wikidata.org/entity/Q16519,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16654,Rienzenstock,http://www.wikidata.org/entity/Q16654,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136836,Pointe des Genevois,http://www.wikidata.org/entity/Q136836,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q60892,Dent du Salantin,http://www.wikidata.org/entity/Q60892,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q122494,Mont Noble,http://www.wikidata.org/entity/Q122494,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q16712,Piz Nair,http://www.wikidata.org/entity/Q16712,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q155036,Pointe de l'Au,http://www.wikidata.org/entity/Q155036,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136829,Pointe Kurz,http://www.wikidata.org/entity/Q136829,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43313,Witenalpstock,http://www.wikidata.org/entity/Q43313,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q192356,Le Linleu,http://www.wikidata.org/entity/Q192356,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136998,Pointe Ronde,http://www.wikidata.org/entity/Q136998,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q289806,Schneehorn,http://www.wikidata.org/entity/Q289806,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q141457,Sassauna,http://www.wikidata.org/entity/Q141457,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q184859,Zeiher Homberg,http://www.wikidata.org/entity/Q184859,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q58279,Fulhorn,http://www.wikidata.org/entity/Q58279,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q266494,Piz digl Gurschus,http://www.wikidata.org/entity/Q266494,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136821,Grande Pointe des Planereuses,http://www.wikidata.org/entity/Q136821,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136995,Pointe des Ecandies,http://www.wikidata.org/entity/Q136995,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q137000,Pointe des Plines,http://www.wikidata.org/entity/Q137000,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q117310,Tête du Portail,http://www.wikidata.org/entity/Q117310,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q75403,Mattjisch Horn,http://www.wikidata.org/entity/Q75403,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q84162,Ful Berg,http://www.wikidata.org/entity/Q84162,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q60893,Poncione Rosso,http://www.wikidata.org/entity/Q60893,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q256774,Pizzo di Brünesc,http://www.wikidata.org/entity/Q256774,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q43181,Sidelenhorn,http://www.wikidata.org/entity/Q43181,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136840,Pointe d'Otemma,http://www.wikidata.org/entity/Q136840,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q60888,Bützistock,http://www.wikidata.org/entity/Q60888,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136824,Pointe des Grands,http://www.wikidata.org/entity/Q136824,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q136838,Petite Pointe d'Orny,http://www.wikidata.org/entity/Q136838,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q191742,Niderhorn,http://www.wikidata.org/entity/Q191742,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,mountains,1
+Q132164,Q132164,http://www.wikidata.org/entity/Q132164,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q163232,Mount Morrison,http://www.wikidata.org/entity/Q163232,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q258428,Heidehöhe,http://www.wikidata.org/entity/Q258428,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q247952,Mount Batu,http://www.wikidata.org/entity/Q247952,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q205820,Zirkelstein,http://www.wikidata.org/entity/Q205820,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q332220,Stebnícka Magura,http://www.wikidata.org/entity/Q332220,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,mountains,0
+Q160740,Czorneboh,http://www.wikidata.org/entity/Q160740,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q41212,Binnein an Fhidhleir,http://www.wikidata.org/entity/Q41212,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q139824,Salla Qullu,http://www.wikidata.org/entity/Q139824,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q252362,Cerro Chirripó,http://www.wikidata.org/entity/Q252362,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q800,Costa Rica,mountains,0
+Q152933,Petersberg,http://www.wikidata.org/entity/Q152933,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q167951,Mount Zaō,http://www.wikidata.org/entity/Q167951,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q17,Japan,mountains,0
+Q320745,Großer Traithen,http://www.wikidata.org/entity/Q320745,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q314903,Erbeskopf,http://www.wikidata.org/entity/Q314903,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q244660,Blomberg,http://www.wikidata.org/entity/Q244660,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q29795,Großer Winterberg,http://www.wikidata.org/entity/Q29795,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q16588,Piz Buin,http://www.wikidata.org/entity/Q16588,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q130217,Mount Bogong,http://www.wikidata.org/entity/Q130217,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,mountains,0
+Q194554,Obavsky Stone,http://www.wikidata.org/entity/Q194554,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q323376,Abraham,http://www.wikidata.org/entity/Q323376,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q216059,Mount Tai,http://www.wikidata.org/entity/Q216059,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q217274,Eldfell,http://www.wikidata.org/entity/Q217274,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q254802,Älpelekopf (Gerstruben),http://www.wikidata.org/entity/Q254802,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q125283,Mount Maras,http://www.wikidata.org/entity/Q125283,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q127627,Wüstegarten,http://www.wikidata.org/entity/Q127627,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q233690,Second Schafalpenkopf,http://www.wikidata.org/entity/Q233690,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q16540,Breithorn,http://www.wikidata.org/entity/Q16540,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q315124,Königsstuhl,http://www.wikidata.org/entity/Q315124,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q336749,Doddabetta,http://www.wikidata.org/entity/Q336749,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,mountains,0
+Q260410,Syrtbyttnosi,http://www.wikidata.org/entity/Q260410,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,mountains,0
+Q16522,Basòdino,http://www.wikidata.org/entity/Q16522,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q30397,Nordend,http://www.wikidata.org/entity/Q30397,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q263100,Eiskögele,http://www.wikidata.org/entity/Q263100,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q6650,Canigou,http://www.wikidata.org/entity/Q6650,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q337660,Totenkirchl,http://www.wikidata.org/entity/Q337660,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q114298,Q114298,http://www.wikidata.org/entity/Q114298,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q315926,Klammspitze,http://www.wikidata.org/entity/Q315926,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q203891,Leonsberg,http://www.wikidata.org/entity/Q203891,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q281277,Öfnerspitze,http://www.wikidata.org/entity/Q281277,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q41204,Beinn Bhuidhe,http://www.wikidata.org/entity/Q41204,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q41413,Ismoil Somoni Peak,http://www.wikidata.org/entity/Q41413,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q863,Tajikistan,mountains,0
+Q26544,La Soufrière,http://www.wikidata.org/entity/Q26544,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q757,Saint Vincent and the Grenadines,mountains,0
+Q119508,Bromberg,http://www.wikidata.org/entity/Q119508,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q30429,Schwarzhorn,http://www.wikidata.org/entity/Q30429,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q30434,Dôme du Goûter,http://www.wikidata.org/entity/Q30434,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q266731,Hahneberg,http://www.wikidata.org/entity/Q266731,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q125156,Alutu,http://www.wikidata.org/entity/Q125156,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q115,Ethiopia,mountains,0
+Q255599,Hochglück,http://www.wikidata.org/entity/Q255599,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q136732,Zabelstein,http://www.wikidata.org/entity/Q136732,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q114253,Hostra Hora,http://www.wikidata.org/entity/Q114253,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q316328,Hohe Kisten,http://www.wikidata.org/entity/Q316328,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q73554,Trostian,http://www.wikidata.org/entity/Q73554,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q214916,Llullaillaco,http://www.wikidata.org/entity/Q214916,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q250142,Monte Galero,http://www.wikidata.org/entity/Q250142,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q165440,Dhaulagiri,http://www.wikidata.org/entity/Q165440,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q837,Nepal,mountains,0
+Q277441,Mount Wilhelm,http://www.wikidata.org/entity/Q277441,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q691,Papua New Guinea,mountains,0
+Q194057,Mount Rainier,http://www.wikidata.org/entity/Q194057,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q322824,Signal de Botrange,http://www.wikidata.org/entity/Q322824,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q31,Belgium,mountains,0
+Q247726,Wasserkuppe,http://www.wikidata.org/entity/Q247726,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q230269,Mount Zuqualla,http://www.wikidata.org/entity/Q230269,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q115,Ethiopia,mountains,0
+Q213360,Table Mountain,http://www.wikidata.org/entity/Q213360,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q258,South Africa,mountains,0
+Q176842,Büraberg,http://www.wikidata.org/entity/Q176842,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q147437,South Barrule,http://www.wikidata.org/entity/Q147437,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q9676,Isle of Man,mountains,0
+Q143684,Dënt,http://www.wikidata.org/entity/Q143684,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q198751,Ziegenberg,http://www.wikidata.org/entity/Q198751,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q285086,Cynthus,http://www.wikidata.org/entity/Q285086,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q313628,Cerro Escorial,http://www.wikidata.org/entity/Q313628,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q209064,Mont Ventoux,http://www.wikidata.org/entity/Q209064,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q129571,Cerro San José,http://www.wikidata.org/entity/Q129571,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,mountains,0
+Q335883,Þórisjökull,http://www.wikidata.org/entity/Q335883,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q262545,Hochkönig,http://www.wikidata.org/entity/Q262545,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q171653,Waw an Namus,http://www.wikidata.org/entity/Q171653,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1016,Libya,mountains,0
+Q227875,Zuckerhütl,http://www.wikidata.org/entity/Q227875,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q30541,Dent du Géant,http://www.wikidata.org/entity/Q30541,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q186853,Gasherbrum II,http://www.wikidata.org/entity/Q186853,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q227318,Zsigmondyspitze,http://www.wikidata.org/entity/Q227318,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q203568,Mount Aragats,http://www.wikidata.org/entity/Q203568,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q399,Armenia,mountains,0
+Q24418,Pogrebin,http://www.wikidata.org/entity/Q24418,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q187371,Iseler,http://www.wikidata.org/entity/Q187371,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q177091,Hunsrück,http://www.wikidata.org/entity/Q177091,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q317490,Vogelkarspitze,http://www.wikidata.org/entity/Q317490,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q151745,Naul Hills,http://www.wikidata.org/entity/Q151745,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q27,Republic of Ireland,mountains,0
+Q170089,Cho Oyu,http://www.wikidata.org/entity/Q170089,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q837,Nepal,mountains,0
+Q165212,Schinder,http://www.wikidata.org/entity/Q165212,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q260733,Q260733,http://www.wikidata.org/entity/Q260733,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,mountains,0
+Q126868,Lizumer Reckner,http://www.wikidata.org/entity/Q126868,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q251734,Ödriegel,http://www.wikidata.org/entity/Q251734,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q198810,Ziegenküppel (Stölzinger Gebirge),http://www.wikidata.org/entity/Q198810,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q26144,Bełmeken,http://www.wikidata.org/entity/Q26144,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q219,Bulgaria,mountains,0
+Q293896,Öchsen,http://www.wikidata.org/entity/Q293896,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q192356,Le Linleu,http://www.wikidata.org/entity/Q192356,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q264772,Schlern,http://www.wikidata.org/entity/Q264772,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q7093,Puig Neulós,http://www.wikidata.org/entity/Q7093,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q218459,Zoitzberg,http://www.wikidata.org/entity/Q218459,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q316418,Ammergauer Hochplatte,http://www.wikidata.org/entity/Q316418,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q4168,Loreley,http://www.wikidata.org/entity/Q4168,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q210722,Sugarloaf Mountain,http://www.wikidata.org/entity/Q210722,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q155,Brazil,mountains,0
+Q282982,Gu Shan,http://www.wikidata.org/entity/Q282982,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q181523,Cerro San Cristóbal,http://www.wikidata.org/entity/Q181523,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q194688,Karlu Karlu / Devils Marbles Conservation Reserve,http://www.wikidata.org/entity/Q194688,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,mountains,0
+Q30446,Castor,http://www.wikidata.org/entity/Q30446,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q211532,Mount Hongu,http://www.wikidata.org/entity/Q211532,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q17,Japan,mountains,0
+Q315932,Risserkogel,http://www.wikidata.org/entity/Q315932,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q68340,Dunsinane Hill,http://www.wikidata.org/entity/Q68340,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q30459,Dent d'Hérens,http://www.wikidata.org/entity/Q30459,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q130321,Mount Athos,http://www.wikidata.org/entity/Q130321,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q263429,Paštrik,http://www.wikidata.org/entity/Q263429,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1246,Kosovo,mountains,0
+Q50734,Pinneberg,http://www.wikidata.org/entity/Q50734,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q247991,Hauser Kaibling,http://www.wikidata.org/entity/Q247991,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q255743,Hochwanner,http://www.wikidata.org/entity/Q255743,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q252081,"Guallatiri, Chile",http://www.wikidata.org/entity/Q252081,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q185459,Spitzstein,http://www.wikidata.org/entity/Q185459,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q23974,Komanova,http://www.wikidata.org/entity/Q23974,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,mountains,0
+Q252743,Alpspitze,http://www.wikidata.org/entity/Q252743,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q4675,Mount St. Helens,http://www.wikidata.org/entity/Q4675,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q147826,Zard Kuh,http://www.wikidata.org/entity/Q147826,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q794,Iran,mountains,0
+Q222144,Stubaier Wildspitze,http://www.wikidata.org/entity/Q222144,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q105261,Mount Parnassus,http://www.wikidata.org/entity/Q105261,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q147026,Zantberg,http://www.wikidata.org/entity/Q147026,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q303185,Njesuthi,http://www.wikidata.org/entity/Q303185,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1013,Lesotho,mountains,0
+Q147206,Zapaleri,http://www.wikidata.org/entity/Q147206,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q55164,mount Lingjiu,http://www.wikidata.org/entity/Q55164,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q281691,Terminio,http://www.wikidata.org/entity/Q281691,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q316066,Soiernspitze,http://www.wikidata.org/entity/Q316066,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q1373,Grivola,http://www.wikidata.org/entity/Q1373,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q227506,Zubački kabao,http://www.wikidata.org/entity/Q227506,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q236,Montenegro,mountains,0
+Q147206,Zapaleri,http://www.wikidata.org/entity/Q147206,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q323562,Lahnerkopf,http://www.wikidata.org/entity/Q323562,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q24982,Jachacunocollo,http://www.wikidata.org/entity/Q24982,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q24423,Spitz,http://www.wikidata.org/entity/Q24423,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q139838,Kunturiri,http://www.wikidata.org/entity/Q139838,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q317794,Ruchenköpfe,http://www.wikidata.org/entity/Q317794,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q126063,Auyantepui,http://www.wikidata.org/entity/Q126063,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q717,Venezuela,mountains,0
+Q267787,Mount Cabuyao,http://www.wikidata.org/entity/Q267787,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q928,Philippines,mountains,0
+Q211529,Khan Tengri,http://www.wikidata.org/entity/Q211529,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q813,Kyrgyzstan,mountains,0
+Q228237,Zufrittspitze,http://www.wikidata.org/entity/Q228237,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q275662,Mount Hood,http://www.wikidata.org/entity/Q275662,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q3388,Grossglockner,http://www.wikidata.org/entity/Q3388,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q39739,Aconcagua,http://www.wikidata.org/entity/Q39739,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q30415,Mont Maudit,http://www.wikidata.org/entity/Q30415,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q155086,Glasfelderkopf,http://www.wikidata.org/entity/Q155086,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q332762,Jengish Chokusu,http://www.wikidata.org/entity/Q332762,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q211529,Khan Tengri,http://www.wikidata.org/entity/Q211529,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q232,Kazakhstan,mountains,0
+Q331712,Međe,http://www.wikidata.org/entity/Q331712,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,mountains,0
+Q3660,Mount Davis,http://www.wikidata.org/entity/Q3660,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q306927,Östliche Karwendelspitze,http://www.wikidata.org/entity/Q306927,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q2353,Töpfer,http://www.wikidata.org/entity/Q2353,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q30423,Ludwigshöhe,http://www.wikidata.org/entity/Q30423,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q205579,Zirbitzkogel,http://www.wikidata.org/entity/Q205579,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q151451,Bausen-Berg,http://www.wikidata.org/entity/Q151451,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q136829,Pointe Kurz,http://www.wikidata.org/entity/Q136829,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q280245,Gratlspitze,http://www.wikidata.org/entity/Q280245,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q15241,Schesaplana,http://www.wikidata.org/entity/Q15241,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q164121,Llaima,http://www.wikidata.org/entity/Q164121,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q229107,Mount Kailash,http://www.wikidata.org/entity/Q229107,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q314746,Kandel,http://www.wikidata.org/entity/Q314746,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q323910,Bschießer,http://www.wikidata.org/entity/Q323910,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q4056,Malý Děd,http://www.wikidata.org/entity/Q4056,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q333229,Mount Pantokrator,http://www.wikidata.org/entity/Q333229,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q59805,Mount Lemmon,http://www.wikidata.org/entity/Q59805,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q315887,Schafreuter,http://www.wikidata.org/entity/Q315887,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q59320,King Peak,http://www.wikidata.org/entity/Q59320,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q44976,Lisina,http://www.wikidata.org/entity/Q44976,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,mountains,0
+Q282632,Havran,http://www.wikidata.org/entity/Q282632,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q184639,Zehnsberg,http://www.wikidata.org/entity/Q184639,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q6811,Windberg,http://www.wikidata.org/entity/Q6811,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q11041,Mont Verdun,http://www.wikidata.org/entity/Q11041,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q170070,Manaslu,http://www.wikidata.org/entity/Q170070,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q837,Nepal,mountains,0
+Q316640,Brennender Berg,http://www.wikidata.org/entity/Q316640,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q35374,Ben Vorlich,http://www.wikidata.org/entity/Q35374,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q29595,Cot Seulawah Agam,http://www.wikidata.org/entity/Q29595,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q178167,Mount Kosciuszko,http://www.wikidata.org/entity/Q178167,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,mountains,0
+Q136871,Tête du Géant,http://www.wikidata.org/entity/Q136871,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q312936,Antofagasta de la Sierra,http://www.wikidata.org/entity/Q312936,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q126717,Gunung Telagabodas,http://www.wikidata.org/entity/Q126717,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q215662,Monte Perdido,http://www.wikidata.org/entity/Q215662,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,mountains,0
+Q315268,Hill 400,http://www.wikidata.org/entity/Q315268,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q185627,Pentersrück,http://www.wikidata.org/entity/Q185627,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q153114,Opołonek,http://www.wikidata.org/entity/Q153114,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,mountains,0
+Q285627,Stubacher Sonnblick,http://www.wikidata.org/entity/Q285627,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q323357,Schänzlekopf,http://www.wikidata.org/entity/Q323357,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q116693,Esja,http://www.wikidata.org/entity/Q116693,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q60967,Mount Kinabalu,http://www.wikidata.org/entity/Q60967,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q833,Malaysia,mountains,0
+Q224771,Wanakuni,http://www.wikidata.org/entity/Q224771,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q159671,Lausche,http://www.wikidata.org/entity/Q159671,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q116622,Mullach Coire a' Chuir,http://www.wikidata.org/entity/Q116622,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q320734,Teufelshörner,http://www.wikidata.org/entity/Q320734,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q262583,Furgghorn,http://www.wikidata.org/entity/Q262583,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q324765,Jongsong Peak,http://www.wikidata.org/entity/Q324765,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q309098,Mount Meru,http://www.wikidata.org/entity/Q309098,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q924,Tanzania,mountains,0
+Q318899,Q318899,http://www.wikidata.org/entity/Q318899,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q147557,Snaefell,http://www.wikidata.org/entity/Q147557,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q9676,Isle of Man,mountains,0
+Q258315,Äußerer Knappentröger,http://www.wikidata.org/entity/Q258315,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q22547,Donnersberg,http://www.wikidata.org/entity/Q22547,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q282766,Großer Sulzberg,http://www.wikidata.org/entity/Q282766,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q192574,Hyères,http://www.wikidata.org/entity/Q192574,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q207680,Mount Kazbek,http://www.wikidata.org/entity/Q207680,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,mountains,0
+Q44945,Lebršnik,http://www.wikidata.org/entity/Q44945,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,mountains,0
+Q172960,Stachlerkopf,http://www.wikidata.org/entity/Q172960,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q347,Liechtenstein,mountains,0
+Q205091,Zinnkopf,http://www.wikidata.org/entity/Q205091,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q24983,Wayna Khunu Qullu,http://www.wikidata.org/entity/Q24983,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q260073,Großer Arber,http://www.wikidata.org/entity/Q260073,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q15120,Lyskamm,http://www.wikidata.org/entity/Q15120,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q328127,Gudiberg,http://www.wikidata.org/entity/Q328127,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q210004,Malyovitsa,http://www.wikidata.org/entity/Q210004,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q219,Bulgaria,mountains,0
+Q256882,Wellachköpfe,http://www.wikidata.org/entity/Q256882,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q116675,Mount Tenakourou,http://www.wikidata.org/entity/Q116675,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q912,Mali,mountains,0
+Q281565,Lomonosov Group,http://www.wikidata.org/entity/Q281565,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,mountains,0
+Q126804,Mount Erciyes,http://www.wikidata.org/entity/Q126804,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q43,Turkey,mountains,0
+Q136877,Pointe de Chésery,http://www.wikidata.org/entity/Q136877,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q334948,Chenoua,http://www.wikidata.org/entity/Q334948,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q262,Algeria,mountains,0
+Q30502,Aiguille du Jardin,http://www.wikidata.org/entity/Q30502,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q330859,Übelsberg,http://www.wikidata.org/entity/Q330859,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q184956,Zeiritzkampel,http://www.wikidata.org/entity/Q184956,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q30450,Vincent Pyramid,http://www.wikidata.org/entity/Q30450,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q153054,Kremenec,http://www.wikidata.org/entity/Q153054,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,mountains,0
+Q166138,Hora Lautans'ka Holytsya,http://www.wikidata.org/entity/Q166138,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q43876,Mount Batur,http://www.wikidata.org/entity/Q43876,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q152294,Mount Nyangani,http://www.wikidata.org/entity/Q152294,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q954,Zimbabwe,mountains,0
+Q151882,Irechek,http://www.wikidata.org/entity/Q151882,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q219,Bulgaria,mountains,0
+Q315922,Wörner,http://www.wikidata.org/entity/Q315922,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q59689,Monte Arpone,http://www.wikidata.org/entity/Q59689,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q263182,Vorderer Wildgundkopf,http://www.wikidata.org/entity/Q263182,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q218703,Riwna,http://www.wikidata.org/entity/Q218703,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q207678,Mount Sinabung,http://www.wikidata.org/entity/Q207678,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q314674,Barnacken,http://www.wikidata.org/entity/Q314674,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q213262,Nanda Devi,http://www.wikidata.org/entity/Q213262,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,mountains,0
+Q271149,Åreskutan,http://www.wikidata.org/entity/Q271149,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34,Sweden,mountains,0
+Q75624,Pukintika,http://www.wikidata.org/entity/Q75624,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q203942,Galdhøpiggen,http://www.wikidata.org/entity/Q203942,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,mountains,0
+Q307311,Östliches Zwillingsköpfl,http://www.wikidata.org/entity/Q307311,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q198806,Ziegenkopf,http://www.wikidata.org/entity/Q198806,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q278498,Crompton Moor,http://www.wikidata.org/entity/Q278498,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q110616,Gladstone Peak,http://www.wikidata.org/entity/Q110616,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q153664,Lousberg,http://www.wikidata.org/entity/Q153664,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q272593,Nevado Sajama,http://www.wikidata.org/entity/Q272593,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q245225,Zwölferspitze,http://www.wikidata.org/entity/Q245225,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q207225,Zlatý chlum,http://www.wikidata.org/entity/Q207225,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q33088,Itapalluni,http://www.wikidata.org/entity/Q33088,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q120314,Mount Wutai,http://www.wikidata.org/entity/Q120314,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q332762,Jengish Chokusu,http://www.wikidata.org/entity/Q332762,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q813,Kyrgyzstan,mountains,0
+Q243865,Zwercheck,http://www.wikidata.org/entity/Q243865,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q205190,Zinseler,http://www.wikidata.org/entity/Q205190,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q5059,Aoraki / Mount Cook,http://www.wikidata.org/entity/Q5059,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q664,New Zealand,mountains,0
+Q175990,Illerfissalik,http://www.wikidata.org/entity/Q175990,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q223,Greenland,mountains,0
+Q116675,Mount Tenakourou,http://www.wikidata.org/entity/Q116675,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q965,Burkina Faso,mountains,0
+Q288383,Mount Edgecumbe,http://www.wikidata.org/entity/Q288383,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q315901,Friederspitz,http://www.wikidata.org/entity/Q315901,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q30441,Grand Pilier d'Angle,http://www.wikidata.org/entity/Q30441,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q323852,Kastenkopf,http://www.wikidata.org/entity/Q323852,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q29559,Sarik Merapi,http://www.wikidata.org/entity/Q29559,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q134927,Mount Emei,http://www.wikidata.org/entity/Q134927,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q176784,Sengelsberg,http://www.wikidata.org/entity/Q176784,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q315922,Wörner,http://www.wikidata.org/entity/Q315922,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q114230,Lisno,http://www.wikidata.org/entity/Q114230,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q245226,Q245226,http://www.wikidata.org/entity/Q245226,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q263280,Kampenwand,http://www.wikidata.org/entity/Q263280,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q260554,Mount Shahdagh,http://www.wikidata.org/entity/Q260554,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q227,Azerbaijan,mountains,0
+Q296848,Ölbergshöhe,http://www.wikidata.org/entity/Q296848,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q153054,Kremenec,http://www.wikidata.org/entity/Q153054,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,mountains,0
+Q184881,Zeilberg,http://www.wikidata.org/entity/Q184881,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q23988,Purulia,http://www.wikidata.org/entity/Q23988,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,mountains,0
+Q30533,Dôme de Rochefort,http://www.wikidata.org/entity/Q30533,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q41214,Beinn an Lochain,http://www.wikidata.org/entity/Q41214,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q323390,Wildengundkopf,http://www.wikidata.org/entity/Q323390,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q307223,Östlicher Wengenkopf,http://www.wikidata.org/entity/Q307223,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q114508,Latukan,http://www.wikidata.org/entity/Q114508,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q928,Philippines,mountains,0
+Q207421,Tungurahua volcano,http://www.wikidata.org/entity/Q207421,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q736,Ecuador,mountains,0
+Q62467,Coma Pedrosa,http://www.wikidata.org/entity/Q62467,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q228,Andorra,mountains,0
+Q30453,Grandes Jorasses,http://www.wikidata.org/entity/Q30453,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q117822,Acotango,http://www.wikidata.org/entity/Q117822,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q178629,Tschirgant,http://www.wikidata.org/entity/Q178629,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q184610,Sas dales Diesc,http://www.wikidata.org/entity/Q184610,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q82019,Kanchenjunga,http://www.wikidata.org/entity/Q82019,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,mountains,0
+Q316715,Funtenseetauern,http://www.wikidata.org/entity/Q316715,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q204741,Zinkenkopf,http://www.wikidata.org/entity/Q204741,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q322627,Weißer Stein,http://www.wikidata.org/entity/Q322627,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q319644,Ipf,http://www.wikidata.org/entity/Q319644,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q122225,Seongsan Ilchulbong,http://www.wikidata.org/entity/Q122225,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q884,South Korea,mountains,0
+Q321002,Wallberg,http://www.wikidata.org/entity/Q321002,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q23970,Palenica58,http://www.wikidata.org/entity/Q23970,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q302483,Mount Vancouver,http://www.wikidata.org/entity/Q302483,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q303806,Aavasaksa,http://www.wikidata.org/entity/Q303806,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q33,Finland,mountains,0
+Q233836,Ojos del Salado,http://www.wikidata.org/entity/Q233836,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q257696,Piz da las Trais Linguas,http://www.wikidata.org/entity/Q257696,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q1484,Mayon Volcano,http://www.wikidata.org/entity/Q1484,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q928,Philippines,mountains,0
+Q120493,Hochtor,http://www.wikidata.org/entity/Q120493,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q183027,Mount Garibaldi,http://www.wikidata.org/entity/Q183027,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q147206,Zapaleri,http://www.wikidata.org/entity/Q147206,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q151445,Bass Rock,http://www.wikidata.org/entity/Q151445,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q213370,Machu Such'i Qhuchi,http://www.wikidata.org/entity/Q213370,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q210180,Benara,http://www.wikidata.org/entity/Q210180,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q214011,Kebnekaise,http://www.wikidata.org/entity/Q214011,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34,Sweden,mountains,0
+Q30493,Aiguille de Bionnassay,http://www.wikidata.org/entity/Q30493,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q47467,Perkison,http://www.wikidata.org/entity/Q47467,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q334934,Üntschenspitze,http://www.wikidata.org/entity/Q334934,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q23988,Purulia,http://www.wikidata.org/entity/Q23988,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q163306,Kottmar,http://www.wikidata.org/entity/Q163306,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q259669,Mount Sarbach,http://www.wikidata.org/entity/Q259669,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q45046,Lelija,http://www.wikidata.org/entity/Q45046,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,mountains,0
+Q104674,Ben Nevis,http://www.wikidata.org/entity/Q104674,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q262298,Mount Malindang,http://www.wikidata.org/entity/Q262298,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q928,Philippines,mountains,0
+Q169986,Makalu,http://www.wikidata.org/entity/Q169986,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q837,Nepal,mountains,0
+Q176358,monte Rua,http://www.wikidata.org/entity/Q176358,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q26138,Cerro Palúa,http://www.wikidata.org/entity/Q26138,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,mountains,0
+Q248770,Reventador,http://www.wikidata.org/entity/Q248770,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q736,Ecuador,mountains,0
+Q124928,Adamsons Peak,http://www.wikidata.org/entity/Q124928,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,mountains,0
+Q254791,Älpelekopf,http://www.wikidata.org/entity/Q254791,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q177611,Queensberry,http://www.wikidata.org/entity/Q177611,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q128657,Mount San Antonio,http://www.wikidata.org/entity/Q128657,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q258996,Mourgana,http://www.wikidata.org/entity/Q258996,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q222,Albania,mountains,0
+Q23979,Homul,http://www.wikidata.org/entity/Q23979,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q258309,Äußerer Bärenbartkogel,http://www.wikidata.org/entity/Q258309,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q307436,Ötscher,http://www.wikidata.org/entity/Q307436,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q203400,Zimba,http://www.wikidata.org/entity/Q203400,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q136824,Pointe des Grands,http://www.wikidata.org/entity/Q136824,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q238644,Prisojnik,http://www.wikidata.org/entity/Q238644,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q215,Slovenia,mountains,0
+Q163484,Geißkopf,http://www.wikidata.org/entity/Q163484,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q139930,Zackelberg,http://www.wikidata.org/entity/Q139930,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q317490,Vogelkarspitze,http://www.wikidata.org/entity/Q317490,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q173920,Paradiskullen,http://www.wikidata.org/entity/Q173920,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34,Sweden,mountains,0
+Q185459,Spitzstein,http://www.wikidata.org/entity/Q185459,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q63418,Osina,http://www.wikidata.org/entity/Q63418,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,mountains,0
+Q257419,Hundskopf,http://www.wikidata.org/entity/Q257419,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q185847,Mount Wrangell,http://www.wikidata.org/entity/Q185847,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q316715,Funtenseetauern,http://www.wikidata.org/entity/Q316715,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q323357,Schänzlekopf,http://www.wikidata.org/entity/Q323357,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q47490,Doyle's Delight,http://www.wikidata.org/entity/Q47490,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q242,Belize,mountains,0
+Q312432,Cerro Volcánico,http://www.wikidata.org/entity/Q312432,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q13668,Kreuzjoch,http://www.wikidata.org/entity/Q13668,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q172070,Mount Kenya,http://www.wikidata.org/entity/Q172070,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q114,Kenya,mountains,0
+Q256209,Waxenstein,http://www.wikidata.org/entity/Q256209,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q244657,Zwiesel,http://www.wikidata.org/entity/Q244657,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q32793,Guadalupe Peak,http://www.wikidata.org/entity/Q32793,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q335291,Þeistareykjarbunga,http://www.wikidata.org/entity/Q335291,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q153054,Kremenec,http://www.wikidata.org/entity/Q153054,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q316646,Großer Auerberg,http://www.wikidata.org/entity/Q316646,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q215471,Mount Hermon,http://www.wikidata.org/entity/Q215471,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q858,Syria,mountains,0
+Q203353,Pico Almanzor,http://www.wikidata.org/entity/Q203353,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,mountains,0
+Q206024,Zisabspitze,http://www.wikidata.org/entity/Q206024,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1030,Namibia,mountains,0
+Q152073,Monserrate,http://www.wikidata.org/entity/Q152073,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,mountains,0
+Q186253,Kälberbuckel,http://www.wikidata.org/entity/Q186253,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q262045,Rebberg,http://www.wikidata.org/entity/Q262045,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q14052,Sangay volcano,http://www.wikidata.org/entity/Q14052,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q736,Ecuador,mountains,0
+Q22604,Weinbiet,http://www.wikidata.org/entity/Q22604,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q239684,Nourlangie Rock,http://www.wikidata.org/entity/Q239684,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,mountains,0
+Q198433,Zickelburg,http://www.wikidata.org/entity/Q198433,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q120306,Mount Logan,http://www.wikidata.org/entity/Q120306,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q266404,Nevado Anallajsi,http://www.wikidata.org/entity/Q266404,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q4053,Mravenečník,http://www.wikidata.org/entity/Q4053,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q181252,Flechtingen Hills,http://www.wikidata.org/entity/Q181252,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q185281,Felsberg,http://www.wikidata.org/entity/Q185281,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q17477,Puigmal,http://www.wikidata.org/entity/Q17477,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q3309,Peč,http://www.wikidata.org/entity/Q3309,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q215,Slovenia,mountains,0
+Q15271,Monte Generoso,http://www.wikidata.org/entity/Q15271,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q23981,Koman,http://www.wikidata.org/entity/Q23981,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q40981,Geureudong,http://www.wikidata.org/entity/Q40981,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q251482,mountain in southwestern Iceland,http://www.wikidata.org/entity/Q251482,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q316319,Aiplspitz,http://www.wikidata.org/entity/Q316319,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q186077,Mädelegabel,http://www.wikidata.org/entity/Q186077,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q46698,Ladyfinger Peak,http://www.wikidata.org/entity/Q46698,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,mountains,0
+Q122795,Mount Tongariro,http://www.wikidata.org/entity/Q122795,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q664,New Zealand,mountains,0
+Q241913,Cerro del Verdún,http://www.wikidata.org/entity/Q241913,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q77,Uruguay,mountains,0
+Q132378,Mount Oeta,http://www.wikidata.org/entity/Q132378,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q177064,Hoher Kranzberg,http://www.wikidata.org/entity/Q177064,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q30472,Aiguille Blanche de Peuterey,http://www.wikidata.org/entity/Q30472,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q246976,Záruby,http://www.wikidata.org/entity/Q246976,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,mountains,0
+Q196851,Zeterklippen,http://www.wikidata.org/entity/Q196851,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q323775,Kleiner Zschirnstein,http://www.wikidata.org/entity/Q323775,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q301901,Titelski Breg,http://www.wikidata.org/entity/Q301901,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q403,Serbia,mountains,0
+Q151200,Neroberg,http://www.wikidata.org/entity/Q151200,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q200690,Mount Eisenhower,http://www.wikidata.org/entity/Q200690,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q334624,Abtsrodaer Kuppe,http://www.wikidata.org/entity/Q334624,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q281192,Mount Porndon,http://www.wikidata.org/entity/Q281192,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,mountains,0
+Q27114,Königstuhl,http://www.wikidata.org/entity/Q27114,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q271700,Noshaq,http://www.wikidata.org/entity/Q271700,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,mountains,0
+Q335211,Koyo Zom,http://www.wikidata.org/entity/Q335211,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,mountains,0
+Q40758,Damavand,http://www.wikidata.org/entity/Q40758,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q794,Iran,mountains,0
+Q187391,Zelená hora,http://www.wikidata.org/entity/Q187391,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q312932,Caldera del Atuel,http://www.wikidata.org/entity/Q312932,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q326494,Poľana,http://www.wikidata.org/entity/Q326494,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,mountains,0
+Q268121,Creag Ghlas Laggan,http://www.wikidata.org/entity/Q268121,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q315767,Hoher Fricken,http://www.wikidata.org/entity/Q315767,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q196894,Zettersfeld,http://www.wikidata.org/entity/Q196894,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q130736,Nanga Parbat,http://www.wikidata.org/entity/Q130736,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,mountains,0
+Q120824,Mount Macdonald,http://www.wikidata.org/entity/Q120824,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q205392,Grand Capucin,http://www.wikidata.org/entity/Q205392,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q201532,Uhlberg,http://www.wikidata.org/entity/Q201532,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q120285,Nun Kun,http://www.wikidata.org/entity/Q120285,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,mountains,0
+Q268125,Kreuzeck,http://www.wikidata.org/entity/Q268125,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q204552,kunanyi / Mount Wellington,http://www.wikidata.org/entity/Q204552,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,mountains,0
+Q180647,Brauneck,http://www.wikidata.org/entity/Q180647,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q168702,Lhotse,http://www.wikidata.org/entity/Q168702,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q139831,Wila Qullu,http://www.wikidata.org/entity/Q139831,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q307311,Östliches Zwillingsköpfl,http://www.wikidata.org/entity/Q307311,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q215138,Mount Fitz Roy,http://www.wikidata.org/entity/Q215138,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q321991,Lackenberg,http://www.wikidata.org/entity/Q321991,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q207132,Terich Mir,http://www.wikidata.org/entity/Q207132,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,mountains,0
+Q138114,Thórsmörk,http://www.wikidata.org/entity/Q138114,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q252204,Eagle Mountain,http://www.wikidata.org/entity/Q252204,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q190562,Mount Cameroon,http://www.wikidata.org/entity/Q190562,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1009,Cameroon,mountains,0
+Q314166,Schneeberg,http://www.wikidata.org/entity/Q314166,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q205507,Zipptannskuppe,http://www.wikidata.org/entity/Q205507,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q160195,Bieleboh,http://www.wikidata.org/entity/Q160195,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1202,Saxony,mountains,0
+Q3309,Peč,http://www.wikidata.org/entity/Q3309,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q150869,Gunung Palung,http://www.wikidata.org/entity/Q150869,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q245221,Zwölferkopf,http://www.wikidata.org/entity/Q245221,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q791,Taumatawhakatangihangakōauauotamateapōkaiwhenuakitānatahu,http://www.wikidata.org/entity/Q791,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q664,New Zealand,mountains,0
+Q210168,Mount St. Piran,http://www.wikidata.org/entity/Q210168,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q250311,Brushy Butte,http://www.wikidata.org/entity/Q250311,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q143008,Tavan Bogd,http://www.wikidata.org/entity/Q143008,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,mountains,0
+Q139362,Smolikas,http://www.wikidata.org/entity/Q139362,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q187390,Q187390,http://www.wikidata.org/entity/Q187390,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q313628,Cerro Escorial,http://www.wikidata.org/entity/Q313628,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q23974,Komanova,http://www.wikidata.org/entity/Q23974,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q183442,Sauklippe,http://www.wikidata.org/entity/Q183442,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q25630,Blauen,http://www.wikidata.org/entity/Q25630,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q187315,Mount Tahan,http://www.wikidata.org/entity/Q187315,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q833,Malaysia,mountains,0
+Q140275,Zagenicht,http://www.wikidata.org/entity/Q140275,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1030,Namibia,mountains,0
+Q152380,Chaitén,http://www.wikidata.org/entity/Q152380,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q153869,Salvatorberg,http://www.wikidata.org/entity/Q153869,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q184828,Zeiger,http://www.wikidata.org/entity/Q184828,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q241107,Vingerklip,http://www.wikidata.org/entity/Q241107,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1030,Namibia,mountains,0
+Q30415,Mont Maudit,http://www.wikidata.org/entity/Q30415,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q332762,Jengish Chokusu,http://www.wikidata.org/entity/Q332762,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q15180,Soviet Union,mountains,0
+Q35364,Ben Vane,http://www.wikidata.org/entity/Q35364,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q219986,Gangkhar Puensum,http://www.wikidata.org/entity/Q219986,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q917,Bhutan,mountains,0
+Q198805,Ziegenkopf (Habichtswald),http://www.wikidata.org/entity/Q198805,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q202098,Ruy Mountain,http://www.wikidata.org/entity/Q202098,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q403,Serbia,mountains,0
+Q323584,Sattelkopf,http://www.wikidata.org/entity/Q323584,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q56693,Cavehill,http://www.wikidata.org/entity/Q56693,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,mountains,0
+Q261126,Steinschartenkopf,http://www.wikidata.org/entity/Q261126,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q306931,Oestliche Knotenspitze,http://www.wikidata.org/entity/Q306931,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q335336,Har HaMenuchot,http://www.wikidata.org/entity/Q335336,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q801,Israel,mountains,0
+Q80344,Mount Olympus,http://www.wikidata.org/entity/Q80344,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q315741,Simetsberg,http://www.wikidata.org/entity/Q315741,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q128857,Rogla,http://www.wikidata.org/entity/Q128857,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q215,Slovenia,mountains,0
+Q298119,Öræfajökull,http://www.wikidata.org/entity/Q298119,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q38128,Les Courtes,http://www.wikidata.org/entity/Q38128,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q204334,Paterberg,http://www.wikidata.org/entity/Q204334,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q31,Belgium,mountains,0
+Q198808,Q198808,http://www.wikidata.org/entity/Q198808,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q315546,Geigelstein,http://www.wikidata.org/entity/Q315546,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q215516,Mount Helicon,http://www.wikidata.org/entity/Q215516,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,mountains,0
+Q23981,Koman,http://www.wikidata.org/entity/Q23981,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,mountains,0
+Q165212,Schinder,http://www.wikidata.org/entity/Q165212,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q281274,Ferlacher Horn / Grlovec,http://www.wikidata.org/entity/Q281274,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q175213,Altenburg,http://www.wikidata.org/entity/Q175213,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q180229,Elfbuchen,http://www.wikidata.org/entity/Q180229,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q187743,Zeller Berg,http://www.wikidata.org/entity/Q187743,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q23972,Mount Hnatasya,http://www.wikidata.org/entity/Q23972,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,mountains,0
+Q335758,Þyrill,http://www.wikidata.org/entity/Q335758,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q205539,Zipser Berg,http://www.wikidata.org/entity/Q205539,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q329353,Kohnstein,http://www.wikidata.org/entity/Q329353,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q158526,Monte Titano,http://www.wikidata.org/entity/Q158526,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q238,San Marino,mountains,0
+Q277661,Amne Machin,http://www.wikidata.org/entity/Q277661,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q48877,Shiveluch,http://www.wikidata.org/entity/Q48877,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,mountains,0
+Q209341,Musala,http://www.wikidata.org/entity/Q209341,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q219,Bulgaria,mountains,0
+Q207323,Vulcano,http://www.wikidata.org/entity/Q207323,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q254143,Sakar Island,http://www.wikidata.org/entity/Q254143,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q691,Papua New Guinea,mountains,0
+Q144327,Nevado del Tolima,http://www.wikidata.org/entity/Q144327,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,mountains,0
+Q30438,Mont Blanc du Tacul,http://www.wikidata.org/entity/Q30438,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q170089,Cho Oyu,http://www.wikidata.org/entity/Q170089,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q322506,Jochberg,http://www.wikidata.org/entity/Q322506,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q315611,Jenner,http://www.wikidata.org/entity/Q315611,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q250653,Hvalnes,http://www.wikidata.org/entity/Q250653,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q312818,Mount Scopus,http://www.wikidata.org/entity/Q312818,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q801,Israel,mountains,0
+Q265947,Hohe Dock,http://www.wikidata.org/entity/Q265947,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q187749,Zeller Horn,http://www.wikidata.org/entity/Q187749,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q3309,Peč,http://www.wikidata.org/entity/Q3309,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q324561,Papststein,http://www.wikidata.org/entity/Q324561,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q319009,Abendstein,http://www.wikidata.org/entity/Q319009,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q155086,Glasfelderkopf,http://www.wikidata.org/entity/Q155086,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q14081,Chimborazo,http://www.wikidata.org/entity/Q14081,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q736,Ecuador,mountains,0
+Q265375,Höllentalspitzen,http://www.wikidata.org/entity/Q265375,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q116229,Mount Constance,http://www.wikidata.org/entity/Q116229,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q14082,Antisana volcano,http://www.wikidata.org/entity/Q14082,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q736,Ecuador,mountains,0
+Q271700,Noshaq,http://www.wikidata.org/entity/Q271700,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q889,Afghanistan,mountains,0
+Q322079,Q322079,http://www.wikidata.org/entity/Q322079,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q574,East Timor,mountains,0
+Q107635,Baekdu Mountain,http://www.wikidata.org/entity/Q107635,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,mountains,0
+Q177759,Búrfell,http://www.wikidata.org/entity/Q177759,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q283826,Shota Rustaveli Peak,http://www.wikidata.org/entity/Q283826,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,mountains,0
+Q286476,Cerro Marahuaca,http://www.wikidata.org/entity/Q286476,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q717,Venezuela,mountains,0
+Q118631,Kutschenberg,http://www.wikidata.org/entity/Q118631,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q81213,Gerlachovský štít,http://www.wikidata.org/entity/Q81213,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,mountains,0
+Q160370,Großer Picho,http://www.wikidata.org/entity/Q160370,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q163890,Prestahnúkur,http://www.wikidata.org/entity/Q163890,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q189,Iceland,mountains,0
+Q302483,Mount Vancouver,http://www.wikidata.org/entity/Q302483,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q83060,Mount Ngauruhoe,http://www.wikidata.org/entity/Q83060,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q664,New Zealand,mountains,0
+Q214916,Llullaillaco,http://www.wikidata.org/entity/Q214916,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q298319,Österberg,http://www.wikidata.org/entity/Q298319,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q35644,Mount Pindo,http://www.wikidata.org/entity/Q35644,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,mountains,0
+Q169531,Chachakumani,http://www.wikidata.org/entity/Q169531,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,mountains,0
+Q130591,Srđ,http://www.wikidata.org/entity/Q130591,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,mountains,0
+Q16630,Piz Varuna,http://www.wikidata.org/entity/Q16630,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q583,Mont Blanc,http://www.wikidata.org/entity/Q583,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q3428,Bungsberg,http://www.wikidata.org/entity/Q3428,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q186853,Gasherbrum II,http://www.wikidata.org/entity/Q186853,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,mountains,0
+Q312866,Antofalla,http://www.wikidata.org/entity/Q312866,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q319010,Q319010,http://www.wikidata.org/entity/Q319010,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1030,Namibia,mountains,0
+Q316937,Plankenstein,http://www.wikidata.org/entity/Q316937,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q287118,Aguajito,http://www.wikidata.org/entity/Q287118,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,mountains,0
+Q167044,Yudychvumchorr,http://www.wikidata.org/entity/Q167044,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,mountains,0
+Q252709,Mont Brequin,http://www.wikidata.org/entity/Q252709,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q152041,Mount Yahiko,http://www.wikidata.org/entity/Q152041,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q17,Japan,mountains,0
+Q195191,Khrebet Yavirnyk,http://www.wikidata.org/entity/Q195191,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q114293,Lunhul,http://www.wikidata.org/entity/Q114293,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q337644,Acamarachi,http://www.wikidata.org/entity/Q337644,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,mountains,0
+Q47940,Bălănești Hill,http://www.wikidata.org/entity/Q47940,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q217,Moldova,mountains,0
+Q208081,Aneto,http://www.wikidata.org/entity/Q208081,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,mountains,0
+Q206161,Mount Herzl,http://www.wikidata.org/entity/Q206161,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q801,Israel,mountains,0
+Q160379,Mönchswalder Berg,http://www.wikidata.org/entity/Q160379,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q257718,Glatthorn,http://www.wikidata.org/entity/Q257718,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q153170,Pietrosul Rodnei,http://www.wikidata.org/entity/Q153170,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,mountains,0
+Q148998,Ještěd,http://www.wikidata.org/entity/Q148998,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q75570,Falknis,http://www.wikidata.org/entity/Q75570,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q347,Liechtenstein,mountains,0
+Q212723,Klausenstein,http://www.wikidata.org/entity/Q212723,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q198750,Q198750,http://www.wikidata.org/entity/Q198750,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q16674,Piz Zupò,http://www.wikidata.org/entity/Q16674,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q313635,Cordón del Azufre,http://www.wikidata.org/entity/Q313635,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,mountains,0
+Q209528,Mulhacén,http://www.wikidata.org/entity/Q209528,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,mountains,0
+Q139309,Schöttelkarspitze,http://www.wikidata.org/entity/Q139309,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q30541,Dent du Géant,http://www.wikidata.org/entity/Q30541,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q315293,Hoher Ifen,http://www.wikidata.org/entity/Q315293,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,mountains,0
+Q23972,Mount Hnatasya,http://www.wikidata.org/entity/Q23972,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q216894,Mount Arafat,http://www.wikidata.org/entity/Q216894,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q851,Saudi Arabia,mountains,0
+Q23970,Palenica58,http://www.wikidata.org/entity/Q23970,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,mountains,0
+Q289542,Mount Monadnock,http://www.wikidata.org/entity/Q289542,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,mountains,0
+Q30405,Signalkuppe,http://www.wikidata.org/entity/Q30405,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q316401,Feldberg,http://www.wikidata.org/entity/Q316401,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q85166,Cornettes de Bise,http://www.wikidata.org/entity/Q85166,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,mountains,0
+Q337607,Čap,http://www.wikidata.org/entity/Q337607,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q178064,Cauberg,http://www.wikidata.org/entity/Q178064,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q55,Netherlands,mountains,0
+Q7093,Puig Neulós,http://www.wikidata.org/entity/Q7093,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,mountains,0
+Q245219,Zwölferkofel,http://www.wikidata.org/entity/Q245219,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q210049,Mount Babel,http://www.wikidata.org/entity/Q210049,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,mountains,0
+Q40692,Mount Tandikat,http://www.wikidata.org/entity/Q40692,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q283712,Tafahi,http://www.wikidata.org/entity/Q283712,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q678,Tonga,mountains,0
+Q1374,Matterhorn,http://www.wikidata.org/entity/Q1374,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,mountains,0
+Q60789,Adam's Peak,http://www.wikidata.org/entity/Q60789,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q854,Sri Lanka,mountains,0
+Q288474,Steinberg,http://www.wikidata.org/entity/Q288474,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q123157,Gunung Telomoyo,http://www.wikidata.org/entity/Q123157,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,mountains,0
+Q159671,Lausche,http://www.wikidata.org/entity/Q159671,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q114210,Hora Mahura,http://www.wikidata.org/entity/Q114210,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,mountains,0
+Q323910,Bschießer,http://www.wikidata.org/entity/Q323910,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q314735,Wurmberg,http://www.wikidata.org/entity/Q314735,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q200808,Černá hora,http://www.wikidata.org/entity/Q200808,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,mountains,0
+Q72303,Mount Ararat,http://www.wikidata.org/entity/Q72303,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q43,Turkey,mountains,0
+Q263429,Paštrik,http://www.wikidata.org/entity/Q263429,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q222,Albania,mountains,0
+Q120074,Ristfeuchthorn,http://www.wikidata.org/entity/Q120074,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0
+Q315930,Heimgarten,http://www.wikidata.org/entity/Q315930,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,mountains,0

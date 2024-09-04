@@ -1,0 +1,52 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q10520,David Beckham,http://www.wikidata.org/entity/Q10520,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q5383,David Bowie,http://www.wikidata.org/entity/Q5383,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q152316,"Prince Harry, Duke of Sussex",http://www.wikidata.org/entity/Q152316,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q9916,Dwight D. Eisenhower,http://www.wikidata.org/entity/Q9916,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q45229,Zac Efron,http://www.wikidata.org/entity/Q45229,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q144622,Phil Collins,http://www.wikidata.org/entity/Q144622,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q150268,David de Gea,http://www.wikidata.org/entity/Q150268,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q214601,David Tennant,http://www.wikidata.org/entity/Q214601,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q313023,David McCallum,http://www.wikidata.org/entity/Q313023,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q183337,David Attenborough,http://www.wikidata.org/entity/Q183337,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q160432,Jude Law,http://www.wikidata.org/entity/Q160432,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q44158,Dave Bautista,http://www.wikidata.org/entity/Q44158,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q188792,David Schwimmer,http://www.wikidata.org/entity/Q188792,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q12006,Dave Grohl,http://www.wikidata.org/entity/Q12006,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q182655,Rod Stewart,http://www.wikidata.org/entity/Q182655,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q184903,David Fincher,http://www.wikidata.org/entity/Q184903,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q2071,David Lynch,http://www.wikidata.org/entity/Q2071,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18057751,David,humans,1
+Q178166,Vin Diesel,http://www.wikidata.org/entity/Q178166,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q13610143,Mark,humans,0
+Q8446,Kurt Cobain,http://www.wikidata.org/entity/Q8446,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1158489,Kurt,humans,0
+Q1316,Saddam Hussein,http://www.wikidata.org/entity/Q1316,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q649085,Saddam,humans,0
+Q160009,Pink,http://www.wikidata.org/entity/Q160009,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q14639649,Beth,humans,0
+Q104027,Kirk Douglas,http://www.wikidata.org/entity/Q104027,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q19819758,Kirk,humans,0
+Q229313,Jessica Chastain,http://www.wikidata.org/entity/Q229313,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q15621047,Michelle,humans,0
+Q103946,Kiefer Sutherland,http://www.wikidata.org/entity/Q103946,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q20861938,Kiefer,humans,0
+Q32522,Jennifer Aniston,http://www.wikidata.org/entity/Q32522,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4248351,Joanna,humans,0
+Q59215,Robert Redford,http://www.wikidata.org/entity/Q59215,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4927937,Robert,humans,0
+Q208871,Ike Turner,http://www.wikidata.org/entity/Q208871,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q98688612,Izear,humans,0
+Q28085,Adolf Eichmann,http://www.wikidata.org/entity/Q28085,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18145837,Adolf,humans,0
+Q23434,Ernest Hemingway,http://www.wikidata.org/entity/Q23434,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q595105,Ernest,humans,0
+Q108283,Alan Arkin,http://www.wikidata.org/entity/Q108283,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q2588576,Wolf,humans,0
+Q276005,Charlotte Gainsbourg,http://www.wikidata.org/entity/Q276005,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q13365715,Lucy,humans,0
+Q275971,Roman Reigns,http://www.wikidata.org/entity/Q275971,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q17862013,Joe,humans,0
+Q219402,America Ferrera,http://www.wikidata.org/entity/Q219402,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q16525858,America,humans,0
+Q269309,Talulah Riley,http://www.wikidata.org/entity/Q269309,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q60568049,Talulah,humans,0
+Q10479,"Catherine, Princess of Wales",http://www.wikidata.org/entity/Q10479,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q385468,Elizabeth,humans,0
+Q161819,Julie Andrews,http://www.wikidata.org/entity/Q161819,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q385468,Elizabeth,humans,0
+Q29250,Bill Murray,http://www.wikidata.org/entity/Q29250,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q57776564,William James,humans,0
+Q892,J. R. R. Tolkien,http://www.wikidata.org/entity/Q892,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q2532287,Ronald,humans,0
+Q28085,Adolf Eichmann,http://www.wikidata.org/entity/Q28085,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18029644,Otto,humans,0
+Q8027,Martin Luther King Jr.,http://www.wikidata.org/entity/Q8027,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18002399,Martin,humans,0
+Q322056,Lance Reddick,http://www.wikidata.org/entity/Q322056,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1801787,Lance,humans,0
+Q152239,Queen Camilla,http://www.wikidata.org/entity/Q152239,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q16422363,Camilla,humans,0
+Q4636,Barbra Streisand,http://www.wikidata.org/entity/Q4636,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q30073804,Barbra,humans,0
+Q8743,Thomas Edison,http://www.wikidata.org/entity/Q8743,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q448135,Alva,humans,0
+Q36159,LeBron James,http://www.wikidata.org/entity/Q36159,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q98400125,LeBron,humans,0
+Q76364,Hans Zimmer,http://www.wikidata.org/entity/Q76364,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q937379,Florian,humans,0
+Q56005,Ridley Scott,http://www.wikidata.org/entity/Q56005,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q51844734,Ridley,humans,0
+Q162959,Blake Lively,http://www.wikidata.org/entity/Q162959,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4515632,Blake,humans,0
+Q117012,Yoko Ono,http://www.wikidata.org/entity/Q117012,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q3313340,Yōko,humans,0
+Q360,Julian Assange,http://www.wikidata.org/entity/Q360,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q17856012,Julian,humans,0
+Q234610,Anne Heche,http://www.wikidata.org/entity/Q234610,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q564684,Anne,humans,0

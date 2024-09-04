@@ -1,0 +1,37 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q229553,3,http://www.wikidata.org/entity/Q229553,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q155586,California Gurls,http://www.wikidata.org/entity/Q155586,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q746875,Last Friday Night (T.G.I.F.),http://www.wikidata.org/entity/Q746875,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q650326,The One That Got Away,http://www.wikidata.org/entity/Q650326,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q1044354,So What,http://www.wikidata.org/entity/Q1044354,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q835192,Teenage Dream,http://www.wikidata.org/entity/Q835192,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q1403526,It's Gonna Be Me,http://www.wikidata.org/entity/Q1403526,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q836630,Part of Me,http://www.wikidata.org/entity/Q836630,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q130826,Criminal,http://www.wikidata.org/entity/Q130826,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q179715,I Wanna Go,http://www.wikidata.org/entity/Q179715,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q943278,Wish You Were Here,http://www.wikidata.org/entity/Q943278,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q428073,Smile,http://www.wikidata.org/entity/Q428073,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q318223,Karl Martin,songs,1
+Q835192,Teenage Dream,http://www.wikidata.org/entity/Q835192,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q2026055,Bonnie McKee,songs,0
+Q153202,Con te partirò,http://www.wikidata.org/entity/Q153202,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q741301,Francesco Sartori,songs,0
+Q1479183,Without Me,http://www.wikidata.org/entity/Q1479183,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q6173303,Jeff Bass,songs,0
+Q1118089,Pamela,http://www.wikidata.org/entity/Q1118089,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q466980,David Paich,songs,0
+Q1172628,Sailing,http://www.wikidata.org/entity/Q1172628,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q445438,Christopher Cross,songs,0
+Q1028031,Driving Home for Christmas,http://www.wikidata.org/entity/Q1028031,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q262314,Chris Rea,songs,0
+Q927764,Never Too Far/Hero Medley,http://www.wikidata.org/entity/Q927764,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q237354,Diane Warren,songs,0
+Q155029,Can't Get You Out of My Head,http://www.wikidata.org/entity/Q155029,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q440551,Cathy Dennis,songs,0
+Q906980,Do the Bartman,http://www.wikidata.org/entity/Q906980,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q2831,Michael Jackson,songs,0
+Q129400,Stranded (Haiti Mon Amour),http://www.wikidata.org/entity/Q129400,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q62766,Jay-Z,songs,0
+Q127752,Glass of Water,http://www.wikidata.org/entity/Q127752,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q601617,Guy Berryman,songs,0
+Q835635,Got 'til It's Gone,http://www.wikidata.org/entity/Q835635,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q205721,Joni Mitchell,songs,0
+Q638360,From Sarah with Love,http://www.wikidata.org/entity/Q638360,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q63664,Sarah Connor,songs,0
+Q169987,Drive (The Cars song),http://www.wikidata.org/entity/Q169987,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q526406,Ric Ocasek,songs,0
+Q650458,Shame,http://www.wikidata.org/entity/Q650458,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q7803630,Tim Hawes,songs,0
+Q126149,The Way We Were,http://www.wikidata.org/entity/Q126149,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q1857066,Alan Bergman,songs,0
+Q1748061,Everyday,http://www.wikidata.org/entity/Q1748061,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q5977,Buddy Holly,songs,0
+Q208016,Tiến quân ca,http://www.wikidata.org/entity/Q208016,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q967468,Văn Cao,songs,0
+Q1320158,"Everyday, Katyusha",http://www.wikidata.org/entity/Q1320158,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q11372799,Yoshimasa Inoue,songs,0
+Q1426427,Love Me Tender,http://www.wikidata.org/entity/Q1426427,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q5543660,George R. Poulton,songs,0
+Q1084026,Tunnel of Love,http://www.wikidata.org/entity/Q1084026,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q319693,Oscar Hammerstein II,songs,0
+Q517591,The Show Must Go On,http://www.wikidata.org/entity/Q517591,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q15862,Queen,songs,0
+Q1129431,Let Me Live,http://www.wikidata.org/entity/Q1129431,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q15869,Freddie Mercury,songs,0
+Q678516,Nothing Compares 2 U,http://www.wikidata.org/entity/Q678516,http://www.wikidata.org/prop/direct/P86,composer,http://www.wikidata.org/entity/Q7542,Prince,songs,0

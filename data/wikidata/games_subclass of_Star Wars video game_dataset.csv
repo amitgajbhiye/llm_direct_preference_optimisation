@@ -1,0 +1,22 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q54317,Star Wars,http://www.wikidata.org/entity/Q54317,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54322,Super Star Wars,http://www.wikidata.org/entity/Q54322,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54853,Star Wars: X-Wing,http://www.wikidata.org/entity/Q54853,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q55259,Star Wars: Rebel Assault,http://www.wikidata.org/entity/Q55259,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q55225,Star Wars: Starfighter,http://www.wikidata.org/entity/Q55225,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54320,Star Wars,http://www.wikidata.org/entity/Q54320,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q55314,Star Wars: X-Wing vs. TIE Fighter,http://www.wikidata.org/entity/Q55314,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q55313,Star Wars: X-Wing Alliance,http://www.wikidata.org/entity/Q55313,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54330,Super Star Wars: The Empire Strikes Back,http://www.wikidata.org/entity/Q54330,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q55248,Star Wars Trilogy Arcade,http://www.wikidata.org/entity/Q55248,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54335,Super Star Wars: Return of the Jedi,http://www.wikidata.org/entity/Q54335,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54323,Star Wars Arcade,http://www.wikidata.org/entity/Q54323,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54325,The Empire Strikes Back,http://www.wikidata.org/entity/Q54325,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54319,Star Wars,http://www.wikidata.org/entity/Q54319,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q55223,Star Wars: Racer Arcade,http://www.wikidata.org/entity/Q55223,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54329,Star Wars: The Empire Strikes Back,http://www.wikidata.org/entity/Q54329,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54327,Star Wars: The Empire Strikes Back,http://www.wikidata.org/entity/Q54327,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54334,Star Wars: Return of the Jedi,http://www.wikidata.org/entity/Q54334,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q54331,Return of the Jedi: Death Star Battle,http://www.wikidata.org/entity/Q54331,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q54300,Star Wars video game,games,1
+Q207786,Tamagotchi,http://www.wikidata.org/entity/Q207786,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q1187635,digital pet,games,0
+Q207786,Tamagotchi,http://www.wikidata.org/entity/Q207786,http://www.wikidata.org/prop/direct/P279,subclass of,http://www.wikidata.org/entity/Q15654425,electronic toy,games,0

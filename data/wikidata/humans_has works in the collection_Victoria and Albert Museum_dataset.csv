@@ -1,0 +1,61 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q517,Napoleon,http://www.wikidata.org/entity/Q517,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q60809,Ansel Adams,http://www.wikidata.org/entity/Q60809,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q9439,Victoria,http://www.wikidata.org/entity/Q9439,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q161159,Charlotte of Mecklenburg-Strelitz,http://www.wikidata.org/entity/Q161159,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q762,Leonardo da Vinci,http://www.wikidata.org/entity/Q762,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q1048,Julius Caesar,http://www.wikidata.org/entity/Q1048,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q1394,Vladimir Lenin,http://www.wikidata.org/entity/Q1394,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q5383,David Bowie,http://www.wikidata.org/entity/Q5383,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q859,Plato,http://www.wikidata.org/entity/Q859,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q307,Galileo Galilei,http://www.wikidata.org/entity/Q307,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q5592,Michelangelo,http://www.wikidata.org/entity/Q5592,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q131412,"Mary, Queen of Scots",http://www.wikidata.org/entity/Q131412,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q172653,Maggie Smith,http://www.wikidata.org/entity/Q172653,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q11998,Kylie Minogue,http://www.wikidata.org/entity/Q11998,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q5686,Charles Dickens,http://www.wikidata.org/entity/Q5686,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q7241,Rabindranath Tagore,http://www.wikidata.org/entity/Q7241,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q8413,Constantine the Great,http://www.wikidata.org/entity/Q8413,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q1511,Richard Wagner,http://www.wikidata.org/entity/Q1511,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q9068,Voltaire,http://www.wikidata.org/entity/Q9068,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q40909,Virginia Woolf,http://www.wikidata.org/entity/Q40909,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q213322,Victoria and Albert Museum,humans,1
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1568434,Yale University Art Gallery,humans,0
+Q8704,Walt Disney,http://www.wikidata.org/entity/Q8704,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q260913,Centraal Museum,humans,0
+Q5592,Michelangelo,http://www.wikidata.org/entity/Q5592,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q731126,J. Paul Getty Museum,humans,0
+Q117012,Yoko Ono,http://www.wikidata.org/entity/Q117012,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1464509,National Gallery of Victoria,humans,0
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1499958,Kunstmuseum Den Haag,humans,0
+Q5582,Vincent van Gogh,http://www.wikidata.org/entity/Q5582,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q377579,Baltimore Museum of Art,humans,0
+Q5592,Michelangelo,http://www.wikidata.org/entity/Q5592,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q2418618,Casa Buonarroti,humans,0
+Q5582,Vincent van Gogh,http://www.wikidata.org/entity/Q5582,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q182955,Vatican Museums,humans,0
+Q5577,Salvador Dalí,http://www.wikidata.org/entity/Q5577,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q176251,Thyssen-Bornemisza Museum,humans,0
+Q5582,Vincent van Gogh,http://www.wikidata.org/entity/Q5582,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1419555,National Gallery Prague,humans,0
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q7605588,Design Museum Den Bosch,humans,0
+Q5582,Vincent van Gogh,http://www.wikidata.org/entity/Q5582,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1743116,Toledo Museum of Art,humans,0
+Q25089,Woody Allen,http://www.wikidata.org/entity/Q25089,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q188740,Museum of Modern Art,humans,0
+Q45661,Coco Chanel,http://www.wikidata.org/entity/Q45661,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q113993463,Jozef Wiggers collection,humans,0
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q705551,Art Gallery of New South Wales,humans,0
+Q60809,Ansel Adams,http://www.wikidata.org/entity/Q60809,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1641836,Los Angeles County Museum of Art,humans,0
+Q5577,Salvador Dalí,http://www.wikidata.org/entity/Q5577,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q460889,Museo Nacional Centro de Arte Reina Sofía,humans,0
+Q5592,Michelangelo,http://www.wikidata.org/entity/Q5592,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q464404,Staatliche Graphische Sammlung München,humans,0
+Q187447,Pablo Escobar,http://www.wikidata.org/entity/Q187447,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q188740,Museum of Modern Art,humans,0
+Q60809,Ansel Adams,http://www.wikidata.org/entity/Q60809,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q188740,Museum of Modern Art,humans,0
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q104891206,Nelly Van den Abbeele collection,humans,0
+Q183337,David Attenborough,http://www.wikidata.org/entity/Q183337,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q17153751,National Museum of World Cultures,humans,0
+Q1203,John Lennon,http://www.wikidata.org/entity/Q1203,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q924335,Stedelijk Museum Amsterdam,humans,0
+Q5592,Michelangelo,http://www.wikidata.org/entity/Q5592,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q2628596,Palais des Beaux-Arts de Lille,humans,0
+Q5577,Salvador Dalí,http://www.wikidata.org/entity/Q5577,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q428559,Museum of Montserrat,humans,0
+Q5603,Andy Warhol,http://www.wikidata.org/entity/Q5603,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1976985,The Nelson-Atkins Museum of Art,humans,0
+Q5592,Michelangelo,http://www.wikidata.org/entity/Q5592,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q917183,Church of Our Lady,humans,0
+Q5577,Salvador Dalí,http://www.wikidata.org/entity/Q5577,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q403080,Wadsworth Atheneum Museum of Art,humans,0
+Q5383,David Bowie,http://www.wikidata.org/entity/Q5383,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q188740,Museum of Modern Art,humans,0
+Q535,Victor Hugo,http://www.wikidata.org/entity/Q535,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q731126,J. Paul Getty Museum,humans,0
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q809600,Fogg Museum,humans,0
+Q60809,Ansel Adams,http://www.wikidata.org/entity/Q60809,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q3003161,Crocker Art Museum,humans,0
+Q5592,Michelangelo,http://www.wikidata.org/entity/Q5592,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q51674344,Musea Brugge,humans,0
+Q762,Leonardo da Vinci,http://www.wikidata.org/entity/Q762,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q160236,Metropolitan Museum of Art,humans,0
+Q155407,Jean-Michel Basquiat,http://www.wikidata.org/entity/Q155407,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1895953,National museum of modern art,humans,0
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q1068063,National Gallery of Canada,humans,0
+Q762,Leonardo da Vinci,http://www.wikidata.org/entity/Q762,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q812285,Bavarian State Painting Collections,humans,0
+Q5577,Salvador Dalí,http://www.wikidata.org/entity/Q5577,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q103776961,Picker Art Gallery,humans,0
+Q5603,Andy Warhol,http://www.wikidata.org/entity/Q5603,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q2983474,Finnish National Gallery,humans,0
+Q8877,Steven Spielberg,http://www.wikidata.org/entity/Q8877,http://www.wikidata.org/prop/direct/P6379,has works in the collection,http://www.wikidata.org/entity/Q188740,Museum of Modern Art,humans,0

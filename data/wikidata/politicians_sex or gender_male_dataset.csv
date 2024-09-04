@@ -1,0 +1,1002 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q517,Napoleon,http://www.wikidata.org/entity/Q517,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q352,Adolf Hitler,http://www.wikidata.org/entity/Q352,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7747,Vladimir Putin,http://www.wikidata.org/entity/Q7747,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22686,Donald Trump,http://www.wikidata.org/entity/Q22686,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2685,Arnold Schwarzenegger,http://www.wikidata.org/entity/Q2685,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q6279,Joe Biden,http://www.wikidata.org/entity/Q6279,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9458,Muhammad,http://www.wikidata.org/entity/Q9458,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8409,Alexander the Great,http://www.wikidata.org/entity/Q8409,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q855,Joseph Stalin,http://www.wikidata.org/entity/Q855,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1001,Mahatma Gandhi,http://www.wikidata.org/entity/Q1001,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9696,John F. Kennedy,http://www.wikidata.org/entity/Q9696,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23685,Jimmy Carter,http://www.wikidata.org/entity/Q23685,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q76,Barack Obama,http://www.wikidata.org/entity/Q76,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15031,Xi Jinping,http://www.wikidata.org/entity/Q15031,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1048,Julius Caesar,http://www.wikidata.org/entity/Q1048,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8016,Winston Churchill,http://www.wikidata.org/entity/Q8016,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8023,Nelson Mandela,http://www.wikidata.org/entity/Q8023,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q91,Abraham Lincoln,http://www.wikidata.org/entity/Q91,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1316,Saddam Hussein,http://www.wikidata.org/entity/Q1316,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8027,Martin Luther King Jr.,http://www.wikidata.org/entity/Q8027,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1394,Vladimir Lenin,http://www.wikidata.org/entity/Q1394,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1058,Narendra Modi,http://www.wikidata.org/entity/Q1058,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9960,Ronald Reagan,http://www.wikidata.org/entity/Q9960,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q207,George W. Bush,http://www.wikidata.org/entity/Q207,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23559,Benito Mussolini,http://www.wikidata.org/entity/Q23559,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9061,Karl Marx,http://www.wikidata.org/entity/Q9061,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11860,Silvio Berlusconi,http://www.wikidata.org/entity/Q11860,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5816,Mao Zedong,http://www.wikidata.org/entity/Q5816,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12897,Pelé,http://www.wikidata.org/entity/Q12897,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5152,Mustafa Kemal Atatürk,http://www.wikidata.org/entity/Q5152,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20875,Edward VII,http://www.wikidata.org/entity/Q20875,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1124,Bill Clinton,http://www.wikidata.org/entity/Q1124,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7742,Louis XIV of France,http://www.wikidata.org/entity/Q7742,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23,George Washington,http://www.wikidata.org/entity/Q23,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19878,Muammar Gaddafi,http://www.wikidata.org/entity/Q19878,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34211,Yasser Arafat,http://www.wikidata.org/entity/Q34211,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25310,Robert F. Kennedy,http://www.wikidata.org/entity/Q25310,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9588,Richard Nixon,http://www.wikidata.org/entity/Q9588,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8474,Suleiman the Magnificent,http://www.wikidata.org/entity/Q8474,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23505,George H. W. Bush,http://www.wikidata.org/entity/Q23505,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7732,Louis XVI of France,http://www.wikidata.org/entity/Q7732,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34969,Benjamin Franklin,http://www.wikidata.org/entity/Q34969,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q30487,Mikhail Gorbachev,http://www.wikidata.org/entity/Q30487,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9916,Dwight D. Eisenhower,http://www.wikidata.org/entity/Q9916,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9513,A. P. J. Abdul Kalam,http://www.wikidata.org/entity/Q9513,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33866,Theodore Roosevelt,http://www.wikidata.org/entity/Q33866,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1430,Marcus Aurelius,http://www.wikidata.org/entity/Q1430,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11613,Harry S. Truman,http://www.wikidata.org/entity/Q11613,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11256,Fidel Castro,http://www.wikidata.org/entity/Q11256,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q989,John Paul II,http://www.wikidata.org/entity/Q989,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27214,Jerry Springer,http://www.wikidata.org/entity/Q27214,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35314,Nikita Khrushchev,http://www.wikidata.org/entity/Q35314,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29179,Francisco Franco,http://www.wikidata.org/entity/Q29179,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9488,Sachin Tendulkar,http://www.wikidata.org/entity/Q9488,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28085,Adolf Eichmann,http://www.wikidata.org/entity/Q28085,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9640,Lyndon B. Johnson,http://www.wikidata.org/entity/Q9640,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1413,Nero,http://www.wikidata.org/entity/Q1413,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7721,Napoleon III,http://www.wikidata.org/entity/Q7721,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33391,Leon Trotsky,http://www.wikidata.org/entity/Q33391,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1047,Jawaharlal Nehru,http://www.wikidata.org/entity/Q1047,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11812,Thomas Jefferson,http://www.wikidata.org/entity/Q11812,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2042,Charles de Gaulle,http://www.wikidata.org/entity/Q2042,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7327,Yuri Gagarin,http://www.wikidata.org/entity/Q7327,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8442,Otto von Bismarck,http://www.wikidata.org/entity/Q8442,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9582,Gerald Ford,http://www.wikidata.org/entity/Q9582,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10261,Pythagoras,http://www.wikidata.org/entity/Q10261,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36456,Hannibal,http://www.wikidata.org/entity/Q36456,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16574,Chiang Kai-shek,http://www.wikidata.org/entity/Q16574,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17293,Tenzin Gyatso,http://www.wikidata.org/entity/Q17293,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q535,Victor Hugo,http://www.wikidata.org/entity/Q535,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1409,Caligula,http://www.wikidata.org/entity/Q1409,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32024,Sergei Shoigu,http://www.wikidata.org/entity/Q32024,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9545,Tony Blair,http://www.wikidata.org/entity/Q9545,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7192,Qin Shi Huangdi,http://www.wikidata.org/entity/Q7192,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2153,Subhas Chandra Bose,http://www.wikidata.org/entity/Q2153,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8605,Simón Bolívar,http://www.wikidata.org/entity/Q8605,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38823,Ruhollah Khomeini,http://www.wikidata.org/entity/Q38823,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1067,Dante Alighieri,http://www.wikidata.org/entity/Q1067,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34453,Boris Yeltsin,http://www.wikidata.org/entity/Q34453,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1399,Niccolò Machiavelli,http://www.wikidata.org/entity/Q1399,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2866,Alexander Lukashenko,http://www.wikidata.org/entity/Q2866,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23530,Dmitry Medvedev,http://www.wikidata.org/entity/Q23530,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8413,Constantine the Great,http://www.wikidata.org/entity/Q8413,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36014,Ho Chi Minh,http://www.wikidata.org/entity/Q36014,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7996,Ivan IV Vasilyevich,http://www.wikidata.org/entity/Q7996,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5879,Johann Wolfgang von Goethe,http://www.wikidata.org/entity/Q5879,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q368,Augusto Pinochet,http://www.wikidata.org/entity/Q368,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18111,Li Keqiang,http://www.wikidata.org/entity/Q18111,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10665,Kim Jong-il,http://www.wikidata.org/entity/Q10665,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10218,Rahul Gandhi,http://www.wikidata.org/entity/Q10218,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q39246,Richard Feynman,http://www.wikidata.org/entity/Q39246,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1541,Cicero,http://www.wikidata.org/entity/Q1541,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34060,Yizhak Rabin,http://www.wikidata.org/entity/Q34060,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q192,David Cameron,http://www.wikidata.org/entity/Q192,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9161,Josip Broz,http://www.wikidata.org/entity/Q9161,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8768,Henry Ford,http://www.wikidata.org/entity/Q8768,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q946,Donald Tusk,http://www.wikidata.org/entity/Q946,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8589,Ashoka,http://www.wikidata.org/entity/Q8589,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16977,Deng Xiaoping,http://www.wikidata.org/entity/Q16977,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11806,John Adams,http://www.wikidata.org/entity/Q11806,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34296,Woodrow Wilson,http://www.wikidata.org/entity/Q34296,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34836,Ulysses S. Grant,http://www.wikidata.org/entity/Q34836,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15029,Hu Jintao,http://www.wikidata.org/entity/Q15029,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1407,Tiberius,http://www.wikidata.org/entity/Q1407,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17131,Pontius Pilatus,http://www.wikidata.org/entity/Q17131,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37181,Luiz Inácio Lula da Silva,http://www.wikidata.org/entity/Q37181,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37610,David Ben-Gurion,http://www.wikidata.org/entity/Q37610,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9353,John Locke,http://www.wikidata.org/entity/Q9353,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7750,Louis XVIII of France,http://www.wikidata.org/entity/Q7750,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28614,Garry Kasparov,http://www.wikidata.org/entity/Q28614,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2667,Paul von Hindenburg,http://www.wikidata.org/entity/Q2667,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q329,Nicolas Sarkozy,http://www.wikidata.org/entity/Q329,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2054,Seneca,http://www.wikidata.org/entity/Q2054,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11817,Andrew Jackson,http://www.wikidata.org/entity/Q11817,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37388,Francis Bacon,http://www.wikidata.org/entity/Q37388,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8573,Sun Yat-sen,http://www.wikidata.org/entity/Q8573,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3910,"Albert II, Prince of Monaco",http://www.wikidata.org/entity/Q3910,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5950,James Brown,http://www.wikidata.org/entity/Q5950,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35236,Herbert Hoover,http://www.wikidata.org/entity/Q35236,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5679,Lord Byron,http://www.wikidata.org/entity/Q5679,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33760,Bertrand Russell,http://www.wikidata.org/entity/Q33760,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4593,Rajiv Gandhi,http://www.wikidata.org/entity/Q4593,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9455,Sardar Vallabhbhai Patel,http://www.wikidata.org/entity/Q9455,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q539,Giuseppe Garibaldi,http://www.wikidata.org/entity/Q539,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24313,Mike Pence,http://www.wikidata.org/entity/Q24313,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1427,Hadrian,http://www.wikidata.org/entity/Q1427,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26825,Herodotus,http://www.wikidata.org/entity/Q26825,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q440,Salvador Allende,http://www.wikidata.org/entity/Q440,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8440,Hugo Chávez,http://www.wikidata.org/entity/Q8440,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5721,Philippe Pétain,http://www.wikidata.org/entity/Q5721,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19673,Al Gore,http://www.wikidata.org/entity/Q19673,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1411,Claudius,http://www.wikidata.org/entity/Q1411,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36023,Calvin Coolidge,http://www.wikidata.org/entity/Q36023,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35171,Grover Cleveland,http://www.wikidata.org/entity/Q35171,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9387,Max Weber,http://www.wikidata.org/entity/Q9387,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7771,Louis-Philippe I,http://www.wikidata.org/entity/Q7771,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1762,Elagabalus,http://www.wikidata.org/entity/Q1762,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11142,Clarence Thomas,http://www.wikidata.org/entity/Q11142,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16597,Jiang Zemin,http://www.wikidata.org/entity/Q16597,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10390,John McCain,http://www.wikidata.org/entity/Q10390,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1425,Trajan,http://www.wikidata.org/entity/Q1425,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2105,Jacques Chirac,http://www.wikidata.org/entity/Q2105,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31919,Vitali Klitschko,http://www.wikidata.org/entity/Q31919,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35041,William McKinley,http://www.wikidata.org/entity/Q35041,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34189,Pablo Neruda,http://www.wikidata.org/entity/Q34189,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4496,Mitt Romney,http://www.wikidata.org/entity/Q4496,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35286,Warren G. Harding,http://www.wikidata.org/entity/Q35286,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2038,François Mitterrand,http://www.wikidata.org/entity/Q2038,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26702,"Armand-Jean du Plessis, duc de Richelieu",http://www.wikidata.org/entity/Q26702,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7317,Giuseppe Verdi,http://www.wikidata.org/entity/Q7317,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37731,Usman ibn Affan,http://www.wikidata.org/entity/Q37731,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9559,John Major,http://www.wikidata.org/entity/Q9559,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q306,Sebastián Piñera,http://www.wikidata.org/entity/Q306,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22316,John Kerry,http://www.wikidata.org/entity/Q22316,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35648,William Howard Taft,http://www.wikidata.org/entity/Q35648,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37621,Thomas Hobbes,http://www.wikidata.org/entity/Q37621,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10664,Neville Chamberlain,http://www.wikidata.org/entity/Q10664,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8619,Pierre Trudeau,http://www.wikidata.org/entity/Q8619,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11813,James Madison,http://www.wikidata.org/entity/Q11813,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34105,Hosni Mubarak,http://www.wikidata.org/entity/Q34105,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12706,Maxim Gorky,http://www.wikidata.org/entity/Q12706,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11816,John Quincy Adams,http://www.wikidata.org/entity/Q11816,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1463,Ferdinand Marcos,http://www.wikidata.org/entity/Q1463,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11869,William Henry Harrison,http://www.wikidata.org/entity/Q11869,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34597,James A. Garfield,http://www.wikidata.org/entity/Q34597,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35678,Benjamin Harrison,http://www.wikidata.org/entity/Q35678,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2492,Konrad Adenauer,http://www.wikidata.org/entity/Q2492,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15975,Montesquieu,http://www.wikidata.org/entity/Q15975,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33168,K. Chandrashekar Rao,http://www.wikidata.org/entity/Q33168,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9317,John Maynard Keynes,http://www.wikidata.org/entity/Q9317,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1253,Ban Ki-moon,http://www.wikidata.org/entity/Q1253,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8612,Andrew Johnson,http://www.wikidata.org/entity/Q8612,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16019,Wolfgang Schäuble,http://www.wikidata.org/entity/Q16019,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36517,Francis Drake,http://www.wikidata.org/entity/Q36517,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q444,Lech Wałęsa,http://www.wikidata.org/entity/Q444,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10088,Tipu Sultan,http://www.wikidata.org/entity/Q10088,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10707,Robert Mugabe,http://www.wikidata.org/entity/Q10707,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9123,Ernest Rutherford,http://www.wikidata.org/entity/Q9123,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9294,Ibn Khaldun,http://www.wikidata.org/entity/Q9294,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17410,Zhou Enlai,http://www.wikidata.org/entity/Q17410,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11881,John Tyler,http://www.wikidata.org/entity/Q11881,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14362,Chun Doo-hwan,http://www.wikidata.org/entity/Q14362,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1419,Vespasian,http://www.wikidata.org/entity/Q1419,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11237,Nelson Rockefeller,http://www.wikidata.org/entity/Q11237,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34448,Mahmoud Ahmadinejad,http://www.wikidata.org/entity/Q34448,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12325,James Buchanan,http://www.wikidata.org/entity/Q12325,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7758,Charles X of France,http://www.wikidata.org/entity/Q7758,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28730,Saul,http://www.wikidata.org/entity/Q28730,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1220,Giorgio Napolitano,http://www.wikidata.org/entity/Q1220,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2607,Erich Honecker,http://www.wikidata.org/entity/Q2607,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11820,Martin Van Buren,http://www.wikidata.org/entity/Q11820,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1442,Septimius Severus,http://www.wikidata.org/entity/Q1442,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4631,Mohamed Morsi,http://www.wikidata.org/entity/Q4631,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14356,Park Chung Hee,http://www.wikidata.org/entity/Q14356,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q885,Józef Piłsudski,http://www.wikidata.org/entity/Q885,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36488,Guglielmo Marconi,http://www.wikidata.org/entity/Q36488,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17141,Harvey Milk,http://www.wikidata.org/entity/Q17141,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10648,Gordon Brown,http://www.wikidata.org/entity/Q10648,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q607,Michael Bloomberg,http://www.wikidata.org/entity/Q607,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1421,Titus,http://www.wikidata.org/entity/Q1421,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11270,Fulgencio Batista,http://www.wikidata.org/entity/Q11270,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q21822,Bo Xilai,http://www.wikidata.org/entity/Q21822,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2514,Willy Brandt,http://www.wikidata.org/entity/Q2514,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1446,Caracalla,http://www.wikidata.org/entity/Q1446,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2516,Helmut Schmidt,http://www.wikidata.org/entity/Q2516,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q6694,Alexander von Humboldt,http://www.wikidata.org/entity/Q6694,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7311,Giacomo Puccini,http://www.wikidata.org/entity/Q7311,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2518,Helmut Kohl,http://www.wikidata.org/entity/Q2518,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19216,Ma Ying-jeou,http://www.wikidata.org/entity/Q19216,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1423,Domitian,http://www.wikidata.org/entity/Q1423,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2530,Gerhard Schröder,http://www.wikidata.org/entity/Q2530,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29207,Sauli Niinistö,http://www.wikidata.org/entity/Q29207,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11891,James K. Polk,http://www.wikidata.org/entity/Q11891,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11815,James Monroe,http://www.wikidata.org/entity/Q11815,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1254,Kofi Annan,http://www.wikidata.org/entity/Q1254,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16004,"Henri, Grand Duke of Luxembourg",http://www.wikidata.org/entity/Q16004,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9094,José Mujica,http://www.wikidata.org/entity/Q9094,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7726,Joseph Bonaparte,http://www.wikidata.org/entity/Q7726,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q21001,Moon Jae-in,http://www.wikidata.org/entity/Q21001,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5829,Jean-Luc Mélenchon,http://www.wikidata.org/entity/Q5829,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22212,Lindsey Graham,http://www.wikidata.org/entity/Q22212,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q39318,Naftali Bennett,http://www.wikidata.org/entity/Q39318,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9045,Chanakya,http://www.wikidata.org/entity/Q9045,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5683,Geoffrey Chaucer,http://www.wikidata.org/entity/Q5683,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7177,Jean-Marie Le Pen,http://www.wikidata.org/entity/Q7177,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35498,Chester A. Arthur,http://www.wikidata.org/entity/Q35498,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12312,Franklin Pierce,http://www.wikidata.org/entity/Q12312,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12971,Leopold I of Belgium,http://www.wikidata.org/entity/Q12971,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2757,Lech Kaczyński,http://www.wikidata.org/entity/Q2757,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36233,Václav Havel,http://www.wikidata.org/entity/Q36233,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11153,John Roberts,http://www.wikidata.org/entity/Q11153,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12306,Millard Fillmore,http://www.wikidata.org/entity/Q12306,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7729,Louis Bonaparte,http://www.wikidata.org/entity/Q7729,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12973,Leopold III of Belgium,http://www.wikidata.org/entity/Q12973,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1429,Antoninus Pius,http://www.wikidata.org/entity/Q1429,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12665,"Robert Baden-Powell, 1st Baron Baden-Powell",http://www.wikidata.org/entity/Q12665,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19658,Cenk Uygur,http://www.wikidata.org/entity/Q19658,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37682,Sejong the Great,http://www.wikidata.org/entity/Q37682,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q939,Pedro I of Brazil,http://www.wikidata.org/entity/Q939,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1267,Dag Hammarskjöld,http://www.wikidata.org/entity/Q1267,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35686,Rutherford B. Hayes,http://www.wikidata.org/entity/Q35686,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2185,Georges Pompidou,http://www.wikidata.org/entity/Q2185,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16988,Liu Shaoqi,http://www.wikidata.org/entity/Q16988,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27645,Mikhail Bakunin,http://www.wikidata.org/entity/Q27645,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19825,Cecil Rhodes,http://www.wikidata.org/entity/Q19825,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2161,Tacitus,http://www.wikidata.org/entity/Q2161,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38849,Shintarō Ishihara,http://www.wikidata.org/entity/Q38849,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33941,Julian,http://www.wikidata.org/entity/Q33941,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36788,Abd al-Malik ibn Marwan,http://www.wikidata.org/entity/Q36788,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22368,Chen Shui-bian,http://www.wikidata.org/entity/Q22368,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37134,Frederick William III of Prussia,http://www.wikidata.org/entity/Q37134,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8620,Kwame Nkrumah,http://www.wikidata.org/entity/Q8620,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11673,Andrew Cuomo,http://www.wikidata.org/entity/Q11673,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1414,Galba,http://www.wikidata.org/entity/Q1414,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36965,Ante Pavelić,http://www.wikidata.org/entity/Q36965,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5752,Peter Kropotkin,http://www.wikidata.org/entity/Q5752,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8058,Louis XI of France,http://www.wikidata.org/entity/Q8058,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15257,Ron Paul,http://www.wikidata.org/entity/Q15257,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16628,Wen Jiabao,http://www.wikidata.org/entity/Q16628,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2628,Walter Ulbricht,http://www.wikidata.org/entity/Q2628,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1436,Pertinax,http://www.wikidata.org/entity/Q1436,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28591,David Petraeus,http://www.wikidata.org/entity/Q28591,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9575,Harivansh Rai Bachchan,http://www.wikidata.org/entity/Q9575,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19581,Rafael Correa,http://www.wikidata.org/entity/Q19581,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9576,James Callaghan,http://www.wikidata.org/entity/Q9576,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32681,Frans Timmermans,http://www.wikidata.org/entity/Q32681,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1417,Vitellius,http://www.wikidata.org/entity/Q1417,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22303,Wang Jingwei,http://www.wikidata.org/entity/Q22303,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15850,Oleksandr Turchynov,http://www.wikidata.org/entity/Q15850,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18113,Wang Qishan,http://www.wikidata.org/entity/Q18113,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1777,Maximinus Thrax,http://www.wikidata.org/entity/Q1777,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14345,Roh Moo-hyun,http://www.wikidata.org/entity/Q14345,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2646,Friedrich Ebert,http://www.wikidata.org/entity/Q2646,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q206,Stephen Harper,http://www.wikidata.org/entity/Q206,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28935,Poros,http://www.wikidata.org/entity/Q28935,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1769,Severus Alexander,http://www.wikidata.org/entity/Q1769,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10819,Mariano Rajoy,http://www.wikidata.org/entity/Q10819,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18434,Léon Blum,http://www.wikidata.org/entity/Q18434,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2190,Coluche,http://www.wikidata.org/entity/Q2190,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26419,Justin Welby,http://www.wikidata.org/entity/Q26419,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7321,Jacques Cartier,http://www.wikidata.org/entity/Q7321,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29050,Mohammad Hatta,http://www.wikidata.org/entity/Q29050,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5738,Adolphe Thiers,http://www.wikidata.org/entity/Q5738,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15866,Curtis LeMay,http://www.wikidata.org/entity/Q15866,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29230,Martti Ahtisaari,http://www.wikidata.org/entity/Q29230,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12839,Cem Özdemir,http://www.wikidata.org/entity/Q12839,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38484,Romano Prodi,http://www.wikidata.org/entity/Q38484,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1260,Kurt Waldheim,http://www.wikidata.org/entity/Q1260,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1064,Alessandro Manzoni,http://www.wikidata.org/entity/Q1064,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18285,Zhu Rongji,http://www.wikidata.org/entity/Q18285,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1433,Lucius Verus,http://www.wikidata.org/entity/Q1433,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25238,Thubten Gyatso,http://www.wikidata.org/entity/Q25238,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31066,Al-Mansur,http://www.wikidata.org/entity/Q31066,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5749,Pierre-Joseph Proudhon,http://www.wikidata.org/entity/Q5749,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29000,Abd ar-Rahman I,http://www.wikidata.org/entity/Q29000,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20148,Zhang Xueliang,http://www.wikidata.org/entity/Q20148,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1257,Boutros Boutros-Ghali,http://www.wikidata.org/entity/Q1257,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28959,Han Fei,http://www.wikidata.org/entity/Q28959,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1440,Didius Julianus,http://www.wikidata.org/entity/Q1440,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18301,Li Peng,http://www.wikidata.org/entity/Q18301,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11734,Engelbert Dollfuss,http://www.wikidata.org/entity/Q11734,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12688,Jean Jaurès,http://www.wikidata.org/entity/Q12688,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19008,Arthur Balfour,http://www.wikidata.org/entity/Q19008,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1233,Sandro Pertini,http://www.wikidata.org/entity/Q1233,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2602,Egon Krenz,http://www.wikidata.org/entity/Q2602,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2496,Ludwig Erhard,http://www.wikidata.org/entity/Q2496,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1503,Manuel L. Quezon,http://www.wikidata.org/entity/Q1503,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1230,Francesco Cossiga,http://www.wikidata.org/entity/Q1230,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1464,Benigno Aquino III,http://www.wikidata.org/entity/Q1464,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1817,Philip the Arab,http://www.wikidata.org/entity/Q1817,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14342,Lee Myung-bak,http://www.wikidata.org/entity/Q14342,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1830,Decius,http://www.wikidata.org/entity/Q1830,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12956,Gérard Collomb,http://www.wikidata.org/entity/Q12956,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10240,Dadabhai Naoroji,http://www.wikidata.org/entity/Q10240,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1752,Macrinus,http://www.wikidata.org/entity/Q1752,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28930,Bernardo O'Higgins,http://www.wikidata.org/entity/Q28930,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2512,Kurt Georg Kiesinger,http://www.wikidata.org/entity/Q2512,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16849,Matti Nykänen,http://www.wikidata.org/entity/Q16849,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11702,John Boehner,http://www.wikidata.org/entity/Q11702,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37217,Fyodor Tyutchev,http://www.wikidata.org/entity/Q37217,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15981,Robert Schuman,http://www.wikidata.org/entity/Q15981,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22513,Zhu De,http://www.wikidata.org/entity/Q22513,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16285,Mario Benedetti,http://www.wikidata.org/entity/Q16285,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23380,Jean-Auguste-Dominique Ingres,http://www.wikidata.org/entity/Q23380,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11675,Eliot Spitzer,http://www.wikidata.org/entity/Q11675,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15859,Lotf Ali Khan,http://www.wikidata.org/entity/Q15859,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23368,Chris Patten,http://www.wikidata.org/entity/Q23368,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36020,Su Shi,http://www.wikidata.org/entity/Q36020,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9700,Emperor Gaozu of Tang,http://www.wikidata.org/entity/Q9700,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10287,Manuel Valls,http://www.wikidata.org/entity/Q10287,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27764,Louis Antoine de Saint-Just,http://www.wikidata.org/entity/Q27764,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19080,Vasco Núñez de Balboa,http://www.wikidata.org/entity/Q19080,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26177,Khusrau Mirza,http://www.wikidata.org/entity/Q26177,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4128,Louis Aragon,http://www.wikidata.org/entity/Q4128,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2538,Joachim Gauck,http://www.wikidata.org/entity/Q2538,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36878,Rasul Gamzatov,http://www.wikidata.org/entity/Q36878,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12963,François Bayrou,http://www.wikidata.org/entity/Q12963,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36760,David IV of Georgia,http://www.wikidata.org/entity/Q36760,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29032,Miloš Zeman,http://www.wikidata.org/entity/Q29032,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28517,Todor Zhivkov,http://www.wikidata.org/entity/Q28517,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15988,"Jean, Grand Duke of Luxembourg",http://www.wikidata.org/entity/Q15988,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28899,Diponegoro,http://www.wikidata.org/entity/Q28899,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2567,Richard von Weizsäcker,http://www.wikidata.org/entity/Q2567,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1056,Italo Balbo,http://www.wikidata.org/entity/Q1056,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1224,Carlo Azeglio Ciampi,http://www.wikidata.org/entity/Q1224,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26853,Camilo Cienfuegos,http://www.wikidata.org/entity/Q26853,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11124,Stephen Breyer,http://www.wikidata.org/entity/Q11124,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1812,Gordian III,http://www.wikidata.org/entity/Q1812,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35448,Pyotr Krasnov,http://www.wikidata.org/entity/Q35448,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2540,Christian Wulff,http://www.wikidata.org/entity/Q2540,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1264,U Thant,http://www.wikidata.org/entity/Q1264,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3048,Charles Maurras,http://www.wikidata.org/entity/Q3048,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2594,Theodor Heuss,http://www.wikidata.org/entity/Q2594,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20297,Li Zongren,http://www.wikidata.org/entity/Q20297,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13003,Arturo Toscanini,http://www.wikidata.org/entity/Q13003,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11171,Anthony Kennedy,http://www.wikidata.org/entity/Q11171,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12680,Paul Doumer,http://www.wikidata.org/entity/Q12680,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34982,João Goulart,http://www.wikidata.org/entity/Q34982,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26919,Jaber II Al-Sabah,http://www.wikidata.org/entity/Q26919,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q6701,Jacob Grimm,http://www.wikidata.org/entity/Q6701,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11665,José Ramos-Horta,http://www.wikidata.org/entity/Q11665,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7418,Emperor Wen of Sui,http://www.wikidata.org/entity/Q7418,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13021,Vinoba Bhave,http://www.wikidata.org/entity/Q13021,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12959,Édouard Balladur,http://www.wikidata.org/entity/Q12959,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37677,Francisco Solano López,http://www.wikidata.org/entity/Q37677,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17905,Martin Schulz,http://www.wikidata.org/entity/Q17905,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11607,"Jon Huntsman, Jr.",http://www.wikidata.org/entity/Q11607,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15849,José Manuel Durão Barroso,http://www.wikidata.org/entity/Q15849,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2542,Horst Köhler,http://www.wikidata.org/entity/Q2542,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5444,Pietro Mennea,http://www.wikidata.org/entity/Q5444,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q335,Patricio Aylwin,http://www.wikidata.org/entity/Q335,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34074,Jovian,http://www.wikidata.org/entity/Q34074,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1228,Oscar Luigi Scalfaro,http://www.wikidata.org/entity/Q1228,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31556,Phocas,http://www.wikidata.org/entity/Q31556,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12696,Nitobe Inazō,http://www.wikidata.org/entity/Q12696,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11509,Xanana Gusmão,http://www.wikidata.org/entity/Q11509,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1242,Luigi Einaudi,http://www.wikidata.org/entity/Q1242,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7981,Lluís Companys,http://www.wikidata.org/entity/Q7981,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12946,Michel Rocard,http://www.wikidata.org/entity/Q12946,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38987,Tony Tan Keng Yam,http://www.wikidata.org/entity/Q38987,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1235,Giovanni Leone,http://www.wikidata.org/entity/Q1235,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29021,Mauno Koivisto,http://www.wikidata.org/entity/Q29021,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1797,Pupienus,http://www.wikidata.org/entity/Q1797,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18809,Anatoly Lunacharsky,http://www.wikidata.org/entity/Q18809,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1259,Javier Pérez de Cuéllar,http://www.wikidata.org/entity/Q1259,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11762,Jürgen Trittin,http://www.wikidata.org/entity/Q11762,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23333,Gough Whitlam,http://www.wikidata.org/entity/Q23333,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4413,Alpha Condé,http://www.wikidata.org/entity/Q4413,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2571,Walter Scheel,http://www.wikidata.org/entity/Q2571,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25260,Dalai Lama 01 Gendun Drubpa,http://www.wikidata.org/entity/Q25260,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q39168,"Harold Alexander, 1st Earl Alexander of Tunis",http://www.wikidata.org/entity/Q39168,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4414,Faure Essozimna Gnassingbé,http://www.wikidata.org/entity/Q4414,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1271,Trygve Lie,http://www.wikidata.org/entity/Q1271,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26486,Ladislaus I of Hungary,http://www.wikidata.org/entity/Q26486,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11669,Mark Sanford,http://www.wikidata.org/entity/Q11669,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1245,Enrico de Nicola,http://www.wikidata.org/entity/Q1245,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12940,Jacques Chaban-Delmas,http://www.wikidata.org/entity/Q12940,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10873,Leo von Caprivi,http://www.wikidata.org/entity/Q10873,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25351,Theodor Mommsen,http://www.wikidata.org/entity/Q25351,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2551,Johannes Rau,http://www.wikidata.org/entity/Q2551,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2767,Daniel Morgan,http://www.wikidata.org/entity/Q2767,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15048,Elio Di Rupo,http://www.wikidata.org/entity/Q15048,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1238,Giuseppe Saragat,http://www.wikidata.org/entity/Q1238,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12937,Georges Fenech,http://www.wikidata.org/entity/Q12937,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9099,Tabaré Vázquez,http://www.wikidata.org/entity/Q9099,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q331,Ricardo Lagos,http://www.wikidata.org/entity/Q331,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32133,Lysimachus,http://www.wikidata.org/entity/Q32133,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11676,George Pataki,http://www.wikidata.org/entity/Q11676,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10652,Alex Salmond,http://www.wikidata.org/entity/Q10652,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34063,José Gaspar Rodríguez de Francia,http://www.wikidata.org/entity/Q34063,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14980,Dmitry of Uglich,http://www.wikidata.org/entity/Q14980,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37097,Manuel II Palaiologos,http://www.wikidata.org/entity/Q37097,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24682,Sadeq Larijani,http://www.wikidata.org/entity/Q24682,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15027,Tung Chee Hwa,http://www.wikidata.org/entity/Q15027,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1424,Nerva,http://www.wikidata.org/entity/Q1424,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2610,Willi Stoph,http://www.wikidata.org/entity/Q2610,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28468,Mieszko II,http://www.wikidata.org/entity/Q28468,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12972,François Asselineau,http://www.wikidata.org/entity/Q12972,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33031,Vojislav Koštunica,http://www.wikidata.org/entity/Q33031,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5819,José Bové,http://www.wikidata.org/entity/Q5819,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23375,John Curtin,http://www.wikidata.org/entity/Q23375,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37135,Isaac II Angelos,http://www.wikidata.org/entity/Q37135,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31845,Arrian,http://www.wikidata.org/entity/Q31845,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15756,Dmitry Pozharsky,http://www.wikidata.org/entity/Q15756,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q475,Eduardo Frei Montalva,http://www.wikidata.org/entity/Q475,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q326,Eduardo Frei Ruiz-Tagle,http://www.wikidata.org/entity/Q326,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2563,Roman Herzog,http://www.wikidata.org/entity/Q2563,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12961,Nicolas Dupont-Aignan,http://www.wikidata.org/entity/Q12961,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7711,Jean-Marc Ayrault,http://www.wikidata.org/entity/Q7711,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2573,Gustav Heinemann,http://www.wikidata.org/entity/Q2573,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12978,Guy Verhofstadt,http://www.wikidata.org/entity/Q12978,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11726,Karl Renner,http://www.wikidata.org/entity/Q11726,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15023,CY Leung,http://www.wikidata.org/entity/Q15023,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1240,Antonio Segni,http://www.wikidata.org/entity/Q1240,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2582,Heinrich Lübke,http://www.wikidata.org/entity/Q2582,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15024,Donald Tsang,http://www.wikidata.org/entity/Q15024,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32027,Dost Mohammad Khan,http://www.wikidata.org/entity/Q32027,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28938,Alfred von Schlieffen,http://www.wikidata.org/entity/Q28938,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12950,Alain Poher,http://www.wikidata.org/entity/Q12950,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11674,David Paterson,http://www.wikidata.org/entity/Q11674,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26370,Raja Ramanna,http://www.wikidata.org/entity/Q26370,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11100,Deval Patrick,http://www.wikidata.org/entity/Q11100,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24194,Andrey Sheptytsky,http://www.wikidata.org/entity/Q24194,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26922,Sabah I bin Jaber,http://www.wikidata.org/entity/Q26922,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13515,Frédéric Bastiat,http://www.wikidata.org/entity/Q13515,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26926,Muhammad bin Sabah Al-Sabah,http://www.wikidata.org/entity/Q26926,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31649,Abdur Rahman Khan,http://www.wikidata.org/entity/Q31649,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28495,"Francis, Duke of Guise",http://www.wikidata.org/entity/Q28495,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q30594,Konstantinos IX Monomachos,http://www.wikidata.org/entity/Q30594,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12957,Raymond Barre,http://www.wikidata.org/entity/Q12957,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25240,Trinle Gyatso,http://www.wikidata.org/entity/Q25240,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12983,Herman Van Rompuy,http://www.wikidata.org/entity/Q12983,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1241,Giovanni Gronchi,http://www.wikidata.org/entity/Q1241,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31491,Tiberius II Constantine,http://www.wikidata.org/entity/Q31491,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25252,Ngawang Lobzang Gyatso,http://www.wikidata.org/entity/Q25252,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8863,Klaus Wowereit,http://www.wikidata.org/entity/Q8863,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7301,Prince of Hongnong,http://www.wikidata.org/entity/Q7301,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26326,Duncan I of Scotland,http://www.wikidata.org/entity/Q26326,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q579,Carlos Ibáñez del Campo,http://www.wikidata.org/entity/Q579,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31494,Mahmud Hotaki,http://www.wikidata.org/entity/Q31494,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24692,Almazbek Atambayev,http://www.wikidata.org/entity/Q24692,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28978,Ignacy Łukasiewicz,http://www.wikidata.org/entity/Q28978,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31112,Bill Frist,http://www.wikidata.org/entity/Q31112,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8781,Henrique Capriles Radonski,http://www.wikidata.org/entity/Q8781,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18404,Henri Barbusse,http://www.wikidata.org/entity/Q18404,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1805,Balbinus,http://www.wikidata.org/entity/Q1805,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2569,Karl Carstens,http://www.wikidata.org/entity/Q2569,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25483,Todd Young,http://www.wikidata.org/entity/Q25483,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19248,Senusret III,http://www.wikidata.org/entity/Q19248,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8540,Ayurbarwada Buyantu Khan,http://www.wikidata.org/entity/Q8540,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13702,Moctezuma I,http://www.wikidata.org/entity/Q13702,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12002,Alberto Lleras Camargo,http://www.wikidata.org/entity/Q12002,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4715,Moncef Marzouki,http://www.wikidata.org/entity/Q4715,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18771,Amenemhat I,http://www.wikidata.org/entity/Q18771,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34935,Muhammad Rafiq Tarar,http://www.wikidata.org/entity/Q34935,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26206,Klaus Ernst,http://www.wikidata.org/entity/Q26206,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29896,"Mir Qamar-ud-din Siddiqui, Chin Quilich Khan, Nizam-ul-Mulk Asaf Jah",http://www.wikidata.org/entity/Q29896,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35786,Petr Nečas,http://www.wikidata.org/entity/Q35786,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31793,Franz Xaver Schwarz,http://www.wikidata.org/entity/Q31793,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19796,Cai Yuanpei,http://www.wikidata.org/entity/Q19796,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33566,Sima Guang,http://www.wikidata.org/entity/Q33566,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12149,Thein Sein,http://www.wikidata.org/entity/Q12149,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15542,Jefferson Pérez,http://www.wikidata.org/entity/Q15542,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18425,Marcellin Berthelot,http://www.wikidata.org/entity/Q18425,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23342,Edmund Barton,http://www.wikidata.org/entity/Q23342,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29110,Paavo Lipponen,http://www.wikidata.org/entity/Q29110,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25672,Alexander von Benckendorff,http://www.wikidata.org/entity/Q25672,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8015,Artur Mas,http://www.wikidata.org/entity/Q8015,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q576,Jorge Alessandri,http://www.wikidata.org/entity/Q576,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24801,Antoni Martí,http://www.wikidata.org/entity/Q24801,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15145,José Batlle y Ordóñez,http://www.wikidata.org/entity/Q15145,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7999,Lluís Llach,http://www.wikidata.org/entity/Q7999,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12769,Willem Drees,http://www.wikidata.org/entity/Q12769,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24015,Steve Bullock,http://www.wikidata.org/entity/Q24015,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17577,Joseph Gallieni,http://www.wikidata.org/entity/Q17577,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13005,Ba Jin,http://www.wikidata.org/entity/Q13005,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11987,Assis Chateaubriand,http://www.wikidata.org/entity/Q11987,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11753,Heinz Fischer,http://www.wikidata.org/entity/Q11753,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20127,Wilhelm Liebknecht,http://www.wikidata.org/entity/Q20127,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25766,Holger Apfel,http://www.wikidata.org/entity/Q25766,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12932,Olivier Besancenot,http://www.wikidata.org/entity/Q12932,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24631,"George Hamilton-Gordon, 4th Earl of Aberdeen",http://www.wikidata.org/entity/Q24631,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8005,Josep Tarradellas i Joan,http://www.wikidata.org/entity/Q8005,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11362,Avempace,http://www.wikidata.org/entity/Q11362,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36150,Sergei Lebedev,http://www.wikidata.org/entity/Q36150,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2601,Manfred Gerlach,http://www.wikidata.org/entity/Q2601,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12077,Carlos Lacerda,http://www.wikidata.org/entity/Q12077,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8664,Rinchinbal Khan,http://www.wikidata.org/entity/Q8664,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34481,Francesco Morosini,http://www.wikidata.org/entity/Q34481,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31647,Bezprym,http://www.wikidata.org/entity/Q31647,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29427,Yitzhak Mordechai,http://www.wikidata.org/entity/Q29427,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15809,Ivan Cankar,http://www.wikidata.org/entity/Q15809,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25256,Sonam Gyatso,http://www.wikidata.org/entity/Q25256,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14430,Ignacy Daszyński,http://www.wikidata.org/entity/Q14430,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q815,Gabriel Gonzáles Videla,http://www.wikidata.org/entity/Q815,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1322,José Manuel Balmaceda,http://www.wikidata.org/entity/Q1322,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1275,Gladwyn Jebb,http://www.wikidata.org/entity/Q1275,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q848,Arturo Alessandri,http://www.wikidata.org/entity/Q848,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q845,Pedro Aguirre Cerda,http://www.wikidata.org/entity/Q845,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34601,Chilon of Sparta,http://www.wikidata.org/entity/Q34601,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12981,Yves Leterme,http://www.wikidata.org/entity/Q12981,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25259,Dalai Lama 02 Gendun Gyatso,http://www.wikidata.org/entity/Q25259,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q39311,Pat McCrory,http://www.wikidata.org/entity/Q39311,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5959,Quintus Curtius Rufus,http://www.wikidata.org/entity/Q5959,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22803,Park Won-soon,http://www.wikidata.org/entity/Q22803,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7360,Sima Lun,http://www.wikidata.org/entity/Q7360,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31543,Ismail Petra of Kelantan,http://www.wikidata.org/entity/Q31543,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25244,Dalai Lama 10 Tsultrim Gyatso,http://www.wikidata.org/entity/Q25244,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29196,Thomas Boni Yayi,http://www.wikidata.org/entity/Q29196,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1803,Gordian II,http://www.wikidata.org/entity/Q1803,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22201,Jim DeMint,http://www.wikidata.org/entity/Q22201,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29024,Esko Aho,http://www.wikidata.org/entity/Q29024,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15056,Jean-Luc Dehaene,http://www.wikidata.org/entity/Q15056,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23379,Ben Chifley,http://www.wikidata.org/entity/Q23379,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18722,Senusret II,http://www.wikidata.org/entity/Q18722,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25246,Dalai Lama 09 Lungtok Gyatso,http://www.wikidata.org/entity/Q25246,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25520,Iyad Ag Ghaly,http://www.wikidata.org/entity/Q25520,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11715,Leopold Figl,http://www.wikidata.org/entity/Q11715,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11664,Mari Alkatiri,http://www.wikidata.org/entity/Q11664,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22755,Silvio Gesell,http://www.wikidata.org/entity/Q22755,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25249,Kelzang Gyatso,http://www.wikidata.org/entity/Q25249,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14281,Giovanni Schiaparelli,http://www.wikidata.org/entity/Q14281,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q39015,Harlem Désir,http://www.wikidata.org/entity/Q39015,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12865,Bertalan Farkas,http://www.wikidata.org/entity/Q12865,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11730,Otto Bauer,http://www.wikidata.org/entity/Q11730,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26776,Momčilo Krajišnik,http://www.wikidata.org/entity/Q26776,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24737,Jagatjit Singh I of Kapurthala,http://www.wikidata.org/entity/Q24737,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28779,"Íñigo López de Mendoza, 1st Marquis of Santillana",http://www.wikidata.org/entity/Q28779,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15462,William Hamilton,http://www.wikidata.org/entity/Q15462,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36111,Mate Boban,http://www.wikidata.org/entity/Q36111,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25255,Yonten Gyatso,http://www.wikidata.org/entity/Q25255,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15147,Jorge Batlle Ibáñez,http://www.wikidata.org/entity/Q15147,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3745,Ahmad Heryawan,http://www.wikidata.org/entity/Q3745,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5327,Adolf Butenandt,http://www.wikidata.org/entity/Q5327,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17585,Jia Chong,http://www.wikidata.org/entity/Q17585,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18734,Amenemhat II,http://www.wikidata.org/entity/Q18734,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12938,Alain Krivine,http://www.wikidata.org/entity/Q12938,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4737,Porfirio Lobo Sosa,http://www.wikidata.org/entity/Q4737,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24037,B. Y. Raghavendra,http://www.wikidata.org/entity/Q24037,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27826,Zhang Yang,http://www.wikidata.org/entity/Q27826,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25248,Jamphel Gyatso,http://www.wikidata.org/entity/Q25248,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19220,Henry Tang,http://www.wikidata.org/entity/Q19220,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19062,Raed Arafat,http://www.wikidata.org/entity/Q19062,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23386,John McEwen,http://www.wikidata.org/entity/Q23386,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27606,Grand Duke Dimitri Constantinovich of Russia,http://www.wikidata.org/entity/Q27606,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12750,Josep Puig i Cadafalch,http://www.wikidata.org/entity/Q12750,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11671,David Beasley,http://www.wikidata.org/entity/Q11671,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18806,Franz Mehring,http://www.wikidata.org/entity/Q18806,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19225,John Tsang,http://www.wikidata.org/entity/Q19225,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32726,Michael Grimm,http://www.wikidata.org/entity/Q32726,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27503,Chang Wanquan,http://www.wikidata.org/entity/Q27503,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19246,Amenemhat IV,http://www.wikidata.org/entity/Q19246,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1331,Manuel Blanco Encalada,http://www.wikidata.org/entity/Q1331,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24598,Bob Brown,http://www.wikidata.org/entity/Q24598,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4247,Rodolphe Töpffer,http://www.wikidata.org/entity/Q4247,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31280,Archbishop Damaskinos Papandreou,http://www.wikidata.org/entity/Q31280,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19152,Szeto Wah,http://www.wikidata.org/entity/Q19152,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18798,Géza Lakatos,http://www.wikidata.org/entity/Q18798,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1332,Ramón Freire,http://www.wikidata.org/entity/Q1332,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24876,Bukichi Miki,http://www.wikidata.org/entity/Q24876,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31800,Bolkiah of Brunei,http://www.wikidata.org/entity/Q31800,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28531,Guy,http://www.wikidata.org/entity/Q28531,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5208,Huang Xianfan,http://www.wikidata.org/entity/Q5208,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12969,Jacques Cheminade,http://www.wikidata.org/entity/Q12969,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12702,Robert Cecil,http://www.wikidata.org/entity/Q12702,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4381,Carlos Pellicer,http://www.wikidata.org/entity/Q4381,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23347,Chris Watson,http://www.wikidata.org/entity/Q23347,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1328,Manuel Montt,http://www.wikidata.org/entity/Q1328,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19831,Peter Lilley,http://www.wikidata.org/entity/Q19831,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31236,Reinhard Bütikofer,http://www.wikidata.org/entity/Q31236,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32210,Manuel Mondragón,http://www.wikidata.org/entity/Q32210,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29089,Sharif Ali of Brunei,http://www.wikidata.org/entity/Q29089,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32777,Vladimír Špidla,http://www.wikidata.org/entity/Q32777,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23626,Albert Ho,http://www.wikidata.org/entity/Q23626,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9509,Piero Gros,http://www.wikidata.org/entity/Q9509,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1324,Aníbal Pinto,http://www.wikidata.org/entity/Q1324,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1329,Manuel Bulnes,http://www.wikidata.org/entity/Q1329,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12000,Carlos Víctor Aramayo,http://www.wikidata.org/entity/Q12000,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23944,Mark Amodei,http://www.wikidata.org/entity/Q23944,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q820,Juan Antonio Rios,http://www.wikidata.org/entity/Q820,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27357,Francisco de Paula Martínez de la Rosa y Berdejo,http://www.wikidata.org/entity/Q27357,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38804,Kim Yong-chun,http://www.wikidata.org/entity/Q38804,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23358,Stanley Bruce,http://www.wikidata.org/entity/Q23358,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1628,"David Cecil, 6th Marquess of Exeter",http://www.wikidata.org/entity/Q1628,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9226,Öljei Temür Khan,http://www.wikidata.org/entity/Q9226,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18988,"Arnulf II, count of Flanders",http://www.wikidata.org/entity/Q18988,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37679,Isaias Zapatta,http://www.wikidata.org/entity/Q37679,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23369,Arthur Fadden,http://www.wikidata.org/entity/Q23369,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13014,Franz Jonas,http://www.wikidata.org/entity/Q13014,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32219,Jan Vapaavuori,http://www.wikidata.org/entity/Q32219,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14999,Gaston Eyskens,http://www.wikidata.org/entity/Q14999,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18712,György Klapka,http://www.wikidata.org/entity/Q18712,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q35451,Theron of Acragas,http://www.wikidata.org/entity/Q35451,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9399,Silvius Magnago,http://www.wikidata.org/entity/Q9399,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q30556,Abbad II al-Mu'tadid,http://www.wikidata.org/entity/Q30556,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9379,Luis Durnwalder,http://www.wikidata.org/entity/Q9379,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26207,Hugh Dalton,http://www.wikidata.org/entity/Q26207,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23641,Lee Cheuk-yan,http://www.wikidata.org/entity/Q23641,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7265,Liu Penzi,http://www.wikidata.org/entity/Q7265,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36742,Ignacy Potocki,http://www.wikidata.org/entity/Q36742,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27108,Alexander Spotswood,http://www.wikidata.org/entity/Q27108,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15002,Leo Tindemans,http://www.wikidata.org/entity/Q15002,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1298,Pedro Montt,http://www.wikidata.org/entity/Q1298,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8825,Gaius Cornelius Gallus,http://www.wikidata.org/entity/Q8825,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25690,"John Russell, 6th Duke of Bedford",http://www.wikidata.org/entity/Q25690,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29806,Moaz al-Khatib,http://www.wikidata.org/entity/Q29806,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7400,Emperor Jianwen of Jin,http://www.wikidata.org/entity/Q7400,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4318,Theopompus,http://www.wikidata.org/entity/Q4318,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1294,Ramón Barros Luco,http://www.wikidata.org/entity/Q1294,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25854,Miklós Bánffy,http://www.wikidata.org/entity/Q25854,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q39180,Giorgos Vasiliou,http://www.wikidata.org/entity/Q39180,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1330,José Joaquín Prieto,http://www.wikidata.org/entity/Q1330,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25568,Lou Barletta,http://www.wikidata.org/entity/Q25568,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23352,George Reid,http://www.wikidata.org/entity/Q23352,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19397,Alun Michael,http://www.wikidata.org/entity/Q19397,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23362,James Scullin,http://www.wikidata.org/entity/Q23362,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14733,Mika Kojonkoski,http://www.wikidata.org/entity/Q14733,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15993,Bart Somers,http://www.wikidata.org/entity/Q15993,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13982,Alberto Bayo,http://www.wikidata.org/entity/Q13982,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26668,Raymond Chan,http://www.wikidata.org/entity/Q26668,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31706,Einar Thambarskelfir,http://www.wikidata.org/entity/Q31706,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34426,Abdullah Ensour,http://www.wikidata.org/entity/Q34426,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q7394,Emperor Cheng of Jin,http://www.wikidata.org/entity/Q7394,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1323,Domingo Santa María,http://www.wikidata.org/entity/Q1323,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11735,Michael Spindelegger,http://www.wikidata.org/entity/Q11735,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28652,Abdul Majid Hassan of Brunei,http://www.wikidata.org/entity/Q28652,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11670,Jim Hodges,http://www.wikidata.org/entity/Q11670,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31781,Józef Bilczewski,http://www.wikidata.org/entity/Q31781,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29480,Mohammad Abu Zakariya Yahya,http://www.wikidata.org/entity/Q29480,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14996,Paul van Zeeland,http://www.wikidata.org/entity/Q14996,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15800,Fran Levstik,http://www.wikidata.org/entity/Q15800,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11782,Andreas Khol,http://www.wikidata.org/entity/Q11782,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14998,Camille Huysmans,http://www.wikidata.org/entity/Q14998,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27883,Zeki Pasha,http://www.wikidata.org/entity/Q27883,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1300,Germán Riesco,http://www.wikidata.org/entity/Q1300,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q9308,Bars Bolud Jinong,http://www.wikidata.org/entity/Q9308,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27514,George Sabra,http://www.wikidata.org/entity/Q27514,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14997,Achille Van Acker,http://www.wikidata.org/entity/Q14997,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12915,Amata Kabua,http://www.wikidata.org/entity/Q12915,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12869,Kris Peeters,http://www.wikidata.org/entity/Q12869,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12955,Michel Mercier,http://www.wikidata.org/entity/Q12955,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18913,Giuseppe Fiorelli,http://www.wikidata.org/entity/Q18913,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38281,"Hastings Russell, 12th Duke of Bedford",http://www.wikidata.org/entity/Q38281,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24579,Omurbek Babanov,http://www.wikidata.org/entity/Q24579,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1639,Lamine Diack,http://www.wikidata.org/entity/Q1639,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1327,José Joaquín Pérez,http://www.wikidata.org/entity/Q1327,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1326,Federico Errázuriz Zañartu,http://www.wikidata.org/entity/Q1326,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24039,Digby Jones,http://www.wikidata.org/entity/Q24039,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1625,Sigfrid Edström,http://www.wikidata.org/entity/Q1625,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31460,Takeuchi Meitarō,http://www.wikidata.org/entity/Q31460,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24243,Joe Heck,http://www.wikidata.org/entity/Q24243,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12960,Michel Jobert,http://www.wikidata.org/entity/Q12960,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15992,Patrick Dewael,http://www.wikidata.org/entity/Q15992,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1333,Francisco Antonio Pinto,http://www.wikidata.org/entity/Q1333,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20692,Aldgisl,http://www.wikidata.org/entity/Q20692,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3291,Leonid Razvozzhayev,http://www.wikidata.org/entity/Q3291,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29008,Alfons Gorbach,http://www.wikidata.org/entity/Q29008,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24230,Steven Palazzo,http://www.wikidata.org/entity/Q24230,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1320,Jorge Montt,http://www.wikidata.org/entity/Q1320,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11672,"Carroll A. Campbell, Jr.",http://www.wikidata.org/entity/Q11672,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32715,Bob Turner,http://www.wikidata.org/entity/Q32715,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q17889,John M. Clayton,http://www.wikidata.org/entity/Q17889,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1319,Federico Errázuriz Echaurren,http://www.wikidata.org/entity/Q1319,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18999,Junius Rusticus,http://www.wikidata.org/entity/Q18999,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16053,Melchior de Vogüé,http://www.wikidata.org/entity/Q16053,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36843,Walter Gross,http://www.wikidata.org/entity/Q36843,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24669,Ishenbai Kadyrbekov,http://www.wikidata.org/entity/Q24669,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32722,Chris Gibson,http://www.wikidata.org/entity/Q32722,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15803,Simon Jenko,http://www.wikidata.org/entity/Q15803,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11970,Carlos Dávila,http://www.wikidata.org/entity/Q11970,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31291,"Herbrand Russell, 11th Duke of Bedford",http://www.wikidata.org/entity/Q31291,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29232,Pascual de Andagoya,http://www.wikidata.org/entity/Q29232,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29031,Charles Oman,http://www.wikidata.org/entity/Q29031,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12498,Stefaan De Clerck,http://www.wikidata.org/entity/Q12498,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29081,Sultan Ahmad of Brunei,http://www.wikidata.org/entity/Q29081,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26471,Marcus Ummidius Quadratus Annianus,http://www.wikidata.org/entity/Q26471,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q857,Juan Luis Sanfuentes,http://www.wikidata.org/entity/Q857,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q651,Friedrich Theodor Vischer,http://www.wikidata.org/entity/Q651,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26560,Juan Bautista Gill,http://www.wikidata.org/entity/Q26560,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4487,Federico Gamboa,http://www.wikidata.org/entity/Q4487,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11952,Agustín Edwards Mac-Clure,http://www.wikidata.org/entity/Q11952,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12341,Roberto Noble,http://www.wikidata.org/entity/Q12341,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11960,Rafael Heliodoro Valle,http://www.wikidata.org/entity/Q11960,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11595,John Adair,http://www.wikidata.org/entity/Q11595,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12923,Jean-Louis Touraine,http://www.wikidata.org/entity/Q12923,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4837,Maciej Zieliński,http://www.wikidata.org/entity/Q4837,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12777,Joan Herrera i Torres,http://www.wikidata.org/entity/Q12777,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24082,Patrick Jenkin,http://www.wikidata.org/entity/Q24082,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14990,Henri Carton de Wiart,http://www.wikidata.org/entity/Q14990,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22939,Axel Fischer,http://www.wikidata.org/entity/Q22939,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38905,IImar Reepalu,http://www.wikidata.org/entity/Q38905,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31178,"Francis Russell, 9th Duke of Bedford",http://www.wikidata.org/entity/Q31178,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12499,Patrick Janssens,http://www.wikidata.org/entity/Q12499,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14993,Prosper Poullet,http://www.wikidata.org/entity/Q14993,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38308,"Thomas Thynne, 1st Marquess of Bath",http://www.wikidata.org/entity/Q38308,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38367,"Thomas Dewar, 1st Baron Dewar",http://www.wikidata.org/entity/Q38367,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25689,"Francis Russell, 7th Duke of Bedford",http://www.wikidata.org/entity/Q25689,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31876,Saiful Rijal of Brunei,http://www.wikidata.org/entity/Q31876,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28909,Mykolas Sleževičius,http://www.wikidata.org/entity/Q28909,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31865,Abdul Kahar of Brunei,http://www.wikidata.org/entity/Q31865,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4735,John Hamilton,http://www.wikidata.org/entity/Q4735,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24653,Apas Jumagulov,http://www.wikidata.org/entity/Q24653,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25687,"Francis Russell, 5th Duke of Bedford",http://www.wikidata.org/entity/Q25687,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4774,András Fáy,http://www.wikidata.org/entity/Q4774,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24250,Frank Guinta,http://www.wikidata.org/entity/Q24250,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31286,"Arthur Nicolson, 1st Baron Carnock",http://www.wikidata.org/entity/Q31286,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31889,Muhyiddin of Brunei,http://www.wikidata.org/entity/Q31889,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11732,Michael Mayr,http://www.wikidata.org/entity/Q11732,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q498,"Ulrich Frédéric Woldemar, Comte de Lowendal",http://www.wikidata.org/entity/Q498,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24575,Daniar Usenov,http://www.wikidata.org/entity/Q24575,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12921,Thierry Braillard,http://www.wikidata.org/entity/Q12921,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5447,Eddy Ottoz,http://www.wikidata.org/entity/Q5447,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4896,"William Hamilton, 3rd Duke of Hamilton",http://www.wikidata.org/entity/Q4896,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24671,Nikolai Tanayev,http://www.wikidata.org/entity/Q24671,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25569,Jaime Caruana,http://www.wikidata.org/entity/Q25569,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16182,Maurice Williamson,http://www.wikidata.org/entity/Q16182,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12320,Pedro Beltrán,http://www.wikidata.org/entity/Q12320,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34483,Nahid Kulenović,http://www.wikidata.org/entity/Q34483,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31810,Paul Hymans,http://www.wikidata.org/entity/Q31810,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12911,Christopher Loeak,http://www.wikidata.org/entity/Q12911,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29284,Gómez Manrique,http://www.wikidata.org/entity/Q29284,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31695,Håkon Grjotgardsson,http://www.wikidata.org/entity/Q31695,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26551,Salvador Jovellanos,http://www.wikidata.org/entity/Q26551,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12785,Joan Saura i Laporta,http://www.wikidata.org/entity/Q12785,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12944,François-Noël Buffet,http://www.wikidata.org/entity/Q12944,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3090,Guy Teissier,http://www.wikidata.org/entity/Q3090,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28530,"William II, Count of Flanders",http://www.wikidata.org/entity/Q28530,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15991,Luc Van den Brande,http://www.wikidata.org/entity/Q15991,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14989,Léon Delacroix,http://www.wikidata.org/entity/Q14989,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29035,Pascal Koupaki,http://www.wikidata.org/entity/Q29035,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32126,Victor Alter,http://www.wikidata.org/entity/Q32126,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12878,Tron Øgrim,http://www.wikidata.org/entity/Q12878,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32482,Hasan Mushaima,http://www.wikidata.org/entity/Q32482,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31516,Ivan Nosenko,http://www.wikidata.org/entity/Q31516,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15944,Walter Breisky,http://www.wikidata.org/entity/Q15944,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3288,John Gregg,http://www.wikidata.org/entity/Q3288,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14991,Georges Theunis,http://www.wikidata.org/entity/Q14991,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24757,Jonny Nilsson,http://www.wikidata.org/entity/Q24757,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31177,"George Russell, 10th Duke of Bedford",http://www.wikidata.org/entity/Q31177,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11722,Rudolf Ramek,http://www.wikidata.org/entity/Q11722,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13541,Tuomas Ketola,http://www.wikidata.org/entity/Q13541,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12914,Kessai Note,http://www.wikidata.org/entity/Q12914,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24530,"Thomas Robinson, 2nd Baron Grantham",http://www.wikidata.org/entity/Q24530,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11957,Enrique Santos Montejo,http://www.wikidata.org/entity/Q11957,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12917,Imata Kabua,http://www.wikidata.org/entity/Q12917,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31868,Shah Berunai of Brunei,http://www.wikidata.org/entity/Q31868,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31722,Jean-Louis Lefebvre de Cheverus,http://www.wikidata.org/entity/Q31722,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38200,John Thynne,http://www.wikidata.org/entity/Q38200,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16002,Jo Vandeurzen,http://www.wikidata.org/entity/Q16002,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26554,Higinio Uriarte,http://www.wikidata.org/entity/Q26554,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12500,Daniël Termont,http://www.wikidata.org/entity/Q12500,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24043,Alan Nunnelee,http://www.wikidata.org/entity/Q24043,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3271,Todd Russell Platts,http://www.wikidata.org/entity/Q3271,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34282,Alberto Vaquina,http://www.wikidata.org/entity/Q34282,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12925,Philippe Cochet,http://www.wikidata.org/entity/Q12925,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14994,Henri Jaspar,http://www.wikidata.org/entity/Q14994,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12964,François-Xavier Villain,http://www.wikidata.org/entity/Q12964,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38969,Lam Adesina,http://www.wikidata.org/entity/Q38969,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18874,Flavius Victor,http://www.wikidata.org/entity/Q18874,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15956,Frans Schollaert,http://www.wikidata.org/entity/Q15956,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19532,Jānis Akuraters,http://www.wikidata.org/entity/Q19532,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12849,Trevor Sargent,http://www.wikidata.org/entity/Q12849,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1318,Aníbal Zañartu,http://www.wikidata.org/entity/Q1318,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24211,Aloys Thomas Raimund,http://www.wikidata.org/entity/Q24211,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33816,Suren Khachatryan,http://www.wikidata.org/entity/Q33816,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12934,Christophe Guilloteau,http://www.wikidata.org/entity/Q12934,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14995,Jules Renkin,http://www.wikidata.org/entity/Q14995,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12913,Litokwa Tomeing,http://www.wikidata.org/entity/Q12913,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15990,Gaston Geens,http://www.wikidata.org/entity/Q15990,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38346,"Odo Russell, 1st Baron Ampthill",http://www.wikidata.org/entity/Q38346,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24508,Kubanychbek Jumaliyev,http://www.wikidata.org/entity/Q24508,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16807,Leonard B. Jordan,http://www.wikidata.org/entity/Q16807,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31875,Muhammad Hassan of Brunei,http://www.wikidata.org/entity/Q31875,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q5335,Harm Wiersma,http://www.wikidata.org/entity/Q5335,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12931,Bernard Perrut,http://www.wikidata.org/entity/Q12931,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24565,Zhantoro Satybaldiyev,http://www.wikidata.org/entity/Q24565,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24348,Pyotr Yakubovich,http://www.wikidata.org/entity/Q24348,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31061,"Joseph, Prince de Caraman-Chimay",http://www.wikidata.org/entity/Q31061,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38278,"Thomas Thynne, 1st Viscount Weymouth",http://www.wikidata.org/entity/Q38278,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24524,Karl von Harrach,http://www.wikidata.org/entity/Q24524,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32834,Sigismondo Castromediano,http://www.wikidata.org/entity/Q32834,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18446,Dalibor Brozović,http://www.wikidata.org/entity/Q18446,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3647,Mohamed Sheikh,http://www.wikidata.org/entity/Q3647,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12912,Jurelang Zedkaia,http://www.wikidata.org/entity/Q12912,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14992,Aloys Van de Vyvere,http://www.wikidata.org/entity/Q14992,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32798,David Graaff,http://www.wikidata.org/entity/Q32798,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24429,Friedrich August von Harrach-Rohrau,http://www.wikidata.org/entity/Q24429,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3275,David Cairns,http://www.wikidata.org/entity/Q3275,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16433,Michael Leutert,http://www.wikidata.org/entity/Q16433,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33071,Michał Jerzy Mniszech,http://www.wikidata.org/entity/Q33071,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q38163,"Thomas Thynne, 2nd Viscount Weymouth",http://www.wikidata.org/entity/Q38163,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31302,Pracha Prasobdee,http://www.wikidata.org/entity/Q31302,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10955,Alois Pupp,http://www.wikidata.org/entity/Q10955,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33515,Stanisław Radziwiłł,http://www.wikidata.org/entity/Q33515,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22522,Christopher Fettes,http://www.wikidata.org/entity/Q22522,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24678,Amangeldy Muraliyev,http://www.wikidata.org/entity/Q24678,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24480,Azim Isabekov,http://www.wikidata.org/entity/Q24480,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q36813,Mikhail Pavlov,http://www.wikidata.org/entity/Q36813,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q10994,Karl Erckert,http://www.wikidata.org/entity/Q10994,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12941,Philippe Meunier,http://www.wikidata.org/entity/Q12941,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15997,Bob Cools,http://www.wikidata.org/entity/Q15997,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12930,Patrice Verchère,http://www.wikidata.org/entity/Q12930,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q34681,William Shippen,http://www.wikidata.org/entity/Q34681,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15469,William John Hamilton,http://www.wikidata.org/entity/Q15469,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25318,Charles-Ange Laisant,http://www.wikidata.org/entity/Q25318,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31375,Joseph D. Early,http://www.wikidata.org/entity/Q31375,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12943,Yves Blein,http://www.wikidata.org/entity/Q12943,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24666,Jumabek Ibraimov,http://www.wikidata.org/entity/Q24666,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q8817,Gaius Valgius Rufus,http://www.wikidata.org/entity/Q8817,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32718,Richard L. Hanna,http://www.wikidata.org/entity/Q32718,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32193,Sergei Mishchenko,http://www.wikidata.org/entity/Q32193,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12060,Eduardo Rodríguez Larreta,http://www.wikidata.org/entity/Q12060,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24693,Tursunbek Chyngyshev,http://www.wikidata.org/entity/Q24693,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33645,Albrecht Radziwiłł,http://www.wikidata.org/entity/Q33645,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3996,V. P. Kalairajan,http://www.wikidata.org/entity/Q3996,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26202,Bror Cederström,http://www.wikidata.org/entity/Q26202,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11976,Lorenzo Batlle Pacheco,http://www.wikidata.org/entity/Q11976,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3285,Michael Shaw,http://www.wikidata.org/entity/Q3285,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q19999,Louis Bernacchi,http://www.wikidata.org/entity/Q19999,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20886,Kep Enderby,http://www.wikidata.org/entity/Q20886,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23762,André Honnorat,http://www.wikidata.org/entity/Q23762,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18450,Charles Buxton,http://www.wikidata.org/entity/Q18450,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29786,Amós Acero,http://www.wikidata.org/entity/Q29786,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31047,José Eduardo de Cárdenas,http://www.wikidata.org/entity/Q31047,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13000,Karel Lodewijk Ledeganck,http://www.wikidata.org/entity/Q13000,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25776,Wladyslaw Jehoshaphat Sapieha,http://www.wikidata.org/entity/Q25776,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11924,Luis Miró Quesada de la Guerra,http://www.wikidata.org/entity/Q11924,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1798,Ferry Carondelet,http://www.wikidata.org/entity/Q1798,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3205,William Terry,http://www.wikidata.org/entity/Q3205,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3247,Allen Sheppard,http://www.wikidata.org/entity/Q3247,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q1791,Jan II Carondelet,http://www.wikidata.org/entity/Q1791,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q14694,Vesa Hakala,http://www.wikidata.org/entity/Q14694,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q32376,André Étienne d'Audebert de Férussac,http://www.wikidata.org/entity/Q32376,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12456,Hippoliet Van Peene,http://www.wikidata.org/entity/Q12456,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33036,Demetri Dollis,http://www.wikidata.org/entity/Q33036,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q2147,Giridharilal Kedia,http://www.wikidata.org/entity/Q2147,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4933,Otto Richard Kierulf,http://www.wikidata.org/entity/Q4933,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q37391,Robert Fournier-Sarlovèze,http://www.wikidata.org/entity/Q37391,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12922,Pierre-Alain Muet,http://www.wikidata.org/entity/Q12922,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25487,A. L. Abdul Majeed,http://www.wikidata.org/entity/Q25487,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15466,William Thomas Hamilton,http://www.wikidata.org/entity/Q15466,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33051,Saturnino María Laspiur,http://www.wikidata.org/entity/Q33051,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12005,Manuel Cisneros Sánchez,http://www.wikidata.org/entity/Q12005,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q30579,Marijan Brecelj,http://www.wikidata.org/entity/Q30579,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q13001,Paul Van Grembergen,http://www.wikidata.org/entity/Q13001,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24521,Keith Padgett,http://www.wikidata.org/entity/Q24521,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q33721,Leopoldo Sáinz de la Maza,http://www.wikidata.org/entity/Q33721,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24367,Hans-Joachim Böhme,http://www.wikidata.org/entity/Q24367,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12304,Danton Pinheiro Jobim,http://www.wikidata.org/entity/Q12304,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12939,Michel Terrot,http://www.wikidata.org/entity/Q12939,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24236,John Crittenden,http://www.wikidata.org/entity/Q24236,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31217,Antal Babics,http://www.wikidata.org/entity/Q31217,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26985,Zhang Guangfu,http://www.wikidata.org/entity/Q26985,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q28968,Ernst Karl August Klemens von Mann,http://www.wikidata.org/entity/Q28968,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20659,Pyt Kramer,http://www.wikidata.org/entity/Q20659,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q18448,Osmo Buller,http://www.wikidata.org/entity/Q18448,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3034,Willoughby Newton,http://www.wikidata.org/entity/Q3034,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q22841,Wolfgang Schulte,http://www.wikidata.org/entity/Q22841,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24389,Edward Douglass White,http://www.wikidata.org/entity/Q24389,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q25190,Jean Poldo d'Albenas,http://www.wikidata.org/entity/Q25190,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3251,Elisha E. Meredith,http://www.wikidata.org/entity/Q3251,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12949,Guy Fischer,http://www.wikidata.org/entity/Q12949,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16825,Peter Schüler,http://www.wikidata.org/entity/Q16825,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15998,Joseph van Crombrugghe,http://www.wikidata.org/entity/Q15998,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15467,William McLean Hamilton,http://www.wikidata.org/entity/Q15467,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24217,Addison S. McClure,http://www.wikidata.org/entity/Q24217,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26479,Francis Cetner,http://www.wikidata.org/entity/Q26479,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q20727,Einar Dahl,http://www.wikidata.org/entity/Q20727,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q4926,Birger Kildal,http://www.wikidata.org/entity/Q4926,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q21105,Koen Loete,http://www.wikidata.org/entity/Q21105,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26973,Pei Xingben,http://www.wikidata.org/entity/Q26973,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q23949,Ezra Dean,http://www.wikidata.org/entity/Q23949,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3239,James K. Gibson,http://www.wikidata.org/entity/Q3239,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q30517,M. S. Sellasamy,http://www.wikidata.org/entity/Q30517,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q39349,Lu Jinshan,http://www.wikidata.org/entity/Q39349,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29767,Hubert Rouger,http://www.wikidata.org/entity/Q29767,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q3253,Henry P. Alexander,http://www.wikidata.org/entity/Q3253,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q29740,Karl Egon von Reitzenstein,http://www.wikidata.org/entity/Q29740,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16806,Karl-Heinz Vorsatz,http://www.wikidata.org/entity/Q16806,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q16448,Wilhelm von Wedell,http://www.wikidata.org/entity/Q16448,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12310,Carlos Ramírez MacGregor,http://www.wikidata.org/entity/Q12310,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q26983,Sun Yuanheng,http://www.wikidata.org/entity/Q26983,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q24955,Rudolf Paszek,http://www.wikidata.org/entity/Q24955,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31337,Li Daoguang,http://www.wikidata.org/entity/Q31337,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q15999,Jean-Baptiste Minne-Barth,http://www.wikidata.org/entity/Q15999,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12476,Filip Gijssels,http://www.wikidata.org/entity/Q12476,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11515,(.)p(...)nin,http://www.wikidata.org/entity/Q11515,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12473,Albert Windey,http://www.wikidata.org/entity/Q12473,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27551,Søren Tybring,http://www.wikidata.org/entity/Q27551,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q12015,Alfredo Silva Carvallo,http://www.wikidata.org/entity/Q12015,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27556,Aad Davidsen Kløve,http://www.wikidata.org/entity/Q27556,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q27562,Johan Frederik Sartz,http://www.wikidata.org/entity/Q27562,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q31679,Larry Aceves,http://www.wikidata.org/entity/Q31679,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581097,male,politicians,1
+Q11668,Nikki Haley,http://www.wikidata.org/entity/Q11668,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q36450,Catherine II of Russia,http://www.wikidata.org/entity/Q36450,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q7416,Margaret Thatcher,http://www.wikidata.org/entity/Q7416,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q1149,Indira Gandhi,http://www.wikidata.org/entity/Q1149,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q567,Angela Merkel,http://www.wikidata.org/entity/Q567,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q6294,Hillary Clinton,http://www.wikidata.org/entity/Q6294,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q13133,Michelle Obama,http://www.wikidata.org/entity/Q13133,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q37103,Florence Nightingale,http://www.wikidata.org/entity/Q37103,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q33635,Hema Malini,http://www.wikidata.org/entity/Q33635,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q36740,Aung San Suu Kyi,http://www.wikidata.org/entity/Q36740,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q7231,Rosa Luxemburg,http://www.wikidata.org/entity/Q7231,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q32620,Tulsi Gabbard,http://www.wikidata.org/entity/Q32620,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19526,Maya Angelou,http://www.wikidata.org/entity/Q19526,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q11132,Sandra Day O'Connor,http://www.wikidata.org/entity/Q11132,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q34413,Benazir Bhutto,http://www.wikidata.org/entity/Q34413,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12927,Marine Le Pen,http://www.wikidata.org/entity/Q12927,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q27182,Rachida Dati,http://www.wikidata.org/entity/Q27182,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q7504,Irène Joliot-Curie,http://www.wikidata.org/entity/Q7504,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q11107,Sonia Sotomayor,http://www.wikidata.org/entity/Q11107,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q5015,Mette Frederiksen,http://www.wikidata.org/entity/Q5015,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q1480,Corazon Aquino,http://www.wikidata.org/entity/Q1480,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q17135,Soong May-ling,http://www.wikidata.org/entity/Q17135,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q17132,Soong Ching-ling,http://www.wikidata.org/entity/Q17132,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19176,"Sarah Churchill, Duchess of Marlborough",http://www.wikidata.org/entity/Q19176,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q320,Michelle Bachelet,http://www.wikidata.org/entity/Q320,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19217,Carrie Lam,http://www.wikidata.org/entity/Q19217,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q29213,Tarja Halonen,http://www.wikidata.org/entity/Q29213,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q15025,Audrey Tang,http://www.wikidata.org/entity/Q15025,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q1052281,trans woman,politicians,0
+Q15025,Audrey Tang,http://www.wikidata.org/entity/Q15025,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q48270,non-binary,politicians,0
+Q22237,Amy Klobuchar,http://www.wikidata.org/entity/Q22237,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22222,Kirsten Gillibrand,http://www.wikidata.org/entity/Q22222,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22279,Susan Collins,http://www.wikidata.org/entity/Q22279,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22360,Lisa Murkowski,http://www.wikidata.org/entity/Q22360,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22260,Claire McCaskill,http://www.wikidata.org/entity/Q22260,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q16476,Mazie Hirono,http://www.wikidata.org/entity/Q16476,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22250,Maria Cantwell,http://www.wikidata.org/entity/Q22250,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q9670,Caroline Lucas,http://www.wikidata.org/entity/Q9670,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q24053,Maggie Hassan,http://www.wikidata.org/entity/Q24053,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q29315,Marina Weisband,http://www.wikidata.org/entity/Q29315,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q26769,Biljana Plavšić,http://www.wikidata.org/entity/Q26769,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q25652,Martha Reeves,http://www.wikidata.org/entity/Q25652,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22354,Kelly Ayotte,http://www.wikidata.org/entity/Q22354,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q3993,Jacqueline Cochran,http://www.wikidata.org/entity/Q3993,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q24790,Letitia Christian Tyler,http://www.wikidata.org/entity/Q24790,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22290,Olympia Snowe,http://www.wikidata.org/entity/Q22290,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12942,Arlette Laguiller,http://www.wikidata.org/entity/Q12942,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22338,Mary Landrieu,http://www.wikidata.org/entity/Q22338,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q27677,Kathleen Sebelius,http://www.wikidata.org/entity/Q27677,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q6379,Sandra Perković,http://www.wikidata.org/entity/Q6379,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q6338,Olga Rypakova,http://www.wikidata.org/entity/Q6338,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22185,Bev Perdue,http://www.wikidata.org/entity/Q22185,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q7429,Nina Andreyeva,http://www.wikidata.org/entity/Q7429,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q13532,Merikukka Forsius,http://www.wikidata.org/entity/Q13532,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q24840,Jagna Marczułajtis,http://www.wikidata.org/entity/Q24840,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q4924,"Isabella I, Queen of Armenia",http://www.wikidata.org/entity/Q4924,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q24165,Helene Hayman,http://www.wikidata.org/entity/Q24165,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q10694,Leanne Wood,http://www.wikidata.org/entity/Q10694,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q21759,Winnie Byanyima,http://www.wikidata.org/entity/Q21759,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q18553,Axelle Lemaire,http://www.wikidata.org/entity/Q18553,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12928,Hélène Geoffroy,http://www.wikidata.org/entity/Q12928,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q15994,Hilde Crevits,http://www.wikidata.org/entity/Q15994,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q6351,Olha Saladukha,http://www.wikidata.org/entity/Q6351,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q32606,Nan Hayworth,http://www.wikidata.org/entity/Q32606,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q3281,Marit Paulsen,http://www.wikidata.org/entity/Q3281,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q32968,Toshiko Takeya,http://www.wikidata.org/entity/Q32968,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q32965,Jacquin Strouss Lucena,http://www.wikidata.org/entity/Q32965,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q15995,Kathleen Van Brempt,http://www.wikidata.org/entity/Q15995,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q34391,Adelheid Popp,http://www.wikidata.org/entity/Q34391,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19280,Ashayet,http://www.wikidata.org/entity/Q19280,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q22850,Eva Lohse,http://www.wikidata.org/entity/Q22850,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q39314,Romana Jordan Cizelj,http://www.wikidata.org/entity/Q39314,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19299,Kemsit,http://www.wikidata.org/entity/Q19299,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q29732,"Maggie Jones, Baroness Jones of Whitchurch",http://www.wikidata.org/entity/Q29732,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19284,Henhenet,http://www.wikidata.org/entity/Q19284,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19281,Tem,http://www.wikidata.org/entity/Q19281,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12819,Małgorzata Handzlik,http://www.wikidata.org/entity/Q12819,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q18242,María Ignacia Benítez,http://www.wikidata.org/entity/Q18242,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19298,Sadeh,http://www.wikidata.org/entity/Q19298,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q19289,Nebsemi,http://www.wikidata.org/entity/Q19289,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12948,Élisabeth Lamure,http://www.wikidata.org/entity/Q12948,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q15996,Mathilde Schroyens,http://www.wikidata.org/entity/Q15996,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q5028,Britta Thomsen,http://www.wikidata.org/entity/Q5028,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12947,Muguette Dini,http://www.wikidata.org/entity/Q12947,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12926,Pascale Crozon,http://www.wikidata.org/entity/Q12926,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12924,Dominique Nachury,http://www.wikidata.org/entity/Q12924,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q12945,Christiane Demontès,http://www.wikidata.org/entity/Q12945,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q11645,Cathy Hudgins,http://www.wikidata.org/entity/Q11645,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0
+Q16811,Hiltrud Grote,http://www.wikidata.org/entity/Q16811,http://www.wikidata.org/prop/direct/P21,sex or gender,http://www.wikidata.org/entity/Q6581072,female,politicians,0

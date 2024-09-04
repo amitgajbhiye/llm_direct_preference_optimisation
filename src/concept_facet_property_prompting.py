@@ -5,6 +5,7 @@ import math
 import os
 import time
 from argparse import ArgumentParser
+from os import listdir
 
 import pandas as pd
 import torch
@@ -112,16 +113,27 @@ def prepare_data(config):
 
     input_file = config["input_file"]
 
-    with open(input_file, "r") as inp_file:
-        concepts = inp_file.readlines()
-    concepts = [con.strip("\n").replace("_", " ").lower().strip() for con in concepts]
+    if not wikidata:
+
+        with open(input_file, "r") as inp_file:
+            concepts = inp_file.readlines()
+        concepts = [
+            con.strip("\n").replace("_", " ").lower().strip() for con in concepts
+        ]
+
+    else:
+        df = pd.read_csv(input_file, sep=",")
+        concepts = df["entity_human_readable"].unique()
+        concepts = [
+            con.strip("\n").replace("_", " ").lower().strip() for con in concepts
+        ]
 
     # df = pd.read_csv(input_file, sep="\t", names=["id", "concept"])
     # concepts = [str(con).strip() for con in df["concept"].unique()]
 
     logger.info(f"Number of concepts: {len(concepts)}")
     logger.info(f"input_concepts: {concepts}")
-    logger.info(f"Prompt used is : {llama3_8B_5inc_prompt}")
+    # logger.info(f"Prompt used is : {llama3_8B_5inc_prompt}")
 
     concept_prompts = [
         llama3_8B_5inc_prompt.replace("<CONCEPT>", con) for con in concepts
@@ -311,6 +323,7 @@ def parse_and_format_data(file_path, config):
 
     logger.info(f"Parsed - concept_facet_property file saved at: {parsed_file_name}")
     logger.info(f"facet_colon_property file saved at: {colon_file}")
+    logger.info(f"\n")
 
     return df
 
@@ -346,12 +359,39 @@ if __name__ == "__main__":
     logger.info("The model is run with the following configuration")
     logger.info(f"\n {config} \n")
 
-    # Executing pipleine
-    concept_prompts = prepare_data(config)
-    concept_facet_property_file = generate_data(config, concept_prompts)
+    wikidata = config["wikidata"]
 
-    parse_and_format_data(file_path=concept_facet_property_file, config=config)
+    if not wikidata:
+        # Executing pipleine
+        concept_prompts = prepare_data(config)
+        concept_facet_property_file = generate_data(config, concept_prompts)
+        parse_and_format_data(file_path=concept_facet_property_file, config=config)
+
+    else:
+        dir_path = "data/wikidata"
+        wikidata_files = listdir(dir_path)
+
+        logger.info(f"wikidata_files")
+        logger.info(f"{wikidata_files}")
+
+        for wikidata_file in wikidata_files:
+
+            wikidata_file_path = os.path.join(dir_path, wikidata_file)
+            file_name, file_extension = os.path.splitext(wikidata_file)
+            output_file = "facet_property_" + file_name + ".txt"
+
+            config["input_file"] = wikidata_file_path
+            config["output_file"] = output_file
+
+            logger.info(f"\n")
+            logger.info(f"input_wikidata_file: {wikidata_file}")
+            logger.info(f"input_wikidata_file_path: {config['input_file']}")
+            logger.info(f"output_file: {config['output_file']}")
+
+            concept_prompts = prepare_data(config)
+            concept_facet_property_file = generate_data(config, concept_prompts)
+            parse_and_format_data(file_path=concept_facet_property_file, config=config)
 
     logger.info(f"job_finished")
     end_time = time.time()
-    logger.info(f"total_execution_time: {get_execution_time(start_time, end_time)})")
+    logger.info(f"total_execution_time: {get_execution_time(start_time, end_time)}")

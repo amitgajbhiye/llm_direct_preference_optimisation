@@ -1,0 +1,76 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q9696,John F. Kennedy,http://www.wikidata.org/entity/Q9696,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q11806,John Adams,http://www.wikidata.org/entity/Q11806,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q9353,John Locke,http://www.wikidata.org/entity/Q9353,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q36023,Calvin Coolidge,http://www.wikidata.org/entity/Q36023,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q10390,John McCain,http://www.wikidata.org/entity/Q10390,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q9559,John Major,http://www.wikidata.org/entity/Q9559,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q22316,John Kerry,http://www.wikidata.org/entity/Q22316,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q11816,John Quincy Adams,http://www.wikidata.org/entity/Q11816,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q9317,John Maynard Keynes,http://www.wikidata.org/entity/Q9317,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q11881,John Tyler,http://www.wikidata.org/entity/Q11881,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q11153,John Roberts,http://www.wikidata.org/entity/Q11153,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q19825,Cecil Rhodes,http://www.wikidata.org/entity/Q19825,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q11702,John Boehner,http://www.wikidata.org/entity/Q11702,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q23375,John Curtin,http://www.wikidata.org/entity/Q23375,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q23386,John McEwen,http://www.wikidata.org/entity/Q23386,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q19225,John Tsang,http://www.wikidata.org/entity/Q19225,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q23347,Chris Watson,http://www.wikidata.org/entity/Q23347,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q25690,"John Russell, 6th Duke of Bedford",http://www.wikidata.org/entity/Q25690,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q17889,John M. Clayton,http://www.wikidata.org/entity/Q17889,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q11595,John Adair,http://www.wikidata.org/entity/Q11595,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q4735,John Hamilton,http://www.wikidata.org/entity/Q4735,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q3288,John Gregg,http://www.wikidata.org/entity/Q3288,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q38200,John Thynne,http://www.wikidata.org/entity/Q38200,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q15469,William John Hamilton,http://www.wikidata.org/entity/Q15469,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q24236,John Crittenden,http://www.wikidata.org/entity/Q24236,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4925477,John,politicians,1
+Q1331,Manuel Blanco Encalada,http://www.wikidata.org/entity/Q1331,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q11113719,Manuel,politicians,0
+Q36450,Catherine II of Russia,http://www.wikidata.org/entity/Q36450,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q16277712,Katharina,politicians,0
+Q567,Angela Merkel,http://www.wikidata.org/entity/Q567,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4851436,Angela,politicians,0
+Q1149,Indira Gandhi,http://www.wikidata.org/entity/Q1149,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q3798293,Indira,politicians,0
+Q15981,Robert Schuman,http://www.wikidata.org/entity/Q15981,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1499767,Jean-Baptiste,politicians,0
+Q885,Józef Piłsudski,http://www.wikidata.org/entity/Q885,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q19688659,Józef,politicians,0
+Q28978,Ignacy Łukasiewicz,http://www.wikidata.org/entity/Q28978,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18220021,Ignacy,politicians,0
+Q24039,Digby Jones,http://www.wikidata.org/entity/Q24039,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q2519633,Dick,politicians,0
+Q16849,Matti Nykänen,http://www.wikidata.org/entity/Q16849,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q11858012,Ensio,politicians,0
+Q22360,Lisa Murkowski,http://www.wikidata.org/entity/Q22360,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q558067,Ann,politicians,0
+Q13014,Franz Jonas,http://www.wikidata.org/entity/Q13014,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q15730712,Josef,politicians,0
+Q15056,Jean-Luc Dehaene,http://www.wikidata.org/entity/Q15056,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1685008,Jean-Luc,politicians,0
+Q3048,Charles Maurras,http://www.wikidata.org/entity/Q3048,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q101426414,Photius,politicians,0
+Q32968,Toshiko Takeya,http://www.wikidata.org/entity/Q32968,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1609557,Toshiko,politicians,0
+Q37731,Usman ibn Affan,http://www.wikidata.org/entity/Q37731,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q841383,Uthman,politicians,0
+Q23362,James Scullin,http://www.wikidata.org/entity/Q23362,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1158477,Henry,politicians,0
+Q9123,Ernest Rutherford,http://www.wikidata.org/entity/Q9123,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q595105,Ernest,politicians,0
+Q36023,Calvin Coolidge,http://www.wikidata.org/entity/Q36023,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q5024307,Calvin,politicians,0
+Q12706,Maxim Gorky,http://www.wikidata.org/entity/Q12706,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q29014670,Alexey,politicians,0
+Q35686,Rutherford B. Hayes,http://www.wikidata.org/entity/Q35686,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q20747494,Rutherford,politicians,0
+Q22368,Chen Shui-bian,http://www.wikidata.org/entity/Q22368,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q124394623,Shuǐbiǎn,politicians,0
+Q33816,Suren Khachatryan,http://www.wikidata.org/entity/Q33816,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q19968384,Suren,politicians,0
+Q30556,Abbad II al-Mu'tadid,http://www.wikidata.org/entity/Q30556,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q20155923,Abbad,politicians,0
+Q29786,Amós Acero,http://www.wikidata.org/entity/Q29786,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18216062,Amós,politicians,0
+Q579,Carlos Ibáñez del Campo,http://www.wikidata.org/entity/Q579,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q364753,Carlos,politicians,0
+Q27214,Jerry Springer,http://www.wikidata.org/entity/Q27214,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q3808011,Jerry,politicians,0
+Q12702,Robert Cecil,http://www.wikidata.org/entity/Q12702,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4927937,Robert,politicians,0
+Q28495,"Francis, Duke of Guise",http://www.wikidata.org/entity/Q28495,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1166840,François,politicians,0
+Q15995,Kathleen Van Brempt,http://www.wikidata.org/entity/Q15995,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q16290387,Kathleen,politicians,0
+Q2190,Coluche,http://www.wikidata.org/entity/Q2190,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q14626626,Michel,politicians,0
+Q31889,Muhyiddin of Brunei,http://www.wikidata.org/entity/Q31889,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q22302382,Muhyiddin,politicians,0
+Q14990,Henri Carton de Wiart,http://www.wikidata.org/entity/Q14990,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1158477,Henry,politicians,0
+Q34935,Muhammad Rafiq Tarar,http://www.wikidata.org/entity/Q34935,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q5837762,Mohammed,politicians,0
+Q15956,Frans Schollaert,http://www.wikidata.org/entity/Q15956,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q632104,Marie,politicians,0
+Q12978,Guy Verhofstadt,http://www.wikidata.org/entity/Q12978,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q1159023,Guy,politicians,0
+Q2185,Georges Pompidou,http://www.wikidata.org/entity/Q2185,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q15921764,Georges,politicians,0
+Q12948,Élisabeth Lamure,http://www.wikidata.org/entity/Q12948,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18093037,Élisabeth,politicians,0
+Q651,Friedrich Theodor Vischer,http://www.wikidata.org/entity/Q651,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q14038597,Friedrich,politicians,0
+Q37677,Francisco Solano López,http://www.wikidata.org/entity/Q37677,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q58525724,Solano,politicians,0
+Q14997,Achille Van Acker,http://www.wikidata.org/entity/Q14997,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q340285,Achille,politicians,0
+Q2542,Horst Köhler,http://www.wikidata.org/entity/Q2542,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q381702,Horst,politicians,0
+Q1242,Luigi Einaudi,http://www.wikidata.org/entity/Q1242,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q4245067,Luigi,politicians,0
+Q12769,Willem Drees,http://www.wikidata.org/entity/Q12769,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q15282375,Willem,politicians,0
+Q15944,Walter Breisky,http://www.wikidata.org/entity/Q15944,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q15731830,Karl,politicians,0
+Q10665,Kim Jong-il,http://www.wikidata.org/entity/Q10665,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q18126396,Jeong-il,politicians,0
+Q26769,Biljana Plavšić,http://www.wikidata.org/entity/Q26769,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q861860,Biljana,politicians,0
+Q14362,Chun Doo-hwan,http://www.wikidata.org/entity/Q14362,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q69507486,Du-hwan,politicians,0
+Q19080,Vasco Núñez de Balboa,http://www.wikidata.org/entity/Q19080,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q16620432,Vasco,politicians,0
+Q5749,Pierre-Joseph Proudhon,http://www.wikidata.org/entity/Q5749,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q16280610,Pierre-Joseph,politicians,0
+Q22185,Bev Perdue,http://www.wikidata.org/entity/Q22185,http://www.wikidata.org/prop/direct/P735,given name,http://www.wikidata.org/entity/Q19819814,Beverly,politicians,0

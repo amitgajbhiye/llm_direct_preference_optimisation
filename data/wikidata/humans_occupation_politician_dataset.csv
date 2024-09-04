@@ -1,0 +1,424 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q517,Napoleon,http://www.wikidata.org/entity/Q517,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q352,Adolf Hitler,http://www.wikidata.org/entity/Q352,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7747,Vladimir Putin,http://www.wikidata.org/entity/Q7747,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q43274,Charles III of the United Kingdom,http://www.wikidata.org/entity/Q43274,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q22686,Donald Trump,http://www.wikidata.org/entity/Q22686,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q2685,Arnold Schwarzenegger,http://www.wikidata.org/entity/Q2685,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q6279,Joe Biden,http://www.wikidata.org/entity/Q6279,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9458,Muhammad,http://www.wikidata.org/entity/Q9458,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8409,Alexander the Great,http://www.wikidata.org/entity/Q8409,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q855,Joseph Stalin,http://www.wikidata.org/entity/Q855,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q127318,George III of Great Britain,http://www.wikidata.org/entity/Q127318,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1001,Mahatma Gandhi,http://www.wikidata.org/entity/Q1001,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q187447,Pablo Escobar,http://www.wikidata.org/entity/Q187447,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9696,John F. Kennedy,http://www.wikidata.org/entity/Q9696,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q66107,Henry Kissinger,http://www.wikidata.org/entity/Q66107,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q155979,Alexei Navalny,http://www.wikidata.org/entity/Q155979,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q23685,Jimmy Carter,http://www.wikidata.org/entity/Q23685,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q76,Barack Obama,http://www.wikidata.org/entity/Q76,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q11668,Nikki Haley,http://www.wikidata.org/entity/Q11668,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q15031,Xi Jinping,http://www.wikidata.org/entity/Q15031,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q43723,Benjamin Netanyahu,http://www.wikidata.org/entity/Q43723,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1048,Julius Caesar,http://www.wikidata.org/entity/Q1048,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8016,Winston Churchill,http://www.wikidata.org/entity/Q8016,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8023,Nelson Mandela,http://www.wikidata.org/entity/Q8023,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q91,Abraham Lincoln,http://www.wikidata.org/entity/Q91,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q269412,George V,http://www.wikidata.org/entity/Q269412,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1316,Saddam Hussein,http://www.wikidata.org/entity/Q1316,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8027,Martin Luther King Jr.,http://www.wikidata.org/entity/Q8027,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q36450,Catherine II of Russia,http://www.wikidata.org/entity/Q36450,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1394,Vladimir Lenin,http://www.wikidata.org/entity/Q1394,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q56226,Kim Jong-un,http://www.wikidata.org/entity/Q56226,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1058,Narendra Modi,http://www.wikidata.org/entity/Q1058,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9960,Ronald Reagan,http://www.wikidata.org/entity/Q9960,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q207,George W. Bush,http://www.wikidata.org/entity/Q207,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q23559,Benito Mussolini,http://www.wikidata.org/entity/Q23559,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q39444,Ronaldinho,http://www.wikidata.org/entity/Q39444,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9061,Karl Marx,http://www.wikidata.org/entity/Q9061,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q11860,Silvio Berlusconi,http://www.wikidata.org/entity/Q11860,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q5816,Mao Zedong,http://www.wikidata.org/entity/Q5816,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q12897,Pelé,http://www.wikidata.org/entity/Q12897,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q5152,Mustafa Kemal Atatürk,http://www.wikidata.org/entity/Q5152,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q20875,Edward VII,http://www.wikidata.org/entity/Q20875,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1124,Bill Clinton,http://www.wikidata.org/entity/Q1124,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q231690,Bhimrao Ramji Ambedkar,http://www.wikidata.org/entity/Q231690,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7742,Louis XIV of France,http://www.wikidata.org/entity/Q7742,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q23,George Washington,http://www.wikidata.org/entity/Q23,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q19878,Muammar Gaddafi,http://www.wikidata.org/entity/Q19878,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q34211,Yasser Arafat,http://www.wikidata.org/entity/Q34211,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q43989,Grigori Rasputin,http://www.wikidata.org/entity/Q43989,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7416,Margaret Thatcher,http://www.wikidata.org/entity/Q7416,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q25310,Robert F. Kennedy,http://www.wikidata.org/entity/Q25310,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9588,Richard Nixon,http://www.wikidata.org/entity/Q9588,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8474,Suleiman the Magnificent,http://www.wikidata.org/entity/Q8474,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q23505,George H. W. Bush,http://www.wikidata.org/entity/Q23505,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7732,Louis XVI of France,http://www.wikidata.org/entity/Q7732,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q34969,Benjamin Franklin,http://www.wikidata.org/entity/Q34969,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q30487,Mikhail Gorbachev,http://www.wikidata.org/entity/Q30487,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9916,Dwight D. Eisenhower,http://www.wikidata.org/entity/Q9916,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9513,A. P. J. Abdul Kalam,http://www.wikidata.org/entity/Q9513,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q33866,Theodore Roosevelt,http://www.wikidata.org/entity/Q33866,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q131412,"Mary, Queen of Scots",http://www.wikidata.org/entity/Q131412,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q130586,George IV of the United Kingdom,http://www.wikidata.org/entity/Q130586,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1430,Marcus Aurelius,http://www.wikidata.org/entity/Q1430,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q11613,Harry S. Truman,http://www.wikidata.org/entity/Q11613,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q11256,Fidel Castro,http://www.wikidata.org/entity/Q11256,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q989,John Paul II,http://www.wikidata.org/entity/Q989,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q43067,Heinrich Himmler,http://www.wikidata.org/entity/Q43067,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q43303,Malcolm X,http://www.wikidata.org/entity/Q43303,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q130822,William IV,http://www.wikidata.org/entity/Q130822,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q41749,Joseph Goebbels,http://www.wikidata.org/entity/Q41749,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q51056,Franz Joseph I of Austria,http://www.wikidata.org/entity/Q51056,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q82674,Mary I of England,http://www.wikidata.org/entity/Q82674,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q128245,Mohammad Reza Pahlavi,http://www.wikidata.org/entity/Q128245,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q27214,Jerry Springer,http://www.wikidata.org/entity/Q27214,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1149,Indira Gandhi,http://www.wikidata.org/entity/Q1149,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q35314,Nikita Khrushchev,http://www.wikidata.org/entity/Q35314,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q57336,Ali Khamenei,http://www.wikidata.org/entity/Q57336,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q153330,"Prince Andrew, Duke of York",http://www.wikidata.org/entity/Q153330,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q155164,Imran Khan,http://www.wikidata.org/entity/Q155164,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q29179,Francisco Franco,http://www.wikidata.org/entity/Q29179,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9488,Sachin Tendulkar,http://www.wikidata.org/entity/Q9488,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q28085,Adolf Eichmann,http://www.wikidata.org/entity/Q28085,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9640,Lyndon B. Johnson,http://www.wikidata.org/entity/Q9640,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q42992,Golda Meir,http://www.wikidata.org/entity/Q42992,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1413,Nero,http://www.wikidata.org/entity/Q1413,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7721,Napoleon III,http://www.wikidata.org/entity/Q7721,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q217115,Ramzan Kadyrov,http://www.wikidata.org/entity/Q217115,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q119702,Anne of Great Britain,http://www.wikidata.org/entity/Q119702,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q47906,Hermann Göring,http://www.wikidata.org/entity/Q47906,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q33391,Leon Trotsky,http://www.wikidata.org/entity/Q33391,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1047,Jawaharlal Nehru,http://www.wikidata.org/entity/Q1047,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q39464,Pol Pot,http://www.wikidata.org/entity/Q39464,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q81506,Charles I of England,http://www.wikidata.org/entity/Q81506,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q44332,Kemal Kılıçdaroğlu,http://www.wikidata.org/entity/Q44332,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q11812,Thomas Jefferson,http://www.wikidata.org/entity/Q11812,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q2042,Charles de Gaulle,http://www.wikidata.org/entity/Q2042,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7327,Yuri Gagarin,http://www.wikidata.org/entity/Q7327,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8442,Otto von Bismarck,http://www.wikidata.org/entity/Q8442,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9582,Gerald Ford,http://www.wikidata.org/entity/Q9582,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q10261,Pythagoras,http://www.wikidata.org/entity/Q10261,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q36456,Hannibal,http://www.wikidata.org/entity/Q36456,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q178903,Alexander Hamilton,http://www.wikidata.org/entity/Q178903,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q127998,Mahmoud Abbas,http://www.wikidata.org/entity/Q127998,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q152378,Ismail Haniyeh,http://www.wikidata.org/entity/Q152378,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q57655,Mohammed bin Rashid Al Maktoum,http://www.wikidata.org/entity/Q57655,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q16574,Chiang Kai-shek,http://www.wikidata.org/entity/Q16574,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q17293,Tenzin Gyatso,http://www.wikidata.org/entity/Q17293,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q44329,Bashar al-Assad,http://www.wikidata.org/entity/Q44329,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q535,Victor Hugo,http://www.wikidata.org/entity/Q535,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1409,Caligula,http://www.wikidata.org/entity/Q1409,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q122553,Charles II of England,http://www.wikidata.org/entity/Q122553,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q32024,Sergei Shoigu,http://www.wikidata.org/entity/Q32024,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q154920,"Prince Edward, Duke of Edinburgh",http://www.wikidata.org/entity/Q154920,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q180589,Boris Johnson,http://www.wikidata.org/entity/Q180589,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q9545,Tony Blair,http://www.wikidata.org/entity/Q9545,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7192,Qin Shi Huangdi,http://www.wikidata.org/entity/Q7192,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q2153,Subhas Chandra Bose,http://www.wikidata.org/entity/Q2153,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q132345,Shinzō Abe,http://www.wikidata.org/entity/Q132345,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q60772,Ursula von der Leyen,http://www.wikidata.org/entity/Q60772,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8605,Simón Bolívar,http://www.wikidata.org/entity/Q8605,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q38823,Ruhollah Khomeini,http://www.wikidata.org/entity/Q38823,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1067,Dante Alighieri,http://www.wikidata.org/entity/Q1067,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q34453,Boris Yeltsin,http://www.wikidata.org/entity/Q34453,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q1399,Niccolò Machiavelli,http://www.wikidata.org/entity/Q1399,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q2866,Alexander Lukashenko,http://www.wikidata.org/entity/Q2866,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q23530,Dmitry Medvedev,http://www.wikidata.org/entity/Q23530,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q230733,Dianne Feinstein,http://www.wikidata.org/entity/Q230733,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q8413,Constantine the Great,http://www.wikidata.org/entity/Q8413,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q36014,Ho Chi Minh,http://www.wikidata.org/entity/Q36014,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q7996,Ivan IV Vasilyevich,http://www.wikidata.org/entity/Q7996,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q131581,Henry V of England,http://www.wikidata.org/entity/Q131581,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q80504,Nicolae Ceaușescu,http://www.wikidata.org/entity/Q80504,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q157280,Stepan Bandera,http://www.wikidata.org/entity/Q157280,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q567,Angela Merkel,http://www.wikidata.org/entity/Q567,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q5879,Johann Wolfgang von Goethe,http://www.wikidata.org/entity/Q5879,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q368,Augusto Pinochet,http://www.wikidata.org/entity/Q368,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q18111,Li Keqiang,http://www.wikidata.org/entity/Q18111,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q10665,Kim Jong-il,http://www.wikidata.org/entity/Q10665,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q6294,Hillary Clinton,http://www.wikidata.org/entity/Q6294,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q48231,Idi Amin,http://www.wikidata.org/entity/Q48231,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q10218,Rahul Gandhi,http://www.wikidata.org/entity/Q10218,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q82955,politician,humans,1
+Q131814,Tina Turner,http://www.wikidata.org/entity/Q131814,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q81520,Pierce Brosnan,http://www.wikidata.org/entity/Q81520,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q9554,Martin Luther,http://www.wikidata.org/entity/Q9554,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q41422,Mark Ruffalo,http://www.wikidata.org/entity/Q41422,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q22686,Donald Trump,http://www.wikidata.org/entity/Q22686,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q49017,Hugh Laurie,http://www.wikidata.org/entity/Q49017,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q13382576,rower,humans,0
+Q7085,Niels Bohr,http://www.wikidata.org/entity/Q7085,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q16742096,nuclear physicist,humans,0
+Q168763,Liv Tyler,http://www.wikidata.org/entity/Q168763,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q60036,Heidi Klum,http://www.wikidata.org/entity/Q60036,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q171758,Matthew Perry,http://www.wikidata.org/entity/Q171758,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q192682,Ryan Reynolds,http://www.wikidata.org/entity/Q192682,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q106997,Jamie Lee Curtis,http://www.wikidata.org/entity/Q106997,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4853732,children's writer,humans,0
+Q231093,Mayim Bialik,http://www.wikidata.org/entity/Q231093,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q254947,Riley Keough,http://www.wikidata.org/entity/Q254947,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q28389,screenwriter,humans,0
+Q125017,Uma Thurman,http://www.wikidata.org/entity/Q125017,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q578109,television producer,humans,0
+Q193482,Neve Campbell,http://www.wikidata.org/entity/Q193482,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q5879,Johann Wolfgang von Goethe,http://www.wikidata.org/entity/Q5879,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q182436,librarian,humans,0
+Q30875,Oscar Wilde,http://www.wikidata.org/entity/Q30875,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q6625963,novelist,humans,0
+Q229184,Lily Collins,http://www.wikidata.org/entity/Q229184,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q9312,Immanuel Kant,http://www.wikidata.org/entity/Q9312,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4964182,philosopher,humans,0
+Q160009,Pink,http://www.wikidata.org/entity/Q160009,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q55960555,recording artist,humans,0
+Q134077,Rachel Weisz,http://www.wikidata.org/entity/Q134077,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2259451,stage actor,humans,0
+Q307,Galileo Galilei,http://www.wikidata.org/entity/Q307,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q11063,astronomer,humans,0
+Q160009,Pink,http://www.wikidata.org/entity/Q160009,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q7192,Qin Shi Huangdi,http://www.wikidata.org/entity/Q7192,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q39018,emperor,humans,0
+Q185051,Christopher Walken,http://www.wikidata.org/entity/Q185051,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q80938,John Travolta,http://www.wikidata.org/entity/Q80938,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q80405,Julianne Moore,http://www.wikidata.org/entity/Q80405,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4853732,children's writer,humans,0
+Q6096,Snoop Dogg,http://www.wikidata.org/entity/Q6096,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q199931,Leighton Meester,http://www.wikidata.org/entity/Q199931,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36834,composer,humans,0
+Q229507,Jayne Mansfield,http://www.wikidata.org/entity/Q229507,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q9441,The Buddha,http://www.wikidata.org/entity/Q9441,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q212980,psychologist,humans,0
+Q170428,Helena Bonham Carter,http://www.wikidata.org/entity/Q170428,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q45901,Thierry Henry,http://www.wikidata.org/entity/Q45901,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2986228,sports commentator,humans,0
+Q26806,Danny DeVito,http://www.wikidata.org/entity/Q26806,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q11481802,dub actor,humans,0
+Q9458,Muhammad,http://www.wikidata.org/entity/Q9458,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1402561,military leader,humans,0
+Q80938,John Travolta,http://www.wikidata.org/entity/Q80938,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q25161,Roald Dahl,http://www.wikidata.org/entity/Q25161,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q4457,Franz Beckenbauer,http://www.wikidata.org/entity/Q4457,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q937857,association football player,humans,0
+Q10490,Ayrton Senna,http://www.wikidata.org/entity/Q10490,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q43845,businessperson,humans,0
+Q41076,Mariah Carey,http://www.wikidata.org/entity/Q41076,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q138858,entertainer,humans,0
+Q133600,Banksy,http://www.wikidata.org/entity/Q133600,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3374326,muralist,humans,0
+Q188955,Matthew McConaughey,http://www.wikidata.org/entity/Q188955,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q311314,Sam Elliott,http://www.wikidata.org/entity/Q311314,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q11459,Serena Williams,http://www.wikidata.org/entity/Q11459,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q18814623,autobiographer,humans,0
+Q166389,Daniel Day-Lewis,http://www.wikidata.org/entity/Q166389,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q2808,Elton John,http://www.wikidata.org/entity/Q2808,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q155164,Imran Khan,http://www.wikidata.org/entity/Q155164,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q12299841,cricketer,humans,0
+Q234773,Priscilla Presley,http://www.wikidata.org/entity/Q234773,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q578109,television producer,humans,0
+Q619,Nicolaus Copernicus,http://www.wikidata.org/entity/Q619,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q11063,astronomer,humans,0
+Q38119,Daniel Radcliffe,http://www.wikidata.org/entity/Q38119,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q43416,Keanu Reeves,http://www.wikidata.org/entity/Q43416,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q9068,Voltaire,http://www.wikidata.org/entity/Q9068,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q744738,encyclopédistes,humans,0
+Q2494,Benedict XVI,http://www.wikidata.org/entity/Q2494,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q98833890,Catholic theologian,humans,0
+Q892,J. R. R. Tolkien,http://www.wikidata.org/entity/Q892,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q13418253,philologist,humans,0
+Q1268,Frédéric Chopin,http://www.wikidata.org/entity/Q1268,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1231865,pedagogue,humans,0
+Q48410,Richard Gere,http://www.wikidata.org/entity/Q48410,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q5603,Andy Warhol,http://www.wikidata.org/entity/Q5603,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q8018,Augustine of Hippo,http://www.wikidata.org/entity/Q8018,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q49757,poet,humans,0
+Q129591,Hugh Jackman,http://www.wikidata.org/entity/Q129591,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q47541952,producer,humans,0
+Q5816,Mao Zedong,http://www.wikidata.org/entity/Q5816,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4964182,philosopher,humans,0
+Q29545,Kevin Durant,http://www.wikidata.org/entity/Q29545,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3665646,basketball player,humans,0
+Q313039,John Krasinski,http://www.wikidata.org/entity/Q313039,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q28389,screenwriter,humans,0
+Q30449,Avril Lavigne,http://www.wikidata.org/entity/Q30449,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q180224,Lenny Kravitz,http://www.wikidata.org/entity/Q180224,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q49757,poet,humans,0
+Q43303,Malcolm X,http://www.wikidata.org/entity/Q43303,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q18814623,autobiographer,humans,0
+Q269309,Talulah Riley,http://www.wikidata.org/entity/Q269309,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q28389,screenwriter,humans,0
+Q1203,John Lennon,http://www.wikidata.org/entity/Q1203,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q486748,pianist,humans,0
+Q48410,Richard Gere,http://www.wikidata.org/entity/Q48410,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q257442,Sarah Paulson,http://www.wikidata.org/entity/Q257442,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q163263,Eva Longoria,http://www.wikidata.org/entity/Q163263,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q22810659,nightclub owner,humans,0
+Q101797,Winona Ryder,http://www.wikidata.org/entity/Q101797,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q9441,The Buddha,http://www.wikidata.org/entity/Q9441,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q183337,David Attenborough,http://www.wikidata.org/entity/Q183337,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q106508,Gérard Depardieu,http://www.wikidata.org/entity/Q106508,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q36268,Brigitte Bardot,http://www.wikidata.org/entity/Q36268,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q18814623,autobiographer,humans,0
+Q44496,Andréi Chikatilo,http://www.wikidata.org/entity/Q44496,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2251335,school teacher,humans,0
+Q36949,Robert De Niro,http://www.wikidata.org/entity/Q36949,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q578109,television producer,humans,0
+Q43347,Rumi,http://www.wikidata.org/entity/Q43347,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4964182,philosopher,humans,0
+Q179041,Lisa Kudrow,http://www.wikidata.org/entity/Q179041,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q28389,screenwriter,humans,0
+Q47664,Catherine Zeta-Jones,http://www.wikidata.org/entity/Q47664,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q5716684,dancer,humans,0
+Q212064,Channing Tatum,http://www.wikidata.org/entity/Q212064,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q216221,Steve Carell,http://www.wikidata.org/entity/Q216221,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q245068,comedian,humans,0
+Q55400,Hayao Miyazaki,http://www.wikidata.org/entity/Q55400,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q28755,Matthew Broderick,http://www.wikidata.org/entity/Q28755,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q1615,Neil Armstrong,http://www.wikidata.org/entity/Q1615,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10497074,flight engineer,humans,0
+Q41548,Antonio Banderas,http://www.wikidata.org/entity/Q41548,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q231911,Sofía Vergara,http://www.wikidata.org/entity/Q231911,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4610556,model,humans,0
+Q41351,Jodie Foster,http://www.wikidata.org/entity/Q41351,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q30875,Oscar Wilde,http://www.wikidata.org/entity/Q30875,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q11774202,essayist,humans,0
+Q180942,Shia LaBeouf,http://www.wikidata.org/entity/Q180942,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10774753,performance artist,humans,0
+Q102341,Farrah Fawcett,http://www.wikidata.org/entity/Q102341,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q2685,Arnold Schwarzenegger,http://www.wikidata.org/entity/Q2685,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4991371,soldier,humans,0
+Q5383,David Bowie,http://www.wikidata.org/entity/Q5383,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q639669,musician,humans,0
+Q33240,Drake,http://www.wikidata.org/entity/Q33240,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2252262,rapper,humans,0
+Q517,Napoleon,http://www.wikidata.org/entity/Q517,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q189290,military officer,humans,0
+Q8011,Avicenna,http://www.wikidata.org/entity/Q8011,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q39631,physician,humans,0
+Q112536,Joey King,http://www.wikidata.org/entity/Q112536,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2259451,stage actor,humans,0
+Q169963,Jason Statham,http://www.wikidata.org/entity/Q169963,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q176455,Melanie Griffith,http://www.wikidata.org/entity/Q176455,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q8246794,blogger,humans,0
+Q169946,Kate Hudson,http://www.wikidata.org/entity/Q169946,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q6527,Jean-Jacques Rousseau,http://www.wikidata.org/entity/Q6527,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4964182,philosopher,humans,0
+Q296887,Freddie Highmore,http://www.wikidata.org/entity/Q296887,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q1511,Richard Wagner,http://www.wikidata.org/entity/Q1511,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q486748,pianist,humans,0
+Q49001,Whoopi Goldberg,http://www.wikidata.org/entity/Q49001,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q762,Leonardo da Vinci,http://www.wikidata.org/entity/Q762,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36834,composer,humans,0
+Q41421,Michael Jordan,http://www.wikidata.org/entity/Q41421,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q131524,entrepreneur,humans,0
+Q42305,Richard I of England,http://www.wikidata.org/entity/Q42305,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q116,monarch,humans,0
+Q210547,Aubrey Plaza,http://www.wikidata.org/entity/Q210547,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q8011,Avicenna,http://www.wikidata.org/entity/Q8011,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q169470,physicist,humans,0
+Q37594,William the Conqueror,http://www.wikidata.org/entity/Q37594,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q47064,military personnel,humans,0
+Q5816,Mao Zedong,http://www.wikidata.org/entity/Q5816,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q229507,Jayne Mansfield,http://www.wikidata.org/entity/Q229507,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q728711,Playboy Playmate,humans,0
+Q635,Cleopatra,http://www.wikidata.org/entity/Q635,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2304859,sovereign,humans,0
+Q905,Franz Kafka,http://www.wikidata.org/entity/Q905,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q12144794,prose writer,humans,0
+Q9685,"Diana, Princess of Wales",http://www.wikidata.org/entity/Q9685,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2229927,kindergarten teacher,humans,0
+Q49004,Patrick Swayze,http://www.wikidata.org/entity/Q49004,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q488205,singer-songwriter,humans,0
+Q40912,Frank Sinatra,http://www.wikidata.org/entity/Q40912,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q79031,Mike Tyson,http://www.wikidata.org/entity/Q79031,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q15077007,podcaster,humans,0
+Q7243,Leo Tolstoy,http://www.wikidata.org/entity/Q7243,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q6625963,novelist,humans,0
+Q2808,Elton John,http://www.wikidata.org/entity/Q2808,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q55960555,recording artist,humans,0
+Q43874,Eddie Murphy,http://www.wikidata.org/entity/Q43874,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q245068,comedian,humans,0
+Q41594,Christina Aguilera,http://www.wikidata.org/entity/Q41594,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4610556,model,humans,0
+Q271967,Greta Gerwig,http://www.wikidata.org/entity/Q271967,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q214917,playwright,humans,0
+Q1124,Bill Clinton,http://www.wikidata.org/entity/Q1124,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q37226,teacher,humans,0
+Q181282,Enzo Ferrari,http://www.wikidata.org/entity/Q181282,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10349745,racing automobile driver,humans,0
+Q306403,James Franco,http://www.wikidata.org/entity/Q306403,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q236347,Nicola Peltz,http://www.wikidata.org/entity/Q236347,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q270935,Chris Cornell,http://www.wikidata.org/entity/Q270935,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q19723482,mandolinist,humans,0
+Q168724,Emma Thompson,http://www.wikidata.org/entity/Q168724,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q28389,screenwriter,humans,0
+Q8027,Martin Luther King Jr.,http://www.wikidata.org/entity/Q8027,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q16323111,peace activist,humans,0
+Q309555,Michael Cera,http://www.wikidata.org/entity/Q309555,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q19810,Victoria Beckham,http://www.wikidata.org/entity/Q19810,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3501317,fashion designer,humans,0
+Q60029,Oskar Schindler,http://www.wikidata.org/entity/Q60029,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q685433,salesperson,humans,0
+Q210547,Aubrey Plaza,http://www.wikidata.org/entity/Q210547,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q47899,Paris Hilton,http://www.wikidata.org/entity/Q47899,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q512314,socialite,humans,0
+Q9570,Amitabh Bachchan,http://www.wikidata.org/entity/Q9570,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q131814,Tina Turner,http://www.wikidata.org/entity/Q131814,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q55960555,recording artist,humans,0
+Q234773,Priscilla Presley,http://www.wikidata.org/entity/Q234773,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q270935,Chris Cornell,http://www.wikidata.org/entity/Q270935,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q183945,record producer,humans,0
+Q36301,Anne Hathaway,http://www.wikidata.org/entity/Q36301,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q213919,George Foreman,http://www.wikidata.org/entity/Q213919,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q11338576,boxer,humans,0
+Q873,Meryl Streep,http://www.wikidata.org/entity/Q873,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q220308,Seth Rogen,http://www.wikidata.org/entity/Q220308,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q12908,George Soros,http://www.wikidata.org/entity/Q12908,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q104027,Kirk Douglas,http://www.wikidata.org/entity/Q104027,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q7245,Mark Twain,http://www.wikidata.org/entity/Q7245,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3606216,aphorist,humans,0
+Q302,Jesus,http://www.wikidata.org/entity/Q302,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q432386,preacher,humans,0
+Q232902,Jennifer Jason Leigh,http://www.wikidata.org/entity/Q232902,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q37876,Natalie Portman,http://www.wikidata.org/entity/Q37876,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q42775,Johnny Cash,http://www.wikidata.org/entity/Q42775,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q178348,Chris Evans,http://www.wikidata.org/entity/Q178348,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q185152,Puyi,http://www.wikidata.org/entity/Q185152,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q635734,archivist,humans,0
+Q34479,Hirohito,http://www.wikidata.org/entity/Q34479,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q193391,diplomat,humans,0
+Q20875,Edward VII,http://www.wikidata.org/entity/Q20875,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q116,monarch,humans,0
+Q27214,Jerry Springer,http://www.wikidata.org/entity/Q27214,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q36450,Catherine II of Russia,http://www.wikidata.org/entity/Q36450,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q116,monarch,humans,0
+Q58912,Courteney Cox,http://www.wikidata.org/entity/Q58912,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q212518,Patrick Dempsey,http://www.wikidata.org/entity/Q212518,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q5879,Johann Wolfgang von Goethe,http://www.wikidata.org/entity/Q5879,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q350979,zoologist,humans,0
+Q44437,John Cena,http://www.wikidata.org/entity/Q44437,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2252262,rapper,humans,0
+Q23685,Jimmy Carter,http://www.wikidata.org/entity/Q23685,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1476215,human rights activist,humans,0
+Q44329,Bashar al-Assad,http://www.wikidata.org/entity/Q44329,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q12013238,ophthalmologist,humans,0
+Q913,Socrates,http://www.wikidata.org/entity/Q913,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4964182,philosopher,humans,0
+Q311314,Sam Elliott,http://www.wikidata.org/entity/Q311314,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q948329,character actor,humans,0
+Q23685,Jimmy Carter,http://www.wikidata.org/entity/Q23685,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q131512,farmer,humans,0
+Q32732,Malala Yousafzai,http://www.wikidata.org/entity/Q32732,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q8246794,blogger,humans,0
+Q223117,Stanley Tucci,http://www.wikidata.org/entity/Q223117,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q28389,screenwriter,humans,0
+Q5816,Mao Zedong,http://www.wikidata.org/entity/Q5816,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3242115,revolutionary,humans,0
+Q313107,Jon Hamm,http://www.wikidata.org/entity/Q313107,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q83359,James Dean,http://www.wikidata.org/entity/Q83359,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q49034,Hedy Lamarr,http://www.wikidata.org/entity/Q49034,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q184572,Martin Sheen,http://www.wikidata.org/entity/Q184572,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q49001,Whoopi Goldberg,http://www.wikidata.org/entity/Q49001,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q18668527,talk show host,humans,0
+Q67701,Anna Kendrick,http://www.wikidata.org/entity/Q67701,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q16759,Kaley Cuoco,http://www.wikidata.org/entity/Q16759,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q3925,Grace Kelly,http://www.wikidata.org/entity/Q3925,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2259451,stage actor,humans,0
+Q133050,Susan Sarandon,http://www.wikidata.org/entity/Q133050,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q6294,Hillary Clinton,http://www.wikidata.org/entity/Q6294,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q193391,diplomat,humans,0
+Q230004,Rosamund Pike,http://www.wikidata.org/entity/Q230004,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q755070,narrator,humans,0
+Q49004,Patrick Swayze,http://www.wikidata.org/entity/Q49004,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q6078,Dr. Dre,http://www.wikidata.org/entity/Q6078,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3089940,music executive,humans,0
+Q76716,Karl Lagerfeld,http://www.wikidata.org/entity/Q76716,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q8446,Kurt Cobain,http://www.wikidata.org/entity/Q8446,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q12908,George Soros,http://www.wikidata.org/entity/Q12908,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q131524,entrepreneur,humans,0
+Q131412,"Mary, Queen of Scots",http://www.wikidata.org/entity/Q131412,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2478141,aristocrat,humans,0
+Q42101,Denzel Washington,http://www.wikidata.org/entity/Q42101,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2259451,stage actor,humans,0
+Q313316,Romelu Lukaku,http://www.wikidata.org/entity/Q313316,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q937857,association football player,humans,0
+Q83410,Cary Grant,http://www.wikidata.org/entity/Q83410,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q43845,businessperson,humans,0
+Q1514,Janis Joplin,http://www.wikidata.org/entity/Q1514,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36834,composer,humans,0
+Q216221,Steve Carell,http://www.wikidata.org/entity/Q216221,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q948329,character actor,humans,0
+Q2494,Benedict XVI,http://www.wikidata.org/entity/Q2494,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4964182,philosopher,humans,0
+Q44567,Triple H,http://www.wikidata.org/entity/Q44567,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q13474373,professional wrestler,humans,0
+Q7085,Niels Bohr,http://www.wikidata.org/entity/Q7085,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1622272,university teacher,humans,0
+Q5603,Andy Warhol,http://www.wikidata.org/entity/Q5603,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q644687,illustrator,humans,0
+Q535,Victor Hugo,http://www.wikidata.org/entity/Q535,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1925963,graphic artist,humans,0
+Q40715,Jennifer Lopez,http://www.wikidata.org/entity/Q40715,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3282637,film producer,humans,0
+Q1035,Charles Darwin,http://www.wikidata.org/entity/Q1035,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2374149,botanist,humans,0
+Q180453,Dolly Parton,http://www.wikidata.org/entity/Q180453,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q66763708,country singer,humans,0
+Q5603,Andy Warhol,http://www.wikidata.org/entity/Q5603,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1028181,painter,humans,0
+Q240573,Sophie Turner,http://www.wikidata.org/entity/Q240573,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q185051,Christopher Walken,http://www.wikidata.org/entity/Q185051,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q132537,Robert Oppenheimer,http://www.wikidata.org/entity/Q132537,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q121867593,science administrator,humans,0
+Q9960,Ronald Reagan,http://www.wikidata.org/entity/Q9960,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q189290,military officer,humans,0
+Q41351,Jodie Foster,http://www.wikidata.org/entity/Q41351,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q948329,character actor,humans,0
+Q36268,Brigitte Bardot,http://www.wikidata.org/entity/Q36268,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3357567,fashion model,humans,0
+Q311723,Donnie Yen,http://www.wikidata.org/entity/Q311723,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q9017214,karateka,humans,0
+Q150916,Jon Bon Jovi,http://www.wikidata.org/entity/Q150916,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q855091,guitarist,humans,0
+Q79972,James VI and I,http://www.wikidata.org/entity/Q79972,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q49757,poet,humans,0
+Q1450,Bruno Mars,http://www.wikidata.org/entity/Q1450,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q213919,George Foreman,http://www.wikidata.org/entity/Q213919,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q43845,businessperson,humans,0
+Q20145,IU,http://www.wikidata.org/entity/Q20145,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q753110,songwriter,humans,0
+Q119702,Anne of Great Britain,http://www.wikidata.org/entity/Q119702,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q372436,statesperson,humans,0
+Q39464,Pol Pot,http://www.wikidata.org/entity/Q39464,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q189290,military officer,humans,0
+Q127318,George III of Great Britain,http://www.wikidata.org/entity/Q127318,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q15472169,patron of the arts,humans,0
+Q7241,Rabindranath Tagore,http://www.wikidata.org/entity/Q7241,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q12003,Cher,http://www.wikidata.org/entity/Q12003,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q103946,Kiefer Sutherland,http://www.wikidata.org/entity/Q103946,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2259451,stage actor,humans,0
+Q36450,Catherine II of Russia,http://www.wikidata.org/entity/Q36450,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2478141,aristocrat,humans,0
+Q49001,Whoopi Goldberg,http://www.wikidata.org/entity/Q49001,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4853732,children's writer,humans,0
+Q170428,Helena Bonham Carter,http://www.wikidata.org/entity/Q170428,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q313107,Jon Hamm,http://www.wikidata.org/entity/Q313107,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q44430,Vince McMahon,http://www.wikidata.org/entity/Q44430,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q123423616,professional wrestling promoter,humans,0
+Q16397,Bruce Lee,http://www.wikidata.org/entity/Q16397,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q25144,Kevin Spacey,http://www.wikidata.org/entity/Q25144,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q16397,Bruce Lee,http://www.wikidata.org/entity/Q16397,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q9191,René Descartes,http://www.wikidata.org/entity/Q9191,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q30134437,mechanical automaton engineer,humans,0
+Q208871,Ike Turner,http://www.wikidata.org/entity/Q208871,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q806349,bandleader,humans,0
+Q36970,Jackie Chan,http://www.wikidata.org/entity/Q36970,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q179041,Lisa Kudrow,http://www.wikidata.org/entity/Q179041,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q948329,character actor,humans,0
+Q48337,Morgan Freeman,http://www.wikidata.org/entity/Q48337,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2095549,aircraft pilot,humans,0
+Q202589,Cillian Murphy,http://www.wikidata.org/entity/Q202589,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q310937,Peter Dinklage,http://www.wikidata.org/entity/Q310937,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q36767,Robert Pattinson,http://www.wikidata.org/entity/Q36767,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q177220,singer,humans,0
+Q42493,Katy Perry,http://www.wikidata.org/entity/Q42493,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q5716684,dancer,humans,0
+Q271967,Greta Gerwig,http://www.wikidata.org/entity/Q271967,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q36180,writer,humans,0
+Q8423,Cyrus the Great,http://www.wikidata.org/entity/Q8423,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1402561,military leader,humans,0
+Q9488,Sachin Tendulkar,http://www.wikidata.org/entity/Q9488,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q12299841,cricketer,humans,0
+Q5593,Pablo Picasso,http://www.wikidata.org/entity/Q5593,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2707485,scenographer,humans,0
+Q80976,"Prince Philip, Duke of Edinburgh",http://www.wikidata.org/entity/Q80976,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q189290,military officer,humans,0
+Q171905,Jamie Foxx,http://www.wikidata.org/entity/Q171905,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q214959,Harry Belafonte,http://www.wikidata.org/entity/Q214959,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q43347,Rumi,http://www.wikidata.org/entity/Q43347,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1234713,theologian,humans,0
+Q201279,Woody Harrelson,http://www.wikidata.org/entity/Q201279,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3387717,theatrical director,humans,0
+Q180942,Shia LaBeouf,http://www.wikidata.org/entity/Q180942,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q83325,Pamela Anderson,http://www.wikidata.org/entity/Q83325,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q947873,television presenter,humans,0
+Q2677,Wilhelm II,http://www.wikidata.org/entity/Q2677,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q482980,author,humans,0
+Q214601,David Tennant,http://www.wikidata.org/entity/Q214601,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2259451,stage actor,humans,0
+Q882,Charlie Chaplin,http://www.wikidata.org/entity/Q882,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q188459,Goldie Hawn,http://www.wikidata.org/entity/Q188459,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q947873,television presenter,humans,0
+Q212518,Patrick Dempsey,http://www.wikidata.org/entity/Q212518,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q17307272,circus performer,humans,0
+Q234644,Elizabeth Olsen,http://www.wikidata.org/entity/Q234644,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q57655,Mohammed bin Rashid Al Maktoum,http://www.wikidata.org/entity/Q57655,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q43845,businessperson,humans,0
+Q174311,Christopher Reeve,http://www.wikidata.org/entity/Q174311,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q230530,Sarah Shahi,http://www.wikidata.org/entity/Q230530,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q162202,Nicki Minaj,http://www.wikidata.org/entity/Q162202,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q4610556,model,humans,0
+Q78489,Niki Lauda,http://www.wikidata.org/entity/Q78489,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q131524,entrepreneur,humans,0
+Q162389,Tony Curtis,http://www.wikidata.org/entity/Q162389,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1028181,painter,humans,0
+Q110374,Bill Paxton,http://www.wikidata.org/entity/Q110374,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10798782,television actor,humans,0
+Q147077,Emma Stone,http://www.wikidata.org/entity/Q147077,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q185572,Mikel Arteta,http://www.wikidata.org/entity/Q185572,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q628099,association football coach,humans,0
+Q56008,Tim Burton,http://www.wikidata.org/entity/Q56008,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2526255,film director,humans,0
+Q42581,Keira Knightley,http://www.wikidata.org/entity/Q42581,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q43723,Benjamin Netanyahu,http://www.wikidata.org/entity/Q43723,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1238570,political scientist,humans,0
+Q193815,Ryan Gosling,http://www.wikidata.org/entity/Q193815,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0
+Q1203,John Lennon,http://www.wikidata.org/entity/Q1203,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q662729,public figure,humans,0
+Q16759,Kaley Cuoco,http://www.wikidata.org/entity/Q16759,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1053574,executive producer,humans,0
+Q43044,Demi Moore,http://www.wikidata.org/entity/Q43044,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q180453,Dolly Parton,http://www.wikidata.org/entity/Q180453,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q753110,songwriter,humans,0
+Q7241,Rabindranath Tagore,http://www.wikidata.org/entity/Q7241,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q30242234,freedom fighter,humans,0
+Q49001,Whoopi Goldberg,http://www.wikidata.org/entity/Q49001,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q948329,character actor,humans,0
+Q43274,Charles III of the United Kingdom,http://www.wikidata.org/entity/Q43274,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q13218361,polo player,humans,0
+Q189758,Marvin Gaye,http://www.wikidata.org/entity/Q189758,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q486748,pianist,humans,0
+Q39476,Emma Watson,http://www.wikidata.org/entity/Q39476,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q970153,child actor,humans,0
+Q308840,Jean-Claude Van Damme,http://www.wikidata.org/entity/Q308840,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q6733,Edward Teller,http://www.wikidata.org/entity/Q6733,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q1622272,university teacher,humans,0
+Q5928,Jimi Hendrix,http://www.wikidata.org/entity/Q5928,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q855091,guitarist,humans,0
+Q208026,Tom Hardy,http://www.wikidata.org/entity/Q208026,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q28389,screenwriter,humans,0
+Q6096,Snoop Dogg,http://www.wikidata.org/entity/Q6096,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q2405480,voice actor,humans,0
+Q8877,Steven Spielberg,http://www.wikidata.org/entity/Q8877,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q3455803,director,humans,0
+Q42493,Katy Perry,http://www.wikidata.org/entity/Q42493,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q33999,actor,humans,0
+Q201279,Woody Harrelson,http://www.wikidata.org/entity/Q201279,http://www.wikidata.org/prop/direct/P106,occupation,http://www.wikidata.org/entity/Q10800557,film actor,humans,0

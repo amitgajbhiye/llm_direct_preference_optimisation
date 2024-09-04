@@ -1,0 +1,46 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q3375,Zugspitze,http://www.wikidata.org/entity/Q3375,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15312,Jungfrau,http://www.wikidata.org/entity/Q15312,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q16525,Mönch,http://www.wikidata.org/entity/Q16525,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15134,Tödi,http://www.wikidata.org/entity/Q15134,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q16539,Schreckhorn,http://www.wikidata.org/entity/Q16539,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15293,Aletschhorn,http://www.wikidata.org/entity/Q15293,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15305,Blüemlisalp,http://www.wikidata.org/entity/Q15305,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15289,Bietschhorn,http://www.wikidata.org/entity/Q15289,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15133,Dammastock,http://www.wikidata.org/entity/Q15133,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15294,Balmhorn,http://www.wikidata.org/entity/Q15294,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q15249,Wildhorn,http://www.wikidata.org/entity/Q15249,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q30495,Gross Fiescherhorn,http://www.wikidata.org/entity/Q30495,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q176101,Agassizhorn,http://www.wikidata.org/entity/Q176101,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q163131,Hockenhorn,http://www.wikidata.org/entity/Q163131,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q84166,L'Argentine,http://www.wikidata.org/entity/Q84166,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15127,Finsteraarhorn,mountains,1
+Q131230,Mauna Kea,http://www.wikidata.org/entity/Q131230,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/.well-known/genid/3b67fcbb2b09ff0e6c3993e6c2266561,3b67fcbb2b09ff0e6c3993e6c2266561,mountains,0
+Q192356,Le Linleu,http://www.wikidata.org/entity/Q192356,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q85166,Cornettes de Bise,mountains,0
+Q117414,Pic Chaussy,http://www.wikidata.org/entity/Q117414,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q1750006,Le Tarent,mountains,0
+Q136840,Pointe d'Otemma,http://www.wikidata.org/entity/Q136840,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q631690,Pigne d'Arolla,mountains,0
+Q16544,Hundwiler Höhi,http://www.wikidata.org/entity/Q16544,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15224,Säntis,mountains,0
+Q200808,Černá hora,http://www.wikidata.org/entity/Q200808,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q617511,Sněžka,mountains,0
+Q16530,Gross Schärhorn,http://www.wikidata.org/entity/Q16530,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15134,Tödi,mountains,0
+Q16540,Breithorn,http://www.wikidata.org/entity/Q16540,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q3403,Dufourspitze,mountains,0
+Q191711,Berneuse,http://www.wikidata.org/entity/Q191711,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q675673,Tour d'Aï,mountains,0
+Q4050,Medvědí vrch,http://www.wikidata.org/entity/Q4050,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q674016,Praděd,mountains,0
+Q15268,Bruschghorn,http://www.wikidata.org/entity/Q15268,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15135,Rheinwaldhorn,mountains,0
+Q141470,Dent de Savigny,http://www.wikidata.org/entity/Q141470,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15225,Vanil Noir,mountains,0
+Q185990,Blinnenhorn,http://www.wikidata.org/entity/Q185990,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15133,Dammastock,mountains,0
+Q258275,Äussere Schwarze Schneid,http://www.wikidata.org/entity/Q258275,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q592455,Innere Schwarze Schneid,mountains,0
+Q30436,Lenzspitze,http://www.wikidata.org/entity/Q30436,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q30426,Nadelhorn,mountains,0
+Q30499,Lauteraarhorn,http://www.wikidata.org/entity/Q30499,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q16539,Schreckhorn,mountains,0
+Q5059,Aoraki / Mount Cook,http://www.wikidata.org/entity/Q5059,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q188982,Mount Erebus,mountains,0
+Q41205,Beinn Luibhean,http://www.wikidata.org/entity/Q41205,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q3396753,Beinn Ìme,mountains,0
+Q136829,Pointe Kurz,http://www.wikidata.org/entity/Q136829,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q404738,Aiguille d'Argentière,mountains,0
+Q16592,Brünnelistock,http://www.wikidata.org/entity/Q16592,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q141486,Mutteristock,mountains,0
+Q141463,Schilt,http://www.wikidata.org/entity/Q141463,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q8536830,Siwellen,mountains,0
+Q16701,Schiahorn,http://www.wikidata.org/entity/Q16701,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q670215,Weissfluh,mountains,0
+Q16672,Altmann,http://www.wikidata.org/entity/Q16672,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15224,Säntis,mountains,0
+Q82662,Silberhorn,http://www.wikidata.org/entity/Q82662,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15312,Jungfrau,mountains,0
+Q15310,Piz Curvér,http://www.wikidata.org/entity/Q15310,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q664661,Piz Grisch,mountains,0
+Q30457,Strahlhorn,http://www.wikidata.org/entity/Q30457,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q30455,Rimpfischhorn,mountains,0
+Q117417,Männlichen,http://www.wikidata.org/entity/Q117417,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q7849473,Tschuggen,mountains,0
+Q15297,Piz Fess,http://www.wikidata.org/entity/Q15297,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15135,Rheinwaldhorn,mountains,0
+Q257696,Piz da las Trais Linguas,http://www.wikidata.org/entity/Q257696,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q2202948,Punta Rosa,mountains,0
+Q30490,Ober Gabelhorn,http://www.wikidata.org/entity/Q30490,http://www.wikidata.org/prop/direct/P3137,parent peak,http://www.wikidata.org/entity/Q15122,Weisshorn,mountains,0

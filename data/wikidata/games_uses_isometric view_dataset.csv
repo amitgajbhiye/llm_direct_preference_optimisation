@@ -1,0 +1,40 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q220960,Diablo,http://www.wikidata.org/entity/Q220960,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q244033,Diablo II,http://www.wikidata.org/entity/Q244033,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q60102,Fallout,http://www.wikidata.org/entity/Q60102,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q34852,Age of Empires II: The Age of Kings,http://www.wikidata.org/entity/Q34852,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q2374,Civilization III,http://www.wikidata.org/entity/Q2374,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q392321,Age of Wonders,http://www.wikidata.org/entity/Q392321,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q424271,Freeciv,http://www.wikidata.org/entity/Q424271,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q254723,Cannon Fodder,http://www.wikidata.org/entity/Q254723,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q91247,Zaxxon,http://www.wikidata.org/entity/Q91247,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q510054,Emperor: Rise of the Middle Kingdom,http://www.wikidata.org/entity/Q510054,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q389215,Afterlife,http://www.wikidata.org/entity/Q389215,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q162028,FreeCol,http://www.wikidata.org/entity/Q162028,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q494842,Darkeden,http://www.wikidata.org/entity/Q494842,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q509832,CyberStorm 2: Corporate Wars,http://www.wikidata.org/entity/Q509832,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q455853,Amaurote,http://www.wikidata.org/entity/Q455853,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4503635,isometric view,games,1
+Q49740,Minecraft,http://www.wikidata.org/entity/Q49740,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q18435048,Standard Galactic Alphabet,games,0
+Q49740,Minecraft,http://www.wikidata.org/entity/Q49740,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q64015809,End Poem,games,0
+Q71910,Tetris,http://www.wikidata.org/entity/Q71910,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q2082757,tetromino,games,0
+Q131007,World of Warcraft,http://www.wikidata.org/entity/Q131007,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q619942,ray tracing,games,0
+Q482494,Steins;Gate,http://www.wikidata.org/entity/Q482494,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q186610,time loop,games,0
+Q380918,Call of Duty: Black Ops II,http://www.wikidata.org/entity/Q380918,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q186610,time loop,games,0
+Q216293,Pong,http://www.wikidata.org/entity/Q216293,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q174925,analog electronics,games,0
+Q60102,Fallout,http://www.wikidata.org/entity/Q60102,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q115207305,bird's-eye view,games,0
+Q220965,Heroes of Might and Magic III,http://www.wikidata.org/entity/Q220965,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q1783108,hex map,games,0
+Q307441,osu!,http://www.wikidata.org/entity/Q307441,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q5289,.NET Framework,games,0
+Q247210,Need for Speed: Underground,http://www.wikidata.org/entity/Q247210,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q753025,car tuning,games,0
+Q248810,Dwarf Fortress,http://www.wikidata.org/entity/Q248810,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q1105757,Code page 437,games,0
+Q45028,Halo 4,http://www.wikidata.org/entity/Q45028,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q272597,Maya,games,0
+Q55535,1943: The Battle of Midway,http://www.wikidata.org/entity/Q55535,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4405215,title screen,games,0
+Q55535,1943: The Battle of Midway,http://www.wikidata.org/entity/Q55535,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q118151379,Mode 0,games,0
+Q214142,The Battle For Wesnoth,http://www.wikidata.org/entity/Q214142,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q1783108,hex map,games,0
+Q532912,Heroes of Might and Magic II,http://www.wikidata.org/entity/Q532912,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q1783108,hex map,games,0
+Q532474,Cube 2: Sauerbraten,http://www.wikidata.org/entity/Q532474,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q115682633,ENet,games,0
+Q55536,10th Frame,http://www.wikidata.org/entity/Q55536,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q118148581,Mode 1,games,0
+Q528638,Gangbusters,http://www.wikidata.org/entity/Q528638,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q17638573,ten-sided die,games,0
+Q55537,180,http://www.wikidata.org/entity/Q55537,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4405215,title screen,games,0
+Q55537,180,http://www.wikidata.org/entity/Q55537,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q118148581,Mode 1,games,0
+Q88456,A Question of Sport,http://www.wikidata.org/entity/Q88456,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q4405215,title screen,games,0
+Q88456,A Question of Sport,http://www.wikidata.org/entity/Q88456,http://www.wikidata.org/prop/direct/P2283,uses,http://www.wikidata.org/entity/Q118151379,Mode 0,games,0

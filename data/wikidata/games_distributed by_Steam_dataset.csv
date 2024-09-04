@@ -1,0 +1,907 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q17452,Grand Theft Auto V,http://www.wikidata.org/entity/Q17452,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q94671,Grand Theft Auto: Vice City,http://www.wikidata.org/entity/Q94671,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q94797,Grand Theft Auto IV,http://www.wikidata.org/entity/Q94797,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q323862,The Elder Scrolls V: Skyrim,http://www.wikidata.org/entity/Q323862,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q486233,Call of Duty: Modern Warfare 3,http://www.wikidata.org/entity/Q486233,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q214232,Final Fantasy VII,http://www.wikidata.org/entity/Q214232,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q486351,Call of Duty: Modern Warfare 2,http://www.wikidata.org/entity/Q486351,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q149106,Grand Theft Auto III,http://www.wikidata.org/entity/Q149106,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q200864,Assassin's Creed,http://www.wikidata.org/entity/Q200864,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q279744,Half-Life,http://www.wikidata.org/entity/Q279744,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q76255,Call of Duty 4: Modern Warfare,http://www.wikidata.org/entity/Q76255,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q57270,BioShock,http://www.wikidata.org/entity/Q57270,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q163628,Counter-Strike,http://www.wikidata.org/entity/Q163628,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q207986,Call of Duty: Black Ops,http://www.wikidata.org/entity/Q207986,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q40166,Assassin's Creed III,http://www.wikidata.org/entity/Q40166,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q482494,Steins;Gate,http://www.wikidata.org/entity/Q482494,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q162751,Metro 2033,http://www.wikidata.org/entity/Q162751,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q94501,Grand Theft Auto,http://www.wikidata.org/entity/Q94501,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q380918,Call of Duty: Black Ops II,http://www.wikidata.org/entity/Q380918,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q211096,Call of Duty,http://www.wikidata.org/entity/Q211096,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q211735,Assassin's Creed II,http://www.wikidata.org/entity/Q211735,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q193581,Half-Life 2,http://www.wikidata.org/entity/Q193581,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q287637,The Witcher,http://www.wikidata.org/entity/Q287637,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q59154,Mafia II,http://www.wikidata.org/entity/Q59154,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q288811,Batman: Arkham City,http://www.wikidata.org/entity/Q288811,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q207797,Call of Duty: World at War,http://www.wikidata.org/entity/Q207797,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q49607,The Elder Scrolls IV: Oblivion,http://www.wikidata.org/entity/Q49607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q221164,Fallout 3,http://www.wikidata.org/entity/Q221164,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q274897,Portal,http://www.wikidata.org/entity/Q274897,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q535940,Final Fantasy VI,http://www.wikidata.org/entity/Q535940,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q382108,Team Fortress 2,http://www.wikidata.org/entity/Q382108,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q60102,Fallout,http://www.wikidata.org/entity/Q60102,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q166226,Beyond: Two Souls,http://www.wikidata.org/entity/Q166226,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q327594,Final Fantasy XII,http://www.wikidata.org/entity/Q327594,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q213217,Mafia,http://www.wikidata.org/entity/Q213217,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q390595,Final Fantasy XIII,http://www.wikidata.org/entity/Q390595,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q217423,Quake,http://www.wikidata.org/entity/Q217423,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q323264,Dishonored,http://www.wikidata.org/entity/Q323264,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q94460,Grand Theft Auto 2,http://www.wikidata.org/entity/Q94460,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q215861,S.T.A.L.K.E.R.: Shadow of Chernobyl,http://www.wikidata.org/entity/Q215861,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q279446,Portal 2,http://www.wikidata.org/entity/Q279446,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q245006,Final Fantasy VIII,http://www.wikidata.org/entity/Q245006,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q210298,Call of Duty 2,http://www.wikidata.org/entity/Q210298,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q472909,Left 4 Dead 2,http://www.wikidata.org/entity/Q472909,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q18940,Wolfenstein 3D,http://www.wikidata.org/entity/Q18940,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q474573,Final Fantasy IX,http://www.wikidata.org/entity/Q474573,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q323981,Left 4 Dead,http://www.wikidata.org/entity/Q323981,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q110607,Clannad,http://www.wikidata.org/entity/Q110607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q22986,Amnesia: The Dark Descent,http://www.wikidata.org/entity/Q22986,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q37123,Sonic the Hedgehog,http://www.wikidata.org/entity/Q37123,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q379128,Plants vs. Zombies,http://www.wikidata.org/entity/Q379128,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q187732,RuneScape,http://www.wikidata.org/entity/Q187732,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q336177,EVE Online,http://www.wikidata.org/entity/Q336177,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q337865,Far Cry,http://www.wikidata.org/entity/Q337865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q317620,Tomb Raider,http://www.wikidata.org/entity/Q317620,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q275960,Mass Effect,http://www.wikidata.org/entity/Q275960,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q283878,Halo: Reach,http://www.wikidata.org/entity/Q283878,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q473852,Prototype,http://www.wikidata.org/entity/Q473852,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q388225,Command & Conquer: Red Alert,http://www.wikidata.org/entity/Q388225,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q237484,Crysis,http://www.wikidata.org/entity/Q237484,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q185482,The Sims 3,http://www.wikidata.org/entity/Q185482,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q496526,Tales of Symphonia,http://www.wikidata.org/entity/Q496526,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q277377,Catherine,http://www.wikidata.org/entity/Q277377,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q302839,BioShock 2,http://www.wikidata.org/entity/Q302839,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q211229,Black Mesa,http://www.wikidata.org/entity/Q211229,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q210844,Spore,http://www.wikidata.org/entity/Q210844,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q76868,Assassin's Creed III: Liberation,http://www.wikidata.org/entity/Q76868,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q248810,Dwarf Fortress,http://www.wikidata.org/entity/Q248810,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q176336,Far Cry 2,http://www.wikidata.org/entity/Q176336,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q271062,Age of Mythology,http://www.wikidata.org/entity/Q271062,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q475628,Ragnarok Online,http://www.wikidata.org/entity/Q475628,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q129277,Hitman: Absolution,http://www.wikidata.org/entity/Q129277,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q473673,Counter-Strike: Source,http://www.wikidata.org/entity/Q473673,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q239889,Hitman: Blood Money,http://www.wikidata.org/entity/Q239889,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q477199,Lineage II,http://www.wikidata.org/entity/Q477199,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q526350,Mirror's Edge,http://www.wikidata.org/entity/Q526350,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q206653,Battlefield 2,http://www.wikidata.org/entity/Q206653,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q34869,Age of Empires III,http://www.wikidata.org/entity/Q34869,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q282623,Legacy of Kain: Soul Reaver,http://www.wikidata.org/entity/Q282623,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q2385,Civilization V,http://www.wikidata.org/entity/Q2385,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q484907,Guild Wars 2,http://www.wikidata.org/entity/Q484907,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q74669,Star Wars Knights of the Old Republic II: The Sith Lords,http://www.wikidata.org/entity/Q74669,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q471803,Rome: Total War,http://www.wikidata.org/entity/Q471803,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q268616,Metin2,http://www.wikidata.org/entity/Q268616,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q471974,Need for Speed: Undercover,http://www.wikidata.org/entity/Q471974,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q377242,Tom Clancy's Splinter Cell,http://www.wikidata.org/entity/Q377242,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q483207,TERA,http://www.wikidata.org/entity/Q483207,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q484233,Dungeon Fighter Online,http://www.wikidata.org/entity/Q484233,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q290534,Quake 4,http://www.wikidata.org/entity/Q290534,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q74401,Indiana Jones and the Fate of Atlantis,http://www.wikidata.org/entity/Q74401,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q324871,Titan Quest,http://www.wikidata.org/entity/Q324871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55287,Star Wars: Dark Forces,http://www.wikidata.org/entity/Q55287,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q26097,XCOM: Enemy Unknown,http://www.wikidata.org/entity/Q26097,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q2377,Civilization IV,http://www.wikidata.org/entity/Q2377,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q310003,Killer7,http://www.wikidata.org/entity/Q310003,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q40177,Sonic & Knuckles,http://www.wikidata.org/entity/Q40177,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q54865,Star Wars: Battlefront II,http://www.wikidata.org/entity/Q54865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q5766,VVVVVV,http://www.wikidata.org/entity/Q5766,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q538821,Crysis 3,http://www.wikidata.org/entity/Q538821,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55295,Star Wars Jedi Knight: Jedi Academy,http://www.wikidata.org/entity/Q55295,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q130578,Divinity II,http://www.wikidata.org/entity/Q130578,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q454621,Rise of Nations,http://www.wikidata.org/entity/Q454621,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55214,Lego Star Wars: The Complete Saga,http://www.wikidata.org/entity/Q55214,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q338486,Street Fighter X Tekken,http://www.wikidata.org/entity/Q338486,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q349413,Homefront,http://www.wikidata.org/entity/Q349413,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q349433,Turok,http://www.wikidata.org/entity/Q349433,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q240143,Maniac Mansion,http://www.wikidata.org/entity/Q240143,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q379169,Carmageddon,http://www.wikidata.org/entity/Q379169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55298,Star Wars Jedi Knight II: Jedi Outcast,http://www.wikidata.org/entity/Q55298,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q74539,Star Wars: The Force Unleashed II,http://www.wikidata.org/entity/Q74539,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q533304,Tom Clancy's Splinter Cell: Chaos Theory,http://www.wikidata.org/entity/Q533304,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q74545,Lego Batman: The Videogame,http://www.wikidata.org/entity/Q74545,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q392311,Saw,http://www.wikidata.org/entity/Q392311,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q264257,Tribal Wars,http://www.wikidata.org/entity/Q264257,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q18951,Half-Life 2: Episode One,http://www.wikidata.org/entity/Q18951,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q4104,Need for Speed: Shift,http://www.wikidata.org/entity/Q4104,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q285449,Ef: A Fairy Tale of the Two,http://www.wikidata.org/entity/Q285449,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q204105,Dig Dug,http://www.wikidata.org/entity/Q204105,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q379438,Enslaved: Odyssey to the West,http://www.wikidata.org/entity/Q379438,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q83565,Epic Mickey 2: The Power of Two,http://www.wikidata.org/entity/Q83565,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q489800,Lineage,http://www.wikidata.org/entity/Q489800,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55315,Star Wars: Empire at War,http://www.wikidata.org/entity/Q55315,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q498469,Postal III,http://www.wikidata.org/entity/Q498469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q74630,Lego Indiana Jones: The Original Adventures,http://www.wikidata.org/entity/Q74630,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q500851,Company of Heroes,http://www.wikidata.org/entity/Q500851,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55291,Star Wars Jedi Knight: Dark Forces II,http://www.wikidata.org/entity/Q55291,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q428297,Test Drive Unlimited 2,http://www.wikidata.org/entity/Q428297,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55272,Star Wars Galaxies,http://www.wikidata.org/entity/Q55272,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q161192,007 Legends,http://www.wikidata.org/entity/Q161192,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q296744,ARMA 2,http://www.wikidata.org/entity/Q296744,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q27107,DC Universe Online,http://www.wikidata.org/entity/Q27107,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q252198,Deus Ex: Invisible War,http://www.wikidata.org/entity/Q252198,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q54859,Star Wars: Battlefront,http://www.wikidata.org/entity/Q54859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q2374,Civilization III,http://www.wikidata.org/entity/Q2374,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q392321,Age of Wonders,http://www.wikidata.org/entity/Q392321,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q54297,Star Wars: Rogue Squadron,http://www.wikidata.org/entity/Q54297,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q266079,Alpha Protocol,http://www.wikidata.org/entity/Q266079,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q406414,Aion,http://www.wikidata.org/entity/Q406414,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q117859,Trine,http://www.wikidata.org/entity/Q117859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55217,Star Wars Episode I: Racer,http://www.wikidata.org/entity/Q55217,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q130887,Killing Floor,http://www.wikidata.org/entity/Q130887,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q372412,Sid Meier's Alpha Centauri,http://www.wikidata.org/entity/Q372412,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q20420,Empire Earth,http://www.wikidata.org/entity/Q20420,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q2387,Commandos 2: Men of Courage,http://www.wikidata.org/entity/Q2387,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q376217,Driver: Parallel Lines,http://www.wikidata.org/entity/Q376217,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q472645,Arcania,http://www.wikidata.org/entity/Q472645,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q257816,The Sims Medieval,http://www.wikidata.org/entity/Q257816,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q528310,Shogun: Total War,http://www.wikidata.org/entity/Q528310,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55228,Lego Star Wars III: The Clone Wars,http://www.wikidata.org/entity/Q55228,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q28418,Cossacks: European Wars,http://www.wikidata.org/entity/Q28418,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q162707,Sonic & Sega All-Stars Racing,http://www.wikidata.org/entity/Q162707,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q133427,State of Decay,http://www.wikidata.org/entity/Q133427,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55263,Star Wars: Shadows of the Empire,http://www.wikidata.org/entity/Q55263,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q223629,Half-Life 2: Lost Coast,http://www.wikidata.org/entity/Q223629,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q278771,Worms,http://www.wikidata.org/entity/Q278771,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q254255,iRacing,http://www.wikidata.org/entity/Q254255,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q245749,The Darkness II,http://www.wikidata.org/entity/Q245749,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q201792,Torchlight,http://www.wikidata.org/entity/Q201792,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q134138,The Lion King,http://www.wikidata.org/entity/Q134138,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q219119,ZombiU,http://www.wikidata.org/entity/Q219119,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q248611,Rocksmith,http://www.wikidata.org/entity/Q248611,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q128291,Anno 2070,http://www.wikidata.org/entity/Q128291,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q195280,Toy Story 3,http://www.wikidata.org/entity/Q195280,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q182409,Amnesia,http://www.wikidata.org/entity/Q182409,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q74683,Lego Indiana Jones 2: The Adventure Continues,http://www.wikidata.org/entity/Q74683,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q222473,Hearts of Iron III,http://www.wikidata.org/entity/Q222473,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q333367,PlanetSide 2,http://www.wikidata.org/entity/Q333367,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q226865,Fate,http://www.wikidata.org/entity/Q226865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q83524,Family Guy: Back to the Multiverse,http://www.wikidata.org/entity/Q83524,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q214142,The Battle For Wesnoth,http://www.wikidata.org/entity/Q214142,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q484877,Point Blank,http://www.wikidata.org/entity/Q484877,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q532743,I Am Alive,http://www.wikidata.org/entity/Q532743,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q489132,Hellgate: London,http://www.wikidata.org/entity/Q489132,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q486189,Elsword,http://www.wikidata.org/entity/Q486189,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q153547,The Incredible Hulk,http://www.wikidata.org/entity/Q153547,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q226805,Torchlight II,http://www.wikidata.org/entity/Q226805,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q182507,Da Capo III,http://www.wikidata.org/entity/Q182507,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q483850,Alliance of Valiant Arms,http://www.wikidata.org/entity/Q483850,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55312,Star Wars: TIE Fighter,http://www.wikidata.org/entity/Q55312,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q427198,Pandemonium!,http://www.wikidata.org/entity/Q427198,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q284203,Hexen II,http://www.wikidata.org/entity/Q284203,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q144559,Zak McKracken and the Alien Mindbenders,http://www.wikidata.org/entity/Q144559,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q532178,Colin McRae: Dirt,http://www.wikidata.org/entity/Q532178,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q496566,TalesRunner,http://www.wikidata.org/entity/Q496566,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q349087,Tron: Evolution,http://www.wikidata.org/entity/Q349087,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q392183,Age of Conan,http://www.wikidata.org/entity/Q392183,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q94355,Cars 2,http://www.wikidata.org/entity/Q94355,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q392707,Frontlines: Fuel of War,http://www.wikidata.org/entity/Q392707,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q259804,Ghost in the Shell,http://www.wikidata.org/entity/Q259804,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q304258,Empire Earth II,http://www.wikidata.org/entity/Q304258,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q136597,Z,http://www.wikidata.org/entity/Q136597,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q515279,Tribes: Ascend,http://www.wikidata.org/entity/Q515279,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q385270,Bionic Commando,http://www.wikidata.org/entity/Q385270,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q287409,De Blob,http://www.wikidata.org/entity/Q287409,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q374320,Disney's Hercules,http://www.wikidata.org/entity/Q374320,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q495263,Cabal Online,http://www.wikidata.org/entity/Q495263,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q307199,Eden*,http://www.wikidata.org/entity/Q307199,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q296101,APB: All Points Bulletin,http://www.wikidata.org/entity/Q296101,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q537381,Shadowgate,http://www.wikidata.org/entity/Q537381,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q34920,Age of Empires Online,http://www.wikidata.org/entity/Q34920,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q392678,Red Orchestra 2: Heroes of Stalingrad,http://www.wikidata.org/entity/Q392678,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q400488,Game of Thrones,http://www.wikidata.org/entity/Q400488,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q428715,American Conquest,http://www.wikidata.org/entity/Q428715,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q250019,Unreal II: The Awakening,http://www.wikidata.org/entity/Q250019,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q483454,Anachronox,http://www.wikidata.org/entity/Q483454,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q113289,Chivalry: Medieval Warfare,http://www.wikidata.org/entity/Q113289,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q54850,Star Wars: The Clone Wars – Republic Heroes,http://www.wikidata.org/entity/Q54850,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q250989,TOCA Race Driver 3,http://www.wikidata.org/entity/Q250989,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q19419,Rappelz,http://www.wikidata.org/entity/Q19419,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q379807,Advent Rising,http://www.wikidata.org/entity/Q379807,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q28362,Cossacks II: Napoleonic Wars,http://www.wikidata.org/entity/Q28362,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q88855,California Games,http://www.wikidata.org/entity/Q88855,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q286737,The Path,http://www.wikidata.org/entity/Q286737,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q393059,Lego The Hobbit,http://www.wikidata.org/entity/Q393059,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q523445,Way of the Samurai 4,http://www.wikidata.org/entity/Q523445,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q536859,Darkest of Days,http://www.wikidata.org/entity/Q536859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q218568,Super Hexagon,http://www.wikidata.org/entity/Q218568,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55607,Bonanza Bros.,http://www.wikidata.org/entity/Q55607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q187894,Robin Hood: The Legend of Sherwood,http://www.wikidata.org/entity/Q187894,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q187351,Split/Second,http://www.wikidata.org/entity/Q187351,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q495044,Knight Online,http://www.wikidata.org/entity/Q495044,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q54853,Star Wars: X-Wing,http://www.wikidata.org/entity/Q54853,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q306348,Narcissu,http://www.wikidata.org/entity/Q306348,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q337995,Mushihimesama,http://www.wikidata.org/entity/Q337995,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55225,Star Wars: Starfighter,http://www.wikidata.org/entity/Q55225,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q126474,Transformice,http://www.wikidata.org/entity/Q126474,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q93951,Little Inferno,http://www.wikidata.org/entity/Q93951,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q13165,Death to Spies,http://www.wikidata.org/entity/Q13165,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q478583,London 2012,http://www.wikidata.org/entity/Q478583,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q268256,Still Life,http://www.wikidata.org/entity/Q268256,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q258530,Knights of Honor,http://www.wikidata.org/entity/Q258530,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q28226,Army Men: RTS,http://www.wikidata.org/entity/Q28226,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q486410,Anarchy Online,http://www.wikidata.org/entity/Q486410,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q302319,Darkest Hour: A Hearts of Iron Game,http://www.wikidata.org/entity/Q302319,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q195158,Lionheart: Legacy of the Crusader,http://www.wikidata.org/entity/Q195158,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q484072,Granado Espada,http://www.wikidata.org/entity/Q484072,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q270477,Luxor,http://www.wikidata.org/entity/Q270477,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q489337,Ancient Domains of Mystery,http://www.wikidata.org/entity/Q489337,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q482881,Uncharted Waters Online,http://www.wikidata.org/entity/Q482881,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q533071,Chasm: The Rift,http://www.wikidata.org/entity/Q533071,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q217638,Project Snowblind,http://www.wikidata.org/entity/Q217638,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q343120,Act of War: Direct Action,http://www.wikidata.org/entity/Q343120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q389215,Afterlife,http://www.wikidata.org/entity/Q389215,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q392058,Legendary,http://www.wikidata.org/entity/Q392058,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55314,Star Wars: X-Wing vs. TIE Fighter,http://www.wikidata.org/entity/Q55314,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q147074,ZanZarah: The Hidden Portal,http://www.wikidata.org/entity/Q147074,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q392320,Rise of the Argonauts,http://www.wikidata.org/entity/Q392320,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55313,Star Wars: X-Wing Alliance,http://www.wikidata.org/entity/Q55313,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q254090,F1 2011,http://www.wikidata.org/entity/Q254090,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q310422,RFactor,http://www.wikidata.org/entity/Q310422,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q385812,Prisoner of Ice,http://www.wikidata.org/entity/Q385812,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q287600,Eye of the Beholder II: The Legend of Darkmoon,http://www.wikidata.org/entity/Q287600,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q378664,Trials Evolution,http://www.wikidata.org/entity/Q378664,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q210552,Darwinia,http://www.wikidata.org/entity/Q210552,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q373112,Romance of the Three Kingdoms VII,http://www.wikidata.org/entity/Q373112,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q301410,Shattered Union,http://www.wikidata.org/entity/Q301410,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q427050,Witchaven,http://www.wikidata.org/entity/Q427050,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q390716,NosTale,http://www.wikidata.org/entity/Q390716,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q166394,Dragonica,http://www.wikidata.org/entity/Q166394,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q2440,Freedom Force vs the 3rd Reich,http://www.wikidata.org/entity/Q2440,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q350820,Diggles: The Myth of Fenris,http://www.wikidata.org/entity/Q350820,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q376672,Runaway 2: The Dream of the Turtle,http://www.wikidata.org/entity/Q376672,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q512672,Peggle Nights,http://www.wikidata.org/entity/Q512672,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q476514,Red Baron,http://www.wikidata.org/entity/Q476514,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q408798,Airline Tycoon,http://www.wikidata.org/entity/Q408798,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q287330,Gemini Rue,http://www.wikidata.org/entity/Q287330,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q401695,Iron Front: Liberation 1944,http://www.wikidata.org/entity/Q401695,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q491722,Scions of Fate,http://www.wikidata.org/entity/Q491722,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q304003,Lords of the Realm III,http://www.wikidata.org/entity/Q304003,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q508884,Z: Steel Soldiers,http://www.wikidata.org/entity/Q508884,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q515254,Record of Agarest War Zero,http://www.wikidata.org/entity/Q515254,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q389344,Wings,http://www.wikidata.org/entity/Q389344,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q129114,The Ball,http://www.wikidata.org/entity/Q129114,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q227612,Fate: Undiscovered Realms,http://www.wikidata.org/entity/Q227612,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q465155,Dystopia,http://www.wikidata.org/entity/Q465155,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q182884,Champions of Regnum,http://www.wikidata.org/entity/Q182884,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q174489,Panzer Elite,http://www.wikidata.org/entity/Q174489,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q389138,Betrayal in Antara,http://www.wikidata.org/entity/Q389138,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55533,Saboteur II: Avenging Angel,http://www.wikidata.org/entity/Q55533,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q315256,Luxor 2,http://www.wikidata.org/entity/Q315256,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q17724,Spectromancer,http://www.wikidata.org/entity/Q17724,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q83995,Warlock: Master of the Arcane,http://www.wikidata.org/entity/Q83995,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q537071,Martian Memorandum,http://www.wikidata.org/entity/Q537071,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q280104,Hamlet,http://www.wikidata.org/entity/Q280104,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q379045,Shatter,http://www.wikidata.org/entity/Q379045,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q315260,Luxor 3,http://www.wikidata.org/entity/Q315260,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q326798,A.R.E.S.: Extinction Agenda,http://www.wikidata.org/entity/Q326798,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q239201,Sub Command,http://www.wikidata.org/entity/Q239201,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q420485,Mata Hari,http://www.wikidata.org/entity/Q420485,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q489583,And Yet It Moves,http://www.wikidata.org/entity/Q489583,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q55817,Alchemist,http://www.wikidata.org/entity/Q55817,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q277404,9Dragons,http://www.wikidata.org/entity/Q277404,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q255660,FIFA Manager 09,http://www.wikidata.org/entity/Q255660,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q113979,Metal Drift,http://www.wikidata.org/entity/Q113979,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q337535,Steam,games,1
+Q117859,Trine,http://www.wikidata.org/entity/Q117859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q290534,Quake 4,http://www.wikidata.org/entity/Q290534,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q200491,Activision Publishing,games,0
+Q286737,The Path,http://www.wikidata.org/entity/Q286737,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q22905933,itch.io,games,0
+Q245006,Final Fantasy VIII,http://www.wikidata.org/entity/Q245006,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q245006,Final Fantasy VIII,http://www.wikidata.org/entity/Q245006,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q74630,Lego Indiana Jones: The Original Adventures,http://www.wikidata.org/entity/Q74630,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q166226,Beyond: Two Souls,http://www.wikidata.org/entity/Q166226,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q247210,Need for Speed: Underground,http://www.wikidata.org/entity/Q247210,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q173941,Electronic Arts,games,0
+Q495115,Zenonia,http://www.wikidata.org/entity/Q495115,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q312,Apple,games,0
+Q370549,Resistance: Fall of Man,http://www.wikidata.org/entity/Q370549,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q379128,Plants vs. Zombies,http://www.wikidata.org/entity/Q379128,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q59154,Mafia II,http://www.wikidata.org/entity/Q59154,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q280104,Hamlet,http://www.wikidata.org/entity/Q280104,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q378664,Trials Evolution,http://www.wikidata.org/entity/Q378664,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q18940,Wolfenstein 3D,http://www.wikidata.org/entity/Q18940,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q429658,Zatch Bell! Mamodo Fury,http://www.wikidata.org/entity/Q429658,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q730179,Toei Animation,games,0
+Q465155,Dystopia,http://www.wikidata.org/entity/Q465155,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q2983178,Mod DB,games,0
+Q427198,Pandemonium!,http://www.wikidata.org/entity/Q427198,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q55214,Lego Star Wars: The Complete Saga,http://www.wikidata.org/entity/Q55214,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q93951,Little Inferno,http://www.wikidata.org/entity/Q93951,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q202934,Hattrick,http://www.wikidata.org/entity/Q202934,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q144728,Bad Piggies,http://www.wikidata.org/entity/Q144728,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q167330,Pirates of the Caribbean,http://www.wikidata.org/entity/Q167330,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q188273,Ubisoft,games,0
+Q424271,Freeciv,http://www.wikidata.org/entity/Q424271,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q16691,openSUSE,games,0
+Q170410,New Super Mario Bros. Wii,http://www.wikidata.org/entity/Q170410,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q337995,Mushihimesama,http://www.wikidata.org/entity/Q337995,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q526350,Mirror's Edge,http://www.wikidata.org/entity/Q526350,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q74669,Star Wars Knights of the Old Republic II: The Sith Lords,http://www.wikidata.org/entity/Q74669,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q216611,Lucasfilm Games,games,0
+Q389929,XBill,http://www.wikidata.org/entity/Q389929,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q392689,Saw II: Flesh & Blood,http://www.wikidata.org/entity/Q392689,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q17076072,Lionsgate Films,games,0
+Q176336,Far Cry 2,http://www.wikidata.org/entity/Q176336,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q217423,Quake,http://www.wikidata.org/entity/Q217423,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q515254,Record of Agarest War Zero,http://www.wikidata.org/entity/Q515254,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q349375,Fortnite,http://www.wikidata.org/entity/Q349375,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q149106,Grand Theft Auto III,http://www.wikidata.org/entity/Q149106,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q207885,Warcraft: Orcs & Humans,http://www.wikidata.org/entity/Q207885,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q153547,The Incredible Hulk,http://www.wikidata.org/entity/Q153547,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q388168,Bokosuka Wars,http://www.wikidata.org/entity/Q388168,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q297303,ASCII Corporation,games,0
+Q5766,VVVVVV,http://www.wikidata.org/entity/Q5766,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q57270,BioShock,http://www.wikidata.org/entity/Q57270,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q17150,Uncharted: Drake's Fortune,http://www.wikidata.org/entity/Q17150,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q218568,Super Hexagon,http://www.wikidata.org/entity/Q218568,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q55263,Star Wars: Shadows of the Empire,http://www.wikidata.org/entity/Q55263,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q296101,APB: All Points Bulletin,http://www.wikidata.org/entity/Q296101,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q60102,Fallout,http://www.wikidata.org/entity/Q60102,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q55673,R-Type,http://www.wikidata.org/entity/Q55673,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1645436,Tonka,games,0
+Q31685,Spore Hero Arena,http://www.wikidata.org/entity/Q31685,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q379169,Carmageddon,http://www.wikidata.org/entity/Q379169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q386632,Warzone 2100,http://www.wikidata.org/entity/Q386632,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q22905933,itch.io,games,0
+Q427050,Witchaven,http://www.wikidata.org/entity/Q427050,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q214232,Final Fantasy VII,http://www.wikidata.org/entity/Q214232,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q526350,Mirror's Edge,http://www.wikidata.org/entity/Q526350,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q515649,Adventures of Lolo 2,http://www.wikidata.org/entity/Q515649,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q287276,Destroy All Humans! 2,http://www.wikidata.org/entity/Q287276,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q368074,The Conduit,http://www.wikidata.org/entity/Q368074,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q430080,Excite Truck,http://www.wikidata.org/entity/Q430080,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q287409,De Blob,http://www.wikidata.org/entity/Q287409,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q219119,ZombiU,http://www.wikidata.org/entity/Q219119,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q535940,Final Fantasy VI,http://www.wikidata.org/entity/Q535940,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q337865,Far Cry,http://www.wikidata.org/entity/Q337865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94582474,Ubisoft Store,games,0
+Q11168,Super Mario Bros.,http://www.wikidata.org/entity/Q11168,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q533304,Tom Clancy's Splinter Cell: Chaos Theory,http://www.wikidata.org/entity/Q533304,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q226805,Torchlight II,http://www.wikidata.org/entity/Q226805,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q324871,Titan Quest,http://www.wikidata.org/entity/Q324871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q198096,The King of Fighters '98,http://www.wikidata.org/entity/Q198096,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q55228,Lego Star Wars III: The Clone Wars,http://www.wikidata.org/entity/Q55228,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q187894,Robin Hood: The Legend of Sherwood,http://www.wikidata.org/entity/Q187894,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q94671,Grand Theft Auto: Vice City,http://www.wikidata.org/entity/Q94671,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q161192,007 Legends,http://www.wikidata.org/entity/Q161192,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1204827,Xbox Games Store,games,0
+Q218568,Super Hexagon,http://www.wikidata.org/entity/Q218568,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q386632,Warzone 2100,http://www.wikidata.org/entity/Q386632,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q679933,Eidos Interactive,games,0
+Q284203,Hexen II,http://www.wikidata.org/entity/Q284203,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q510054,Emperor: Rise of the Middle Kingdom,http://www.wikidata.org/entity/Q510054,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q349375,Fortnite,http://www.wikidata.org/entity/Q349375,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q99582374,Amazon Luna,games,0
+Q185482,The Sims 3,http://www.wikidata.org/entity/Q185482,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q110607,Clannad,http://www.wikidata.org/entity/Q110607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q538821,Crysis 3,http://www.wikidata.org/entity/Q538821,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q323264,Dishonored,http://www.wikidata.org/entity/Q323264,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q337865,Far Cry,http://www.wikidata.org/entity/Q337865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q283878,Halo: Reach,http://www.wikidata.org/entity/Q283878,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q73801,Xbox Game Studios,games,0
+Q254851,Harry Potter and the Order of the Phoenix,http://www.wikidata.org/entity/Q254851,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q2319420,Warner Bros. Games,games,0
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q54322,Super Star Wars,http://www.wikidata.org/entity/Q54322,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q392321,Age of Wonders,http://www.wikidata.org/entity/Q392321,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q616651,Triumph Studios,games,0
+Q471974,Need for Speed: Undercover,http://www.wikidata.org/entity/Q471974,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q257816,The Sims Medieval,http://www.wikidata.org/entity/Q257816,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q55315,Star Wars: Empire at War,http://www.wikidata.org/entity/Q55315,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q307199,Eden*,http://www.wikidata.org/entity/Q307199,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q315260,Luxor 3,http://www.wikidata.org/entity/Q315260,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q124287484,WildTangent Games,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q22905933,itch.io,games,0
+Q390223,Club Penguin,http://www.wikidata.org/entity/Q390223,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q275960,Mass Effect,http://www.wikidata.org/entity/Q275960,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q55287,Star Wars: Dark Forces,http://www.wikidata.org/entity/Q55287,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q508884,Z: Steel Soldiers,http://www.wikidata.org/entity/Q508884,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q37123,Sonic the Hedgehog,http://www.wikidata.org/entity/Q37123,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q4104,Need for Speed: Shift,http://www.wikidata.org/entity/Q4104,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q94640,Grand Theft Auto: Vice City Stories,http://www.wikidata.org/entity/Q94640,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q474573,Final Fantasy IX,http://www.wikidata.org/entity/Q474573,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q5766,VVVVVV,http://www.wikidata.org/entity/Q5766,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q27107,DC Universe Online,http://www.wikidata.org/entity/Q27107,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q959672,Daybreak Game Company,games,0
+Q18940,Wolfenstein 3D,http://www.wikidata.org/entity/Q18940,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q2858431,Apogee Software,games,0
+Q133992,X2: Wolverine's Revenge,http://www.wikidata.org/entity/Q133992,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q434841,20th Century Studios,games,0
+Q150169,Fire Emblem: The Sacred Stones,http://www.wikidata.org/entity/Q150169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q8093,Nintendo,games,0
+Q74545,Lego Batman: The Videogame,http://www.wikidata.org/entity/Q74545,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q55295,Star Wars Jedi Knight: Jedi Academy,http://www.wikidata.org/entity/Q55295,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q302839,BioShock 2,http://www.wikidata.org/entity/Q302839,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q265889,The House of the Dead: Overkill,http://www.wikidata.org/entity/Q265889,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q287330,Gemini Rue,http://www.wikidata.org/entity/Q287330,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q60309635,Google Stadia,games,0
+Q40166,Assassin's Creed III,http://www.wikidata.org/entity/Q40166,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q350820,Diggles: The Myth of Fenris,http://www.wikidata.org/entity/Q350820,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q486351,Call of Duty: Modern Warfare 2,http://www.wikidata.org/entity/Q486351,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q390595,Final Fantasy XIII,http://www.wikidata.org/entity/Q390595,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q94355,Cars 2,http://www.wikidata.org/entity/Q94355,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q514168,Die Hard Trilogy 2: Viva Las Vegas,http://www.wikidata.org/entity/Q514168,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q173941,Electronic Arts,games,0
+Q18940,Wolfenstein 3D,http://www.wikidata.org/entity/Q18940,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q187351,Split/Second,http://www.wikidata.org/entity/Q187351,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q386632,Warzone 2100,http://www.wikidata.org/entity/Q386632,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q96741285,Warzone 2100 Project,games,0
+Q281110,Kingdom Hearts: Birth by Sleep,http://www.wikidata.org/entity/Q281110,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1229035,Disney Interactive Studios,games,0
+Q378664,Trials Evolution,http://www.wikidata.org/entity/Q378664,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q117859,Trine,http://www.wikidata.org/entity/Q117859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q532912,Heroes of Might and Magic II,http://www.wikidata.org/entity/Q532912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1062171,The 3DO Company,games,0
+Q532200,Hyper Sports,http://www.wikidata.org/entity/Q532200,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q45700,Konami,games,0
+Q211096,Call of Duty,http://www.wikidata.org/entity/Q211096,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q83565,Epic Mickey 2: The Power of Two,http://www.wikidata.org/entity/Q83565,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q149998,Paper Mario,http://www.wikidata.org/entity/Q149998,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q180181,GoldenEye: Rogue Agent,http://www.wikidata.org/entity/Q180181,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q6715746,MGM Interactive,games,0
+Q226805,Torchlight II,http://www.wikidata.org/entity/Q226805,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q74539,Star Wars: The Force Unleashed II,http://www.wikidata.org/entity/Q74539,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q393059,Lego The Hobbit,http://www.wikidata.org/entity/Q393059,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q74630,Lego Indiana Jones: The Original Adventures,http://www.wikidata.org/entity/Q74630,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q195764,Project X Zone,http://www.wikidata.org/entity/Q195764,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q55214,Lego Star Wars: The Complete Saga,http://www.wikidata.org/entity/Q55214,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q13165,Death to Spies,http://www.wikidata.org/entity/Q13165,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q526015,Link: The Faces of Evil,http://www.wikidata.org/entity/Q526015,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q8093,Nintendo,games,0
+Q482494,Steins;Gate,http://www.wikidata.org/entity/Q482494,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q483207,TERA,http://www.wikidata.org/entity/Q483207,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q207922,Atari,games,0
+Q130578,Divinity II,http://www.wikidata.org/entity/Q130578,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q518987,Donkey Kong Country,http://www.wikidata.org/entity/Q518987,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q535928,Battles of Prince of Persia,http://www.wikidata.org/entity/Q535928,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q349433,Turok,http://www.wikidata.org/entity/Q349433,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1229035,Disney Interactive Studios,games,0
+Q182409,Amnesia,http://www.wikidata.org/entity/Q182409,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q523445,Way of the Samurai 4,http://www.wikidata.org/entity/Q523445,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q471974,Need for Speed: Undercover,http://www.wikidata.org/entity/Q471974,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q323264,Dishonored,http://www.wikidata.org/entity/Q323264,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q166226,Beyond: Two Souls,http://www.wikidata.org/entity/Q166226,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q41187,Sony Group,games,0
+Q137924,FIFA 12,http://www.wikidata.org/entity/Q137924,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q277377,Catherine,http://www.wikidata.org/entity/Q277377,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q471803,Rome: Total War,http://www.wikidata.org/entity/Q471803,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q250019,Unreal II: The Awakening,http://www.wikidata.org/entity/Q250019,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q81288,Dragon Quest III,http://www.wikidata.org/entity/Q81288,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q17452,Grand Theft Auto V,http://www.wikidata.org/entity/Q17452,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q55217,Star Wars Episode I: Racer,http://www.wikidata.org/entity/Q55217,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q220965,Heroes of Might and Magic III,http://www.wikidata.org/entity/Q220965,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q376672,Runaway 2: The Dream of the Turtle,http://www.wikidata.org/entity/Q376672,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q239889,Hitman: Blood Money,http://www.wikidata.org/entity/Q239889,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q210298,Call of Duty 2,http://www.wikidata.org/entity/Q210298,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q133427,State of Decay,http://www.wikidata.org/entity/Q133427,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q528376,Rhythm Heaven,http://www.wikidata.org/entity/Q528376,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q54870,Star Wars Battlefront: Elite Squadron,http://www.wikidata.org/entity/Q54870,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q55313,Star Wars: X-Wing Alliance,http://www.wikidata.org/entity/Q55313,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q211096,Call of Duty,http://www.wikidata.org/entity/Q211096,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q528376,Rhythm Heaven,http://www.wikidata.org/entity/Q528376,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q8093,Nintendo,games,0
+Q204350,Modern Combat 2: Black Pegasus,http://www.wikidata.org/entity/Q204350,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q195280,Toy Story 3,http://www.wikidata.org/entity/Q195280,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q226805,Torchlight II,http://www.wikidata.org/entity/Q226805,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q161202,James Bond 007: Everything or Nothing,http://www.wikidata.org/entity/Q161202,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q6715746,MGM Interactive,games,0
+Q254463,Star Trek: Armada,http://www.wikidata.org/entity/Q254463,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q226865,Fate,http://www.wikidata.org/entity/Q226865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q55295,Star Wars Jedi Knight: Jedi Academy,http://www.wikidata.org/entity/Q55295,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q379438,Enslaved: Odyssey to the West,http://www.wikidata.org/entity/Q379438,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q94797,Grand Theft Auto IV,http://www.wikidata.org/entity/Q94797,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q57270,BioShock,http://www.wikidata.org/entity/Q57270,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q187339,Zelda II: The Adventure of Link,http://www.wikidata.org/entity/Q187339,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q379017,Castle of Illusion Starring Mickey Mouse,http://www.wikidata.org/entity/Q379017,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q392678,Red Orchestra 2: Heroes of Stalingrad,http://www.wikidata.org/entity/Q392678,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q55298,Star Wars Jedi Knight II: Jedi Outcast,http://www.wikidata.org/entity/Q55298,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q55673,R-Type,http://www.wikidata.org/entity/Q55673,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q428297,Test Drive Unlimited 2,http://www.wikidata.org/entity/Q428297,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q287637,The Witcher,http://www.wikidata.org/entity/Q287637,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q282623,Legacy of Kain: Soul Reaver,http://www.wikidata.org/entity/Q282623,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q5766,VVVVVV,http://www.wikidata.org/entity/Q5766,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q134138,The Lion King,http://www.wikidata.org/entity/Q134138,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q532743,I Am Alive,http://www.wikidata.org/entity/Q532743,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q428715,American Conquest,http://www.wikidata.org/entity/Q428715,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q375962,Soldier of Fortune II: Double Helix,http://www.wikidata.org/entity/Q375962,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q129277,Hitman: Absolution,http://www.wikidata.org/entity/Q129277,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q237484,Crysis,http://www.wikidata.org/entity/Q237484,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q37123,Sonic the Hedgehog,http://www.wikidata.org/entity/Q37123,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q94871,Grand Theft Auto: Chinatown Wars,http://www.wikidata.org/entity/Q94871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q337865,Far Cry,http://www.wikidata.org/entity/Q337865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q229436,3D Dot Game Heroes,http://www.wikidata.org/entity/Q229436,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q780528,Atlus,games,0
+Q27107,DC Universe Online,http://www.wikidata.org/entity/Q27107,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q154090,The Temple of Elemental Evil,http://www.wikidata.org/entity/Q154090,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q227612,Fate: Undiscovered Realms,http://www.wikidata.org/entity/Q227612,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q176336,Far Cry 2,http://www.wikidata.org/entity/Q176336,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q99582374,Amazon Luna,games,0
+Q5766,VVVVVV,http://www.wikidata.org/entity/Q5766,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q18951,Half-Life 2: Episode One,http://www.wikidata.org/entity/Q18951,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q198081,The King of Fighters '94,http://www.wikidata.org/entity/Q198081,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q473673,Counter-Strike: Source,http://www.wikidata.org/entity/Q473673,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q173941,Electronic Arts,games,0
+Q349433,Turok,http://www.wikidata.org/entity/Q349433,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q339485,Dragon Quest Swords,http://www.wikidata.org/entity/Q339485,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q245749,The Darkness II,http://www.wikidata.org/entity/Q245749,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q288811,Batman: Arkham City,http://www.wikidata.org/entity/Q288811,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q44373,Nintendo Land,http://www.wikidata.org/entity/Q44373,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q379169,Carmageddon,http://www.wikidata.org/entity/Q379169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q738135,Aspyr,games,0
+Q49740,Minecraft,http://www.wikidata.org/entity/Q49740,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q384908,Guilty Gear Dust Strikers,http://www.wikidata.org/entity/Q384908,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q284203,Hexen II,http://www.wikidata.org/entity/Q284203,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q200491,Activision Publishing,games,0
+Q474573,Final Fantasy IX,http://www.wikidata.org/entity/Q474573,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q24076,FinnWars,http://www.wikidata.org/entity/Q24076,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q2983178,Mod DB,games,0
+Q250019,Unreal II: The Awakening,http://www.wikidata.org/entity/Q250019,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q739711,Epic Games,games,0
+Q49607,The Elder Scrolls IV: Oblivion,http://www.wikidata.org/entity/Q49607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q538821,Crysis 3,http://www.wikidata.org/entity/Q538821,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q473852,Prototype,http://www.wikidata.org/entity/Q473852,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q226805,Torchlight II,http://www.wikidata.org/entity/Q226805,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q133427,State of Decay,http://www.wikidata.org/entity/Q133427,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q2377,Civilization IV,http://www.wikidata.org/entity/Q2377,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q48721,Curiosity – What's Inside the Cube?,http://www.wikidata.org/entity/Q48721,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q48721,Curiosity – What's Inside the Cube?,http://www.wikidata.org/entity/Q48721,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q268256,Still Life,http://www.wikidata.org/entity/Q268256,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q282008,TimeSplitters 2,http://www.wikidata.org/entity/Q282008,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q162751,Metro 2033,http://www.wikidata.org/entity/Q162751,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q5766,VVVVVV,http://www.wikidata.org/entity/Q5766,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q22905933,itch.io,games,0
+Q210552,Darwinia,http://www.wikidata.org/entity/Q210552,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q146124,Excitebike,http://www.wikidata.org/entity/Q146124,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q244030,Diablo III,http://www.wikidata.org/entity/Q244030,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q83265,Grand Theft Auto: San Andreas,http://www.wikidata.org/entity/Q83265,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q94797,Grand Theft Auto IV,http://www.wikidata.org/entity/Q94797,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q195280,Toy Story 3,http://www.wikidata.org/entity/Q195280,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q385812,Prisoner of Ice,http://www.wikidata.org/entity/Q385812,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q376672,Runaway 2: The Dream of the Turtle,http://www.wikidata.org/entity/Q376672,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q25680,Guardian Cross,http://www.wikidata.org/entity/Q25680,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q237484,Crysis,http://www.wikidata.org/entity/Q237484,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q117859,Trine,http://www.wikidata.org/entity/Q117859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q54859,Star Wars: Battlefront,http://www.wikidata.org/entity/Q54859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q408798,Airline Tycoon,http://www.wikidata.org/entity/Q408798,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q428297,Test Drive Unlimited 2,http://www.wikidata.org/entity/Q428297,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q526350,Mirror's Edge,http://www.wikidata.org/entity/Q526350,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3150453,Indie Fund,games,0
+Q55225,Star Wars: Starfighter,http://www.wikidata.org/entity/Q55225,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q217423,Quake,http://www.wikidata.org/entity/Q217423,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q213217,Mafia,http://www.wikidata.org/entity/Q213217,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q17146,Uncharted 2: Among Thieves,http://www.wikidata.org/entity/Q17146,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q12395,The Legend of Zelda,http://www.wikidata.org/entity/Q12395,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q55295,Star Wars Jedi Knight: Jedi Academy,http://www.wikidata.org/entity/Q55295,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q2440,Freedom Force vs the 3rd Reich,http://www.wikidata.org/entity/Q2440,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q921944,Focus Entertainment,games,0
+Q149106,Grand Theft Auto III,http://www.wikidata.org/entity/Q149106,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q91282,Arkanoid,http://www.wikidata.org/entity/Q91282,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q252198,Deus Ex: Invisible War,http://www.wikidata.org/entity/Q252198,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q392311,Saw,http://www.wikidata.org/entity/Q392311,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q17076072,Lionsgate Films,games,0
+Q433707,Professor Layton and the Azran Legacy,http://www.wikidata.org/entity/Q433707,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q22986,Amnesia: The Dark Descent,http://www.wikidata.org/entity/Q22986,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q333367,PlanetSide 2,http://www.wikidata.org/entity/Q333367,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q245749,The Darkness II,http://www.wikidata.org/entity/Q245749,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q535940,Final Fantasy VI,http://www.wikidata.org/entity/Q535940,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q532912,Heroes of Might and Magic II,http://www.wikidata.org/entity/Q532912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q55287,Star Wars: Dark Forces,http://www.wikidata.org/entity/Q55287,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q22986,Amnesia: The Dark Descent,http://www.wikidata.org/entity/Q22986,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q478583,London 2012,http://www.wikidata.org/entity/Q478583,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q524267,Frogger,http://www.wikidata.org/entity/Q524267,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q385952,DualPenSports,http://www.wikidata.org/entity/Q385952,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q317620,Tomb Raider,http://www.wikidata.org/entity/Q317620,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q474573,Final Fantasy IX,http://www.wikidata.org/entity/Q474573,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q219119,ZombiU,http://www.wikidata.org/entity/Q219119,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q94460,Grand Theft Auto 2,http://www.wikidata.org/entity/Q94460,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q509177,Mario Party DS,http://www.wikidata.org/entity/Q509177,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q74683,Lego Indiana Jones 2: The Adventure Continues,http://www.wikidata.org/entity/Q74683,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q379438,Enslaved: Odyssey to the West,http://www.wikidata.org/entity/Q379438,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q339957,Ace Combat X: Skies of Deception,http://www.wikidata.org/entity/Q339957,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1194689,Bandai Namco Entertainment,games,0
+Q523445,Way of the Samurai 4,http://www.wikidata.org/entity/Q523445,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q113289,Chivalry: Medieval Warfare,http://www.wikidata.org/entity/Q113289,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q4104,Need for Speed: Shift,http://www.wikidata.org/entity/Q4104,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q245749,The Darkness II,http://www.wikidata.org/entity/Q245749,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q262897,One Piece: Unlimited Adventure,http://www.wikidata.org/entity/Q262897,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q324871,Titan Quest,http://www.wikidata.org/entity/Q324871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q392321,Age of Wonders,http://www.wikidata.org/entity/Q392321,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q54865,Star Wars: Battlefront II,http://www.wikidata.org/entity/Q54865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q284928,flOw,http://www.wikidata.org/entity/Q284928,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q22986,Amnesia: The Dark Descent,http://www.wikidata.org/entity/Q22986,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q482494,Steins;Gate,http://www.wikidata.org/entity/Q482494,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q110607,Clannad,http://www.wikidata.org/entity/Q110607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q218568,Super Hexagon,http://www.wikidata.org/entity/Q218568,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q522508,Super Paper Mario,http://www.wikidata.org/entity/Q522508,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q94671,Grand Theft Auto: Vice City,http://www.wikidata.org/entity/Q94671,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q376672,Runaway 2: The Dream of the Turtle,http://www.wikidata.org/entity/Q376672,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q55219,Star Wars: Bounty Hunter,http://www.wikidata.org/entity/Q55219,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q201792,Torchlight,http://www.wikidata.org/entity/Q201792,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q83995,Warlock: Master of the Arcane,http://www.wikidata.org/entity/Q83995,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q167359,Pirates of the Caribbean: Dead Man's Chest,http://www.wikidata.org/entity/Q167359,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q217423,Quake,http://www.wikidata.org/entity/Q217423,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q26097,XCOM: Enemy Unknown,http://www.wikidata.org/entity/Q26097,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q376217,Driver: Parallel Lines,http://www.wikidata.org/entity/Q376217,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q173941,Electronic Arts,games,0
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q26097,XCOM: Enemy Unknown,http://www.wikidata.org/entity/Q26097,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q349087,Tron: Evolution,http://www.wikidata.org/entity/Q349087,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q474573,Final Fantasy IX,http://www.wikidata.org/entity/Q474573,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q283878,Halo: Reach,http://www.wikidata.org/entity/Q283878,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q54845,Star Wars: The New Droid Army,http://www.wikidata.org/entity/Q54845,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q216611,Lucasfilm Games,games,0
+Q220965,Heroes of Might and Magic III,http://www.wikidata.org/entity/Q220965,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q161192,007 Legends,http://www.wikidata.org/entity/Q161192,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q6715746,MGM Interactive,games,0
+Q130887,Killing Floor,http://www.wikidata.org/entity/Q130887,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q176336,Far Cry 2,http://www.wikidata.org/entity/Q176336,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q27296,Bio Miracle Bokutte Upa,http://www.wikidata.org/entity/Q27296,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q323862,The Elder Scrolls V: Skyrim,http://www.wikidata.org/entity/Q323862,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q495115,Zenonia,http://www.wikidata.org/entity/Q495115,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q76255,Call of Duty 4: Modern Warfare,http://www.wikidata.org/entity/Q76255,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q287409,De Blob,http://www.wikidata.org/entity/Q287409,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q379128,Plants vs. Zombies,http://www.wikidata.org/entity/Q379128,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q245749,The Darkness II,http://www.wikidata.org/entity/Q245749,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q173626,Pac-Man,http://www.wikidata.org/entity/Q173626,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q147074,ZanZarah: The Hidden Portal,http://www.wikidata.org/entity/Q147074,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q392320,Rise of the Argonauts,http://www.wikidata.org/entity/Q392320,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q245749,The Darkness II,http://www.wikidata.org/entity/Q245749,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q254090,F1 2011,http://www.wikidata.org/entity/Q254090,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q221164,Fallout 3,http://www.wikidata.org/entity/Q221164,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q83565,Epic Mickey 2: The Power of Two,http://www.wikidata.org/entity/Q83565,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q63352,Ingress,http://www.wikidata.org/entity/Q63352,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q126194,Minesweeper,http://www.wikidata.org/entity/Q126194,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q533304,Tom Clancy's Splinter Cell: Chaos Theory,http://www.wikidata.org/entity/Q533304,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q88759,Bubble Bobble,http://www.wikidata.org/entity/Q88759,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3441266,Romstar,games,0
+Q54850,Star Wars: The Clone Wars – Republic Heroes,http://www.wikidata.org/entity/Q54850,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q515254,Record of Agarest War Zero,http://www.wikidata.org/entity/Q515254,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q275122,Super Ghouls 'n Ghosts,http://www.wikidata.org/entity/Q275122,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q117859,Trine,http://www.wikidata.org/entity/Q117859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q198092,The King of Fighters 2002,http://www.wikidata.org/entity/Q198092,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q23992,Gunvalkyrie,http://www.wikidata.org/entity/Q23992,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1782700,Infogrames,games,0
+Q74669,Star Wars Knights of the Old Republic II: The Sith Lords,http://www.wikidata.org/entity/Q74669,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q339814,Asphalt 5,http://www.wikidata.org/entity/Q339814,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q337995,Mushihimesama,http://www.wikidata.org/entity/Q337995,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q54850,Star Wars: The Clone Wars – Republic Heroes,http://www.wikidata.org/entity/Q54850,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q76868,Assassin's Creed III: Liberation,http://www.wikidata.org/entity/Q76868,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q74669,Star Wars Knights of the Old Republic II: The Sith Lords,http://www.wikidata.org/entity/Q74669,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q215861,S.T.A.L.K.E.R.: Shadow of Chernobyl,http://www.wikidata.org/entity/Q215861,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q337865,Far Cry,http://www.wikidata.org/entity/Q337865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q389929,XBill,http://www.wikidata.org/entity/Q389929,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q216995,Super Mario 64,http://www.wikidata.org/entity/Q216995,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q254255,iRacing,http://www.wikidata.org/entity/Q254255,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q150294,Mortal Kombat,http://www.wikidata.org/entity/Q150294,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q308961,Call of Duty 3,http://www.wikidata.org/entity/Q308961,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q22986,Amnesia: The Dark Descent,http://www.wikidata.org/entity/Q22986,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q54859,Star Wars: Battlefront,http://www.wikidata.org/entity/Q54859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q383700,Marvel vs. Capcom 2: New Age of Heroes,http://www.wikidata.org/entity/Q383700,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1200552,Marvel Entertainment,games,0
+Q532743,I Am Alive,http://www.wikidata.org/entity/Q532743,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q54850,Star Wars: The Clone Wars – Republic Heroes,http://www.wikidata.org/entity/Q54850,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q226805,Torchlight II,http://www.wikidata.org/entity/Q226805,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q161192,007 Legends,http://www.wikidata.org/entity/Q161192,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q424271,Freeciv,http://www.wikidata.org/entity/Q424271,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q381,Ubuntu,games,0
+Q110607,Clannad,http://www.wikidata.org/entity/Q110607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q201792,Torchlight,http://www.wikidata.org/entity/Q201792,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q182409,Amnesia,http://www.wikidata.org/entity/Q182409,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q54865,Star Wars: Battlefront II,http://www.wikidata.org/entity/Q54865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q201792,Torchlight,http://www.wikidata.org/entity/Q201792,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q391468,"Sheep, Dog 'n' Wolf",http://www.wikidata.org/entity/Q391468,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q2319420,Warner Bros. Games,games,0
+Q315260,Luxor 3,http://www.wikidata.org/entity/Q315260,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q195158,Lionheart: Legacy of the Crusader,http://www.wikidata.org/entity/Q195158,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q55312,Star Wars: TIE Fighter,http://www.wikidata.org/entity/Q55312,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q81288,Dragon Quest III,http://www.wikidata.org/entity/Q81288,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q214142,The Battle For Wesnoth,http://www.wikidata.org/entity/Q214142,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q7715973,Debian,games,0
+Q239889,Hitman: Blood Money,http://www.wikidata.org/entity/Q239889,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q162707,Sonic & Sega All-Stars Racing,http://www.wikidata.org/entity/Q162707,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q385270,Bionic Commando,http://www.wikidata.org/entity/Q385270,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q472645,Arcania,http://www.wikidata.org/entity/Q472645,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q185482,The Sims 3,http://www.wikidata.org/entity/Q185482,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q323264,Dishonored,http://www.wikidata.org/entity/Q323264,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q684425,Bethesda Softworks,games,0
+Q52058,The Neverhood,http://www.wikidata.org/entity/Q52058,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q173941,Electronic Arts,games,0
+Q222473,Hearts of Iron III,http://www.wikidata.org/entity/Q222473,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q482494,Steins;Gate,http://www.wikidata.org/entity/Q482494,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q383700,Marvel vs. Capcom 2: New Age of Heroes,http://www.wikidata.org/entity/Q383700,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q54854,Angry Birds Star Wars,http://www.wikidata.org/entity/Q54854,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1229035,Disney Interactive Studios,games,0
+Q200864,Assassin's Creed,http://www.wikidata.org/entity/Q200864,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q17452,Grand Theft Auto V,http://www.wikidata.org/entity/Q17452,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q390291,Donkey Kong 3,http://www.wikidata.org/entity/Q390291,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q324871,Titan Quest,http://www.wikidata.org/entity/Q324871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q296101,APB: All Points Bulletin,http://www.wikidata.org/entity/Q296101,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q55312,Star Wars: TIE Fighter,http://www.wikidata.org/entity/Q55312,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q187732,RuneScape,http://www.wikidata.org/entity/Q187732,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q162751,Metro 2033,http://www.wikidata.org/entity/Q162751,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q275960,Mass Effect,http://www.wikidata.org/entity/Q275960,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q31708,Origin,games,0
+Q129277,Hitman: Absolution,http://www.wikidata.org/entity/Q129277,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q187351,Split/Second,http://www.wikidata.org/entity/Q187351,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q511615,Kinect Sesame Street TV,http://www.wikidata.org/entity/Q511615,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q2319420,Warner Bros. Games,games,0
+Q379169,Carmageddon,http://www.wikidata.org/entity/Q379169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q104804097,Halifax,games,0
+Q187732,RuneScape,http://www.wikidata.org/entity/Q187732,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q958101,Jagex,games,0
+Q343120,Act of War: Direct Action,http://www.wikidata.org/entity/Q343120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q162707,Sonic & Sega All-Stars Racing,http://www.wikidata.org/entity/Q162707,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q49607,The Elder Scrolls IV: Oblivion,http://www.wikidata.org/entity/Q49607,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q379128,Plants vs. Zombies,http://www.wikidata.org/entity/Q379128,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q302839,BioShock 2,http://www.wikidata.org/entity/Q302839,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q317620,Tomb Raider,http://www.wikidata.org/entity/Q317620,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q349375,Fortnite,http://www.wikidata.org/entity/Q349375,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q83524,Family Guy: Back to the Multiverse,http://www.wikidata.org/entity/Q83524,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q434841,20th Century Studios,games,0
+Q532743,I Am Alive,http://www.wikidata.org/entity/Q532743,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94582474,Ubisoft Store,games,0
+Q220965,Heroes of Might and Magic III,http://www.wikidata.org/entity/Q220965,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1062171,The 3DO Company,games,0
+Q374320,Disney's Hercules,http://www.wikidata.org/entity/Q374320,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q403714,Majesco Entertainment,games,0
+Q499635,Tekken 3D: Prime Edition,http://www.wikidata.org/entity/Q499635,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q63352,Ingress,http://www.wikidata.org/entity/Q63352,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q323862,The Elder Scrolls V: Skyrim,http://www.wikidata.org/entity/Q323862,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q483850,Alliance of Valiant Arms,http://www.wikidata.org/entity/Q483850,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q795348,Neowiz,games,0
+Q515254,Record of Agarest War Zero,http://www.wikidata.org/entity/Q515254,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q379807,Advent Rising,http://www.wikidata.org/entity/Q379807,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q220965,Heroes of Might and Magic III,http://www.wikidata.org/entity/Q220965,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94582474,Ubisoft Store,games,0
+Q265889,The House of the Dead: Overkill,http://www.wikidata.org/entity/Q265889,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q17724,Spectromancer,http://www.wikidata.org/entity/Q17724,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q14752655,Apus Software,games,0
+Q134138,The Lion King,http://www.wikidata.org/entity/Q134138,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1229035,Disney Interactive Studios,games,0
+Q222473,Hearts of Iron III,http://www.wikidata.org/entity/Q222473,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q210298,Call of Duty 2,http://www.wikidata.org/entity/Q210298,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q200491,Activision Publishing,games,0
+Q26097,XCOM: Enemy Unknown,http://www.wikidata.org/entity/Q26097,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q115508,The Idolmaster Cinderella Girls,http://www.wikidata.org/entity/Q115508,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q166226,Beyond: Two Souls,http://www.wikidata.org/entity/Q166226,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q323264,Dishonored,http://www.wikidata.org/entity/Q323264,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q74539,Star Wars: The Force Unleashed II,http://www.wikidata.org/entity/Q74539,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q137977,FIFA 13,http://www.wikidata.org/entity/Q137977,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q115508,The Idolmaster Cinderella Girls,http://www.wikidata.org/entity/Q115508,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q281392,Killzone: Liberation,http://www.wikidata.org/entity/Q281392,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q379045,Shatter,http://www.wikidata.org/entity/Q379045,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q55248,Star Wars Trilogy Arcade,http://www.wikidata.org/entity/Q55248,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q122741,Sega,games,0
+Q275960,Mass Effect,http://www.wikidata.org/entity/Q275960,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q54854,Angry Birds Star Wars,http://www.wikidata.org/entity/Q54854,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q76255,Call of Duty 4: Modern Warfare,http://www.wikidata.org/entity/Q76255,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q335056,Panzer Dragoon Orta,http://www.wikidata.org/entity/Q335056,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1782700,Infogrames,games,0
+Q219119,ZombiU,http://www.wikidata.org/entity/Q219119,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q93951,Little Inferno,http://www.wikidata.org/entity/Q93951,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q283211,Screamer 4x4,http://www.wikidata.org/entity/Q283211,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q93951,Little Inferno,http://www.wikidata.org/entity/Q93951,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q218568,Super Hexagon,http://www.wikidata.org/entity/Q218568,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q22905933,itch.io,games,0
+Q217638,Project Snowblind,http://www.wikidata.org/entity/Q217638,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q207784,Square Enix,games,0
+Q55313,Star Wars: X-Wing Alliance,http://www.wikidata.org/entity/Q55313,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q245006,Final Fantasy VIII,http://www.wikidata.org/entity/Q245006,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q213911,The Legend of Zelda: Ocarina of Time,http://www.wikidata.org/entity/Q213911,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q55532,1942,http://www.wikidata.org/entity/Q55532,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q474573,Final Fantasy IX,http://www.wikidata.org/entity/Q474573,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q176336,Far Cry 2,http://www.wikidata.org/entity/Q176336,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q136597,Z,http://www.wikidata.org/entity/Q136597,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q93951,Little Inferno,http://www.wikidata.org/entity/Q93951,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q22905933,itch.io,games,0
+Q196255,Street Fighter II Turbo,http://www.wikidata.org/entity/Q196255,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q379169,Carmageddon,http://www.wikidata.org/entity/Q379169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q54859,Star Wars: Battlefront,http://www.wikidata.org/entity/Q54859,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q74669,Star Wars Knights of the Old Republic II: The Sith Lords,http://www.wikidata.org/entity/Q74669,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q55228,Lego Star Wars III: The Clone Wars,http://www.wikidata.org/entity/Q55228,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q55214,Lego Star Wars: The Complete Saga,http://www.wikidata.org/entity/Q55214,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q239889,Hitman: Blood Money,http://www.wikidata.org/entity/Q239889,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q214142,The Battle For Wesnoth,http://www.wikidata.org/entity/Q214142,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q424271,Freeciv,http://www.wikidata.org/entity/Q424271,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q165400,SourceForge,games,0
+Q304003,Lords of the Realm III,http://www.wikidata.org/entity/Q304003,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q302839,BioShock 2,http://www.wikidata.org/entity/Q302839,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q55287,Star Wars: Dark Forces,http://www.wikidata.org/entity/Q55287,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q323981,Left 4 Dead,http://www.wikidata.org/entity/Q323981,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q173941,Electronic Arts,games,0
+Q74683,Lego Indiana Jones 2: The Adventure Continues,http://www.wikidata.org/entity/Q74683,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q59154,Mafia II,http://www.wikidata.org/entity/Q59154,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94933,Take-Two Interactive,games,0
+Q179649,Galaxy Trucker,http://www.wikidata.org/entity/Q179649,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q198096,The King of Fighters '98,http://www.wikidata.org/entity/Q198096,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q81288,Dragon Quest III,http://www.wikidata.org/entity/Q81288,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q287637,The Witcher,http://www.wikidata.org/entity/Q287637,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q150146,Fire Emblem: Shadow Dragon and the Blade of Light,http://www.wikidata.org/entity/Q150146,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q40166,Assassin's Creed III,http://www.wikidata.org/entity/Q40166,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q44346,James Pond 2: Codename: RoboCod,http://www.wikidata.org/entity/Q44346,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q54854,Angry Birds Star Wars,http://www.wikidata.org/entity/Q54854,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q275960,Mass Effect,http://www.wikidata.org/entity/Q275960,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q121327096,EA Store,games,0
+Q498469,Postal III,http://www.wikidata.org/entity/Q498469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q193559,Valve Corporation,games,0
+Q74630,Lego Indiana Jones: The Original Adventures,http://www.wikidata.org/entity/Q74630,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q473852,Prototype,http://www.wikidata.org/entity/Q473852,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q278771,Worms,http://www.wikidata.org/entity/Q278771,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q74545,Lego Batman: The Videogame,http://www.wikidata.org/entity/Q74545,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q204105,Dig Dug,http://www.wikidata.org/entity/Q204105,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q74545,Lego Batman: The Videogame,http://www.wikidata.org/entity/Q74545,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q370055,The Legend of Zelda: A Link to the Past,http://www.wikidata.org/entity/Q370055,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q128291,Anno 2070,http://www.wikidata.org/entity/Q128291,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q136597,Z,http://www.wikidata.org/entity/Q136597,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q2440,Freedom Force vs the 3rd Reich,http://www.wikidata.org/entity/Q2440,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q390595,Final Fantasy XIII,http://www.wikidata.org/entity/Q390595,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q349413,Homefront,http://www.wikidata.org/entity/Q349413,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q483131,PangYa,http://www.wikidata.org/entity/Q483131,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q287600,Eye of the Beholder II: The Legend of Darkmoon,http://www.wikidata.org/entity/Q287600,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q59154,Mafia II,http://www.wikidata.org/entity/Q59154,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q281246,Need for Speed: The Run,http://www.wikidata.org/entity/Q281246,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q214232,Final Fantasy VII,http://www.wikidata.org/entity/Q214232,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q377242,Tom Clancy's Splinter Cell,http://www.wikidata.org/entity/Q377242,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q405497,Air,http://www.wikidata.org/entity/Q405497,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q369086,GoldenEye 007,http://www.wikidata.org/entity/Q369086,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q8093,Nintendo,games,0
+Q74669,Star Wars Knights of the Old Republic II: The Sith Lords,http://www.wikidata.org/entity/Q74669,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q90999,Zombi,http://www.wikidata.org/entity/Q90999,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q336177,EVE Online,http://www.wikidata.org/entity/Q336177,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q401695,Iron Front: Liberation 1944,http://www.wikidata.org/entity/Q401695,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q890779,Bohemia Interactive,games,0
+Q296101,APB: All Points Bulletin,http://www.wikidata.org/entity/Q296101,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q486233,Call of Duty: Modern Warfare 3,http://www.wikidata.org/entity/Q486233,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q54853,Star Wars: X-Wing,http://www.wikidata.org/entity/Q54853,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q338486,Street Fighter X Tekken,http://www.wikidata.org/entity/Q338486,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q379169,Carmageddon,http://www.wikidata.org/entity/Q379169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q225912,Kingdom Hearts,http://www.wikidata.org/entity/Q225912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1229035,Disney Interactive Studios,games,0
+Q474798,The Legend of Zelda: The Minish Cap,http://www.wikidata.org/entity/Q474798,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q225861,Professor Layton and the Unwound Future,http://www.wikidata.org/entity/Q225861,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q217423,Quake,http://www.wikidata.org/entity/Q217423,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q55225,Star Wars: Starfighter,http://www.wikidata.org/entity/Q55225,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q287409,De Blob,http://www.wikidata.org/entity/Q287409,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59421242,Discord Store,games,0
+Q137977,FIFA 13,http://www.wikidata.org/entity/Q137977,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q28226,Army Men: RTS,http://www.wikidata.org/entity/Q28226,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q102303,Akalabeth: World of Doom,http://www.wikidata.org/entity/Q102303,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q149612,Tron,http://www.wikidata.org/entity/Q149612,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q149947,Midway Games,games,0
+Q533304,Tom Clancy's Splinter Cell: Chaos Theory,http://www.wikidata.org/entity/Q533304,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q94582474,Ubisoft Store,games,0
+Q471974,Need for Speed: Undercover,http://www.wikidata.org/entity/Q471974,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q219119,ZombiU,http://www.wikidata.org/entity/Q219119,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q237484,Crysis,http://www.wikidata.org/entity/Q237484,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q173941,Electronic Arts,games,0
+Q537381,Shadowgate,http://www.wikidata.org/entity/Q537381,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q34869,Age of Empires III,http://www.wikidata.org/entity/Q34869,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q5766,VVVVVV,http://www.wikidata.org/entity/Q5766,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q287330,Gemini Rue,http://www.wikidata.org/entity/Q287330,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q226805,Torchlight II,http://www.wikidata.org/entity/Q226805,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q280104,Hamlet,http://www.wikidata.org/entity/Q280104,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q483454,Anachronox,http://www.wikidata.org/entity/Q483454,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q74539,Star Wars: The Force Unleashed II,http://www.wikidata.org/entity/Q74539,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q17150,Uncharted: Drake's Fortune,http://www.wikidata.org/entity/Q17150,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q385201,MySims Agents,http://www.wikidata.org/entity/Q385201,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q287330,Gemini Rue,http://www.wikidata.org/entity/Q287330,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q94871,Grand Theft Auto: Chinatown Wars,http://www.wikidata.org/entity/Q94871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q54865,Star Wars: Battlefront II,http://www.wikidata.org/entity/Q54865,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q94671,Grand Theft Auto: Vice City,http://www.wikidata.org/entity/Q94671,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q76255,Call of Duty 4: Modern Warfare,http://www.wikidata.org/entity/Q76255,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q427198,Pandemonium!,http://www.wikidata.org/entity/Q427198,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q2440,Freedom Force vs the 3rd Reich,http://www.wikidata.org/entity/Q2440,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q510794,Desert Rats vs. Afrika Korps,http://www.wikidata.org/entity/Q510794,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3342525,Nobilis,games,0
+Q218568,Super Hexagon,http://www.wikidata.org/entity/Q218568,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q286305,NBA Elite 11,http://www.wikidata.org/entity/Q286305,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q282623,Legacy of Kain: Soul Reaver,http://www.wikidata.org/entity/Q282623,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q55314,Star Wars: X-Wing vs. TIE Fighter,http://www.wikidata.org/entity/Q55314,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q83565,Epic Mickey 2: The Power of Two,http://www.wikidata.org/entity/Q83565,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q54297,Star Wars: Rogue Squadron,http://www.wikidata.org/entity/Q54297,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q162751,Metro 2033,http://www.wikidata.org/entity/Q162751,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q55298,Star Wars Jedi Knight II: Jedi Outcast,http://www.wikidata.org/entity/Q55298,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q27107,DC Universe Online,http://www.wikidata.org/entity/Q27107,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q488144,Blade & Soul,http://www.wikidata.org/entity/Q488144,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q22905933,itch.io,games,0
+Q252198,Deus Ex: Invisible War,http://www.wikidata.org/entity/Q252198,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q57270,BioShock,http://www.wikidata.org/entity/Q57270,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q135288,Microsoft Store,games,0
+Q384055,Microsoft Train Simulator,http://www.wikidata.org/entity/Q384055,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q2283,Microsoft,games,0
+Q376217,Driver: Parallel Lines,http://www.wikidata.org/entity/Q376217,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q211735,Assassin's Creed II,http://www.wikidata.org/entity/Q211735,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q59510068,Epic Games Store,games,0
+Q94871,Grand Theft Auto: Chinatown Wars,http://www.wikidata.org/entity/Q94871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q128291,Anno 2070,http://www.wikidata.org/entity/Q128291,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q166394,Dragonica,http://www.wikidata.org/entity/Q166394,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q379169,Carmageddon,http://www.wikidata.org/entity/Q379169,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q250989,TOCA Race Driver 3,http://www.wikidata.org/entity/Q250989,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q392311,Saw,http://www.wikidata.org/entity/Q392311,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q26097,XCOM: Enemy Unknown,http://www.wikidata.org/entity/Q26097,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q94778,Grand Theft Auto: Liberty City Stories,http://www.wikidata.org/entity/Q94778,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1052025,PlayStation Store,games,0
+Q426939,FIFA 11,http://www.wikidata.org/entity/Q426939,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q270477,Luxor,http://www.wikidata.org/entity/Q270477,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q94871,Grand Theft Auto: Chinatown Wars,http://www.wikidata.org/entity/Q94871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q55229,Star Wars: Jedi Starfighter,http://www.wikidata.org/entity/Q55229,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q390595,Final Fantasy XIII,http://www.wikidata.org/entity/Q390595,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q368215,App Store,games,0
+Q389344,Wings,http://www.wikidata.org/entity/Q389344,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q471803,Rome: Total War,http://www.wikidata.org/entity/Q471803,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q79576,Google Play,games,0
+Q390595,Final Fantasy XIII,http://www.wikidata.org/entity/Q390595,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q536366,Prince of Persia: The Fallen King,http://www.wikidata.org/entity/Q536366,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q207797,Call of Duty: World at War,http://www.wikidata.org/entity/Q207797,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q42328566,Humble Store,games,0
+Q55533,Saboteur II: Avenging Angel,http://www.wikidata.org/entity/Q55533,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q71936,Wii Sports,http://www.wikidata.org/entity/Q71936,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q94871,Grand Theft Auto: Chinatown Wars,http://www.wikidata.org/entity/Q94871,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q523445,Way of the Samurai 4,http://www.wikidata.org/entity/Q523445,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q15614041,PlayStation Now,games,0
+Q219804,Zombies Ate My Neighbors,http://www.wikidata.org/entity/Q219804,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q3070866,Nintendo eShop,games,0
+Q290534,Quake 4,http://www.wikidata.org/entity/Q290534,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0
+Q76868,Assassin's Creed III: Liberation,http://www.wikidata.org/entity/Q76868,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q99582374,Amazon Luna,games,0
+Q55295,Star Wars Jedi Knight: Jedi Academy,http://www.wikidata.org/entity/Q55295,http://www.wikidata.org/prop/direct/P750,distributed by,http://www.wikidata.org/entity/Q1486288,GOG.com,games,0

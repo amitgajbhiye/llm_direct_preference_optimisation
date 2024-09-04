@@ -1,0 +1,733 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q191739,Florence Cathedral,http://www.wikidata.org/entity/Q191739,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q172988,St Mark's Basilica,http://www.wikidata.org/entity/Q172988,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1303856,Cattedrale di Monreale,http://www.wikidata.org/entity/Q1303856,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1478407,Palermo Cathedral,http://www.wikidata.org/entity/Q1478407,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q550514,Basilica of Saint Nicholas,http://www.wikidata.org/entity/Q550514,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q256486,Naples Cathedral,http://www.wikidata.org/entity/Q256486,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q753721,Modena Cathedral,http://www.wikidata.org/entity/Q753721,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q958699,Turin Cathedral,http://www.wikidata.org/entity/Q958699,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736222,Cathedral of Syracuse,http://www.wikidata.org/entity/Q1736222,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1354756,Cefalù Cathedral,http://www.wikidata.org/entity/Q1354756,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1268593,Tempio Malatestiano,http://www.wikidata.org/entity/Q1268593,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q686306,Amalfi Cathedral,http://www.wikidata.org/entity/Q686306,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1306549,Genoa Cathedral,http://www.wikidata.org/entity/Q1306549,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1282278,Lucca Cathedral,http://www.wikidata.org/entity/Q1282278,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1499188,Catania Cathedral,http://www.wikidata.org/entity/Q1499188,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2738834,Salerno Cathedral,http://www.wikidata.org/entity/Q2738834,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1236608,Monza Cathedral,http://www.wikidata.org/entity/Q1236608,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q383884,Cathedral of San Sabino,http://www.wikidata.org/entity/Q383884,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736225,Trieste Cathedral,http://www.wikidata.org/entity/Q1736225,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2713844,Verona Cathedral,http://www.wikidata.org/entity/Q2713844,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q513023,Trani Cathedral,http://www.wikidata.org/entity/Q513023,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q621060,Trento Cathedral,http://www.wikidata.org/entity/Q621060,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2263308,Arezzo Cathedral,http://www.wikidata.org/entity/Q2263308,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q684119,"Santa Reparata, Florence",http://www.wikidata.org/entity/Q684119,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942572,Otranto Cathedral,http://www.wikidata.org/entity/Q2942572,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q913182,Cremona Cathedral,http://www.wikidata.org/entity/Q913182,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1433207,Assisi Cathedral,http://www.wikidata.org/entity/Q1433207,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2407092,Padua Cathedral,http://www.wikidata.org/entity/Q2407092,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1081902,Bergamo Cathedral,http://www.wikidata.org/entity/Q1081902,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q733217,Messina Cathedral,http://www.wikidata.org/entity/Q733217,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q749677,Noto Cathedral,http://www.wikidata.org/entity/Q749677,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1132503,Perugia Cathedral,http://www.wikidata.org/entity/Q1132503,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q843722,Lecce Cathedral,http://www.wikidata.org/entity/Q843722,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942818,Spoleto Cathedral,http://www.wikidata.org/entity/Q2942818,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q602102,Pavia Cathedral,http://www.wikidata.org/entity/Q602102,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1073495,Cagliari Cathedral,http://www.wikidata.org/entity/Q1073495,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q671933,Ferrara Cathedral,http://www.wikidata.org/entity/Q671933,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942710,Matera Cathedral,http://www.wikidata.org/entity/Q2942710,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q52861,cathedral Basilica of St. Cyriacus,http://www.wikidata.org/entity/Q52861,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942599,Duomo Nuovo,http://www.wikidata.org/entity/Q2942599,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q650678,Mantua Cathedral,http://www.wikidata.org/entity/Q650678,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1236622,Prato Cathedral,http://www.wikidata.org/entity/Q1236622,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q587824,Duomo of San Giorgio,http://www.wikidata.org/entity/Q587824,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2576211,Piacenza Cathedral,http://www.wikidata.org/entity/Q2576211,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q752501,Duomo of San Giorgio,http://www.wikidata.org/entity/Q752501,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q450083,Taranto Cathedral,http://www.wikidata.org/entity/Q450083,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2557858,Pistoia Cathedral,http://www.wikidata.org/entity/Q2557858,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942769,Ravenna Cathedral,http://www.wikidata.org/entity/Q2942769,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942522,Anagni Cathedral,http://www.wikidata.org/entity/Q2942522,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1145812,Udine Cathedral,http://www.wikidata.org/entity/Q1145812,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2754576,Cathedral of Urbino,http://www.wikidata.org/entity/Q2754576,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2019284,Vicenza Cathedral,http://www.wikidata.org/entity/Q2019284,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942518,Asti Cathedral,http://www.wikidata.org/entity/Q2942518,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q277433,Altamura Cathedral,http://www.wikidata.org/entity/Q277433,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q978797,Aosta Cathedral,http://www.wikidata.org/entity/Q978797,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716418,Basilica of St. Nicholas of Bari,http://www.wikidata.org/entity/Q3716418,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736131,Viterbo Cathedral,http://www.wikidata.org/entity/Q1736131,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942535,Agrigento Cathedral,http://www.wikidata.org/entity/Q2942535,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942650,Cathedral of Cosenza,http://www.wikidata.org/entity/Q2942650,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q334074,Abbazia di San Silvestro,http://www.wikidata.org/entity/Q334074,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q992867,Massa Marittima Cathedral,http://www.wikidata.org/entity/Q992867,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736162,Acireale Cathedral,http://www.wikidata.org/entity/Q1736162,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942519,Cathedral Basilica of the Assumption of Mary,http://www.wikidata.org/entity/Q2942519,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942547,Ascoli Piceno Cathedral,http://www.wikidata.org/entity/Q2942547,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q251201,Ragusa Cathedral,http://www.wikidata.org/entity/Q251201,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1118135,Novara Cathedral,http://www.wikidata.org/entity/Q1118135,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942604,Benevento Cathedral,http://www.wikidata.org/entity/Q2942604,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2266071,Alba Cathedral,http://www.wikidata.org/entity/Q2266071,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1287865,Fidenza Cathedral,http://www.wikidata.org/entity/Q1287865,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1131884,Crema Cathedral,http://www.wikidata.org/entity/Q1131884,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1239998,Pozzuoli Cathedral,http://www.wikidata.org/entity/Q1239998,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736220,Trapani Cathedral,http://www.wikidata.org/entity/Q1736220,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q728211,Cathedral of Sassari,http://www.wikidata.org/entity/Q728211,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2085527,Reggio Emilia Cathedral,http://www.wikidata.org/entity/Q2085527,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942854,Vercelli Cathedral,http://www.wikidata.org/entity/Q2942854,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2068666,Sorrento Cathedral,http://www.wikidata.org/entity/Q2068666,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2278808,Basilica of Our Lady of the Assumption,http://www.wikidata.org/entity/Q2278808,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q594678,Duomo of Gubbio,http://www.wikidata.org/entity/Q594678,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942687,La Spezia Cathedral,http://www.wikidata.org/entity/Q2942687,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3685974,Concattedrale Gran Madre di Dio,http://www.wikidata.org/entity/Q3685974,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942520,Barletta Cathedral,http://www.wikidata.org/entity/Q2942520,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3045557,Lodi Cathedral,http://www.wikidata.org/entity/Q3045557,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716403,"San Pietro Cathedral, Modica",http://www.wikidata.org/entity/Q3716403,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942828,Termoli Cathedral,http://www.wikidata.org/entity/Q2942828,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942679,Grosseto Cathedral,http://www.wikidata.org/entity/Q2942679,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716338,Carrara Cathedral,http://www.wikidata.org/entity/Q3716338,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716339,Duomo di Casertavecchia,http://www.wikidata.org/entity/Q3716339,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1153554,Frascati Cathedral,http://www.wikidata.org/entity/Q1153554,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942636,Chieti Cathedral,http://www.wikidata.org/entity/Q2942636,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942803,Savona Cathedral,http://www.wikidata.org/entity/Q2942803,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q188118,Enna cathedral,http://www.wikidata.org/entity/Q188118,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942765,Maria Santissima cathedral,http://www.wikidata.org/entity/Q2942765,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942660,Fermo Cathedral,http://www.wikidata.org/entity/Q2942660,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942628,Duomo Tonti,http://www.wikidata.org/entity/Q2942628,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736224,Cathedral of Tropea,http://www.wikidata.org/entity/Q1736224,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942544,Andria Cathedral,http://www.wikidata.org/entity/Q2942544,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942686,Cathedral of Saints Maximus and George,http://www.wikidata.org/entity/Q2942686,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q750495,Piazza Armerina Cathedral,http://www.wikidata.org/entity/Q750495,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1516689,Santissimo Salvatore Cathedral,http://www.wikidata.org/entity/Q1516689,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q593993,Lucera Cathedral,http://www.wikidata.org/entity/Q593993,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942536,Acerenza Cathedral,http://www.wikidata.org/entity/Q2942536,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716389,Duomo of Salò,http://www.wikidata.org/entity/Q3716389,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q749536,Brindisi cathedral,http://www.wikidata.org/entity/Q749536,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1643492,Pescara Cathedral,http://www.wikidata.org/entity/Q1643492,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942855,Vigevano Cathedral,http://www.wikidata.org/entity/Q2942855,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q260977,Albenga Cathedral,http://www.wikidata.org/entity/Q260977,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942757,Cathedral of San Gerardo,http://www.wikidata.org/entity/Q2942757,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942318,Cathedral of Saint Conrad,http://www.wikidata.org/entity/Q2942318,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2887127,Santa Aurea,http://www.wikidata.org/entity/Q2887127,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q733472,Cathedral of Saint Peter and Saint Mark,http://www.wikidata.org/entity/Q733472,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716379,Pietrasanta Cathedral,http://www.wikidata.org/entity/Q3716379,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1439876,Faenza Cathedral,http://www.wikidata.org/entity/Q1439876,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942658,Cathedral Basilica of St. Mary of the Assumption,http://www.wikidata.org/entity/Q2942658,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3045550,Duomo,http://www.wikidata.org/entity/Q3045550,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942750,Pesaro Cathedral,http://www.wikidata.org/entity/Q2942750,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942669,Foligno Cathedral,http://www.wikidata.org/entity/Q2942669,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942617,Casale Monferrato Cathedral,http://www.wikidata.org/entity/Q2942617,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942701,Duomo di Livorno,http://www.wikidata.org/entity/Q2942701,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942618,Carpi Cathedral,http://www.wikidata.org/entity/Q2942618,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1111481,Chioggia Cathedral,http://www.wikidata.org/entity/Q1111481,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942589,Biella Cathedral,http://www.wikidata.org/entity/Q2942589,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942831,Terni Cathedral,http://www.wikidata.org/entity/Q2942831,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1619759,Cesena Cathedral,http://www.wikidata.org/entity/Q1619759,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1623346,Santa Giusta Cathedral,http://www.wikidata.org/entity/Q1623346,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q379422,Massa Cathedral,http://www.wikidata.org/entity/Q379422,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2886890,Belluno Cathedral San Martino,http://www.wikidata.org/entity/Q2886890,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q947696,cathedral of St. Just,http://www.wikidata.org/entity/Q947696,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1271703,Caltanissetta Cathedral,http://www.wikidata.org/entity/Q1271703,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942548,Avellino Cathedral,http://www.wikidata.org/entity/Q2942548,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q950002,Capua Cathedral,http://www.wikidata.org/entity/Q950002,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942665,Forli cathedral,http://www.wikidata.org/entity/Q2942665,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942697,Basilica della Madonna del Ponte,http://www.wikidata.org/entity/Q2942697,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q788293,Sulmona Cathedral,http://www.wikidata.org/entity/Q788293,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942768,Cathedral,http://www.wikidata.org/entity/Q2942768,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942550,Aversa Cathedral,http://www.wikidata.org/entity/Q2942550,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942694,Latina Cathedral,http://www.wikidata.org/entity/Q2942694,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942849,Cathedral of Saint Clement,http://www.wikidata.org/entity/Q2942849,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2645223,Nardò Cathedral,http://www.wikidata.org/entity/Q2645223,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q428463,Gaeta cathedral,http://www.wikidata.org/entity/Q428463,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942852,Vieste Cathedral,http://www.wikidata.org/entity/Q2942852,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942642,Civita Castellana Cathedral,http://www.wikidata.org/entity/Q2942642,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716371,Duomo,http://www.wikidata.org/entity/Q3716371,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3663711,Saint archangel Michael cathedral,http://www.wikidata.org/entity/Q3663711,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942645,Cathedral,http://www.wikidata.org/entity/Q2942645,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942894,Cathedrale Sant'Agapito Martyr,http://www.wikidata.org/entity/Q2942894,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3663731,cathedral of Our Lady of the Assumption,http://www.wikidata.org/entity/Q3663731,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942704,San Giuliano Church,http://www.wikidata.org/entity/Q2942704,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q948305,Cathedral Basilica of the Assumption of Mary,http://www.wikidata.org/entity/Q948305,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1415819,Ventimiglia Cathedral,http://www.wikidata.org/entity/Q1415819,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942651,cathedral of St. Mary,http://www.wikidata.org/entity/Q2942651,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942517,Saint Pancras Cathedral,http://www.wikidata.org/entity/Q2942517,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q743305,cathedral of St. Donatus,http://www.wikidata.org/entity/Q743305,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942780,cathedral of Our Lady of the Assumption,http://www.wikidata.org/entity/Q2942780,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736196,Cathedral Basilica of St. Nicholas of Bari,http://www.wikidata.org/entity/Q1736196,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942583,Bevagna Cathedral,http://www.wikidata.org/entity/Q2942583,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942809,Cattedrale di Sessa Aurunca,http://www.wikidata.org/entity/Q2942809,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942745,Cathedral,http://www.wikidata.org/entity/Q2942745,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3045559,Pescia Cathedral,http://www.wikidata.org/entity/Q3045559,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1388065,Cathedral of San Giuliano,http://www.wikidata.org/entity/Q1388065,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942834,Tortona Cathedral,http://www.wikidata.org/entity/Q2942834,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942790,Duomo of San Miniato,http://www.wikidata.org/entity/Q2942790,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942682,Cathedral Basilica of St. Septimus,http://www.wikidata.org/entity/Q2942682,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942555,Imola cathedral,http://www.wikidata.org/entity/Q2942555,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942559,Isernia Cathedral,http://www.wikidata.org/entity/Q2942559,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942551,cathedral of Santa Chiara,http://www.wikidata.org/entity/Q2942551,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q768130,Gorizia's cathedral,http://www.wikidata.org/entity/Q768130,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942656,Fabriano Cathedral,http://www.wikidata.org/entity/Q2942656,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q644117,Manfredonia Cathedral,http://www.wikidata.org/entity/Q644117,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942741,Nola Cathedral,http://www.wikidata.org/entity/Q2942741,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716427,Cathedral of Voghera,http://www.wikidata.org/entity/Q3716427,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942562,Oria Cathedral,http://www.wikidata.org/entity/Q2942562,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1256183,Molfetta Cathedral,http://www.wikidata.org/entity/Q1256183,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942666,Cathedral,http://www.wikidata.org/entity/Q2942666,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942552,Avezzano Cathedral,http://www.wikidata.org/entity/Q2942552,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942711,Cattedrale di Santa Maria Assunta,http://www.wikidata.org/entity/Q2942711,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716425,Sant'Andrea Apostolo,http://www.wikidata.org/entity/Q3716425,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942756,Pitigliano Cathedral,http://www.wikidata.org/entity/Q2942756,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942545,Ariano Irpino Cathedral,http://www.wikidata.org/entity/Q2942545,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3045551,Adria Cathedral,http://www.wikidata.org/entity/Q3045551,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1736203,Patti Cathedral,http://www.wikidata.org/entity/Q1736203,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716376,Cathedral,http://www.wikidata.org/entity/Q3716376,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942652,"Cathedral of Saint Mary of the Assumption, Crotone",http://www.wikidata.org/entity/Q2942652,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3041409,Co-Cathedral of St. Secundian,http://www.wikidata.org/entity/Q3041409,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942537,Acerra Cathedral,http://www.wikidata.org/entity/Q2942537,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716369,Duomo di Muggia,http://www.wikidata.org/entity/Q3716369,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942816,Cathedral Basilica of St. Scholastica,http://www.wikidata.org/entity/Q2942816,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942719,Mondovì Cathedral,http://www.wikidata.org/entity/Q2942719,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942692,Nicastro Cathedral,http://www.wikidata.org/entity/Q2942692,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2424798,Cattedrale di Ceneda,http://www.wikidata.org/entity/Q2424798,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942541,Ales Cathedral,http://www.wikidata.org/entity/Q2942541,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942740,Cathedral of Nocera Inferiore,http://www.wikidata.org/entity/Q2942740,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716383,Cathedral of Saint Andrea,http://www.wikidata.org/entity/Q3716383,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716417,Santa Maria Maggiore,http://www.wikidata.org/entity/Q3716417,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942792,Duomo of Sant'Agata de' Goti,http://www.wikidata.org/entity/Q2942792,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942640,Cathedral,http://www.wikidata.org/entity/Q2942640,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q1112895,duomo di Pennabilli,http://www.wikidata.org/entity/Q1112895,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942808,St Peter cathedral,http://www.wikidata.org/entity/Q2942808,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942781,Santa Maria della Marina cathedral,http://www.wikidata.org/entity/Q2942781,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942783,Cathedral of St. Nicholas,http://www.wikidata.org/entity/Q2942783,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716412,"Church of Santa Sofia, Lendinara",http://www.wikidata.org/entity/Q3716412,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716392,duomo di San Donà,http://www.wikidata.org/entity/Q3716392,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942556,Santa Maria Assunta,http://www.wikidata.org/entity/Q2942556,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716391,Cathedral of San Daniele del Friuli,http://www.wikidata.org/entity/Q3716391,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q770169,Alife Cathedral,http://www.wikidata.org/entity/Q770169,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942846,San Pantaleone,http://www.wikidata.org/entity/Q2942846,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942607,Camerino Cathedral,http://www.wikidata.org/entity/Q2942607,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3663655,Santa Maria di Monte Oliveto Maggiore,http://www.wikidata.org/entity/Q3663655,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942623,Castellaneta Cathedral,http://www.wikidata.org/entity/Q2942623,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942713,Cathedral Basilica of Our Lady of the Assumption,http://www.wikidata.org/entity/Q2942713,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942796,Cathedral,http://www.wikidata.org/entity/Q2942796,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942812,Cathedral of the Assumption,http://www.wikidata.org/entity/Q2942812,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716372,Duomo di Naro,http://www.wikidata.org/entity/Q3716372,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716386,Sacile cathedral,http://www.wikidata.org/entity/Q3716386,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942558,Oppido Mamertina cathedral,http://www.wikidata.org/entity/Q2942558,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942516,San Pietro Apostolo,http://www.wikidata.org/entity/Q2942516,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2407717,Cattedrale di Santa Maria Assunta,http://www.wikidata.org/entity/Q2407717,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942838,"Cathedral of St. Nazarius, St. Celsus and St. Victor",http://www.wikidata.org/entity/Q2942838,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716340,cathedral of Castiglione delle Stiviere,http://www.wikidata.org/entity/Q3716340,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942823,Santa Maria Maggiore,http://www.wikidata.org/entity/Q2942823,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942791,Cathedral of Sant'Angelo dei Lombardi,http://www.wikidata.org/entity/Q2942791,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942576,Cathedral,http://www.wikidata.org/entity/Q2942576,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942685,Cathedral of the Sacred Hearts of Jesus and Mary,http://www.wikidata.org/entity/Q2942685,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716404,Cathedral of San Vito al Tagliamento,http://www.wikidata.org/entity/Q3716404,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2887087,basilica co-cathedral di Santa Maria della Pace,http://www.wikidata.org/entity/Q2887087,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716336,cathedral of Carini,http://www.wikidata.org/entity/Q3716336,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942619,Cassano allo Ionio cathedral,http://www.wikidata.org/entity/Q2942619,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942820,Cathedral of St. Clement,http://www.wikidata.org/entity/Q2942820,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942699,Locri Cathedral,http://www.wikidata.org/entity/Q2942699,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942629,Cathedral,http://www.wikidata.org/entity/Q2942629,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942695,Lanusei Cathedral,http://www.wikidata.org/entity/Q2942695,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942577,Cathedral,http://www.wikidata.org/entity/Q2942577,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716420,Duomo di Tolmezzo,http://www.wikidata.org/entity/Q3716420,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3663683,Luni Cathedral,http://www.wikidata.org/entity/Q3663683,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942751,Cathedral of the Assumption of Mary,http://www.wikidata.org/entity/Q2942751,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716351,Cathedral of Gradisca d'Isonzo,http://www.wikidata.org/entity/Q3716351,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942839,Cattedrale dell'Annunziata,http://www.wikidata.org/entity/Q2942839,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716356,Duomo of Latisana,http://www.wikidata.org/entity/Q3716356,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3663722,San Sebastiano (Massa),http://www.wikidata.org/entity/Q3663722,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942596,Co-Cathedral of the Presentation of the Blessed Virgin Mary,http://www.wikidata.org/entity/Q2942596,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716423,Chiesa del Santissimo Corpo di Cristo,http://www.wikidata.org/entity/Q3716423,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3716346,church of Sant'Adalberto,http://www.wikidata.org/entity/Q3716346,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q3663656,Cathedral,http://www.wikidata.org/entity/Q3663656,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942578,co-cathedral of Bagnoregio,http://www.wikidata.org/entity/Q2942578,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942722,co-cathedral of St. Paul the Apostle,http://www.wikidata.org/entity/Q2942722,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q38,Italy,cathedrals,1
+Q2942502,Cathedral of St. Mary of Wau,http://www.wikidata.org/entity/Q2942502,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q958,South Sudan,cathedrals,0
+Q3442727,Osijek Co-cathedral,http://www.wikidata.org/entity/Q3442727,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q2086804,St Mirin's Cathedral,http://www.wikidata.org/entity/Q2086804,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q5429578,Novo Mesto Cathedral,http://www.wikidata.org/entity/Q5429578,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q215,Slovenia,cathedrals,0
+Q1050668,São Paulo Cathedral,http://www.wikidata.org/entity/Q1050668,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q155,Brazil,cathedrals,0
+Q2942688,Jerez de la Frontera Cathedral,http://www.wikidata.org/entity/Q2942688,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q2836315,Catedral del Espíritu Santo,http://www.wikidata.org/entity/Q2836315,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q730526,Cathedral of Minorca,http://www.wikidata.org/entity/Q730526,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q2299324,Transfiguration Cathedral,http://www.wikidata.org/entity/Q2299324,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q2942446,Vabres Cathedral,http://www.wikidata.org/entity/Q2942446,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1736157,"Church of the Holy Trinity, Žilina",http://www.wikidata.org/entity/Q1736157,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q2942786,Catedral Basílica de San Salvador de Jujuy (Cathedral Basilica of the Holy Saviour),http://www.wikidata.org/entity/Q2942786,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q2942789,"Our Lady of the Incarnation Cathedral, San Miguel de Tucumán",http://www.wikidata.org/entity/Q2942789,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q5052447,Cathedral of the Immaculate Conception,http://www.wikidata.org/entity/Q5052447,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2091236,Basilique de l'Immaculée Conception,http://www.wikidata.org/entity/Q2091236,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q962,Benin,cathedrals,0
+Q1194992,Cathedral of the Immaculate Conception,http://www.wikidata.org/entity/Q1194992,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q5052376,Cathedral of Saint Vibiana,http://www.wikidata.org/entity/Q5052376,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q4320928,Saint Nicholas Orthodox cathedral in Orenburg,http://www.wikidata.org/entity/Q4320928,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q2737833,Toulouse Cathedral,http://www.wikidata.org/entity/Q2737833,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2942272,"Our Lady of the Rosary Cathedral, Paraná",http://www.wikidata.org/entity/Q2942272,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q3893581,church of the Transfiguration,http://www.wikidata.org/entity/Q3893581,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q2942406,Cathedral of St. Nicholas,http://www.wikidata.org/entity/Q2942406,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q666479,Basel Minster,http://www.wikidata.org/entity/Q666479,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,cathedrals,0
+Q1348719,Notre-Dame Cathedral,http://www.wikidata.org/entity/Q1348719,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q32,Luxembourg,cathedrals,0
+Q3663658,Holy Spirit Cathedral (Accra),http://www.wikidata.org/entity/Q3663658,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q117,Ghana,cathedrals,0
+Q3249861,St. Vartan Cathedral,http://www.wikidata.org/entity/Q3249861,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q1335910,Saint Patrick's Cathedral,http://www.wikidata.org/entity/Q1335910,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,cathedrals,0
+Q1004331,Cathedral of Funchal,http://www.wikidata.org/entity/Q1004331,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q45,Portugal,cathedrals,0
+Q1436463,"St. Philomena's Church, Mysore",http://www.wikidata.org/entity/Q1436463,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,cathedrals,0
+Q2942506,"St Mary's Cathedral, Perth",http://www.wikidata.org/entity/Q2942506,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,cathedrals,0
+Q437807,"Old Cathedral, Linz",http://www.wikidata.org/entity/Q437807,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q1140861,"Archcathedral Basilica of St. Stanislaus Kostka, Łódź",http://www.wikidata.org/entity/Q1140861,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q2485753,St. Euphemia's Basilica,http://www.wikidata.org/entity/Q2485753,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q956337,"Cathedral of Mary, Mother of the Church",http://www.wikidata.org/entity/Q956337,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,cathedrals,0
+Q2942774,Saint Boniface Cathedral,http://www.wikidata.org/entity/Q2942774,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q634410,St. Christopher's Cathedral,http://www.wikidata.org/entity/Q634410,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q55,Netherlands,cathedrals,0
+Q2942478,Santa Cruz Basilica,http://www.wikidata.org/entity/Q2942478,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,cathedrals,0
+Q4369373,Old Church of the Protection of the Theotokos,http://www.wikidata.org/entity/Q4369373,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q2446793,Cathedral of Lima,http://www.wikidata.org/entity/Q2446793,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q419,Peru,cathedrals,0
+Q2440542,St Mary's Cathedral,http://www.wikidata.org/entity/Q2440542,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q1749276,Cathedral of Our Lady of Tortosa,http://www.wikidata.org/entity/Q1749276,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q858,Syria,cathedrals,0
+Q5758380,Cathedral of Quito,http://www.wikidata.org/entity/Q5758380,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q736,Ecuador,cathedrals,0
+Q5052398,Cathedral of St. John the Evangelist,http://www.wikidata.org/entity/Q5052398,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q5758412,Catedral San Juan Bautista de la Estrada,http://www.wikidata.org/entity/Q5758412,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q2661585,Rijeka Cathedral,http://www.wikidata.org/entity/Q2661585,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q1423470,Molde Cathedral,http://www.wikidata.org/entity/Q1423470,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,cathedrals,0
+Q2991610,Forcalquier Cathedral,http://www.wikidata.org/entity/Q2991610,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q4426013,Cathedral of Tacuarembó,http://www.wikidata.org/entity/Q4426013,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q77,Uruguay,cathedrals,0
+Q250212,Freiburg Minster,http://www.wikidata.org/entity/Q250212,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q540821,Saint Mary's Anglican Cathedral (Banjul),http://www.wikidata.org/entity/Q540821,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1005,The Gambia,cathedrals,0
+Q4089672,Bogoroditse-Rozhdestvensky cathedral,http://www.wikidata.org/entity/Q4089672,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34266,Russian Empire,cathedrals,0
+Q1898467,St. Paul's Cathedral,http://www.wikidata.org/entity/Q1898467,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,cathedrals,0
+Q1087400,Toruń Cathedral,http://www.wikidata.org/entity/Q1087400,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q317346,"Cathedral of St Peter, Bautzen",http://www.wikidata.org/entity/Q317346,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q880442,Sankt-Sebastian-Kirche,http://www.wikidata.org/entity/Q880442,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q1793111,"Cathedral of Our Lady, Tromsø",http://www.wikidata.org/entity/Q1793111,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,cathedrals,0
+Q1726584,St Aubin's Cathedral,http://www.wikidata.org/entity/Q1726584,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q31,Belgium,cathedrals,0
+Q1106554,Igreja da Sé,http://www.wikidata.org/entity/Q1106554,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q2942250,Glandèves Cathedral,http://www.wikidata.org/entity/Q2942250,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2942475,cathédrale Sainte-Croix-Saint-Jean-des-Arméniens,http://www.wikidata.org/entity/Q2942475,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1138670,St Patrick's Cathedral,http://www.wikidata.org/entity/Q1138670,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,cathedrals,0
+Q2569500,St. Panteleimon's Cathedral,http://www.wikidata.org/entity/Q2569500,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q1355440,Cathedral of St Joseph,http://www.wikidata.org/entity/Q1355440,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,cathedrals,0
+Q135737,Essen Minster,http://www.wikidata.org/entity/Q135737,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q5758419,"St. Joseph's Cathedral, Antofagasta",http://www.wikidata.org/entity/Q5758419,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,cathedrals,0
+Q3663692,"Our Lady of Solitude Cathedral, Acapulco",http://www.wikidata.org/entity/Q3663692,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q5758446,St. Bartholomew Cathedral,http://www.wikidata.org/entity/Q5758446,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,cathedrals,0
+Q680359,St. Ursus Cathedral,http://www.wikidata.org/entity/Q680359,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,cathedrals,0
+Q2561189,Agde Cathedral,http://www.wikidata.org/entity/Q2561189,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2261322,Girona Cathedral,http://www.wikidata.org/entity/Q2261322,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q2942490,Cathedral of Saint Mary,http://www.wikidata.org/entity/Q2942490,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q701567,Erfurt Cathedral,http://www.wikidata.org/entity/Q701567,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q2474540,Tsalenjikha Cathedral,http://www.wikidata.org/entity/Q2474540,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q230,Georgia,cathedrals,0
+Q975891,Dornoch Cathedral,http://www.wikidata.org/entity/Q975891,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q5052452,Cathedral of the Immaculate Conception,http://www.wikidata.org/entity/Q5052452,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q1107435,Silves Cathedral,http://www.wikidata.org/entity/Q1107435,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q45,Portugal,cathedrals,0
+Q2942226,"Church of Nuestra Señora de Valvanera, Mexico City",http://www.wikidata.org/entity/Q2942226,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q334011,Maillezais Cathedral,http://www.wikidata.org/entity/Q334011,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q135271,Cathedral of Christ the Saviour,http://www.wikidata.org/entity/Q135271,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,cathedrals,0
+Q2942491,Castel of Nice Cathedral,http://www.wikidata.org/entity/Q2942491,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1627233,St Catherine's Cathedral,http://www.wikidata.org/entity/Q1627233,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q55,Netherlands,cathedrals,0
+Q666874,"St. Anthony of Padua Cathedral, Breda",http://www.wikidata.org/entity/Q666874,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q55,Netherlands,cathedrals,0
+Q4380284,"Co-Cathedral of the Merciful Father, Zaporizhia",http://www.wikidata.org/entity/Q4380284,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q3407548,Saint Mark's Coptic Orthodox Cathedral,http://www.wikidata.org/entity/Q3407548,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q79,Egypt,cathedrals,0
+Q5758455,"Sacred Heart of Jesus Cathedral, Ciudad Obregón",http://www.wikidata.org/entity/Q5758455,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q4426012,Cathedral of Maldonado,http://www.wikidata.org/entity/Q4426012,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q77,Uruguay,cathedrals,0
+Q4425957,Cathedral of Florida,http://www.wikidata.org/entity/Q4425957,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q77,Uruguay,cathedrals,0
+Q4425910,Cathedral of St. Alexander Nevsky,http://www.wikidata.org/entity/Q4425910,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q1736191,Leeds Cathedral,http://www.wikidata.org/entity/Q1736191,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q5758434,"Our Lady of the Immaculate Conception Cathedral, Campeche",http://www.wikidata.org/entity/Q5758434,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q5411522,"Holy Spirit Cathedral, Quetzaltenango",http://www.wikidata.org/entity/Q5411522,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q774,Guatemala,cathedrals,0
+Q289562,Cathedral Basilica of St. Mary,http://www.wikidata.org/entity/Q289562,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,cathedrals,0
+Q5051804,Catedral de Hermosillo,http://www.wikidata.org/entity/Q5051804,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q934764,Embrun Cathedral,http://www.wikidata.org/entity/Q934764,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2942680,Guadix Cathedral,http://www.wikidata.org/entity/Q2942680,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q1679598,"Cathedral of St. James, Jerusalem",http://www.wikidata.org/entity/Q1679598,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212938,East Jerusalem,cathedrals,0
+Q2942492,"Immaculate Conception Cathedral, Comayagua",http://www.wikidata.org/entity/Q2942492,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q783,Honduras,cathedrals,0
+Q5052393,Cathedral of St. John Berchmans,http://www.wikidata.org/entity/Q5052393,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q1355473,Sayidat al-Nejat Cathedral in Baghdad,http://www.wikidata.org/entity/Q1355473,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q796,Iraq,cathedrals,0
+Q669544,Lausanne Cathedral,http://www.wikidata.org/entity/Q669544,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,cathedrals,0
+Q2942361,"St. Joseph's Cathedral, Gualeguaychú",http://www.wikidata.org/entity/Q2942361,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q1542099,Old Cathedral of Managua,http://www.wikidata.org/entity/Q1542099,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q811,Nicaragua,cathedrals,0
+Q5052431,Cathedral of the Blessed Sacrament,http://www.wikidata.org/entity/Q5052431,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2064095,Archcathedral Basilica of St. Peter and St. Paul,http://www.wikidata.org/entity/Q2064095,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q980982,Sacred Heart Cathedral,http://www.wikidata.org/entity/Q980982,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q664,New Zealand,cathedrals,0
+Q3581066,Cathedral Saint Basil the Great,http://www.wikidata.org/entity/Q3581066,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,cathedrals,0
+Q1637393,"Greek Catholic Cathedral, Uzhhorod",http://www.wikidata.org/entity/Q1637393,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q2942914,Sacred Heart Cathedral,http://www.wikidata.org/entity/Q2942914,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q710,Kiribati,cathedrals,0
+Q3471723,Sanctuaire marial d'Abidjan,http://www.wikidata.org/entity/Q3471723,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1008,Ivory Coast,cathedrals,0
+Q4411383,"St. Catherine's Cathedral, Kherson",http://www.wikidata.org/entity/Q4411383,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q1115637,Cathedral of Saint Mother Teresa in Pristina,http://www.wikidata.org/entity/Q1115637,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1246,Kosovo,cathedrals,0
+Q1936373,Minden Cathedral,http://www.wikidata.org/entity/Q1936373,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q1064185,"St. Joseph's Church, Beijing",http://www.wikidata.org/entity/Q1064185,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q5758452,"Our Lady of Guadalupe Cathedral, Ciudad Juárez",http://www.wikidata.org/entity/Q5758452,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q2942427,Aleth Cathedral,http://www.wikidata.org/entity/Q2942427,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q651018,Cathedral of St. Mary Magdalene,http://www.wikidata.org/entity/Q651018,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q937320,St. Mary's Cathedral,http://www.wikidata.org/entity/Q937320,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q191,Estonia,cathedrals,0
+Q1986943,Trinity Cathedral,http://www.wikidata.org/entity/Q1986943,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q493133,Matthias Church,http://www.wikidata.org/entity/Q493133,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q2942372,St Joseph's Cathedral,http://www.wikidata.org/entity/Q2942372,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q3595668,St. Mary's Syro-Malabar Catholic Cathedral Basilica,http://www.wikidata.org/entity/Q3595668,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,cathedrals,0
+Q3790872,Cathedral of Saint Nicholas,http://www.wikidata.org/entity/Q3790872,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q215,Slovenia,cathedrals,0
+Q2361738,"St Andrews Cathedral, Saint Andrews",http://www.wikidata.org/entity/Q2361738,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q4798109,Cathedral of St. George Historic District,http://www.wikidata.org/entity/Q4798109,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2293995,Cathedral of San Juan de Albacete,http://www.wikidata.org/entity/Q2293995,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q877416,"Basilica of St. John the Baptist, Berlin",http://www.wikidata.org/entity/Q877416,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q2942335,Lectoure Cathedral,http://www.wikidata.org/entity/Q2942335,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q4504808,"Cathedral of the Immaculate Conception of the Holy Mother of God, Ternopil",http://www.wikidata.org/entity/Q4504808,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q262563,Graz Cathedral,http://www.wikidata.org/entity/Q262563,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q94875,St. Pölten dome,http://www.wikidata.org/entity/Q94875,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q5052467,Cathedral of the Sacred Heart,http://www.wikidata.org/entity/Q5052467,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2942316,Castres Cathedral,http://www.wikidata.org/entity/Q2942316,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1758749,Church of St. Clement of Ohrid,http://www.wikidata.org/entity/Q1758749,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q221,North Macedonia,cathedrals,0
+Q1802388,Nikortsminda Cathedral,http://www.wikidata.org/entity/Q1802388,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q230,Georgia,cathedrals,0
+Q1281985,Armenian Cathedral of the Holy Cross,http://www.wikidata.org/entity/Q1281985,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q43,Turkey,cathedrals,0
+Q314517,Fulda Cathedral,http://www.wikidata.org/entity/Q314517,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q1994735,Puebla Cathedral,http://www.wikidata.org/entity/Q1994735,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q667991,Ascension Cathedral,http://www.wikidata.org/entity/Q667991,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,cathedrals,0
+Q2231015,Assumption Cathedral in Smolensk,http://www.wikidata.org/entity/Q2231015,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q252166,"Domkirche, Würzburg",http://www.wikidata.org/entity/Q252166,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q730259,Sospel Cathedral,http://www.wikidata.org/entity/Q730259,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1756005,Cathedral of San Carlos Borromeo,http://www.wikidata.org/entity/Q1756005,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q3401291,St. Clement of Ohrid Macedonian Orthodox Cathedral,http://www.wikidata.org/entity/Q3401291,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q3056548,Church of Virgin Mary's Birth,http://www.wikidata.org/entity/Q3056548,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q4089564,Cathedral of the Theotokos of Bogolyubovo,http://www.wikidata.org/entity/Q4089564,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q2942935,New Gothic Cathedral of St. Mary,http://www.wikidata.org/entity/Q2942935,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q573491,Domkirche St. Marien,http://www.wikidata.org/entity/Q573491,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q2097127,Alexander Nevsky Cathedral,http://www.wikidata.org/entity/Q2097127,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q230,Georgia,cathedrals,0
+Q5679692,"Our Lady of Refuge Cathedral, Matamoros",http://www.wikidata.org/entity/Q5679692,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q4478052,Cathedral of the Assumption,http://www.wikidata.org/entity/Q4478052,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q3406130,Bastia Cathedral,http://www.wikidata.org/entity/Q3406130,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2342322,Patriarchal Cathedral of the Resurrection of Christ,http://www.wikidata.org/entity/Q2342322,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q2942916,"Sacred Heart Cathedral, Tashkent",http://www.wikidata.org/entity/Q2942916,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q265,Uzbekistan,cathedrals,0
+Q1385934,Cathedral of Santa Ana,http://www.wikidata.org/entity/Q1385934,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q4426003,Saint Sava Serbian Orthodox Church,http://www.wikidata.org/entity/Q4426003,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34,Sweden,cathedrals,0
+Q2097127,Alexander Nevsky Cathedral,http://www.wikidata.org/entity/Q2097127,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34266,Russian Empire,cathedrals,0
+Q144945,St. Gallen Cathedral,http://www.wikidata.org/entity/Q144945,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,cathedrals,0
+Q1083927,Christ the King Cathedral in Katowice,http://www.wikidata.org/entity/Q1083927,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q2498222,Holy Trinity Cathedral,http://www.wikidata.org/entity/Q2498222,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q855497,Cathedral of the Holy Name,http://www.wikidata.org/entity/Q855497,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,cathedrals,0
+Q1736217,Senlis Cathedral,http://www.wikidata.org/entity/Q1736217,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q4245116,Roseau Cathedral,http://www.wikidata.org/entity/Q4245116,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q784,Dominica,cathedrals,0
+Q4868422,Basílica Catedral Nuestra Señora de la Altagracia,http://www.wikidata.org/entity/Q4868422,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q786,Dominican Republic,cathedrals,0
+Q2942321,Kilfenora Cathedral and Crosses,http://www.wikidata.org/entity/Q2942321,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q27,Republic of Ireland,cathedrals,0
+Q4178575,Uzhhorod Orthodox Cathedral,http://www.wikidata.org/entity/Q4178575,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q1236638,Tampere Cathedral,http://www.wikidata.org/entity/Q1236638,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q33,Finland,cathedrals,0
+Q4163413,St. John's Cathedral,http://www.wikidata.org/entity/Q4163413,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q242,Belize,cathedrals,0
+Q1398856,Vank Cathedral,http://www.wikidata.org/entity/Q1398856,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q794,Iran,cathedrals,0
+Q386528,Požega Cathedral,http://www.wikidata.org/entity/Q386528,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q5052333,Cathedral of Our Lady of Perpetual Help,http://www.wikidata.org/entity/Q5052333,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q1949638,"St Moluag's Cathedral, Lismore",http://www.wikidata.org/entity/Q1949638,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q2472818,St. Michael's Cathedral,http://www.wikidata.org/entity/Q2472818,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2942630,Castelló Cathedral,http://www.wikidata.org/entity/Q2942630,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q2942466,"Saint Anne's Cathedral, La Pocatière",http://www.wikidata.org/entity/Q2942466,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q2397640,"Cathedral of the Exaltation of the Holy Cross, Bratislava",http://www.wikidata.org/entity/Q2397640,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q5052439,Cathedral of the Holy Spirit,http://www.wikidata.org/entity/Q5052439,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2380110,St Machar's Cathedral,http://www.wikidata.org/entity/Q2380110,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q1236597,Mikkeli Cathedral,http://www.wikidata.org/entity/Q1236597,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q33,Finland,cathedrals,0
+Q2942343,"Cathedral Basilica of St. James the Apostle, Tunja",http://www.wikidata.org/entity/Q2942343,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q701301,Gurk Cathedral,http://www.wikidata.org/entity/Q701301,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q951277,Notre Dame Cathedral,http://www.wikidata.org/entity/Q951277,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2415106,Cathedral of the Vladimir Icon of the Mother of God,http://www.wikidata.org/entity/Q2415106,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q2221961,Saint George Church,http://www.wikidata.org/entity/Q2221961,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q5664276,"Cathedral Basilica of St. Stephen the King, Székesfehérvár",http://www.wikidata.org/entity/Q5664276,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q210869,Cathedral of the Most Holy Conception,http://www.wikidata.org/entity/Q210869,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,cathedrals,0
+Q2942235,"Our Lady of Assumption Cathedral, Manzini",http://www.wikidata.org/entity/Q2942235,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1050,Eswatini,cathedrals,0
+Q2942527,Cathedral of Sainte-Thérèse-de-l'Enfant-Jésus d'Abengourou,http://www.wikidata.org/entity/Q2942527,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1008,Ivory Coast,cathedrals,0
+Q2942354,Cathedral of Saint-Jean-l'Évangéliste,http://www.wikidata.org/entity/Q2942354,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q337871,Cathedral Basilica of St. James the Apostle,http://www.wikidata.org/entity/Q337871,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q1269808,Samtavisi Cathedral,http://www.wikidata.org/entity/Q1269808,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q230,Georgia,cathedrals,0
+Q2942334,St. Francis Cathedral of Xi'an,http://www.wikidata.org/entity/Q2942334,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q5052346,Cathedral of Przemyśl,http://www.wikidata.org/entity/Q5052346,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q4369375,Protection Cathedral,http://www.wikidata.org/entity/Q4369375,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q739028,Saint-Pol-de-Léon Cathedral,http://www.wikidata.org/entity/Q739028,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q668341,Cathedral of Magdeburg,http://www.wikidata.org/entity/Q668341,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q1476984,Skhalta Cathedral,http://www.wikidata.org/entity/Q1476984,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q230,Georgia,cathedrals,0
+Q1788518,"Church of St. Trophime, Arles",http://www.wikidata.org/entity/Q1788518,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1365936,Saint Michael Archangel Orthodox cathedral in Oral,http://www.wikidata.org/entity/Q1365936,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34266,Russian Empire,cathedrals,0
+Q2372540,"Saint Demetrius Cathedral, Vidin",http://www.wikidata.org/entity/Q2372540,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q219,Bulgaria,cathedrals,0
+Q4531449,"St. Nicholas Cathedral, Elbląg",http://www.wikidata.org/entity/Q4531449,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q2942415,Cathedral of Saint Paul,http://www.wikidata.org/entity/Q2942415,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q1561401,Holy Father Nikolai Church,http://www.wikidata.org/entity/Q1561401,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q5052361,Cathedral of Saint Mary,http://www.wikidata.org/entity/Q5052361,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q4425971,Saint George's Cathedral,http://www.wikidata.org/entity/Q4425971,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,cathedrals,0
+Q2942922,"Holy Name Cathedral, Brisbane",http://www.wikidata.org/entity/Q2942922,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,cathedrals,0
+Q684506,Cathedral of Saint Mary of the Assumption (Chur),http://www.wikidata.org/entity/Q684506,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,cathedrals,0
+Q2615258,Sacred Heart Cathedral,http://www.wikidata.org/entity/Q2615258,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q5052354,Cathedral of Saint John Gualbert,http://www.wikidata.org/entity/Q5052354,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q941763,St. Patrick's Old Cathedral,http://www.wikidata.org/entity/Q941763,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q4135820,St. George's Greek Orthodox Cathedral,http://www.wikidata.org/entity/Q4135820,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q34,Sweden,cathedrals,0
+Q1350999,Cardiff Metropolitan Cathedral,http://www.wikidata.org/entity/Q1350999,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q55519,Jakarta Cathedral,http://www.wikidata.org/entity/Q55519,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,cathedrals,0
+Q3271657,Subotica Cathedral,http://www.wikidata.org/entity/Q3271657,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q403,Serbia,cathedrals,0
+Q5104097,Choisy Cathedral,http://www.wikidata.org/entity/Q5104097,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1296604,"St. Michael's Cathedral, Veszprém",http://www.wikidata.org/entity/Q1296604,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q2942703,Malakal Cathedral,http://www.wikidata.org/entity/Q2942703,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q958,South Sudan,cathedrals,0
+Q5758404,"Our Lady of the Rosary Cathedral, Azul",http://www.wikidata.org/entity/Q5758404,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q2437680,Ajaccio Cathedral,http://www.wikidata.org/entity/Q2437680,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2845859,Mirepoix Cathedral,http://www.wikidata.org/entity/Q2845859,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q5052440,Cathedral of the Immaculate Conception,http://www.wikidata.org/entity/Q5052440,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q5657325,"St. Mary's Cathedral, Chiclayo",http://www.wikidata.org/entity/Q5657325,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q419,Peru,cathedrals,0
+Q5645601,Basílica de la Inmaculada Concepción,http://www.wikidata.org/entity/Q5645601,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q2942499,Lombez Cathedral,http://www.wikidata.org/entity/Q2942499,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q3663685,Polish Catholic Cathedral of Virgin Mary the Queen of the Apostles in Częstochowa,http://www.wikidata.org/entity/Q3663685,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q1775246,"St. Olav's Cathedral, Trondheim",http://www.wikidata.org/entity/Q1775246,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q20,Norway,cathedrals,0
+Q1638399,Shkodër Cathedral,http://www.wikidata.org/entity/Q1638399,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q222,Albania,cathedrals,0
+Q2942328,"St. Ferdinand the King Cathedral, Resistencia",http://www.wikidata.org/entity/Q2942328,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q538462,Xalapa Cathedral,http://www.wikidata.org/entity/Q538462,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q2002388,Saint-Paul-Trois-Châteaux Cathedral,http://www.wikidata.org/entity/Q2002388,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q5052386,Cathedral of St. Andrew,http://www.wikidata.org/entity/Q5052386,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q5052355,Cathedral of Saint Francis de Sales,http://www.wikidata.org/entity/Q5052355,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q739366,Cathedral of Saint Lawrence,http://www.wikidata.org/entity/Q739366,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,cathedrals,0
+Q971514,St Mary’s Cathedral,http://www.wikidata.org/entity/Q971514,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q408,Australia,cathedrals,0
+Q1033178,Bana cathedral,http://www.wikidata.org/entity/Q1033178,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q43,Turkey,cathedrals,0
+Q3663664,Cathedral of Aveiro,http://www.wikidata.org/entity/Q3663664,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q45,Portugal,cathedrals,0
+Q2942856,Yei cathedral,http://www.wikidata.org/entity/Q2942856,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q958,South Sudan,cathedrals,0
+Q57345,Holy Rosary Cathedral,http://www.wikidata.org/entity/Q57345,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q865,Taiwan,cathedrals,0
+Q1581553,Saint Mark's Coptic Orthodox Cathedral,http://www.wikidata.org/entity/Q1581553,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q79,Egypt,cathedrals,0
+Q1281237,Vilnius Cathedral,http://www.wikidata.org/entity/Q1281237,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q37,Lithuania,cathedrals,0
+Q5758389,Monterrey Cathedral,http://www.wikidata.org/entity/Q5758389,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q2942523,Mâcon Cathedral,http://www.wikidata.org/entity/Q2942523,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1151330,"Mary, Queen of the World Cathedral",http://www.wikidata.org/entity/Q1151330,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q4338776,Church of St. Simeon and the Prophetess Hanna,http://www.wikidata.org/entity/Q4338776,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q191,Estonia,cathedrals,0
+Q2820502,Alet Cathedral,http://www.wikidata.org/entity/Q2820502,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q785524,Cathedral of Saint Bonaventure,http://www.wikidata.org/entity/Q785524,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,cathedrals,0
+Q1698814,"St. John the Baptist Cathedral, Lublin",http://www.wikidata.org/entity/Q1698814,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q875365,St. Mary's Cathedral,http://www.wikidata.org/entity/Q875365,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q2948368,Our Lady of Lebanon of Paris Cathedral,http://www.wikidata.org/entity/Q2948368,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1195445,Sacred Heart Cathedral,http://www.wikidata.org/entity/Q1195445,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q1736151,"St. Sebastian's Cathedral, Bratislava",http://www.wikidata.org/entity/Q1736151,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q1236564,Ljubljana Cathedral,http://www.wikidata.org/entity/Q1236564,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q215,Slovenia,cathedrals,0
+Q4992220,Cathédrale Saint-Louis-des-Invalides,http://www.wikidata.org/entity/Q4992220,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2942898,"Christ the King Cathedral, Gaspé",http://www.wikidata.org/entity/Q2942898,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q2351947,Old Cathedral of Coimbra,http://www.wikidata.org/entity/Q2351947,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q45,Portugal,cathedrals,0
+Q5648854,Cathedral Basilica of Our Lady of the Rosarp,http://www.wikidata.org/entity/Q5648854,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q638519,Wawel Cathedral,http://www.wikidata.org/entity/Q638519,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q2934576,St. Joseph's Cathedral in Cairo,http://www.wikidata.org/entity/Q2934576,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q79,Egypt,cathedrals,0
+Q1969907,Saint George Cathedral,http://www.wikidata.org/entity/Q1969907,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q1736229,"Cathedral of the Holy Cross, Opole",http://www.wikidata.org/entity/Q1736229,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q1267112,Cathedral of Jesus' Heart,http://www.wikidata.org/entity/Q1267112,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,cathedrals,0
+Q570733,Viseu Cathedral,http://www.wikidata.org/entity/Q570733,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q45,Portugal,cathedrals,0
+Q3406129,Calvi Cathedral,http://www.wikidata.org/entity/Q3406129,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q725419,"Church of the Assumption, Szentendre",http://www.wikidata.org/entity/Q725419,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q5052407,Cathedral of St. Joseph,http://www.wikidata.org/entity/Q5052407,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2942712,Catedral Basílica de Mercedes-Luján,http://www.wikidata.org/entity/Q2942712,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q2887011,Basilica of St. Joseph Proto-Cathedral,http://www.wikidata.org/entity/Q2887011,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q187702,Church of the Holy Sepulchre,http://www.wikidata.org/entity/Q187702,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q801,Israel,cathedrals,0
+Q2002811,St Andrew's Cathedral,http://www.wikidata.org/entity/Q2002811,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q4723958,St. Elijah Cathedral,http://www.wikidata.org/entity/Q4723958,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q801,Israel,cathedrals,0
+Q4411367,"Saint George Cathedral, Kamianets-Podilskyi",http://www.wikidata.org/entity/Q4411367,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q2942878,Rieux Cathedral,http://www.wikidata.org/entity/Q2942878,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q5758462,Copiapó Cathedral,http://www.wikidata.org/entity/Q5758462,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,cathedrals,0
+Q152271,"Saint Andrew's Cathedral, St Petersburg",http://www.wikidata.org/entity/Q152271,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q5758423,"Holy Trinity Cathedral, Autlán",http://www.wikidata.org/entity/Q5758423,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q1257632,Holy Trinity Cathedral,http://www.wikidata.org/entity/Q1257632,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q33,Finland,cathedrals,0
+Q3278408,Guayaquil Metropolitan Cathedral,http://www.wikidata.org/entity/Q3278408,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q736,Ecuador,cathedrals,0
+Q5758365,Cathedral Basilica of Our Lady of St. John of the Lakes,http://www.wikidata.org/entity/Q5758365,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q2942462,Ancienne cathédrale Saint-Étienne de Paris,http://www.wikidata.org/entity/Q2942462,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2648504,All Saints Cathedral of Khartoum,http://www.wikidata.org/entity/Q2648504,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q1049,Sudan,cathedrals,0
+Q613619,St. John's Co-Cathedral,http://www.wikidata.org/entity/Q613619,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q233,Malta,cathedrals,0
+Q2780851,Transfiguration Cathedral,http://www.wikidata.org/entity/Q2780851,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q2212795,Corbeil Cathedral,http://www.wikidata.org/entity/Q2212795,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1631773,St. Lambert's Cathedral,http://www.wikidata.org/entity/Q1631773,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q31,Belgium,cathedrals,0
+Q196161,Cathedral of Ani,http://www.wikidata.org/entity/Q196161,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q43,Turkey,cathedrals,0
+Q1030709,"Cathedral Basilica of the Assumption of Our Lady, Győr",http://www.wikidata.org/entity/Q1030709,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q3652333,Kumurdo Cathedral,http://www.wikidata.org/entity/Q3652333,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q230,Georgia,cathedrals,0
+Q5758420,"Immaculate Conception Cathedral, Apatzingán",http://www.wikidata.org/entity/Q5758420,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q5047033,"Cartagena Cathedral, Colombia",http://www.wikidata.org/entity/Q5047033,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q4769775,Annunciation Melkite Catholic Cathedral,http://www.wikidata.org/entity/Q4769775,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2942581,Cathedral of Baeza,http://www.wikidata.org/entity/Q2942581,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q2687812,Fortrose Cathedral,http://www.wikidata.org/entity/Q2687812,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q4425967,Sacred Heart Cathedral,http://www.wikidata.org/entity/Q4425967,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q2086395,Dunkeld Cathedral,http://www.wikidata.org/entity/Q2086395,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q2082848,Saint Sarkis Cathedral,http://www.wikidata.org/entity/Q2082848,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q794,Iran,cathedrals,0
+Q5052437,Cathedral of the Holy Redeemer,http://www.wikidata.org/entity/Q5052437,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,cathedrals,0
+Q5108630,Christ's Church Cathedral,http://www.wikidata.org/entity/Q5108630,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q2319182,Nabi Yahya Mosque,http://www.wikidata.org/entity/Q2319182,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q219060,State of Palestine,cathedrals,0
+Q4478061,The Dormition Cathedral,http://www.wikidata.org/entity/Q4478061,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q2942338,"St. Hyacinth's Cathedral, Saint-Hyacinthe",http://www.wikidata.org/entity/Q2942338,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q5052412,Cathedral of St. Mary of the Assumption,http://www.wikidata.org/entity/Q5052412,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2942282,Basilica Cathedral of Arequipa,http://www.wikidata.org/entity/Q2942282,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q419,Peru,cathedrals,0
+Q2347106,"Old Cathedral of St. Barbara and St. Paul, Vitebsk",http://www.wikidata.org/entity/Q2347106,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q184,Belarus,cathedrals,0
+Q2942364,Saint-Joseph de Parral Cathedral,http://www.wikidata.org/entity/Q2942364,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q584590,Lisieux Cathedral,http://www.wikidata.org/entity/Q584590,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q5052203,Cathedral Building,http://www.wikidata.org/entity/Q5052203,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2942441,Saint-Pierre Cathedral,http://www.wikidata.org/entity/Q2942441,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q5052430,Cathedral of the Birth of Mary,http://www.wikidata.org/entity/Q5052430,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q225,Bosnia and Herzegovina,cathedrals,0
+Q4425942,Cathedral of Minas,http://www.wikidata.org/entity/Q4425942,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q77,Uruguay,cathedrals,0
+Q1972822,Enda Mariam Coptic Cathedral,http://www.wikidata.org/entity/Q1972822,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q986,Eritrea,cathedrals,0
+Q257481,"New Cathedral, Linz",http://www.wikidata.org/entity/Q257481,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q1461247,Cathedral of Our Lady of the Assumption,http://www.wikidata.org/entity/Q1461247,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q790,Haiti,cathedrals,0
+Q2942349,Saint Gregory the Illuminator Cathedral,http://www.wikidata.org/entity/Q2942349,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q399,Armenia,cathedrals,0
+Q2942529,Ukrainian Catholic Cathedral of the Holy Family in Exile,http://www.wikidata.org/entity/Q2942529,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q4163667,Holy Redeemer Cathedral,http://www.wikidata.org/entity/Q4163667,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q242,Belize,cathedrals,0
+Q1774485,Saint George's Cathedral,http://www.wikidata.org/entity/Q1774485,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q212,Ukraine,cathedrals,0
+Q2942487,Cathedral of St. Mary of Elphin,http://www.wikidata.org/entity/Q2942487,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q27,Republic of Ireland,cathedrals,0
+Q1706069,Guadalajara Cathedral,http://www.wikidata.org/entity/Q1706069,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q4207214,Messiah Cathedral,http://www.wikidata.org/entity/Q4207214,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,cathedrals,0
+Q991832,Esztergom Basilica,http://www.wikidata.org/entity/Q991832,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q239560,"St. Martin's Cathedral, Bratislava",http://www.wikidata.org/entity/Q239560,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q2942287,Papeete Cathedral,http://www.wikidata.org/entity/Q2942287,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1736174,Béziers Cathedral,http://www.wikidata.org/entity/Q1736174,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q940137,Fort-de-France Cathedral,http://www.wikidata.org/entity/Q940137,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2942273,Old Cathedral of Rio de Janeiro,http://www.wikidata.org/entity/Q2942273,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q155,Brazil,cathedrals,0
+Q4126242,Resurrection Cathedral in Istra,http://www.wikidata.org/entity/Q4126242,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q1077949,Panevėžys Cathedral,http://www.wikidata.org/entity/Q1077949,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q37,Lithuania,cathedrals,0
+Q1434756,Płock Cathedral,http://www.wikidata.org/entity/Q1434756,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q2942912,"Cathédrale du Sacré-Coeur, Port Vila",http://www.wikidata.org/entity/Q2942912,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q686,Vanuatu,cathedrals,0
+Q1891897,Cathedral of the Holy Trinity,http://www.wikidata.org/entity/Q1891897,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,cathedrals,0
+Q2942306,"St. Anthony Cathedral, Huancavelica",http://www.wikidata.org/entity/Q2942306,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q419,Peru,cathedrals,0
+Q1514655,Holy Rosary Cathedral,http://www.wikidata.org/entity/Q1514655,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q2942352,"St. John the Baptist Cathedral, San Juan",http://www.wikidata.org/entity/Q2942352,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q1476251,Saint Sophia Cathedral,http://www.wikidata.org/entity/Q1476251,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q229,Cyprus,cathedrals,0
+Q5052321,Cathedral of Luanda,http://www.wikidata.org/entity/Q5052321,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q916,Angola,cathedrals,0
+Q2842588,"St. Peter the Apostle Cathedral, Buga",http://www.wikidata.org/entity/Q2842588,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q5582932,"Good Shepherd Cathedral, Ayr",http://www.wikidata.org/entity/Q5582932,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q616513,Cathedral of Our Lady of Guadalupe,http://www.wikidata.org/entity/Q616513,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q1628075,Cathedral Basilica of St. Dionysius the Areopagite,http://www.wikidata.org/entity/Q1628075,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q41,Greece,cathedrals,0
+Q2297114,Orange Cathedral,http://www.wikidata.org/entity/Q2297114,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2942884,Cathedral of the Holy Trinity,http://www.wikidata.org/entity/Q2942884,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q5758407,"Our Lady of the Most Holy Rosary Cathedral, Estelí",http://www.wikidata.org/entity/Q5758407,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q811,Nicaragua,cathedrals,0
+Q770458,Alexander Nevsky Cathedral,http://www.wikidata.org/entity/Q770458,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q4383788,Sacred Heart Cathedral,http://www.wikidata.org/entity/Q4383788,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q17,Japan,cathedrals,0
+Q5052339,Cathedral of Our Lady of the Rosary,http://www.wikidata.org/entity/Q5052339,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q1349239,Lavaur Cathedral,http://www.wikidata.org/entity/Q1349239,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1686988,Kaunas Cathedral Basilica,http://www.wikidata.org/entity/Q1686988,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q37,Lithuania,cathedrals,0
+Q2879692,"Cathedral Basilica of Our Lady of the Assumption, Aguascalientes",http://www.wikidata.org/entity/Q2879692,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q1637149,Cathedral of the Holy Name of Saint Virgin Mary,http://www.wikidata.org/entity/Q1637149,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q184,Belarus,cathedrals,0
+Q1894133,Assumption of Mary Church,http://www.wikidata.org/entity/Q1894133,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q4425945,Cathedral of the Immaculate Heart of Mary in Datong,http://www.wikidata.org/entity/Q4425945,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q1923783,Saint Joseph Cathedral,http://www.wikidata.org/entity/Q1923783,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q881,Vietnam,cathedrals,0
+Q2878711,Iglesia Mayor Concatedral de la Encarnación,http://www.wikidata.org/entity/Q2878711,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q473121,Narbonne Cathedral,http://www.wikidata.org/entity/Q473121,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1275381,Zagreb Orthodox Cathedral,http://www.wikidata.org/entity/Q1275381,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q723968,Pécs Cathedral,http://www.wikidata.org/entity/Q723968,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q2942265,Notre-Dame-du-Mont-Carmel de Cartago cathedral,http://www.wikidata.org/entity/Q2942265,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q645105,Euphrasian Basilica,http://www.wikidata.org/entity/Q645105,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q5052388,Cathedral of St. Francis de Sales,http://www.wikidata.org/entity/Q5052388,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q4356840,St. Andrew's Cathedral,http://www.wikidata.org/entity/Q4356840,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q57780,"St. Joseph's Cathedral, Fort-Liberté",http://www.wikidata.org/entity/Q57780,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q790,Haiti,cathedrals,0
+Q583323,Cathedral of the Visitation,http://www.wikidata.org/entity/Q583323,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q1573417,Liège Cathedral,http://www.wikidata.org/entity/Q1573417,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q31,Belgium,cathedrals,0
+Q5192604,Cuernavaca Cathedral,http://www.wikidata.org/entity/Q5192604,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q1086358,St. Rumbold's Cathedral,http://www.wikidata.org/entity/Q1086358,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q31,Belgium,cathedrals,0
+Q5758368,"Cathedral Basilica of Our Lady of the Assumption, Popayán",http://www.wikidata.org/entity/Q5758368,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q2942917,Bethlehem Cathedral of the Holy Spirit,http://www.wikidata.org/entity/Q2942917,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q258,South Africa,cathedrals,0
+Q663577,Church of the Transfiguration,http://www.wikidata.org/entity/Q663577,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,cathedrals,0
+Q5052422,Cathedral of Veracruz,http://www.wikidata.org/entity/Q5052422,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q5052315,Cathedral of Hope,http://www.wikidata.org/entity/Q5052315,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q872119,Saint Nicholas church Feldkirch,http://www.wikidata.org/entity/Q872119,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q2942514,Cuenca Cathedral,http://www.wikidata.org/entity/Q2942514,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q4478063,Cathedral of the Dormition of the Theotokos,http://www.wikidata.org/entity/Q4478063,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q1236619,Savonlinna Cathedral,http://www.wikidata.org/entity/Q1236619,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q33,Finland,cathedrals,0
+Q922690,Elgin Cathedral,http://www.wikidata.org/entity/Q922690,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q3663644,Saints Peter and Paul Cathedral of Abomey,http://www.wikidata.org/entity/Q3663644,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q962,Benin,cathedrals,0
+Q5758391,Metropolitan Cathedral of Panama City,http://www.wikidata.org/entity/Q5758391,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q804,Panama,cathedrals,0
+Q2585341,"Cathedral of the Assumption of the Virgin Mary, Varaždin",http://www.wikidata.org/entity/Q2585341,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q2942246,Senez Cathedral,http://www.wikidata.org/entity/Q2942246,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2515355,former collegiate church of St. Verena with church treasure,http://www.wikidata.org/entity/Q2515355,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q39,Switzerland,cathedrals,0
+Q1050663,Cathedral of La Plata,http://www.wikidata.org/entity/Q1050663,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q5052471,Cathedral of the Sacred Heart of Jesus,http://www.wikidata.org/entity/Q5052471,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q833,Malaysia,cathedrals,0
+Q5051806,Catedral de Santa Clara de Asis,http://www.wikidata.org/entity/Q5051806,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q241,Cuba,cathedrals,0
+Q5052402,Cathedral of St. John the Evangelist,http://www.wikidata.org/entity/Q5052402,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q2694391,Cathedral of Our Lady of the Seven Sorrows of Suzhou,http://www.wikidata.org/entity/Q2694391,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q1236623,"Cathedral of the Assumption of Mary and St. Rupert, Wiener Neustadt",http://www.wikidata.org/entity/Q1236623,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q4426023,Holy Trinity Cathedral,http://www.wikidata.org/entity/Q4426023,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,cathedrals,0
+Q2942753,Notre Dame Cathedral,http://www.wikidata.org/entity/Q2942753,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q424,Cambodia,cathedrals,0
+Q5052318,"Cathedral of Mary Help of Christians, Shillong",http://www.wikidata.org/entity/Q5052318,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,cathedrals,0
+Q2942239,Mata Utu Cathedral,http://www.wikidata.org/entity/Q2942239,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q3895899,Metropolitan Cathedral of Saint Sebastian,http://www.wikidata.org/entity/Q3895899,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q750,Bolivia,cathedrals,0
+Q5758442,"Immaculate Conception Cathedral, Celaya",http://www.wikidata.org/entity/Q5758442,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q5695086,"St. Joseph's Cathedral, Melipilla",http://www.wikidata.org/entity/Q5695086,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q298,Chile,cathedrals,0
+Q1736176,Immaculate Conception Cathedral,http://www.wikidata.org/entity/Q1736176,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q574,East Timor,cathedrals,0
+Q1473348,Glasgow Cathedral,http://www.wikidata.org/entity/Q1473348,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q4425979,St. Josaphat Cathedral,http://www.wikidata.org/entity/Q4425979,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q872821,Rottenburg Cathedral,http://www.wikidata.org/entity/Q872821,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q4126223,"Resurrection Cathedral, Starocherkasskaya",http://www.wikidata.org/entity/Q4126223,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q1249452,Saint-Pierre-et-Saint-Paul de Maguelone Cathedral,http://www.wikidata.org/entity/Q1249452,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1780440,Lodève Cathedral,http://www.wikidata.org/entity/Q1780440,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q641447,St. George's Cathedral,http://www.wikidata.org/entity/Q641447,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q115,Ethiopia,cathedrals,0
+Q666935,Dresden Cathedral,http://www.wikidata.org/entity/Q666935,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q831528,Transfiguration Cathedral,http://www.wikidata.org/entity/Q831528,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,cathedrals,0
+Q2942814,Segorbe Cathedral,http://www.wikidata.org/entity/Q2942814,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q29,Spain,cathedrals,0
+Q1050636,Cathedral of Maringá,http://www.wikidata.org/entity/Q1050636,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q155,Brazil,cathedrals,0
+Q2942482,Se Cathedral,http://www.wikidata.org/entity/Q2942482,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q668,India,cathedrals,0
+Q2942252,Zacatecas Cathedral,http://www.wikidata.org/entity/Q2942252,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q782099,Phát Diệm Cathedral,http://www.wikidata.org/entity/Q782099,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q881,Vietnam,cathedrals,0
+Q3581823,"Church of St. Ignatius, Vilnius",http://www.wikidata.org/entity/Q3581823,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q37,Lithuania,cathedrals,0
+Q5052374,Cathedral of Saint Theresa of Lisieux,http://www.wikidata.org/entity/Q5052374,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q835542,Kathedrale Maria Schutz und St. Andreas,http://www.wikidata.org/entity/Q835542,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q3663717,Cathedral of St. Paul,http://www.wikidata.org/entity/Q3663717,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q3405312,Sandomierz Cathedral,http://www.wikidata.org/entity/Q3405312,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q5052443,Cathedral of the Immaculate Conception,http://www.wikidata.org/entity/Q5052443,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q1779076,"Co-Cathedral Basilica of the Assumption, Kołobrzeg",http://www.wikidata.org/entity/Q1779076,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q932828,Noyon Cathedral,http://www.wikidata.org/entity/Q932828,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2942294,"Córdoba Cathedral, Argentina",http://www.wikidata.org/entity/Q2942294,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q2942236,Cathedral of Our Lady of the Assumption,http://www.wikidata.org/entity/Q2942236,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q5552448,St. John's Cathedral,http://www.wikidata.org/entity/Q5552448,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q833,Malaysia,cathedrals,0
+Q5758353,Cathedral Basilica of Our Lady of Guadalupe,http://www.wikidata.org/entity/Q5758353,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q5052411,Cathedral of St. Mary of the Annunciation,http://www.wikidata.org/entity/Q5052411,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q5052473,Cathedral of the Transfiguration,http://www.wikidata.org/entity/Q5052473,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q258578,Innsbruck Cathedral,http://www.wikidata.org/entity/Q258578,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q1777703,Field Cathedral of the Polish Army,http://www.wikidata.org/entity/Q1777703,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q468317,Medieval Saint Adalbertus Achcathedral (Esztergom),http://www.wikidata.org/entity/Q468317,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q2942861,Assumption Cathedral,http://www.wikidata.org/entity/Q2942861,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q1573958,St. Laurentius,http://www.wikidata.org/entity/Q1573958,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q55,Netherlands,cathedrals,0
+Q2942924,Cathedral of the Blessed Sacrament,http://www.wikidata.org/entity/Q2942924,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q913830,St. John's Cathedral,http://www.wikidata.org/entity/Q913830,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q1456266,Fridolinsmünster Bad Säckingen,http://www.wikidata.org/entity/Q1456266,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q5052350,Cathedral of Saint Francis de Sales,http://www.wikidata.org/entity/Q5052350,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q771584,Lapua Cathedral,http://www.wikidata.org/entity/Q771584,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q33,Finland,cathedrals,0
+Q723359,St Columba's Cathedral,http://www.wikidata.org/entity/Q723359,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q641751,Pelplin Abbey,http://www.wikidata.org/entity/Q641751,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q36,Poland,cathedrals,0
+Q2942929,Metropolitan Cathedral of San Salvador,http://www.wikidata.org/entity/Q2942929,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q792,El Salvador,cathedrals,0
+Q1736161,"Cathedral of the Theotokos, Vilnius",http://www.wikidata.org/entity/Q1736161,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q37,Lithuania,cathedrals,0
+Q1433289,St Martin's Cathedral,http://www.wikidata.org/entity/Q1433289,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q1562136,Güstrow Cathedral,http://www.wikidata.org/entity/Q1562136,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q508405,Cathedral of san sebastian,http://www.wikidata.org/entity/Q508405,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q155,Brazil,cathedrals,0
+Q759604,Cathedral of the Resurrection,http://www.wikidata.org/entity/Q759604,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q191,Estonia,cathedrals,0
+Q4832998,Cathedral of Arapgir,http://www.wikidata.org/entity/Q4832998,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q43,Turkey,cathedrals,0
+Q4426067,St. Lucia's Cathedral,http://www.wikidata.org/entity/Q4426067,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q854,Sri Lanka,cathedrals,0
+Q2942459,Cervione Cathedral,http://www.wikidata.org/entity/Q2942459,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1257623,"Coronation Cathedral, Alba Iulia",http://www.wikidata.org/entity/Q1257623,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q218,Romania,cathedrals,0
+Q1704837,Cathedral of Saint John,http://www.wikidata.org/entity/Q1704837,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q884,South Korea,cathedrals,0
+Q1679598,"Cathedral of St. James, Jerusalem",http://www.wikidata.org/entity/Q1679598,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q407199,Palestinian territories,cathedrals,0
+Q708532,St.-Paulus-Dom,http://www.wikidata.org/entity/Q708532,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q183,Germany,cathedrals,0
+Q1990726,Saint Sampson's Cathedral,http://www.wikidata.org/entity/Q1990726,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q4425999,Holy Rosary Cathedral,http://www.wikidata.org/entity/Q4425999,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q16,Canada,cathedrals,0
+Q2942264,Motherwell Cathedral,http://www.wikidata.org/entity/Q2942264,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q2498635,Alexander Nevsky Cathedral,http://www.wikidata.org/entity/Q2498635,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q2942934,Birmingham Orthodox Cathedral,http://www.wikidata.org/entity/Q2942934,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q2886950,Basilica of the National Shrine of Our Lady of Aparecida,http://www.wikidata.org/entity/Q2886950,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q155,Brazil,cathedrals,0
+Q2329558,Morelia Cathedral,http://www.wikidata.org/entity/Q2329558,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q1294648,Etchmiadzin Cathedral,http://www.wikidata.org/entity/Q1294648,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q399,Armenia,cathedrals,0
+Q942883,"St. Emmeram's Cathedral, Nitra",http://www.wikidata.org/entity/Q942883,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q2942911,Rēzekne Sacred Heart of Jesus Roman Catholic Cathedral,http://www.wikidata.org/entity/Q2942911,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q211,Latvia,cathedrals,0
+Q5052413,Cathedral of St. Peter the Apostle,http://www.wikidata.org/entity/Q5052413,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q1296238,"Saint Anne Cathedral, Debrecen",http://www.wikidata.org/entity/Q1296238,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q28,Hungary,cathedrals,0
+Q261423,Klagenfurt Cathedral,http://www.wikidata.org/entity/Q261423,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q40,Austria,cathedrals,0
+Q5758387,Metropolitan Cathedral,http://www.wikidata.org/entity/Q5758387,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q739,Colombia,cathedrals,0
+Q1547466,St Giles' Cathedral,http://www.wikidata.org/entity/Q1547466,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q145,United Kingdom,cathedrals,0
+Q1355001,Uspenski Cathedral,http://www.wikidata.org/entity/Q1355001,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q33,Finland,cathedrals,0
+Q2942237,"Cathedral of Our Lady of the Assumption, Oaxaca",http://www.wikidata.org/entity/Q2942237,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q96,Mexico,cathedrals,0
+Q3695615,Sacred Heart Cathedral,http://www.wikidata.org/entity/Q3695615,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q843,Pakistan,cathedrals,0
+Q5052424,"Cathedral of the Annunciation, İskenderun",http://www.wikidata.org/entity/Q5052424,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q43,Turkey,cathedrals,0
+Q4204290,Holy Rosary Cathedral,http://www.wikidata.org/entity/Q4204290,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q252,Indonesia,cathedrals,0
+Q1195001,Cathedral of the Immaculate Conception,http://www.wikidata.org/entity/Q1195001,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q2595999,Church of Saint Nicholas,http://www.wikidata.org/entity/Q2595999,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q213,Czech Republic,cathedrals,0
+Q847490,Cayenne Cathedral,http://www.wikidata.org/entity/Q847490,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2374300,St. Theresa's Cathedral of Changchun,http://www.wikidata.org/entity/Q2374300,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q2942428,Mar del Plata Cathedral,http://www.wikidata.org/entity/Q2942428,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0
+Q2942367,Antigua Guatemala Cathedral,http://www.wikidata.org/entity/Q2942367,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q774,Guatemala,cathedrals,0
+Q2310816,Oloron Cathedral,http://www.wikidata.org/entity/Q2310816,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q1546307,Križevci Cathedral,http://www.wikidata.org/entity/Q1546307,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q224,Croatia,cathedrals,0
+Q4361578,Saint Peter & Paul Cathedral (Perm),http://www.wikidata.org/entity/Q4361578,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q159,Russia,cathedrals,0
+Q4126235,Church of the Resurrection of Christ,http://www.wikidata.org/entity/Q4126235,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q813,Kyrgyzstan,cathedrals,0
+Q1378149,Sint-Salvatorskathedraal,http://www.wikidata.org/entity/Q1378149,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q31,Belgium,cathedrals,0
+Q569428,Cathedral of St. Elizabeth,http://www.wikidata.org/entity/Q569428,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q2942526,Armenian Cathedral of St. John the Baptist,http://www.wikidata.org/entity/Q2942526,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q5052419,Cathedral of Tomorrow,http://www.wikidata.org/entity/Q5052419,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q30,United States of America,cathedrals,0
+Q4425916,"Our Lady of the Presentation Cathedral, Natal",http://www.wikidata.org/entity/Q4425916,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q155,Brazil,cathedrals,0
+Q1188864,Cathedral of the Immaculate Conception,http://www.wikidata.org/entity/Q1188864,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q148,People's Republic of China,cathedrals,0
+Q2617274,Maribor Cathedral,http://www.wikidata.org/entity/Q2617274,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q215,Slovenia,cathedrals,0
+Q1356821,Cathedral of Evangelismos,http://www.wikidata.org/entity/Q1356821,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q79,Egypt,cathedrals,0
+Q2942398,cathédrale Saint-Nazaire d'Autun,http://www.wikidata.org/entity/Q2942398,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q142,France,cathedrals,0
+Q2736107,Saint Peter and Paul Cathedral,http://www.wikidata.org/entity/Q2736107,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q730,Suriname,cathedrals,0
+Q1560680,"Our Lady of Sorrows Church, Poprad",http://www.wikidata.org/entity/Q1560680,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q214,Slovakia,cathedrals,0
+Q2835218,San Isidro Cathedral,http://www.wikidata.org/entity/Q2835218,http://www.wikidata.org/prop/direct/P17,country,http://www.wikidata.org/entity/Q414,Argentina,cathedrals,0

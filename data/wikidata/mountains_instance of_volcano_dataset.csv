@@ -1,0 +1,82 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q131230,Mauna Kea,http://www.wikidata.org/entity/Q131230,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q188982,Mount Erebus,http://www.wikidata.org/entity/Q188982,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q231620,Parícutin,http://www.wikidata.org/entity/Q231620,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q210252,Klyuchevskaya Sopka,http://www.wikidata.org/entity/Q210252,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q43876,Mount Batur,http://www.wikidata.org/entity/Q43876,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q214916,Llullaillaco,http://www.wikidata.org/entity/Q214916,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q190562,Mount Cameroon,http://www.wikidata.org/entity/Q190562,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q126804,Mount Erciyes,http://www.wikidata.org/entity/Q126804,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q235062,Galeras,http://www.wikidata.org/entity/Q235062,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q123157,Gunung Telomoyo,http://www.wikidata.org/entity/Q123157,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q183027,Mount Garibaldi,http://www.wikidata.org/entity/Q183027,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q152380,Chaitén,http://www.wikidata.org/entity/Q152380,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q298119,Öræfajökull,http://www.wikidata.org/entity/Q298119,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q255010,Parinacota,http://www.wikidata.org/entity/Q255010,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q202629,Lonquimay,http://www.wikidata.org/entity/Q202629,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q312770,Domuyo,http://www.wikidata.org/entity/Q312770,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q185847,Mount Wrangell,http://www.wikidata.org/entity/Q185847,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q312866,Antofalla,http://www.wikidata.org/entity/Q312866,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q337644,Acamarachi,http://www.wikidata.org/entity/Q337644,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q252081,"Guallatiri, Chile",http://www.wikidata.org/entity/Q252081,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q26546,Doña Juana,http://www.wikidata.org/entity/Q26546,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q248276,Corcovado Volcano,http://www.wikidata.org/entity/Q248276,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q312936,Antofagasta de la Sierra,http://www.wikidata.org/entity/Q312936,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q280822,Brennisteinsalda,http://www.wikidata.org/entity/Q280822,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q312862,Aracar,http://www.wikidata.org/entity/Q312862,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q312929,Viedma,http://www.wikidata.org/entity/Q312929,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q163890,Prestahnúkur,http://www.wikidata.org/entity/Q163890,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8072,volcano,mountains,1
+Q206618,Zitterklapfen,http://www.wikidata.org/entity/Q206618,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q583,Mont Blanc,http://www.wikidata.org/entity/Q583,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q3393392,highest point,mountains,0
+Q15140,Rotstöckli,http://www.wikidata.org/entity/Q15140,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q217142,Snowdon,http://www.wikidata.org/entity/Q217142,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q171653,Waw an Namus,http://www.wikidata.org/entity/Q171653,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q332220,Stebnícka Magura,http://www.wikidata.org/entity/Q332220,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q524,Mount Vesuvius,http://www.wikidata.org/entity/Q524,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1330974,active volcano,mountains,0
+Q81213,Gerlachovský štít,http://www.wikidata.org/entity/Q81213,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q3393392,highest point,mountains,0
+Q337644,Acamarachi,http://www.wikidata.org/entity/Q337644,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q337660,Totenkirchl,http://www.wikidata.org/entity/Q337660,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q184639,Zehnsberg,http://www.wikidata.org/entity/Q184639,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q307436,Ötscher,http://www.wikidata.org/entity/Q307436,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q16529,Calanda,http://www.wikidata.org/entity/Q16529,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q136873,Dent de Ruth,http://www.wikidata.org/entity/Q136873,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q177759,Búrfell,http://www.wikidata.org/entity/Q177759,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q16541,Nesthorn,http://www.wikidata.org/entity/Q16541,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q335336,Har HaMenuchot,http://www.wikidata.org/entity/Q335336,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q16532,Schrattenfluh,http://www.wikidata.org/entity/Q16532,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q290991,Grosser Lafatscher,http://www.wikidata.org/entity/Q290991,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q248667,Zürichberg,http://www.wikidata.org/entity/Q248667,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q323584,Sattelkopf,http://www.wikidata.org/entity/Q323584,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q35644,Mount Pindo,http://www.wikidata.org/entity/Q35644,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q473972,protected area,mountains,0
+Q16524,Üetliberg,http://www.wikidata.org/entity/Q16524,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q4777,Mount Roraima,http://www.wikidata.org/entity/Q4777,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q204346,Zindlenspitz,http://www.wikidata.org/entity/Q204346,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q59320,King Peak,http://www.wikidata.org/entity/Q59320,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q3388,Grossglockner,http://www.wikidata.org/entity/Q3388,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q168714,Tambora,http://www.wikidata.org/entity/Q168714,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q248212,Barren Island,http://www.wikidata.org/entity/Q248212,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q23442,island,mountains,0
+Q184956,Zeiritzkampel,http://www.wikidata.org/entity/Q184956,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q1374,Matterhorn,http://www.wikidata.org/entity/Q1374,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q570116,tourist attraction,mountains,0
+Q317227,Ochsenberg,http://www.wikidata.org/entity/Q317227,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q253019,Ortsteil,mountains,0
+Q29595,Cot Seulawah Agam,http://www.wikidata.org/entity/Q29595,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q169358,stratovolcano,mountains,0
+Q255599,Hochglück,http://www.wikidata.org/entity/Q255599,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q173920,Paradiskullen,http://www.wikidata.org/entity/Q173920,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1109069,ski jumping hill,mountains,0
+Q15117,Dom,http://www.wikidata.org/entity/Q15117,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q104674,Ben Nevis,http://www.wikidata.org/entity/Q104674,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q260580,Pieter Both,http://www.wikidata.org/entity/Q260580,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q206161,Mount Herzl,http://www.wikidata.org/entity/Q206161,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q39614,cemetery,mountains,0
+Q248770,Reventador,http://www.wikidata.org/entity/Q248770,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1330974,active volcano,mountains,0
+Q16590,Ortstock,http://www.wikidata.org/entity/Q16590,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q293896,Öchsen,http://www.wikidata.org/entity/Q293896,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q1197120,extinct volcano,mountains,0
+Q15240,St. Chrischona,http://www.wikidata.org/entity/Q15240,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q335336,Har HaMenuchot,http://www.wikidata.org/entity/Q335336,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q846659,Jewish cemetery,mountains,0
+Q231620,Parícutin,http://www.wikidata.org/entity/Q231620,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q224681,Sex de Marinda,http://www.wikidata.org/entity/Q224681,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q173937,Hintere Schöntaufspitze,http://www.wikidata.org/entity/Q173937,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q218703,Riwna,http://www.wikidata.org/entity/Q218703,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q152294,Mount Nyangani,http://www.wikidata.org/entity/Q152294,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q16658,Piz Sezner,http://www.wikidata.org/entity/Q16658,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q217142,Snowdon,http://www.wikidata.org/entity/Q217142,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q207326,summit,mountains,0
+Q177064,Hoher Kranzberg,http://www.wikidata.org/entity/Q177064,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q331712,Međe,http://www.wikidata.org/entity/Q331712,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0
+Q176842,Büraberg,http://www.wikidata.org/entity/Q176842,http://www.wikidata.org/prop/direct/P31,instance of,http://www.wikidata.org/entity/Q8502,mountain,mountains,0

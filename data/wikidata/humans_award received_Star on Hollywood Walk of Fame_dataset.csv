@@ -1,0 +1,592 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q22686,Donald Trump,http://www.wikidata.org/entity/Q22686,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q131814,Tina Turner,http://www.wikidata.org/entity/Q131814,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2685,Arnold Schwarzenegger,http://www.wikidata.org/entity/Q2685,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2831,Michael Jackson,http://www.wikidata.org/entity/Q2831,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q37079,Tom Cruise,http://www.wikidata.org/entity/Q37079,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q303,Elvis Presley,http://www.wikidata.org/entity/Q303,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q43416,Keanu Reeves,http://www.wikidata.org/entity/Q43416,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q40026,Sylvester Stallone,http://www.wikidata.org/entity/Q40026,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2680,Bruce Willis,http://www.wikidata.org/entity/Q2680,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q10738,Dwayne Johnson,http://www.wikidata.org/entity/Q10738,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q5105,Céline Dion,http://www.wikidata.org/entity/Q5105,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q81328,Harrison Ford,http://www.wikidata.org/entity/Q81328,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q37175,Johnny Depp,http://www.wikidata.org/entity/Q37175,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q4616,Marilyn Monroe,http://www.wikidata.org/entity/Q4616,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q409,Bob Marley,http://www.wikidata.org/entity/Q409,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q192682,Ryan Reynolds,http://www.wikidata.org/entity/Q192682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q34436,Scarlett Johansson,http://www.wikidata.org/entity/Q34436,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q40715,Jennifer Lopez,http://www.wikidata.org/entity/Q40715,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q32522,Jennifer Aniston,http://www.wikidata.org/entity/Q32522,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q36107,Muhammad Ali,http://www.wikidata.org/entity/Q36107,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q83338,Robin Williams,http://www.wikidata.org/entity/Q83338,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q16397,Bruce Lee,http://www.wikidata.org/entity/Q16397,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q36970,Jackie Chan,http://www.wikidata.org/entity/Q36970,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q132952,Adam Sandler,http://www.wikidata.org/entity/Q132952,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q34424,Shakira,http://www.wikidata.org/entity/Q34424,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q40791,Sandra Bullock,http://www.wikidata.org/entity/Q40791,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q152505,Leonard Bernstein,http://www.wikidata.org/entity/Q152505,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q8877,Steven Spielberg,http://www.wikidata.org/entity/Q8877,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q1203,John Lennon,http://www.wikidata.org/entity/Q1203,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q106997,Jamie Lee Curtis,http://www.wikidata.org/entity/Q106997,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q11975,Britney Spears,http://www.wikidata.org/entity/Q11975,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q37459,Nicole Kidman,http://www.wikidata.org/entity/Q37459,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q5383,David Bowie,http://www.wikidata.org/entity/Q5383,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q188955,Matthew McConaughey,http://www.wikidata.org/entity/Q188955,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2808,Elton John,http://www.wikidata.org/entity/Q2808,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q231911,Sofía Vergara,http://www.wikidata.org/entity/Q231911,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q882,Charlie Chaplin,http://www.wikidata.org/entity/Q882,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q41351,Jodie Foster,http://www.wikidata.org/entity/Q41351,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q178166,Vin Diesel,http://www.wikidata.org/entity/Q178166,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q41148,Martin Scorsese,http://www.wikidata.org/entity/Q41148,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q36301,Anne Hathaway,http://www.wikidata.org/entity/Q36301,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q164119,Mark Wahlberg,http://www.wikidata.org/entity/Q164119,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q202765,Kate Winslet,http://www.wikidata.org/entity/Q202765,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q9960,Ronald Reagan,http://www.wikidata.org/entity/Q9960,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q175535,Matt Damon,http://www.wikidata.org/entity/Q175535,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q3772,Quentin Tarantino,http://www.wikidata.org/entity/Q3772,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q38119,Daniel Radcliffe,http://www.wikidata.org/entity/Q38119,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q11930,Kevin Costner,http://www.wikidata.org/entity/Q11930,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2599,Paul McCartney,http://www.wikidata.org/entity/Q2599,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q80938,John Travolta,http://www.wikidata.org/entity/Q80938,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q42786,Audrey Hepburn,http://www.wikidata.org/entity/Q42786,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q873,Meryl Streep,http://www.wikidata.org/entity/Q873,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q180453,Dolly Parton,http://www.wikidata.org/entity/Q180453,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q80046,Charlize Theron,http://www.wikidata.org/entity/Q80046,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q39792,Jack Nicholson,http://www.wikidata.org/entity/Q39792,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q6096,Snoop Dogg,http://www.wikidata.org/entity/Q6096,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q40912,Frank Sinatra,http://www.wikidata.org/entity/Q40912,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q190162,Zoe Saldaña,http://www.wikidata.org/entity/Q190162,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q34460,Gwyneth Paltrow,http://www.wikidata.org/entity/Q34460,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q103939,Charlie Sheen,http://www.wikidata.org/entity/Q103939,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q34012,Marlon Brando,http://www.wikidata.org/entity/Q34012,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q11637,Judy Garland,http://www.wikidata.org/entity/Q11637,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q48337,Morgan Freeman,http://www.wikidata.org/entity/Q48337,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q58912,Courteney Cox,http://www.wikidata.org/entity/Q58912,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q16759,Kaley Cuoco,http://www.wikidata.org/entity/Q16759,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q8704,Walt Disney,http://www.wikidata.org/entity/Q8704,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q42574,James Cameron,http://www.wikidata.org/entity/Q42574,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q49004,Patrick Swayze,http://www.wikidata.org/entity/Q49004,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q172044,Jennifer Garner,http://www.wikidata.org/entity/Q172044,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q44380,Cameron Diaz,http://www.wikidata.org/entity/Q44380,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q81520,Pierce Brosnan,http://www.wikidata.org/entity/Q81520,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q8743,Thomas Edison,http://www.wikidata.org/entity/Q8743,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q41076,Mariah Carey,http://www.wikidata.org/entity/Q41076,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2643,George Harrison,http://www.wikidata.org/entity/Q2643,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q44063,Reese Witherspoon,http://www.wikidata.org/entity/Q44063,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q171905,Jamie Foxx,http://www.wikidata.org/entity/Q171905,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q119798,Michael Douglas,http://www.wikidata.org/entity/Q119798,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q80966,Cate Blanchett,http://www.wikidata.org/entity/Q80966,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q165911,Usher,http://www.wikidata.org/entity/Q165911,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q65932,Anthony Hopkins,http://www.wikidata.org/entity/Q65932,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q133151,Ozzy Osbourne,http://www.wikidata.org/entity/Q133151,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q134183,Magic Johnson,http://www.wikidata.org/entity/Q134183,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q56005,Ridley Scott,http://www.wikidata.org/entity/Q56005,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q229426,Keri Russell,http://www.wikidata.org/entity/Q229426,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q129591,Hugh Jackman,http://www.wikidata.org/entity/Q129591,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q4636,Barbra Streisand,http://www.wikidata.org/entity/Q4636,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q101797,Winona Ryder,http://www.wikidata.org/entity/Q101797,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q83410,Cary Grant,http://www.wikidata.org/entity/Q83410,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q44467,Orlando Bloom,http://www.wikidata.org/entity/Q44467,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q129817,Russell Crowe,http://www.wikidata.org/entity/Q129817,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q42775,Johnny Cash,http://www.wikidata.org/entity/Q42775,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q45229,Zac Efron,http://www.wikidata.org/entity/Q45229,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q144622,Phil Collins,http://www.wikidata.org/entity/Q144622,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q1615,Neil Armstrong,http://www.wikidata.org/entity/Q1615,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q39666,Penélope Cruz,http://www.wikidata.org/entity/Q39666,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q34851,Elizabeth Taylor,http://www.wikidata.org/entity/Q34851,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q25144,Kevin Spacey,http://www.wikidata.org/entity/Q25144,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q41548,Antonio Banderas,http://www.wikidata.org/entity/Q41548,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q134895,Javier Bardem,http://www.wikidata.org/entity/Q134895,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q103157,Kurt Russell,http://www.wikidata.org/entity/Q103157,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q272923,Ryan O'Neal,http://www.wikidata.org/entity/Q272923,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q76478,Kirsten Dunst,http://www.wikidata.org/entity/Q76478,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q43874,Eddie Murphy,http://www.wikidata.org/entity/Q43874,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q41871,Paul Newman,http://www.wikidata.org/entity/Q41871,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q310295,Dick Van Dyke,http://www.wikidata.org/entity/Q310295,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q6060,50 Cent,http://www.wikidata.org/entity/Q6060,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q174311,Christopher Reeve,http://www.wikidata.org/entity/Q174311,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q26806,Danny DeVito,http://www.wikidata.org/entity/Q26806,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2632,Ringo Starr,http://www.wikidata.org/entity/Q2632,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q43252,Sophia Loren,http://www.wikidata.org/entity/Q43252,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q168724,Emma Thompson,http://www.wikidata.org/entity/Q168724,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q170572,Alec Baldwin,http://www.wikidata.org/entity/Q170572,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q172678,Samuel L. Jackson,http://www.wikidata.org/entity/Q172678,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q2673,Chuck Norris,http://www.wikidata.org/entity/Q2673,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q3925,Grace Kelly,http://www.wikidata.org/entity/Q3925,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q5928,Jimi Hendrix,http://www.wikidata.org/entity/Q5928,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q160009,Pink,http://www.wikidata.org/entity/Q160009,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q36105,Charles Bronson,http://www.wikidata.org/entity/Q36105,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q23547,Bryan Cranston,http://www.wikidata.org/entity/Q23547,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q161819,Julie Andrews,http://www.wikidata.org/entity/Q161819,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q163263,Eva Longoria,http://www.wikidata.org/entity/Q163263,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q40531,John Wayne,http://www.wikidata.org/entity/Q40531,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q229507,Jayne Mansfield,http://www.wikidata.org/entity/Q229507,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q159347,Steve McQueen,http://www.wikidata.org/entity/Q159347,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q159778,Michelle Pfeiffer,http://www.wikidata.org/entity/Q159778,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q138005,Michael Keaton,http://www.wikidata.org/entity/Q138005,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q216221,Steve Carell,http://www.wikidata.org/entity/Q216221,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q284636,Jason Bateman,http://www.wikidata.org/entity/Q284636,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q275964,Mariska Hargitay,http://www.wikidata.org/entity/Q275964,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q28755,Matthew Broderick,http://www.wikidata.org/entity/Q28755,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q23543,Selena,http://www.wikidata.org/entity/Q23543,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q242939,Suzanne Somers,http://www.wikidata.org/entity/Q242939,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q213706,Tom Selleck,http://www.wikidata.org/entity/Q213706,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q44430,Vince McMahon,http://www.wikidata.org/entity/Q44430,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q229048,Melissa McCarthy,http://www.wikidata.org/entity/Q229048,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q102124,Sigourney Weaver,http://www.wikidata.org/entity/Q102124,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q14441,Liza Minnelli,http://www.wikidata.org/entity/Q14441,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q218503,Will Ferrell,http://www.wikidata.org/entity/Q218503,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q296729,Tony Bennett,http://www.wikidata.org/entity/Q296729,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q200768,Dennis Quaid,http://www.wikidata.org/entity/Q200768,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q214959,Harry Belafonte,http://www.wikidata.org/entity/Q214959,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q180224,Lenny Kravitz,http://www.wikidata.org/entity/Q180224,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q306403,James Franco,http://www.wikidata.org/entity/Q306403,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q26695,Lionel Richie,http://www.wikidata.org/entity/Q26695,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q133050,Susan Sarandon,http://www.wikidata.org/entity/Q133050,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q76364,Hans Zimmer,http://www.wikidata.org/entity/Q76364,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q122614,Renée Zellweger,http://www.wikidata.org/entity/Q122614,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q49034,Hedy Lamarr,http://www.wikidata.org/entity/Q49034,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q714,Stevie Wonder,http://www.wikidata.org/entity/Q714,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q296505,Rob Lowe,http://www.wikidata.org/entity/Q296505,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q41594,Christina Aguilera,http://www.wikidata.org/entity/Q41594,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q162629,Simon Cowell,http://www.wikidata.org/entity/Q162629,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q194333,Billy Joel,http://www.wikidata.org/entity/Q194333,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q42402,Andrea Bocelli,http://www.wikidata.org/entity/Q42402,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q56016,Katharine Hepburn,http://www.wikidata.org/entity/Q56016,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q182655,Rod Stewart,http://www.wikidata.org/entity/Q182655,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q170587,Tommy Lee Jones,http://www.wikidata.org/entity/Q170587,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q62975,Sharon Stone,http://www.wikidata.org/entity/Q62975,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q83359,James Dean,http://www.wikidata.org/entity/Q83359,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q276525,Paul Rudd,http://www.wikidata.org/entity/Q276525,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q103946,Kiefer Sutherland,http://www.wikidata.org/entity/Q103946,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q4109,Chris Rock,http://www.wikidata.org/entity/Q4109,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q216936,Sean Combs,http://www.wikidata.org/entity/Q216936,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q190972,Jim Parsons,http://www.wikidata.org/entity/Q190972,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q80405,Julianne Moore,http://www.wikidata.org/entity/Q80405,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q76819,Christoph Waltz,http://www.wikidata.org/entity/Q76819,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q125121,Aretha Franklin,http://www.wikidata.org/entity/Q125121,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q41422,Mark Ruffalo,http://www.wikidata.org/entity/Q41422,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q188459,Goldie Hawn,http://www.wikidata.org/entity/Q188459,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q34166,Slash,http://www.wikidata.org/entity/Q34166,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q229430,Reba McEntire,http://www.wikidata.org/entity/Q229430,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q184572,Martin Sheen,http://www.wikidata.org/entity/Q184572,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q151935,Kirstie Alley,http://www.wikidata.org/entity/Q151935,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q103784,Donald Sutherland,http://www.wikidata.org/entity/Q103784,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q49001,Whoopi Goldberg,http://www.wikidata.org/entity/Q49001,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q1514,Janis Joplin,http://www.wikidata.org/entity/Q1514,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q185165,Olivia Newton-John,http://www.wikidata.org/entity/Q185165,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q95043,James Caan,http://www.wikidata.org/entity/Q95043,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q7374,Alfred Hitchcock,http://www.wikidata.org/entity/Q7374,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q162389,Tony Curtis,http://www.wikidata.org/entity/Q162389,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q309788,Don Johnson,http://www.wikidata.org/entity/Q309788,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q104027,Kirk Douglas,http://www.wikidata.org/entity/Q104027,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q180850,Tom Jones,http://www.wikidata.org/entity/Q180850,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q193645,Quincy Jones,http://www.wikidata.org/entity/Q193645,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q188492,Seth MacFarlane,http://www.wikidata.org/entity/Q188492,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q229181,Viola Davis,http://www.wikidata.org/entity/Q229181,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q131433,Shania Twain,http://www.wikidata.org/entity/Q131433,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q232072,Julia Louis-Dreyfus,http://www.wikidata.org/entity/Q232072,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q102341,Farrah Fawcett,http://www.wikidata.org/entity/Q102341,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q232120,Angela Bassett,http://www.wikidata.org/entity/Q232120,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q16297,William Shatner,http://www.wikidata.org/entity/Q16297,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q189758,Marvin Gaye,http://www.wikidata.org/entity/Q189758,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q171736,Robert Duvall,http://www.wikidata.org/entity/Q171736,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q108283,Alan Arkin,http://www.wikidata.org/entity/Q108283,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q49017,Hugh Laurie,http://www.wikidata.org/entity/Q49017,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q178882,Kristen Bell,http://www.wikidata.org/entity/Q178882,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q202148,Burt Reynolds,http://www.wikidata.org/entity/Q202148,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17985761,Star on Hollywood Walk of Fame,humans,1
+Q42786,Audrey Hepburn,http://www.wikidata.org/entity/Q42786,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q640353,Golden Globe Cecil B. DeMille Award,humans,0
+Q5812,Novak Djokovic,http://www.wikidata.org/entity/Q5812,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1808301,Laureus World Sports Award for Sportsman of the Year,humans,0
+Q176455,Melanie Griffith,http://www.wikidata.org/entity/Q176455,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q602866,Golden Raspberry Award for Worst Actress,humans,0
+Q10520,David Beckham,http://www.wikidata.org/entity/Q10520,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q485048,FIFA 100,humans,0
+Q183337,David Attenborough,http://www.wikidata.org/entity/Q183337,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q12201477,Commander of the Order of the British Empire,humans,0
+Q9682,Elizabeth II,http://www.wikidata.org/entity/Q9682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q20716439,Decoration for Exceptional Merits,humans,0
+Q2831,Michael Jackson,http://www.wikidata.org/entity/Q2831,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q179191,Rock and Roll Hall of Fame,humans,0
+Q191045,Felipe VI of Spain,http://www.wikidata.org/entity/Q191045,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q614661,Order of the Redeemer,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1814133,Order of St Alexander,humans,0
+Q310937,Peter Dinklage,http://www.wikidata.org/entity/Q310937,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3053242,Empire Hero Award,humans,0
+Q855,Joseph Stalin,http://www.wikidata.org/entity/Q855,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2760953,Order of the Red Star,humans,0
+Q34851,Elizabeth Taylor,http://www.wikidata.org/entity/Q34851,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1582967,Presidential Citizens Medal,humans,0
+Q167520,Jon Voight,http://www.wikidata.org/entity/Q167520,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q503034,Los Angeles Film Critics Association Award for Best Actor,humans,0
+Q7742,Louis XIV of France,http://www.wikidata.org/entity/Q7742,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1335445,Order of the Holy Spirit,humans,0
+Q9696,John F. Kennedy,http://www.wikidata.org/entity/Q9696,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2842905,American Defense Service Medal,humans,0
+Q159178,Deepika Padukone,http://www.wikidata.org/entity/Q159178,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q6953326,NDTV Indian of the Year,humans,0
+Q25191,Christopher Nolan,http://www.wikidata.org/entity/Q25191,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q105447,Saturn Award,humans,0
+Q32024,Sergei Shoigu,http://www.wikidata.org/entity/Q32024,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4335936,Order of the Red Banner,humans,0
+Q7747,Vladimir Putin,http://www.wikidata.org/entity/Q7747,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q959154,weapon of honor,humans,0
+Q517,Napoleon,http://www.wikidata.org/entity/Q517,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q6766065,Order of the Iron Crown,humans,0
+Q1316,Saddam Hussein,http://www.wikidata.org/entity/Q1316,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q864037,Order of Mubarak the Great,humans,0
+Q7251,Alan Turing,http://www.wikidata.org/entity/Q7251,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1690167,Smith's Prize,humans,0
+Q129591,Hugh Jackman,http://www.wikidata.org/entity/Q129591,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5593771,Grammy Award for Best Compilation Soundtrack for Visual Media,humans,0
+Q10665,Kim Jong-il,http://www.wikidata.org/entity/Q10665,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2071919,National Order of the Leopard,humans,0
+Q132345,Shinzō Abe,http://www.wikidata.org/entity/Q132345,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q93713,Order of the Southern Cross,humans,0
+Q47906,Hermann Göring,http://www.wikidata.org/entity/Q47906,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q640988,Golden Party Badge,humans,0
+Q65932,Anthony Hopkins,http://www.wikidata.org/entity/Q65932,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5211221,Dallas-Fort Worth Film Critics Association Award for Best Actor,humans,0
+Q123351,Michael Caine,http://www.wikidata.org/entity/Q123351,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q181883,Golden Globe Award for Best Actor – Motion Picture Musical or Comedy,humans,0
+Q80504,Nicolae Ceaușescu,http://www.wikidata.org/entity/Q80504,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q634353,Olympic Order,humans,0
+Q169452,Shaquille O'Neal,http://www.wikidata.org/entity/Q169452,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4835465,BET Award for Athlete of the Century,humans,0
+Q34981,Isaac Asimov,http://www.wikidata.org/entity/Q34981,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q6143927,James T. Grady-James H. Stack Award for Interpreting Chemistry,humans,0
+Q1615,Neil Armstrong,http://www.wikidata.org/entity/Q1615,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7971681,Washington Award,humans,0
+Q132616,Naomi Watts,http://www.wikidata.org/entity/Q132616,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7971807,Washington D.C. Area Film Critics Association Award for Best Actress,humans,0
+Q517,Napoleon,http://www.wikidata.org/entity/Q517,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q699459,Order of Saint Hubert,humans,0
+Q5284,Bill Gates,http://www.wikidata.org/entity/Q5284,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q63091960,honorary doctor of the Tsinghua University,humans,0
+Q185165,Olivia Newton-John,http://www.wikidata.org/entity/Q185165,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q9684829,Officer of the Order of Australia,humans,0
+Q207,George W. Bush,http://www.wikidata.org/entity/Q207,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q913910,Order of the Three Stars,humans,0
+Q6733,Edward Teller,http://www.wikidata.org/entity/Q6733,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q14847932,Eringen Medal,humans,0
+Q392,Bob Dylan,http://www.wikidata.org/entity/Q392,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q179191,Rock and Roll Hall of Fame,humans,0
+Q194333,Billy Joel,http://www.wikidata.org/entity/Q194333,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q105986282,honorary doctor of the State University of New York at Stony Brook,humans,0
+Q131433,Shania Twain,http://www.wikidata.org/entity/Q131433,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3362499,Canadian Music Hall of Fame,humans,0
+Q230004,Rosamund Pike,http://www.wikidata.org/entity/Q230004,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q110613175,Audie Award for Best Female Narrator,humans,0
+Q180942,Shia LaBeouf,http://www.wikidata.org/entity/Q180942,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1179189,Daytime Emmy Award,humans,0
+Q41163,Al Pacino,http://www.wikidata.org/entity/Q41163,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q400007,BAFTA Award for Best Actor in a Leading Role,humans,0
+Q194333,Billy Joel,http://www.wikidata.org/entity/Q194333,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1738793,Kennedy Center Honors,humans,0
+Q16473,Steve Martin,http://www.wikidata.org/entity/Q16473,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q727328,Academy Honorary Award,humans,0
+Q51552,Roman Polanski,http://www.wikidata.org/entity/Q51552,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q24137,César Award for Best Director,humans,0
+Q15031,Xi Jinping,http://www.wikidata.org/entity/Q15031,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1045784,Order of the Golden Eagle,humans,0
+Q56094,Francis Ford Coppola,http://www.wikidata.org/entity/Q56094,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q268670,Praemium Imperiale,humans,0
+Q10132,Rafael Nadal,http://www.wikidata.org/entity/Q10132,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q34477422,Adopted Son of Madrid,humans,0
+Q6279,Joe Biden,http://www.wikidata.org/entity/Q6279,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5365910,Ellis Island Medal of Honor,humans,0
+Q41163,Al Pacino,http://www.wikidata.org/entity/Q41163,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q251542,Golden Globe Award for Best Actor – Miniseries or Television Film,humans,0
+Q298368,Liev Schreiber,http://www.wikidata.org/entity/Q298368,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q52382875,Fellow of the American Academy of Arts and Sciences,humans,0
+Q201608,Dennis Rodman,http://www.wikidata.org/entity/Q201608,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q641316,Golden Raspberry Award for Worst Supporting Actor,humans,0
+Q130586,George IV of the United Kingdom,http://www.wikidata.org/entity/Q130586,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q699459,Order of Saint Hubert,humans,0
+Q30547,Mother Teresa,http://www.wikidata.org/entity/Q30547,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q94056,Order of Merit,humans,0
+Q47447,Ed Sheeran,http://www.wikidata.org/entity/Q47447,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5593866,Grammy Award for Best Pop Solo Performance,humans,0
+Q193504,Vincent Cassel,http://www.wikidata.org/entity/Q193504,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q48781665,Sitges Grand Honorary Award,humans,0
+Q30487,Mikhail Gorbachev,http://www.wikidata.org/entity/Q30487,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q35637,Nobel Peace Prize,humans,0
+Q280856,George VI,http://www.wikidata.org/entity/Q280856,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q724443,Legion of Merit,humans,0
+Q2643,George Harrison,http://www.wikidata.org/entity/Q2643,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q179191,Rock and Roll Hall of Fame,humans,0
+Q4235,Miley Cyrus,http://www.wikidata.org/entity/Q4235,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q604370,Time 100,humans,0
+Q11256,Fidel Castro,http://www.wikidata.org/entity/Q11256,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2086962,Order of Timor-Leste,humans,0
+Q1912,Karim Benzema,http://www.wikidata.org/entity/Q1912,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q166177,Ballon d'Or,humans,0
+Q34389,Whitney Houston,http://www.wikidata.org/entity/Q34389,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q41254,Grammy Awards,humans,0
+Q42869,Nicolas Cage,http://www.wikidata.org/entity/Q42869,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10761808,Toronto Film Critics Association Award for Best Actor,humans,0
+Q9960,Ronald Reagan,http://www.wikidata.org/entity/Q9960,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5300150,Doublespeak Award,humans,0
+Q23685,Jimmy Carter,http://www.wikidata.org/entity/Q23685,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5449677,Financial Times Person of the Year,humans,0
+Q217115,Ramzan Kadyrov,http://www.wikidata.org/entity/Q217115,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1915788,"Medal ""10 years of Astana""",humans,0
+Q855,Joseph Stalin,http://www.wikidata.org/entity/Q855,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q465316,Order of Victory,humans,0
+Q9682,Elizabeth II,http://www.wikidata.org/entity/Q9682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q93963,King George VI Coronation Medal,humans,0
+Q392,Bob Dylan,http://www.wikidata.org/entity/Q392,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10855271,Knight of the Legion of Honour,humans,0
+Q134895,Javier Bardem,http://www.wikidata.org/entity/Q134895,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q23498085,Medal of the Circle of Cinematographic Writers for the best actor,humans,0
+Q43874,Eddie Murphy,http://www.wikidata.org/entity/Q43874,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q723830,Golden Globe Award for Best Supporting Actor – Motion Picture,humans,0
+Q9582,Gerald Ford,http://www.wikidata.org/entity/Q9582,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q23058979,"Order of the Cross of Terra Mariana, 1st Class",humans,0
+Q873,Meryl Streep,http://www.wikidata.org/entity/Q873,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q56085709,Crystal Award,humans,0
+Q17163,Johan Cruyff,http://www.wikidata.org/entity/Q17163,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1139785,Saint George's Cross,humans,0
+Q39829,Stephen King,http://www.wikidata.org/entity/Q39829,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7498780,Shirley Jackson Award,humans,0
+Q10993,Tiger Woods,http://www.wikidata.org/entity/Q10993,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5020532,California Hall of Fame,humans,0
+Q392,Bob Dylan,http://www.wikidata.org/entity/Q392,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q42309226,honorary doctorate from Princeton University,humans,0
+Q133050,Susan Sarandon,http://www.wikidata.org/entity/Q133050,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q687123,BAFTA Award for Best Actress in a Leading Role,humans,0
+Q35332,Brad Pitt,http://www.wikidata.org/entity/Q35332,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q894591,Boston Society of Film Critics Award for Best Actor,humans,0
+Q208667,Stellan Skarsgård,http://www.wikidata.org/entity/Q208667,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1377753,European Film Academy Achievement in World Cinema Award,humans,0
+Q12003,Cher,http://www.wikidata.org/entity/Q12003,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5579497,Golden Globe Award for Best Actress – Musical or Comedy,humans,0
+Q1744,Madonna,http://www.wikidata.org/entity/Q1744,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q977915,Golden Raspberry Award for Worst Supporting Actress,humans,0
+Q2808,Elton John,http://www.wikidata.org/entity/Q2808,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q833163,Knight Bachelor,humans,0
+Q11571,Cristiano Ronaldo,http://www.wikidata.org/entity/Q11571,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q890790,Premier League Player of the Month,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q25808177,"Order of Prince Danilo I, 1st class",humans,0
+Q36301,Anne Hathaway,http://www.wikidata.org/entity/Q36301,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q106301,Academy Award for Best Supporting Actress,humans,0
+Q37876,Natalie Portman,http://www.wikidata.org/entity/Q37876,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q105447,Saturn Award,humans,0
+Q34211,Yasser Arafat,http://www.wikidata.org/entity/Q34211,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q28481165,"Order of Prince Yaroslav the Wise, 1st class",humans,0
+Q302581,Aaron Rodgers,http://www.wikidata.org/entity/Q302581,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q89593175,National Football League 2010s All-Decade Team,humans,0
+Q12897,Pelé,http://www.wikidata.org/entity/Q12897,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q42775357,Laureus Lifetime Achievement Award,humans,0
+Q5152,Mustafa Kemal Atatürk,http://www.wikidata.org/entity/Q5152,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q29834198,Silver Military Merit Medal,humans,0
+Q269412,George V,http://www.wikidata.org/entity/Q269412,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q976544,Order of the Elephant,humans,0
+Q47447,Ed Sheeran,http://www.wikidata.org/entity/Q47447,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3841601,MTV Europe Music Award for Best Artist,humans,0
+Q9640,Lyndon B. Johnson,http://www.wikidata.org/entity/Q9640,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q852071,Silver Star,humans,0
+Q208681,Kris Kristofferson,http://www.wikidata.org/entity/Q208681,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q61669648,Johnny Mercer Award,humans,0
+Q171363,Viggo Mortensen,http://www.wikidata.org/entity/Q171363,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q48781665,Sitges Grand Honorary Award,humans,0
+Q313039,John Krasinski,http://www.wikidata.org/entity/Q313039,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q604370,Time 100,humans,0
+Q103784,Donald Sutherland,http://www.wikidata.org/entity/Q103784,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q873842,Romy,humans,0
+Q34479,Hirohito,http://www.wikidata.org/entity/Q34479,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1331130,Royal Order of the Seraphim,humans,0
+Q855,Joseph Stalin,http://www.wikidata.org/entity/Q855,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1081449,"Medal ""For the Victory over Japan""",humans,0
+Q9916,Dwight D. Eisenhower,http://www.wikidata.org/entity/Q9916,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1774648,Distinguished Service Medal,humans,0
+Q170530,Sarah Jessica Parker,http://www.wikidata.org/entity/Q170530,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1287335,Primetime Emmy Award for Outstanding Lead Actress in a Comedy Series,humans,0
+Q8704,Walt Disney,http://www.wikidata.org/entity/Q8704,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q19946827,Progress Medal,humans,0
+Q80504,Nicolae Ceaușescu,http://www.wikidata.org/entity/Q80504,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q94345,Order of St. Olav,humans,0
+Q185140,Joaquin Phoenix,http://www.wikidata.org/entity/Q185140,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q181883,Golden Globe Award for Best Actor – Motion Picture Musical or Comedy,humans,0
+Q8023,Nelson Mandela,http://www.wikidata.org/entity/Q8023,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q185493,Order of Lenin,humans,0
+Q40096,Will Smith,http://www.wikidata.org/entity/Q40096,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1064978,MTV Video Music Award for Best Male Video,humans,0
+Q34660,J. K. Rowling,http://www.wikidata.org/entity/Q34660,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q285568,Andre Norton Award,humans,0
+Q35314,Nikita Khrushchev,http://www.wikidata.org/entity/Q35314,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q18080149,Order of the Patriotic War 1st class,humans,0
+Q9439,Victoria,http://www.wikidata.org/entity/Q9439,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q94340,Decoration of the Royal Red Cross,humans,0
+Q17293,Tenzin Gyatso,http://www.wikidata.org/entity/Q17293,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17769748,Erik Bye's Memorial Prize,humans,0
+Q217096,Naruhito,http://www.wikidata.org/entity/Q217096,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2329411,Order of Zayed,humans,0
+Q16574,Chiang Kai-shek,http://www.wikidata.org/entity/Q16574,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10855226,Grand Cross of the Legion of Honour,humans,0
+Q2263,Tom Hanks,http://www.wikidata.org/entity/Q2263,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q640353,Golden Globe Cecil B. DeMille Award,humans,0
+Q1615,Neil Armstrong,http://www.wikidata.org/entity/Q1615,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1109489,Collier Trophy,humans,0
+Q28493,Ralph Fiennes,http://www.wikidata.org/entity/Q28493,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3806623,James Joyce Awards,humans,0
+Q34479,Hirohito,http://www.wikidata.org/entity/Q34479,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q15631401,Fellow of the Royal Society,humans,0
+Q17714,Stephen Hawking,http://www.wikidata.org/entity/Q17714,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q14420,Order of the British Empire,humans,0
+Q80046,Charlize Theron,http://www.wikidata.org/entity/Q80046,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1713744,Jupiter Awards,humans,0
+Q42775,Johnny Cash,http://www.wikidata.org/entity/Q42775,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17125405,Willie Nelson Lifetime Achievement Award,humans,0
+Q9049,Noam Chomsky,http://www.wikidata.org/entity/Q9049,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q39384825,honorary doctor of Harvard University,humans,0
+Q214959,Harry Belafonte,http://www.wikidata.org/entity/Q214959,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2029246,Order of Jamaica,humans,0
+Q34660,J. K. Rowling,http://www.wikidata.org/entity/Q34660,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q55697,Order of the Smile,humans,0
+Q7416,Margaret Thatcher,http://www.wikidata.org/entity/Q7416,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q215248,Order of the Garter,humans,0
+Q48410,Richard Gere,http://www.wikidata.org/entity/Q48410,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1131356,Theatre World Award,humans,0
+Q11930,Kevin Costner,http://www.wikidata.org/entity/Q11930,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1789102,National Board of Review Award for Best Film,humans,0
+Q11571,Cristiano Ronaldo,http://www.wikidata.org/entity/Q11571,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q20859673,Grand Officer of the Order of Prince Henry,humans,0
+Q161819,Julie Andrews,http://www.wikidata.org/entity/Q161819,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q103618,Academy Award for Best Actress,humans,0
+Q9682,Elizabeth II,http://www.wikidata.org/entity/Q9682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3885253,Order of Valour,humans,0
+Q30547,Mother Teresa,http://www.wikidata.org/entity/Q30547,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1864972,Albert Schweitzer prize,humans,0
+Q8023,Nelson Mandela,http://www.wikidata.org/entity/Q8023,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q15124269,honorary citizen of Paris,humans,0
+Q6733,Edward Teller,http://www.wikidata.org/entity/Q6733,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q577432,Albert Einstein Award,humans,0
+Q26695,Lionel Richie,http://www.wikidata.org/entity/Q26695,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q33232596,Humanitarian of the Year,humans,0
+Q132345,Shinzō Abe,http://www.wikidata.org/entity/Q132345,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q43305879,Grand Cross of the Ivorian Order of Merit,humans,0
+Q10633,"Queen Elizabeth, The Queen Mother",http://www.wikidata.org/entity/Q10633,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q12198093,Lady of the Garter,humans,0
+Q10520,David Beckham,http://www.wikidata.org/entity/Q10520,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4896721,Best MLS Player ESPY Award,humans,0
+Q200678,Queen Rania of Jordan,http://www.wikidata.org/entity/Q200678,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q751275,Order of Charles III,humans,0
+Q12897,Pelé,http://www.wikidata.org/entity/Q12897,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q260377,FIFA Order of Merit,humans,0
+Q127998,Mahmoud Abbas,http://www.wikidata.org/entity/Q127998,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17637680,Order of the Grand Star of Djibouti,humans,0
+Q5284,Bill Gates,http://www.wikidata.org/entity/Q5284,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7515877,Silver Buffalo Award,humans,0
+Q56016,Katharine Hepburn,http://www.wikidata.org/entity/Q56016,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5161648,Connecticut Women's Hall of Fame,humans,0
+Q132616,Naomi Watts,http://www.wikidata.org/entity/Q132616,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1868921,London Film Critics Circle Award for Actress of the Year,humans,0
+Q134077,Rachel Weisz,http://www.wikidata.org/entity/Q134077,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q106301,Academy Award for Best Supporting Actress,humans,0
+Q3772,Quentin Tarantino,http://www.wikidata.org/entity/Q3772,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q41375,BAFTA Award for Best Original Screenplay,humans,0
+Q173399,Elliot Page,http://www.wikidata.org/entity/Q173399,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q604370,Time 100,humans,0
+Q368,Augusto Pinochet,http://www.wikidata.org/entity/Q368,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q430479,Order of May,humans,0
+Q192990,Guy Ritchie,http://www.wikidata.org/entity/Q192990,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1238714,Golden Raspberry Award for Worst Director,humans,0
+Q102139,Margrethe II of Denmark,http://www.wikidata.org/entity/Q102139,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q22303941,"Order of the Three Stars, 1st Class",humans,0
+Q134895,Javier Bardem,http://www.wikidata.org/entity/Q134895,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q106291,Academy Award for Best Supporting Actor,humans,0
+Q159178,Deepika Padukone,http://www.wikidata.org/entity/Q159178,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q23055172,Times of India Film Awards,humans,0
+Q9049,Noam Chomsky,http://www.wikidata.org/entity/Q9049,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q40743212,Honorary doctor of the University of Bologna,humans,0
+Q154920,"Prince Edward, Duke of Edinburgh",http://www.wikidata.org/entity/Q154920,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2059227,Queen Elizabeth II Silver Jubilee Medal,humans,0
+Q192990,Guy Ritchie,http://www.wikidata.org/entity/Q192990,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1780634,Golden Raspberry Award for Worst Picture,humans,0
+Q34851,Elizabeth Taylor,http://www.wikidata.org/entity/Q34851,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1738793,Kennedy Center Honors,humans,0
+Q2831,Michael Jackson,http://www.wikidata.org/entity/Q2831,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q90415505,Officer of the National Order of Merit,humans,0
+Q80504,Nicolae Ceaușescu,http://www.wikidata.org/entity/Q80504,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q94044,Decoration of Honour for Services to the Republic of Austria,humans,0
+Q9513,A. P. J. Abdul Kalam,http://www.wikidata.org/entity/Q9513,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17132005,Hoover Medal,humans,0
+Q5105,Céline Dion,http://www.wikidata.org/entity/Q5105,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3355657,Order of La Pléiade,humans,0
+Q161819,Julie Andrews,http://www.wikidata.org/entity/Q161819,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q12201434,Dame Commander of the Order of the British Empire,humans,0
+Q9439,Victoria,http://www.wikidata.org/entity/Q9439,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q512272,Order of Saint Catherine,humans,0
+Q2263,Tom Hanks,http://www.wikidata.org/entity/Q2263,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q292044,AFI Life Achievement Award,humans,0
+Q80504,Nicolae Ceaușescu,http://www.wikidata.org/entity/Q80504,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q12177451,Knight Grand Cross of the Order of the Bath,humans,0
+Q9916,Dwight D. Eisenhower,http://www.wikidata.org/entity/Q9916,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q66827449,honorary citizen of Brussels,humans,0
+Q40791,Sandra Bullock,http://www.wikidata.org/entity/Q40791,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1011547,Golden Globe Awards,humans,0
+Q80976,"Prince Philip, Duke of Edinburgh",http://www.wikidata.org/entity/Q80976,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q15280138,Honorary Companion of the Order of Australia,humans,0
+Q76478,Kirsten Dunst,http://www.wikidata.org/entity/Q76478,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1062019,MTV Movie Award for Best Breakthrough Performance,humans,0
+Q106514,River Phoenix,http://www.wikidata.org/entity/Q106514,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2544859,Independent Spirit Award for Best Male Lead,humans,0
+Q39792,Jack Nicholson,http://www.wikidata.org/entity/Q39792,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q400007,BAFTA Award for Best Actor in a Leading Role,humans,0
+Q83338,Robin Williams,http://www.wikidata.org/entity/Q83338,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1150306,Disney Legends,humans,0
+Q102139,Margrethe II of Denmark,http://www.wikidata.org/entity/Q102139,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1423841,Order of Pius IX,humans,0
+Q160009,Pink,http://www.wikidata.org/entity/Q160009,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1161109,MTV Video Music Award for Best Video from a Film,humans,0
+Q11975,Britney Spears,http://www.wikidata.org/entity/Q11975,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q163569,Nickelodeon Kids' Choice Awards,humans,0
+Q39792,Jack Nicholson,http://www.wikidata.org/entity/Q39792,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q106291,Academy Award for Best Supporting Actor,humans,0
+Q55800,Oprah Winfrey,http://www.wikidata.org/entity/Q55800,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1150306,Disney Legends,humans,0
+Q44176,Hulk Hogan,http://www.wikidata.org/entity/Q44176,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5461603,Florida Sports Hall of Fame,humans,0
+Q34660,J. K. Rowling,http://www.wikidata.org/entity/Q34660,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5438598,Fellow of the Royal Society of Edinburgh,humans,0
+Q126599,Kristen Stewart,http://www.wikidata.org/entity/Q126599,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q257235,MTV Movie Award for Best Kiss,humans,0
+Q203545,Michael Gambon,http://www.wikidata.org/entity/Q203545,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q28470,Laurence Olivier Award,humans,0
+Q23505,George H. W. Bush,http://www.wikidata.org/entity/Q23505,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q20853482,Grand Cross of the Order of Merit of the Republic of Poland,humans,0
+Q80405,Julianne Moore,http://www.wikidata.org/entity/Q80405,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q376834,Silver Bear for Best Actress,humans,0
+Q9682,Elizabeth II,http://www.wikidata.org/entity/Q9682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1331130,Royal Order of the Seraphim,humans,0
+Q25144,Kevin Spacey,http://www.wikidata.org/entity/Q25144,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q16985329,British Academy Television Award for Best International Programme,humans,0
+Q280856,George VI,http://www.wikidata.org/entity/Q280856,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q347377,Sash of the Three Orders,humans,0
+Q80966,Cate Blanchett,http://www.wikidata.org/entity/Q80966,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q463085,Golden Globe Award for Best Actress – Motion Picture Drama,humans,0
+Q2866,Alexander Lukashenko,http://www.wikidata.org/entity/Q2866,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1501067,Order of St. Vladimir,humans,0
+Q34453,Boris Yeltsin,http://www.wikidata.org/entity/Q34453,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10855226,Grand Cross of the Legion of Honour,humans,0
+Q392,Bob Dylan,http://www.wikidata.org/entity/Q392,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7259350,Pulitzer Prize Special Citations and Awards,humans,0
+Q59215,Robert Redford,http://www.wikidata.org/entity/Q59215,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1631998,Screen Actors Guild Life Achievement Award,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1126563,Order of St. Andrew,humans,0
+Q5608,Eminem,http://www.wikidata.org/entity/Q5608,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1367988,Grammy Award for Best Rap Album,humans,0
+Q191045,Felipe VI of Spain,http://www.wikidata.org/entity/Q191045,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10855226,Grand Cross of the Legion of Honour,humans,0
+Q312556,Jeff Bezos,http://www.wikidata.org/entity/Q312556,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q207826,Time Person of the Year,humans,0
+Q122553,Charles II of England,http://www.wikidata.org/entity/Q122553,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q15631401,Fellow of the Royal Society,humans,0
+Q41421,Michael Jordan,http://www.wikidata.org/entity/Q41421,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17144,Presidential Medal of Freedom,humans,0
+Q3355,Amelia Earhart,http://www.wikidata.org/entity/Q3355,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1754110,Distinguished Flying Cross,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q14900501,Grand Cordon of the Order of Leopold,humans,0
+Q228603,Saoirse Ronan,http://www.wikidata.org/entity/Q228603,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1371682,Satellite Award for Best Actress – Motion Picture,humans,0
+Q104027,Kirk Douglas,http://www.wikidata.org/entity/Q104027,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1789030,National Medal of Arts,humans,0
+Q193668,Benicio del Toro,http://www.wikidata.org/entity/Q193668,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q268200,Screen Actors Guild Award,humans,0
+Q43274,Charles III of the United Kingdom,http://www.wikidata.org/entity/Q43274,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q99025668,honorary doctor of the Royal College of Music,humans,0
+Q294647,Mads Mikkelsen,http://www.wikidata.org/entity/Q294647,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1463881,Robert Award for Best Actor in a Leading Role,humans,0
+Q208871,Ike Turner,http://www.wikidata.org/entity/Q208871,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3113378,Grammy Award for Best R&B Performance by a Duo or Group with Vocals,humans,0
+Q62975,Sharon Stone,http://www.wikidata.org/entity/Q62975,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q13452531,Commandeur des Arts et des Lettres,humans,0
+Q34453,Boris Yeltsin,http://www.wikidata.org/entity/Q34453,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q104773192,Order of Bethlehem,humans,0
+Q11998,Kylie Minogue,http://www.wikidata.org/entity/Q11998,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10762848,Officer of the Order of the British Empire,humans,0
+Q1744,Madonna,http://www.wikidata.org/entity/Q1744,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q428808,Grammy Award for Best Song Written for Visual Media,humans,0
+Q62975,Sharon Stone,http://www.wikidata.org/entity/Q62975,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q13452524,Officer of Arts and Letters,humans,0
+Q56094,Francis Ford Coppola,http://www.wikidata.org/entity/Q56094,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q102427,Academy Award for Best Picture,humans,0
+Q19848,Lady Gaga,http://www.wikidata.org/entity/Q19848,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q280481,Grammy Award for Best Traditional Pop Vocal Album,humans,0
+Q183337,David Attenborough,http://www.wikidata.org/entity/Q183337,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5465069,Fonseca Prize,humans,0
+Q23547,Bryan Cranston,http://www.wikidata.org/entity/Q23547,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4167639,Drama League Award,humans,0
+Q280856,George VI,http://www.wikidata.org/entity/Q280856,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10855226,Grand Cross of the Legion of Honour,humans,0
+Q134895,Javier Bardem,http://www.wikidata.org/entity/Q134895,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1520004,Goya Award for Best Actor,humans,0
+Q37175,Johnny Depp,http://www.wikidata.org/entity/Q37175,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1062026,MTV Movie Award for Best Villain,humans,0
+Q214289,Michelle Yeoh,http://www.wikidata.org/entity/Q214289,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1011564,Golden Globe Award for Best Actress in a Motion Picture – Musical or Comedy,humans,0
+Q220308,Seth Rogen,http://www.wikidata.org/entity/Q220308,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q115796847,Canadian Comedy Award for Best Writing in a Feature,humans,0
+Q39259,Recep Tayyip Erdoğan,http://www.wikidata.org/entity/Q39259,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q112257,National Order of Niger,humans,0
+Q108283,Alan Arkin,http://www.wikidata.org/entity/Q108283,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1474410,Tony Award for Best Featured Actor in a Play,humans,0
+Q180850,Tom Jones,http://www.wikidata.org/entity/Q180850,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1453643,Grammy Award for Best New Artist,humans,0
+Q42101,Denzel Washington,http://www.wikidata.org/entity/Q42101,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q103916,Academy Award for Best Actor,humans,0
+Q83338,Robin Williams,http://www.wikidata.org/entity/Q83338,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4377021,Primetime Emmy Award for Individual Performance in a Variety or Music Program,humans,0
+Q2494,Benedict XVI,http://www.wikidata.org/entity/Q2494,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q987080,honorary citizenship,humans,0
+Q34453,Boris Yeltsin,http://www.wikidata.org/entity/Q34453,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4342969,Памятная медаль А. М. Горчакова,humans,0
+Q47906,Hermann Göring,http://www.wikidata.org/entity/Q47906,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q14865244,Knight grand cross of the order of the crown of Italy,humans,0
+Q41351,Jodie Foster,http://www.wikidata.org/entity/Q41351,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q822907,Golden Globe Award for Best Supporting Actress – Motion Picture,humans,0
+Q567,Angela Merkel,http://www.wikidata.org/entity/Q567,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10905054,"Grand Cross special issue of the Order of Merit of the Federal Republic of Germany, special issue",humans,0
+Q34479,Hirohito,http://www.wikidata.org/entity/Q34479,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q93713,Order of the Southern Cross,humans,0
+Q25089,Woody Allen,http://www.wikidata.org/entity/Q25089,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q708135,Silver Bear,humans,0
+Q312556,Jeff Bezos,http://www.wikidata.org/entity/Q312556,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q52382875,Fellow of the American Academy of Arts and Sciences,humans,0
+Q23559,Benito Mussolini,http://www.wikidata.org/entity/Q23559,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2794660,Order of Solomon,humans,0
+Q9570,Amitabh Bachchan,http://www.wikidata.org/entity/Q9570,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1414577,Filmfare Lifetime Achievement Award,humans,0
+Q9557,Aamir Khan,http://www.wikidata.org/entity/Q9557,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5013123,CNN-News18 Indian of the Year,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1331130,Royal Order of the Seraphim,humans,0
+Q175535,Matt Damon,http://www.wikidata.org/entity/Q175535,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3473889,Satellite Award for Best Cast – Motion Picture,humans,0
+Q193555,Brendan Fraser,http://www.wikidata.org/entity/Q193555,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q518675,Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture,humans,0
+Q17293,Tenzin Gyatso,http://www.wikidata.org/entity/Q17293,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7182737,Philadelphia Liberty Medal,humans,0
+Q57464,Abdullah II of Jordan,http://www.wikidata.org/entity/Q57464,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q25394795,Order of Merit,humans,0
+Q228717,Rose Byrne,http://www.wikidata.org/entity/Q228717,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4824167,Australian Film Institute International Award for Best Actress,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q15972369,"Order of Saint Anna, 1st class",humans,0
+Q20875,Edward VII,http://www.wikidata.org/entity/Q20875,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1465984,Order of Saint John,humans,0
+Q313650,Billy Crudup,http://www.wikidata.org/entity/Q313650,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1286639,Primetime Emmy Award for Outstanding Supporting Actor in a Drama Series,humans,0
+Q151754,"Princess Anne, Princess Royal of the United Kingdom",http://www.wikidata.org/entity/Q151754,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q107652698,Grand Cross of the Order of the House of Orange,humans,0
+Q9696,John F. Kennedy,http://www.wikidata.org/entity/Q9696,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q14539884,Grand Officer of the Order of Merit of the Italian Republic,humans,0
+Q232072,Julia Louis-Dreyfus,http://www.wikidata.org/entity/Q232072,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3002944,Critics' Choice Television Award for Best Actress in a Comedy Series,humans,0
+Q170510,Ian McKellen,http://www.wikidata.org/entity/Q170510,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q908858,Donostia Award,humans,0
+Q29179,Francisco Franco,http://www.wikidata.org/entity/Q29179,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q39688273,Grand Cross of the Aeronautical Merit (Spain) - White Decoration,humans,0
+Q102139,Margrethe II of Denmark,http://www.wikidata.org/entity/Q102139,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q96152270,H.C. Andersen Award,humans,0
+Q34851,Elizabeth Taylor,http://www.wikidata.org/entity/Q34851,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10294045,Hasty Pudding Woman of the Year,humans,0
+Q60772,Ursula von der Leyen,http://www.wikidata.org/entity/Q60772,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q28481165,"Order of Prince Yaroslav the Wise, 1st class",humans,0
+Q17507,Gerard Piqué,http://www.wikidata.org/entity/Q17507,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1232365,Don Balón Award,humans,0
+Q360,Julian Assange,http://www.wikidata.org/entity/Q360,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q20714937,Gold medal for Peace with Justice,humans,0
+Q39792,Jack Nicholson,http://www.wikidata.org/entity/Q39792,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q268200,Screen Actors Guild Award,humans,0
+Q1124,Bill Clinton,http://www.wikidata.org/entity/Q1124,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q93728,Order of the White Lion,humans,0
+Q1189,Usain Bolt,http://www.wikidata.org/entity/Q1189,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q11961165,Bislett medal,humans,0
+Q51056,Franz Joseph I of Austria,http://www.wikidata.org/entity/Q51056,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1521491,Order of Willem,humans,0
+Q57464,Abdullah II of Jordan,http://www.wikidata.org/entity/Q57464,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2565287,Award of the Peace of Westphalia,humans,0
+Q7416,Margaret Thatcher,http://www.wikidata.org/entity/Q7416,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q94410,Grand Order of King Petar Krešimir IV,humans,0
+Q156796,Michelle Williams,http://www.wikidata.org/entity/Q156796,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q673229,Golden Globe Award for Best Actress – Miniseries or Television Film,humans,0
+Q218532,John Candy,http://www.wikidata.org/entity/Q218532,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5029887,Canadian Comedy Awards,humans,0
+Q170530,Sarah Jessica Parker,http://www.wikidata.org/entity/Q170530,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q604370,Time 100,humans,0
+Q55800,Oprah Winfrey,http://www.wikidata.org/entity/Q55800,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4932839,Bob Hope Humanitarian Award,humans,0
+Q172653,Maggie Smith,http://www.wikidata.org/entity/Q172653,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4936657,Bodley Medal,humans,0
+Q42786,Audrey Hepburn,http://www.wikidata.org/entity/Q42786,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1631998,Screen Actors Guild Life Achievement Award,humans,0
+Q207,George W. Bush,http://www.wikidata.org/entity/Q207,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q762844,Order pro Merito Melitensi,humans,0
+Q189400,Brooke Shields,http://www.wikidata.org/entity/Q189400,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q977915,Golden Raspberry Award for Worst Supporting Actress,humans,0
+Q202765,Kate Winslet,http://www.wikidata.org/entity/Q202765,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q989447,Primetime Emmy Award for Outstanding Lead Actress in a Miniseries or a Movie,humans,0
+Q8877,Steven Spielberg,http://www.wikidata.org/entity/Q8877,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3414212,Hugo Award for Best Dramatic Presentation,humans,0
+Q44329,Bashar al-Assad,http://www.wikidata.org/entity/Q44329,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10855226,Grand Cross of the Legion of Honour,humans,0
+Q276005,Charlotte Gainsbourg,http://www.wikidata.org/entity/Q276005,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q716909,Ordre des Arts et des Lettres,humans,0
+Q8027,Martin Luther King Jr.,http://www.wikidata.org/entity/Q8027,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1994926,Spingarn Medal,humans,0
+Q7374,Alfred Hitchcock,http://www.wikidata.org/entity/Q7374,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q608967,Silver Shell for Best Director,humans,0
+Q1058,Narendra Modi,http://www.wikidata.org/entity/Q1058,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q786914,Order of Logohu,humans,0
+Q8704,Walt Disney,http://www.wikidata.org/entity/Q8704,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1425151,Academy Award for Best Documentary (Short Subject),humans,0
+Q132537,Robert Oppenheimer,http://www.wikidata.org/entity/Q132537,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q931545,Enrico Fermi Award,humans,0
+Q20875,Edward VII,http://www.wikidata.org/entity/Q20875,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q10855226,Grand Cross of the Legion of Honour,humans,0
+Q180589,Boris Johnson,http://www.wikidata.org/entity/Q180589,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q116848905,Walk of the Brave plaque,humans,0
+Q1124,Bill Clinton,http://www.wikidata.org/entity/Q1124,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q6565314,Fulbright Prize,humans,0
+Q2831,Michael Jackson,http://www.wikidata.org/entity/Q2831,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q947090,Grammy Award for Best Male Pop Vocal Performance,humans,0
+Q37175,Johnny Depp,http://www.wikidata.org/entity/Q37175,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4311747,"Orders, decorations, and medals of Serbia",humans,0
+Q23844,George Clooney,http://www.wikidata.org/entity/Q23844,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1789102,National Board of Review Award for Best Film,humans,0
+Q171736,Robert Duvall,http://www.wikidata.org/entity/Q171736,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1789030,National Medal of Arts,humans,0
+Q23365,Jeremy Renner,http://www.wikidata.org/entity/Q23365,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q894591,Boston Society of Film Critics Award for Best Actor,humans,0
+Q134895,Javier Bardem,http://www.wikidata.org/entity/Q134895,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q548389,BAFTA Award for Best Actor in a Supporting Role,humans,0
+Q33240,Drake,http://www.wikidata.org/entity/Q33240,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1542172,Grammy Award for Best Melodic Rap Performance,humans,0
+Q152505,Leonard Bernstein,http://www.wikidata.org/entity/Q152505,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q60762639,Sibelius Medal,humans,0
+Q168724,Emma Thompson,http://www.wikidata.org/entity/Q168724,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2981152,Primetime Emmy Award for Outstanding Guest Actress in a Comedy Series,humans,0
+Q6294,Hillary Clinton,http://www.wikidata.org/entity/Q6294,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q101522111,Grand Cross of the Order of the Legion of Honour (Philippines),humans,0
+Q80504,Nicolae Ceaușescu,http://www.wikidata.org/entity/Q80504,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2440493,Order of the Victory of Socialism,humans,0
+Q5928,Jimi Hendrix,http://www.wikidata.org/entity/Q5928,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q935843,Grammy Lifetime Achievement Award,humans,0
+Q51056,Franz Joseph I of Austria,http://www.wikidata.org/entity/Q51056,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2409050,Order of Miloš the Great,humans,0
+Q29545,Kevin Durant,http://www.wikidata.org/entity/Q29545,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q674359,All-NBA Team,humans,0
+Q34981,Isaac Asimov,http://www.wikidata.org/entity/Q34981,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q595998,Locus Award for Best Novel,humans,0
+Q11975,Britney Spears,http://www.wikidata.org/entity/Q11975,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q487719,Bravo Otto,humans,0
+Q9049,Noam Chomsky,http://www.wikidata.org/entity/Q9049,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q337620,Thomas Merton Award,humans,0
+Q134895,Javier Bardem,http://www.wikidata.org/entity/Q134895,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q110929392,Forqué Awards for Best Lead Actor,humans,0
+Q567,Angela Merkel,http://www.wikidata.org/entity/Q567,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q89250465,honorary doctor of the D. Mendeleev University of Chemical Technology of Russia,humans,0
+Q40912,Frank Sinatra,http://www.wikidata.org/entity/Q40912,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q61669648,Johnny Mercer Award,humans,0
+Q232120,Angela Bassett,http://www.wikidata.org/entity/Q232120,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q111914730,Critics' Choice Super Award for Best Actress in an Action Series,humans,0
+Q2808,Elton John,http://www.wikidata.org/entity/Q2808,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1150306,Disney Legends,humans,0
+Q30487,Mikhail Gorbachev,http://www.wikidata.org/entity/Q30487,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q115758629,Dr. Friedrich Joseph Haass-Preis,humans,0
+Q103157,Kurt Russell,http://www.wikidata.org/entity/Q103157,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1150306,Disney Legends,humans,0
+Q29179,Francisco Franco,http://www.wikidata.org/entity/Q29179,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q567417,Order of the Most Holy Annunciation,humans,0
+Q103578,Macaulay Culkin,http://www.wikidata.org/entity/Q103578,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q494588,Young Artist Awards,humans,0
+Q8016,Winston Churchill,http://www.wikidata.org/entity/Q8016,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1465214,Médaille militaire,humans,0
+Q229048,Melissa McCarthy,http://www.wikidata.org/entity/Q229048,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q602866,Golden Raspberry Award for Worst Actress,humans,0
+Q34211,Yasser Arafat,http://www.wikidata.org/entity/Q34211,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q20966518,Grand cross of the Order of the White Lion,humans,0
+Q41142,Jane Fonda,http://www.wikidata.org/entity/Q41142,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q292044,AFI Life Achievement Award,humans,0
+Q9960,Ronald Reagan,http://www.wikidata.org/entity/Q9960,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7781991,Theodore Roosevelt Award,humans,0
+Q7327,Yuri Gagarin,http://www.wikidata.org/entity/Q7327,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q93713,Order of the Southern Cross,humans,0
+Q25089,Woody Allen,http://www.wikidata.org/entity/Q25089,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q19339,O. Henry Award,humans,0
+Q30547,Mother Teresa,http://www.wikidata.org/entity/Q30547,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q55697,Order of the Smile,humans,0
+Q1615,Neil Armstrong,http://www.wikidata.org/entity/Q1615,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q402425,Cullum Geographical Medal,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q570644,Order of the White Falcon,humans,0
+Q15031,Xi Jinping,http://www.wikidata.org/entity/Q15031,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q84314287,Order for strengthening Peace and Friendship,humans,0
+Q44473,O. J. Simpson,http://www.wikidata.org/entity/Q44473,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q778412,Pro Football Hall of Fame,humans,0
+Q7742,Louis XIV of France,http://www.wikidata.org/entity/Q7742,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1347889,Order of Saint Michael,humans,0
+Q295803,Tom Hiddleston,http://www.wikidata.org/entity/Q295803,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1062026,MTV Movie Award for Best Villain,humans,0
+Q218532,John Candy,http://www.wikidata.org/entity/Q218532,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1265782,Primetime Emmy Award for Outstanding Writing for a Variety Series,humans,0
+Q40904,Werner Heisenberg,http://www.wikidata.org/entity/Q40904,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1419938,Matteucci Medal,humans,0
+Q42869,Nicolas Cage,http://www.wikidata.org/entity/Q42869,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q103916,Academy Award for Best Actor,humans,0
+Q220556,Brock Lesnar,http://www.wikidata.org/entity/Q220556,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q373374,Wrestling Observer Newsletter Hall of Fame,humans,0
+Q128245,Mohammad Reza Pahlavi,http://www.wikidata.org/entity/Q128245,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q104170787,Grand Cross of the Order of the Liberator General San Martín,humans,0
+Q41351,Jodie Foster,http://www.wikidata.org/entity/Q41351,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q103618,Academy Award for Best Actress,humans,0
+Q2866,Alexander Lukashenko,http://www.wikidata.org/entity/Q2866,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q104595803,Corrupt Person of the Year,humans,0
+Q9682,Elizabeth II,http://www.wikidata.org/entity/Q9682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4710826,Albert Medal,humans,0
+Q17714,Stephen Hawking,http://www.wikidata.org/entity/Q17714,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q6008420,Gold medal of the Spanish National Research Council,humans,0
+Q80046,Charlize Theron,http://www.wikidata.org/entity/Q80046,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q121359767,Great Immigrants Award,humans,0
+Q172678,Samuel L. Jackson,http://www.wikidata.org/entity/Q172678,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q548389,BAFTA Award for Best Actor in a Supporting Role,humans,0
+Q10633,"Queen Elizabeth, The Queen Mother",http://www.wikidata.org/entity/Q10633,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2097647,Victoria Medal of Honour,humans,0
+Q193815,Ryan Gosling,http://www.wikidata.org/entity/Q193815,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1011547,Golden Globe Awards,humans,0
+Q7374,Alfred Hitchcock,http://www.wikidata.org/entity/Q7374,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q833154,Edgar Awards,humans,0
+Q32732,Malala Yousafzai,http://www.wikidata.org/entity/Q32732,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q6974223,National Malala Peace Prize,humans,0
+Q185165,Olivia Newton-John,http://www.wikidata.org/entity/Q185165,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1179189,Daytime Emmy Award,humans,0
+Q3772,Quentin Tarantino,http://www.wikidata.org/entity/Q3772,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q727282,Honorary César,humans,0
+Q296887,Freddie Highmore,http://www.wikidata.org/entity/Q296887,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q21096107,Critics' Choice Award for Best Young Actor,humans,0
+Q152505,Leonard Bernstein,http://www.wikidata.org/entity/Q152505,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q28861731,honorary doctor of the Hebrew University of Jerusalem,humans,0
+Q161819,Julie Andrews,http://www.wikidata.org/entity/Q161819,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1131356,Theatre World Award,humans,0
+Q129591,Hugh Jackman,http://www.wikidata.org/entity/Q129591,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1723064,Tony Award for Best Actor in a Musical,humans,0
+Q2685,Arnold Schwarzenegger,http://www.wikidata.org/entity/Q2685,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1534906,Golden Globe Award for New Star of the Year – Actor,humans,0
+Q11930,Kevin Costner,http://www.wikidata.org/entity/Q11930,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q989453,Primetime Emmy Award for Outstanding Lead Actor in a Miniseries or a Movie,humans,0
+Q7186,Marie Curie,http://www.wikidata.org/entity/Q7186,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4710826,Albert Medal,humans,0
+Q34424,Shakira,http://www.wikidata.org/entity/Q34424,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q6496471,Latin Recording Academy Person of the Year,humans,0
+Q12897,Pelé,http://www.wikidata.org/entity/Q12897,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q101116082,Ballon d'Or Dream Team,humans,0
+Q12003,Cher,http://www.wikidata.org/entity/Q12003,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q596294,Golden Globe Award for Best Television Series – Musical or Comedy,humans,0
+Q57464,Abdullah II of Jordan,http://www.wikidata.org/entity/Q57464,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q17409133,Grand Star of the Decoration for Services to the Republic of Austria,humans,0
+Q132345,Shinzō Abe,http://www.wikidata.org/entity/Q132345,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1539207,Order of Honour,humans,0
+Q989,John Paul II,http://www.wikidata.org/entity/Q989,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q111512907,Honorary Citizen of the City of Łódź,humans,0
+Q44430,Vince McMahon,http://www.wikidata.org/entity/Q44430,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q373374,Wrestling Observer Newsletter Hall of Fame,humans,0
+Q3772,Quentin Tarantino,http://www.wikidata.org/entity/Q3772,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q41417,"Academy Award for Best Writing, Original Screenplay",humans,0
+Q11256,Fidel Castro,http://www.wikidata.org/entity/Q11256,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2452975,Order of the Liberator,humans,0
+Q153815,"Princess Margaret, Countess of Snowdon",http://www.wikidata.org/entity/Q153815,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q12192384,Dame Grand Cross of the Royal Victorian Order,humans,0
+Q41871,Paul Newman,http://www.wikidata.org/entity/Q41871,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1131356,Theatre World Award,humans,0
+Q34851,Elizabeth Taylor,http://www.wikidata.org/entity/Q34851,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q103618,Academy Award for Best Actress,humans,0
+Q38203,Helen Keller,http://www.wikidata.org/entity/Q38203,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q5161648,Connecticut Women's Hall of Fame,humans,0
+Q30487,Mikhail Gorbachev,http://www.wikidata.org/entity/Q30487,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q50621171,honorary doctor of the University of Madrid Complutense,humans,0
+Q2494,Benedict XVI,http://www.wikidata.org/entity/Q2494,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q21164,Order of Merit of the Federal Republic of Germany,humans,0
+Q26876,Taylor Swift,http://www.wikidata.org/entity/Q26876,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q85754272,Country Music Association Award for International Achievement,humans,0
+Q83163,Srinivasa Ramanujan,http://www.wikidata.org/entity/Q83163,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q15631401,Fellow of the Royal Society,humans,0
+Q567,Angela Merkel,http://www.wikidata.org/entity/Q567,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q20894507,Grand Cross of Royal Norwegian Order of Merit,humans,0
+Q185140,Joaquin Phoenix,http://www.wikidata.org/entity/Q185140,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q593098,Golden Globe Award for Best Actor – Motion Picture Drama,humans,0
+Q9545,Tony Blair,http://www.wikidata.org/entity/Q9545,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q7791046,Thomas J. Dodd Prize in International Justice and Human Rights,humans,0
+Q17515,Diego Maradona,http://www.wikidata.org/entity/Q17515,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1061233,L'Équipe Champion of Champions,humans,0
+Q855,Joseph Stalin,http://www.wikidata.org/entity/Q855,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4335954,Order of the Republic,humans,0
+Q73360,Thibaut Courtois,http://www.wikidata.org/entity/Q73360,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q74536,Premier League Golden Glove,humans,0
+Q8023,Nelson Mandela,http://www.wikidata.org/entity/Q8023,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1077746,Mo Ibrahim Prize for Achievement in African Leadership,humans,0
+Q19878,Muammar Gaddafi,http://www.wikidata.org/entity/Q19878,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q16668262,National Order of Benin,humans,0
+Q130586,George IV of the United Kingdom,http://www.wikidata.org/entity/Q130586,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1683024,Order of Saint Januarius,humans,0
+Q6294,Hillary Clinton,http://www.wikidata.org/entity/Q6294,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q604370,Time 100,humans,0
+Q44980,Alex Ferguson,http://www.wikidata.org/entity/Q44980,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q12201477,Commander of the Order of the British Empire,humans,0
+Q11256,Fidel Castro,http://www.wikidata.org/entity/Q11256,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q29017353,"Order of Merit, 1st class",humans,0
+Q180453,Dolly Parton,http://www.wikidata.org/entity/Q180453,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1789030,National Medal of Arts,humans,0
+Q5152,Mustafa Kemal Atatürk,http://www.wikidata.org/entity/Q5152,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q98594851,"2nd class, Order of the Medjidie",humans,0
+Q3925,Grace Kelly,http://www.wikidata.org/entity/Q3925,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q103618,Academy Award for Best Actress,humans,0
+Q43274,Charles III of the United Kingdom,http://www.wikidata.org/entity/Q43274,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q506369,Order of the Bath,humans,0
+Q102139,Margrethe II of Denmark,http://www.wikidata.org/entity/Q102139,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3885362,Order of the Virtues,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q285071,Order of Saint Stephen of Hungary,humans,0
+Q36450,Catherine II of Russia,http://www.wikidata.org/entity/Q36450,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q84020,Order of the White Eagle,humans,0
+Q7085,Niels Bohr,http://www.wikidata.org/entity/Q7085,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1994574,Faraday Lectureship Prize,humans,0
+Q19878,Muammar Gaddafi,http://www.wikidata.org/entity/Q19878,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2452975,Order of the Liberator,humans,0
+Q5284,Bill Gates,http://www.wikidata.org/entity/Q5284,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1232376,Cross of Recognition,humans,0
+Q80976,"Prince Philip, Duke of Edinburgh",http://www.wikidata.org/entity/Q80976,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q2171187,Royal Victorian Chain,humans,0
+Q43252,Sophia Loren,http://www.wikidata.org/entity/Q43252,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q268670,Praemium Imperiale,humans,0
+Q8027,Martin Luther King Jr.,http://www.wikidata.org/entity/Q8027,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q33232596,Humanitarian of the Year,humans,0
+Q43067,Heinrich Himmler,http://www.wikidata.org/entity/Q43067,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1815780,Order of the Crown of King Zvonimir,humans,0
+Q9682,Elizabeth II,http://www.wikidata.org/entity/Q9682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q13377517,Knight Grand Cross with Collar of the Order of Saint Olav,humans,0
+Q41148,Martin Scorsese,http://www.wikidata.org/entity/Q41148,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q1011547,Golden Globe Awards,humans,0
+Q8016,Winston Churchill,http://www.wikidata.org/entity/Q8016,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q97556388,Honorary doctor of Leiden University,humans,0
+Q567,Angela Merkel,http://www.wikidata.org/entity/Q567,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q4335955,Order of the Republic,humans,0
+Q9682,Elizabeth II,http://www.wikidata.org/entity/Q9682,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q3885362,Order of the Virtues,humans,0
+Q178882,Kristen Bell,http://www.wikidata.org/entity/Q178882,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q106337981,People's Choice Award for Favorite Actress in a New TV Series,humans,0
+Q40787,Nicholas II of Russia,http://www.wikidata.org/entity/Q40787,http://www.wikidata.org/prop/direct/P166,award received,http://www.wikidata.org/entity/Q35793416,Knight Grand Cross of the Order of Saint Stephen of Hungary,humans,0

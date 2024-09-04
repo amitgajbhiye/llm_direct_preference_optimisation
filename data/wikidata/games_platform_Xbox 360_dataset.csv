@@ -1,0 +1,451 @@
+entity,entity_human_readable,subject,predicate,predicate_human_readable,object,object_human_readable,category,label
+Q49740,Minecraft,http://www.wikidata.org/entity/Q49740,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q17452,Grand Theft Auto V,http://www.wikidata.org/entity/Q17452,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q83265,Grand Theft Auto: San Andreas,http://www.wikidata.org/entity/Q83265,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q94797,Grand Theft Auto IV,http://www.wikidata.org/entity/Q94797,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q323862,The Elder Scrolls V: Skyrim,http://www.wikidata.org/entity/Q323862,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q486233,Call of Duty: Modern Warfare 3,http://www.wikidata.org/entity/Q486233,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q173626,Pac-Man,http://www.wikidata.org/entity/Q173626,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q486351,Call of Duty: Modern Warfare 2,http://www.wikidata.org/entity/Q486351,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q200864,Assassin's Creed,http://www.wikidata.org/entity/Q200864,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q76255,Call of Duty 4: Modern Warfare,http://www.wikidata.org/entity/Q76255,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q220365,Need for Speed: Most Wanted,http://www.wikidata.org/entity/Q220365,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q57270,BioShock,http://www.wikidata.org/entity/Q57270,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q207986,Call of Duty: Black Ops,http://www.wikidata.org/entity/Q207986,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q244030,Diablo III,http://www.wikidata.org/entity/Q244030,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q40166,Assassin's Creed III,http://www.wikidata.org/entity/Q40166,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q482494,Steins;Gate,http://www.wikidata.org/entity/Q482494,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q247935,Metal Gear Solid 3: Snake Eater,http://www.wikidata.org/entity/Q247935,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q162751,Metro 2033,http://www.wikidata.org/entity/Q162751,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q380918,Call of Duty: Black Ops II,http://www.wikidata.org/entity/Q380918,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q211096,Call of Duty,http://www.wikidata.org/entity/Q211096,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q211735,Assassin's Creed II,http://www.wikidata.org/entity/Q211735,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q193581,Half-Life 2,http://www.wikidata.org/entity/Q193581,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q59154,Mafia II,http://www.wikidata.org/entity/Q59154,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q288811,Batman: Arkham City,http://www.wikidata.org/entity/Q288811,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q207797,Call of Duty: World at War,http://www.wikidata.org/entity/Q207797,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q49607,The Elder Scrolls IV: Oblivion,http://www.wikidata.org/entity/Q49607,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q221164,Fallout 3,http://www.wikidata.org/entity/Q221164,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q276217,Halo: Combat Evolved,http://www.wikidata.org/entity/Q276217,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q274897,Portal,http://www.wikidata.org/entity/Q274897,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q382108,Team Fortress 2,http://www.wikidata.org/entity/Q382108,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q390595,Final Fantasy XIII,http://www.wikidata.org/entity/Q390595,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q323264,Dishonored,http://www.wikidata.org/entity/Q323264,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q279446,Portal 2,http://www.wikidata.org/entity/Q279446,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q210298,Call of Duty 2,http://www.wikidata.org/entity/Q210298,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q308961,Call of Duty 3,http://www.wikidata.org/entity/Q308961,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q472909,Left 4 Dead 2,http://www.wikidata.org/entity/Q472909,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q210275,Destiny,http://www.wikidata.org/entity/Q210275,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q18940,Wolfenstein 3D,http://www.wikidata.org/entity/Q18940,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q323981,Left 4 Dead,http://www.wikidata.org/entity/Q323981,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q110607,Clannad,http://www.wikidata.org/entity/Q110607,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q37123,Sonic the Hedgehog,http://www.wikidata.org/entity/Q37123,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q219795,Need for Speed: Carbon,http://www.wikidata.org/entity/Q219795,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q337865,Far Cry,http://www.wikidata.org/entity/Q337865,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q275960,Mass Effect,http://www.wikidata.org/entity/Q275960,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q283878,Halo: Reach,http://www.wikidata.org/entity/Q283878,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q473852,Prototype,http://www.wikidata.org/entity/Q473852,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q465689,American McGee's Alice,http://www.wikidata.org/entity/Q465689,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q137802,Halo 3,http://www.wikidata.org/entity/Q137802,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q237484,Crysis,http://www.wikidata.org/entity/Q237484,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q185482,The Sims 3,http://www.wikidata.org/entity/Q185482,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q277377,Catherine,http://www.wikidata.org/entity/Q277377,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q302839,BioShock 2,http://www.wikidata.org/entity/Q302839,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q83843,Forza Horizon,http://www.wikidata.org/entity/Q83843,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q76868,Assassin's Creed III: Liberation,http://www.wikidata.org/entity/Q76868,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q176336,Far Cry 2,http://www.wikidata.org/entity/Q176336,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q45028,Halo 4,http://www.wikidata.org/entity/Q45028,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q129277,Hitman: Absolution,http://www.wikidata.org/entity/Q129277,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q239889,Hitman: Blood Money,http://www.wikidata.org/entity/Q239889,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q526350,Mirror's Edge,http://www.wikidata.org/entity/Q526350,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q129000,Banjo-Kazooie,http://www.wikidata.org/entity/Q129000,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q288596,Silent Hill: Downpour,http://www.wikidata.org/entity/Q288596,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q471974,Need for Speed: Undercover,http://www.wikidata.org/entity/Q471974,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q281246,Need for Speed: The Run,http://www.wikidata.org/entity/Q281246,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q383700,Marvel vs. Capcom 2: New Age of Heroes,http://www.wikidata.org/entity/Q383700,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q290534,Quake 4,http://www.wikidata.org/entity/Q290534,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q26097,XCOM: Enemy Unknown,http://www.wikidata.org/entity/Q26097,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q40177,Sonic & Knuckles,http://www.wikidata.org/entity/Q40177,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q538821,Crysis 3,http://www.wikidata.org/entity/Q538821,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q130578,Divinity II,http://www.wikidata.org/entity/Q130578,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q55214,Lego Star Wars: The Complete Saga,http://www.wikidata.org/entity/Q55214,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q338486,Street Fighter X Tekken,http://www.wikidata.org/entity/Q338486,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q349413,Homefront,http://www.wikidata.org/entity/Q349413,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q349433,Turok,http://www.wikidata.org/entity/Q349433,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q91282,Arkanoid,http://www.wikidata.org/entity/Q91282,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q74539,Star Wars: The Force Unleashed II,http://www.wikidata.org/entity/Q74539,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q533304,Tom Clancy's Splinter Cell: Chaos Theory,http://www.wikidata.org/entity/Q533304,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q74545,Lego Batman: The Videogame,http://www.wikidata.org/entity/Q74545,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392311,Saw,http://www.wikidata.org/entity/Q392311,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q55239,Lego Star Wars II: The Original Trilogy,http://www.wikidata.org/entity/Q55239,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q18951,Half-Life 2: Episode One,http://www.wikidata.org/entity/Q18951,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q4104,Need for Speed: Shift,http://www.wikidata.org/entity/Q4104,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q379438,Enslaved: Odyssey to the West,http://www.wikidata.org/entity/Q379438,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q83565,Epic Mickey 2: The Power of Two,http://www.wikidata.org/entity/Q83565,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q507396,Crash: Mind over Mutant,http://www.wikidata.org/entity/Q507396,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q137977,FIFA 13,http://www.wikidata.org/entity/Q137977,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q498469,Postal III,http://www.wikidata.org/entity/Q498469,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q74630,Lego Indiana Jones: The Original Adventures,http://www.wikidata.org/entity/Q74630,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q428297,Test Drive Unlimited 2,http://www.wikidata.org/entity/Q428297,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q198092,The King of Fighters 2002,http://www.wikidata.org/entity/Q198092,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q161192,007 Legends,http://www.wikidata.org/entity/Q161192,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q137924,FIFA 12,http://www.wikidata.org/entity/Q137924,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q266079,Alpha Protocol,http://www.wikidata.org/entity/Q266079,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q481741,Ace Combat 6: Fires of Liberation,http://www.wikidata.org/entity/Q481741,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392689,Saw II: Flesh & Blood,http://www.wikidata.org/entity/Q392689,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392698,Stranglehold,http://www.wikidata.org/entity/Q392698,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q472645,Arcania,http://www.wikidata.org/entity/Q472645,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q55228,Lego Star Wars III: The Clone Wars,http://www.wikidata.org/entity/Q55228,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q162707,Sonic & Sega All-Stars Racing,http://www.wikidata.org/entity/Q162707,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q133427,State of Decay,http://www.wikidata.org/entity/Q133427,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q426939,FIFA 11,http://www.wikidata.org/entity/Q426939,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q31560,Forza Motorsport 4,http://www.wikidata.org/entity/Q31560,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q254851,Harry Potter and the Order of the Phoenix,http://www.wikidata.org/entity/Q254851,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q245749,The Darkness II,http://www.wikidata.org/entity/Q245749,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q54854,Angry Birds Star Wars,http://www.wikidata.org/entity/Q54854,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q248611,Rocksmith,http://www.wikidata.org/entity/Q248611,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q195280,Toy Story 3,http://www.wikidata.org/entity/Q195280,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q74683,Lego Indiana Jones 2: The Adventure Continues,http://www.wikidata.org/entity/Q74683,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q257507,Too Human,http://www.wikidata.org/entity/Q257507,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q247161,Dynasty Warriors 5,http://www.wikidata.org/entity/Q247161,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q524661,Perfect Dark Zero,http://www.wikidata.org/entity/Q524661,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q83524,Family Guy: Back to the Multiverse,http://www.wikidata.org/entity/Q83524,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q532743,I Am Alive,http://www.wikidata.org/entity/Q532743,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q153547,The Incredible Hulk,http://www.wikidata.org/entity/Q153547,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q532178,Colin McRae: Dirt,http://www.wikidata.org/entity/Q532178,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q349087,Tron: Evolution,http://www.wikidata.org/entity/Q349087,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q94355,Cars 2,http://www.wikidata.org/entity/Q94355,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392707,Frontlines: Fuel of War,http://www.wikidata.org/entity/Q392707,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q385270,Bionic Commando,http://www.wikidata.org/entity/Q385270,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q111683,Chromehounds,http://www.wikidata.org/entity/Q111683,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q400488,Game of Thrones,http://www.wikidata.org/entity/Q400488,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392497,Kinect Adventures!,http://www.wikidata.org/entity/Q392497,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q54850,Star Wars: The Clone Wars – Republic Heroes,http://www.wikidata.org/entity/Q54850,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q393059,Lego The Hobbit,http://www.wikidata.org/entity/Q393059,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q536859,Darkest of Days,http://www.wikidata.org/entity/Q536859,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q187351,Split/Second,http://www.wikidata.org/entity/Q187351,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q177432,Tayutama: Kiss on my Deity,http://www.wikidata.org/entity/Q177432,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q337995,Mushihimesama,http://www.wikidata.org/entity/Q337995,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q478583,London 2012,http://www.wikidata.org/entity/Q478583,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q292089,Ilomilo,http://www.wikidata.org/entity/Q292089,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392058,Legendary,http://www.wikidata.org/entity/Q392058,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392320,Rise of the Argonauts,http://www.wikidata.org/entity/Q392320,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q288884,G.I. Joe: The Rise of Cobra,http://www.wikidata.org/entity/Q288884,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q384153,Speedball,http://www.wikidata.org/entity/Q384153,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q254090,F1 2011,http://www.wikidata.org/entity/Q254090,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q518578,Kingdom Under Fire: Circle of Doom,http://www.wikidata.org/entity/Q518578,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q81841,Fracture,http://www.wikidata.org/entity/Q81841,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q378664,Trials Evolution,http://www.wikidata.org/entity/Q378664,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q392268,Hour of Victory,http://www.wikidata.org/entity/Q392268,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q515254,Record of Agarest War Zero,http://www.wikidata.org/entity/Q515254,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q115529,Memories Off: Yubikiri no Kioku,http://www.wikidata.org/entity/Q115529,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q115571,Memories Off 6: T-wave,http://www.wikidata.org/entity/Q115571,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q8529,100 Bullets,http://www.wikidata.org/entity/Q8529,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q326798,A.R.E.S.: Extinction Agenda,http://www.wikidata.org/entity/Q326798,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q334809,MicroBot,http://www.wikidata.org/entity/Q334809,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q511615,Kinect Sesame Street TV,http://www.wikidata.org/entity/Q511615,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48263,Xbox 360,games,1
+Q474102,Night Driver,http://www.wikidata.org/entity/Q474102,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q137924,FIFA 12,http://www.wikidata.org/entity/Q137924,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q187732,RuneScape,http://www.wikidata.org/entity/Q187732,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q94,Android,games,0
+Q248810,Dwarf Fortress,http://www.wikidata.org/entity/Q248810,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q388,Linux,games,0
+Q24076,FinnWars,http://www.wikidata.org/entity/Q24076,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q88273,A-Jax,http://www.wikidata.org/entity/Q88273,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q19610114,Nintendo Switch,games,0
+Q55607,Bonanza Bros.,http://www.wikidata.org/entity/Q55607,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q55228,Lego Star Wars III: The Clone Wars,http://www.wikidata.org/entity/Q55228,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170325,PlayStation Portable,games,0
+Q385812,Prisoner of Ice,http://www.wikidata.org/entity/Q385812,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170434,DOS,games,0
+Q55815,Elite,http://www.wikidata.org/entity/Q55815,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q41357,Acorn Archimedes,games,0
+Q427060,Black Sect,http://www.wikidata.org/entity/Q427060,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q512188,Zork III,http://www.wikidata.org/entity/Q512188,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q335946,MIDI Maze,http://www.wikidata.org/entity/Q335946,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q54322,Super Star Wars,http://www.wikidata.org/entity/Q54322,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q188808,PlayStation Vita,games,0
+Q94460,Grand Theft Auto 2,http://www.wikidata.org/entity/Q94460,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10677,PlayStation,games,0
+Q376785,F-1 Hero MD,http://www.wikidata.org/entity/Q376785,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10676,Sega Genesis,games,0
+Q247161,Dynasty Warriors 5,http://www.wikidata.org/entity/Q247161,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q88759,Bubble Bobble,http://www.wikidata.org/entity/Q88759,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q257816,The Sims Medieval,http://www.wikidata.org/entity/Q257816,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q4885200,Windows Phone,games,0
+Q149106,Grand Theft Auto III,http://www.wikidata.org/entity/Q149106,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q5014725,PlayStation 4,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q650601,Atari Jaguar,games,0
+Q88582,Heroes of the Lance,http://www.wikidata.org/entity/Q88582,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q55673,R-Type,http://www.wikidata.org/entity/Q55673,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q209868,Sega Master System,games,0
+Q115571,Memories Off 6: T-wave,http://www.wikidata.org/entity/Q115571,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q55227,Star Wars: Super Bombad Racing,http://www.wikidata.org/entity/Q55227,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q379128,Plants vs. Zombies,http://www.wikidata.org/entity/Q379128,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q106827,Second Life,http://www.wikidata.org/entity/Q106827,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q214142,The Battle For Wesnoth,http://www.wikidata.org/entity/Q214142,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q253530,Yager,http://www.wikidata.org/entity/Q253530,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q149106,Grand Theft Auto III,http://www.wikidata.org/entity/Q149106,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q262897,One Piece: Unlimited Adventure,http://www.wikidata.org/entity/Q262897,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q8079,Wii,games,0
+Q55532,1942,http://www.wikidata.org/entity/Q55532,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q192851,arcade video game machine,games,0
+Q278227,Amazing Tater,http://www.wikidata.org/entity/Q278227,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q186437,Game Boy,games,0
+Q196255,Street Fighter II Turbo,http://www.wikidata.org/entity/Q196255,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q164651,Virtual Boy,games,0
+Q149998,Paper Mario,http://www.wikidata.org/entity/Q149998,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q19610114,Nintendo Switch,games,0
+Q432273,AGON,http://www.wikidata.org/entity/Q432273,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q535940,Final Fantasy VI,http://www.wikidata.org/entity/Q535940,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q55251,Star Wars: Behind the Magic,http://www.wikidata.org/entity/Q55251,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q495263,Cabal Online,http://www.wikidata.org/entity/Q495263,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q301428,PowerPlay Manager,http://www.wikidata.org/entity/Q301428,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q6368,web browser,games,0
+Q383700,Marvel vs. Capcom 2: New Age of Heroes,http://www.wikidata.org/entity/Q383700,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q367135,Dirge of Cerberus: Final Fantasy VII,http://www.wikidata.org/entity/Q367135,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q198092,The King of Fighters 2002,http://www.wikidata.org/entity/Q198092,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q390716,NosTale,http://www.wikidata.org/entity/Q390716,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q471974,Need for Speed: Undercover,http://www.wikidata.org/entity/Q471974,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q368286,Civilization,http://www.wikidata.org/entity/Q368286,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q183259,Super Nintendo Entertainment System,games,0
+Q211858,DK: King of Swing,http://www.wikidata.org/entity/Q211858,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q56942,Wii U,games,0
+Q90990,Championship Sprint,http://www.wikidata.org/entity/Q90990,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q465689,American McGee's Alice,http://www.wikidata.org/entity/Q465689,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q306398,openBVE,http://www.wikidata.org/entity/Q306398,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q388,Linux,games,0
+Q55673,R-Type,http://www.wikidata.org/entity/Q55673,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q55673,R-Type,http://www.wikidata.org/entity/Q55673,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q218568,Super Hexagon,http://www.wikidata.org/entity/Q218568,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q55605,Boulder Dash,http://www.wikidata.org/entity/Q55605,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1046862,ColecoVision,games,0
+Q44346,James Pond 2: Codename: RoboCod,http://www.wikidata.org/entity/Q44346,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10676,Sega Genesis,games,0
+Q91282,Arkanoid,http://www.wikidata.org/entity/Q91282,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q183259,Super Nintendo Entertainment System,games,0
+Q196255,Street Fighter II Turbo,http://www.wikidata.org/entity/Q196255,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10676,Sega Genesis,games,0
+Q54854,Angry Birds Star Wars,http://www.wikidata.org/entity/Q54854,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q879989,BlackBerry 10,games,0
+Q12384,Donkey Kong,http://www.wikidata.org/entity/Q12384,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q146124,Excitebike,http://www.wikidata.org/entity/Q146124,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1338888,NEC PC-8800 series,games,0
+Q405362,We Without Wings,http://www.wikidata.org/entity/Q405362,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q384153,Speedball,http://www.wikidata.org/entity/Q384153,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q239889,Hitman: Blood Money,http://www.wikidata.org/entity/Q239889,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q94,Android,games,0
+Q431238,KOF: Maximum Impact,http://www.wikidata.org/entity/Q431238,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q207786,Tamagotchi,http://www.wikidata.org/entity/Q207786,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170323,Nintendo DS,games,0
+Q282945,Sonic R,http://www.wikidata.org/entity/Q282945,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q198092,The King of Fighters 2002,http://www.wikidata.org/entity/Q198092,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q283878,Halo: Reach,http://www.wikidata.org/entity/Q283878,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q423722,Akuma-kun,http://www.wikidata.org/entity/Q423722,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q339814,Asphalt 5,http://www.wikidata.org/entity/Q339814,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q379128,Plants vs. Zombies,http://www.wikidata.org/entity/Q379128,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170323,Nintendo DS,games,0
+Q55670,Quazatron,http://www.wikidata.org/entity/Q55670,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q430868,True Golf Classics: Wicked 18,http://www.wikidata.org/entity/Q430868,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q183259,Super Nintendo Entertainment System,games,0
+Q500586,Echo Night: Beyond,http://www.wikidata.org/entity/Q500586,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q191965,Zero Wing,http://www.wikidata.org/entity/Q191965,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1057377,TurboGrafx-16,games,0
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q55538,007: Licence to Kill,http://www.wikidata.org/entity/Q55538,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q528128,Killzone 3,http://www.wikidata.org/entity/Q528128,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q339348,Abandoned Places,http://www.wikidata.org/entity/Q339348,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q100047,Commodore Amiga,games,0
+Q250989,TOCA Race Driver 3,http://www.wikidata.org/entity/Q250989,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q427060,Black Sect,http://www.wikidata.org/entity/Q427060,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q317620,Tomb Raider,http://www.wikidata.org/entity/Q317620,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q13361286,Xbox One,games,0
+Q55228,Lego Star Wars III: The Clone Wars,http://www.wikidata.org/entity/Q55228,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q8079,Wii,games,0
+Q55611,Army Moves,http://www.wikidata.org/entity/Q55611,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q853547,MSX,games,0
+Q88921,Cabal,http://www.wikidata.org/entity/Q88921,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q315256,Luxor 2,http://www.wikidata.org/entity/Q315256,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q55228,Lego Star Wars III: The Clone Wars,http://www.wikidata.org/entity/Q55228,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q55605,Boulder Dash,http://www.wikidata.org/entity/Q55605,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q853547,MSX,games,0
+Q55535,1943: The Battle of Midway,http://www.wikidata.org/entity/Q55535,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q55555,19 Part One: Boot Camp,http://www.wikidata.org/entity/Q55555,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q384153,Speedball,http://www.wikidata.org/entity/Q384153,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q100047,Commodore Amiga,games,0
+Q225912,Kingdom Hearts,http://www.wikidata.org/entity/Q225912,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q55605,Boulder Dash,http://www.wikidata.org/entity/Q55605,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q2379925,FM-7,games,0
+Q220665,Space Invaders,http://www.wikidata.org/entity/Q220665,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170325,PlayStation Portable,games,0
+Q388225,Command & Conquer: Red Alert,http://www.wikidata.org/entity/Q388225,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q55538,007: Licence to Kill,http://www.wikidata.org/entity/Q55538,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q55536,10th Frame,http://www.wikidata.org/entity/Q55536,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q490786,Barbarian: The Ultimate Warrior,http://www.wikidata.org/entity/Q490786,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q44346,James Pond 2: Codename: RoboCod,http://www.wikidata.org/entity/Q44346,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q94778,Grand Theft Auto: Liberty City Stories,http://www.wikidata.org/entity/Q94778,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q94,Android,games,0
+Q93655,The Humans,http://www.wikidata.org/entity/Q93655,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q183259,Super Nintendo Entertainment System,games,0
+Q277377,Catherine,http://www.wikidata.org/entity/Q277377,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q115571,Memories Off 6: T-wave,http://www.wikidata.org/entity/Q115571,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q440046,The Lord of the Rings: The Return of the King,http://www.wikidata.org/entity/Q440046,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q339814,Asphalt 5,http://www.wikidata.org/entity/Q339814,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q4885200,Windows Phone,games,0
+Q512188,Zork III,http://www.wikidata.org/entity/Q512188,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q100047,Commodore Amiga,games,0
+Q317620,Tomb Raider,http://www.wikidata.org/entity/Q317620,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q49607,The Elder Scrolls IV: Oblivion,http://www.wikidata.org/entity/Q49607,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q373112,Romance of the Three Kingdoms VII,http://www.wikidata.org/entity/Q373112,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q13522376,Classic Mac OS,games,0
+Q379438,Enslaved: Odyssey to the West,http://www.wikidata.org/entity/Q379438,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q533071,Chasm: The Rift,http://www.wikidata.org/entity/Q533071,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170434,DOS,games,0
+Q54853,Star Wars: X-Wing,http://www.wikidata.org/entity/Q54853,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q220216,Boin,http://www.wikidata.org/entity/Q220216,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170325,PlayStation Portable,games,0
+Q514680,Battle Isle,http://www.wikidata.org/entity/Q514680,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q524267,Frogger,http://www.wikidata.org/entity/Q524267,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q4885200,Windows Phone,games,0
+Q386452,Imperialism,http://www.wikidata.org/entity/Q386452,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q13522376,Classic Mac OS,games,0
+Q510308,Zone 66,http://www.wikidata.org/entity/Q510308,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170434,DOS,games,0
+Q371342,NukeZone,http://www.wikidata.org/entity/Q371342,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q6368,web browser,games,0
+Q90975,Bumpy,http://www.wikidata.org/entity/Q90975,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170434,DOS,games,0
+Q55673,R-Type,http://www.wikidata.org/entity/Q55673,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q205508,Ballblazer,http://www.wikidata.org/entity/Q205508,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q853547,MSX,games,0
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170323,Nintendo DS,games,0
+Q493828,DJMax Technika 2,http://www.wikidata.org/entity/Q493828,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q192851,arcade video game machine,games,0
+Q349087,Tron: Evolution,http://www.wikidata.org/entity/Q349087,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q8079,Wii,games,0
+Q34852,Age of Empires II: The Age of Kings,http://www.wikidata.org/entity/Q34852,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q307441,osu!,http://www.wikidata.org/entity/Q307441,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q388,Linux,games,0
+Q162707,Sonic & Sega All-Stars Racing,http://www.wikidata.org/entity/Q162707,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q8079,Wii,games,0
+Q507818,Championship Manager 2,http://www.wikidata.org/entity/Q507818,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q380526,AmigaOS,games,0
+Q93951,Little Inferno,http://www.wikidata.org/entity/Q93951,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q19610114,Nintendo Switch,games,0
+Q281246,Need for Speed: The Run,http://www.wikidata.org/entity/Q281246,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q287600,Eye of the Beholder II: The Legend of Darkmoon,http://www.wikidata.org/entity/Q287600,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q388,Linux,games,0
+Q307273,GrimGrimoire,http://www.wikidata.org/entity/Q307273,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q219804,Zombies Ate My Neighbors,http://www.wikidata.org/entity/Q219804,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q183259,Super Nintendo Entertainment System,games,0
+Q131007,World of Warcraft,http://www.wikidata.org/entity/Q131007,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q185482,The Sims 3,http://www.wikidata.org/entity/Q185482,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q8079,Wii,games,0
+Q250355,Icy Tower,http://www.wikidata.org/entity/Q250355,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q374299,BC Racers,http://www.wikidata.org/entity/Q374299,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q229429,3DO Interactive Multiplayer,games,0
+Q55536,10th Frame,http://www.wikidata.org/entity/Q55536,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q405497,Air,http://www.wikidata.org/entity/Q405497,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q94,Android,games,0
+Q512253,MVP 06: NCAA Baseball,http://www.wikidata.org/entity/Q512253,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q88759,Bubble Bobble,http://www.wikidata.org/entity/Q88759,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q200912,Sega Saturn,games,0
+Q226815,Zorro,http://www.wikidata.org/entity/Q226815,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q427472,Wings of War,http://www.wikidata.org/entity/Q427472,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q213911,The Legend of Zelda: Ocarina of Time,http://www.wikidata.org/entity/Q213911,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q203597,Nintendo 3DS,games,0
+Q474798,The Legend of Zelda: The Minish Cap,http://www.wikidata.org/entity/Q474798,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q188642,Game Boy Advance,games,0
+Q144728,Bad Piggies,http://www.wikidata.org/entity/Q144728,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q473852,Prototype,http://www.wikidata.org/entity/Q473852,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q5014725,PlayStation 4,games,0
+Q110607,Clannad,http://www.wikidata.org/entity/Q110607,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q281924,Battletank,http://www.wikidata.org/entity/Q281924,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q505245,Cauldron,http://www.wikidata.org/entity/Q505245,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q244030,Diablo III,http://www.wikidata.org/entity/Q244030,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q91501,Back to the Future,http://www.wikidata.org/entity/Q91501,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q389254,Super Castlevania IV,http://www.wikidata.org/entity/Q389254,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q183259,Super Nintendo Entertainment System,games,0
+Q379128,Plants vs. Zombies,http://www.wikidata.org/entity/Q379128,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170325,PlayStation Portable,games,0
+Q288958,Operation Wolf,http://www.wikidata.org/entity/Q288958,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q515254,Record of Agarest War Zero,http://www.wikidata.org/entity/Q515254,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q126474,Transformice,http://www.wikidata.org/entity/Q126474,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q487975,Grand Chase,http://www.wikidata.org/entity/Q487975,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q515378,Panzer Dragoon,http://www.wikidata.org/entity/Q515378,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q200912,Sega Saturn,games,0
+Q187339,Zelda II: The Adventure of Link,http://www.wikidata.org/entity/Q187339,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q282450,Maken X,http://www.wikidata.org/entity/Q282450,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q54317,Star Wars,http://www.wikidata.org/entity/Q54317,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q749976,BBC Micro,games,0
+Q223341,League of Legends,http://www.wikidata.org/entity/Q223341,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q108148546,TGP Box,games,0
+Q12395,The Legend of Zelda,http://www.wikidata.org/entity/Q12395,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q430868,True Golf Classics: Wicked 18,http://www.wikidata.org/entity/Q430868,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10676,Sega Genesis,games,0
+Q484634,Togainu no Chi,http://www.wikidata.org/entity/Q484634,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q374320,Disney's Hercules,http://www.wikidata.org/entity/Q374320,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q55538,007: Licence to Kill,http://www.wikidata.org/entity/Q55538,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q257469,Another World,http://www.wikidata.org/entity/Q257469,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q19610114,Nintendo Switch,games,0
+Q112912,Lego Batman 2: DC Super Heroes,http://www.wikidata.org/entity/Q112912,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q302120,Costume Quest,http://www.wikidata.org/entity/Q302120,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q12384,Donkey Kong,http://www.wikidata.org/entity/Q12384,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q454390,Texas Instruments TI-99/4A,games,0
+Q284203,Hexen II,http://www.wikidata.org/entity/Q284203,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q128561,Q.U.B.E.,http://www.wikidata.org/entity/Q128561,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q388,Linux,games,0
+Q327594,Final Fantasy XII,http://www.wikidata.org/entity/Q327594,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q19610114,Nintendo Switch,games,0
+Q244030,Diablo III,http://www.wikidata.org/entity/Q244030,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q173626,Pac-Man,http://www.wikidata.org/entity/Q173626,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170325,PlayStation Portable,games,0
+Q204105,Dig Dug,http://www.wikidata.org/entity/Q204105,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q743222,Atari 5200,games,0
+Q317620,Tomb Raider,http://www.wikidata.org/entity/Q317620,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q98973368,Xbox Series X and Series S,games,0
+Q287276,Destroy All Humans! 2,http://www.wikidata.org/entity/Q287276,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q55815,Elite,http://www.wikidata.org/entity/Q55815,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q389215,Afterlife,http://www.wikidata.org/entity/Q389215,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q47604,MS-DOS,games,0
+Q275950,Resident Evil 4,http://www.wikidata.org/entity/Q275950,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q168615,1080° Snowboarding,http://www.wikidata.org/entity/Q168615,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q184839,Nintendo 64,games,0
+Q153547,The Incredible Hulk,http://www.wikidata.org/entity/Q153547,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q8079,Wii,games,0
+Q205508,Ballblazer,http://www.wikidata.org/entity/Q205508,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q465155,Dystopia,http://www.wikidata.org/entity/Q465155,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q388,Linux,games,0
+Q91282,Arkanoid,http://www.wikidata.org/entity/Q91282,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q146124,Excitebike,http://www.wikidata.org/entity/Q146124,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q192851,arcade video game machine,games,0
+Q493603,The Eidolon,http://www.wikidata.org/entity/Q493603,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q55295,Star Wars Jedi Knight: Jedi Academy,http://www.wikidata.org/entity/Q55295,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q55605,Boulder Dash,http://www.wikidata.org/entity/Q55605,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q249075,Atari 8-bit family,games,0
+Q284203,Hexen II,http://www.wikidata.org/entity/Q284203,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q13522376,Classic Mac OS,games,0
+Q219985,XBlast,http://www.wikidata.org/entity/Q219985,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q55605,Boulder Dash,http://www.wikidata.org/entity/Q55605,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q265386,Binary Pot,http://www.wikidata.org/entity/Q265386,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q40177,Sonic & Knuckles,http://www.wikidata.org/entity/Q40177,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q524267,Frogger,http://www.wikidata.org/entity/Q524267,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q186437,Game Boy,games,0
+Q55605,Boulder Dash,http://www.wikidata.org/entity/Q55605,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q201652,Apple II series,games,0
+Q49740,Minecraft,http://www.wikidata.org/entity/Q49740,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q94,Android,games,0
+Q225861,Professor Layton and the Unwound Future,http://www.wikidata.org/entity/Q225861,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170323,Nintendo DS,games,0
+Q54338,Star Wars: Episode I – The Phantom Menace,http://www.wikidata.org/entity/Q54338,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q56939,Mega Man X: Command Mission,http://www.wikidata.org/entity/Q56939,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q88855,California Games,http://www.wikidata.org/entity/Q88855,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q206261,Atari 2600,games,0
+Q332697,Terraria,http://www.wikidata.org/entity/Q332697,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q56942,Wii U,games,0
+Q88273,A-Jax,http://www.wikidata.org/entity/Q88273,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q5014725,PlayStation 4,games,0
+Q54850,Star Wars: The Clone Wars – Republic Heroes,http://www.wikidata.org/entity/Q54850,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q239889,Hitman: Blood Money,http://www.wikidata.org/entity/Q239889,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q13361286,Xbox One,games,0
+Q240143,Maniac Mansion,http://www.wikidata.org/entity/Q240143,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q489337,Ancient Domains of Mystery,http://www.wikidata.org/entity/Q489337,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170434,DOS,games,0
+Q189784,Doom,http://www.wikidata.org/entity/Q189784,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1353312,RiscPC,games,0
+Q478583,London 2012,http://www.wikidata.org/entity/Q478583,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q26097,XCOM: Enemy Unknown,http://www.wikidata.org/entity/Q26097,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q177491,Breakout,http://www.wikidata.org/entity/Q177491,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10269192,Dynavision,games,0
+Q93655,The Humans,http://www.wikidata.org/entity/Q93655,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q100047,Commodore Amiga,games,0
+Q288958,Operation Wolf,http://www.wikidata.org/entity/Q288958,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q55610,Athena,http://www.wikidata.org/entity/Q55610,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q386632,Warzone 2100,http://www.wikidata.org/entity/Q386632,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q287276,Destroy All Humans! 2,http://www.wikidata.org/entity/Q287276,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q153547,The Incredible Hulk,http://www.wikidata.org/entity/Q153547,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q207986,Call of Duty: Black Ops,http://www.wikidata.org/entity/Q207986,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q81288,Dragon Quest III,http://www.wikidata.org/entity/Q81288,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q48493,iOS,games,0
+Q530535,Magical Canan,http://www.wikidata.org/entity/Q530535,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q55312,Star Wars: TIE Fighter,http://www.wikidata.org/entity/Q55312,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q13522376,Classic Mac OS,games,0
+Q427337,FIFA 97,http://www.wikidata.org/entity/Q427337,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10677,PlayStation,games,0
+Q533304,Tom Clancy's Splinter Cell: Chaos Theory,http://www.wikidata.org/entity/Q533304,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q132020,Xbox,games,0
+Q55607,Bonanza Bros.,http://www.wikidata.org/entity/Q55607,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q349375,Fortnite,http://www.wikidata.org/entity/Q349375,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q63184502,PlayStation 5,games,0
+Q88240,720°,http://www.wikidata.org/entity/Q88240,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q172742,Nintendo Entertainment System,games,0
+Q385812,Prisoner of Ice,http://www.wikidata.org/entity/Q385812,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q73289,Himawari no Kyōkai to Nagai Natsuyasumi,http://www.wikidata.org/entity/Q73289,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q54320,Star Wars,http://www.wikidata.org/entity/Q54320,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q209868,Sega Master System,games,0
+Q254851,Harry Potter and the Order of the Phoenix,http://www.wikidata.org/entity/Q254851,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q188642,Game Boy Advance,games,0
+Q162707,Sonic & Sega All-Stars Racing,http://www.wikidata.org/entity/Q162707,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q55295,Star Wars Jedi Knight: Jedi Academy,http://www.wikidata.org/entity/Q55295,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q19610114,Nintendo Switch,games,0
+Q55536,10th Frame,http://www.wikidata.org/entity/Q55536,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q853547,MSX,games,0
+Q49740,Minecraft,http://www.wikidata.org/entity/Q49740,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q5014725,PlayStation 4,games,0
+Q286165,Dracula Unleashed,http://www.wikidata.org/entity/Q286165,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10676,Sega Genesis,games,0
+Q54334,Star Wars: Return of the Jedi,http://www.wikidata.org/entity/Q54334,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q91282,Arkanoid,http://www.wikidata.org/entity/Q91282,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q13522376,Classic Mac OS,games,0
+Q482494,Steins;Gate,http://www.wikidata.org/entity/Q482494,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q55219,Star Wars: Bounty Hunter,http://www.wikidata.org/entity/Q55219,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q182172,Nintendo GameCube,games,0
+Q223629,Half-Life 2: Lost Coast,http://www.wikidata.org/entity/Q223629,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q150146,Fire Emblem: Shadow Dragon and the Blade of Light,http://www.wikidata.org/entity/Q150146,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q203597,Nintendo 3DS,games,0
+Q473852,Prototype,http://www.wikidata.org/entity/Q473852,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q494010,Mu Online,http://www.wikidata.org/entity/Q494010,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q497206,Starhorse3,http://www.wikidata.org/entity/Q497206,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q192851,arcade video game machine,games,0
+Q182261,PokerTH,http://www.wikidata.org/entity/Q182261,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q424271,Freeciv,http://www.wikidata.org/entity/Q424271,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q88519,Aaargh!,http://www.wikidata.org/entity/Q88519,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q220665,Space Invaders,http://www.wikidata.org/entity/Q220665,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q31087,calculator,games,0
+Q54846,Star Wars: Episode III – Revenge of the Sith,http://www.wikidata.org/entity/Q54846,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q188642,Game Boy Advance,games,0
+Q91247,Zaxxon,http://www.wikidata.org/entity/Q91247,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q2387,Commandos 2: Men of Courage,http://www.wikidata.org/entity/Q2387,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q259486,Private Eye,http://www.wikidata.org/entity/Q259486,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q206261,Atari 2600,games,0
+Q278771,Worms,http://www.wikidata.org/entity/Q278771,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q392948,HardBall!,http://www.wikidata.org/entity/Q392948,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170434,DOS,games,0
+Q229648,3 Skulls of the Toltecs,http://www.wikidata.org/entity/Q229648,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q204105,Dig Dug,http://www.wikidata.org/entity/Q204105,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q206261,Atari 2600,games,0
+Q83265,Grand Theft Auto: San Andreas,http://www.wikidata.org/entity/Q83265,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q254723,Cannon Fodder,http://www.wikidata.org/entity/Q254723,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q137924,FIFA 12,http://www.wikidata.org/entity/Q137924,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q188808,PlayStation Vita,games,0
+Q448882,Night Shift,http://www.wikidata.org/entity/Q448882,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q627302,Atari ST,games,0
+Q71910,Tetris,http://www.wikidata.org/entity/Q71910,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q853547,MSX,games,0
+Q55607,Bonanza Bros.,http://www.wikidata.org/entity/Q55607,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10676,Sega Genesis,games,0
+Q177459,King's Quest II,http://www.wikidata.org/entity/Q177459,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q100047,Commodore Amiga,games,0
+Q363811,Istaria: Chronicles of the Gifted,http://www.wikidata.org/entity/Q363811,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q88855,California Games,http://www.wikidata.org/entity/Q88855,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q853547,MSX,games,0
+Q55620,Bionic Commando,http://www.wikidata.org/entity/Q55620,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q23882,ZX Spectrum,games,0
+Q460403,Flood,http://www.wikidata.org/entity/Q460403,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q100047,Commodore Amiga,games,0
+Q88240,720°,http://www.wikidata.org/entity/Q88240,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q211096,Call of Duty,http://www.wikidata.org/entity/Q211096,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q83265,Grand Theft Auto: San Andreas,http://www.wikidata.org/entity/Q83265,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q427050,Witchaven,http://www.wikidata.org/entity/Q427050,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q1406,Microsoft Windows,games,0
+Q185482,The Sims 3,http://www.wikidata.org/entity/Q185482,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q2447314,N-Gage,games,0
+Q495115,Zenonia,http://www.wikidata.org/entity/Q495115,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q184372,Zeebo,games,0
+Q55216,Lego Star Wars: The Video Game,http://www.wikidata.org/entity/Q55216,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q182172,Nintendo GameCube,games,0
+Q91247,Zaxxon,http://www.wikidata.org/entity/Q91247,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q192851,arcade video game machine,games,0
+Q55668,Nether Earth,http://www.wikidata.org/entity/Q55668,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q524267,Frogger,http://www.wikidata.org/entity/Q524267,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q99775,Commodore 64,games,0
+Q8529,100 Bullets,http://www.wikidata.org/entity/Q8529,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10680,PlayStation 2,games,0
+Q535940,Final Fantasy VI,http://www.wikidata.org/entity/Q535940,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10677,PlayStation,games,0
+Q198092,The King of Fighters 2002,http://www.wikidata.org/entity/Q198092,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q192851,arcade video game machine,games,0
+Q349413,Homefront,http://www.wikidata.org/entity/Q349413,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q751046,IBM PC compatible,games,0
+Q54331,Return of the Jedi: Death Star Battle,http://www.wikidata.org/entity/Q54331,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q206261,Atari 2600,games,0
+Q174481,Doki Doki Majo Shinpan!,http://www.wikidata.org/entity/Q174481,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170323,Nintendo DS,games,0
+Q385952,DualPenSports,http://www.wikidata.org/entity/Q385952,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q203597,Nintendo 3DS,games,0
+Q210552,Darwinia,http://www.wikidata.org/entity/Q210552,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q14116,macOS,games,0
+Q55673,R-Type,http://www.wikidata.org/entity/Q55673,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q100047,Commodore Amiga,games,0
+Q54864,Star Wars Battlefront: Renegade Squadron,http://www.wikidata.org/entity/Q54864,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170325,PlayStation Portable,games,0
+Q136597,Z,http://www.wikidata.org/entity/Q136597,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10677,PlayStation,games,0
+Q35627,Sonic the Hedgehog 2,http://www.wikidata.org/entity/Q35627,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q4885200,Windows Phone,games,0
+Q88759,Bubble Bobble,http://www.wikidata.org/entity/Q88759,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q478829,Amstrad CPC,games,0
+Q229436,3D Dot Game Heroes,http://www.wikidata.org/entity/Q229436,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q10683,PlayStation 3,games,0
+Q55605,Boulder Dash,http://www.wikidata.org/entity/Q55605,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q4885200,Windows Phone,games,0
+Q94640,Grand Theft Auto: Vice City Stories,http://www.wikidata.org/entity/Q94640,http://www.wikidata.org/prop/direct/P400,platform,http://www.wikidata.org/entity/Q170325,PlayStation Portable,games,0
