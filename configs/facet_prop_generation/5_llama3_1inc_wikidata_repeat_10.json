@@ -1,6 +1,6 @@
 {
     "experiment_name": "5_llama3_1inc_wikidata_repeat_10",
-    "log_dir": "logs/wikidata_facet_prop_generation",
+    "log_dir": "logs/wikidata",
     "wikidata": true,
     "base_model": "meta-llama/Meta-Llama-3-8B-Instruct",
     "input_file": null,
