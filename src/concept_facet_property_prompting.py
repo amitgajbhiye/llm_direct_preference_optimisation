@@ -392,7 +392,7 @@ if __name__ == "__main__":
             concept_facet_property_file = generate_data(config, concept_prompts)
             # parse_and_format_data(file_path=concept_facet_property_file, config=config)
 
-            logger.info(f"finished_generating_data_for_file: {wikidata_file_path}")
+            logger.info(f"finished_generating_data_for_file: {config['input_file']}")
             end_time = time.time()
             logger.info(f"execution_time: {get_execution_time(start_time, end_time)}")
 
