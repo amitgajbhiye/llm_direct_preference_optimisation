@@ -1,0 +1,11 @@
+{
+    "experiment_name": "6_llama3_1inc_sumo_repeat_10",
+    "log_dir": "logs/ontology_facet_prop",
+    "wikidata": false,
+    "base_model": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "input_file": "data/ontology_concepts/sumo/sumo_vocab.txt",
+    "repeat_times": 10,
+    "batch_size": 64,
+    "output_dir": "data/ontology_concepts/sumo",
+    "output_file": "llama3_repeat10_concept_facet_property_sumo_onto_concepts.txt"
+}
