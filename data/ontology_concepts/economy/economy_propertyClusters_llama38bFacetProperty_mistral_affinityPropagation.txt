@@ -1,0 +1,1218 @@
+0	january 1, 1999	abolished in 1999	2002	in 1999	1999
+1	widely accepted in afghanistan	widely accepted in tajikistan	widely accepted in japan
+2	less accepted internationally	widely accepted	internationally	in the uk	used globally	accepted in some countries	accepted internationally	accepted in some international locations	general	government institutions	not widely accepted in some countries	accepted in many countries	not accepted in most countries	some neighboring countries
+3	subtropical	cold hardy	tropical
+4	sharp teeth	sharp horns	sharp hooves	sharp claws
+5	fast runner	long neck	strong legs	toe nails	good climber	strong jumper	good eyesight
+6	additive	not additive	non-additive
+7	easy to use	easy to clean	comfortable	cost-effective	recyclable	easy to care for
+8	small	fixed	large	significant
+9	asset allocation	fiscal policy	monetary policy	investment opportunity
+10	limbs	torso	lungs	liver	kidneys	ovaries	genitalia	uterus	pancreas	head	heart	womb	fallopian tubes	brain
+11	cattle	bovine	sheep	goat	pig	cow
+12	ungulate	hoofed	hoofed feet
+13	sentimental	emotional	aesthetic	romantic
+14	brown	yellow	orange	dark brown	small, brown
+15	black	white	red	dark-colored	gray	purple	pink	green	plain
+16	tall	round	thin	small size	small
+17	varies in color	varies in shape	varied shapes	unique shapes	varies by animal
+18	starchy	irregular	hard	crushed	wrinkled	feathery	twigs	fuzzy	lumpy	rocky	rough	grassy	dull	pale	curled	woolly
+19	reddish-brown	greenish-brown	grayish-black	silver-gray color	dark brown	dark green	greenish-black	brown or purple skin	greenish-brown color	golden brown	light brown color	grayish-white	grayish-brown	grayish	golden yellow	yellowish-brown
+20	brilliant	fresh	reflective	attractive	unappealing	ornate	ornate exterior	eye-catching	delicate	intricate patterns	intricate	unique appearance
+21	colored	color	uniform	long	printed	light color	painted	striped	solid	bright colors	colorful	size
+22	thick, starchy skin	small grains	small and round	small black grains
+23	white or purple interior	pearly	symmetrical	shiny finish	segmented	opaque	texture	matte	solid	smooth texture	varnished	curved	textured	pore-like	natural	grainy	patterned	smooth
+24	short-grained	long-grained	small-grained	long grain	hull-less
+25	leaves	small white flowers	leafy	green leaves	thick leaves	long fins	waxy leaves
+26	grain pattern	seeds	straight	dried	grain	tall grass	grains	grained	fine	bark
+27	fibrous	granular	powdery	powdered	powder	soft and fuzzy	yellowish color	powdery texture
+28	shrubs	straight trunk	thorny skin	underground stem	thorny stems	tall stalks	thorny	thorny stem	long stalk
+29	long pods	greenish-black pods	small pods	small green pods	brown seeds
+30	oval	oval-shaped	bean-shaped	bean-like	white or purple flesh	ovate	heart-shaped
+31	silvery	metallic	silver	golden color	golden	scaly	pale color	pale yellow	translucent	waxy	off-white	sparkly	iridescent	scales	shiny	sparkling
+32	liquid at room temperature	colorless	liquid	clear liquid	colorless liquid
+33	bearing	transmission	gear	engine	machine
+34	industrial use	industry	industrial application	industrial machinery	drainage	industrial equipment	household use	industrial applications	vehicle	industrial
+35	crafting	jewelry	saving money	education	topical	painting	drafting	carpeting	crafting toys	toy making	crafts	budgeting	bags
+36	industrial products	dental care products	industrial	industrial machinery	coatings	industrial manufacturing	industrial equipment	making products	scientific instruments	consumer goods	coating	industrial materials
+37	construction	fashion	building bridges	energy	technology	building	industry	taxation	paper industry	marine	engineering
+38	furniture	packaging industry	container	packaging	water pipes
+39	aviation	aerospace	airplanes	toy industry	aircraft	composites	aerospace industry	marine industry
+40	automotive parts	medical	electronics	marine	bicycles	automotive	brakes	transportation	cars	making cars
+41	pharmaceuticals	medical products	food industry	pharmaceutical	energy generation	pharmaceutical use	in pharmaceutical industry	medical	medical applications	electronics
+42	water filtration	water purification	water treatment
+43	fda	ema	approved by fda	fda approved	clinical trials	patented	clinically tested	fda approval
+44	property	player	house	car
+45	birthstone	zodiac sign
+46	vacation	luxury	beach	summer
+47	fur	pelts	pelt
+48	features different designs	has anti-counterfeiting measures	have security features	made of paper	made of paper and polymer
+49	features of ancient afghan landmarks	features of afghan presidents	features japanese historical figures
+50	market	social	affecting investment	influencing	influencing consumer behavior	schooling	influences business decisions	aggressive	playing	influenced
+51	nocturnal	nomadic	independent	consumptive	curious
+52	plays with water	swims actively	swims slowly	swims quickly
+53	energy-efficient	cost-effective	environmentally friendly
+54	improve fuel efficiency	improves fuel efficiency
+55	increased efficiency	improves efficiency	extends equipment life	increases productivity	increases efficiency
+56	reduces waste	reduced waste	increased sustainability	reduced carbon footprint	reduces noise	reduced maintenance
+57	anti-inflammatory
+58	antioxidant	anti-oxidation	antioxidant properties	antioxidants	antihistamine
+59	sustainable	soft	carbon neutral	healthy
+60	healing acne	healing	wound healing	soothing	promoting wound healing	wound care	wound protection	healing burns	burn care
+61	boosting immune system	boosts immune system	boosting immunity	extends lifespan	energy	healthy fats
+62	cell division	radioactive decay	meiosis	mitosis	cell differentiation
+63	womb	kidney	ear	head	hand	liver	neck	penis
+64	antlers	hooves	shed and regrown	horns
+65	pepsi	red bull	sprite	nestea	fanta	starbucks	coca-cola	chanel	lipton	tropicana	dior
+66	proprietary	reliable brand	well-known	well-known brand	familiar	reputable	famous	famous brand
+67	lg	thermador	kitchenaid	whirlpool	ge	samsung	bosch	general electric	maytag
+68	local	natural	organic	artificial	local brand	non-organic brand	organic brand
+69	mobil	castrol	chevron	valvoline	calvin klein
+70	coconut oil	olive oil	sunflower oil
+71	livestock	show cattle	dairy herd	agriculture	ruminant	beef	dairy	milk production	beef and dairy	cattle	dual-purpose	dairy breed	smaller than holstein
+72	heritage	british	indigenous	herdbook	herd book
+73	difficult to breed	easy	easily breedable	difficult	rare	easy to breed
+74	breeding	artificial insemination	crossbred	naturally	hybrid	breeding process	cross-breeding	artificially
+75	retail	production	online	supermarket	online sales	wholesale
+76	shea oil	shea powder	shea butter
+77	corn oil	producing palm oil	palm kernel meal	palm kernel oil	palm meal	palm oil
+78	ethanol	sugar	tailings	gas	water
+79	inferential	statistical	mathematical	accounting
+80	placing in vase
+81	polishing	fertilizing	trimming	watering	avoid overcrowding	pruning
+82	avoid drafts	sunlight	water
+83	medium	acidic	hard	easy	difficult
+84	regular feeding	proper temperature	require regular water changes	water changes	changing water	proper water temperature	water quality	water temperature	require specific water conditions	regular water changes
+85	difficulty level	need proper diet	feeding schedule	housing	diet	temperature control
+86	developing	developed	growing
+87	sweet	fresh	fruits	fruit	tropical fruit	exotic fruit
+88	electronic device	device	gadget	electronic	electronic devices	electrical device
+89	plant	poisonous	flowering plant	flower	living thing	bird	seed	grass	nature	tree	botanical	leaf	floral
+90	bell pepper	root vegetable	vegetables	vegetable	root crop
+91	industrial material	sustainable material	building material	construction material	industrial materials	craft material	industrial raw material
+92	essential oil	aroma	herbal medicine	aromatic	aromatic plant	herb
+93	carbohydrates	complex carbohydrates	carbohydrate-rich	carb source	healthy food	carbohydrate	carbohydrate source	starchy food	carbohydrate-rich food
+94	plant product	crops	farm product	agricultural product	natural resource	farm produce	forest product	agriculture	agricultural crop
+95	cereal grain	soft white kernel	cereal crop
+96	nut	tree nut	nuts	edible nut
+97	spice	condiment	cosmetic ingredient	culinary ingredient	seasoning	edible	ingredient	kitchen ingredient
+98	consumer	consumer good	merchandise	consumer product	consumer goods	consumable	healthcare product
+99	food source	protein source	protein-rich food	food group	protein	vegetarian protein source
+100	jewelry	art supplies	furniture	clothing
+101	plant-based	plant-based protein	plant-based food	gluten-free	healthy
+102	mineral	gemstone	precious stone
+103	chemical	substance	chemicals
+104	fragrance	cologne	scent	perfume
+105	exotic	juicy	wildlife	tropical	unique
+106	liquid fuel	mineral oil	jet fuel	petroleum product	energy source	fuel	distillate fuel
+107	food	sour	breakfast	tart	sweet	dinner	beverage	dessert	drink	refreshment	sweet treat	breakfast food	spicy	meal	holiday food	snack	healthy snack	confectionery
+108	butter	yogurt	chocolate source	dairy	milk	lactose-containing	dairy product	milk product	grocery	cheese	cereal
+109	generic	medication	drugs	prescription	medications	drug	treatment
+110	dried	dried fruits	dried goods	dried fruit
+111	industry	industrial	mechanical	construction	manufacturing	electrical	industrial goods	industrial equipment
+112	farm animal	large animal	large mammal	mammal	large	ungulate	wild animal	domesticated animal
+113	cooking equipment	household	kitchen	home appliance	kitchen appliance	kitchen equipment
+114	health supplement	cosmetics	personal care	beauty product	cosmetic	beauty
+115	asset	crop	lumber	product	paper	gift	therapy	digital product	liability	resource	application	equipment	developed	accessory	prepared	paper product	expense	home	goods	item
+116	economy	credit	revenue	commodity	business	financial
+117	thanksgiving
+118	christmas	easter
+119	api	api certification
+120	environmentally friendly	regulatory compliance	certified organic	osha compliant	industry standards	quality control	regulatory guidelines	safety standards
+121	iso	iso certification	iso certified
+122	uscg	usp
+123	poverty	corruption	drought	pests	unemployment	climate change	inequality
+124	soft	smooth	fluffy	softness
+125	easy to work	easy to carve	easy to shape
+126	eco-friendly	sustainable	environmentally friendly	evergreen
+127	durable	hardy	stable	durability	durable materials	good grip
+128	moderate	high milk production	good milk production	high
+129	germination rate	tropical	drought resistance	good forager	fragrant flowers	ornamental	drought-resistant	drought-tolerant	heat-tolerant	drought tolerance	heat tolerance	genetically modified
+130	rigid	valuable	dynamic	flexible	pliable	versatile	expensive	adaptable	productive	supple	most popular	customizable	unstable	emerging	interconnected	specialized	volatile	protective	thin	unique	fading	responsive	innovative	persistent	competitive	fibrous
+131	toxic	brittle	palatable	resilient	brilliance	healthy	fragile	slippery	brilliant	tough	luster	adhesive	fragrant	thorny
+132	descriptive	dependent	decays	public	independent	variable	private
+133	non-unique	neutral	non-linear	non-unique identifies	uniquely identifies	non-nullable
+134	elastic	elasticity	stretchy	stretchiness	elastomeric
+135	profit-oriented	generates income	generates revenue	high demand	provides services	employs people	highest revenue	used for multiple periods	financial
+136	high-quality	high-quality meat	nutrient-rich	long-lasting	intoxicating	built to last	short-lasting	high-tech	high-yielding	top priority
+137	non-toxic	non-invasive	non-consumable	non-reactive	irreproducible	non-irritating	non-organic	non-dairy	self-replicating	edible
+138	highly fragrant	has flavor	has fragrance	strong scent	distinctive smell	bright colors	fragrant	strong odor
+139	time-consuming	costly	labor-intensive	capital intensive	highly skilled workforce	labor intensive	agricultural
+140	fire	industrialized	infrastructure	globalization	agricultural	access to education	productivity	industrialization	industrial	market leader	trade	pores	urbanization	post-industrial	urbanized
+141	non-profit	agriculture-based	service-based	service-oriented	monopolistic
+142	has roots	has peel	has seeds	has pit	has thorns	grows	has edible parts	reproduces	broad crown	can reproduce	can grow
+143	coarse	fine	taste
+144	fleshy interior	rich	crunchy	juicy	crisp	fresh	juicy juice	exotic	iridescent
+145	sweet	sparkle	dry	warm	warmth	pleasant	cool
+146	high tensile strength	high strength-to-weight ratio
+147	bulk	treated	organic	dried	traditional	indexed	processed	packaged	regulated	grown	raised
+148	high in fiber	rich in nutrients	low in fiber	rich in protein	high water content	nutritious	high in protein	high standard of living
+149	portable	light	lightweight	tall	large	small size	color	heavy	flawless	wooden	natural	easy to work with	fast growth rate	colorful	thick	low weight	recyclable
+150	uniform composition	fine grain	fine texture
+151	not consumed	dependent on context	can be pure or impure	dependent on	variable
+152	contains sulfur	sulfide	sulfur	contains lead sulfide	carbonate
+153	contains flavonoids	sesquiterpenes	rich in flavonoids	high in flavonoids	flavonoids	high in tannins	phenolic compounds	contains alkaloids
+154	contains theobromine	contains cathinone	source of caffeine	contains caffeine	piperine	caffeine
+155	zinc gluconate	zinc sulfate	zinc oxide	magnetite	zinc sulfide	iron carbonate	lead sulfide	copper oxide	copper sulfide	lead oxide
+156	silica	oxide	silicate minerals	silicate	iron silicate	contains silica
+157	carbohydrates	contains fiber	made of complex carbohydrates	complex carbohydrates	made of starch	plants that store starch	complex carbohydrate	starchy	starch
+158	iron	silicon	nickel	lead	copper	galena	pb
+159	forms oxide layer	reactive with acids	reacts with metals	reactive with oxygen	oxidizable	can be highly reactive	highly reactive	reacts with bases
+160	acidic	weak acid	strong acid	weakly acidic
+161	corrosive	toxic	poisonous	toxic substance
+162	highly conductive	good conductor of heat	good conductor
+163	non-conductive	non-biodegradable	non-polar	non-magnetic	low	non-reactive	non-flammable
+164	dissolves in water	water-soluble	insoluble	amphoteric	insoluble in water
+165	formula	compound	molecule
+166	h3po4	trihydrogen phosphate	po4	hp(o)(oh)2	phosphate group
+167	transactions in germany	germany	germany and austria
+168	rarely used	accepted globally	widely used	widespread	widely used in germany	no longer used	sen is no longer used
+169	limited	restricted	exclusive
+170	italy	world	europe
+171	primary	tertiary	quaternary	secondary
+172	underdeveloped	developing	least developed	developed	industrialized
+173	schedule ii	schedule i	schedule iii
+174	fixed asset	productive asset	tangible asset
+175	glue	twist tie	zipper
+176	red	fawn	black	brown	reddish-brown	golden	cream	white	gold	coat color
+177	denominations of 1p, 2p, 5p, 10p, 20p, 50p, 1 pound	available in denominations of 1p, 2p, 5p, 10p, 20p, 50p, £1, £2	1 pfennig, 5 pfennig, 10 pfennig, 50 pfennig, 1 mark, 2 mark, 5 mark	available in denominations of £5, £10, £20, £50
+178	£1	2p	5p	50p	20p	10p	1p
+179	brown	red	dark brown	black	green	golden	cream	blue	white	light brown	orange	greenish-black	gold	pink	yellow	purple	dark gray
+180	colorless	various	vibrant	bright colors	colorful	dyed	varies	vibrant hues	multicolored	monochromatic
+181	ripe	reddish	greenish-yellow	pale yellow	reddish-brown	pale	yellowish	greenish yellow
+182	neutrals	iridescent	greenish	off-white	neutral	beige	tan	calming	natural	clear	bright	pastel
+183	cerave	zinc oxide ointment	aquaphor
+184	poi	taro chips	taro cake
+185	omelette	chicken nuggets	chicken soup	fish sticks	egg salad
+186	heroin	opioids	cocaine
+187	walnut	hazelnut	almond	peanut
+188	salmon	canned tuna	cod	tuna
+189	lemon	mango	pineapple	papaya	passionfruit	orange	lime
+190	milk	butter	cheese	yogurt	ice cream	liquid
+191	garlic	vinegar	onion	oil
+192	supermarket	grocery store	health food store
+193	cassava	sweet potatoes	potatoes	derived from cassava	fried cassava
+194	cold and cough relief	relieving cold symptoms	treating fever	sunburn relief	cold and flu remedy	cold sore treatment
+195	africa	north america	asia	europe	central asia
+196	honey	sugar	oil	salt	meat	chocolate
+197	workshop	sports	production line	business	factory
+198	switch	label	button	box
+199	fiber	cap	fibre	fibers	bag	screen
+200	atoms	molecules
+201	fatty acids	vitamins	water	gluten	minerals	fats	sunlight
+202	sensors	semiconductors	wires	circuit board	switches	microchip	circuits	chips	transistor	circuit	wire	electronic components	components	battery
+203	biological molecule	proteins	biological	protein	single molecule	subunit
+204	mix of chemicals	synthetic compounds	has nutrients	chemical formula	mixture of chemicals	chemical composition	chemical compound	molecules	organic compounds	molecular structure	combined in a specific ratio	chemical compounds
+205	contains other metals	contains zinc	contains nickel	contains copper	containing metal	contains lead	contains iron
+206	organic	hybrid	synthetic base	synthetic	additive-rich	natural	single	blended
+207	hydrocarbon	hydrocarbons	hydrogen	hydrocarbon-based	organic solvent	oxygen	carbon	water
+208	nickel content	natural extracts	iron content	natural extract	hormone	herbal ingredient	additives	herbal remedy	herbal	natural substance	ointment
+209	essential oils	fragrant oils	fragrance oils	essential oil	fragrant oil	oleoresin
+210	petroleum-based	petroleum base	water-based	oil-based
+211	contains other minerals	mineral-rich	containing mineral	containing gas	contains lead	mineral	rich in oil
+212	volatile compounds	aromatic molecules	aromatic compounds	aromatic	aroma compounds
+213	al2o3	aluminum oxide	copper oxide	silicon dioxide	iron oxide
+214	consisting of	comprising of	made of	constituted by
+215	nerve cells	made of cells	cells	organelles	cellular	has cells	tissues
+216	cartilage	bone marrow	light	ligaments	muscle fibers	blood vessels	tendons
+217	inorganic	single compound	contains water	non-metallic	non-living	carbon-based	metamorphic rock	fixed composition	inorganic compounds	contains impurities	has carbon
+218	medium	low	high	varies
+219	aqueous solution	concentrated solution	diluted	concentrated	lower density	dilute solution
+220	skeletal system	circulatory system	digestive system	nervous system
+221	wired	plugged	wireless
+222	penalties for distribution	penalties for possession	possession illegal	penalties for trafficking
+223	new responsibility	new profit	new opportunities	new loss	new responsibilities
+224	affect on player performance	impact on team dynamics	team dynamics
+225	financial	new ownership	practical	social	emotional attachment	society	emotional	financial impact	community reaction	addiction
+226	win	losing	gaining	winning	lose	lose possession	gain
+227	domesticated	vulnerable	endangered
+228	systems	organs	tissues	cells
+229	sturdy	robust	well-built	strong
+230	drinking	mixing	eaten fresh	eating
+231	traditionally consumed in social settings	after meal	before workout	during party	on-the-go	special occasion
+232	cup	glass	bottle
+233	instructions	simple	links
+234	product	warranty	information	warranty information	accessories
+235	sports	business	personal	real estate
+236	database design	data storage	database	data modeling
+237	frying	fried	braising	grilling	baking
+238	boiling	boiled	poaching	scrambled	braising	grilling	grilled	poached	baked	baking	casseroles
+239	affordable	budget-friendly	low	cost-effective	inexpensive
+240	worth the investment	weighing cost
+241	expensive	high	customizable	investment	costly	medium	reasonable	cheap
+242	global	national	local
+243	italy	belgium	portugal	austria	finland	slovenia	spain	czech republic	greece	germany	france	luxembourg	estonia	slovakia	latvia	malta	ireland	lithuania	netherlands
+244	italy	united kingdom	france	tajikistan	japan	uk	usa
+245	france	italy	afghanistan	germany	european union
+246	manual	carved	traditional	time-consuming	skilled labor	skillful	crafted
+247	woven	embroidered	weaving	painting	embroidery	carving
+248	intricate	craftsmanship	skilled labor	time-consuming	unique	artisanal	handmade	manual process
+249	inflation rate	gdp per capita	gdp	per capita income	income	life expectancy
+250	rice	wheat	soybeans	corn	maize	cash crops
+251	russian	japanese	scandinavian	latin american	middle eastern	greek	indian	mediterranean	african	middle eastern cuisine	middle eastern food	southeast asian
+252	fried cassava	yam fries	french fries	baked potatoes	edamame
+253	important in hawaiian cuisine	traditional food in hawaii	used in various dishes	important in many cuisines	used in japanese cuisine	important in pacific island cuisine
+254	cooked	roasted	topping	currying	stewing	appetizer	raw	roasting	baked	fried	grilling	stew	fry	stuffed
+255	as garnish	as snack	used in salads	used in soups	sliced	savory dishes	eaten fresh or used in recipes	used in smoothies
+256	baking	raw	cooked	as ingredient	sweet dishes	baked goods	making gluten-free products
+257	human consumption	animal consumption	tea industry	oil production	home garden	oil	food	botanical garden	animal feed
+258	rice field	rice plant	rice mill
+259	grown in europe	tropical asia	mainly in asia	asia	india	china	common in africa
+260	greenhouse	fields	grown in gardens	botanical garden	garden	soil	farm	gardens	home garden	farms
+261	harvested by hand	harvested by machine	machine harvested	hand harvested	hand-picked	manual harvesting
+262	farmed	farmland	cultivated	garden	orchard	agricultural production	agriculture	farm	field	crop	agricultural	plantation	grown	farming
+263	needs proper irrigation	requires less water	irrigation required	in fields with irrigation	requires adequate water	requiring water	requires pesticides	needs adequate water	requires investment	requires irrigation	requires rainfall	dependent on weather	requires adequate rainfall	irrigation	requiring irrigation
+264	irrigated	rain-fed	rainfed	irrigated land
+265	common in certain regions	cool climates	grown in cooler climates	in cool climates	growing in different climates	can be grown organically	grown on tea plantations	grown in many countries	grown in warm weather	grasslands	grown in cool climates
+266	harvested in specific months	harvested in autumn	harvested in fall
+267	seeding	blooms	ground	harvesting	tree	bloom	meadow	watered	transplanting	harvested	machine harvesting	planting	phased out
+268	dry regions	low water requirement	requires hot and dry climate	dry climate	requires dry climate	grown in dry areas	dry areas	dry land	tropical climate	requiring warm climate
+269	grown on almond trees	growing on pecan trees	grown on pecan trees	dried from green peppercorns
+270	less pesticides	pesticides	pesticide use	palm oil	pesticide	pesticide dependent	pest management	pesticide-free	pest resistance	important crop in brazil
+271	used for meat	yes	important	ancient	domesticated	widespread	farmed	used for milk	since ancient times	5000 years ago	some cultivated	often genetically modified	cultivated	draft animal
+272	weather dependent	requires specific soil conditions	requires warm climate	requires long growing season	requiring careful handling	soil dependent	needs regular watering	requiring specific climate	requires specific climate	requires specific climate conditions	requires water and sunlight
+273	traditional farming	sustainable agriculture	organic farming	sustainable forestry	vine	sustainable harvesting	wetland	animal welfare	sustainable sourcing	agroforestry	sustainable	plant-based	pasture-based	traditional	rainforest	organic
+274	small-scale farming	small-scale	small scale farming	small scale
+275	grown on a plant	growing in fields	grown in fields	grown in gardens	grows in rows	grown for oil production	common in tropical forests	grown in plantations	grown for food	managed forest
+276	tropical regions	grows in tropical regions	mainly harvested from wild trees	grown in tropical regions	growing in warm climates	grown in tropical areas	native to tropical forests	harvested from wild trees	tropical region	grown in tropical climates	grown in warm climates
+277	fertilizers	fertilizer	fertilized	soil	fertilizing	soil fertilizer
+278	ancient crop	cultivated for medicinal use	cultivated for centuries	ancient food source	thousand years	grown for centuries	cultivated for timber	traditional crop
+279	can be drought-tolerant	heat-tolerant	drought-tolerant	drought resistant	drought-resistant	pest-resistant	heat-resistant	easy to grow
+280	monsoon-dependent	energy-intensive	water-intensive	water-intensive crop
+281	growing in wild	wildly grown	natural	grown in wild	wild	native	wild harvesting	wild harvested
+282	seasonal	cool-season	cold weather	cool season	cool weather	growing season	cool season crop	annual
+283	dried naturally	dry	processed	chewed or smoked	powdered	drying	dried	climbing	distributors	placement
+284	grown on palm tree	grown in shade	harvested from tree	grown from cotton plant	processed from fruit	grown on palm trees	grown underground	grown on trees	tree grown	growing on vine	tree-borne	grown on mulberry tree	grown on almond tree	grown on pepper plant	tree-grown
+285	growing in wetland	paddy fields	grown in wetlands	growing in paddy fields	grown in paddy fields
+286	wild harvested	harvested	planted	farmed	cultivated	wild	cultivation
+287	irrigation	water requirements
+288	heritage	symbolic	ritual use	symbol of hospitality	emotive	traditional
+289	important in middle eastern culture	mediterranean region	traditional in mediterranean cuisine	traditional dish in mediterranean cuisine	popular in middle eastern cuisine	used in traditional dishes
+290	luxury food	traditional food	artisanal
+291	traditional food in china	indian wedding	russian tradition	rituals	chinese medicine	middle eastern hospitality	wedding ceremonies	traditional medicine	japanese tea	japanese cuisine
+292	tajikistan businesses	denominated in tajikistani somoni	tajikistan	used in tajikistan	national currency of tajikistan	official currency of tajikistan	used in japan
+293	official currency of the european union	official currency of italy	eurozone	used in germany	official currency of the united kingdom	single currency of eu	official currency of the uk	official currency of germany	official currency of japan
+294	national currency	national	official currency	international currency	monetary unit	circulating currency
+295	replaced by euro	replaced by the euro	now replaced by euro	the euro as official currency	former	no longer in use	replaced the ecu
+296	before euro introduction	pre-euro era	pre-euro currency	pre-euro
+297	former official currency of italy	former currency of france	formerly used in germany	old german currency	used in germany until 1999	formerly used in france	former currency of germany	former currency of italy
+298	used in 19 countries	used until 1999	used by 19 countries	used in many european countries
+299	used for international transactions	used in international transactions	used in tourism	used as a reserve currency	valuable for international transactions	traded globally	used for transactions	used in international trade	widely accepted as a foreign currency
+300	deutsche mark	united kingdom	uk currency	yen	pound sterling	sterling	pound
+301	gbp	dollar	eur	usd	euro	jpy
+302	afghanistan's national currency	afghanistan's exchange rate with other countries	afghanistan's currency denominations	afghanistan's official currency	official currency of afghanistan	afn symbol	afghanistan's currency symbol	national currency of afghanistan	replaced the afghan rupee	afghanistan's economy	afghanistan
+303	denominated in jpy	denominated in tjs	denominated in pounds sterling	denominated in deutsche mark	denominated in lire	denominated in euros
+304	decomposable	breaks down	decomposes
+305	combination of two or more elements	made up of multiple elements	made of two or more elements	two or more elements	made up of two or more elements	not a single element
+306	cannot be broken down into simpler substances	cannot be separated by physical methods	can be broken down into simpler substances	cannot be separated by physical means	can't be broken down into simpler substances	can't be broken down
+307	a substance composed of two or more different elements	non-mixture of two or more elements	mix of two or more elements	mixture of two or more elements
+308	property that describes an object's relationship with another object	property that describes a relationship	property of a relation	property that describes relationship between entities	property of an object	attribute that connects tables	property that describes relationship	describes a relationship	attribute that links two entities	property that depends on another property	attribute that is dependent on another attribute	property that describes a relationship between entities	describes its relationship
+309	subject to quality control	regulated by government	unregulated	government regulations	regulated by law	substance regulated by government	regulated	government regulation
+310	asset	auction	equipment	investment
+311	well-made	primary offering	restricted use	first product	main product	long-lasting asset	flagship product	machine	primary product	product with the highest revenue	has potential for abuse	top-selling item	best-selling product	product with highest sales	prescription medication
+312	1, 2, 5, 10, 20, 50, 100, 500, 1000 afn	1, 2, 5, 10, 20, 50, 100 afghanis
+313	5 lire	100 lire	1 centesimo
+314	50 pounds	20 pounds	5 pounds	£2	£100	£50	10 pounds	1 pound	£1	£5	£10	2 pounds	£20
+315	1, 5, 10, 50, 100, 500, 1,000	1, 2, 5, 10, 20, 50, 100	1, 2, 5, 10, 50, 100	denominations of 5, 10, 20, 50 pounds	1, 2, 5, 10, 50, 100, 500, 1000	100, 200, 500	1, 2, 5, 10, 20, 50, 100, 200	dm 5, dm 10, dm 20, dm 50, dm 100	1, 2, 5, 10, 50, 100, 500, 1000, 5000	1, 2, 5, 10, 20, 50, 100, 500	1, 5, 10, 50, 100, 500, 1000	1, 5, 10, 20, 50, 100	1, 5, 10, 20, 50, 100, 500
+316	100	1	5	20	10	1,000	medium	5000	2	50	200	500	1000
+317	20p	10p	5p	2p	1p	100 pence	50p
+318	small	bills	coins	bills and coins	banknotes	used for denominations	fractional	notes	notes and coins	denomination	large
+319	5 euro	2 euros	1 euro	500 euro	10 euro	100 euro	200 euro	20 euro	50 euros	50 euro
+320	50 cent	5 cents	10 cents	20 cents	50 cents	5 cent	2 cents	1 cent	10 cent	made of copper, nickel, or gold-plated nickel
+321	50	100	1000	5000	10	5	1	500	values ranging from 0.01 to 500
+322	in various denominations	various denominations
+323	100 yen	5000 yen	50 yen	5 yen	500 yen	available in denominations of 1, 5, 10, 50, 100, and 500 jpy	available in denominations of 1,000 to 10,000 jpy	1 yen	10 yen	1000 yen
+324	100, 500, 1,000, 5,000	100, 500, 1000	100, 500, 1000, 5000	1, 2, 5, 10, 50, 100, 500, 1000, 5000, 10000	1,000, 2,000	100, 500, 1,000, 5,000, 10,000	500, 1000, 5000	1,000, 2,000, 5,000
+325	500 afghani	1 somoni = 100 diram	500 afghanis	100 afghani	100 afghanis	1000 afghani	1000 afghanis
+326	made of metal	banknotes and coins	coins and banknotes	banknotes	features different designs	available in coins and banknotes
+327	very low	low	lightweight	medium
+328	typically 0.5-1 mm	0.1-0.2 g/cm3	-40 to 250°f	0.5-0.7 g/cm3	typically 0.5-1.5 mm	typically 1-5%
+329	tree leaves	seeds	tree trunk	flowers	leaves
+330	attractive	innovative	planned	designed	engineered	attractive design	customizable
+331	functional	utilitarian	minimalist
+332	user interface	ergonomics
+333	developed through growth	aging	grow	growth	leadership	development	maturation	management	wither
+334	embryogenesis	embryonic stage	embryo	fetal development	formed during embryogenesis	develops through growth and differentiation	forms during embryonic development	embryology
+335	fetal development	adolescence	infancy
+336	herbivore	plant-eater	carnivore	meat-eater	carnivorous	omnivore	omnivorous	insectivore	herbivorous	aquatic plants	seed-eater
+337	grass	pellets	water	live food	waste	insect	flakes	insects	plants	grain	seed	live foods	meat	grasses	leaves
+338	consumer good	consumable	perishable good	perishable	consumable good	intangible good	durable good	different from consumption good	non-durable good
+339	different from consumer goods	used to produce other goods	not consumed directly
+340	from one team to another	from one player to another	from one person to another	from one owner to another
+341	warehouses	prone to decay	expensive	limited production	coarse texture	limited availability
+342	turkey sandwich	turkey dinner	starchy soup	turkey soup	fish soup
+343	sticky	gluten-free	glutinous
+344	online store	online	online market	wholesale market	online shopping	directly to consumers	retail stores
+345	available over the counter	prescription only	available by prescription	requires prescription	by doctor's order	pharmacy	administered by healthcare professional
+346	trafficking	illicit	licensed	illicit production	black market	illicit drug	illegally sold
+347	regulated	regulated sale	monitored	air freight
+348	divisible	non-divisible	not divisible
+349	topical	injectable	oral	ointment	oral liquid
+350	dried potato	potato flakes	bread crumbs	tapioca starch	potato chips	dried kernels	dried potato flakes
+351	fresh	fresh for days	fresh for a few days	fresh for weeks
+352	all day	long	short
+353	livelihood	income	valuable	revenue	monetary value
+354	exported globally	valuable resource	significant export commodity	major crop in many countries	significant	increased meat yield	important for food security
+355	oil	fruit pulp	kernel	seeds	syrup	sweet sap	no	yes	juice	rind	sugar	pods
+356	hallucinogenic	habit-forming	addictive	stimulant	harmful	intoxicating
+357	increases alertness	produces euphoria	euphoric	induces hallucinations	increases energy	mood elevator	induces euphoria
+358	therapeutic	relaxing	protective	stimulating	anxiolytic	stimulates
+359	skilled labor	unskilled labor	managerial
+360	many	few	hundreds
+361	gas	water	natural gas	energy source	oil
+362	teams	players	individuals	companies	player
+363	wild	farm	water	air	garden	desert	forest
+364	soil	water	temperature	sunlight
+365	biodegradable	biodegradable material	carbon neutral	toxic	recyclable	non-biodegradable	non-flammable
+366	contributes to climate change	contributes to air pollution	harmful to aquatic life	may cause environmental pollution	pollutes soil and water	environmental pollution	chemical contamination	can pollute water	pollutes air and water	can contaminate soil
+367	high	yes	low	negligible	moderately effective	medium	neutral
+368	climate change	soil erosion	carbon footprint	endangered species	emitting carbon	water conservation	reducing carbon	deforestation	environmental pollution	pollution	carbon sequestration	water pollution	air pollution	water usage	emission	hazardous waste	food security	toxic waste
+369	east germany	historical	german reunification	west germany	used during german reunification
+370	relaxing	calming
+371	education	evaluating quality	human capital	market demand	business goals	customer preferences
+372	game	sale	trade
+373	player traded to another team
+374	product code	product id
+375	phone number	employee id	order number	social security number	customer id	order id
+376	company acquired by another firm	company acquired by another company
+377	age of a person	age depends on birthdate	salary	salary of an employee
+378	soybean	canola	alfalfa
+379	machine	equipment	factory	laptop	tractor	computer	vehicle	machine tool
+380	inflation rate	unemployment rate	interest rate
+381	house sold to another person	buying a house	giving a gift	gift given to a friend	selling a car
+382	ammonia	table salt (nacl)	water (h2o)
+383	rose	cow	deer	elephant	antelope	horse
+384	microbe	fungi	fungus	microorganisms
+385	tropical	appliance	plants	technology	tree	organism	equipment	plant
+386	mlb trade deadline	soccer transfer window	trade deadline	nfl draft
+387	pound	dollar	euro	yen
+388	animal	animals
+389	sunflower	sunflower seed	yellow flowers
+390	salt
+391	construction	furniture	finance	healthcare	factory	building
+392	alfalfa	type of grass	timothy grass	ryegrass
+393	car	marijuana	potato	carrot
+394	water	air	table salt	bike	sugar
+395	1 euro = 1,936.27 lire	1 lira = 0.00058 euros	1 usd = 1.8 dm	1 dm = 0.88 usd	1:1 with euro
+396	pegged to the us dollar	fixed rate with the deutsche mark	formerly pegged to the us dollar	fixed to us dollar	us dollar	fixed to the us dollar	pegged to us dollar	fixed rate with us dollar	not pegged to any currency	pegged to the russian ruble	non-convertible
+397	dependent on economy	height depends on weight	supply and demand	dependent on country	interest rate	not fixed	dependent on economic conditions	varies with market conditions	dependent on market	subject to market fluctuations	dependent on market forces
+398	floating	floating rate	floating exchange rate	fixed	fixed exchange rate	fixed rate	floated
+399	euro introduction	floated after 1999	fixed against other currencies in the european union	used in eurozone	floated after euro introduction	floated after the euro introduction
+400	convertible to euros	convertible to us dollar	convertible to euro	convertible to eur	convertible to usd	convertible to us dollars
+401	exchange rate	compared to us dollar	compared to eur	against euro	compared to usd	against dollar	compared to euro
+402	fluctuating against other currencies	fluctuating rate with other currencies	fluctuates against other currencies	fluctuates with global markets	compared to other currencies	convertible to other currencies	variable against other currencies	traded against other currencies	fixed against other japanese currencies
+403	convertible	variable	rate changed over time	exchangeable	fluctuates	fluctuating	fluctuating exchange rate	exchange rate fluctuates
+404	varied against other currencies	varies with other currencies	varied with us dollar	varies against other currencies	varied	varies against major currencies	varied over time	varied with euro conversion	varied with other currencies
+405	short	has a long lifespan	10-15 years	long	long-lasting	extended lifespan	medium
+406	underground mining	digging	drilling	underground
+407	extracted through electrolysis	electroplating	electrolysis	photovoltaic conversion	oxidation
+408	open-pit mining	open-pit	open pit mining
+409	mining	crushing
+410	smelting	blast furnace process	iron smelting	smelted	metallurgy
+411	refining	extracted	refinery	expelling	refined	mechanized	mined	processed	filtered
+412	infrastructure	institutional framework	corporate tax	natural resources	weather	education	healthcare
+413	diseases	investment	disease	pests
+414	soil	soil quality	soil conservation	pests	weather
+415	lemon	orange	lime
+416	commercial	organic farming	organic	subsistence
+417	white	brown
+418	portability	wireless	fixed	connectivity
+419	seeds	stovetop	burners	dishwasher	multiple burners	oven	grills	stove	ovens	microwave	smart	grill
+420	waterproofing	waterproof	temperature control	durable construction	stainless steel surface	timer	quiet
+421	new design	improved performance	increased efficiency	automatic	advanced technology	advanced features	delay start
+422	delicacy	seafood	shellfish	starter	aquatic food
+423	making caviar	sturgeon	caviar	fish eggs
+424	injectable	capsule	pill	board	bills	sticks	supplement	coins	hard shell	lozenge	injection	canned
+425	block	solid
+426	granules	gel	fillets	flakes	physical	fresh	frozen	crystal	dried	paperboard	pulp	spray	cream	slices	ground
+427	electronic	digital
+428	written	documented	verbal	verbal agreement
+429	bonding between elements	combining elements	chemical reaction	synthesis	chemical combination	through chemical reactions	elements	natural process
+430	paste	logs	meat	log	sheet	wire	whole	lumber	diesel	pellet	bean	beans
+431	lubricant	grease	wheel	lump	meal	block	flour	plumbate	lubricants	concentrate	ingot
+432	compound	gas	metallic	metal	liquid	oxide
+433	powder
+434	kerosene	gasoline	jet fuel	oil	petrol	gas oil	diesel	gasoline pump
+435	florist	home	office	market	wild	who	sea	cool	factory	river	store
+436	ocean	desert	soil	river	oceans	air	lake	forest	water
+437	strong	heady	alluring	persistent	fragrant
+438	rare	one-time	daily	occasional	regular	monthly	temporary	infrequent	common
+439	occasional	occasionally	daily	rare	rarely	casual gathering	special event	special occasion	regularly	regular
+440	moves body	moves	cools	transports	dries	heats	washes
+441	preserving	repairing	regulating	conductor	maintaining	self-sustaining	regulation	distinguishing	breaks down	attracting	regulates
+442	structural	medicines	ornamental	decoration	supports body	ornament	strong	decorating	expressing style	decorative
+443	emotional	communicative	sensation	communication	sensory perception	communicates	transmission	sensory feedback
+444	reduces friction	reducing friction	reduce friction
+445	used as food source	food source	building material	used for food	wildlife habitat
+446	heating	crafting	charging	packaging	filtering	covering body	lighting	thermal	washing	cleansing	carpet	manufacturing	building	curing	cooling	cleaning	production aid	ventilation	refrigerating
+447	sun protection	protecting skin	skin protection	sunscreen
+448	provides oxygen	produces oxygen	oxygen producer	transports oxygen
+449	tool	practical	flexible	sustainable	convenience	pleasing	efficient	attractive	effective	convenient
+450	soil erosion prevention	soil erosion control	soil stabilizer
+451	helps plant grow	cools food	produces heat	washes clothes	purifies air	heats food	entertains	converts energy	purifies water	dries dishes
+452	serves a specific purpose	provides a benefit	has a specific use	contains instructions	performs a task	performs well	serves a purpose	performs a specific task	provides a service
+453	zip	for insulation	create ambiance	container	labels product	equipment	connecting	transport	powers	food	store of value	storage	toys	store value	store
+454	jewelry	furniture making	furniture	bedding	clothing
+455	circulation	measure value	production	powering	hair growth	charges	pregnancy	propagation	feed	distribution	construction	growth	consumption	germination	renewable	satisfaction	supports	curtain	filters	movement
+456	prevents infections	prevent disease	prevents infection	prevents illness	prevents disease
+457	identifies a record	links records	links tables together	contains product	links tables
+458	medium of exchange	facilitate trade	selling	used as a medium of exchange	unit of account	buying	trading
+459	support	protective layer	protection	comfort	protect	protective	nourishment	preservation	for protection	protects	windbreak
+460	prevents corrosion	prevent corrosion	corrosion protection	for waterproofing
+461	temperature regulation	regulates body	regulating body temperature	maintaining posture	regulating body fluids	regulating blood pressure	regulation of body temperature	regulates environment	regulates body function	thermal regulation
+462	produces sperm	egg production	sperm production	hormone production
+463	produces flowers	producing fruit	attracts pollinators	produces seeds	produces eggs
+464	carries pregnancy	nurtures fetus	supports fertilization	to carry offspring	carries and nourishes fetus
+465	relieve symptoms	relieve nausea	relieves symptoms	relieving symptoms	relieves pain	relieving a specific symptom
+466	filters blood	pumping blood	filtering blood
+467	performs well	complex	efficient	feature-rich	user-friendly	functionally efficient	simple	has multiple features	effective
+468	calculating	processing	transmitting	firing	functional	receiving	practical
+469	cooling	grilling	heating	charging	data storage	defrosting
+470	easy to close	easy to open	convenient to carry
+471	insulating	powering	downloadable	insulation	conductive
+472	produces grain	source of milk	food production	provides shade	provides habitat	produces grains	provides nutrients	supports life	provides shelter	produces food	provides food	providing food
+473	assembly	logging	referencing	production	import	identifying	functional	exchange	stabilizer	distribution	support	gas	generator	unique	chain	anchorage	function	circulation	filtering
+474	digestion	respiration	breathing	excretion
+475	photosynthetic	photosynthesis
+476	profit	maximize profit	profit maximization	minimize cost
+477	sustainability	environmental sustainability	sustainable
+478	yield increase	innovation	innovate	growth	win	social responsibility	social impact
+479	food security	poverty reduction	food production	public good	social welfare
+480	water	soil	warmth	moisture	temperature	sunlight	waterlogged soil	underground	in soil
+481	well-drained soil	well-watered	well-watered soil	well-drained	requiring well-drained soil	well-draining soil	requires well-drained soil
+482	sunlight	requires moist soil	with sunlight	avoiding direct sunlight	requires irrigation	requires sunlight	full sun
+483	shade	warm climate	wet climate	cool weather	tropical	cool	tropical climate	cooler climate	temperate climate	dry climate	cool and moist climate	warm and humid climate	cool climate	dry soil	shaded	cooler climates	dry	warm weather
+484	near water source	adequate rainfall	adequate water	high humidity	adequate moisture	abundant water	plenty of water	moist soil	moderate water	needs adequate water	moisture
+485	grown in fields	grown from seed	grown on plants	formed through injury	grows on trees	underground	careful	grows on vines	grows on stalk	juice-rich sap	in fields	grows from seed	grown from stem	grows underground	grows from cutting	grows in soil
+486	needs sunlight	sunlight	requires water	with sunlight	water dependent	watered	needs water	warm weather	requires sunlight
+487	bushy	tree-like	climbing	short	perennial	tall	low-growing	vine-like	annual	vine	shrubby
+488	slow	fast-growing	sensitive to weather	fast	tall	slow-growing	fast growing	large trunk
+489	ocean	saltwater	rivers	lake	river	lakes	freshwater	pond
+490	farmland	grasslands	marshes	savannas	fields	grassland	garden	savannah	temperate climate	wetlands	wild	desert	forest	rice fields	tropical rainforest	wetland	meadow	tropical	farm
+491	tank	in aquarium	aquarium	freshwater	breeding tank
+492	not as hard as diamond	softer than diamonds	harder than quartz	harder than glass	9 on mohs scale	less rare than precious gemstones	less common than quartz	more common than precious stones
+493	medium	very hard	medium to high	relatively soft	semi-soft	can be scratched	7-7.5 on mohs scale	very durable
+494	harvesting	cut	cut by hand	cutting
+495	silaging	grazing	mowing
+496	health risks	can be hazardous to health	environmentally harmful	harmful to environment	environmentally hazardous
+497	toxic	cancer-causing	toxic to humans	explosion hazard	poisonous	fire hazard	toxic fumes	corrosive
+498	pregnancy complications	infections	cancer
+499	helps with weight loss	aid digestion	digestive aid	preventing constipation	pain relief	reducing blood sugar	improve mood	relieve nausea
+500	may reduce risk of heart disease	lowers cholesterol	may reduce risk of cancer	good for skin	may improve bone density	good for heart	health benefits
+501	harmful if ingested	poisonous to humans	poisonous if ingested	toxic to humans	toxic to humans and animals	neurotoxin
+502	can cause brain damage	neurological damage	organ damage	can cause organ damage
+503	infertility	infertility treatment	hormonal imbalance	fertility
+504	reproductive cancers	reproductive system disorders	reproductive tract infections	reproductive health services	reproductive rights
+505	endometriosis	polycystic ovary syndrome
+506	replaced by the euro	replaced by the euro in 1999	replaced the european currency unit	replaced by euro in 2002	officially replaced by euro in 2002
+507	introduced in 1999	used during world war ii	introduced in 1873	introduced in 1861	reformed in 1960	introduced in 1923	reformed several times	introduced in 1360
+508	progesterone	estrogen	testosterone	hormonal balance	hormone regulation
+509	small	present	short	present in both males and females	presence	curved
+510	female	male
+511	ecological damage	environmental	environment	environmental pollution	environmental impact	environmental sustainability
+512	employment	economic growth	poverty reduction	exports	influence on economy	job creation	economy	population growth	economic	income inequality
+513	influences climate	plays ecological role	plays crucial role in biological processes	plays a crucial role in production	plays role in climate
+514	industrial uses	medical uses	important in industry	industrial demand
+515	low	medium	high	critical
+516	used in various industries	critical for modern infrastructure	used in many products	essential for industrial production	used in various industrial and medical applications
+517	data retrieval	enables data retrieval	crucial for data retrieval	crucial for data querying
+518	common in nature	useful	found in nature	important	necessary
+519	low	high	middle
+520	specific disease	chronic condition	cancer	diabetes	allergy	treats hypertension	general health
+521	infant mortality rate	literacy rate	economic growth	per capita income	poverty rate	human capital	low poverty rate	infrastructure	employment rate	education level	gdp growth rate	unemployment rate	healthcare	education	life expectancy
+522	home textiles	textiles	geotextiles	textile manufacturing	paper production	textile industry	textile production
+523	battery production	automotive	construction	society of automotive engineers	healthcare	textile	furniture	aerospace
+524	tech	aerospace	pharmaceuticals	pharmaceutical industry	geology	pharmaceutical	healthcare
+525	cosmetic industry	cosmetics	cosmetic	cosmetics industry	fragrance industry	refractory industry	fashion industry
+526	fur trade	processing	toys	wood processing	lumber	paper industry	leather production	oil refining	textile industry	metallurgy	mining industry	marine	logging	modeling	food industry	chemical industry	battery manufacturing	steel production	leather industry	paper	sustainable manufacturing	home textiles	palm oil industry	paper mill	rubber industry	ceramic industry	textile	pulp and paper	forestry
+527	agriculture	farming	food processing	mining
+528	construction	business	manufacturing	furniture manufacturing	production	sales	marketing	chemical manufacturing	transportation	industrial
+529	electronics	software	electronic
+530	craft	crafting	craft industry	artisanal
+531	adhesives	abrasive	coatings	ceramics	hydraulic fluid	abrasives
+532	mining	services	service	finance
+533	affects	impacts	influences
+534	inflation	taxation	interest rates	investment	deflation	interest rate	affects inflation
+535	affected by	economy	modern	innovative	technological changes	natural disasters	technology
+536	market competition	market forces	market	market demand
+537	government policy	technology	globalization	government policies	government	market	technological advancements	regulations	natural resources
+538	chemical compounds	excipients	chemical compound	chemical	derived	active compounds
+539	zinc sulfate	zinc oxide	caffeine	zinc gluconate
+540	milk	sugar	fruit juice	water
+541	fruit	spices	grain	vegetable	herbs	meat	natural extracts	grains	metals	natural	juice	vegetables	coffee	tea extract	minerals	essential oils	herb	organic
+542	flavoring	preservatives	colors	flavorings	flavoring coffee	flavors	fragrant extracts	flavor
+543	seeds	fertilizers	pesticides	water
+544	competitive	symbiotic	has symbiotic relationships	mutualistic
+545	touchpad	touch	screen
+546	donor	account holder	merchant	payee	payer
+547	buyer	seller	government	owner	team	receiver	recipient	merchant	family	bank
+548	production	goods	maintenance	manufactured	manufacturing	labor	distribution	consumption	services
+549	capital	tables	rows	columns
+550	farmers	farm machinery	farm equipment	farm workers
+551	tjk	tjs	jpy	tjm	itl	tjs symbol	934
+552	managed by the bank of japan	by member states	bank of japan	printed by japan mint	issued by bank of japan	bank of england	by the european central bank	hm treasury	government	central banks	printed by the japanese government
+553	private institution	government
+554	royal mint	european union	central bank of japan	german central bank	central banks of the eurozone	eurozone countries	french government	bundesbank	european central bank	hm treasury	bank of england	banque de france	italian government	central bank of the uk	german federal bank	deutsche bundesbank
+555	central bank	government	national central banks	treasury
+556	japanese government	afghanistan's government	german government	afghanistan government	afghanistan
+557	national bank of tajikistan	central bank of tajikistan	afghanistan's central bank	da afghanistan bank	printed by the afghan banknote printing company	central bank of afghanistan	issued by the central bank of afghanistan
+558	germany	east germany	west germany
+559	scarce	abundant
+560	revenue growth	environmental sustainability	customer satisfaction	market share
+561	generic	contains product name	product name	brand name
+562	online	product launch event	retail	marketing campaigns	social media promotion	product development	market	marketing campaign
+563	illicit in many countries	legally allowed	illegal in many countries	banned in some countries	regulated in some countries	distribution illegal	legal in others	prohibited	strictly regulated	illicit in some countries
+564	prescription only	controlled substance	prescription required	illegal without prescription	restricted	yes	requires prescription	prescription-only
+565	regulated	illicit	illegal
+566	horses	cattle	pigs	livestock
+567	store	market	palm tree	factory	cornfield	forest	warehouse	pantry	table	hand	mines	field	home	meadow	farm	kitchen	finger	wild	ear	garden	markets	barn	office
+568	supermarket	craft store	lumber yard	fruit and vegetable stand	health food store	pharmacy	local market	home improvement store	online store	butcher shop	jewelry stores	beauty store	food store	farmers market	grocery store	fruit stand	restaurant	bakery
+569	brazil	united states	china	south africa	asia	mexico	australia	bangladesh	india
+570	regional	international	national	global	industry	forestry
+571	store	hardware store	marketplace	deposit	restaurant	market	markets	auto parts store	gas station	bank branch	store shelf	physical store	bank
+572	fields	local	internal	body	pocket	air	field	mine	hand	distributed	heart	grid	surface
+573	farm	lake	rice field	meadow	river	pasture	quarry	camping	ocean	water	factory	forest	plantation	wild	desert
+574	online	remote	various countries
+575	deposits	ore bodies	ore deposits	surface deposits	underground deposits
+576	oil well	mill	power plant	palm oil plantation	wood factory	distribution line	refinery	trade route	wind farm	open-pit mine	factories	processing plant	solar farm	rice mill	greenhouse	transmission line
+577	garden	office	warehouse	garage	battery	car	jewelry box	laundry room	living room	home	kitchen	gym	underground	greenhouse	wardrobe	bathroom	dresser
+578	found in australia	native to australia	australia	found in south africa	found in chile	found in arizona, usa	found in indonesia	found in canada	found in arizona
+579	quarries	mining sites	open-pit mines	sugarcane plantations	surface mines	refineries	surface mining	mines	mineral processing plants	copper mine	oil wells	underground mines
+580	mulberry tree	orchard	heirloom	bakery
+581	recycling facility	recycling centers	gas stations	recycling facilities
+582	head	limbs	limb	abdomen	torso	finger	lower body	neck	upper body	skin	chest	lower back
+583	construction site	mine site	near industrial site	industrial site	oil refinery
+584	north america	africa	central america	latin america	south america	central asia
+585	outdoor	urban	urban area	remote area
+586	india	australia	brazil	china
+587	can be used for years	able to withstand wear and tear	able to withstand heavy use	withstands wear and tear	resistant to wear and tear	can be repaired	lasts for years	can withstand wear and tear	can withstand heavy use	prone to wear and tear
+588	finite	high	infinite	positive	zero	low	negative
+589	professional repair	can be repaired	arranging	regular cleaning	filter replacement	periodic replacement	simple cleaning	rare replacement	annual inspection	needs periodic replacement	may need replacement	requires occasional replacement
+590	simple to repair	easy to maintain	easy	easy to clean
+591	requires upkeep	difficult	low maintenance	needs regular maintenance	requiring minimal maintenance	minimal repair	requires occasional cleaning	infrequent repair	comes with warranty	rarely needs replacement	requires minimal maintenance	requires little maintenance
+592	government	government agency	research institution	manufacturer	pharmaceutical company
+593	commercial	domestic	international	industrial	online market	retail	export	consumer	online	local	restaurant	global	consumer goods	wholesale	construction
+594	leading	dominant	market leader	competitive	monopoly
+595	low	seasonal demand	high	medium	high demand	stable
+596	premium	fresh	processed	packaged	best-in-class	high-end
+597	plastic	copper	glass	metal	steel	metals	solid	aluminum	ceramic	stainless steel
+598	hide	restricted	clear
+599	tree	wooden	clay	wood	lumber	pale wood	softwood
+600	non-synthetic	non-artificial	non-living	semi-synthetic	man-made
+601	iron	ferrous	alloy	tin	brass	coin
+602	polyester	silk	rayon	leather	textile	natural fiber	natural fibers	textiles	wool	cotton	fur	textile material	fabric
+603	strong	thickness	durable	lightweight	foam-like	soft
+604	recycled materials	recycled	recyclable	waste materials	reclaimed
+605	paper	natural	metal	fabric	coins	engineered	cardboard	plastic	glass	organic	electronic
+606	not comparable	qualitative	quantifiable	qualifiable	non-comparable
+607	total	average	amount	value	price	specific unit	cost	absolute
+608	per capita income	per capita	wage
+609	human development index	hdi	indicates standard of living	brinell hardness test	gini coefficient
+610	pound	pounds
+611	jpy	yen	euro	currency	dollar	monetary value	dollars	usd
+612	gdp	gross national income	gdp growth rate	gni
+613	purchasing power	purchasing power parity
+614	life expectancy	unemployment	inflation rate	unemployment rate	employment rate	poverty rate
+615	real value	ratio	percentage	relative	nominal value	no unit
+616	flavorful	good	tender
+617	inheritance	inherit
+618	cash	credit card	online payment	credit	bank transfer	electronic transfer
+619	online	electronic	digital	physical	wire
+620	wire transfer	catalog	credit card	banks	invoice	atms	online payment	money
+621	burning	cash	trade	auction	conversion	win	purchase
+622	organic	mechanical	chemical	heat	mechanized	traditional	conventional
+623	hydroponics	precision agriculture	mechanized farming	precision farming	traditional farming	pest control	vertical farming	organic farming	farming
+624	distillation	steam distillation	solvent extraction
+625	ground	chewing	crushing	drying	grinding	milling	whole	grounding
+626	inhaling	smoking	powdering	powder	powdered form
+627	high butterfat	high in fat content	rich in beta-carotene	high in butterfat	rich in butterfat	rich in nutrients	rich in cream	rich milk fat content	butterfat content	high butterfat content
+628	high-quality milk	improved milk production	rich milk	high-quality
+629	gift	exchange	charity
+630	swimming	gliding
+631	gallop	darting	walk	run
+632	south america	north america	brazil	central america
+633	loud	quiet	silent
+634	£2	£10	£50	£20	£5
+635	rich in fiber	good source of potassium	high in fiber	good source of vitamin d	good source of iron	rich in iron	good source of protein	good source of magnesium	good source of fiber	good source of calcium
+636	low in fat	low in calories	high in sugar	low in carbs	low in protein	high in protein	high in fat
+637	rich in magnesium	high in vitamin c	rich in vitamin	rich in vitamin c	rich in vitamin e
+638	rich in vitamins	contains minerals	provides vitamins	good source of vitamins	high in vitamins	rich in vitamins a and e	rich in nutrients	rich in minerals
+639	high in carbohydrates	rich in starch	rich in carbohydrates	high in sucrose	good source of carbohydrates	low in carbohydrates	carbohydrates
+640	protein	low in carbs	low in fat	high in calories	high in fat	medium	gluten-free	high in cholesterol	high in fiber	high in sugar	rich in fat
+641	rich in omega-3	good source of omega-3	high in omega-3	nutritious
+642	contains antioxidants	high in antioxidants	antioxidant properties	rich in antioxidants	good source of antioxidants	rich in isoflavones	high in flavonoids
+643	good source of healthy fats	high in healthy fats	high in unsaturated fats	rich in healthy fats	rich in fatty acids	high in unsaturated fat
+644	rich in fiber	high in magnesium	rich in protein	high in protein	rich in iron	protein-rich	good source of protein	rich in selenium	rich in magnesium	high protein	rich in calcium	high	high in calcium
+645	good source of iron	good source of fiber	good source of b12	good source of vitamin c	good source of vitamin	good source of b vitamins	good source of magnesium	rich in vitamin e	good source of isoflavones	fibre	good source of vitamin d	good source of calcium	good source of potassium	rich in vitamin b12	good source of minerals	good source of vitamin b
+646	low in calories	low in protein	low	high in calories
+647	wedding	get well	special occasions	anniversary	formal event	special event	special occasion	birthday	formal occasion
+648	formal	holidays	work	everyday	special occasion	anniversaries	weddings	special event	special occasions	birthdays
+649	daily wear	casual	professional attire
+650	found in sedimentary rocks	quartz veins	found in igneous rocks	found in sedimentary deposits	found in sedimentary and igneous rocks
+651	in a business	daily life	common in professional sports	in business	business	in a game	during game	in a transaction	sports
+652	mined from underground	mining	ores	ore	mined	mines	found in mines	extracted from ore deposits	mined from ore	mineral	mineral deposit	rarely found in nature	rock formation
+653	recurring	in real life	natural occurrence	found in nature	natural
+654	high in oil	medium	high in oil content	low	rich	high	oil-rich
+655	edible oil	vegetable oil	edible	used for cooking	vegetable oil source	extracted from seeds
+656	distribution	organization	distribution channels	trucking	production	shipping
+657	testes	penis	womb
+658	pancreas	heart	uterus	liver	lungs	brain	kidneys	stomach	penis	prostate	organs
+659	indonesia	indonesian islands	ethiopia	southeast asia	hawaii	sri lanka	philippines	bangladesh	native to indonesia	originated in indonesia	indonesian	tahiti
+660	refined from ore	mined in various countries	mined from earth	extracted from mines	mined from mine	extracted from underground mines	mined from open-pit mines	extracted from surface deposits	extracted from earth	mined	mined from mines	found in mines
+661	new guinea	central american	south america	north america	americas	south american	south american rainforest	latin america	native to north america	central america	central and south america
+662	tropical regions	tropical	tropical region	tropical plants	warm climate	tropical islands	rainforest	warm climates	native to tropical regions	tropical countries
+663	through geological processes	formed through geological process	formed through geological processes	formed from sedimentation
+664	bred in captivity	free-range	blended	farm-raised	aquatic	farmed	imported	underwater	wild-caught	non-organic
+665	europe	asia	spicy	bengal region	japan	china	oriental	asian countries	asian	scotland	traditional	middle east	chinese	pacific islands	australia	mediterranean	india
+666	found in volcanic rocks	deep in the earth	found in soil	found in earth's crust	found in copper deposits	rocks	found in rocks	minerals	found in many natural and man-made materials	found in earth
+667	store	packaged	mine	human	surface	local	recycled	created	extracted	processed
+668	potato	oat plant	potatoes	found in tubers	cotton plant	derived from potato
+669	tree sap	from seeds	factory	field	garden	trees	cotton bolls	seed	seeds	produced	tree	wild	made	derived from roots	logging	forest	nuts	breed	grown
+670	lake	sheep	goat	cow	turkey bird	fur	ore	fish	aquarium	milk	living	bird	river	chicken	duck	mining	sea	from nuts	craft	trade	pond	ranch
+671	texas	ireland	international	salt lake	earth	canada	uk	california	caribbean	buffalo	sweden	usa	united states	mexico	channel islands
+672	refinery	orchard	butcher	sawmill	mill	baker	flower shop	well	plantation	butcher shop	oil well	refined	eco-friendly	bouquet	quarry	dutch	chicken coop
+673	from rubber tree	from cotton plant	from sap of rubber tree	tree bark	rubber tree	latex sap	derived from rubber tree
+674	ecuadorian	brazil	mozambique	ecuador	peru	specifically from ecuador
+675	alpaca	rabbit	quail	fish sperm	cod	finny	trout	mackerel	salmon	lamb
+676	farmland	supermarket	underground	cotton-like	market	wheat field	greenhouse	floral	agricultural field	rural area	oat fields	farm	tribal	village	pasture
+677	africa	central and western africa	east africa	west africa	medieval europe	some african countries	sugarcane plantations	sub-saharan africa	sahel region	west african	north africa	african	central africa	south africa	maya civilization
+678	open-pit	open pit
+679	natural fiber	jute plant	plant fiber
+680	grown in texas	grown in southern united states	southern united states	grown in the southern united states
+681	hevea brasiliensis	henequen	vitellaria paradoxa	bubalus bubalis
+682	isle of guernsey	guernsey islands	normandy	island of guernsey	originated in channel islands
+683	agave plant	palm oil production	oil palm	palm tree	cocoa tree	cacao tree	palm oil plant
+684	mined from bauxite	bauxite	extracted from bauxite	ore of aluminum	derived from bauxite	common in bauxite	bauxite mining
+685	formed from volcanic activity	found in volcanic regions	formed from ancient seas	formed through volcanic activity
+686	derived from plant	roots of plants	derived from plants	derived from bones	from animals	found in nature
+687	plant	organic	ocean	animal	nature	soil	manufactured	agriculture	biological	animal body	cultural	developed	natural	other animals	flowers	herbs	from earth	animals	plants	vegetables	sustainable
+688	black-eyed pea	chana
+689	goods	vegetables	electricity	mechanical energy	cooling	heat	grains
+690	ideas	solutions	services	information	fruits
+691	no	yes	over-the-counter
+692	can	processed	packaged	packaging	canned	fresh	raw	wrap	transported by truck
+693	glass	frozen	box	bottle	loose	plastic	bag	carton	plastic wrap	paper	bagged	boxed	cardboard
+694	part of mulberry plant	palm tree	botanical plant	mulberry tree	plant	tree	mulberry plant	part of palm tree	part of tea plant
+695	brain	organ	liver	neck	head	heart	hand	system	body
+696	bank	ngos	investors	household	entrepreneurs	employees	companies	individuals	consumers	customers	government	firm	businesses
+697	stem	rind	fruits	bran	stems	root	leaves	roots
+698	thigh	wing	leg	leaf	flowers	skin	flesh	ear	eyes	breast
+699	pods	withers	segments	penny	intersex	kernels	can	pence	silks	hulls
+700	husk	grain	seed	peel	germ	cake	cob	meal	kernel	juice	seeds	oil
+701	stamen	endosperm	stamens
+702	seeds	leaves	flowers	stems	roots
+703	flower	seed	leaf	fruit	peel	juice	leaves	segments	seeds
+704	green	orange	yellow	thin
+705	jail time	severe	penalties	criminal	civil	administrative	criminal charges
+706	feathered	feathers
+707	large body size	large body	large ears	large	large size	well-muscled
+708	beak	hooked	beaked	colorful	long neck
+709	medium-sized	smaller size	medium size
+710	black and white color	black or brown coat	black and white coloration	black and white coat
+711	wings	feathers
+712	distinctive golden coat	coat	coarse coat	prominent ears	shaggy coat	thick skin
+713	horns	tail	distinctive horns	horned	hooves
+714	white markings	distinctive markings	unique markings
+715	crystalline	crystalline structure	amorphous
+716	lightweight	strong	dense	hard	heavy	soft	small	portable	stationary	large	warm	brilliant	rigid	clear	tacky	flexible	transparent
+717	high	malleable	metallic	ductile	low	malleability	soft and malleable	flexible
+718	high melting point	high density	can have different boiling points	2050°c	high strength	blends with other metals	high temperature	high energy density
+719	red	white	gray
+720	reactive	fibers	flammable	volatile	buoyant	ph level 2	poisonous	liquid
+721	grayish color	reddish-brown color	bluish-white color	white or off-white color	reddish-brown	bluish-white	silvery-white	bluish white
+722	metabolism	development	reproduction	digestion	growth	pregnancy	ovulation	homeostasis
+723	camping	bouquet	laundry room	vase	dining room	kitchen	basement	outdoor
+724	evergreen	evergreen tree	reeds-like	tall	small tree	tree species	large tree	reeds
+725	plant part	kernel	flowers	bark	flower	fruit	leaf	part of a plant	seed
+726	planting	in soil	in pot	planting seeds
+727	web-based	jar	mobile	desktop
+728	sushi	sashimi	japanese cuisine
+729	fish tacos	lamb kebabs	frittata	fish curry
+730	lamb curry	fish and chips	chicken soup
+731	betta	betta fish	koi
+732	goldfish	guppies	tetras	neon tetras
+733	low	high	medium	rare	popular
+734	electricity	battery	electric
+735	fuel cell	solar power	solar	hybrid	solar radiation	solar panel	water
+736	cord	recharges via usb	rechargeable	outputs sound	charges devices	plugs into wall	charger	plug	wall outlet
+737	mashing
+738	salted	unsalted
+739	heated	baked	ground	smoked	frozen	fresh	cured	chewed	pickled	boiled	cooked	crushed	whole	boiling	scrambling	steamed	in bowl	poached	raw
+740	ground	organic	crushing	powdering	grinding	crushed
+741	frying	fried	cured	baked
+742	dried	dried leaves	made into tea	infused in oil	raw	infused in milk
+743	roasted	smoked	roasting	cooked	baked	grilling	grilled	steamed	twist
+744	roasted	frying	cooking	roasting	microwave	poaching	seasoning	grilling	stove	oven
+745	freezing	smoking	canning	blanching
+746	luxury item	mid-range	rare	luxurious	non-luxury	luxury	medium	premium	expensive	affordable	high-end	customizable	budget-friendly
+747	handover	refining	payment	agreement	purification	protecting	precious	descriptive	processing	extracting	sealing
+748	seed	planting	implantation	seeds	planted	watering
+749	exchange of value	economic exchange	exchange of money	transfer of documents	exchange of goods
+750	ovulation	menopause	menstruation
+751	meal is obtained	meal	sliced	rolled	ground	flavored
+752	cashew tree	cashew apple	cashew seed
+753	oatmeal	rolled oats	oat bran	oat flour
+754	pressed for oil	oil	seeds are crushed	oil is extracted	margarine	vegetable oil	crushed for oil
+755	white rice	cooked rice	rice flour	rice vinegar	brown rice	unmilled rice	milled rice	basmati rice
+756	pregnancy	childbirth	giving birth
+757	cleaned	finishing	finished	sorted	raw	cleaning
+758	harvested	refining	separating	lumbering	purifying	oiled	mined	crushed	cured	sorting	refined	controlled	compounding	polishing	weaving	dyed	tanned	treated	highly refined	cooked	extracted	ginned	unrefined	extracted from roots	woven	processed
+759	latex	latex extraction
+760	mining	logging	extracting
+761	pressing	pressed	retting	retted	ground	breaking	rolled
+762	drying	washed and dried	tanning	curing
+763	hulled	shelled	shelling	unhulled
+764	grinding	milling	pulping	molding	sawing	sawmill	mill	milled	crushing
+765	edible oil production	cold pressing	oil extraction	cold-pressed	extracted oil	essential oil extracted	extracted from seeds
+766	fermented	fermentation	fermenting
+767	flour	milled	processed into flour	ground into flour	milled into flour	dried and ground	ground into powder
+768	withering	steaming	steeping	steeped
+769	spinning	spun
+770	shearing
+771	vulcanization	calcination	vulcanized rubber
+772	baling	husking	threshing	threshed
+773	unsweetened	unsalted
+774	retting	decortication
+775	shea oil	shea butter	cocoa butter	shea powder	cocoa powder	cosmetic oil
+776	sugar	oil	barley flour	chocolate	flour	juice
+777	goods	services	finished goods	infrastructure	digital products
+778	physical	software
+779	natural	synthesized	synthetic	market
+780	extracted and refined by oil companies	crude oil	extracted from natural gas	petroleum refining process	derived from petroleum	extracted from crude oil	refined from crude oil	mined from natural gas
+781	synthesized from phosphate rocks	synthesized from phosphate rock	extraction from phosphate rocks	derived from phosphate rocks
+782	processed into yarn or rope	processed into yarn
+783	harvesting	drying	hydroponics	cutting	harvested	printing	conventional	planting	recycling	farming	brewing	mixing	harvesting from tree
+784	hand-painted	handmade	machine-made	hand-carved	loom-woven	3d printing	handcrafted
+785	reaction with phosphate rocks	phosphorus	reaction with phosphorus	reaction with phosphate	reaction with phosphorus pentoxide	reaction with phosphorus acid	reaction with phosphates	reaction with sulfuric acid
+786	collection	manufacturing	manufactured	thermal	processing	storage	production	breaking	filtering	processed
+787	processing from latex	latex harvesting	collecting latex	tapping from tree	latex extraction
+788	extraction	combustion	heat transfer	distillation	washing	magnetic separation	mineral acid	chemical separation	coagulation	extraction from natural resources	extraction from roots	chemical	tapping
+789	casting	molding	forging	blending	rolling	fabrication
+790	extraction from oil wells	refining crude oil	crude oil	refined crude oil	extracting from natural gas	catalyst in petroleum industry	separation from palm oil	processing raw roots
+791	chemical synthesis	chemical	synthesis	chemical reaction	processing into powder
+792	assembly line	assembly	mass production
+793	spinning	spun	carding	ginning	carded	shearing
+794	dyeing	dyeing fabric
+795	knitting	egg production	weaving	woven	3d printing	printing
+796	scutching	retting
+797	soy milk	tofu	edamame	soya milk	soya sauce	milk	soymilk	margarine	flaxseed meal	soy sauce	soybeans	flaxseed oil
+798	thread	fur	cotton yarn	cotton fabric	cotton thread	rope	yarn	sacks	gloves	mat	fabric	cotton cloth	suede	suede shoes	bags	bedding	clothing	bag	leather jacket
+799	detergents	perfumes	soaps	flowers	soap	candles	shampoos	rugs
+800	hessian	linen	burlap
+801	machinery	equipment	scales	lumber	hardware	manufacturing components	machine parts
+802	rice	brown rice	wheat	corn	whole grain	bread	sugar	rice flour	potatoes	grains	rye bread	rye flour	oats	white rice
+803	molasses	syrup
+804	vegetables	juice	food	fruits	consumables	food products	beer
+805	shea oil	shea powder	hair care	skincare products	shea butter
+806	barley	malt	barley flour	malt extract	beer	ethanol	flour
+807	french fries	chocolate	cocoa powder	flavored milk	cocoa butter	chicken breast	cornstarch	potato salad	lamb chops	chocolate milk	mashed potatoes
+808	paper products	cotton fabric	clothing	oil	paper	bedding	rope	cloth	twine	cotton thread	cotton yarn	board
+809	rubber bands	gloves	bicycle tires	condoms	bags
+810	insulating	thermal insulation	natural insulation	electrically insulating	good insulation
+811	water-resistant	water resistant	water repellent	dirt repellent	rust-inhibiting	uv resistant	water-repellent	insect-resistant	water resistance	waterproof
+812	breathable
+813	heat-resistant	fire-resistant	resilient	resistant to heat	heat retention	uv resistant	heat resistant	resistant to chemicals	sound-absorbing	flame retardant	wear protection
+814	antiseptic	antibacterial	antibacterial agent	antifungal	has antibacterial properties	antimicrobial	antibacterial properties
+815	strength	weak	strong	polluting	cleaning	oriental	heavy	intense	natural	adorned	reactive	inspiring	healing	basic	sustainable	polar	hard	healthy
+816	carbon neutral	renewable	purity	irreplaceable	recyclable
+817	conductive	conductivity	heat-conductive	conducting electricity	high
+818	low in saturated fat	high in saturated fat	low in saturated fats	high in monounsaturated fats	high in calories	high in fat
+819	odorless	gas	tasteless	neutral taste	colorless	highly refined
+820	absorbent	dispersant	absorbs moisture	water-absorbent	irritating	soluble
+821	constant properties	unique characteristics	unique features	has unique properties	distinct physical properties
+822	high temperature resistance	high-temperature performance	high strength	high thermal conductivity	oxidation resistance	compatibility with materials	high hardness	low temperature resistance	low-temperature performance	moisture resistance
+823	thick	low volatility	low density	viscosity	high-viscosity	viscous	medium	high viscosity	thin	low viscosity
+824	different from elements	different from its components	different from its component elements
+825	magnetic	polarity	circular	detergent	metal	magnetism	light	plastic
+826	thickness	dark color	light color	white
+827	skin soothing	calming	moisturizing	moisturizing properties	skin moisturizer
+828	aesthetically pleasing	eye-catching	attractive	unique	aesthetics
+829	resists wrinkles	resistant to corrosion	corrosion-resistant	resistant to abrasion	high	resistant to scratching	resistant to chemicals	corrosion resistance	low
+830	lubricity	high smoke point	good lubrication	anti-wear	high lubricity	good lubricity
+831	unique chemical formula	unique physical and chemical properties	has distinct physical and chemical properties	has unique chemical and physical properties
+832	hypoallergenic	sedative	allergenic	gluten-free	allergic	hygroscopic
+833	distributor	wholesaler	retailer	supplier	manufacturer
+834	identity	self-esteem	body image
+835	fines	jail time	punishable by law
+836	retailer	online	online store	directly from manufacturer	physical store	online retailer	distributor	online purchase	online stores
+837	supermarket	in-store	grocery store	wholesale market
+838	market	farmers market	grocery store	farmer's market
+839	entertainment	relaxation	entertain	social gathering
+840	lubricating	lubricates engine	lubricates machinery	lubricates	lubricating moving parts	machine lubrication	lubricate	quenching thirst
+841	holds product	protects product	contain product	to hold product
+842	to solve a problem	solve problem	meet a need	solve a problem
+843	display product	to display product	product itself	displaying product
+844	home decor	party decoration	fashion	decorative item	wedding decoration
+845	making recipes	cooking	food	baking
+846	daily expenses	daily expense
+847	identifies	prediction	induction	to identify	identification	identifying	identifying objects	analysis	identity
+848	prevents wear	preventing wear	reduces wear	preventing wear and tear	prevents wear and tear
+849	recruitment	policy	clean	donation	payment	withdrawal	drinking	research	human consumption	raw material	comparative analysis	transfer	production	donating	yield	wedding	relocation	movement	resource allocation	maintenance	lighting	pet	export	energy consumption	spending	marketing	cash crop	description	preventative	sale	investing	industry	manufacturing	decision making
+850	increasing productivity	increase sales	productivity	increase productivity	to reduce labor	increases productivity	to increase efficiency	to reduce costs	to increase productivity	enhance experience	increase efficiency	to make life easier	to showcase technology	showcase innovation
+851	protect	protect product	store	repair	to protect	cools	protects	protection	attract attention
+852	decorative	social status	ritual	fashion statement	status symbol	accessory	hydration	sustenance	ceremonial	celebration	fashion accessory	symbolic	bedding	refreshment	decoration	symbolism	decor
+853	treating disease	treating diseases	treats disease	treat disease	preventing illness	making medicine
+854	to gain profit	to generate revenue	generate revenue	to attract customers	generating income	key revenue generator	to distribute wealth	to gain advantage	driver of business success	make money	drive business growth	generate income	job creation	generates returns
+855	payment of debt	payment	employment	financial gain	revenge	strategic advantage	generosity	buying goods	economic gain
+856	transport	to transport	to hold	transportation	to transport product	transporting	transports substances
+857	electricity	electrical	energy
+858	practical	practicality	display	reliable	saving	cool	pleasure	practical use	safety	circulation	convenience	sensation	functionality	consumption	useful item	beauty	operation	functional	to display	necessity	power	to link	utility	power source	to distinguish
+859	establish brand	establishing relationships	attract customer	to establish brand
+860	used to produce more goods	produces goods or services	to produce goods	to produce goods and services	produces goods	producing goods	produce goods or services	providing goods or services	used to produce goods or services
+861	car maintenance	skin care	hair care	nutrition	health	skincare	skin condition treatment
+862	high grade	pure	low-quality	treated	low grade	impure
+863	prized for softness	softness	natural	soft
+864	free-range	grass-fed
+865	long-lasting	high-quality materials	recyclable	well-made	luxurious	considering durability	customized	outlives other goods	has a long warranty period	high-quality	long-lasting performance	high thread count	robust	reliable	durable material	durable	built to last	good with a long lifespan	has high resale value
+866	inspected	certified	tested	sorted	graded
+867	high	contains warnings	fine	medium	limited	low	check	permanent
+868	developed	least developed
+869	mass produced	valuable	luxurious	unique	precious	expensive	very rare	rare	exotic	less rare	limited edition	common	exclusive
+870	one-of-a-kind
+871	sisal plant	agave sisalana	harvested from jute plant	jute plant	agave fiber
+872	raw materials	raw material	natural resources	animal products	flowers	plants
+873	high	health risk	addiction potential	substance with potential for abuse	abuse potential
+874	account ledger	account book	digital ledger	accounting books	bank statement
+875	account	book	bank	store
+876	financial reports	financial report	accounting
+877	receipt	bank statement	tax return	bookkeeping	credit report	invoice	tax returns
+878	reusable	recyclable	comparable	portable
+879	africa	asia	europe
+880	tropical	temperate	arctic
+881	regulated by fda	regulated by epa	regulated by osha	federal controlled substances act	drug enforcement administration	scheduled by dea
+882	date palm	mulberry fruit	palm tree cultivation	palm tree	horticulture	mulberry tree	coconut
+883	supports	structural support	moves with	surrounds	connected to
+884	connected to other structures	separated from other structures	interacts with environment	interacts with other systems	connection between entities	connected to
+885	surrounded by	controlled by	separated from	surrounding	attached to	covered by
+886	production	supporting	opportunity cost	loss	part of	balance sheet	profit
+887	essential for ecosystem	supports ecosystem	part of ecosystem	sustaining ecosystem	supports biodiversity	supports life	affected by climate	dependent on soil	habitat provider	essential for life
+888	relevant	critical	important
+889	consistent	intermittent	low	high	medium	highly effective	verified	yes
+890	european union	used in european union	european monetary union	economic and monetary union	european currency union	eurozone
+891	euro	by the euro	eurozone
+892	sperm ejaculation	fertilization	implantation	birth	gestation
+893	testes	ovaries	fallopian tubes	uterus	prostate	produced by skin glands	sex organs	reproductive organs
+894	warmth	warm climate	shade	warm temperature
+895	new company	new team	new owner
+896	major	corporation	high	low	medium
+897	government	public	customers	investors	private
+898	physical dependence	psychological dependence	addiction	overdose	dependence
+899	negative effects on health	overdose	health problems	health hazards	toxicity	overuse	health
+900	nurturing	sensation	conceiving	transportation	priority focus	meat	parenting	movement	describes	cognition	voice	receiving
+901	creates jobs	drives economic growth	contributes to economic growth	creates wealth	supports industry
+902	topical	injectable	nasal	oral
+903	flammable	hazardous	explosive
+904	storage	avoid inhalation	handling gloves	ventilation	handling	eye protection	wear gloves	disposal	ventilate area	fire extinguisher
+905	industrial	small-scale	large-scale	commercial
+906	high	low	local	global
+907	sweet	oriental	floral	fruity	citrus	fresh
+908	microeconomic	macroeconomic	market equilibrium
+909	table	column	global	local	exported globally
+910	individual	personal
+911	spring	fall	winter	summer
+912	monsoon	out of season	harvest	summer	spring	seasonal	fall
+913	year-round	freshness varies	freshness dependent on season	seasonal availability	year-round availability	available year-round	seasonal	non-seasonal	perennial
+914	herbs	spices	lemon	pepper	salt
+915	technology	energy	energy sector	healthcare	construction	finance
+916	unsecured	secured	ineffective	encrypted
+917	holograms	watermark	watermarks	color-shifting ink	security thread	hologram
+918	black	numerous	small	brown
+919	small	large	medium
+920	easy to peel	easy to separate	used for zest	juicy pulp
+921	rotten	unripe	ripe	fresh
+922	repulsive	pleasant	unpleasant	attractive	bitter taste
+923	veggies	rice	bread	salad
+924	professional service	installation	repair	consulting	logistics	manufacturing support	maintenance
+925	round	circular	oval	rounded	thin	rectangular	square	curved	box	long	flat	screen	thick	small	spherical	linear	scaleless	elliptical
+926	irregular	bulbous	soft and wrinkled	short and stumpy	rounded	ovoid	bulb	pointed tip
+927	seed-like	box-like	block-shaped	boxy	rod	scale-covered	ellipsoidal	prickly	heart-shaped	board	bean-like
+928	long and thin	long and narrow	slender	long and slender	long
+929	corn kernel	cobs	corn
+930	petal	petals	bloom	has petals
+931	arranged	arrangement	shape
+932	kernels	log	kernel	mdf
+933	capsule	carton	stem	tubular	elongated	ornate	narrow	lobed	complex	fins	bell-shaped	cylindrical	fibrous	cob	stems	rip	sheet	flat	wire	pipe	plank	egg-shaped
+934	long	long-lasting with proper storage	long shelf life	long-lasting	stable	long-term	preserved	can be stored
+935	fresh	dried	processed	canned	frozen or canned	dried storage	frozen	stored
+936	refrigerated	dependent on storage conditions	refrigerate	requiring refrigeration	stored at room temperature
+937	non-perishable	short-term	medium	perishable	short	limited	semi-durable	short-lived	long-term	expired
+938	common	anxiety	addiction	headache	insomnia
+939	allergic reactions	allergic	irritating	irritation	toxic	rare	nausea	dizziness	serious	interactions with other medications
+940	small	large	card	medium	standard	tiny	plain	heavy
+941	about 1 cm	up to 3 meters per year	up to 2 meters	up to 10,000 liters	up to 6 feet tall	500-700 kg
+942	standardized	handheld	compact	small	portable	large	desktop	tablet	varies
+943	formal	advanced	simple	requires expertise	complex
+944	attention to detail	patience	requires patience
+945	strong	intense	persistent	pleasant
+946	sweet	strong	fragrant	refreshing	soothing	fresh	aromatic	fruity	woody
+947	pungent	pungent scent	petroleum-like	pungent smell
+948	intersex	sexuality	family planning	sex	gender identity	gender
+949	social animal	solitary	uncommon
+950	herd	pack	flock
+951	ethics	religion	climate	culture	law	tradition	social
+952	plant	flowers	market	animals	hydro	fruits	nuts	solar	gas	farm	tree	plantation	trees	nature	water	plants	crops
+953	river	flower	factory	warehouse	timber	forest	lake	wild forest	woodland	cotton field	ocean	underground	garden	forests
+954	yams	tuber	taro	sturgeon
+955	fossil fuels	wind	uranium	nuclear	coal	geothermal	renewable	oil	fossil fuel
+956	cannabis plant	hemp plant
+957	cotton alternative	synthetic fibers	cotton	cotton substitute	latex alternatives
+958	flax plant	flaxseed	cotton-like plant	linseed	agave plant	cotton plant
+959	recycling	battery disposal	mining	recycling aluminum	energy-efficient
+960	free agency	trade	auction	transfer	draft
+961	developed	emerging	developing
+962	primary	advanced	secondary	tertiary
+963	freezing	canned	freeze	frozen	silos
+964	tankers	in tanks	tanks	warehouse	tank	stored in containers	gas stations	in cylinders	in tank	refineries	in drums	stored in tanks
+965	pipelines	containers	in pipelines	distributed by pipeline	pipeline
+966	fridge	refrigeration	refrigerator	dryer	freezer	pantry
+967	airtight container	cool dry place	dry place	dry	keep in a cool place	keep dry	away from direct sunlight	protect from water	handled with care
+968	refrigerated	store at room temperature	refrigerate	room temperature	expiration date	frozen	stored in tanks
+969	keep away from heat	dry	dark	dried	cool temperature	cool	room temperature	dry place
+970	short-term	long-term	investing	long-term investment	saving	provides long-term benefits
+971	fridge	cupboard	egg carton	pantry	refrigerator	cooler
+972	medium	high	low	relatively strong
+973	strength	fragile	brittle	weak	strong	soft	hard
+974	lean	hard	split	skeleton	complex	thick	weak	scaly	thin
+975	living	growing
+976	fallopian tubes	vagina	heart	prostate	clitoris	ovaries	uterus	skin	brain	sperm ducts	lungs	scrotum
+977	physiology	circulation	pathology	anatomy
+978	contemporary	modern	traditional
+979	casual	vintage	fashionable	trendy	fashion	streetwear
+980	eco-friendly	renewable resource	recyclable	renewable	low environmental impact	non-toxic	renewable energy	environmentally friendly	reduced carbon footprint
+981	gbp symbol	pound sign	jpy symbol	₤	£	gbp
+982	₫	€	¥	yen symbol
+983	ѕм	afn	af	f
+984	lucky charm	exotic	romantic	love	apology	friendship
+985	commodity-based currency	fiat currency	cryptocurrency	digital currency
+986	digestive system	circulatory system	endocrine system	nervous system
+987	manufacturers	skin care enthusiasts	specific industry	young adults	factories	businesses	people with acne	consumers	general public	professionals	business users	tech enthusiasts	athletes	gaming community
+988	construction	energy	manufacturing	manufacturers	factories	specific industry	landscaping company	small business	construction sites
+989	savory	saltwater	spicy	salt	salty	warm	slightly salty	umami
+990	earthy	earthly	strong	distinctive	slightly bitter	grassy	floral
+991	nutty	buttery	malty	slightly sweet	creamy	oatmeal-like	caramel-like	smoky
+992	sweet	tart	bitter	sharp	fresh	neutral	sour	tangy	astringent	refreshing	mild	juicy	acidic	strong	delicate
+993	flavorful	delicious	absorbs flavor	tasteless	rich	flavored	flavorless	tender
+994	oily	tuna-like	flaky	starchy	corny	gamey	fishy	bland	beany	sticky	salmon-like
+995	turbine spinning	generator	battery	transformer	turbine
+996	docile	intelligent	easy to handle	peaceful	hardy	social	friendly	aggressive
+997	hot	room temperature	cold
+998	temperature range	low	high	hot	normal	extreme	warm	cold	medium
+999	crunchy	chewy	crumbly	flaky	prickly	nutty	crinkly	crisp
+1000	soft	thin	dry	fine	smooth	leather-like	warm	small	strong	flexible	cozy	rough	medium	firm	hard	coarse	massive	thick	absorbent	bumpy
+1001	creamy	juicy	fleshy	tender	pulpous	fibrous	seedy	fizzy	sticky	liquid	curdled	leathery	tangy	bean-like	peelable	boneless	juicy pulp	grainy	stringy	velvety	foamy	stringy fibers	fluffy	pulpy	fine-grained	oily	white or yellow
+1002	sprayers	fertilizers	tractors	tractor	seeds	plows
+1003	irritating to skin and eyes	irritant	corrosive	irritating
+1004	owner	previous user	recipient	previous owner	new owner	new user
+1005	organ	bone	skeletal	muscular	bones
+1006	psychedelic	heavy metal	metal	rock	electronic	folk
+1007	motor oil	synthetic oil	lubricant	full synthetic	synthetic lubricant
+1008	semi-solid	liquid	gas	acidic	metallic
+1009	radish	yam	sweet potato	sweet potatoes	sweet corn	potato	carrot
+1010	psychoactive	stimulant	psychoactive substances	psychoactive substance	recreational substance	narcotic
+1011	processed	cold	capital	canned	raw	dry	still	wild	fresh	instant	rolled	bait	natural	nervous	hot	injection
+1012	japonica	short grain	long grain
+1013	tissue	muscles	tissues	muscle
+1014	private	public	injectable
+1015	daisy	roses	daisies	tulip	tulips	rose
+1016	equity	liability	investment	cash
+1017	almond	pecan	walnut	cashew	hazelnut	shrimp	cream	tuna	syrup	salmon	lime	orange	peanut
+1018	cereal	hay	barley	grain	grass	crop	corn	maize	seed	wheat	flint corn	food grain	popcorn	wheat-like	rice
+1019	freshwater	saltwater	saltwater fish	freshwater fish	aquatic	finfish
+1020	electric	kerosene	foreign	vehicle	diesel	heavy oil	gasoline	hybrid	oil
+1021	capsicum	legume	debit	edible	legumes	mutton
+1022	tea	silicone	cardboard	juice	cheese	supplement	vaccine	cloth	curtain	glass	fiber	textile	gift	butter	paper	clothing	fabric	lumber	scent
+1023	primary	root	tree	entity	packaged	ground	lightweight	system	item	service	unique	resource	asset	conventional	secondary	new properties
+1024	refrigerator	dishwasher	oven	air conditioner	appliances	home appliance	battery	coin	appliance	washing machine	accessory	tool	gadget	phone	laundry appliance	computer	equipment	product
+1025	lean meat	red meat	smoked	meat	game meat	food	meat product
+1026	poultry	poultry farm	livestock	fowl
+1027	diamond	moonstone	topaz	emerald	aquamarine	tiger's eye	agate	sapphire	opal	crystal	amethyst	turquoise	jasper	garnet	tanzanite
+1028	sunflower	grasses	sunflowers
+1029	non-perishable	non-financial	staple	non-monetary	perishable	non-carbonated
+1030	broadleaf	vine	perennial	softwood	woody	herb
+1031	solar	thermal	hydro	hydroelectric	renewable	nuclear	wind
+1032	non-renewable	non-renewable resource
+1033	purchase	transfer	payment	sale	withdrawal
+1034	ceramic	seasonal	ornamental	orchids	ornament	oriental	freshly cut	hardy	ornamental plant
+1035	foreign key	unique key	unique	primary key
+1036	soft drink	energy drink	soda	coffee	carbonated
+1037	metal ore	ferrous metal	non-ferrous metal	non-ferrous metal ore	non-ferrous ore	ore	heavy metal ore	base metal	metallurgical ore	non-ferrous
+1038	precious metal	distillate	crafting material	ore	raw materials	raw material	oxide	gold	coal	material	mineral	manufacturing component	stone	mineral resource	carbonate
+1039	paper money	monetary	digital currency	fiat currency	official	unit of exchange	currency	fiat
+1040	canola	oilseed	rapeseed
+1041	public	non-profit	private
+1042	corn	rice	wheat	soybeans	vegetables	maize
+1043	growing kentia palm	kentia palm tree	kentia palm	palmae family	shea tree	howea forsteriana	palm tree
+1044	manufacturing tools	machinery part	components	manufacturing component	equipment	manufactured goods	machinery	office supplies
+1045	pine wood	hardwood	oak wood	maple wood	solid wood
+1046	silicone	oatmeal	oats	pearl	logs	grease	milo	guava	trout	physical	cod	hybrid	draft day	tulips	timber
+1047	rubber	synthetic rubber	synthetic blend	natural latex
+1048	intangible assets	tangible asset	intangible	intellectual capital	fixed capital	tangible	human capital	fixed asset	intangible asset
+1049	vegetables	potato	corn	bread	papaya	fruits	roses	rice	legumes	white rice	wheat	plywood	motor oil	grains	solutions	social capital	investment	salmon	tuna	basmati
+1050	foreign	ruby	heterogeneous	transitive	reflexive	lamb	homogeneous	intransitive	fuzzy
+1051	covalent	ionic compound	ionic	molecular compound	molecular	covalent compound
+1052	white pepper	green pepper	red pepper	black pepper
+1053	whole	black	green	white	brown	primary	orange
+1054	beetroot	beet	parsnip	carrot
+1055	winter rye	spring rye	summer rye
+1056	pulp	pulpwood	durum	mdf
+1057	vegetable oil	canola	canola oil	olive oil	cooking oil	sunflower oil	canola seed	coconut oil
+1058	primary key	unique key	foreign key	unique identifier	composite	uniquely identifies a record
+1059	lemon	lime	grapefruit	pineapple	indica	passionfruit	durian	mango
+1060	sudangrass	hulless	foxtail millet	pearl millet	red sorghum	yellow sorghum	white sorghum	jowar	proso millet
+1061	annual
+1062	woody	herbaceous	perennial
+1063	plastics	african	plastic	makes plastics	technology	metals	chemicals
+1064	yen	rupee	euros	euro	eur	1 pound	dollars	dollar
+1065	bags	tourism	fashion	jewelry	outdoors	human food	shoes	clothing	food	transportation	entertainment	driving	motorcycle
+1066	automotive	natural resource	textile	domestic	textile production	constraint	household	bedding	refreshment	plantation	index	salsa	modeling	wound care	landscaping	topical application	textiles	cutlery	door	reheating	medicinal	paper
+1067	electronics	commercial	home	industrial	industrial production	industrial process	industrial manufacturing	social	residential	manufacturing	in office	industry	outdoor	used in construction	industrial machinery	business	in home	electrical	building material	daily life
+1068	daily	daily wear	commercial use	outdoor use	daily use	for entertainment	industrial use	weekly	occasional use	daily consumption	home use
+1069	decorative	disposable	accessories	add flavor	aromatic	fragrant	home decor	occasionally	ornamental	handheld	ceremonial	occasional	portable	special occasion	ornament	interior decoration
+1070	oral	digestive aid	medical treatment	injection	administered via injection	applied topically	oral administration	taken orally	oral consumption
+1071	fragrance in perfumes	fragrance in candles	scented liquid	synthetic fragrances	aroma in candles	used in perfumes	fragrance in soaps	fragrance	to make perfumes	fragrant flowers
+1072	energy production	oil production	manufacturing products	heating	data storage	energy	energy boost	power generation
+1073	papermaking	rope making	paper making	making plastics	data modeling	making paper	paper production	making aircraft	furniture making	making bags
+1074	thickening agent	thickening food	used as a thickening agent	used as thickening agent	food thickening	gelling agent	binding agent	thickening
+1075	database design	in database design	in data modeling	in databases	in data analysis
+1076	on-the-go	over-the-counter
+1077	everyday transactions	daily transactions	small purchases	trading on foreign exchange market	used for everyday transactions	business transactions
+1078	sacking	trade	fuel	machine	bargaining	garnish	office	supplement	sandwich	building	trading	crafting	snacking
+1079	truck engine	bike engine	engine	gearbox	car engine	marine engine
+1080	powers airplanes	powering industries	maintaining equipment	fuels cars	building structures	driving cars	powers appliances	powering vehicles	powering engines	powers aircraft
+1081	making bread	making rum	making noodles	brewing beer	bread	making chocolate	baking bread
+1082	making ropes	making rope	rope	jute ropes
+1083	baking
+1084	construction	abuse	building construction	building	propagation	crafting	machine maintenance	manufacturing	pest control
+1085	animal feed	livestock feed
+1086	reusable	disposable	repairable	sustainable
+1087	medicine	medical
+1088	food	accessories	lighting	shoes	clothing	jewelry
+1089	fuels vehicles	powering diesel engines
+1090	generates electricity	generating electricity	energy production
+1091	fabric	zest	fish
+1092	industries	offices	banks	consumers	businesses
+1093	as a side dish	cooked as a side dish	side dish	as a snack	as a vegetable
+1094	engagement rings	wedding rings	engagement ring
+1095	soups	thickening sauces	stews	making stews	making fish soup	thickening soups	making soups	stewing	making sauces	making soup
+1096	animal feed	pet food	making animal feed	livestock feed	human nutrition	agricultural purposes
+1097	making fries	making chips	fries	making fish sticks	making fish and chips	making burgers	frozen fries
+1098	blankets	clothing	textiles	jewelry	coins	wedding	dressing	accessories	making clothes	fashion	shoes
+1099	making international payments	for making international payments	making international transactions	transferring money
+1100	making ice cream	making cakes	making dishes	making pralines	american baking	making cookies	cake	making powder	making desserts	making snacks	making confectionery	dessert	adding to desserts	baking	making pies	making starchy dishes	making beverages	making pie	making meals	making meringues	making candies
+1101	snacking	gobbling	eating	washing	relaxation	drinking	meditation	making snack
+1102	salads	adding crunch to salads	adding to salads	adding crunch	adding to salad
+1103	making smoothies	smoothie	making smoothie
+1104	juice	juicing	freshly squeezed juice	sugary juice	making juices	making juice	popular drink	made into juice
+1105	paying bills	saving money	paying taxes
+1106	cooking	kitchen	frying food	dishes	food	used in cooking	baking	cuisine	good for cooking	cooking utensils	seasoning	frying	in cooking
+1107	investments	trading online	savings	investing	trading	investment
+1108	adding to recipes	adding aroma	enhancing dishes	adding protein	add flavor	flavor enhancer	enhancing taste	adding flavor to dishes	adding flavor	adding color	adding to dishes
+1109	coffee	tea	making tea	used in tea
+1110	making cocoa powder	producing cocoa butter	producing cocoa powder	making chocolate
+1111	purchasing goods and services	used for buying goods and services	buying goods and services	buying goods	for buying goods and services	purchasing goods
+1112	pasta	making pasta	making pie crust	pasta dishes	making paste	producing pasta	making noodles
+1113	fresh eating	eating raw	eating fresh
+1114	flavoring food	used in cooking	seasoning food	making dishes spicy	as a flavoring agent	flavoring coffee	flavor in food	flavoring	sweetening food
+1115	construction	building houses	building construction	pipes	building	construction sites	used in construction	construction materials
+1116	making salad	making fish sandwich	making fish salad	salads	making sandwiches	salad dressing	making potato salad	making salads	making meal
+1117	gift	gift-giving	gift giving
+1118	airplanes	cars	riding	transport	transportation	shipping product	trucks	aircraft	ships	tourism
+1119	making nut butter	making granola	making bean soup	making soya milk	making cashew milk	making almond milk	making soymilk	making energy bars	making cashew butter	making trail mix
+1120	making starch	making rice flour	making cornflakes	making cornmeal	cornmeal	making flour
+1121	making tortillas	making tortilla	making tortilla chips
+1122	making mash	making yogurt	making dal	making marmalade	making omelette	making hot chocolate	making porridge	making breakfast cereal	making jam	making rice dish	making omelets	steel-cut	making rice cakes	making kebabs	making rice dishes	oatmeal	making cow pea porridge	boiling	making oatmeal	making popcorn	making cereal
+1123	indian cuisine	indian cooking	middle eastern cooking	asian cuisine	middle eastern cuisine	indian sweets	russian cuisine
+1124	cosmetics	cosmetic	used in cosmetics	making cosmetics	cosmetic purposes	cosmetic products	cosmetic industry
+1125	decorations	used in jewelry	celebratory	multiple purposes	recreation	adorn	ceremonial	practicality	ornamentation	ornamental	adornment	ornaments	bouquet	decoration	decorative purpose	decorative purposes	expressing	ornament	self-protection	data normalization
+1126	beef production	meat production	beef	egg production	milk production	used for cheese making	meat consumption
+1127	research	industry	for tourism	showing	exporting	factories	collecting	used for production	preserving	collectibles	manufacturing	restaurant	resource allocation	hides	preservation	industrial purposes	work	used in manufacturing	tax calculation	communication	used in production	borrowing	production	draft	lighting	services	trade
+1128	make sushi	making sushi	sushi rice	sushi	making rice balls	sashimi	in sushi
+1129	stir-frying	stir-fry	making stir-fry	making stir-fries	stir-fries	chicken stir-fry
+1130	producing nickel metal	producing nickel	produced nickel metal
+1131	making rum	whiskey	making whiskey	making hay	rye whiskey
+1132	sandwiches	curries	making curry	making gyro	yarn	spicing	making cow pea curry	pickling	gyros
+1133	used in traditional medicine	traditional medicine	herbal remedies	medicinal purposes	social gatherings
+1134	making butter	producing butter	making cheese	butter
+1135	biofuels	biofuel	producing biofuels	ethanol production	making ethanol	used for biofuel	made from biomass	biodiesel	making biofuels
+1136	some international transactions	international trade	used for international transactions	trading with other countries	international transactions	for international trade	many international transactions	used in international trade
+1137	producing sugar	making sugar	sugar production
+1138	pain relief	medicinal	medical use	medicinal purposes	medicinal applications	anesthesia	medicinal use	natural remedy	treatment of addiction	making medicine	skin conditions	has medicinal properties	relieving cough	treating fever	no established medical use	rarely used in medicine	herbal	ceremonial use
+1139	grilling	covering	main course	grilled	zest	garnish	baked	fried	bait	boiled	stuffed
+1140	producing oil	oil well	oil production	storing product	oil-producing
+1141	maintains data consistency	improving data integrity	ensures data integrity	data integrity	essential for data integrity
+1142	silage	farm	dairy farming	pet	dairy	farming	eggs	making milk	dairy production	meat	dairy products	pasture	dye	milk	hay	fowl
+1143	for aromatherapy	used in cosmetics	aromatic therapy	used in aromatherapy	aromatherapy
+1144	perfumery	perfume	personal fragrance	fragrant	scent	aroma	fragrant oil	making perfume	cologne	fragrance
+1145	making poi
+1146	for transactions	transactions	daily transactions	transactions in italy	online transactions	making transactions	electronic money	everyday purchases
+1147	used for furniture	furniture	making furniture	woodworking	furniture making	paper products	used for construction	firewood	jewelry making	building boats	making accessories	crafting toys
+1148	mashed	mashed potatoes	mashed dishes	baked potatoes	making mashed potatoes
+1149	personal use	everyday use	professional use	research purposes	for business use	commercial use	for personal use
+1150	emotional support	self-expression	social signaling
+1151	reproduction	propagation	procreation	eggs	nests	to reproduce	incubation
+1152	leather	animal hide	hides	leather goods	nubuck
+1153	treating a specific disease	symptom	condition	disease	injury
+1154	used from 1360 to 2002	1861-2002	pre-1999	1861 to 2002	1999	used since 1360	2002	1360 to 2002	used from 1861 to 2002	january 31st	1861 to 1999
+1155	making machinery	bearings	gears	machine parts	industrial equipment	machinery	industrial machinery	aircraft	airplane	machines
+1156	multiple countries	worldwide
+1157	europe	afghanistan	monaco	asia	andorra	italy	germany	france
+1158	used in food industry	food additives	soft drinks	used in food products	food industry	used in cooking	rubber manufacturing	in food industry	in food
+1159	cars	car	engines	vehicles	trucks	car engine
+1160	motorcycles	bikes	motorcycle
+1161	making oil	making fish oil
+1162	everyday life	outdoors	daily life
+1163	paper	paint	paper sheet	research	paper bills	draft	packing
+1164	plywood	ceramics	hanging basket	generators	pigments	textiles	textile	blankets	composites	rugs	medical gauze	hay	pigment	insulation	hats	towels	burlap	aviation	water	confectionery	belts	coatings	detergents	candles	antique items	hoses	home textiles	cans	geotextiles	building materials	scarves
+1165	medicine	used in medicine	medical treatment	agriculture	medical	diabetes treatment	medical supplies	medicines	in medicine	dental care	spiritual
+1166	juice	beer	food	beef	milk	dairy	bread	baked goods	meat	whiskey
+1167	cosmetics	cosmetic	sunscreen	cosmetic use	cosmetic products	beauty	personal care
+1168	cement production	paper production	ceramic production	making paper	pulp and paper production	toy production	toy making	battery production	in paper industry
+1169	used in electronics	electronics	used in electroplating	making electronics
+1170	cooking ingredient	food ingredient	meat substitute	food additive	human food	edible	ingredient
+1171	making mayonnaise	making salad dressing	making salad dressings
+1172	biofuels	biofuel	biomass fuel	biomass	ethanol production	biofuel pellet	biodiesel
+1173	healthy alternative to butter	engine oil	frying	oil	cooking oil	cookware	tofu	edible oil	vegetable oil	food preservatives	gear oil	acid
+1174	making soap	manufacturing soap	making bags	making jam
+1175	beverage	detergent	perfumes	porridge	perfume	curtains	scent	scented candle	aroma	fragrance	curtain	fragrant oil	cologne	pollinator	ritual	glove
+1176	electrical cables	electrical wiring	electric wiring	water pipes	soldering
+1177	manufacturing alloys	used in alloys	production of alloys	making alloys	producing alloys	iron alloys	alloy production	making solder
+1178	making batteries	production of batteries	storage batteries	in batteries	used in car batteries	producing magnets
+1179	ships	clothing	jewelry	shoes	cookies	socks	belts	coins	gloves	tyres	furniture	carpeting	bags	tires	bedding	trucks
+1180	producing pig iron	steel production	production of steel	production of aluminum	making steel	producing steel
+1181	cooling	heating
+1182	brewing beer	making beer	beer production
+1183	making soya milk	tofu	making tofu
+1184	acne treatment	treating acne
+1185	preserving food
+1186	producing lead	producing copper	zinc-rich ores	producing zinc metal	producing lead metal	zinc metal	production of zinc metal
+1187	manufacturing	industrial	industrial processes	domestic	industrial applications	industrial use	industry	marine	human consumption	household	electronics	automotive	in manufacturing
+1188	refractory materials	fireproof materials	refractory material	catalyst	refractories
+1189	production of lead	aluminum	extracted for copper metal	copper production	acid storage	oil production	extracting copper	copper mines
+1190	in pigments	production of pigments	making pigments	making ammunition	production of bullets	pigment manufacturing	paints and coatings
+1191	cleaning	cleaning surfaces	cleaning products	cleaning agent
+1192	sacking	plowing	plows	plow
+1193	heating homes	heats homes
+1194	model building	model making	model airplanes
+1195	fuel	ammunition	transport	powering	combines	batteries	battery	energy source	driving	ammo
+1196	carpets	making carpets	making cloth	making carpet
+1197	landscaping
+1198	ethanol	silage	zinc alloys	galvanizing steel	galvanizing	baling	electroplating
+1199	paper products	marine equipment	wooden crafts	paper	wooden products	soft drinks
+1200	radiation shielding	medical gowns	protecting against radiation	soundproofing	in radiation shielding	x-ray shielding
+1201	recreational	recreational use
+1202	bioplastics	biodegradable plastics	biodegradable adhesive	bioremediation	making plastics	biodegradable plastic	biodegradable packaging	biodegradable	biodegradable products
+1203	producing stainless steel	manufacturing stainless steel	production of stainless steel	making stainless steel
+1204	valuable	luxurious	collectible	rare	cheap	scarce	sentimental	highly valuable	precious
+1205	nominal	quantitative	nominal value	ordinal	interval
+1206	aesthetic value	artistic	rarity	sentimental value	cultural significance	historical significance	artistic value
+1207	convertible to other currencies	exchangeable with other currencies	can be converted to other currencies	exchanging with other currencies	replaced national currencies	other currencies
+1208	variable	real
+1209	divided into 100 puls	divided into 100 pence	divided into 100 pul	diram	100 diram	divided into 100 cents	divided into 100 diram	divided into 100 sen
+1210	built-in	volatile	public	comparable	dynamic
+1211	yes	good	high
+1212	neck	ear	head	finger	wrist
+1213	heavy	light	medium	thick	massive	fine
+1214	straight grain	dark brown	fine texture	fine
+1215	plywood	medium density fibreboard	veneer	lumber
+1216	lightweight	softwood	amphibole	dense	hardwood	light
+1217	low	medium	high

@@ -1,0 +1,1072 @@
+0	individual	all-round	gymnast
+1	individual
+2	all-rounder	all-round	decathlon
+3	walk	pairs
+4	air rifle	rapid fire pistol	air pistol
+5	super g	medal winners
+6	women's team	medal winners
+7	medal winners	super g	pole vault
+8	medal winners
+9	all-rounder	pole vault	long jump	medal winners	athlete
+10	all-rounder	medal winners
+11	all-rounder	all-round	athlete
+12	skiff	dinghy	heavyweight dinghy	aquatics	keelboat
+13	volleyball	cycling	diving	pursuit	keelboat	heavyweight dinghy	cross country skiing	dinghy	springboard	skiing	athlete	walk	skeet	women's team	archery	sailing	skating	figure skating	windsurfer	trampoline	skiff	downhill	cycling road	winter sport	participates in	swimmer	cycling track
+14	windsurfer	swimmer	synchronized springboard	diving	dinghy	sailing	springboard	aquatics
+15	fencing	skating	gymnast	cycling	swimmer	walk	horizontal bar	downhill	athlete	skiing	trampoline	taekwondo	men's team	parallel bars	equestrian	weightlifting
+16	equestrian	downhill	summer sport	fencing	keelboat
+17	men's team	pursuit	participates in	cycling	gymnast	track and field	athlete	springboard	heavyweight dinghy	hurdles	pairs	archery	figure skating	sailing	diving	fencing
+18	bobsleigh	pursuit	participates in	equestrian	swimmer	athlete	sailing	men's team	downhill	cycling	skating	archery	diving
+19	equestrian	race	fencing	keelboat	heavyweight dinghy	modern pentathlon
+20	skiing	cycling	walk	skating
+21	cross country skiing	pursuit	cycling	ice dancing	skiing	sailing	synchronized swimming
+22	aquatics
+23	mixed team	aerials	backstroke
+24	air rifle	rapid fire pistol	air pistol	biathlon	all round
+25	pairs
+26	butterfly	athlete	pommel horse	horizontal bar	vault
+27	synchronized platform
+28	synchronized platform	vault
+29	synchronized platform
+30	olympic sport	speed skating	luge	summer sport	track and field	athletics	race
+31	backstroke	breaststroke
+32	rhythmic gymnastics	ice dancing	synchronized swimming
+33	individual event	pursuit
+34	vault
+35	vault
+36	vault	hurdles
+37	vault
+38	pole vault	medal winners	nordic combined	aquatics	snowboard cross	men's team	athlete	synchronized platform	all-round
+39	wrestling freestyle	alpine combined	decathlon	track and field	triathlon	pole vault	high jump	javelin throw	hammer throw
+40	nordic combined	triple jump	pole vault	decathlon	high jump	modern pentathlon	long jump
+41	pole vault	hammer throw	long jump	super g	luge	wrestling	modern pentathlon
+42	luge	long jump	hammer throw	alpine combined	giant slalom	ski jumping	pole vault
+43	luge	modern pentathlon	medal winners	pole vault	long jump	women's team	ski jumping	biathlon	nordic combined	triathlon	tennis	olympic sport	super g	gymnastics team competition	men's team	skiing
+44	all-rounder	hammer throw	gymnastics team competition	high jump	women's team	medal winners	long jump	pole vault	luge	tennis
+45	nordic combined
+46	triple jump	pole vault	high jump	skeet	winter sport	nordic combined	handball
+47	decathlon	long jump	wrestling	triple jump	modern pentathlon	nordic combined	pole vault	archery	figure skating	luge	hammer throw
+48	olympic sport	alpine combined	biathlon	ice dancing
+49	track and field	triple jump	olympic sport	pole vault	gymnastics team competition
+50	individual event	team event
+51	event	team event
+52	event	team event
+53	event	individual event
+54	individual event
+55	medal winners
+56	participates in	triathlon	athlete	gymnast	medal winners	all-round
+57	beach volleyball
+58	butterfly
+59	trap	butterfly	aquatics
+60	individual
+61	individual
+62	taekwondo
+63	taekwondo
+64	breaststroke	backstroke	weightlifting	cycling
+65	weightlifting
+66	cycling	windsurfer	backstroke	cross country skiing	aquatics
+67	cycling	taekwondo	floor exercise	athletics	athlete	weightlifting	long jump	triple jump	track and field
+68	mixed team
+69	backstroke	breaststroke	weightlifting
+70	cycling	weightlifting
+71	mixed team	synchronized platform
+72	individual
+73	individual	aquatics
+74	individual
+75	individual
+76	backstroke
+77	wrestling
+78	backstroke	breaststroke	luge
+79	super g
+80	super g
+81	breaststroke	backstroke
+82	equestrian
+83	rapid fire pistol
+84	rapid fire pistol	air pistol	air rifle
+85	tennis	air pistol	air rifle
+86	water polo	badminton	indoor volleyball	volleyball	handball	tennis	snowboard
+87	aquatics	butterfly
+88	springboard	diving	synchronized springboard	aquatics	air rifle	swimmer
+89	platform	medal winners	vault
+90	super g
+91	aerials	synchronized platform
+92	giant slalom	pursuit	snowboard cross
+93	mixed team	gymnastics team competition
+94	mixed team	team	snowboard cross	synchronized platform	marathon	triathlon
+95	athlete	team	all-rounder
+96	heavyweight dinghy	athlete	team	event	all-rounder	skiff	all-round	keelboat
+97	heavyweight dinghy	skiff	springboard	horizontal bar	platform	synchronized platform	breaststroke	keelboat	backstroke	air rifle	dinghy	equestrian	moguls	uneven bars	balance beam
+98	parallel bars	pairs
+99	wrestling freestyle	breaststroke	weightlifting
+100	mixed team	balance beam	all-rounder	pairs	aquatics	team	women's team	individual	individual event
+101	pursuit	wrestling freestyle	taekwondo	windsurfer	indoor volleyball	moguls	mass start	badminton	synchronized platform	winter sport	aquatics
+102	uneven bars
+103	balance beam	decathlon	triple jump	ice dancing	uneven bars	high jump	archery
+104	aquatics
+105	mixed team	aquatics	team	all-rounder	pursuit	synchronized platform
+106	springboard	gymnast	athlete	mixed team	pommel horse	fencing	hurdles	floor exercise	pursuit	butterfly	team	breaststroke	uneven bars	moguls	balance beam	all-round	individual event	bobsleigh	keelboat	heavyweight dinghy	synchronized platform	all-rounder	downhill	platform
+107	all-rounder	all-round
+108	synchronized platform	breaststroke
+109	individual
+110	individual	team event
+111	individual	individual event
+112	pairs	platform
+113	athlete	weightlifting
+114	wrestling	wrestling freestyle	judo	artistic gymnastics
+115	summer sport
+116	team	mixed team
+117	team	mixed team
+118	equestrian	weightlifting
+119	athletics	track and field	marathon	cycling	winter sport	triple jump	synchronized swimming	mixed team	medal winners	cycling track	men's team	olympic sport	archery	wrestling	race
+120	nordic combined	javelin throw	giant slalom	luge	synchronized springboard	synchronized swimming	archery	ice dancing	mass start	swimmer	long jump	high jump	bobsleigh	pole vault	fencing	biathlon	alpine combined	decathlon	triple jump	floor exercise	hammer throw	rhythmic gymnastics	taekwondo	speed skating	ski jumping	modern pentathlon	marathon	summer sport	winter sport	figure skating	skiing	beach volleyball
+121	ski jumping	alpine skiing	winter sport	mass start	giant slalom	women's team	alpine combined	medal winners	handball
+122	ice dancing	synchronized swimming	hammer throw	speed skating	indoor volleyball	triple jump	gymnast	wrestling freestyle	athletics	high jump	track and field	luge	pole vault
+123	wrestling	men's team	judo	athlete	alpine skiing	olympic sport	super g	alpine combined	women's team
+124	athlete	olympic sport	race
+125	olympic sport	marathon	summer games	athlete	judo	winter games	rhythmic gymnastics	biathlon	taekwondo
+126	olympic sport	nordic combined	rhythmic gymnastics	floor exercise	gymnastics team competition	wrestling	participates in	synchronized springboard
+127	gymnastics team competition	rhythmic gymnastics	artistic gymnastics	synchronized springboard	nordic combined	snowboard cross	olympic sport	biathlon
+128	olympic sport	rhythmic gymnastics	fencing	alpine combined	biathlon	artistic gymnastics	gymnastics team competition	decathlon
+129	gymnastics team competition	rhythmic gymnastics
+130	biathlon	mass start	olympic sport	speed skating	giant slalom	rhythmic gymnastics	team event	individual event	participates in	snowboard cross
+131	artistic gymnastics	ski jumping	speed skating	water polo	gymnast	women's team	gymnastics team competition	olympic sport	synchronized swimming	synchronized springboard	men's team	participates in	wrestling freestyle	rhythmic gymnastics	swimmer	summer sport	figure skating	beach volleyball
+132	figure skating	skating	athletics	swimmer	archery	beach volleyball	olympic sport	women's team	summer sport	ice dancing	alpine combined	men's team	breaststroke	track and field	participates in	medal winners	gymnast	triathlon	synchronized swimming	hockey
+133	water polo	gymnast	artistic gymnastics	nordic combined	snowboard cross	archery	swimmer	triathlon	beach volleyball	wrestling freestyle	gymnastics team competition	summer games	winter games	rhythmic gymnastics	fencing
+134	gymnast	taekwondo	athletics	figure skating	hammer throw	long jump	ice dancing	track and field	speed skating	fencing	athlete	olympic sport	women's team	nordic combined	triple jump	tennis	beach volleyball	summer games	biathlon	wrestling	synchronized swimming	freestyle skiing	javelin throw	modern pentathlon	ski jumping	wrestling freestyle	luge	archery	decathlon	pole vault	uneven bars	synchronized springboard	handball	snowboard cross	swimmer	high jump	indoor volleyball	artistic gymnastics	judo	triathlon	alpine skiing	water polo	equestrian	giant slalom	moguls	summer sport	winter sport	super g	alpine combined
+135	synchronized swimming	synchronized springboard	triathlon	decathlon
+136	pole vault	javelin throw	ski jumping	biathlon	rhythmic gymnastics	speed skating	taekwondo	luge	ice dancing	archery	equestrian	figure skating	synchronized swimming	freestyle skiing	handball	alpine combined	athletics	track and field	hammer throw	gymnast	long jump	fencing	triple jump	wrestling freestyle	bobsleigh	artistic gymnastics	indoor volleyball	snowboard cross	women's team	decathlon	skeet	beach volleyball	nordic combined	high jump	modern pentathlon	judo	swimmer	giant slalom	alpine skiing	super g	winter sport	summer sport
+137	bobsleigh	javelin throw	athletics	track and field	hammer throw	cycling track	medal winners	alpine skiing	equestrian	rhythmic gymnastics	winter sport	skeet	long jump	triple jump	archery
+138	snowboard cross	freestyle skiing	alpine skiing	moguls
+139	archery	indoor volleyball	track and field	triple jump	javelin throw	high jump	giant slalom	synchronized swimming	gymnast	figure skating	alpine skiing	speed skating	hammer throw	medal winners	long jump	fencing	artistic gymnastics	judo	ice dancing	taekwondo	wrestling freestyle	skeet	winter sport	women's team	ski jumping	tennis	summer sport
+140	freestyle skiing	snowboard cross	giant slalom	alpine combined	ski jumping	nordic combined	handball
+141	olympic sport	mass start	summer games	skiing	heavyweight dinghy
+142	rhythmic gymnastics	hockey	summer games	winter sport	track and field	summer sport	athletics	athlete	volleyball	archery
+143	athletics	athlete	tennis	cycling	medal winners	long jump	swimmer	hammer throw
+144	biathlon	super g	triathlon	synchronized springboard	alpine skiing	marathon	high jump
+145	giant slalom	alpine combined	nordic combined
+146	track and field	gymnastics team competition	wrestling	olympic sport	alpine skiing	high jump	synchronized springboard	super g	triathlon
+147	nordic combined	biathlon	cross country skiing	triathlon	alpine combined	modern pentathlon	skiing
+148	air rifle	trampoline	uneven bars	pommel horse	trap	aerials	air pistol
+149	trampoline	parallel bars	pommel horse
+150	modern pentathlon	uneven bars	figure skating	air pistol	aerials	pommel horse	air rifle	vault	snowboard
+151	air rifle	air pistol	triathlon	modern pentathlon	pommel horse
+152	team	mixed team
+153	tennis	ice dancing	women's team	men's team	synchronized springboard	team
+154	mixed team
+155	aquatics	diving	downhill
+156	cycling road
+157	moguls	cycling road	super g	trampoline
+158	aerials
+159	pursuit
+160	aquatics
+161	vault	super g
+162	team	individual event	all-round
+163	medal winners	luge
+164	giant slalom
+165	moguls	cycling track	cycling road	giant slalom	super g
+166	giant slalom	snowboard cross	super g
+167	badminton	indoor volleyball	tennis	beach volleyball
+168	indoor volleyball	badminton	tennis
+169	aquatics	cycling
+170	equestrian	wrestling
+171	trap	air rifle	rapid fire pistol	cycling road	air pistol
+172	air pistol	trap
+173	freestyle skiing	air pistol	vault	cycling road	trap	air rifle
+174	pole vault	trap	ski jumping	diving	alpine skiing
+175	pursuit
+176	all-rounder	moguls	modern pentathlon	aquatics	long jump	synchronized swimming	pairs	decathlon
+177	moguls
+178	modern pentathlon	pursuit	platform	synchronized platform	synchronized swimming
+179	pairs	vault	pursuit	synchronized platform
+180	pursuit
+181	modern pentathlon	decathlon	triple jump	long jump	high jump	aquatics	athletics
+182	synchronized platform
+183	springboard	pursuit	aquatics	vault	trap	aerials	all-rounder	team	synchronized platform	platform
+184	pairs	modern pentathlon	decathlon
+185	aerials	vault
+186	decathlon	modern pentathlon	pole vault	athletics	summer games
+187	uneven bars	parallel bars
+188	synchronized platform	keelboat	aerials
+189	synchronized platform	keelboat	skiff	pommel horse	springboard
+190	cycling road
+191	pairs	cycling road
+192	skiff
+193	individual
+194	butterfly
+195	skating	breaststroke	floor exercise	uneven bars	diving	weightlifting	skiing	windsurfer	backstroke	skeet	gymnast	sailing	snowboard	parallel bars	equestrian	moguls	hurdles	cycling	swimmer
+196	breaststroke	uneven bars	floor exercise	backstroke	hurdles	super g	moguls	synchronized springboard	ski jumping	alpine skiing	parallel bars	giant slalom	cycling	sailing	skeet	downhill	skiing
+197	water polo	skeet	synchronized springboard	giant slalom	indoor volleyball
+198	snowboard	parallel bars	volleyball	horizontal bar	pole vault	hurdles
+199	downhill	pairs
+200	taekwondo	artistic gymnastics	biathlon	gymnast
+201	equestrian	skiing	athletics	downhill
+202	alpine skiing	alpine combined
+203	alpine combined	snowboard	alpine skiing	skiing	bobsleigh	super g
+204	equestrian
+205	figure skating	biathlon	speed skating	athletics	cycling	modern pentathlon	triathlon	track and field	triple jump
+206	moguls	cycling	freestyle skiing	winter sport	alpine combined	giant slalom	alpine skiing	nordic combined
+207	figure skating	biathlon	cycling road	alpine skiing	nordic combined	equestrian	fencing
+208	speed skating	mass start	biathlon	figure skating
+209	long jump	cycling track	high jump	pole vault	hurdles	hammer throw	triple jump	triathlon	javelin throw
+210	athlete	hammer throw	pole vault	high jump	long jump	ski jumping
+211	triple jump	snowboard	nordic combined	ski jumping
+212	mass start	marathon	biathlon
+213	long jump	pole vault	ski jumping
+214	track and field	breaststroke	cycling	walk	hammer throw	race	ski jumping	triathlon	mass start	hurdles	javelin throw	long jump	triple jump	marathon	pole vault	speed skating
+215	mass start	triple jump	biathlon
+216	triathlon
+217	hurdles	triathlon	high jump	mass start	pole vault	race	walk	air pistol
+218	race	triathlon	pole vault	breaststroke	ski jumping	hurdles	speed skating	walk	archery	mass start	cycling	track and field
+219	giant slalom	javelin throw	triple jump	hammer throw	beach volleyball	high jump	triathlon	mass start
+220	aquatics
+221	participates in	synchronized springboard	individual event	winter sport	giant slalom	team event	winter games	event	summer sport	marathon	walk	gymnastics team competition	volleyball	race	decathlon
+222	marathon	decathlon	winter games	summer games	gymnastics team competition	event	team event	race	modern pentathlon	handball
+223	summer sport	walk	gymnastics team competition	triathlon	marathon	volleyball	summer games	modern pentathlon
+224	individual event	giant slalom	participates in	summer sport	olympic sport
+225	summer games	marathon	synchronized springboard	triathlon
+226	summer games	individual event	gymnastics team competition	marathon	participates in	modern pentathlon	event	winter games	decathlon	walk	olympic sport
+227	synchronized platform	mixed team	marathon
+228	individual
+229	individual
+230	individual	windsurfer
+231	individual
+232	individual
+233	pursuit	windsurfer
+234	diving	sailing	skiff	race	heavyweight dinghy	windsurfer	swimmer	olympic sport	aquatics
+235	hockey	participates in	race	women's team	springboard	cycling	weightlifting	trampoline	downhill	aquatics	cross country skiing	marathon
+236	pursuit	hurdles	athletics	participates in	balance beam
+237	cycling	diving	cross country skiing	race	downhill	marathon	women's team	balance beam	weightlifting	participates in	swimmer
+238	equestrian
+239	wrestling	skiing	cycling track	cycling	fencing	bobsleigh	hockey	judo	equestrian	men's team	alpine combined	snowboard	ski jumping	alpine skiing	snowboard cross	giant slalom	freestyle skiing	super g	cross country skiing	skeet	speed skating	taekwondo	figure skating	luge	walk	handball	tennis	wrestling freestyle	race	women's team	downhill	athletics	trampoline	balance beam	triple jump	winter sport
+240	walk	speed skating	luge	freestyle skiing	sailing	bobsleigh	snowboard cross	taekwondo	ski jumping	winter sport	fencing	alpine combined	figure skating	cycling	skating	super g	race	synchronized swimming	skiing	aquatics	equestrian	mass start	diving	water polo	backstroke	snowboard	cycling track	hockey	swimmer
+241	skeet
+242	beach volleyball	hammer throw	athlete	volleyball	rhythmic gymnastics	water polo	handball	indoor volleyball	tennis	windsurfer	summer sport	olympic sport	bobsleigh	ice dancing	mass start	uneven bars	skating	athletics	hockey	team event	all round	high jump	taekwondo	floor exercise	women's team	wrestling freestyle	wrestling	archery	trampoline	gymnast	artistic gymnastics	judo	gymnastics team competition
+243	gymnastics team competition	artistic gymnastics	pommel horse	pole vault	floor exercise
+244	cycling track	long jump
+245	alpine combined	giant slalom	nordic combined	mass start	biathlon	cross country skiing	freestyle skiing	super g	ski jumping	winter sport	alpine skiing	moguls	skiing	olympic sport	downhill	winter games
+246	triple jump	marathon	long jump	walk	aquatics	beach volleyball	athletics	triathlon	modern pentathlon	cycling	race	taekwondo	track and field
+247	parallel bars	pommel horse	horizontal bar
+248	badminton	olympic sport	summer sport	beach volleyball	team event	skating	tennis	indoor volleyball	athletics	volleyball	athlete
+249	cycling	downhill	triathlon	mass start	cycling track	summer sport	race	olympic sport
+250	gymnastics team competition	balance beam	gymnast	artistic gymnastics	floor exercise	synchronized springboard
+251	water polo	handball	indoor volleyball	beach volleyball
+252	long jump	high jump	track and field	marathon	athletics	hammer throw	triple jump	gymnast
+253	weightlifting	parallel bars
+254	nordic combined	ice dancing	winter sport	mass start	olympic sport	skating	biathlon	hockey	figure skating	winter games	speed skating
+255	gymnastics team competition	artistic gymnastics	gymnast
+256	walk	ice dancing	cycling
+257	artistic gymnastics	gymnastics team competition	gymnast	hammer throw	horizontal bar
+258	athletics	artistic gymnastics	triple jump	long jump	nordic combined	track and field	trampoline	ski jumping	synchronized springboard	high jump
+259	fencing	floor exercise	team event	beach volleyball
+260	athletics	track and field	long jump	high jump	triple jump
+261	nordic combined	winter games	mass start	moguls	windsurfer	alpine combined	giant slalom	skiing	snowboard cross	winter sport	cycling
+262	skeet	biathlon
+263	sailing	windsurfer	synchronized springboard	keelboat	aerials	skiff
+264	athletics	javelin throw	track and field	hammer throw
+265	equestrian	race	modern pentathlon	pommel horse
+266	rapid fire pistol	wrestling	trap	men's team	ski jumping	pairs	water polo	bobsleigh	cycling track	taekwondo	athlete	judo	skiing	walk	wrestling freestyle	artistic gymnastics	pole vault	fencing	gymnast
+267	gymnastics team competition	floor exercise	artistic gymnastics	gymnast	pommel horse
+268	javelin throw	hammer throw	track and field	handball
+269	long jump	triple jump
+270	keelboat	sailing	race	windsurfer	skiff	olympic sport	handball	synchronized swimming	beach volleyball
+271	gymnastics team competition	artistic gymnastics	hammer throw	weightlifting	team event	wrestling
+272	fencing	modern pentathlon
+273	figure skating	olympic sport	archery	windsurfer	modern pentathlon	biathlon	skeet	skating	hammer throw	cycling	equestrian	rhythmic gymnastics	track and field	fencing
+274	bobsleigh	olympic sport	luge	mass start	winter sport
+275	aquatics	synchronized springboard	swimmer	diving	synchronized swimming
+276	javelin throw	triple jump	long jump
+277	gymnastics team competition	skating	gymnast	artistic gymnastics	biathlon	parallel bars	uneven bars	taekwondo	judo	balance beam	wrestling
+278	race	triathlon	water polo	summer sport	diving	backstroke	rhythmic gymnastics	women's team	synchronized swimming	swimmer	marathon	modern pentathlon	ice dancing
+279	handball	hockey	vault	olympic sport	biathlon	archery	badminton	tennis	beach volleyball	volleyball	indoor volleyball	track and field	bobsleigh	air rifle
+280	luge	bobsleigh	cycling	sailing
+281	taekwondo	wrestling freestyle	cycling	skating	speed skating	beach volleyball	pommel horse	fencing	figure skating	cycling track
+282	rhythmic gymnastics
+283	snowboard	nordic combined	super g	cross country skiing	freestyle skiing	alpine skiing	ski jumping	moguls	alpine combined	giant slalom	skiing	snowboard cross
+284	giant slalom	cross country skiing	alpine combined	skiing	ski jumping	alpine skiing	super g	mass start	trap	pole vault	athletics	track and field	sailing	rhythmic gymnastics	wrestling
+285	wrestling	gymnast	gymnastics team competition	artistic gymnastics
+286	summer sport	rhythmic gymnastics	gymnastics team competition	wrestling	gymnast
+287	rhythmic gymnastics
+288	rhythmic gymnastics	ice dancing
+289	swimmer	race	biathlon	speed skating	olympic sport	athletics	cross country skiing
+290	participates in	marathon	bobsleigh	synchronized springboard	high jump	ice dancing	race	fencing	synchronized swimming	wrestling	pole vault	alpine combined	long jump	swimmer	ski jumping	tennis	cycling	nordic combined	individual event	summer games	triathlon	olympic sport	mass start	athlete	wrestling freestyle	team event	event	winter games	rhythmic gymnastics	men's team	indoor volleyball	artistic gymnastics	javelin throw
+291	synchronized springboard	springboard	synchronized platform
+292	equestrian	heavyweight dinghy
+293	synchronized springboard	medal winners	super g	synchronized swimming	race	speed skating	beach volleyball	bobsleigh	snowboard cross	tennis	gymnastics team competition	triple jump	long jump	high jump	cycling track	javelin throw	floor exercise	hammer throw	mass start	athlete	wrestling freestyle	alpine combined	pole vault	wrestling
+294	triple jump	biathlon	race	bobsleigh	athletics	marathon	long jump	track and field
+295	cycling	marathon	mass start	sailing	wrestling	archery	snowboard cross	cycling track	race	skiing	windsurfer	dinghy	equestrian	heavyweight dinghy	keelboat
+296	floor exercise	giant slalom	athlete	wrestling freestyle	swimmer	race	medal winners	ski jumping	hammer throw	uneven bars	super g	mass start	heavyweight dinghy	cycling track	cross country skiing	freestyle skiing	nordic combined	alpine combined	alpine skiing	ice dancing	luge	snowboard cross	bobsleigh	winter games
+297	individual event	medal winners	cycling track	event	participates in
+298	artistic gymnastics	gymnast	gymnastics team competition
+299	artistic gymnastics	gymnast	gymnastics team competition
+300	speed skating	biathlon
+301	skeet	biathlon	archery
+302	alpine combined	super g	giant slalom	alpine skiing
+303	synchronized springboard	swimmer	wrestling	artistic gymnastics	gymnast	gymnastics team competition	speed skating	race	snowboard cross	luge	participates in	triple jump	synchronized platform	marathon
+304	athletics	track and field	pole vault	nordic combined	high jump	skating	figure skating	trampoline	aquatics	long jump
+305	gymnastics team competition	speed skating	luge	giant slalom	biathlon	archery	nordic combined	artistic gymnastics	fencing	participates in	figure skating
+306	mass start	nordic combined	biathlon	super g
+307	track and field	athletics	marathon	alpine combined	hammer throw	javelin throw	summer games	long jump	triple jump	high jump	olympic sport	swimmer
+308	race	alpine combined	olympic sport	snowboard cross	marathon	wrestling freestyle	mass start	gymnastics team competition	synchronized springboard	participates in	speed skating	super g	medal winners	modern pentathlon
+309	winter games	nordic combined	ice dancing	cycling	weightlifting	athletics	beach volleyball	downhill	triathlon
+310	race	mass start	swimmer	speed skating	medal winners	athlete	summer games	athletics	marathon	synchronized swimming	cycling	olympic sport	triathlon	cross country skiing
+311	decathlon	speed skating
+312	long jump	high jump	decathlon	giant slalom	rhythmic gymnastics	mass start	javelin throw	freestyle skiing	ice dancing	bobsleigh	alpine skiing	wrestling freestyle	figure skating	wrestling	floor exercise	artistic gymnastics	nordic combined	winter sport	summer games	uneven bars
+313	marathon	figure skating	ice dancing	wrestling	water polo	triathlon	modern pentathlon	bobsleigh	floor exercise	cycling	fencing	artistic gymnastics	gymnast	synchronized springboard	giant slalom	luge	speed skating	synchronized swimming	archery	nordic combined	gymnastics team competition
+314	figure skating	athletics	track and field	bobsleigh	ice dancing	artistic gymnastics	platform	synchronized swimming	biathlon	fencing
+315	track and field	decathlon	athletics	snowboard cross	speed skating	archery	triple jump	nordic combined	high jump	hurdles	olympic sport
+316	modern pentathlon	triathlon	summer games	winter games	ice dancing	figure skating	olympic sport	cross country skiing	archery
+317	decathlon	athletics	track and field
+318	ice dancing	figure skating
+319	wrestling
+320	javelin throw	triple jump	nordic combined	speed skating	cycling track	swimmer	bobsleigh	track and field	synchronized swimming	luge	race	synchronized springboard	alpine skiing	archery	super g	figure skating	wrestling	ski jumping	fencing	biathlon	winter sport	summer games	modern pentathlon	cycling	triathlon	long jump	snowboard cross
+321	figure skating	marathon	ice dancing	cross country skiing	snowboard cross	ski jumping	gymnastics team competition	luge
+322	nordic combined	ski jumping
+323	figure skating	swimmer	artistic gymnastics	synchronized swimming	cross country skiing	snowboard	synchronized springboard	skiing	windsurfer
+324	nordic combined	ski jumping
+325	mass start	winter sport	winter games	bobsleigh
+326	pairs
+327	pursuit	all-round
+328	trap
+329	trap
+330	pairs
+331	all-round	pairs
+332	all-rounder	all-round
+333	parallel bars
+334	downhill	snowboard cross	moguls
+335	figure skating	alpine combined	olympic sport	alpine skiing	ski jumping	luge
+336	women's team
+337	bobsleigh	air rifle	dinghy	synchronized platform	all-round	air pistol	rapid fire pistol	butterfly	platform	hurdles	skiff	backstroke	moguls	heavyweight dinghy	springboard
+338	springboard	air pistol	synchronized platform	horizontal bar	hurdles	uneven bars	parallel bars	pommel horse	balance beam	snowboard	trampoline
+339	rapid fire pistol
+340	synchronized platform	keelboat	vault	aquatics	platform	hurdles
+341	springboard	trampoline	heavyweight dinghy	downhill	pommel horse	aquatics
+342	skiff	trampoline	balance beam	keelboat	modern pentathlon
+343	springboard	trampoline	balance beam	pommel horse
+344	springboard	heavyweight dinghy	hurdles	parallel bars	pommel horse
+345	heavyweight dinghy	springboard	balance beam	moguls	keelboat	skiff	aerials	pommel horse	dinghy
+346	pairs	rapid fire pistol	air rifle	air pistol	team	cycling track	downhill	cycling road	snowboard
+347	moguls	cycling track
+348	dinghy	skiff	hurdles	fencing
+349	balance beam	platform	heavyweight dinghy	synchronized platform	hurdles
+350	downhill	moguls	ski jumping
+351	butterfly	pairs
+352	cycling road	bobsleigh	downhill
+353	heavyweight dinghy	vault	dinghy	skiff	keelboat
+354	keelboat	dinghy	skiff	snowboard	pommel horse	balance beam	diving	heavyweight dinghy	aquatics	air rifle	platform
+355	aquatics	pairs	snowboard	rapid fire pistol	horizontal bar	giant slalom	platform	air pistol	trampoline	downhill	moguls
+356	snowboard	aquatics
+357	butterfly	snowboard
+358	cycling track	cycling road	equestrian	downhill	snowboard cross	bobsleigh	giant slalom
+359	cycling track	cycling road	vault
+360	dinghy	horizontal bar	cycling road	trampoline	cycling track	snowboard cross	keelboat	moguls	snowboard	aquatics	fencing	vault	butterfly
+361	cycling road	trampoline	snowboard cross	pommel horse	moguls	vault	giant slalom	super g	fencing	aquatics
+362	parallel bars	uneven bars
+363	rapid fire pistol	air rifle	air pistol
+364	uneven bars	moguls	cycling road	downhill	platform	balance beam
+365	all-round	medal winners	athletics	team
+366	butterfly
+367	triple jump	giant slalom	nordic combined	track and field	judo	ski jumping	artistic gymnastics	luge	mass start	super g	alpine combined	speed skating	winter sport	athletics	javelin throw	long jump	swimmer	high jump	alpine skiing
+368	taekwondo
+369	individual event	race	mass start	synchronized springboard	wrestling	gymnastics team competition	event	fencing	marathon	team event
+370	individual event	marathon	gymnastics team competition	event	synchronized springboard	mass start
+371	mass start
+372	gymnastics team competition	synchronized springboard
+373	pursuit	team event	mixed team	pairs
+374	moguls	downhill	snowboard
+375	trampoline	platform	horizontal bar	pairs
+376	trampoline	hurdles	horizontal bar	parallel bars	weightlifting	pommel horse
+377	platform
+378	pairs
+379	team event	walk	participates in	individual event	summer games	freestyle skiing
+380	summer games	event	butterfly	winter games	participates in	aerials	pairs	high jump
+381	trap	horizontal bar	platform	team
+382	vault
+383	air pistol	platform	horizontal bar	long jump
+384	platform	vault	aerials	horizontal bar	rapid fire pistol	trap
+385	pairs	team	platform	horizontal bar
+386	horizontal bar	pairs	vault	balance beam
+387	platform	cycling road	horizontal bar
+388	aerials
+389	vault
+390	synchronized platform
+391	volleyball	indoor volleyball	hockey	handball	badminton	water polo
+392	skeet
+393	volleyball	badminton	summer sport	indoor volleyball
+394	indoor volleyball	water polo	beach volleyball
+395	badminton	indoor volleyball	volleyball	tennis	skeet	handball	speed skating	cycling	beach volleyball
+396	water polo	tennis	beach volleyball	women's team	badminton	indoor volleyball	volleyball
+397	badminton	volleyball	tennis	indoor volleyball	beach volleyball	handball	pairs	hockey
+398	indoor volleyball	volleyball	hockey	handball	mass start	beach volleyball	water polo	badminton
+399	water polo	handball	hockey
+400	badminton	tennis
+401	hockey	water polo	skeet
+402	water polo	handball
+403	cycling
+404	gymnast
+405	mixed team	women's team	water polo	medal winners	athletics	bobsleigh	synchronized swimming	track and field	winter games	athlete	synchronized springboard	team event
+406	marathon	athletics	race	track and field	medal winners	winter games	women's team	swimmer
+407	winter games	summer games	gymnastics team competition	olympic sport	medal winners
+408	winter games	medal winners	summer games	men's team
+409	team event	pursuit	individual	team	participates in
+410	pursuit	team	men's team	participates in	race	diving	winter games	athlete	women's team	mixed team	team event
+411	participates in	sailing	cycling	team event	women's team	event
+412	participates in	men's team	team	biathlon
+413	indoor volleyball	women's team	men's team	winter sport	floor exercise	gymnastics team competition	badminton	tennis	ski jumping	olympic sport	wrestling	wrestling freestyle	handball	hockey	water polo	rhythmic gymnastics	judo	volleyball	fencing	skeet	beach volleyball	javelin throw
+414	pursuit
+415	nordic combined	weightlifting	team event	pommel horse	wrestling	winter sport	taekwondo	speed skating	parallel bars	floor exercise
+416	backstroke	breaststroke	windsurfer	diving	walk	sailing
+417	women's team	mixed team	men's team	summer sport	pursuit
+418	track and field	taekwondo	individual	judo
+419	team
+420	individual
+421	synchronized platform
+422	parallel bars	gymnast	uneven bars	floor exercise
+423	uneven bars	pommel horse	gymnastics team competition	parallel bars	gymnast	artistic gymnastics
+424	parallel bars	uneven bars	pommel horse	rhythmic gymnastics	summer games	artistic gymnastics	floor exercise	gymnast
+425	uneven bars	gymnast	floor exercise	parallel bars
+426	aquatics	butterfly	sailing
+427	aquatics	diving
+428	aquatics
+429	individual
+430	balance beam
+431	balance beam	snowboard	platform	hurdles	parallel bars	uneven bars	pole vault
+432	winter games	summer sport
+433	summer games	winter games	beach volleyball	handball	ski jumping
+434	winter games
+435	rapid fire pistol	archery	javelin throw
+436	taekwondo	wrestling	archery	olympic sport	modern pentathlon
+437	wrestling	archery	modern pentathlon	biathlon	javelin throw	triathlon
+438	modern pentathlon	biathlon
+439	winter games	summer games
+440	keelboat
+441	individual
+442	event	individual event	medal winners
+443	aquatics
+444	aquatics	weightlifting
+445	all-rounder	individual event	pairs	all-round	mass start	pursuit	medal winners
+446	artistic gymnastics	horizontal bar	pairs
+447	athlete	all-rounder	medal winners	uneven bars	pursuit	triple jump	javelin throw	individual event	long jump
+448	individual event	cycling	medal winners	floor exercise	pairs
+449	modern pentathlon	high jump	decathlon	pole vault	javelin throw	hammer throw	long jump	mass start
+450	pairs
+451	medal winners
+452	synchronized platform	platform
+453	aquatics
+454	aerials
+455	trampoline	aerials
+456	individual
+457	team event	mixed team	synchronized platform	synchronized swimming
+458	gymnastics team competition	wrestling	figure skating	artistic gymnastics
+459	ice dancing	gymnastics team competition	synchronized swimming	synchronized springboard	rhythmic gymnastics	figure skating	artistic gymnastics	floor exercise	olympic sport
+460	synchronized springboard	gymnastics team competition	synchronized swimming	floor exercise	rhythmic gymnastics	artistic gymnastics	figure skating	giant slalom	individual event	olympic sport	super g	ice dancing	ski jumping
+461	trampoline	ski jumping
+462	men's team	team	equestrian	medal winners	women's team	mixed team
+463	women's team	men's team
+464	men's team	hockey
+465	backstroke	breaststroke	water polo
+466	rapid fire pistol	air pistol	handball
+467	heavyweight dinghy	air rifle	rapid fire pistol	cycling track	horizontal bar	cycling road	diving	all-rounder	air pistol	bobsleigh	vault
+468	hurdles	fencing	ski jumping	keelboat	cycling track	dinghy	horizontal bar	cycling road	diving
+469	volleyball	balance beam	uneven bars
+470	athletics	women's team	wrestling	gymnast	men's team	equestrian	cycling	alpine combined	gymnastics team competition	floor exercise	diving	participates in	pursuit	hockey	medal winners	triathlon	figure skating	skating	synchronized swimming	ice dancing
+471	uneven bars	alpine skiing	diving	women's team	men's team	windsurfer	skiing	floor exercise	weightlifting	breaststroke	sailing	synchronized springboard	moguls	alpine combined	parallel bars	backstroke	hammer throw	giant slalom	ski jumping	skeet	super g	equestrian	skating	gymnast	snowboard
+472	participates in
+473	olympic sport	cycling	pursuit
+474	butterfly
+475	athlete	individual	women's team
+476	aquatics
+477	air pistol	moguls	cycling track	cycling road	platform	trampoline
+478	tennis	ice dancing	cycling track	cycling road	air pistol
+479	speed skating	archery	cycling	walk	volleyball	handball	trampoline	track and field	balance beam
+480	event	participates in	individual event	race	skating	handball	tennis	skeet	summer sport	olympic sport	cycling	marathon	summer games	hurdles	fencing	team	team event	men's team
+481	summer games	cycling track	walk	cycling road	marathon	women's team	trap
+482	sailing	aquatics	trap	skiff	swimmer	beach volleyball	backstroke	dinghy	race	windsurfer	diving	heavyweight dinghy	cycling road	springboard	keelboat	platform	triathlon	walk	skating	volleyball	summer sport
+483	skiing	snowboard cross	giant slalom	alpine skiing	ski jumping	moguls	figure skating	biathlon	speed skating	alpine combined	synchronized springboard	snowboard	bobsleigh	springboard	winter games	winter sport	super g	cross country skiing
+484	women's team	individual event	summer sport	gymnastics team competition	men's team	tennis	event	participates in	team event	equestrian	fencing	cycling track	balance beam	pommel horse	parallel bars	figure skating	handball	floor exercise	synchronized platform	speed skating	synchronized swimming	hockey	volleyball	trampoline	skating
+485	downhill	cycling	race	winter games	bobsleigh	cross country skiing	ski jumping	skiing	snowboard	cycling road	winter sport	giant slalom	alpine combined	super g	alpine skiing	skating	moguls	walk	windsurfer	skiff	keelboat	dinghy	heavyweight dinghy	aquatics	backstroke	sailing	diving	trap	swimmer	springboard
+486	parallel bars	men's team	pommel horse	vault	balance beam	team event	platform	horizontal bar	team	rapid fire pistol	trampoline	event	gymnastics team competition	aerials	individual event
+487	individual event	vault	event	synchronized platform	cycling road	platform	fencing	trap	marathon	horizontal bar	cycling	synchronized springboard	synchronized swimming	diving	water polo	swimmer	springboard	summer sport	aquatics	balance beam	parallel bars	trampoline	cross country skiing	cycling track	tennis	skating	team event	skiing	participates in	walk	women's team	equestrian
+488	giant slalom	mass start	bobsleigh	alpine combined	figure skating	keelboat	winter games	gymnastics team competition	heavyweight dinghy	biathlon	ski jumping	luge	summer games	medal winners	fencing	pole vault
+489	fencing	aerials	horizontal bar	cycling road	trap	skeet	walk	marathon	platform	cycling track	water polo	event	tennis	gymnastics team competition	cycling	skating	handball	hockey	balance beam	triathlon	parallel bars	figure skating	hurdles	archery	individual event	team event
+490	ice dancing	ski jumping	winter sport	cross country skiing	downhill	skiing	trap
+491	equestrian	skeet	hurdles	biathlon	rapid fire pistol	vault	heavyweight dinghy	archery	synchronized platform	keelboat	water polo	backstroke	platform	fencing	skating	synchronized springboard	cycling
+492	equestrian	horizontal bar	trap	platform	men's team	team event	downhill	skiing	participates in	cycling	walk	race	cycling road	aerials	backstroke
+493	winter games	snowboard	alpine skiing	winter sport	super g	moguls	skiing	cross country skiing
+494	hockey	mass start	ice dancing	figure skating	skating
+495	fencing
+496	women's team	fencing
+497	team event	event	summer games	participates in
+498	alpine combined	skiing	alpine skiing	ski jumping	winter sport	giant slalom	moguls	super g
+499	skiing	alpine skiing	cross country skiing	marathon	ski jumping	winter sport	badminton
+500	aerials	cross country skiing	cycling track	marathon	winter games
+501	air pistol	figure skating	aerials	air rifle	vault
+502	aerials	vault	air rifle
+503	air pistol	aerials	breaststroke
+504	taekwondo	judo
+505	judo	taekwondo	freestyle skiing	archery
+506	archery	skeet
+507	dinghy	fencing	horizontal bar	springboard	balance beam	platform	trap	aerials	bobsleigh	hurdles	trampoline	snowboard	skiff	heavyweight dinghy	keelboat	vault	parallel bars
+508	trampoline	hurdles
+509	dinghy	keelboat	parallel bars	heavyweight dinghy	snowboard	fencing	trampoline	skiff	aerials	super g	springboard	balance beam
+510	skiff	vault	dinghy	springboard	horizontal bar	trap	hurdles	platform	synchronized platform	snowboard	bobsleigh	fencing	parallel bars	keelboat	heavyweight dinghy	balance beam
+511	all round	pairs
+512	pursuit
+513	pursuit
+514	cycling track	all round	long jump	archery	race	triple jump	hurdles	horizontal bar
+515	all round
+516	trap	rapid fire pistol	air pistol	synchronized platform	air rifle
+517	air rifle	air pistol	trap
+518	synchronized platform
+519	rapid fire pistol
+520	medal winners
+521	winter games	summer games	gymnastics team competition
+522	hammer throw	biathlon	archery	judo	tennis	javelin throw	marathon	taekwondo
+523	tennis	race	archery	wrestling	modern pentathlon	athletics	mass start	fencing
+524	hurdles	athlete	wrestling
+525	athlete	archery	alpine combined	all-rounder	gymnast	fencing	swimmer	long jump	skeet
+526	swimmer	athlete	pursuit	all-rounder
+527	all-rounder	swimmer	athlete	gymnast	long jump	pursuit
+528	pursuit	windsurfer
+529	rhythmic gymnastics	sailing	athletics	artistic gymnastics	archery	windsurfer	triathlon	modern pentathlon	marathon	judo	javelin throw	tennis	track and field
+530	artistic gymnastics	archery	rhythmic gymnastics	windsurfer	sailing	modern pentathlon	synchronized swimming	biathlon	athletics
+531	cycling	race	rapid fire pistol	air pistol	walk	participates in
+532	cycling	bobsleigh	cross country skiing
+533	skating	walk
+534	pursuit	participates in
+535	pursuit
+536	floor exercise	artistic gymnastics
+537	backstroke	skating	uneven bars	figure skating	ice dancing
+538	synchronized swimming	breaststroke	backstroke
+539	backstroke	breaststroke	synchronized swimming
+540	rhythmic gymnastics	skating	synchronized swimming	trap
+541	aquatics	downhill	ice dancing	skating	figure skating
+542	weightlifting	parallel bars
+543	weightlifting
+544	weightlifting
+545	weightlifting
+546	ice dancing	fencing
+547	medal winners	women's team
+548	individual event	pursuit	event
+549	individual event	pursuit	butterfly
+550	individual
+551	team event	mass start	individual event
+552	badminton	tennis
+553	indoor volleyball	beach volleyball	water polo	volleyball
+554	badminton	volleyball	indoor volleyball	hockey	beach volleyball	tennis	handball	bobsleigh	men's team
+555	super g
+556	water polo	men's team	hockey	women's team	wrestling
+557	skeet	archery
+558	men's team	women's team	swimmer	handball	olympic sport	fencing
+559	marathon	water polo	race	participates in	team event	wrestling	athletics	olympic sport	men's team	mass start	women's team	hammer throw	javelin throw	sailing	track and field	winter games	volleyball	team	athlete	skeet	pursuit	gymnastics team competition	synchronized swimming	floor exercise
+560	wrestling freestyle	indoor volleyball	gymnastics team competition	wrestling
+561	sailing	marathon	mass start
+562	participates in	wrestling	volleyball	water polo	olympic sport	beach volleyball	race	judo	hammer throw	javelin throw	team event	modern pentathlon	individual event	all-round	wrestling freestyle	winter sport	marathon	floor exercise
+563	judo	beach volleyball	javelin throw	wrestling freestyle	wrestling	athletics
+564	indoor volleyball	handball	hockey	volleyball	beach volleyball	tennis	fencing	badminton
+565	handball	indoor volleyball	wrestling freestyle
+566	skeet
+567	wrestling	judo	nordic combined	wrestling freestyle	water polo	beach volleyball
+568	badminton	athletics	women's team	olympic sport	beach volleyball	hockey	fencing	wrestling	handball	marathon	tennis	mixed team	modern pentathlon
+569	mass start
+570	summer games	athletics	marathon	olympic sport	modern pentathlon	race	triple jump	winter games	individual event
+571	super g
+572	water polo	high jump	mass start	javelin throw	alpine combined	winter sport	biathlon	alpine skiing	badminton	volleyball	indoor volleyball	nordic combined	hockey	super g	speed skating
+573	olympic sport
+574	mass start	nordic combined	luge	ski jumping	alpine combined	bobsleigh	ice dancing	biathlon	giant slalom	hockey	super g	speed skating	alpine skiing
+575	nordic combined	volleyball	biathlon	indoor volleyball	taekwondo	modern pentathlon	speed skating	water polo	high jump	badminton	alpine combined
+576	all-round
+577	all-round
+578	pursuit
+579	aquatics
+580	team event	mixed team	event
+581	team event	event	participates in
+582	cycling road	downhill	horizontal bar	hurdles
+583	downhill	horizontal bar
+584	figure skating	skeet	judo	modern pentathlon	skiff	triathlon	luge	ice dancing	taekwondo	rapid fire pistol
+585	skiff	nordic combined	luge	bobsleigh	rapid fire pistol	ice dancing	skeet	judo	biathlon
+586	biathlon	ice dancing	nordic combined	bobsleigh	luge	super g	figure skating	modern pentathlon	taekwondo	rhythmic gymnastics	skeet
+587	event	individual event	team event	pursuit
+588	event	individual event	pursuit	mixed team	team event	participates in
+589	participates in	individual event	pursuit	event	team event	mixed team
+590	walk
+591	marathon	all-round	cycling	skating	luge	mass start	all-rounder	triathlon	medal winners
+592	men's team	individual	olympic sport
+593	athletics	race
+594	winter games	gymnastics team competition	summer games
+595	individual event	cycling	skating	race	event	mass start	winter sport	fencing	bobsleigh	team event	marathon	modern pentathlon
+596	snowboard cross	event	olympic sport	gymnastics team competition	winter games	race	bobsleigh	summer games	giant slalom	handball	beach volleyball	marathon	individual event	team event	men's team	wrestling
+597	men's team	event	team event	individual event	marathon	bobsleigh	alpine skiing	triathlon
+598	bobsleigh	sailing	heavyweight dinghy	mass start	winter sport	fencing	race
+599	super g	luge	snowboard cross	skeet
+600	gymnastics team competition	wrestling	synchronized springboard	uneven bars
+601	race
+602	winter games	summer games	olympic sport	gymnastics team competition	bobsleigh
+603	summer games
+604	women's team	men's team	floor exercise	synchronized swimming	synchronized springboard
+605	rhythmic gymnastics	cycling	speed skating	pommel horse	windsurfer	judo	javelin throw
+606	all-rounder	all-round
+607	individual
+608	medal winners	individual	all-rounder
+609	individual	windsurfer	athlete	all-round	all-rounder
+610	taekwondo	judo	aerials	participates in
+611	judo
+612	individual
+613	cycling	winter sport	taekwondo	badminton	mass start
+614	summer sport	winter sport
+615	butterfly	aerials
+616	swimmer	windsurfer	athlete	gymnast	all-rounder
+617	gymnast	fencing	long jump	cycling	judo	weightlifting	athlete	athletics	race	archery
+618	cycling	archery	judo	figure skating	rhythmic gymnastics	freestyle skiing	windsurfer	wrestling	taekwondo	pommel horse	synchronized swimming	parallel bars	high jump	uneven bars	alpine skiing	pole vault	long jump	gymnast	floor exercise	balance beam	diving	cross country skiing	athletics	alpine combined	artistic gymnastics	wrestling freestyle	ice dancing
+619	fencing	athlete	high jump	olympic sport	all-rounder	long jump	race	athletics	swimmer	heavyweight dinghy	winter sport
+620	all-rounder	aerials	athlete	all-round	horizontal bar	gymnast	vault	swimmer	windsurfer	breaststroke
+621	cycling	taekwondo
+622	breaststroke	swimmer	cycling road
+623	athlete	gymnast	taekwondo	all-rounder
+624	butterfly
+625	individual
+626	individual	athlete	windsurfer	swimmer	aerials	butterfly	hurdles	gymnast	taekwondo	aquatics
+627	windsurfer	individual	hurdles
+628	indoor volleyball	hockey	wrestling	synchronized swimming	tennis	cross country skiing	alpine combined	wrestling freestyle	ski jumping	athletics	pole vault	sailing	artistic gymnastics	track and field	speed skating	modern pentathlon	diving	winter sport	beach volleyball	biathlon	uneven bars	cycling	handball	fencing	nordic combined	snowboard cross	olympic sport	marathon	rhythmic gymnastics	luge	freestyle skiing	hammer throw	water polo	alpine skiing	windsurfer	judo	figure skating	volleyball	javelin throw	archery	skiing	ice dancing	long jump	badminton	triple jump
+629	summer sport	modern pentathlon	triathlon	water polo	diving	swimmer	springboard
+630	marathon	cycling	cross country skiing	athletics	water polo	sailing	handball	archery	modern pentathlon	decathlon
+631	diving	synchronized swimming
+632	giant slalom	pursuit
+633	parallel bars	uneven bars
+634	cross country skiing	hockey	wrestling freestyle	indoor volleyball	olympic sport	long jump	marathon	beach volleyball	handball	javelin throw	archery	freestyle skiing	triple jump	windsurfer	artistic gymnastics	hammer throw	alpine skiing	water polo	biathlon	skiing	speed skating	pole vault	luge	alpine combined	judo	synchronized swimming	wrestling	track and field	sailing	winter sport	cycling	giant slalom	athletics	race	swimmer	athlete	modern pentathlon	nordic combined	figure skating	rhythmic gymnastics	fencing	tennis	summer sport	diving
+635	badminton	tennis	handball	skeet	summer sport	synchronized swimming	water polo
+636	nordic combined	triathlon	alpine combined	synchronized springboard	modern pentathlon	athlete	gymnast	all-rounder	archery	judo	olympic sport	synchronized swimming	water polo	cycling
+637	archery	biathlon	air pistol
+638	badminton	volleyball	hockey	synchronized swimming	cross country skiing	wrestling freestyle	athletics	triple jump	handball	indoor volleyball	track and field	beach volleyball	tennis	alpine combined	sailing	windsurfer	alpine skiing	figure skating	nordic combined	speed skating	modern pentathlon	skiing	javelin throw	olympic sport	pole vault	freestyle skiing	long jump	luge	rhythmic gymnastics	wrestling	ski jumping	ice dancing	fencing	gymnast	moguls	snowboard	winter sport	summer sport	uneven bars	snowboard cross	athlete	artistic gymnastics	high jump	swimmer
+639	cycling	figure skating	winter sport	rhythmic gymnastics	cross country skiing	alpine skiing	uneven bars	windsurfer	artistic gymnastics	gymnast	floor exercise	skiing	sailing
+640	wrestling	winter sport	mass start	hockey
+641	swimmer	athlete
+642	wrestling	fencing	wrestling freestyle	freestyle skiing	high jump	hammer throw	javelin throw	handball	luge	long jump	modern pentathlon	rhythmic gymnastics	tennis	nordic combined	weightlifting	windsurfer	pole vault	track and field	triple jump	speed skating	artistic gymnastics	athletics
+643	weightlifting
+644	event
+645	volleyball	beach volleyball	handball
+646	volleyball
+647	summer sport	badminton	hockey	indoor volleyball	volleyball
+648	volleyball	beach volleyball	summer sport
+649	indoor volleyball	volleyball	badminton	hockey
+650	badminton	handball	summer sport
+651	badminton	volleyball
+652	handball	volleyball	badminton
+653	men's team	wrestling	women's team	tennis	swimmer	medal winners	skating	cycling	ski jumping	biathlon	nordic combined	olympic sport
+654	volleyball	men's team	all-rounder
+655	tennis	indoor volleyball
+656	tennis	hockey	bobsleigh	handball
+657	women's team	water polo	luge	super g
+658	hockey
+659	badminton
+660	beach volleyball	tennis	indoor volleyball
+661	alpine combined	super g	cycling	skeet	snowboard	air rifle	moguls
+662	winter sport	figure skating	snowboard	summer sport	air pistol
+663	cycling	alpine combined	snowboard	snowboard cross	moguls	windsurfer
+664	air pistol	skeet	air rifle
+665	breaststroke	summer sport	beach volleyball	rhythmic gymnastics
+666	volleyball	badminton	hockey	track and field	triathlon	winter sport	water polo	beach volleyball	tennis	ice dancing	summer sport	rhythmic gymnastics	hammer throw	nordic combined	mass start	taekwondo	indoor volleyball	skiing	handball	uneven bars	breaststroke	triple jump	floor exercise	pommel horse	backstroke	modern pentathlon	decathlon	olympic sport	wrestling	figure skating	synchronized swimming
+667	summer sport	beach volleyball
+668	ice dancing	beach volleyball	summer sport
+669	winter sport	synchronized swimming	hockey	summer sport	handball	water polo	indoor volleyball	badminton	wrestling	volleyball	decathlon	mass start	biathlon	speed skating	nordic combined
+670	marathon	windsurfer
+671	tennis
+672	indoor volleyball	winter sport	air rifle	super g	beach volleyball	handball	speed skating	modern pentathlon	windsurfer	alpine skiing	triathlon	mass start	women's team	air pistol	rapid fire pistol	decathlon	skating	archery	moguls	cycling	snowboard	alpine combined	marathon
+673	beach volleyball	skiing
+674	ice dancing	volleyball	beach volleyball	handball	badminton	water polo	hockey	triathlon	track and field	skeet	wrestling	indoor volleyball	wrestling freestyle	modern pentathlon	nordic combined	synchronized swimming	tennis	biathlon	speed skating
+675	skeet	biathlon	figure skating	fencing	badminton	water polo	speed skating	triathlon	cross country skiing	indoor volleyball	decathlon	synchronized swimming	modern pentathlon	handball	mass start	winter sport	nordic combined	archery	hockey
+676	nordic combined	beach volleyball	skating	triathlon	modern pentathlon	windsurfer	speed skating	snowboard	synchronized swimming	alpine combined	cross country skiing	skeet	rhythmic gymnastics	moguls	biathlon	decathlon	weightlifting	freestyle skiing	snowboard cross	air pistol	water polo	archery	cycling	figure skating	wrestling
+677	nordic combined	skiing	cross country skiing	rhythmic gymnastics	biathlon
+678	summer sport	sailing	air rifle	skiing	aquatics	winter sport	cross country skiing	windsurfer	cycling
+679	ice dancing	figure skating	wrestling
+680	olympic sport	weightlifting	snowboard cross	badminton
+681	biathlon	modern pentathlon	summer sport	marathon
+682	skeet	synchronized swimming	sailing	cycling	beach volleyball	indoor volleyball	track and field	cross country skiing	wrestling	windsurfer	modern pentathlon	summer sport	skiing	floor exercise	hockey	tennis	olympic sport
+683	moguls	skeet	triple jump	artistic gymnastics
+684	archery	track and field	cycling	modern pentathlon	triathlon	wrestling	tennis	olympic sport	decathlon	summer sport	water polo	fencing	wrestling freestyle	winter sport	skeet	handball
+685	cycling	weightlifting
+686	decathlon	track and field	freestyle skiing	weightlifting	synchronized swimming	moguls	indoor volleyball	summer sport	skeet	wrestling freestyle
+687	air rifle	air pistol	breaststroke
+688	ice dancing
+689	women's team	all-rounder	hockey	men's team	handball
+690	luge	windsurfer	skating
+691	swimmer
+692	hockey	volleyball	swimmer	backstroke	cycling track
+693	handball	hockey	all-rounder	tennis
+694	volleyball	taekwondo	synchronized springboard	ice dancing
+695	freestyle skiing	women's team	synchronized platform
+696	long jump	track and field	pole vault	rhythmic gymnastics	archery	individual event	marathon	triathlon	judo	olympic sport	javelin throw	diving	artistic gymnastics	wrestling	athlete	gymnast	swimmer	high jump	athletics	taekwondo
+697	judo
+698	race	medal winners	athlete	marathon	participates in	summer games
+699	medal winners
+700	marathon	medal winners
+701	equestrian
+702	gymnast	swimmer	athlete	all-rounder
+703	all-rounder
+704	pairs
+705	skiff	dinghy	air pistol	air rifle	keelboat	sailing	springboard	backstroke
+706	trap	air rifle	air pistol
+707	women's team	team
+708	synchronized platform	women's team	team	mixed team	event	hurdles	keelboat	springboard	cycling	diving	balance beam	floor exercise	individual event	men's team	sailing	cycling track	backstroke	winter games	race	team event	skating	taekwondo	heavyweight dinghy	track and field	water polo	participates in	fencing	bobsleigh
+709	parallel bars	event	platform	team event	diving	fencing	springboard	downhill	moguls	aerials	balance beam	walk	horizontal bar
+710	summer games	judo
+711	air rifle	diving	air pistol	skiff	mixed team	springboard	team	individual event	walk	cycling	fencing	aquatics	women's team	aerials	participates in	race	keelboat	sailing	cycling track	trampoline	summer sport	skating	track and field	men's team	dinghy	backstroke	heavyweight dinghy
+712	all-round	aquatics	diving
+713	sailing	walk	cycling	cycling road	dinghy	skiff	skating	race	heavyweight dinghy
+714	trampoline	platform	springboard	team	moguls	hurdles	horizontal bar	trap	pursuit	fencing
+715	aerials
+716	rhythmic gymnastics	hurdles	pommel horse	parallel bars	artistic gymnastics	balance beam	weightlifting
+717	cycling road	pommel horse	hurdles	balance beam	trampoline	cycling track	platform	sailing	keelboat	dinghy	skiff	participates in	parallel bars	heavyweight dinghy	uneven bars	event	team event	diving	springboard	race	marathon
+718	winter games	summer games
+719	pursuit	team	team event	mixed team
+720	floor exercise	springboard	balance beam	uneven bars	parallel bars	pommel horse	dinghy
+721	synchronized platform
+722	fencing	vault	trap	race
+723	aerials
+724	athlete	pursuit	individual event	participates in	marathon	women's team	medal winners
+725	summer games	winter games	hurdles
+726	backstroke	snowboard	parallel bars	cycling track	cycling	cycling road	team event	walk	balance beam	trampoline	judo	fencing	sailing	skating	artistic gymnastics
+727	moguls	fencing	women's team	trap	floor exercise	skiff	skating	individual event	race	trampoline	team event	synchronized platform	men's team	keelboat	participates in	dinghy	bobsleigh	event
+728	pursuit	women's team	snowboard	individual event	race	hurdles	mixed team	platform
+729	mixed team	aerials	team event	walk	event	participates in	men's team	women's team	track and field
+730	fencing	synchronized platform	trap	vault
+731	parallel bars	rhythmic gymnastics	javelin throw	horizontal bar	hurdles	men's team	women's team	platform	pommel horse	air pistol	rapid fire pistol	floor exercise
+732	hurdles	modern pentathlon	balance beam	uneven bars	decathlon
+733	trap	vault
+734	vault
+735	trap	pursuit
+736	trap
+737	cycling
+738	biathlon	cross country skiing	olympic sport	cycling
+739	cycling	speed skating	mass start
+740	snowboard cross	freestyle skiing	mass start	speed skating
+741	snowboard cross
+742	giant slalom	snowboard cross
+743	ski jumping
+744	rapid fire pistol
+745	medal winners	athlete	summer games	individual event
+746	long jump
+747	pole vault	high jump	long jump
+748	long jump	hammer throw	high jump	mass start	summer games
+749	pole vault	high jump	triple jump	long jump
+750	rapid fire pistol	air rifle
+751	air rifle	rapid fire pistol
+752	cross country skiing
+753	aquatics
+754	downhill	equestrian
+755	trampoline
+756	pairs
+757	women's team	athlete	medal winners
+758	high jump	figure skating	synchronized swimming	badminton	athlete	olympic sport	swimmer	athletics	judo	gymnast	archery	rhythmic gymnastics	floor exercise	uneven bars	snowboard	modern pentathlon
+759	skeet	ice dancing	snowboard	moguls	olympic sport	water polo	figure skating	synchronized swimming	modern pentathlon
+760	modern pentathlon	sailing	synchronized swimming	water polo	backstroke	diving	triathlon
+761	alpine combined	uneven bars	artistic gymnastics	super g	figure skating	rhythmic gymnastics	modern pentathlon	athletics	speed skating	giant slalom	floor exercise	synchronized swimming	long jump	pole vault	mass start
+762	athlete	pursuit	figure skating
+763	triathlon	backstroke	water polo	swimmer	synchronized swimming
+764	synchronized springboard	synchronized swimming	rhythmic gymnastics	ice dancing	synchronized platform	breaststroke
+765	parallel bars	synchronized springboard	floor exercise	rhythmic gymnastics	team	gymnast	archery	javelin throw	figure skating	artistic gymnastics	super g	pole vault	uneven bars	synchronized swimming
+766	pursuit	modern pentathlon	all-round	hammer throw	alpine combined
+767	synchronized springboard	triathlon	parallel bars	marathon
+768	backstroke	pursuit	triple jump	figure skating	mass start
+769	air pistol	pursuit	beach volleyball	medal winners	race	individual event	participates in	marathon	athlete	trap
+770	snowboard cross	moguls
+771	snowboard	mass start	moguls
+772	snowboard cross	cycling	equestrian
+773	figure skating	hockey	olympic sport	ice dancing	winter sport
+774	diving
+775	freestyle skiing	ski jumping	athlete
+776	diving	alpine skiing	freestyle skiing
+777	participates in	men's team	gymnast	athlete
+778	team	participates in	men's team	athlete
+779	tennis	men's team	women's team	team
+780	all-rounder	women's team	men's team	athlete	handball	team
+781	men's team	team	mass start	women's team
+782	synchronized swimming	synchronized springboard	ice dancing
+783	freestyle skiing	synchronized swimming	parallel bars	weightlifting	individual	walk	pommel horse
+784	ski jumping	freestyle skiing	volleyball	pole vault
+785	freestyle skiing	individual	weightlifting	synchronized swimming	fencing	taekwondo	artistic gymnastics
+786	water polo	wrestling freestyle	ski jumping	snowboard cross	rhythmic gymnastics	wrestling	handball	beach volleyball	olympic sport	skeet	fencing	indoor volleyball	volleyball	badminton	tennis	gymnastics team competition
+787	synchronized springboard	volleyball	indoor volleyball	high jump	long jump	handball
+788	pole vault	high jump	indoor volleyball	wrestling	hammer throw	javelin throw
+789	handball	indoor volleyball
+790	wrestling freestyle
+791	fencing	hockey	handball	water polo	olympic sport	volleyball	long jump	high jump	tennis	indoor volleyball	pole vault	beach volleyball	mass start
+792	tennis	volleyball	indoor volleyball	team event	synchronized springboard	pole vault
+793	wrestling freestyle	water polo	mass start	judo	indoor volleyball	fencing	synchronized swimming
+794	badminton	tennis	volleyball	super g	sailing
+795	long jump	mass start	skeet	high jump	javelin throw	water polo	synchronized swimming
+796	water polo	fencing	aerials	hockey
+797	cycling road	air rifle	air pistol	cycling
+798	cycling road	air rifle	luge	air pistol	downhill
+799	alpine skiing	sailing	weightlifting	marathon
+800	air rifle	air pistol	rapid fire pistol
+801	individual event	pursuit	women's team	participates in	event
+802	modern pentathlon	triathlon	summer games
+803	individual event	event	gymnastics team competition	summer games
+804	handball	summer games	winter games
+805	participates in	event	pursuit	synchronized springboard	individual event
+806	gymnastics team competition	figure skating	ice dancing	artistic gymnastics	synchronized springboard	floor exercise	pole vault	rhythmic gymnastics
+807	gymnastics team competition	artistic gymnastics	biathlon	decathlon
+808	indoor volleyball	tennis	badminton	beach volleyball
+809	gymnastics team competition	modern pentathlon	athlete	snowboard cross	alpine combined	tennis	volleyball
+810	gymnastics team competition	snowboard cross	alpine combined	modern pentathlon	artistic gymnastics	rhythmic gymnastics	floor exercise	ski jumping	athlete
+811	decathlon	gymnastics team competition	badminton	wrestling freestyle	indoor volleyball	artistic gymnastics	tennis	beach volleyball
+812	hockey	biathlon	indoor volleyball	cross country skiing	winter games	winter sport	skiing
+813	winter games	winter sport	summer sport	skiing	cross country skiing	snowboard
+814	cycling road	vault
+815	vault
+816	vault
+817	vault
+818	vault	pairs
+819	triple jump
+820	trap
+821	snowboard	pommel horse	parallel bars	balance beam	keelboat
+822	butterfly	pommel horse
+823	cycling road	parallel bars	horizontal bar	snowboard	pommel horse	cycling track	balance beam
+824	platform	snowboard	horizontal bar	balance beam	springboard	uneven bars	cycling track	pommel horse	parallel bars	trampoline	all round
+825	aerials
+826	aerials
+827	individual event	skiff	springboard	trampoline	team event	dinghy	synchronized platform	platform	moguls	event	snowboard	keelboat	team	women's team	air pistol	men's team	vault	volleyball	fencing	heavyweight dinghy
+828	heavyweight dinghy	air pistol	skiff	dinghy	platform	team event
+829	balance beam	pole vault	parallel bars	hurdles	high jump	platform	snowboard	cycling track	horizontal bar	pommel horse	men's team	keelboat	springboard
+830	fencing	hurdles	ski jumping	trampoline	event	heavyweight dinghy	women's team	vault	volleyball	team event	snowboard
+831	keelboat	balance beam	pommel horse	snowboard	springboard	cycling track	pole vault	uneven bars
+832	balance beam	summer sport	horizontal bar	cycling track	event	team
+833	snowboard
+834	giant slalom
+835	synchronized swimming	breaststroke	backstroke	diving	swimmer
+836	swimmer	breaststroke
+837	equestrian
+838	women's team	floor exercise	all-rounder	gymnast	windsurfer	athletics	swimmer	equestrian	gymnastics team competition	synchronized swimming	ice dancing	skeet	synchronized springboard	breaststroke	figure skating	sailing
+839	floor exercise	artistic gymnastics	figure skating
+840	triple jump	long jump	high jump	springboard	athlete	alpine skiing	nordic combined	skating	figure skating	ice dancing	ski jumping	freestyle skiing	sailing	rhythmic gymnastics	artistic gymnastics	snowboard cross	summer sport
+841	floor exercise	gymnast
+842	artistic gymnastics	rhythmic gymnastics	gymnast	floor exercise
+843	all-rounder	rhythmic gymnastics
+844	snowboard	artistic gymnastics	snowboard cross	freestyle skiing
+845	gymnast	skeet	uneven bars	rhythmic gymnastics	team event	floor exercise	water polo	backstroke
+846	cycling road	alpine combined	super g	giant slalom	downhill	moguls
+847	individual
+848	summer sport	pairs	badminton	pursuit	sailing
+849	individual
+850	individual	pairs
+851	individual
+852	individual
+853	bobsleigh	luge
+854	ski jumping	air pistol	windsurfer	giant slalom	breaststroke	walk	sailing	skiff	rapid fire pistol	bobsleigh	luge	snowboard cross
+855	cycling	bobsleigh	snowboard cross	mass start	downhill	race	biathlon	skiff	walk	windsurfer	luge	track and field	sailing	giant slalom
+856	skiing	aquatics	swimmer	synchronized springboard	diving	water polo	cross country skiing	track and field	beach volleyball	speed skating	volleyball	cycling	tennis	windsurfer	hockey	archery	handball
+857	alpine combined	winter games	downhill	nordic combined	all-rounder	biathlon
+858	snowboard cross	skiing	snowboard	windsurfer	modern pentathlon	moguls	diving	luge
+859	skiing	snowboard cross	cycling	archery	figure skating	ski jumping	synchronized swimming	tennis	volleyball	indoor volleyball	beach volleyball	rhythmic gymnastics	luge	handball	water polo	hockey	team	badminton	skeet
+860	luge	breaststroke	biathlon	skiing	figure skating	cross country skiing	ski jumping	snowboard cross	snowboard	speed skating	bobsleigh	hockey	moguls	beach volleyball	skating	nordic combined	winter games	alpine combined	mass start	super g
+861	ski jumping	luge	bobsleigh	javelin throw	pole vault	track and field	decathlon	skiing	summer games	athletics	triple jump	long jump	hurdles	hammer throw	high jump	medal winners	athlete	gymnast
+862	windsurfer	skeet	diving	judo	hockey	fencing	snowboard cross	track and field	water polo	synchronized swimming	biathlon	skiing	cycling	tennis
+863	olympic sport	gymnast	medal winners	summer games	artistic gymnastics	trampoline	balance beam	parallel bars	floor exercise	rhythmic gymnastics
+864	downhill	swimmer	summer games	breaststroke	water polo	medal winners	springboard	diving	athlete	olympic sport	aquatics	synchronized swimming	synchronized springboard
+865	all-rounder	men's team	women's team	water polo	winter games	athlete
+866	olympic sport	triathlon	mass start	triple jump	hurdles	decathlon	hammer throw
+867	ice dancing	figure skating	skating	winter sport	medal winners	wrestling	winter games
+868	javelin throw	taekwondo
+869	mass start
+870	mass start
+871	fencing
+872	high jump	mixed team	team event	women's team	men's team
+873	parallel bars	horizontal bar	platform	team
+874	team	team event	springboard
+875	fencing	cycling track	sailing	team	uneven bars	vault	summer sport	pairs	diving	archery	downhill	track and field	men's team	women's team	long jump	aerials
+876	vault	men's team	women's team	team
+877	vault
+878	uneven bars	team	platform	fencing	vault	bobsleigh	balance beam	aerials	parallel bars	cycling track	trampoline	springboard	hurdles
+879	trampoline	team	synchronized springboard	women's team	vault
+880	balance beam	uneven bars	vault	aerials	pommel horse	bobsleigh
+881	aquatics
+882	cycling	ice dancing	wrestling	fencing
+883	wrestling	alpine combined	snowboard	moguls	snowboard cross	wrestling freestyle	skating	skiing
+884	biathlon	skating	modern pentathlon	men's team	women's team	hurdles	race	high jump	triple jump	skiing	ice dancing	freestyle skiing	walk	cycling	summer games
+885	ice dancing	snowboard cross	freestyle skiing	walk	wrestling	hammer throw
+886	walk
+887	cycling	freestyle skiing	ice dancing	walk	wrestling	fencing	winter sport
+888	weightlifting	swimmer
+889	aquatics
+890	skating	tennis	winter sport	cycling track
+891	parallel bars	cycling track	skating	tennis	cycling road	vault
+892	cycling road	walk	cycling	cycling track	skating	downhill
+893	breaststroke	backstroke	diving
+894	breaststroke	backstroke
+895	wrestling	olympic sport	synchronized springboard	super g	gymnastics team competition	modern pentathlon	decathlon	marathon	luge	race	snowboard cross	winter games	alpine skiing	giant slalom	triathlon	summer games	bobsleigh	women's team	team event	men's team	beach volleyball	mixed team	triple jump
+896	gymnastics team competition	synchronized springboard
+897	bobsleigh	men's team	ice dancing	gymnastics team competition
+898	men's team	water polo	women's team	hockey	badminton	handball
+899	men's team	team
+900	triple jump	alpine combined	giant slalom	speed skating	ski jumping	alpine skiing	skiing	skating	luge	swimmer	cross country skiing	figure skating	bobsleigh
+901	nordic combined	cross country skiing
+902	mass start	breaststroke	cross country skiing	swimmer	skiing	alpine skiing
+903	ski jumping	javelin throw	hammer throw	uneven bars
+904	nordic combined	ski jumping	hammer throw	track and field	pole vault	javelin throw	triple jump	alpine skiing	super g	giant slalom	archery	alpine combined	backstroke	long jump	weightlifting	speed skating	luge	bobsleigh	windsurfer	mass start	cross country skiing	skating	high jump	breaststroke
+905	archery	horizontal bar	javelin throw	cross country skiing	mass start	long jump	wrestling freestyle	triple jump	high jump	hammer throw	ski jumping	pole vault
+906	triple jump
+907	speed skating	skating	hammer throw	high jump	pole vault	luge	ice dancing	long jump	windsurfer
+908	breaststroke	diving	cross country skiing	backstroke	springboard
+909	alpine skiing	archery	men's team
+910	high jump	pole vault
+911	taekwondo	synchronized swimming	water polo	diving	biathlon	breaststroke	archery	backstroke	judo
+912	backstroke	synchronized swimming	giant slalom	alpine skiing	diving	swimmer
+913	judo	javelin throw	wrestling freestyle	biathlon	athlete	water polo	summer sport	hammer throw
+914	judo	wrestling freestyle	freestyle skiing	wrestling
+915	taekwondo	cross country skiing	alpine skiing	skating	fencing
+916	speed skating	skiing	figure skating	ski jumping	cross country skiing	skating	high jump	nordic combined	long jump	taekwondo	alpine combined	snowboard cross	freestyle skiing	triple jump	snowboard
+917	weightlifting
+918	alpine skiing	skiing	cross country skiing	nordic combined	diving	alpine combined	biathlon	giant slalom
+919	hammer throw	freestyle skiing	taekwondo	ice dancing	wrestling freestyle	figure skating	judo
+920	sailing	windsurfer	wrestling	cross country skiing	aerials
+921	figure skating	taekwondo
+922	alpine combined	alpine skiing	skiing	giant slalom
+923	triple jump	high jump	long jump
+924	luge	sailing	diving	heavyweight dinghy	windsurfer	bobsleigh	speed skating	cycling	fencing	judo	biathlon
+925	triple jump	high jump	freestyle skiing	snowboard	ice dancing	alpine combined	gymnast	long jump	moguls	snowboard cross	cycling track	nordic combined
+926	ice dancing	cycling	artistic gymnastics	snowboard cross	mass start	giant slalom	fencing	figure skating	tennis	luge	alpine combined	speed skating	super g	biathlon	triple jump
+927	diving	downhill
+928	diving
+929	synchronized platform	mixed team	team
+930	synchronized platform	aerials	event
+931	snowboard cross	alpine skiing	moguls	skiing	cross country skiing	winter sport	freestyle skiing
+932	freestyle skiing	snowboard cross	ski jumping	cycling
+933	skiing	snowboard cross	alpine skiing	cross country skiing	moguls
+934	skiing	alpine skiing	snowboard cross	cross country skiing	cycling	downhill	moguls	freestyle skiing	giant slalom
+935	cycling	cycling road	snowboard cross	walk	mass start	cross country skiing	moguls	downhill
+936	alpine skiing
+937	super g
+938	javelin throw	track and field	hammer throw
+939	pursuit
+940	tennis
+941	olympic sport	marathon	cycling	race	participates in	speed skating	bobsleigh	luge
+942	bobsleigh	luge	speed skating
+943	snowboard cross	luge	mass start	cycling track	giant slalom	bobsleigh
+944	cycling road
+945	athlete	freestyle skiing	triathlon	olympic sport	diving	artistic gymnastics	rhythmic gymnastics	marathon	javelin throw	judo	athletics
+946	high jump	swimmer	wrestling	bobsleigh	diving	javelin throw	track and field	athletics	judo	gymnast	artistic gymnastics	athlete	rhythmic gymnastics	taekwondo	weightlifting	breaststroke	backstroke	freestyle skiing	pole vault	archery
+947	diving	swimmer	biathlon	track and field	women's team	marathon	trampoline	cycling track	cycling	bobsleigh	floor exercise	walk	race	winter sport	athletics	gymnast	athlete	skating	parallel bars	pommel horse
+948	artistic gymnastics	swimmer	rhythmic gymnastics	triple jump	high jump	pole vault	triathlon	long jump	javelin throw	gymnast	athlete	track and field	hammer throw	athletics
+949	rhythmic gymnastics	swimmer	olympic sport	women's team	athlete	freestyle skiing	gymnast	biathlon
+950	marathon	track and field	artistic gymnastics	pole vault	triple jump	wrestling	high jump	gymnast	long jump	triathlon	freestyle skiing	athletics	cross country skiing	athlete	hammer throw	rhythmic gymnastics	swimmer
+951	artistic gymnastics	balance beam	gymnast
+952	gymnast	freestyle skiing	balance beam	swimmer	taekwondo	judo	hammer throw	javelin throw	rhythmic gymnastics	high jump	track and field
+953	floor exercise	balance beam	archery	gymnast	parallel bars	pommel horse	artistic gymnastics
+954	marathon	olympic sport
+955	gymnast
+956	trap
+957	aerials	race
+958	air pistol	cycling	trampoline	women's team	artistic gymnastics	wrestling	sailing	archery	keelboat	long jump	pursuit	air rifle	snowboard	team event	dinghy	race	walk	breaststroke	marathon	volleyball	figure skating	skiing	alpine skiing
+959	wrestling	taekwondo	fencing	judo
+960	team event	participates in	event
+961	beach volleyball	athletics	men's team	indoor volleyball	women's team
+962	moguls	fencing
+963	walk	skeet	air rifle	individual event	mass start	winter sport	hockey	pursuit	horizontal bar	skating	floor exercise	race	trap	summer sport	rhythmic gymnastics	participates in	artistic gymnastics	olympic sport	triathlon	hurdles	balance beam	summer games	cycling	skiff	platform	fencing	ice dancing	parallel bars	moguls	wrestling freestyle	vault	speed skating	medal winners
+964	hockey	archery	volleyball	summer sport	triple jump	track and field	winter sport	beach volleyball	cycling track	cycling	long jump	participates in	trampoline	platform
+965	dinghy	heavyweight dinghy	keelboat	skiff
+966	men's team	sailing	synchronized springboard	team event	archery	snowboard	pairs	medal winners	race	team	cycling	women's team	snowboard cross	artistic gymnastics	trap	triathlon	bobsleigh	handball	hockey	summer sport	participates in	olympic sport	rhythmic gymnastics	skeet	water polo	summer games	moguls	winter sport
+967	heavyweight dinghy	dinghy	skiff	keelboat	cycling
+968	skiing	beach volleyball	windsurfer	cycling	skating	cross country skiing	artistic gymnastics	sailing	walk	archery
+969	ski jumping	moguls	ice dancing	hockey	mass start	cross country skiing	speed skating	nordic combined	synchronized swimming	synchronized springboard	water polo	sailing	athletics	wrestling	fencing	rhythmic gymnastics	olympic sport	judo	bobsleigh	skiing	freestyle skiing	figure skating	badminton	beach volleyball	volleyball	snowboard cross	skeet	track and field	luge	giant slalom	alpine skiing	alpine combined	biathlon	winter games	weightlifting	archery	wrestling freestyle	marathon	artistic gymnastics	indoor volleyball	handball
+970	individual event	wrestling	event	team	women's team	fencing	winter games	men's team	balance beam	artistic gymnastics	team event	judo	air rifle	tennis	summer games	badminton	rhythmic gymnastics	handball	gymnastics team competition
+971	mass start	super g	figure skating	ice dancing	speed skating	skating	wrestling freestyle
+972	snowboard cross	marathon	javelin throw	triple jump	long jump	mass start	summer games	high jump	floor exercise	winter games	hammer throw	pole vault	participates in	team event	individual event	track and field	decathlon	triathlon
+973	super g	winter sport	triathlon	team event	air pistol	downhill	marathon	bobsleigh	race	cycling	alpine combined
+974	air rifle	air pistol	rapid fire pistol
+975	wrestling freestyle	ice dancing
+976	event	individual event	team event	pursuit	ice dancing
+977	downhill	walk	cycling	race	mass start	cycling road
+978	aerials
+979	rhythmic gymnastics	artistic gymnastics	individual event	ice dancing	participates in
+980	pursuit	participates in	team event	event	individual event
+981	summer games	long jump	winter games	medal winners
+982	pairs
+983	alpine combined	alpine skiing	nordic combined	downhill	moguls	mass start	super g	snowboard cross	skiing	giant slalom	biathlon
+984	synchronized platform	platform	balance beam	parallel bars	fencing	pommel horse	air pistol
+985	olympic sport	trap	hockey	winter games
+986	super g	giant slalom	alpine combined	moguls	snowboard cross
+987	aquatics
+988	triathlon	race	marathon
+989	aquatics	synchronized springboard	skiff	aerials
+990	high jump	individual event	participates in	event	team event	synchronized springboard	nordic combined	race
+991	cycling	cycling track
+992	participates in	pursuit	hurdles
+993	snowboard cross	long jump	luge	giant slalom	alpine combined	javelin throw	pole vault	speed skating	synchronized springboard	mass start	balance beam	hammer throw	uneven bars	bobsleigh	high jump	artistic gymnastics	super g	ski jumping	nordic combined	figure skating	taekwondo	floor exercise	biathlon	rhythmic gymnastics
+994	walk	weightlifting	pommel horse	parallel bars
+995	cycling	giant slalom
+996	windsurfer	skiff
+997	sailing
+998	aerials
+999	hammer throw
+1000	springboard	pairs	hockey	all-rounder	moguls	trap	archery	hammer throw	skiing
+1001	artistic gymnastics	vault	archery	gymnastics team competition	floor exercise
+1002	skating	hockey	pairs	cycling track	fencing
+1003	skiing	cross country skiing
+1004	pursuit	springboard	hockey	aerials	aquatics	synchronized platform	hammer throw
+1005	archery	sailing
+1006	taekwondo
+1007	women's team	men's team
+1008	air rifle	rapid fire pistol	air pistol
+1009	dinghy	keelboat	skiff	cycling road	springboard	parallel bars	horizontal bar	aerials
+1010	trampoline	parallel bars	springboard	vault	horizontal bar
+1011	aerials	trampoline	all round
+1012	pairs	vault
+1013	horizontal bar	trap	aerials	vault	team
+1014	skating	springboard	platform
+1015	air rifle	air pistol	pursuit	trap	rapid fire pistol
+1016	air rifle	trap
+1017	synchronized platform
+1018	fencing	rapid fire pistol	team	trap
+1019	keelboat	snowboard	trampoline	trap	all-round
+1020	trap
+1021	air pistol	rapid fire pistol	air rifle	trap	skeet
+1022	trampoline	alpine combined	cycling	balance beam	hurdles	judo	rapid fire pistol
+1023	trap
+1024	pairs
+1025	cycling track	springboard	backstroke	archery	bobsleigh	breaststroke	moguls	volleyball	cycling road	cycling	keelboat	heavyweight dinghy	horizontal bar	hurdles	aerials	skiff	skeet	skating	aquatics	trap	trampoline	synchronized platform	air rifle	dinghy	balance beam
+1026	fencing	horizontal bar
+1027	skiff	trampoline	individual event	fencing	synchronized platform	hurdles	uneven bars	parallel bars	springboard	volleyball	cycling road	archery	pommel horse	breaststroke	skeet	mixed team	cycling	skating	high jump	moguls
+1028	hurdles
+1029	horizontal bar	skating	pommel horse	trampoline	hurdles	dinghy	backstroke	springboard	breaststroke	parallel bars	balance beam	synchronized platform	uneven bars	moguls	pairs	volleyball
+1030	aerials	platform
+1031	keelboat	cycling	snowboard	cycling track	cycling road	bobsleigh	skiff	heavyweight dinghy	downhill	moguls	dinghy
+1032	snowboard	moguls
+1033	uneven bars	floor exercise	breaststroke	weightlifting	parallel bars	skating	trampoline	balance beam	cycling	volleyball
+1034	air pistol	air rifle	archery	rapid fire pistol	trap
+1035	air pistol	air rifle	rapid fire pistol	skeet	archery	biathlon
+1036	platform	synchronized platform	trampoline
+1037	backstroke	skiff	keelboat	heavyweight dinghy	breaststroke
+1038	super g	parallel bars	fencing	snowboard
+1039	heavyweight dinghy	platform	cycling track	springboard	keelboat	skiff	dinghy
+1040	trampoline	snowboard
+1041	horizontal bar	platform	trampoline	pairs	fencing
+1042	moguls	snowboard	mass start	windsurfer	snowboard cross	downhill	winter sport	skiing
+1043	platform	skating	aquatics	cycling	walk	cycling road
+1044	parallel bars	horizontal bar
+1045	balance beam	pommel horse	parallel bars	uneven bars	floor exercise	freestyle skiing	trampoline
+1046	balance beam	parallel bars	uneven bars	pommel horse	floor exercise
+1047	archery	hurdles	springboard	modern pentathlon
+1048	backstroke	breaststroke	hurdles
+1049	triple jump	hurdles	decathlon	athletics
+1050	parallel bars	balance beam	backstroke	breaststroke	weightlifting	horizontal bar	hurdles
+1051	rapid fire pistol
+1052	air pistol	fencing	trap	rapid fire pistol	archery
+1053	aquatics	keelboat	dinghy	skiff	pairs	skating
+1054	cycling
+1055	fencing	women's team	team event	wrestling	race	high jump	gymnastics team competition	athletics	track and field	summer games	summer sport	tennis	olympic sport	hockey
+1056	moguls	alpine combined	beach volleyball	summer sport	winter games	dinghy	winter sport	olympic sport	super g
+1057	gymnastics team competition	winter sport	track and field	high jump	beach volleyball	badminton	hockey	fencing	triathlon	pole vault	wrestling	handball	volleyball	summer games	athletics
+1058	winter sport	badminton	indoor volleyball	figure skating	hockey	skating	triathlon	olympic sport	ice dancing	women's team	speed skating
+1059	skiff
+1060	summer sport	walk	sailing	cycling	skiing	downhill	windsurfer
+1061	winter sport	skiing	cross country skiing	downhill	walk	summer sport
+1062	sailing	windsurfer	cycling	summer sport	downhill	walk
+1063	winter sport	skiing	cross country skiing	moguls	downhill
+1064	sailing
+1065	summer sport
+1066	cycling road
+1067	balance beam	snowboard
+1068	horizontal bar	cycling road
+1069	sailing	windsurfer
+1070	diving	moguls	ski jumping	nordic combined
+1071	olympic sport	medal winners

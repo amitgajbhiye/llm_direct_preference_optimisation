@@ -1,0 +1,506 @@
+0	riesling	alsatian wine	wine flavor	dry white wine	cabernet sauvignon	white burgundy	muscadet	chenin blanc	merlot	german wine	chardonnay	pinot blanc	wine taste	white table wine	chianti	sauvignon blanc	wine descriptor	dry riesling	dry wine	white bordeaux	alsace wine	petite syrah
+1	loire	tours
+2	port	late harvest	ice wine
+3	port
+4	wine color
+5	wine taste	wine descriptor
+6	st emilion	late harvest	dry red wine	chianti	chardonnay	red burgundy	italian wine	wine flavor	red wine	zinfandel	dry wine
+7	medoc	cabernet sauvignon	meursault	white burgundy	pauillac	red burgundy	ice wine	full bodied wine	red bordeaux
+8	full bodied wine	ice wine
+9	red burgundy	french wine	chianti	pauillac	consumable thing	wine flavor	chardonnay	margaux	italian wine	sauterne	dry red wine	st emilion	zinfandel	dry wine
+10	medoc	pauillac	red burgundy	chianti	chenin blanc	sauvignon blanc	full bodied wine	wine flavor	margaux	cabernet sauvignon	beaujolais	pinot blanc
+11	meursault	full bodied wine	ice wine	red bordeaux	white burgundy
+12	chenin blanc	white bordeaux	petite syrah	full bodied wine
+13	pinot blanc	chenin blanc	fowl	petite syrah	medoc	zinfandel	pauillac
+14	rose wine	ice wine	wine color	white table wine	dessert wine	full bodied wine	red table wine	medoc	bordeaux	chianti	french wine
+15	dessert wine	dry riesling	dry red wine	rose wine	gamay	sauvignon blanc
+16	wine flavor	full bodied wine	riesling	sweet wine	dry wine	dry red wine	zinfandel	dessert wine	ice wine	wine descriptor	sweet riesling
+17	ice wine	table wine	dry riesling	sweet riesling	zinfandel	red burgundy	full bodied wine	petite syrah	riesling	dry red wine	chardonnay	merlot	dry white wine	white wine	white burgundy	cabernet sauvignon	red table wine	rose wine	pinot noir
+18	riesling	wine flavor	dry wine	sweet riesling	full bodied wine	dry riesling	muscadet
+19	dry red wine	dry wine	red burgundy	medoc	red table wine	white wine	wine descriptor	table wine
+20	potable liquid	wine color	edible thing
+21	anjou	sweet riesling
+22	wine descriptor	wine color
+23	sweet dessert	edible thing	wine descriptor	dessert	meal
+24	wine color	sweet dessert	edible thing	potable liquid	wine descriptor	dessert
+25	st emilion	alsace wine	sancerre	bordeaux	st. emilion
+26	st émilion	st. émilion	st-émilion
+27	dry riesling	white bordeaux	chardonnay	riesling	sweet riesling	white wine	sweet wine	dry white wine	wine descriptor	beaujolais	dessert wine	wine flavor	white burgundy	sauvignon blanc	pinot blanc	dry red wine	white table wine	full bodied wine	wine taste	chenin blanc	muscadet
+28	sauvignon blanc	white bordeaux	wine flavor	pinot noir	wine descriptor	bordeaux	semillon	muscadet	gamay	dessert wine	white table wine	full bodied wine	cabernet franc	wine taste	dry red wine	red bordeaux	burgundy	cabernet sauvignon	table wine	french wine	red burgundy	merlot	red table wine	dry white wine	red wine
+29	wine taste	chenin blanc	riesling	pinot blanc	white table wine	chardonnay	sauvignon blanc	dry white wine	pinot noir	white bordeaux	wine flavor	dry riesling	full bodied wine	dry red wine	sweet wine	semillon
+30	dessert course	dessert
+31	sweet dessert	burgundy
+32	wine color	fruit course
+33	burgundy
+34	burgundy	fish course	wine color
+35	port
+36	chardonnay	wine color	burgundy
+37	wine descriptor
+38	alsace wine	french wine	california wine	american wine	zinfandel	italian wine	german wine	alsatian wine
+39	french wine	california wine	american wine	zinfandel	texas wine	italian wine
+40	white burgundy	alsace wine	german wine	st emilion	italian wine	red bordeaux	white bordeaux	meursault	medoc	margaux	zinfandel	pauillac	california wine
+41	texas wine	german wine	french wine	pauillac	alsace wine	white burgundy	american wine	sauvignon blanc	margaux	california wine
+42	italian wine	texas wine	meursault	american wine	chenin blanc	zinfandel	french wine	california wine	meritage
+43	california wine	american wine	italian wine
+44	medoc	texas wine	french wine	german wine	american wine	pauillac	california wine	margaux
+45	texas wine	st emilion	alsatian wine
+46	california wine	meritage	american wine	red bordeaux	italian wine	medoc	chenin blanc
+47	california wine	margaux	pauillac	white bordeaux	texas wine
+48	alsace wine	texas wine	german wine	alsatian wine	medoc	american wine	sauvignon blanc
+49	fowl
+50	fowl
+51	fowl
+52	beaujolais	consumable thing
+53	table wine	beaujolais	muscadet	sweet wine	ice wine	sweet riesling	white bordeaux	fish course
+54	meritage
+55	sancerre	wine color	table wine
+56	medoc
+57	fowl
+58	fowl
+59	meal	wine color	consumable thing
+60	bordeaux	chenin blanc
+61	medoc	dry white wine	rose wine	red wine	dry red wine	red table wine	wine color	red burgundy	white wine	white table wine	table wine	wine grape
+62	medoc	consumable thing
+63	dessert	dessert wine	dessert course
+64	fowl
+65	texas wine	dessert wine	rose wine	dessert course	fruit course	dessert	red wine	wine flavor	alsace wine	table wine	white table wine	white wine	american wine	italian wine	german wine	meal course	california wine	sweet fruit	sweet dessert	red meat	sweet wine	pasta	edible thing	anjou	wine grape	meal	consumable thing
+66	wine color	meritage	potable liquid	burgundy
+67	wine grape	cabernet franc
+68	wine descriptor	semillon
+69	red wine	wine grape	wine descriptor	muscadet	merlot	semillon	pinot noir	pinot blanc	chenin blanc	cabernet franc	dry wine	petite syrah	meritage	gamay
+70	late harvest	petite syrah	white burgundy	meursault	sauterne	merlot	sancerre	wine flavor	pinot noir	muscadet	meal	burgundy	rose wine
+71	meursault	zinfandel	petite syrah	red wine	cabernet sauvignon	pinot blanc	muscadet	wine flavor	gamay	semillon	cabernet franc	wine taste	merlot	dessert	chenin blanc	margaux	pauillac	burgundy	dry wine	meritage	sauterne
+72	muscadet	tours	white table wine	meal	cabernet franc	merlot	wine flavor	chenin blanc	petite syrah	gamay	margaux	meursault
+73	white bordeaux	muscadet	dry riesling	sancerre	wine descriptor	wine flavor	white burgundy	wine taste	sweet riesling	semillon	gamay
+74	merlot	beaujolais	petite syrah	cabernet franc	gamay	pinot noir	semillon	pinot blanc	chenin blanc	meritage
+75	fowl
+76	fowl
+77	muscadet	wine flavor	cabernet franc	margaux	semillon	merlot	meal	gamay	white burgundy	pinot noir	rose wine	wine grape	sauterne
+78	wine grape	pinot noir	consumable thing	cabernet sauvignon
+79	red burgundy	chianti	medoc	beaujolais	italian wine	red wine	red table wine	dry red wine	red bordeaux	burgundy	rose wine	merlot	petite syrah	full bodied wine	cabernet franc	cabernet sauvignon	bordeaux	zinfandel	pinot noir	gamay
+80	dry red wine	medoc	italian wine	rose wine	burgundy	pinot noir	sweet fruit	bordeaux	wine grape	table wine	wine descriptor	red wine	american wine	beaujolais	red table wine	full bodied wine	red burgundy	white bordeaux	dessert wine	alsace wine	white burgundy	potable liquid	white wine	dry white wine	sancerre	white table wine	gamay	chianti	california wine	meritage	wine color	texas wine	german wine	french wine	dry wine	sweet wine	wine taste	wine flavor	anjou
+81	sweet wine	bordeaux	sauterne	burgundy
+82	pinot blanc	petite syrah	cabernet sauvignon	sweet fruit	red wine	wine grape	full bodied wine	merlot	red table wine	cabernet franc	bordeaux	potable liquid	ice wine	white wine	white burgundy	sancerre	white bordeaux	white table wine	dry white wine	beaujolais	dessert wine	sweet wine	sauterne	muscadet	sweet riesling	chardonnay	wine taste	wine color	alsace wine	table wine	rose wine	anjou	gamay	wine descriptor
+83	dessert	dessert course
+84	dessert course	dessert	red meat
+85	fruit course
+86	fruit course	dessert course	fish course
+87	fruit course	dessert course
+88	dessert course
+89	pasta
+90	cabernet sauvignon	burgundy	pinot blanc	medoc	dessert course	dessert wine
+91	burgundy	red table wine
+92	consumable thing	pinot blanc	fish course	burgundy
+93	fruit course	chardonnay
+94	fish course
+95	fruit course
+96	fruit course	dessert course	meal	meal course	california wine
+97	dessert	dessert course	meal	fruit course	pasta	tours	potable liquid
+98	wine descriptor	cabernet sauvignon	wine grape	red wine
+99	consumable thing
+100	edible thing
+101	table wine	chianti	potable liquid	margaux
+102	meal	meal course
+103	red meat	pasta	sweet dessert
+104	red meat	fish course
+105	american wine	white burgundy	chianti	white bordeaux	pauillac	late harvest	margaux	ice wine	tours	wine taste
+106	dessert course
+107	meal course
+108	late harvest
+109	fruit course	st-émilion	fish course	pasta	edible thing	st emilion
+110	dry wine	muscadet	sauvignon blanc	ice wine	sweet riesling	meursault	wine color	beaujolais	chianti	wine descriptor	pauillac	st. emilion	white burgundy	st-émilion
+111	cabernet sauvignon	pinot noir	anjou
+112	cabernet franc	wine grape	late harvest
+113	sauvignon blanc	wine grape	cabernet franc	american wine	sweet fruit	st emilion	cabernet sauvignon	pinot noir	petite syrah	anjou	texas wine
+114	meal course	fruit course	loire	dessert course
+115	chianti	loire	st emilion	fish course	red meat	anjou	dessert course	st-émilion
+116	red meat	fish course	anjou	dessert course
+117	loire	tours
+118	dessert course	red meat	fish course
+119	fish course	dessert course
+120	burgundy	wine color	gamay
+121	tours	st émilion
+122	fowl
+123	fowl	edible thing
+124	fowl
+125	pasta
+126	fruit course	wine flavor	meal course	wine descriptor	tours	meal	dessert course
+127	consumable thing	tours	meal	fruit course	dessert course
+128	fruit course	tours	meal	consumable thing	wine descriptor	meal course
+129	port	loire
+130	red wine	beaujolais	sweet fruit	riesling
+131	wine taste	wine descriptor
+132	wine descriptor
+133	late harvest	meal course	red bordeaux	meal
+134	late harvest
+135	fowl
+136	fruit course
+137	port
+138	loire
+139	st-émilion	st émilion	st emilion	st. émilion
+140	st. émilion	st émilion	st-émilion
+141	cabernet sauvignon	dry wine	margaux	pauillac	st emilion	meursault	st-émilion
+142	sancerre	american wine	california wine	late harvest
+143	late harvest	sweet fruit
+144	st-émilion	st. émilion
+145	tours
+146	loire	tours
+147	loire	tours	port	white bordeaux
+148	tours
+149	port	loire
+150	wine taste	wine flavor	wine descriptor	late harvest
+151	wine taste	wine descriptor	meritage	full bodied wine	white bordeaux	wine flavor	semillon	dry red wine	white wine	sauvignon blanc	chardonnay	dry white wine	dry wine	chenin blanc	texas wine	american wine	cabernet sauvignon	italian wine	california wine	margaux	white burgundy	bordeaux	red burgundy	medoc	meursault	white table wine	red wine	fish course	table wine	french wine
+152	wine flavor	chenin blanc	zinfandel	sweet riesling	pinot noir	merlot	semillon	dessert course	sauterne	sweet wine	ice wine	riesling	fish course
+153	meritage	meursault	ice wine	semillon	dessert course	wine descriptor	dessert wine	pauillac	fish course
+154	texas wine	rose wine	french wine	pinot blanc	dry wine	white burgundy	pinot noir	dry riesling	chenin blanc	dry white wine	german wine	beaujolais	semillon	sauvignon blanc	alsace wine	wine flavor	riesling	meursault	california wine	sancerre	italian wine	wine descriptor	muscadet	american wine	white wine	white bordeaux	alsatian wine	white table wine	gamay
+155	dry wine	alsace wine	full bodied wine	dry red wine	meritage	wine descriptor	dessert wine	petite syrah	wine taste	zinfandel	cabernet franc	wine flavor	edible thing
+156	riesling	dry wine	dessert course	alsace wine	texas wine	dessert wine	sweet riesling	dry white wine	sauvignon blanc	fruit course	wine taste	full bodied wine	semillon	fish course	gamay	wine descriptor	cabernet franc	wine grape	chenin blanc	pinot noir	st. emilion	dry red wine
+157	sweet riesling	riesling	chenin blanc	dry riesling	semillon	st. emilion
+158	riesling	sauvignon blanc	white bordeaux	chenin blanc	white table wine	gamay	alsace wine	wine taste	semillon	wine descriptor	dry white wine	sancerre	dry riesling	dry red wine	cabernet franc	dry wine	sauterne	petite syrah	german wine
+159	meursault	wine taste	wine color	ice wine	semillon	wine flavor
+160	wine taste	wine color	semillon
+161	fruit course	meal	red meat	dessert course	pasta
+162	meritage	cabernet sauvignon	wine taste	medoc	red wine	merlot	sweet wine	dry red wine	petite syrah	full bodied wine	cabernet franc	dessert wine	pauillac	red burgundy	bordeaux	zinfandel	red bordeaux	st emilion	margaux
+163	fish course
+164	fruit course	dessert	meal course	dessert course	meal	fish course
+165	meal course
+166	tours
+167	tours	dessert
+168	medoc
+169	port	wine descriptor
+170	port
+171	port	loire
+172	cabernet franc	pinot noir	gamay	wine grape
+173	italian wine	texas wine	german wine	american wine	semillon	california wine	zinfandel	pinot blanc
+174	sancerre	white bordeaux	white wine	white table wine	cabernet sauvignon	pauillac	wine descriptor	red bordeaux	table wine	wine color	wine grape	red burgundy	dry red wine	california wine	texas wine	french wine	full bodied wine	american wine	margaux	meritage	red table wine	merlot	bordeaux	st-émilion	burgundy	medoc	st. émilion	sauterne	st emilion
+175	st emilion	french wine	american wine	italian wine	california wine	st. émilion	dry red wine	red bordeaux	beaujolais	st-émilion	chianti	medoc	pauillac	texas wine	margaux	wine descriptor
+176	german wine	alsatian wine	white wine	dry white wine	dry riesling	white table wine	alsace wine	sweet riesling	riesling	wine grape	wine color
+177	gamay	sauterne	semillon	sancerre	riesling	texas wine	italian wine	white burgundy	chianti	white bordeaux	muscadet	chenin blanc
+178	wine color	california wine	french wine	german wine	american wine	texas wine	dry red wine	petite syrah	italian wine	red burgundy	pinot noir	meursault	white table wine	white burgundy	white wine	wine descriptor	alsace wine	alsatian wine
+179	red wine	zinfandel	texas wine	wine color	pinot noir	pinot blanc	late harvest	american wine	wine grape	fruit course
+180	wine grape	sweet fruit
+181	tours
+182	tours
+183	fowl
+184	st. émilion	st-émilion	st emilion	st émilion	tours
+185	st émilion	st-émilion	st. émilion	loire	st emilion
+186	st émilion	st. émilion	st emilion
+187	wine color	burgundy
+188	potable liquid
+189	late harvest	meal course	meal
+190	burgundy	late harvest	st-émilion
+191	port
+192	red table wine	sweet dessert	fruit course	rose wine	pinot blanc	white bordeaux	sweet wine	dessert	table wine	white table wine	red wine	dessert wine	dry white wine	dessert course	dry red wine	meal	italian wine	white wine
+193	meritage	chianti	red table wine	italian wine	red wine
+194	pinot blanc	sweet riesling	dry white wine	white burgundy	table wine	white table wine	red wine	italian wine	chianti	white bordeaux	white wine	dry red wine	fruit course	sweet wine	dessert wine	red table wine	dessert	consumable thing	sweet dessert	fish course	meal	rose wine
+195	wine flavor	wine descriptor	wine taste	wine color
+196	wine taste	wine flavor	wine color	wine descriptor
+197	pauillac	meursault
+198	pauillac	meursault
+199	pauillac	meritage
+200	full bodied wine	st emilion	dry red wine	margaux
+201	chianti	dessert course	sancerre	wine descriptor	wine flavor	sweet riesling
+202	margaux	alsace wine
+203	loire
+204	wine taste	wine flavor	wine descriptor
+205	wine descriptor	meal	tours	st emilion	wine flavor
+206	pasta	red meat	texas wine	edible thing	port
+207	edible thing	pasta	consumable thing
+208	consumable thing	dessert course	tours	meal	fruit course
+209	tours	port
+210	meal	fruit course	consumable thing	meal course
+211	port	st emilion	meal
+212	wine color	table wine	wine grape	full bodied wine	bordeaux	white wine	st emilion	rose wine	red bordeaux	red table wine	merlot
+213	rose wine	chianti	full bodied wine	sweet wine	wine color	bordeaux	dry red wine	muscadet	white wine	merlot	red table wine
+214	meal course	pasta
+215	wine taste	loire	wine flavor	meal course	german wine	alsace wine	white wine	potable liquid	riesling	sweet riesling	ice wine	late harvest	sancerre
+216	port
+217	port	fowl
+218	pasta
+219	meal course	fish course	edible thing
+220	fruit course	dessert course
+221	meal course	fish course
+222	fruit course	dessert course
+223	meal course	fruit course
+224	meal course	dessert wine	dessert course
+225	dessert course	meal course	fruit course	meal	fish course
+226	fish course	meal course	fruit course
+227	fruit course	meal course	meal	dessert course
+228	late harvest
+229	tours
+230	tours
+231	petite syrah	merlot	wine taste
+232	meal
+233	wine flavor	white bordeaux
+234	wine taste	meritage	cabernet sauvignon	merlot	red burgundy	wine flavor	margaux
+235	wine descriptor	wine flavor	red wine	sancerre	zinfandel
+236	meal course
+237	meal course
+238	meal course	fruit course
+239	dry wine	late harvest	consumable thing	edible thing	red meat
+240	edible thing	red wine	red meat	consumable thing	sweet fruit
+241	bordeaux	meritage	cabernet sauvignon	dry white wine	beaujolais	table wine	dessert course	dry riesling	muscadet	white table wine	rose wine	chardonnay	red table wine	red wine	chianti	red burgundy	margaux	red bordeaux	dessert wine	merlot	white bordeaux	white wine	medoc
+242	red bordeaux	ice wine	dessert course	red wine	fruit course	bordeaux	sweet dessert	meritage	margaux	chardonnay	dry riesling	meal	white burgundy	red table wine	chianti	white bordeaux	meal course	red meat	german wine	rose wine	dessert wine	sweet wine	dessert	fish course	cabernet sauvignon	white wine	table wine	dry white wine	sweet riesling	merlot	medoc
+243	merlot	red wine	white wine	white bordeaux	dessert course	chianti	red table wine	red burgundy	burgundy	bordeaux	sweet riesling	white table wine	beaujolais	muscadet	red bordeaux	rose wine	margaux	sweet wine	table wine
+244	dessert course	dessert wine	sweet riesling
+245	meal course	meal
+246	german wine	dry riesling	riesling
+247	dessert	fruit course	sweet riesling	dry white wine	meal course	white burgundy	sweet wine	chardonnay	bordeaux	dessert wine	margaux	dessert course	fish course	medoc	ice wine	sweet dessert	red bordeaux	white wine	riesling	dry wine	table wine
+248	meal	fruit course	pinot blanc	dry wine	chardonnay	red table wine	table wine	sweet wine	fish course	white wine	sauterne	rose wine	dry riesling	california wine	red wine	petite syrah	white table wine
+249	meal course	meal	red table wine	fruit course	dry wine	ice wine	consumable thing	sweet wine	dessert course	sweet dessert
+250	late harvest	port
+251	tours
+252	late harvest
+253	fruit course
+254	tours
+255	full bodied wine	california wine	wine color	tours	st-émilion
+256	petite syrah	table wine	white table wine	anjou	zinfandel	red table wine	chardonnay	white burgundy	meritage	medoc	bordeaux	rose wine	red burgundy	cabernet sauvignon	pinot blanc	pasta	dessert wine	chianti	white wine	dry red wine	red wine	wine flavor	full bodied wine	ice wine	dry white wine	sweet wine	merlot	margaux	dry wine	pauillac	muscadet	red bordeaux	french wine	beaujolais	alsace wine	cabernet franc	sancerre	semillon	alsatian wine	sauterne	burgundy	meursault	chenin blanc	gamay	pinot noir	white bordeaux	italian wine	german wine	texas wine	american wine	california wine	sauvignon blanc	dry riesling	riesling	sweet riesling	dessert	sweet dessert	wine grape	meal course
+257	wine color	french wine	pinot noir	red meat	margaux
+258	loire	german wine	dry white wine	sweet riesling	pinot blanc	dry riesling	wine flavor	riesling	dessert wine	sauvignon blanc	french wine	alsace wine	alsatian wine	sweet wine
+259	dry riesling	sweet dessert	wine flavor	dessert
+260	fish course	edible thing	red meat	burgundy	wine color	wine flavor	potable liquid	full bodied wine
+261	wine grape	pinot blanc	meritage	sweet riesling	texas wine	riesling	dry riesling	california wine	full bodied wine	pinot noir	american wine	wine flavor	zinfandel	dry red wine	merlot	rose wine	petite syrah	chardonnay	cabernet sauvignon	red wine	dry white wine	red table wine	ice wine	white wine	dry wine	white table wine	sauvignon blanc	table wine
+262	sweet fruit	fish course
+263	consumable thing	edible thing	potable liquid
+264	fish course	meal course	pasta	white burgundy
+265	edible thing	fish course	consumable thing	fowl	wine color	wine flavor
+266	chianti	italian wine	dry wine
+267	petite syrah	french wine	italian wine	beaujolais
+268	wine taste
+269	german wine	french wine	dry wine	table wine	wine descriptor	pauillac	medoc
+270	sauvignon blanc	rose wine	white burgundy	italian wine	table wine	beaujolais	wine flavor	cabernet franc	dry riesling	white table wine	muscadet	fish course	meursault	zinfandel	pinot blanc	white wine	semillon	chenin blanc	white bordeaux	french wine	wine color	margaux	chardonnay	sweet riesling	dry white wine	pinot noir	california wine	alsace wine	american wine	riesling	sancerre	ice wine	texas wine	dry wine	alsatian wine	wine taste	sweet wine	gamay	german wine
+271	rose wine	dry red wine	chenin blanc	meritage	cabernet sauvignon	dry riesling	red bordeaux	merlot	sweet riesling	burgundy	dry white wine	white bordeaux	wine flavor	alsace wine	pinot noir	petite syrah	gamay	sauvignon blanc	wine descriptor	meursault	dry wine	ice wine	white burgundy	zinfandel	white table wine	cabernet franc	red table wine	pauillac	white wine	pinot blanc	semillon	riesling	sancerre	american wine	st emilion	french wine	chianti	california wine	red burgundy	sweet wine	fish course	chardonnay	wine taste	dessert wine	medoc	italian wine	red wine	beaujolais	margaux	bordeaux	sauterne	table wine	texas wine	fruit course	muscadet	german wine
+272	riesling	zinfandel	chenin blanc	texas wine	dry riesling	sweet riesling
+273	fowl	beaujolais	white burgundy	chenin blanc	german wine	pinot blanc	pinot noir	white wine	chardonnay	meursault	gamay	dry riesling	dry white wine	sauvignon blanc	muscadet	texas wine	alsace wine	riesling	white bordeaux	semillon
+274	alsace wine	german wine	wine descriptor	meritage	table wine	american wine	california wine	wine taste	gamay	texas wine	dry wine	rose wine	wine flavor
+275	chenin blanc	sweet wine	sweet riesling	ice wine	sauterne	french wine	german wine	alsatian wine	alsace wine	texas wine	table wine	dessert wine	wine descriptor	california wine	wine flavor
+276	white bordeaux	chianti	white table wine	dry white wine	pinot blanc	gamay	meritage	red bordeaux	pinot noir	french wine	texas wine	fruit course	petite syrah	american wine	alsatian wine	merlot	medoc	wine flavor	italian wine	red burgundy	cabernet franc	california wine	white wine
+277	dry red wine	full bodied wine	pauillac	meursault	cabernet sauvignon	cabernet franc	pinot blanc	white burgundy	dry wine	petite syrah	fish course	sauvignon blanc	beaujolais	chenin blanc	sancerre	margaux	muscadet
+278	meritage	wine taste	medoc	french wine	texas wine	full bodied wine	dry wine	dry red wine	table wine	american wine	alsace wine	petite syrah	beaujolais	cabernet sauvignon	cabernet franc	sauterne	red bordeaux	zinfandel	red wine	merlot	pauillac	gamay	pinot noir	red table wine	red burgundy	bordeaux	chianti	st emilion	wine color	chardonnay	california wine	wine descriptor	italian wine	margaux	wine flavor	german wine	burgundy
+279	ice wine	sweet wine	dessert wine	dry white wine	fruit course	chenin blanc	sweet riesling	sauterne	rose wine
+280	meal	tours
+281	wine color
+282	dry white wine	white wine	dessert wine	dry wine
+283	pasta	dessert course	dessert
+284	cabernet sauvignon	dry riesling	burgundy	beaujolais	chardonnay	pinot blanc
+285	riesling
+286	sauvignon blanc	pinot noir
+287	sauvignon blanc	pinot noir
+288	meal	sweet dessert	fruit course	consumable thing	dessert
+289	edible thing	consumable thing	fish course	sweet dessert	dessert	pasta
+290	consumable thing	dessert	sweet dessert	fish course	pasta	red meat	edible thing
+291	sweet dessert
+292	edible thing
+293	medoc
+294	fruit course
+295	red wine
+296	white bordeaux	red burgundy	sweet riesling	white burgundy	chianti	white table wine	italian wine	california wine	french wine	german wine	table wine	muscadet	sauvignon blanc	sancerre	chardonnay	american wine	petite syrah
+297	sweet riesling	red burgundy	bordeaux	red bordeaux	italian wine	american wine	chardonnay	pauillac	medoc	sancerre	white bordeaux	margaux	table wine	white table wine	ice wine	white burgundy	french wine	german wine	meursault	california wine	meritage	full bodied wine	chianti	tours
+298	burgundy	dry white wine
+299	dry red wine	alsace wine	margaux	texas wine
+300	red bordeaux	gamay	cabernet franc	semillon	burgundy	german wine	meritage
+301	pinot noir	st emilion	alsace wine
+302	pauillac	texas wine	st emilion	alsace wine	pinot noir	muscadet	meritage	meursault	chianti
+303	zinfandel	margaux	chardonnay	meritage	white burgundy	merlot	red burgundy	texas wine	medoc	white bordeaux	red bordeaux	pauillac	petite syrah	sancerre	meursault	riesling	dessert wine	dry red wine	sauvignon blanc	bordeaux	cabernet sauvignon	pinot blanc	sweet riesling	dry wine	white wine
+304	california wine	american wine	dry riesling	chardonnay	sweet riesling	petite syrah	white bordeaux	sancerre	dry white wine	texas wine	margaux	red burgundy	pinot blanc	white burgundy	sauvignon blanc	dry wine	zinfandel	semillon	italian wine	merlot	cabernet franc	sweet wine	rose wine	dessert wine	sauterne	bordeaux	table wine	gamay	dry red wine	chenin blanc	wine flavor	red table wine	red wine	riesling	red bordeaux	full bodied wine	white wine	beaujolais	cabernet sauvignon
+305	chianti	gamay	rose wine	st emilion	german wine	wine color	red table wine	sweet wine	red bordeaux	wine descriptor	chenin blanc
+306	meritage	consumable thing	red table wine	rose wine	italian wine	chardonnay	dry white wine	dry wine	sancerre	pinot blanc	white burgundy
+307	pauillac	meritage	sancerre	pinot noir	white burgundy	chianti	alsace wine	texas wine	margaux	dry red wine	medoc
+308	dessert wine	sweet wine	sancerre	muscadet	chenin blanc	pinot blanc	meursault	merlot	chardonnay	cabernet sauvignon	white burgundy	white bordeaux	beaujolais	full bodied wine	margaux	sauvignon blanc	medoc	chianti	french wine	petite syrah	red bordeaux	texas wine
+309	red burgundy	chardonnay	chianti	meursault	sweet wine	chenin blanc	white burgundy	medoc	white bordeaux	sancerre
+310	muscadet	california wine	alsace wine	red bordeaux	german wine	margaux	dry red wine	pauillac	italian wine	white burgundy	chianti	american wine	french wine	sancerre	medoc	pinot blanc	sweet riesling	beaujolais
+311	pauillac	texas wine	gamay
+312	dry riesling	pauillac	chenin blanc	riesling	full bodied wine	sauvignon blanc	medoc	beaujolais
+313	sweet wine	gamay	sauvignon blanc	dessert wine	ice wine	sauterne	alsace wine
+314	sweet wine	sauterne
+315	sauvignon blanc	riesling	muscadet	french wine	dry riesling	medoc	chenin blanc	pinot blanc	beaujolais
+316	muscadet	french wine	italian wine	gamay
+317	chenin blanc	german wine	alsace wine	riesling	french wine	gamay	wine descriptor
+318	st emilion	sauvignon blanc	pinot noir	red bordeaux	chenin blanc	pauillac	late harvest	gamay	wine descriptor	muscadet	california wine	beaujolais	cabernet franc	bordeaux
+319	merlot	red bordeaux	cabernet sauvignon	medoc	wine color	bordeaux	meritage	chianti	white bordeaux	french wine	pauillac	red burgundy	chardonnay	american wine
+320	pinot noir	sauvignon blanc	bordeaux	ice wine	red bordeaux
+321	medoc	merlot	dessert wine	chardonnay	sweet wine	dry wine	riesling	beaujolais	sweet riesling	red wine	white table wine	wine color	red table wine	late harvest	pinot noir	white wine	dry red wine	chianti	french wine	rose wine	wine descriptor	dry white wine	cabernet sauvignon	white bordeaux	bordeaux	red bordeaux	california wine
+322	texas wine	dry wine	meritage	rose wine	bordeaux	table wine	sauterne	dessert wine	zinfandel	semillon	alsace wine	white bordeaux	cabernet franc	sweet wine	red wine	cabernet sauvignon	chianti	gamay	american wine	italian wine	red bordeaux	white wine	red table wine	california wine	medoc	french wine	dry red wine	pinot noir	merlot	st emilion	chenin blanc	dry white wine	riesling
+323	meritage	dessert wine	american wine	dry wine	dry red wine	margaux	texas wine	pinot blanc	california wine	zinfandel	dry riesling	chardonnay	rose wine	riesling	medoc	sweet wine	cabernet sauvignon	merlot	bordeaux	french wine
+324	white table wine	potable liquid	rose wine	sancerre
+325	tours
+326	late harvest	fowl
+327	tours
+328	consumable thing	wine descriptor	loire	fruit course	tours	potable liquid
+329	potable liquid	dessert course	consumable thing
+330	tours	meal
+331	meal course	meal	tours	port	meritage	consumable thing
+332	dessert	dessert course
+333	fruit course	meal course	meal	dessert course
+334	dessert course	dessert
+335	red wine	table wine	dry red wine	meal	full bodied wine	white wine	tours	red table wine
+336	fruit course	edible thing	meritage
+337	fruit course	edible thing	consumable thing	meal	meal course
+338	medoc	ice wine	late harvest	potable liquid
+339	wine taste	wine descriptor
+340	late harvest	white bordeaux	margaux	medoc	red bordeaux	potable liquid
+341	semillon	sauvignon blanc	loire	sancerre	french wine	german wine	muscadet	anjou	dry riesling	medoc	cabernet franc	pinot blanc	chenin blanc
+342	italian wine	wine grape	wine descriptor	wine taste	wine flavor	st. emilion	pauillac	st. émilion	loire	meursault	st emilion	st-émilion	full bodied wine	st émilion	red bordeaux	sweet wine	chianti	dessert wine	margaux	alsace wine	french wine	sancerre
+343	dry wine	french wine	wine grape	wine flavor	loire	alsace wine	st émilion	wine taste	german wine
+344	german wine	riesling
+345	california wine	full bodied wine	pinot noir	petite syrah	semillon	dry wine	texas wine	wine taste	wine descriptor	italian wine	chardonnay	cabernet sauvignon	meritage	sauvignon blanc	american wine	wine grape	zinfandel
+346	full bodied wine	california wine	american wine	texas wine	sweet wine	pinot blanc	meritage
+347	semillon	american wine	riesling	wine taste	wine grape
+348	loire	texas wine
+349	white wine	dry wine	dry white wine	wine grape	wine taste	sweet wine	american wine	loire	meritage
+350	german wine
+351	texas wine	sauvignon blanc
+352	white bordeaux	dry wine	dry red wine	petite syrah
+353	late harvest	wine color	burgundy
+354	late harvest
+355	wine color	full bodied wine	sweet wine	pinot blanc
+356	late harvest
+357	late harvest
+358	late harvest	fowl
+359	loire
+360	loire
+361	potable liquid
+362	red meat
+363	loire
+364	anjou	ice wine	sweet fruit	late harvest
+365	late harvest	wine grape	anjou
+366	tours	sweet fruit	consumable thing
+367	sweet fruit	ice wine	late harvest
+368	wine taste	wine descriptor	full bodied wine
+369	wine flavor	wine taste	wine descriptor	wine grape	pauillac
+370	wine descriptor	sancerre	chenin blanc	wine flavor
+371	wine descriptor	wine taste
+372	wine taste	wine flavor	wine grape	full bodied wine	sauterne
+373	wine taste	wine descriptor	wine flavor	edible thing
+374	sweet dessert
+375	sweet dessert	fish course	fruit course	dessert course	dessert	pasta
+376	meal	red wine	red table wine	table wine
+377	dessert course	sweet dessert	fruit course
+378	dessert course	meal	dessert wine	meal course	fruit course
+379	fish course	dessert wine	fruit course	pasta	red table wine
+380	white table wine	red wine	fruit course	red table wine	fish course	dessert	meal	sweet dessert	dessert wine	muscadet	sweet riesling	white bordeaux
+381	meal course	fruit course	dessert course
+382	dry red wine	red table wine	pinot blanc	muscadet	chianti	table wine	ice wine	white wine	alsace wine	sweet riesling	beaujolais	consumable thing	white table wine	red wine
+383	fruit course	red table wine	table wine
+384	meal course	meal
+385	wine color	burgundy
+386	wine color	sweet wine
+387	wine grape	pasta	sweet fruit	anjou	potable liquid	full bodied wine
+388	edible thing	consumable thing
+389	medoc	consumable thing
+390	fowl	petite syrah	loire
+391	full bodied wine	meal course	pasta	fowl	port	wine taste	wine descriptor	medoc	dry wine	wine flavor
+392	anjou
+393	white wine	edible thing	full bodied wine	white table wine	potable liquid	chardonnay	alsatian wine	alsace wine	wine descriptor
+394	pauillac	st emilion	potable liquid
+395	potable liquid	consumable thing	meal	wine flavor	fish course	port
+396	loire
+397	wine color	fowl	potable liquid	port
+398	red meat	consumable thing	texas wine
+399	wine grape	fowl
+400	wine grape	cabernet sauvignon
+401	ice wine	red wine	table wine	consumable thing	red table wine	wine color	merlot
+402	red meat	red wine	consumable thing	edible thing	table wine	red bordeaux
+403	red table wine	red wine	consumable thing	red bordeaux	merlot	table wine
+404	port	wine flavor	medoc	red wine
+405	wine descriptor	dry riesling	german wine	sweet wine	petite syrah	wine flavor	white table wine	white bordeaux	wine taste
+406	wine color	meursault
+407	wine flavor	wine taste	sweet riesling	semillon	riesling	red burgundy
+408	sweet wine	wine taste	wine flavor	red burgundy	dry wine
+409	burgundy
+410	burgundy
+411	wine flavor	wine taste	cabernet franc
+412	tours	wine descriptor
+413	sweet dessert	chardonnay	white burgundy	meursault	dessert wine	sauterne	semillon	white table wine	italian wine	anjou	french wine	sweet riesling	pinot blanc	dessert course	white bordeaux	chenin blanc	american wine	white wine
+414	ice wine	table wine	zinfandel	sweet riesling	italian wine	beaujolais	alsace wine	wine flavor	merlot	red table wine	cabernet franc	sweet dessert	meritage	wine descriptor	dry riesling	bordeaux	dry red wine	gamay	chenin blanc	dessert wine	white table wine	riesling	petite syrah	rose wine	dessert course	sauvignon blanc	meursault	sauterne	semillon	pinot blanc	red burgundy	white burgundy	sweet wine	sancerre	muscadet	white bordeaux	pinot noir	chardonnay	red wine	dry white wine	french wine	sweet fruit	chianti	german wine	dry wine	white wine	margaux	medoc	cabernet sauvignon	burgundy	texas wine	california wine	st emilion	alsatian wine	red bordeaux	dessert	american wine
+415	dessert wine	texas wine	italian wine	cabernet franc	pinot noir	margaux	dry wine	meritage	dry red wine	cabernet sauvignon	red burgundy	chianti	bordeaux	full bodied wine	zinfandel	red table wine	burgundy	pauillac	merlot	wine taste	wine flavor	beaujolais	petite syrah	american wine	red wine	st emilion	wine descriptor	medoc	california wine	red bordeaux	sauterne
+416	pauillac	wine descriptor	cabernet franc	medoc	chianti	dry red wine	bordeaux	pinot noir	red burgundy	cabernet sauvignon	wine flavor	dry wine	merlot	full bodied wine	wine taste	american wine	red bordeaux	red table wine	red wine	rose wine
+417	dessert wine	gamay	potable liquid	wine flavor	riesling	muscadet	red wine	table wine	ice wine	sweet riesling	italian wine	sauterne	french wine	chianti	dessert course	wine descriptor	german wine	wine grape	anjou	sweet wine	pasta	consumable thing	red meat	edible thing	dessert	sweet fruit	sauvignon blanc	sweet dessert	dry white wine	chenin blanc	dry riesling	pinot blanc	pinot noir	beaujolais	dry wine	fish course	rose wine	dry red wine	red table wine
+418	wine taste	red bordeaux	cabernet sauvignon	margaux	merlot	pauillac	cabernet franc	pinot noir	red burgundy	meritage	st. emilion
+419	bordeaux	petite syrah	chenin blanc	meritage	margaux	pauillac	red burgundy	red bordeaux	cabernet franc	medoc
+420	full bodied wine	pasta	chianti	red meat	sweet dessert	pinot noir	burgundy	red wine	meritage	dessert	potable liquid	ice wine	st emilion	sweet wine	margaux	dessert wine	red burgundy	pauillac	medoc	meursault	california wine	red bordeaux	petite syrah	wine flavor	merlot	bordeaux	dry wine	dry white wine	wine grape	zinfandel	fish course	muscadet	dessert course
+421	petite syrah	merlot	meritage	red burgundy	pinot noir
+422	pasta	consumable thing	fish course	edible thing
+423	wine descriptor	dessert course	wine flavor	sweet riesling	wine taste	gamay	meritage	pinot noir
+424	cabernet franc	sauvignon blanc	california wine	cabernet sauvignon	white wine	italian wine	chianti	riesling	dry riesling	wine descriptor	pinot noir	german wine	meursault	semillon	table wine	wine flavor	dry red wine	french wine	red wine	white bordeaux	red table wine	chenin blanc	dry wine	white table wine	rose wine	texas wine	american wine	dry white wine	wine grape	sancerre	pinot blanc	muscadet
+425	meursault	wine color	wine grape	sweet riesling	chenin blanc	pinot noir	semillon	gamay	riesling
+426	potable liquid
+427	potable liquid	red meat	wine descriptor	sauterne	dessert wine	sweet wine	dry red wine	ice wine	chenin blanc	edible thing	wine taste	pasta	consumable thing	wine color
+428	petite syrah	potable liquid	dessert wine	ice wine	sweet wine	sauterne	full bodied wine	wine descriptor	wine color	riesling	rose wine
+429	dessert wine	white wine	sweet wine	anjou	dry wine	rose wine	chenin blanc	sauvignon blanc	pinot blanc	dry red wine	dry riesling	consumable thing	wine descriptor	dry white wine	muscadet	wine taste	riesling	potable liquid	dessert course	edible thing	alsace wine	wine flavor	full bodied wine	dessert	sweet dessert	sweet riesling	sauterne
+430	anjou	dry riesling	consumable thing	dessert course	edible thing	fish course	sweet fruit	red meat	sweet dessert	chenin blanc	fruit course	sauvignon blanc	semillon	alsace wine	dessert	wine flavor	pasta	dry wine	dry white wine	wine taste	wine descriptor	riesling	rose wine	white wine	muscadet	potable liquid	sweet riesling	dessert wine	meritage	sweet wine
+431	meal	late harvest
+432	dessert course	meal course	meal
+433	sweet wine	german wine	wine color
+434	st-émilion	loire	st émilion	st emilion	cabernet franc	tours
+435	loire
+436	tours
+437	sauvignon blanc	semillon	zinfandel	cabernet sauvignon	gamay	cabernet franc	petite syrah	merlot	pinot noir	pinot blanc	riesling
+438	table wine	dry wine	french wine	wine flavor	meritage	texas wine	american wine	wine color	wine descriptor	wine taste	rose wine	gamay	alsace wine
+439	port	tours	st. émilion	st-émilion
+440	wine flavor	white table wine	alsace wine	red wine	wine descriptor	white bordeaux	texas wine	rose wine	white wine	burgundy	dry white wine	california wine	table wine	meritage	port	wine color	fruit course	dry wine	italian wine	american wine	french wine	german wine	wine grape
+441	wine descriptor	sweet dessert	dessert	anjou	wine flavor
+442	margaux	pauillac	meritage	red bordeaux	st-émilion	meursault	red burgundy	medoc
+443	red table wine	dry white wine	consumable thing	white table wine	rose wine	potable liquid	white wine	table wine	white bordeaux	wine color	tours	meal course	dry red wine	red wine	german wine	american wine	dry wine	italian wine	french wine	alsace wine	dessert wine	texas wine	meal	port	california wine
+444	burgundy	chardonnay	medoc	white bordeaux	red wine	rose wine	margaux	pinot noir	meritage	white table wine	cabernet franc	meursault	dry red wine	white burgundy	dry white wine	sweet wine	petite syrah	muscadet	chianti	merlot	sauvignon blanc	red table wine	pinot blanc	sancerre	st emilion	zinfandel	bordeaux	dry riesling	cabernet sauvignon	st. emilion	gamay	sauterne	sweet riesling	chenin blanc	beaujolais	pauillac	red bordeaux	red burgundy	california wine	wine color	dessert wine	full bodied wine	american wine	alsace wine	dry wine	texas wine	german wine	ice wine
+445	tours
+446	white bordeaux	red meat	sweet fruit	late harvest	sweet dessert	anjou	dessert	semillon	cabernet franc	medoc
+447	meal course	meal
+448	texas wine	wine color	port
+449	fish course
+450	fish course	red meat
+451	fish course	burgundy	meal course	dessert course
+452	dessert course
+453	dessert wine	sweet riesling	semillon	sweet fruit	meritage
+454	potable liquid	semillon
+455	cabernet franc	merlot	semillon	gamay
+456	sweet fruit	wine grape
+457	wine grape	loire
+458	rose wine	cabernet sauvignon	white bordeaux	margaux	sweet dessert	burgundy	table wine	italian wine	fish course	dessert	red table wine	pinot noir	ice wine	dry wine	full bodied wine	california wine	german wine	bordeaux	red burgundy	dessert wine	petite syrah	sweet wine	dry white wine	american wine	dessert course	riesling	sauterne	red wine	white wine	chardonnay	merlot	white table wine	alsace wine	sweet riesling	white burgundy	edible thing	chianti	red bordeaux	wine color
+459	dry riesling	french wine	red burgundy	dry white wine	dry red wine	white wine	american wine	full bodied wine	merlot	dry wine	bordeaux	pinot blanc	muscadet	chenin blanc	red wine	chianti	white bordeaux	chardonnay	zinfandel	white table wine	pauillac	cabernet sauvignon	pinot noir	california wine	sancerre	red table wine	riesling
+460	white table wine	dry riesling	petite syrah	sancerre	red bordeaux	red burgundy	merlot	riesling	cabernet sauvignon	potable liquid	white burgundy	chardonnay	loire	american wine	california wine	alsace wine	table wine	pinot blanc	edible thing	full bodied wine	white wine	dry wine	zinfandel	red wine	sweet riesling	burgundy	semillon	ice wine	rose wine	bordeaux	gamay	dry red wine	white bordeaux	german wine	dry white wine	chianti	red table wine	beaujolais
+461	white wine	riesling	white bordeaux	bordeaux	dry wine	red wine	muscadet	pinot blanc	german wine	chianti	dry white wine	red burgundy	sweet riesling	semillon	french wine	white burgundy	dry red wine	dry riesling	full bodied wine	petite syrah	red table wine	american wine	red bordeaux	rose wine	beaujolais	cabernet sauvignon	wine color	wine descriptor	sauterne	st emilion	margaux	table wine	chardonnay	zinfandel	cabernet franc	chenin blanc	white table wine	ice wine	sancerre	california wine	alsace wine	pinot noir	merlot	gamay	burgundy	pauillac
+462	chardonnay	red table wine	dry red wine	zinfandel	dry wine	red meat	petite syrah	fowl	sweet fruit	edible thing	potable liquid	dry white wine	pinot blanc	table wine	anjou	merlot	burgundy	red wine	gamay	sweet riesling	american wine	rose wine	wine grape	chianti	sancerre	white wine
+463	semillon	wine grape	gamay	late harvest	consumable thing	burgundy	cabernet franc	wine color	edible thing	petite syrah	chenin blanc	anjou	zinfandel
+464	table wine	edible thing	sweet fruit	white wine	red wine	italian wine	california wine	riesling	dessert wine	rose wine	chianti	sweet riesling	wine color	wine descriptor	burgundy	sweet wine	sauterne	red meat	ice wine	pasta	dessert	wine grape	late harvest	sweet dessert	fowl
+465	gamay	pinot noir	merlot	cabernet franc	meritage	cabernet sauvignon	semillon
+466	semillon	cabernet franc	wine flavor	chenin blanc	gamay
+467	chianti	margaux	full bodied wine	red burgundy	cabernet sauvignon	white burgundy	meritage	american wine	california wine	muscadet	zinfandel	red table wine	petite syrah	beaujolais	burgundy	merlot	pinot noir	dry white wine	bordeaux	white wine	red bordeaux	dry red wine	table wine	dry wine
+468	riesling	zinfandel	petite syrah	chardonnay	full bodied wine	table wine	sweet wine	dessert wine	wine color	red table wine	american wine	meritage	california wine	red burgundy	burgundy	white bordeaux	margaux	muscadet	sweet riesling	ice wine	red wine	italian wine	bordeaux	french wine	sauterne	dry wine	white burgundy	pauillac	alsace wine	white wine	rose wine
+469	white table wine	rose wine	dry white wine	dry riesling	zinfandel	dry red wine	chardonnay	red table wine	cabernet sauvignon	merlot	full bodied wine	alsace wine	white wine	beaujolais	riesling	pinot blanc	meritage	dry wine
+470	red meat
+471	port	loire	consumable thing	dessert	sweet dessert	cabernet franc
+472	cabernet franc	wine grape	rose wine	dessert wine	burgundy	semillon
+473	chenin blanc	sweet riesling	rose wine	german wine	chianti	table wine	muscadet	sauterne	cabernet franc	white bordeaux	sancerre	american wine	pinot blanc
+474	meal	edible thing	consumable thing	potable liquid
+475	dessert wine	chenin blanc	sauterne	cabernet sauvignon	ice wine	chianti	beaujolais	california wine	sweet wine	full bodied wine	american wine	pinot blanc	sweet riesling	dry wine
+476	consumable thing
+477	pasta	anjou	sweet fruit	late harvest	edible thing	wine grape	red meat	consumable thing	dessert wine
+478	pasta	red meat
+479	pinot noir	burgundy	wine descriptor	bordeaux	wine color	chenin blanc	margaux	riesling	white bordeaux
+480	fowl	pasta
+481	anjou
+482	chardonnay	burgundy	french wine	gamay	alsace wine	meursault	white burgundy	pinot noir	pinot blanc	beaujolais	cabernet franc	american wine	sauvignon blanc	red burgundy	riesling
+483	sweet fruit	cabernet sauvignon	wine grape	st emilion	petite syrah	cabernet franc	st. emilion
+484	cabernet franc	cabernet sauvignon	st. emilion
+485	loire	st émilion	port
+486	pauillac	late harvest
+487	margaux	white burgundy	meursault	red burgundy	dry red wine	pauillac	chianti	meritage	st-émilion	st emilion	burgundy	white table wine	st. émilion
+488	wine descriptor
+489	beaujolais	white burgundy	cabernet franc	wine descriptor	semillon	pauillac	sancerre
+490	meursault	pauillac	french wine	st. emilion
+491	merlot	cabernet sauvignon	wine descriptor	meritage	texas wine	pauillac	california wine	st. emilion
+492	medoc	pauillac	chardonnay	cabernet sauvignon	sauterne	red bordeaux	sauvignon blanc	french wine	semillon	meritage	st. émilion	st emilion	bordeaux	white bordeaux	margaux	wine grape	merlot	cabernet franc	st-émilion	dry wine	st. emilion	st émilion	full bodied wine
+493	pauillac	wine color
+494	st emilion	burgundy	pauillac	wine taste	wine descriptor	st. émilion	st-émilion	st émilion	meursault	semillon
+495	wine descriptor	wine taste	semillon
+496	sancerre	sauvignon blanc	petite syrah	wine descriptor	pauillac
+497	muscadet	dry riesling	chenin blanc	semillon	riesling	pinot noir	sweet riesling	merlot	dry white wine	dry red wine	white bordeaux	pinot blanc	red table wine	zinfandel	chianti	meursault	sancerre	sauvignon blanc	white burgundy	sauterne	rose wine	cabernet sauvignon	alsatian wine	wine descriptor	wine taste	american wine	bordeaux	red burgundy	burgundy	petite syrah	chardonnay	alsace wine	dry wine	german wine	margaux	red bordeaux	california wine	texas wine	meritage	gamay	st émilion	pauillac	wine flavor
+498	table wine	red burgundy	white wine	white burgundy	meursault	st émilion	california wine	texas wine	french wine	wine color	american wine	wine grape	full bodied wine	dry white wine	sauvignon blanc	wine descriptor	pauillac
+499	medoc	sauterne	meritage	chardonnay	table wine	muscadet	white bordeaux	white wine	pauillac	white burgundy	pinot blanc	burgundy	bordeaux	gamay	margaux	sauvignon blanc	red bordeaux	sancerre	petite syrah	red burgundy	chianti	red wine	beaujolais	dry white wine	pinot noir	dessert wine	rose wine	st émilion	dry red wine	red table wine	ice wine	white table wine	merlot
+500	gamay	zinfandel	red burgundy	bordeaux	meritage	merlot	petite syrah	cabernet sauvignon
+501	wine descriptor	sauterne	ice wine	dessert wine	semillon	alsace wine	sweet wine	riesling	alsatian wine	chenin blanc	sweet riesling	american wine
+502	sauvignon blanc	white bordeaux	sancerre	pinot blanc	dry riesling	pinot noir	white burgundy
+503	meursault	beaujolais	white bordeaux	merlot	semillon	bordeaux	wine descriptor	pinot noir	st emilion	french wine	meritage	wine color	petite syrah	cabernet sauvignon	st. emilion	california wine	zinfandel	american wine
+504	petite syrah	sauvignon blanc	merlot	pinot noir	cabernet franc	american wine	california wine	zinfandel	semillon	cabernet sauvignon	beaujolais	meursault	st. emilion	st emilion
+505	meursault	american wine	beaujolais

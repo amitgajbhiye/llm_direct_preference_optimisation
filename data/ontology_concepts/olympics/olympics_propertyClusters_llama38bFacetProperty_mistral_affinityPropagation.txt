@@ -1,0 +1,1072 @@
+0	musical	artistic	athletic	creative
+1	can learn	intelligent	can create	can set goals
+2	excels in multiple areas	skilled in multiple areas	good at multiple sports	skilled in multiple sports	talented in multiple areas	good in multiple subjects	specialized in multiple events	success in multiple fields	person who excels in multiple fields
+3	water bottle	matching accessory	umbrella	shoes	hat
+4	highly accurate	medium	high	low
+5	best technique	best performance	most improved	historic win	overcoming adversity	first-time winner
+6	champion	participant	second place	first place	third place	runner-up
+7	highest jump	fastest time	highest score	team victory	most points
+8	most goals	most goals scored
+9	record-breaking performances	record-breaking	record holder	records	breaking records	setting a new record	record	setting records
+10	century scorer	repeat champion	grand slam winner	try scorer	hat-trick taker
+11	championships	success	multiple awards	winning competitions	awards	recognition	team success
+12	sailing	fishing	boating	surfing	cruising
+13	recreational	hobby	recreational sport	leisure activity	recreational activity	leisure	activity undertaken for pleasure	recreational sailing	recreation	social event
+14	water sports	aquatic sports	swimming	water sport	underwater	water	aquatic sport
+15	garden maintenance	exercise	physical exercise	running	gym	physical	training	practicing	playing	physical activity
+16	riding	biking	hiking	cycling	camping	cruising
+17	basketball	sport	athletic	sports	water polo	rowing	athletics	game	competitive sport	fencing sport
+18	competitive	interest	championship	competing	event	pool	lifting	job	adventure	competition	tournament
+19	horse riding	horse breeding	horseback	horse care	horseback riding	fishing	horse training
+20	intense	leisurely	competitive	relaxed	professional	recreational	exhilarating	leisure
+21	recreational	hobby	competitive	lifestyle	performance art	physical exercise	job	recreational activity
+22	gills	fins	scales
+23	enhanced creativity	reliable signal	widespread coverage	easy to learn	increased creativity	better problem solving
+24	bbs	pellets	airsoft	screws	round	cartridges	ammunition	amunition	ammo	bullet	coin	bullets
+25	solitary	singles
+26	colorful	monochromatic	delicate	fit	modern design	flat	stone	modern
+27	databases	database-driven	operating systems	file systems
+28	banking system	financial transactions	banking
+29	pessimistic	optimistic
+30	pool	field	track	oval	court	ice track	racing	circuit	ice
+31	pulling	straight	simultaneous	forward and upward	pull	scissor-like	forward motion	alternating	back	pulling motion
+32	musicality	costume design	artistic expression	expression	interpretation
+33	personal growth	work	hobby	relationship
+34	banking	banks
+35	treasure hunting	treasure hunters
+36	military	military personnel
+37	secret societies
+38	concussion	young	two parts	ecological balance	bravery	inspirational story	experience	old	inexperienced	agile	atomic operations	experienced	multi-instrumentalist	skill level
+39	wrestlers	snowboarders	cross-country skiers	multi-event specialists	runners	triathletes	alpine skiers	vaulter	skiers	pole vaulters	freestyle wrestlers	long jumpers	throwers	jumpers	track and field athletes	high jumpers	strong throwers
+40	trained in both disciplines	broken by top athletes	athletes with exceptional strength	multi-talented athletes	multi-talented	veterans	multisport athletes	multi-talented athlete
+41	skilled	powerful	fast	strong	bravery	strategic	military officers	world-class
+42	olympic	olympic athletes	olympic champions	olympic athlete
+43	professional	professional athletes	specialized	female	professionals	male	individual	adult
+44	athletes	men	female	newcomers	women	world champions	male	height	speed
+45	norwegian	german	austrian
+46	require strength and speed	require strength	require mental toughness	require technique and practice	require technique	specialize in	train for	requires strength	need to be strong in both	train for this event	require speed
+47	multitaskers	agile	highly trained	part of a team	well-rounded	versatile	disciplined	physically fit	precision	adventurous	adaptable	multiskilled	technically skilled
+48	tactics	speed	strategic thinking	strategy	technique	skiing skills	athletic performance	control	precision	technical skill	shooting skills
+49	track running	triple jump	athletics	clears	high jump	three jumps	judges	jumps	shot put	long jump
+50	exciting	relaxed	formal	energetic	casual	competitive
+51	online	optional	mandatory	public	limited
+52	invitation-only	invited only	by invitation	invite-only
+53	large	public	many	few	small	few people	small group	private	invited
+54	large	private	public	small
+55	arena	ceremony stage	trophy	medal
+56	athlete	professional	sports player	amateur athlete	individual player	professional athlete	team player
+57	leather	synthetic material
+58	sips nectar	nectar	feeds on nectar
+59	camouflage	migratory	flying	feeding	mating	migrating	breathe	hunting	flaps wings	flutters	schooling	feed	migrate	migrates	swarms
+60	can be lazy	can be pessimistic	can be active	can be helpful
+61	values	goals	habits	personality
+62	master level	dobok	master	black belt	white belt	colored belts	colored belt
+63	white	yellow	green	blue	colored	red	orange	black
+64	improves cardiovascular endurance	good for back muscles	improves muscle tone	increase bone density	improves endurance	increased muscle mass	improves cardiovascular health	improves posture	increases muscle mass	improves bone density	burns calories	increases strength	boosts metabolism	enhances athletic performance	improves cardiovascular	improved bone density	muscle strength	improves stroke efficiency	works multiple muscle groups
+65	improved overall health	improve overall health	improved mental health
+66	environmentally friendly	environmental	dependent on wind	environmental impact	low impact	eco-friendly	social benefits	environmental benefits	water treatment
+67	fitness	fitness routine	physical health	fun	healthy lifestyle	balanced diet	health	exercise	bone density	mental health	physical fitness
+68	increased perspectives	learning from others	diverse perspectives	broader perspective	broadened perspectives	broader perspectives	cultural exchange	cross-cultural exchange	learning from each other	diversity of ideas	diversity of perspectives
+69	full-body workout	full body workout	full range of motion	full-body exercise
+70	weight loss	boost metabolism	muscle growth	strength gain	stress relief	fat loss
+71	enhancing communication	enhanced teamwork	increased understanding	improved data accuracy	increased productivity	enhanced user experience	improved relationships	enhanced collaboration	improved communication	increased collaboration
+72	biological	genotype	dna	phenotype
+73	has a nervous system	living being	alive	dependent on water	has a heart	has language	has dna	has a brain
+74	human	mammal
+75	culture	religion	nationality	language
+76	arms	legs	torso
+77	legs	back	arms
+78	supine	horizontal	face down	relaxed	arms extended	lying on back	on back	streamlined
+79	australian brand	australian product
+80	sanitarium	kellogg's	heinz
+81	mouth out of water	breathe every stroke	head above water	breathing in while arms exit water	exhaling underwater	breathing out while arms enter water
+82	thoroughbred	quarter horse	arabian	horse
+83	45acp	5.7x28mm	9mm
+84	large	bb	medium	small	small-caliber	tiny
+85	game	toy
+86	ball game	racket sport	sports equipment	racquet sport
+87	marine life	insect	animal	beetle	winged	creepy-crawly	pollinator	metamorphosis	winged insect
+88	diving	exploring underwater	scuba diving	hunting	free diving	snorkeling
+89	infrastructure	it infrastructure	competitors	gold	foundation	banking	architecture
+90	cereal	healthy breakfast	breakfast food
+91	signal degradation	interference	synchronization issues	scalability	data consistency	causal consistency	synchronization complexity	synchronizing data access	scalability issues
+92	obstacles	setbacks	difficulties	failures
+93	conflicting interests	different work styles	adjusting to new teammates	conflicting opinions	different skill levels	differing opinions	different playing styles
+94	communication	trust building	trust issues	communication barriers	natural obstacles	cultural differences	performance	language barriers	physical exhaustion	deadlock	starvation	transition time
+95	competitive	supportive	dedicated	focused	persistent	hardworking	strong	motivated	determined
+96	maneuverable	physically fit	collaborative	flexible	versatile	cohesive	highly adaptable	fast
+97	stable	flat	uniform	durable	consistent state	smooth	efficient	slow to turn	accurate	highly available	icy	unstable	highly balanced
+98	identical height	matched	same height	set of duplicates	equal	identical	opposite
+99	quick movements	slow and controlled
+100	unique dynamics	diverse skills	narrow	determined	unique	separate	supporting life	inclusive	refreshing	distinct	diverse	persistent	together	complex
+101	goal-directed	fast pace	fast-paced	thrill-seeking	time-consuming	thrilling	fault-tolerant	slow-paced	exciting ride	cold-blooded
+102	higher bar is shorter	lower bar is longer
+103	requires balance and coordination	requires overall athleticism	requires speed and power	requires strength and flexibility	tested for strength and flexibility	requiring strength and balance	requiring technique and strength	requires focus
+104	freshwater	water	estuaries	water purification	marine	wetlands	saltwater	brackish
+105	teamwork	supportive	cohesive	team player	competitive	cooperative	working together	unified goal	rewarding	cooperation	coordinated	shared data	collaborative	harmonious	mutual respect
+106	flexible	springy	enjoyment	fragile	support	strength	popular	challenging	beautiful	trust	confident	fast	isolated	slow	reliable	leader	athletic	long	exciting	hardworking	strong	rigid	adaptable	skilled	sturdy
+107	well-rounded	renaissance person	multitalented	well-adjusted
+108	real-time systems	data consistency	provides real-time updates	low latency	energy-efficient	real-time updates	timestamped updates	thread-safe	highly scalable	non-blocking
+109	beliefs	intelligence	knowledge	thoughts	has thoughts
+110	problem-solving	problem solving
+111	can remember	communication	memory	memory formation	learning	can forget
+112	everyday life	lifestyle
+113	adequate rest	inadequate warm-up	poor form	overtraining	insufficient rest
+114	suplex	takedown	points for takedowns	slam	pinfall	takedowns	release moves
+115	baseball	swimming	tennis
+116	communication	verbal	multilingual	nonverbal	written	sharing information
+117	coordinating	collaborating	collaboration	communication	cooperation	necessary	important	coordination	effective	cultural exchange	open communication
+118	horse stable	horse club	horse event organizer	weightlifting club	online forums
+119	school track meet	organized by city	local charity ride	local tournament	local meets	local meet	local competition	for a friendly match	championship	tournament	school sports
+120	olympic sport	olympic event	official sport	featured in olympics	olympic	olympic competition	athletic competition	competing in olympics
+121	world cup	world cup event	european championship
+122	national championships	ncaa	held at the ncaa championships	college tournaments	college championships	high school championships	national championship	collegiate
+123	tournaments	championships	matches	cup competitions	games	match	game	tournament
+124	title
+125	medal	medals	getting medals	rankings	gold	recognized	awarded to winners	awarded for performance
+126	individual	team	team selection	tournament	scored	game	match	multiple rounds	league
+127	team finals	team events	team competition	individual	best combined score	time trials	team event	team competitions
+128	individual event	routine	individual events	event	individual routines	individual bout	points for each discipline	individual competition	event order	points awarded for each event
+129	qualification round	rotation schedule	final round	finals	round-robin	qualification rounds
+130	racing	single lap	race	individual	timed	competition	relay	penalties	gates	speed
+131	junior	national	professional league	national championships	college	international	competitive	local	national championship	individual	local competitions	senior	high school league	professional	amateur	college league	team	high school
+132	recreational	recreational leagues	junior
+133	olympic sport	olympics	world championships	olympic	olympic level	world championship
+134	olympics	summer games	olympic games	opening and closing ceremonies	february olympics	olympic	winter olympics	winter olympic games	international olympic committee	olympic sport
+135	international swimming hall of fame	fina event	fina world championships	itu triathlon world championships	fina	iaaf
+136	world championship	world championships	held annually	annual	team	league	national championships	world	world championship event	yes	annual competition	held in different countries	grand prix	individual
+137	local competitions	local meets	local shows	local	school events	school competitions	local events
+138	x games	winter x games	winter x games event	x games event	snowboard competitions
+139	professional tournaments	professional leagues	national championships	local track meets	national competitions	local tournaments	national tournaments	national cups	national	compete in tournaments	seasonal tournaments
+140	fis freestyle world ski championships	fis world championships	fis event	fis alpine world ski championships	fis world cup	fis freestyle skiing world championships	fis nordic world ski championships	organized by ihf	part of fis alpine world ski championships
+141	summer	winter championships	team sports	winter	maritime events	outdoor	indoor
+142	junior	senior	minor leagues	professional and amateur	professional league	high school	college	professional	professional competition	competing in professional sports	professional level
+143	thrower	professional competitor	runner	jumper	athlete	professional	team member	specialized athlete	competitor	experienced
+144	amateurs	professional	professionals	divers	jumpers
+145	amateur skiers	professional skiers	alpine skiers	experienced skiers	amateur athletes
+146	athletes	competitors	opponent	wrestler	team	female	teams	rival	nations	male	national teams
+147	cross-country skiing	classic skiing	shorter than cross-country skiing	cycling	combines downhill skiing and cross-country skiing	fencing	cross-country skiing techniques	cross-country
+148	pump	spring	springs	levers	cables
+149	padding
+150	shooting	frame	loop	magazine	receiver	seat	trigger	stock	room	edges
+151	sight	sights	running	handle
+152	organized group	diverse group of people	diverse group	combination of men and women	group of people	individuals from different backgrounds	combination of	collection of individuals	diverse backgrounds	diverse skills	collection of people	comprising members from different teams	different individuals
+153	teams	female players	coaches	multiple	players	managers	group of players	support staff	members
+154	men and women	different nationalities	various ages	male and female	different genders	different ages	including players from different countries
+155	pollution	conservation	marine conservation	overfishing	habitat destruction	wildlife
+156	well-maintained	well maintained	poorly maintained
+157	bumpy	potholed	snowy	smooth	rough	bouncy	large bumps
+158	to a device	wired	to a network	to a tower
+159	satisfaction	failure	success	disappointment
+160	endangered	extinct	threatened
+161	treasures	valuables	money	wheat	oatmeal	sugar
+162	workplace	project	milestone	private life	school	career	life
+163	china	australia	germany	usa	canada	great britain	russia
+164	technical and demanding	long and challenging
+165	bumps	winding	rocky	turns
+166	jumps	rollers	ramps	snow
+167	44 feet	24 meters wide	13 meters long	78 feet	20 feet wide	20 feet high	27 meters	7.5 feet	40x20 feet	44 feet long
+168	rectangular	hard court	clay court	grass court	outdoor court
+169	recreation	transportation	sport
+170	horse tradition	tradition	horse culture	equestrian community
+171	painful	capture	precise	harmful	dangerous	harm
+172	safe handling required	death	potential for injury	hazardous to humans	can cause injury	deadly
+173	high	medium	password	under construction	low	confidential documents
+174	injury	death	drowning	injuries	broken bones
+175	endeavor to accomplish	endeavour	endeavor
+176	athlete	winter sport	olympic sport	marine life	inverted slope	athletic competition	relating to water	aquatic sport	idiomatic expression
+177	large snow-covered mounds	large snow-covered hill	small, rounded bumps on a ski run	natural or artificial hill	hills on a ski resort
+178	shooting	running	riding	ground	development	stage	dance in water
+179	matched or coordinated	safe	together	following	synchronized	matching things	corresponding	matched	similar
+180	chasing after	chasing	chasing something	act of chasing
+181	fencing	high jump	long jump	javelin throw	shot put	distance	discus throw	track and field event	ocean	track and field	marathon	sea	pole vault
+182	platform in sync with other platforms	air traffic control system	platform for dancers	platform in a computer program	platform for synchronized actions	used for multiple processes	platform where multiple threads or processes can access shared resources	a platform where all actions are performed simultaneously	a platform that provides a shared state	platform with synchronized data	a platform that allows multiple users
+183	diving board	goal-oriented effort	lake	hidden compartment	tripwire	wires	person	pitfall	common goal	water-based	software	goal-oriented activity	shared goal	group of people	flat surface	platform
+184	two things	matched items	two items	two items in a set	two things that go together	five events	ten events	two things that are together	two things together
+185	wireless router	wireless transmission	wireless communication	radio signals	radio broadcasting	communication	secure storage	type of broadcast
+186	multi-event competition	multisport competition	event in multi-sport games	multi-sport events	multi-sport event	competitive physical activity	multi-disciplinary	multi-sport competition
+187	bars of different lengths	bars of different heights	horizontal bars	horizontal bars of different heights
+188	complex	algorithmic	stable	fixed	efficient	sturdy
+189	simple	ornate	modern	traditional	custom	flat
+190	shared with pedestrians	pedestrian crossings	no cars allowed	bike lanes	separated from traffic	designated bike lane
+191	one-to-one correspondence	one-way	two-way
+192	sharp bow	pointed bow
+193	has adolescence	has childhood	has adulthood
+194	sweet liquids	juice	pollen	sugar	sugary drinks	sugary liquids	fruit	sweets
+195	intermediate	low	beginner	amateur	beginner-friendly	easy
+196	moderate	medium	expert	hard	highly technical	difficult	physical demanding	challenging	technical	advanced	exciting	scary	high
+197	requires endurance	requires coordination	requires precise turns and speed control	requires skill	requires teamwork	requires precision
+198	length	height	thickness	width	measured
+199	direction	downward	down	left and right	descending	away from higher elevation
+200	mental	physical activity	military discipline	spiritual	rhythmic	physical
+201	cross country	cross-country
+202	super-g
+203	downhill
+204	dressage	eventing	show jumping
+205	ladies' singles	sprint	sprinting	track cycling	fencing	shooting	marathon	jumping	running	distance running	sprint distance	throwing	swimming	specialize in this event	relay	men's singles	equestrian	road racing
+206	downhill skiing	mountain biking	aerials	mogul skiing	alpine skiing	giant slalom	combination of downhill and slalom skiing	ski cross	fastest event in alpine skiing	slalom	ski jumping	halfpipe	skiercross	moguls	super-g skiing	slalom skiing	slopestyle	downhill	aerial skiing
+207	speed	individual	pairs	separate path	combined	pursuit	jumping	artistic
+208	short track	long track	mass start	ice dance
+209	measured in meters	kilometer	meters	multiple meters	recorded in centimeters	kilometers	miles	measured in height	centimeters	recorded in feet
+210	record	world	bar	set by	national record	longest
+211	farther than the long jump	longer than long jump	shorter than the high jump	shorter than high jump	longer than a snowboarder is tall	farther than long jump	shorter than the long jump	longer than ski jumping	jump height	longer than the high jump
+212	5-25 kilometers	42.2 kilometers	10-15 km	42.195 kilometers	26.2 miles	5-20 km	30km	42 kilometers	15km	10km
+213	farthest distance	highest height	furthest jump	farthest jump	longest jump	longest distance cleared
+214	long	long distances	distance	long-distance	long distance	far
+215	1500 meters	15 meters	5000 meters	50 m	500 meters	1000 meters	10000 meters
+216	40km bike	10km run	40 km bike	10 km run	1.5 km swim
+217	varies	height	variable length	endless	route	distance	variable
+218	short	medium	high	short distances	distance	short distance	shortest
+219	typically 1-2 kilometers	up to 80 meters	60-90 meters	50-80 meters	typically 15-20 meters	typically 1,000-1,800 meters	typically 70-80 meters	typically 7.26 meters	2.24 meters	typically 100-150 meters	up to 90 meters	typically 45-55 meters	typically 52-60 gates	typically over 2 meters	typically 1500m swim	typically 60-90 meters	typically 15-17 meters	typically 60-80 meters	typically 10km
+220	water	river	ocean	lake
+221	long	brief	longest duration	long time	limited	casual	point	short	lasting	long competition	regular	multiple	single
+222	full day	10 hours	february	2 weeks	one day	2 days	4 weeks	1 month	one-day	multi-day	1 day	60 minutes	single day	two days	all-day	28 days
+223	game	hourly	hours	hour	days	day	minutes	weeks
+224	instantaneous	multi-run	temporary	long-term	short-term	seasonal	short
+225	typically 2 weeks	usually 16 days	typically 16 days	typically 4-6 hours	up to 6 hours	typically 3 minutes	typically 2-12 hours
+226	few days	four years	lasting a few seconds	1-2 hours	multiple days	several hours	prolonged	approximately 2 hours	several days	two weeks	2-3 weeks	multiple hours	daily	long	ten
+227	conflict resolution	communication	pain management	trust building
+228	experiencing	emotions	feelings	moods	feeling
+229	can be optimistic	happy	can be sad	can be angry	can be happy	can be introverted
+230	fearful	angry	sad	fear	hopeful
+231	sad	happy	angry
+232	can feel sadness	can feel happy	can feel love	can feel sad	can feel angry	can feel happiness	can experience joy	can feel emotions	can feel scared
+233	anticipation	excitement
+234	lake	sea	water	river	ocean	saltwater	freshwater
+235	outdoor	indoor	outdoors	water temperature	online	forest	nature	road
+236	obstacle	competition	competitive	opportunity	competition arena
+237	trail	pool	field	gym	home
+238	pony	horse	donkey
+239	gloves	riding boots	tires	shoes	pants	boots	safety gear	shooting glasses	clothing	accessories	footwear	headgear	jackets	boot	padding	spikes
+240	backpack	protective gear	helmet	life jacket	mouthguard	ski suit	compass	helmets	foam sword	padded suit	box	goggles	riding helmet	warm clothing	mask	wearing helmet	crash helmet
+241	skeet shooting	skeet launcher	clay target thrower	skeet shooters	skeet machine	skeet gun
+242	ball	board	ice	mat	court	bats	tennis ball	heavy ball	puck	balls	bat	stick	string
+243	vaulting table	for vaulting	vaulting box	spring floor	vaulting horse
+244	indoor velodromes	cycling stadiums	sprint start	velodrome
+245	slalom skis	requires specialized skis and boots	skis boots	skis	cross-country skis	jumping skis	ski jumping skis	ski
+246	running shoes	sports clothes	athletic shoes	sunscreen	running clothes	water shoes	shoes	track shoes	water bottle	cycling shoes	tracksuit	martial arts uniform
+247	gym equipment	exercise	gym	fitness	exercise machine
+248	shuttlecock	rackets	paddles	paddle	racket	tennis racket	badminton racket
+249	bicycle	mountain bike	bike	road bike
+250	springboard	springboards
+251	water polo ball	handball	volleyball court	volleyball
+252	track surface	pit	turf	track	field	floor
+253	barbell	dumbbells	kettlebell	kettlebells	arm workout	dumbbell
+254	skates	ice skates	hockey stick	speed skates	figure skates
+255	floor exercise	floor exercise equipment
+256	music	pedals
+257	balance beam	circular weight
+258	treadmill	trampoline	jumping pit	jumping ski	jumping board	jumping shoes	jumping hill	jumping equipment	jumping spikes	diving board	landing pit	jumping mat
+259	foil	resilite	boards	sand	foils
+260	jumping hurdles	hurdles	starting blocks	long jump pit	jumping over a bar	measuring tape	high jump bar
+261	skate	ski poles	snowboards	ski jumping equipment	snowshoes	snowboard boots	windsurfing board	snowboard	skiing equipment	cycling shoes	snowboard bindings
+262	shooting trap	shooting clay targets	shooting range	throwing clay targets	trap shooting	target shooting	clay pigeon shooting	shooting clay	clay target	clay targets
+263	mast	platform	masts	single mast	anchor	on mast	rigging
+264	javelin	throwing discus	discus	shot put	throwing hammer
+265	horse bit	bridle	horse saddle	horse bridle	horse reins	horse	horse whip
+266	civilian	holds	human	socks	inrun	phone and case	cap	driver	tartan	belt	glove	jacket	hat	singlet	gi	release	ring	box	uniform	plastron
+267	spring floor	tumbling	tumbling track	tumbling mat	for tumbling	tumbling equipment
+268	throwing disc	throwing style	throwing circle	throwing plate	throwing cage	throwing board	throwing implement	scored by throwing	throwing stick
+269	sand pit	sandpit
+270	sail plan	boat	car	sail	yacht	sailboat	multiple sails	swim	small	pool	sand-digging	kayak
+271	apparatus	handle	machines	computers	machine	holds
+272	epee	épée	rapiers	fencing sword	fencing mask	fencing glove
+273	blade	bow	harness	rifle	arrow	shooting gun	watch	guard	hammer	shotgun	pistol	quiver	saddle	maces	chain	sword	gun	ammos
+274	sleigh	bobsled	single-person sled	luge sled	sledge	sled	small sled
+275	snorkeling	diving gear	fins	snorkel	snorkeling mask	scuba gear	snorkeling gear
+276	runway	requires a runway	landing area	requires a takeoff board	requires a pit area
+277	bars	sticks	bar	shells	mats
+278	swimsuit	wetsuit	specific costumes	uniforms	swimwear	swimsuits	flippers	hydration	swim goggles	costume
+279	net	combination	run	target	with net	goal	shot	team	high-powered
+280	steering bar	no brakes	brake	steering system	handlebars	steering handles	rudder
+281	shin guards	shinguards	knee pads	padded gloves	pads	leg supports	gauntlets	elbow pads
+282	club	clubs
+283	board with bindings	bindings	compatible with boots
+284	poles	ropes	pole
+285	ring	beam	vault
+286	ball	hoop	hoops	balls	mat
+287	ribbons	ribbon
+288	rhythmic apparatus	dance dress	rhythmics apparatus
+289	sprint	sprints
+290	game	competition	competitive event	competing	monthly	training session	tour	tournament	competitive	event	annual	organized	school game
+291	diving	springboard diving	team diving	synchronized swimming	synchronized diving	simultaneous	competitive diving	platform	synchronized	divers perform synchronized routine
+292	horse race	horse show	regatta	horse racing	horse showing	horse jumping	horse competition
+293	world championship	grand slam	championship	national championship	held at the world championships	world championship event	world championships	professional game	national championships	championships
+294	running	pursuit	track
+295	racing	race	tournaments	ride	grand prix	road	horse racing	distance
+296	olympics	winter games	summer olympics	olympic games	winter olympics	winter x games	winter sports
+297	ceremonial occasion	parade	ceremony	public occasion	award ceremony	professional	interview
+298	uneven bars	uneven bars releases	team vault	team uneven bars	parallel bars
+299	balance beam	individual all-around	floor exercise	team balance beam	all-around	team all-around
+300	mass start
+301	shooting sport	shooting	target shooting	target archery
+302	combined slalom	combined downhill	slalom	giant slalom	alpine skiing	alpine combined	more gates than slalom	longer than slalom
+303	synchronized	relay	match	vault	team floor	random	speed	single run	event	distance	global event	class
+304	jumping	jumping over a bar	leaping	jump
+305	individual events	individual	activity	individual event
+306	freestyle skiing	biathlon	second cross-country skiing	cross-country skiing	downhill skiing	ski jumping	speed skiing	classic skiing	combines cross-country skiing and ski jumping
+307	distance running	road race	speed event	indoor track	field event	track and field	running competition	long jump	heats	road running	sprinting	short distance	swimming	athletics	track and field event	trail running	track running	track event
+308	competitive	technical event	semifinals	race	final	charity	individual competition	tournament	cultural	team	qualifying	individual	competition	mixed	national competition	day-long competition
+309	snowboarding	first ski jumping	couples dance	track cycling	skiing	crossfit	marathon running	digging	climbing	cycling
+310	marathon	marathon running	finish line	free solo	marathon run	road running	ironman	marathons
+311	1500m run	1500m	400m	500m	1000m	400m dash	1500 meters
+312	world championships	world championship	national championship	event finals	national championships
+313	prizes	pairs	matches	contact	running	four-man	team	tour	shooting	vault
+314	short program	throwing	single	performing	optional exercises	stage	axel	solo	pursuit	duel	lifts	trio	duet	free dance
+315	shot put	pole vault	hurdling	long-distance running	jumps	team pursuit	multi-event	field archery	javelin throw	discus throw	high jump	ski jumping	indoor high jump	individual sprint	long jump	outdoor high jump
+316	swimming	ice skating	ice hockey	ice shows	snowboarding	fencing	performed on ice	pair skating	figure skating	sailing	long program	ice dance	free skate	curling	skating	riding	3d archery
+317	100 meters	110m hurdles	400m dash	110 meters hurdles	100m dash	400 meters	100m hurdles	comprising of 100m dash	100m
+318	compulsory dance	original dance	free dance	compulsory figures
+319	wwf	wwe
+320	summer	held at the olympics	olympic	olympics	relays	olympic sport	athletics	equestrian	olympic games	olympic event
+321	team events	singles	team-based	team event	winter festival event	different events
+322	individual normal hill	team normal hill	normal hill
+323	freestyle	all-around	free routine	classic technique	breaststroke	teams	backstroke
+324	individual large hill	large hill
+325	bobsleigh	bobsleigh track	luge
+326	sock and foot	shoe and foot	shoes and socks	socks	book and cover	key and lock	two shoes	shoe and sock	jewelry
+327	pursuing a career	playing a sport	academic researcher	pursuing a hobby
+328	bear trap	spring trap	rube goldberg trap	small animal	mechanical trap	human trap	snare trap	large animal	animal trap
+329	snare
+330	socks	gloves	shoes	clothing
+331	student	keys
+332	entrepreneurs	artist	artists
+333	dip	chin-up	pull-up
+334	thrilling	challenging	scenic	action-packed
+335	olympic games	long history	winter olympic games	world cup venues	winter games	olympic venues
+336	passionate	enthusiastic	supportive	loyal
+337	steerable	portable	reentrant	balanced	magazine	light body	steps	lightweight	grip	simple design	energy-saving	reliability	high speed	small size	small cabin	stock	sturdy	fast	flexible
+338	foldable	adjustable	trigger adjustment	height-adjustable	adjustable distance
+339	high rate of fire	high capacity magazine	high-capacity magazine
+340	timestamping	locking mechanism	transaction management	cockpit	lock	combination lock	data locking	water pressure	railing	fixed distance	locking and unlocking	locked doors	locking
+341	springy	high bounce	bouncy	buoyant	bouncing	icy	treacherous
+342	open deck	enclosure	apron	enclosures	engine	equestrian
+343	springy surface	soft landing surface	springy material	springy
+344	adjustable height	comfortable seating
+345	large sail	non-slip surface	raised edges	icy surface	with a flat bottom	flat-bottomed	dish	small crew	flat bottom	has a raised seat	has a flat surface	small engine	small sail
+346	matching	scope	evaluating	accuracy	together	curves	edges
+347	steep slopes	steep inclines	steep drop	steep slope
+348	easy to handle	easy to carry	easy to transport	portable
+349	movable	maneuverable
+350	steep	rough	rocky	large hill
+351	wings
+352	curvy
+353	strong hull	thick walls	single hull	narrow hull	strong keel	strong frame	sturdy hull	long hull
+354	hull	sail	shallow draft	sidecut	springboard	reef	sails	rudder	shell	gill	barrel	dock	multiple sails	heavy keel	keel	steering oar	mast
+355	fin	in a set	tail	trigger	home	long	edge	base	radius	net	drops
+356	binding	bindings	shell
+357	long proboscis	proboscis	nose
+358	straights	lanes	stables	switchbacks	straight sections	junctions	chicanes	straightaways	tunnels
+359	banking	traffic signs	traffic lights	security cameras	motion detectors	alarms	cameras	camera	banks
+360	life jacket	rowing	handrail	signaling	bungee cords	hills	ramps	deck	handrails	cornices	masts	rails	reefs	currents	gullies	roundabouts	locks	tides	challenging jumps	guardrails	flies	asphalt	gulches	corkscrews
+361	lights	nets	gates	mat	pipes	bars	netting	gates with flags	signs	posts	handles	locks	waves
+362	two horizontal bars	two parallel bars
+363	flash suppressor	revolver	red dot sight	laser sight	silenced	barrel	recoilless	muzzle brake	machine gun	silencer
+364	uneven	unpaved	groomed	tree-lined	uneven heights	elevated	unevenly shaped	ridges	uneven surface	uneven surfaces	discontinuous
+365	sports	champions	school sports	academics	arts	athletics	music
+366	soars	flaps	glides	flies
+367	speed	submission	strategy	physical	power	performance
+368	striking	kick	punching	punch
+369	performance	individual	short distance	individuals	submission	individual event	hybrid	simple	live	online	presentation	collaboration
+370	against others	team	all-around	virtual	rotation system	teams	same distance
+371	multiple skaters start at once	multiple skiers start simultaneously	multiple riders start at once	multiple athletes start simultaneously	same distance for all skiers	multiple athletes start at once	multiple skaters start simultaneously
+372	total score	individual scores	team performance	team score
+373	voluntary	appointed by authority	self-selected	randomly assigned	by accident	volunteered	through selection	appointed	randomly selected	by design	by intention	strategically assembled	organized by a leader	through merger
+374	mountains	hills	mountain ranges
+375	park	indoor	outdoors	backyard	office	nature	games
+376	gym	home workout	home gym	fitness center	recreation center	training facility	gymnasium
+377	technology	architecture	construction	building construction	construction site
+378	mathematics	in mathematics	two numbers
+379	annual	occasional	one time	rare	rarely	occasionally	daily	regularly	weekly	yes	regular	infrequent
+380	biennially	recurring	solitary	biennial	radio frequency	two words	updated periodically	yearly
+381	harm	support	military	protect	supporting devices	cooperation	for support	volunteer
+382	keep secrets	protecting secrets	hide secrets	secure storage	storing secrets	hide sensitive information	hiding secrets
+383	shooting	connecting	separation	holding	hold	lifting	throwing	standing
+384	base	safe deposit	stream data	hang	stage	rapid fire	capture	land	launch	automatic	shelf	launching point	host
+385	function	executing	base for construction	stage for performance	for measurement	providing base
+386	balance	treasure storage	hide treasure	testing balance
+387	displaying information	for cycling	for display	display	display device
+388	connect devices	connect devices to internet	connecting devices	connecting to internet	connecting devices wirelessly	connect to internet
+389	keep important documents	store valuable items	storing valuable items	provide safe storage	store valuables
+390	for multiple users	allows multiple users	multi-user games	supports multiple users
+391	fast-paced
+392	bird shooting	clay target	clay target shooting	clay target game	trap shooting	clay pigeon shooting
+393	set	point	match	game
+394	best two out of three sets	best of three sets	eight minutes each	three sets to win	best of five sets	each set has 15 points
+395	indoor game	indoor	outdoor game	outdoor	indoor sport
+396	played in pool	volley	similar to indoor volleyball	volleyball	volleys	different from indoor volleyball	arena	block ball	spike ball
+397	serving	serve and volley	hit	hit ball	score	rebound	pass	cards	serve	checking
+398	block	spiking	blocking	scoring goals	catching	throwing	scoring	tackling	passing	power play	fast breaks	spike
+399	physical	played with hands	physical contact
+400	singles	doubles	singles and doubles
+401	teamwork	tactical	strategic	shooting	multiple shooting stations	multiple targets	shooting sport	swimming	moving targets
+402	each quarter is 8 minutes long	four quarters	each quarter is eight minutes	divided into four quarters
+403	derailleur	gearless	manual	automatic
+404	female	male
+405	teamwork	participation	team effort	team success	sportsmanship
+406	achieve a personal best	personal best	world record	achieve personal best	improving personal best
+407	win medal	medal count	to win medals	most medals won	winning a gold medal
+408	represent country	national pride	to represent country	representing country
+409	achieving a task	desire	target	achievement	objective	has goals	achieving	succeeding	achieve	achieve goal	can achieve goals
+410	success	succeed	perform	overcome	reaching depth	recognition	performing well	improve	improving	improve skills	build relationship	helping	losing
+411	for fun	enjoying experience	fun	have fun	having fun	enjoying scenery	to have fun playing
+412	participating	collaborate	collaborating	collaboration	strategizing
+413	points	scoring	scoring high	points awarded	score goals	score points	score	scoring points	to score	high-scoring	scoring goals	score point
+414	often	yes	driven by motivation	focused on achievement
+415	conserving energy	lose fat	build muscle	lose weight	raising money	strength	physical fitness	strength training	improve overall fitness	increased strength	improved physique	leg strength	back exercise	improve strength	increasing strength	improving physique	gain muscle	building muscle	increase strength	building endurance
+416	relaxing	relaxation	recreation
+417	supporting teammates	promoting teamwork	promoting diversity	build camaraderie	maintaining teamwork	to improve teamwork	mutual understanding	fostering teamwork	team meetings	teamwork	mutual respect
+418	self-improvement	success	love
+419	employees	organization	people	players	sports team	group of people
+420	changing	evolving	growing	developing
+421	integrity	consistency	availability
+422	trampoline	balances	swings	release moves
+423	apparatus	horizontal bars	male gymnastics	artistic gymnastics	rigid	has a horse-shaped body	equipment	gymnastics tool	olympic event	used for training	gymnastics apparatus	uneven	unstable	balance beam	used for gymnastics	gymnastics equipment	gymnastic equipment	gymnastics	gymnastic apparatus	olympic	high
+424	gymnastics routine	artistic gymnastics	women's artistic gymnastics	women's gymnastics	artistic gymnastics discipline	gymnastics	men's gymnastics	olympic gymnastics	olympic event	gymnastics event
+425	rhythmic gymnastics
+426	lake	aquarium	freshwater	ocean	garden	desert	saltwater	meadow	river	forest	pond
+427	ocean floor	coral reef	kelp forest	home to many species	observing marine life	coral	reef
+428	pond	river	lake	aquarium	freshwater lake	estuary	ocean
+429	can sleep	can exercise	can eat
+430	less than 2 inches	less than 1 inch
+431	variable	fixed	adjustable	different heights
+432	yes	no
+433	water park	olympic village	olympic stadium	olympic city	international handball federation	arena	multi-purpose arena	usually in late july and early august
+434	winter city	snowy place	cold climate	mountain	cold weather
+435	world war ii	world war i	military	modern era	cold war
+436	ancient tradition	history	ancient	sporting	modern revival	ancient origin	invented by
+437	greco-roman	ancient sport	originated from ancient greece	originated in norway	originated in asia	ancient greece	inspired by ancient greece
+438	invented in 1912	created in 1912	first held in 1912	first held in 1960
+439	different cities around the world	rotating locations	different cities	rotating host country	rotating host city	rotates	different country each time	different city each year
+440	v-shaped	flat bottom	single hull
+441	unique	alive	mortal	feeling	thinking	sentient
+442	big	significant	life-changing	lasting	small	boost in popularity
+443	provides drinking water	regulates climate	supports life	food source
+444	oxygen production	ecosystem support	ecosystem	climate regulation	supporting ecosystem	ecological	supports economy	health
+445	influence	significant	practical	useful in many situations	adds value	important	exciting	meaningful	iconic
+446	aesthetics	for aesthetics	aesthetically pleasing
+447	inspiration	entertainment	motivation	key to success	meaningful	power	strength	inspiring	memorable	accuracy
+448	social	historical	extreme	legendary	essential	required	personal	functional
+449	test of endurance	testing explosive power	test of athleticism	test of technique	endurance	test of strength	physical strength	fast start
+450	music	fashion	linguistics	shoes
+451	team	individual
+452	healthcare	gaming	financial	industry
+453	climate change	weather	pollution
+454	installing in attic	mobile	in attic	on roof	outside building	roof	mounting on roof
+455	outdoor	placing on window	indoors	outdoors	professional installation	indoor
+456	can think	can reason	intelligent	can solve problems	capable of thinking
+457	cooperation	through collaboration	coordinates actions	teamwork	communication	collaboration	competition
+458	by panel of judges	judges' score	points	total score	judging	judges' scores	judges score
+459	interpretation of music	artistry	artistic impression	overall impression	based on artistic impression	composition	musicality	interpretation	uniformity	strength	unison
+460	synchronization	execution	technical difficulty	total difficulty score	difficulty	agility	formation	judging	time	technique	program components	timing	total score	technical execution	technical elements	penalty	score	form	style	difficulty of skills	technical score	total execution score	distance	technical merit	speed
+461	soft landing	soft	hard	snow	mat	bad	perfect
+462	coach	rider	captain	manager	leader
+463	league	national	international	championship	college	professional
+464	nhl	nba	mlb	nfl
+465	frog kick	legs kick in flutter	kickboard	flutter	flutter kick	using arms to propel
+466	regulated by law	restricted	restricted use	permitted	regulated	prohibited	fib	restricted in some areas
+467	long	flat	oval	deep	prop	short	double	key
+468	low	medium	small	short	shallow
+469	6 feet	6 inches in diameter	30 feet high	30 feet	4 meters	4.35 meters	10 feet	4 feet
+470	college	professional	amateur	senior	international	junior	school	youth
+471	hard	advanced	high school	intermediate	easy	optional exercise	medium	technical	high	expert	technique-based
+472	organizer	spectator	active	passive
+473	medium	low	high
+474	egg	chrysalis	larval stage	pupa	metamorphosis	caterpillar	adult stage	larva	adult
+475	focused	dedicated	choices	disciplined
+476	fish	coral	shrimp	plants
+477	store	mountain	stadium	national park	construction site	stage	coastal road	home	backyard	park	gym	playground	exhibition hall
+478	indoor	outdoor	rural area	urban area
+479	indoor	indoor facility	indoor track	indoor court	treadmill	outdoor track	indoor trampoline park	outdoor	indoor sports arena
+480	specific place	community	physical	course	track	court	fields	field	organization
+481	city	near city	country	street	host city	neighborhood
+482	ocean	underwater	coastal area	sea	coast	sand	water	beach
+483	ski resort	mountain resort	winter festival	skiing track	water park	national park	winter sports	winter sports arena	winter resort	winter wonderland	winter sport destination	winter resorts
+484	stadium	competition arena	competition hall	fencing hall	arena	gym floor	hall	stage	auditorium	rink
+485	mountain	mountain trail	mountains	hill	nature	trail	river	lake	desert	mountainous
+486	fitness center	training facility	treasury	studio	office	recreation center	training center	hotel	home	training ground	recreational center	venue	gymnasium	offices	meeting room	virtual
+487	theater	bank	countryside	ceiling	in a yard	house	city streets	bike path	pool	in a park	garden	museum	forest	gym	underground	park	on a farm	on a wall	backyard	school	sidewalk	at a field	farm
+488	olympic venue	olympic arena	marina	winter stadium	olympic village	sporting	track and field stadium	olympic stadium
+489	commercial	public spaces	indoors	urban	outdoors	indoor	residential	outdoor event	near nature	outdoor	rural	public space	private space
+490	frozen lake	snowy hill	snowy field	snow	snowy forests	snowy forest	snowy trails	winter landscapes	snowy fields	jungle	winter forest	snowy trail
+491	riding arena	skeet shooting range	military terrain	50 meters	gun show	gun store	treasure house	shooting range	gun range	sailing club	archery range	dance studio	harbor	swimming pool	building	military	roller rink	swimming arena	cycling lane	horse farm
+492	stable	stables	room	ground	pitch	offline	slope	air	wall	tree	road	aircraft	rock	floor	flat	attic	head above water
+493	cold climate	cold weather	snow	snowy mountain	snowy	snow-covered slopes	snowy terrain	snowy region	snowy areas	snowy area
+494	outdoor rink	outdoor ice rink	indoor rink	outdoor ice
+495	around property	around a property
+496	at a stadium	at a tournament	at a competition	in a competition
+497	online	multiple locations	different cities around the world	various venues	various locations
+498	alpine resorts	resorts	ski resorts	ski resort	winter resorts	national parks	winter sports venues
+499	mountain	resort	mountainous regions	snowy terrain	trail	slope	mountains	mountain resort	beach
+500	homes	parks	city streets	different countries
+501	required	cleaning	replacing	oil-based	lubrication	simple	waxing	requires lubrication	insurance	sharpening	security checks
+502	regularly cleaning	regular cleaning	periodic cleaning	regularly checking	needs regular cleaning	regularly cleaned
+503	low maintenance	protected from weather	low-maintenance	infrequent	easy	low-powered	energy-efficient
+504	discipline	physical exercise	physical discipline	physical
+505	martial artists	self-defense	martial arts	punching	blocking	self-defense enthusiasts	korean	striking	kicking
+506	hunting	warfare	developed from hunting
+507	plastic	wire	aluminum	copper	metal	glass
+508	springy	flexible	springy material	rigid
+509	inflatable	composite	carbon fiber	fencing material	molded sidewall	foam	fibre glass	fibre optic	fiberglass	plastic bag	rubber	inflatable material	made of wood or fiberglass
+510	wood	stone	marble	concrete	steel	glass	metal	wooden
+511	wheel	continuity	additive inverse	complete circle
+512	trying to get	seeking	endeavoring to catch	pursuing	going after	following
+513	trackable	rewarding	evaluable
+514	mile	measuring distance	measured	distance	speed	time	measurement	height
+515	360 degrees	radians	degrees	measuring angles
+516	trigger	fully automatic	tension	cocking	monitors	hidden	silent	snare	falling
+517	spring-loaded	pneumatic	air-powered	piston-driven	uses compressed air	spring-powered	compressed air
+518	semaphore	mutex	ensuring multiple threads access same resource	multithreaded applications	semaphores	locks
+519	single-action	bolt-action	select-fire	recoil-operated	semiautomatic	semi-automatic
+520	gold	medal	silver	bronze
+521	silver	bronze	gold, silver, bronze	gold	medal awarded
+522	mental focus	focus	concentration	spiritual	respect	mindfulness	mental discipline	mental	discipline
+523	strategy	tactics	psychological warfare	mindset	starting strong	drafting
+524	overcoming fear	mental preparation	building confidence	getting endorsements	confidence
+525	focused	focus	mental focus	concentration
+526	endurance	resilience	perseverance	resilient
+527	dedication	determination	disciplined	discipline	motivated	confidence	perseverance	passion	determined
+528	medium	high	low	minimal
+529	discipline	requires strategy	mental toughness	risk taking	patience	tactical thinking	adaptability
+530	concentration	memory	requires focus	strategic thinking	focus	problem solving
+531	mountain	racing	relay	low	fast	indoor	team	foot	pedestrian	manual	leisurely	endurance	offline
+532	electric-assisted	non-motorized	gravity-assisted	pedal-powered	road
+533	sliding	gliding	movement
+534	passion	reward	desire for success	curiosity	desire	need	for reward	both
+535	financial gain	social recognition	love for the activity	obligation	need for achievement	intrinsic	thrill	motivated	extrinsic
+536	acrobatic skills	acrobatic	gymnastics skills	acrobatic elements	acrobatic movements	acrobatics
+537	body rotation	turning	rotates	spinning	twirling
+538	arm movements	fluttering	frog-like	arm movement	arms	alternating arm movement	synchronized
+539	legs	kicking	leg movements	alternating	body position	hip rotation	kick	alternating movement	leg movement	simultaneous
+540	flexible	moving	expressive	dynamic	harmonious	gravity	fluid
+541	crawl	running	gliding	swim
+542	shoulders	shoulder	lats	chest	biceps	back	upper body	triceps
+543	lower body	core	arm	leg	legs	back
+544	upper body	chest	core	arms	legs	shoulders	back
+545	shoulders	chest	legs	back	arms
+546	orchestral	classical
+547	american	british	chinese	australian	indian
+548	unpredictable	unrepeatable	collaborative
+549	special	individual	colorful	unusual	memorable
+550	needs water	needs love	needs shelter	needs food
+551	large	small	small group	multiple
+552	doubles	individual or doubles	double player	singles
+553	6 players per team	six players per team	seven players per team	seven per team	two teams
+554	single player	six	two	one or two players	two to four people	2-4 people	number of players	12	7	four	2	three	6	six players
+555	low in sugar	high in fiber	low in fat	good source of iron
+556	defend goal	defending goals	goalkeeper	prevent goals	to defend	defend	defend goals	defending
+557	break all targets	hit targets	hit the target	bullseye	shoot all targets	hit all targets
+558	winning games	win games	winning championships	winning competitions	win matches	winning matches	outdo opponents
+559	win	winning	finish first	competing	accuracy	winning competition	racing	team victory	medals	score high	to win	best overall performance	fair play	survive	winning condition	scoring high
+560	win by pin or points	win by two points	highest total score	win by pin	win by points	winning by points
+561	reaching destination	complete the distance
+562	score	block	finishing	submission	completing	distance	complete all events	select	complete	finish	submit	solve	performing routine	points
+563	throw	hit	far throw	throwing	pin	throw as far as possible
+564	hit the ball over the net	hit opponent's goal	block shot	hit the ball	hit ball over net	score by hitting opponent	hit shuttlecock
+565	score more goals than opponent	prevent opponent from scoring	score more points than opponent	to score more points	score more points	outscore opponent
+566	shoot clay targets in the air	break clay targets	shooting clay targets	shoot clay targets
+567	win by submission	defeating opponent	win by throwing or submission	to throw or submit opponent	takedown	submitting	jumping first	pinfall	takedowns	outswim opponents	pinning opponent	block the opponent's hit	submitting opponent	throwing opponent
+568	win game	beat opponent	qualify for the tournament	to win the game	win a match	win the game	team victory	reach the finals	win match	score goal	win the competition	win point	to win the championship	winning match	to win a competition
+569	complete the course as quickly as possible	complete the course as fast as possible
+570	to break records	setting record	set personal record	breaking record	be the fastest overall	complete all disciplines	complete a course	kept track of	break record	record-breaking	test of skill	lift weights
+571	1988	2002	2014
+572	yes	true	no
+573	olympic inclusion	winter games	paralympic games	paralympics	popular globally
+574	winter olympics	olympic sport	winter olympic event	winter olympic sport	olympic	winter
+575	first introduced in 1924	since 1964	since 1960	olympic sport	olympic sport since 1924	1900 paris olympics	since 1924	since 1908	since 1912	since 1992	included in the olympic games since 1912	since 1988
+576	one-dimensional
+577	specialized
+578	letting go	giving up	abandoning
+579	plants	whales	invertebrates	shrimp	seaweed	coral	algae	plankton	marine mammal
+580	host	leader	facilitator	coach	organization	mediator
+581	company	individual	school	community	non-profit	government	organizer
+582	curvy	angle	flat	angled	vertical	straight	horizontal	toward the bottom	parallel	level
+583	towards lower elevation	parallel to the ground	parallel to ground	away from the top
+584	dates back to 18th century	18th century	1882	1896	modern	modern revival	19th century	1900s	military
+585	north america	germany	europe	england	european	united states	france	asia	traditional	northern europe	japan	russia	historic
+586	norway	canada	switzerland	new zealand	originated in sweden	korea	hungary	australia	usa	sweden	scotland	swedish army officer
+587	impactful	unforgettable	fundraising	productive	success	learning experience	memorable	rewarding	lasting memory
+588	enjoyment	memory	growth	award given	learning experience	knowledge gain	memory created	gain experience
+589	losing	success	uncertain	drawing	failure	successful	draw	personal decision	lose	winning	win	winner declared	loss
+590	brisk	fast	leisurely	slow
+591	athlete	runner	child	luge specialist	endurance enthusiast	speed skater	amateur	olympic athlete
+592	age	male/female	nationality	skill level	gender
+593	thrower	athlete	driver	jumper	runner
+594	athletes from different countries	athletes must meet specific age and qualification requirements	athletes from around the world	athletes from all over the world
+595	one person	professional	animal	specific group	individual	multiple	two	family
+596	teams	many	drivers	nations	riders	two teams	runners	a team	players	friends	individuals	animals	large crowd	fighters
+597	team manager	all	family members	just me	a few people	team	team members	colleagues	professionals	volunteers	whole team	multiple teams	employees
+598	brakemen	crew	sailor	multiple	skipper	team
+599	skiers	winter sportsmen	amateur snowboarders	speed skaters	shooting enthusiasts	professional snowboarders	snowboarders
+600	gymnasts	wrestlers	diving teams	specialized event gymnasts	strong all-around gymnasts	males	females
+601	swim	ride	run
+602	many countries	countries	most countries	national teams	thousands	most	many
+603	over 100 nations	over 200	nearly all countries	10,000+
+604	coordinated	individual	harmonized	losing	synchronized
+605	agility	flexibility	strength	balance	providing balance	harmony	expression
+606	multi-talented	multitalented	jack-of-all-trades
+607	has personality	has experiences	has motivations	has feelings	has emotions	has thoughts	has values	has self-awareness
+608	dedicated	unique	confident	focused	hardworking	determined	team player
+609	intelligent	adventurous	disciplined	outgoing	creative	competitive	introverted	flexible	optimistic	kind	enthusiastic	ambitious	resilient	pessimistic	emotional	inspirational figure	unique
+610	etiquette	balance	do	respect	discipline	public use	spiritual growth	self-control	control	courtesy	charity	integrity	seiyaku	harmony
+611	maximum efficiency	maximum efficiency with minimum effort
+612	weight	body	height
+613	muscle strengthening	high-intensity	aerobic	fast	fast-paced	high intensity
+614	high	low	medium	low intensity
+615	long antennae	antennae	antenna
+616	strong arms	strong legs	strong	good endurance	good eyesight
+617	strength	power	muscle strength	bodybuilding	strong	powerful
+618	flexibility	flexible	improving flexibility	good balance
+619	speed	fast runner	fast	fast in a straight line
+620	athletic	small device	muscular	long	thin	tall	well-toned	strong walls	athletic build	swimmer's body
+621	cardiovascular health	cardiovascular exercise	cardio	weight loss	cardiovascular
+622	aerodynamic	streamlined body	streamlined	smooth	curved
+623	agile
+624	transparent wings	colorful wings	winged	delicate wings
+625	has face	has senses	has fingerprints	has a face	has a height	has organs	has a mind	has body	has a body
+626	alive	flexible	lightweight	material	delicate	long wire	flexible torso	scaly
+627	young adult	age	height	skin color
+628	strength	muscular	jumping ability	speed	cardiovascular	muscular strength	leg strength	upper body strength	core strength	physical strength	teamwork
+629	running	swimming	swimming laps	swimming endurance	treading water	diving
+630	highly demanding	requires endurance	cardiovascular endurance	strenuous exercise	requires agility	requires strength	physical and mental endurance	muscular endurance	demanding endurance and strength	requires speed	high endurance
+631	breath-holding	breath control
+632	time-consuming	energy-demanding	mentally challenging
+633	horizontal	parallel
+634	endurance	fit	cardiovascular endurance	physical fitness
+635	hand-eye coordination	requiring hand-eye coordination	arm and leg coordination	ball handling
+636	endurance	physical endurance	physical fitness	speed
+637	accuracy	requires precision	long-range
+638	agility	physical fitness
+639	balance	coordination
+640	agility	strength	agile	endurance	physical
+641	good lung capacity	good cardiovascular health	high level of physical fitness	flexible body	strong arms	strong muscles
+642	endurance	endorphins	agility	speed	power	strength	bravery	flexibility	athletic performance	risk-taking
+643	gym	outdoors	home
+644	structured	unplanned	informal	organized
+645	four players	six players each	seven players each	two teams
+646	children	men	women
+647	track	badminton court	bats	grass	court	gymnasium	pool	arena	field	ice	gym	volleyball court
+648	beach	sand
+649	indoor court	hardwood floor	volleyball court	outdoor court	indoor hall	outdoor field	outdoor surface	synthetic surface	hardwood
+650	hand	arm	foot	feet	hands	body	fingers
+651	team	opponent	two teams	club
+652	ball	two	three	three players	four	partner	six
+653	amateur	professional
+654	libero	blocker	spiker	setter	bench player	starter	singles player
+655	returner	doubles player	libero	outside hitter	setter	middle blocker	singles player	receiver
+656	two	four	seven	six
+657	dedicated	skilled	athletic	strong	motivated	experienced	fast	team-oriented
+658	forwards	defensemen	defenseman
+659	high-flying	singles	doubles	serving	volleying
+660	outdoor	clay	hardwood	synthetic material	sand	hard court	grass
+661	winter sports enthusiasts	winter sports fans	fitness enthusiasts	outdoor enthusiasts	environmentalists	collectors	ski enthusiasts	popular among snowboarders	popular among skiers	winter athletes
+662	professionals	children	seniors	youth	families	beginners	adults
+663	adventure seekers	adrenaline seekers	adrenaline-fueled	adrenaline junkies	adrenaline rush
+664	recreational shooters	competitive shooters	experienced shooters	shooting enthusiasts	professional shooters	shooters	target shooters
+665	swimming pool	beach	park	summer camp	summer	school events
+666	olympic sport	olympic games	olympics	common in olympic games	part of olympic games	olympic event	commonly held at olympics	included in olympic games	featured in the summer olympics	featured in multiple games
+667	tropical regions	tropical countries	warm weather	beachside resorts	warm countries	coastal areas	warm climates
+668	winter festivals	outdoor events	summer festivals
+669	europe	australia	brazil	asia	india	greece	russia	netherlands	austria	norway	china	south korea	canada	usa	germany
+670	boston	london	europe	new york city	hawaii	california
+671	australian open	us open	grand slam	french open
+672	popular	competitive	high	highly competitive	niche	challenging	global competition	low
+673	popular in summer	popular in winter	summer	popular in resorts
+674	popular	popular in brazil	popular in california	worldwide	australia	popular in the us	popular in the united states	popular in usa	popular in japan	popular in united states	america	less popular in us	popular in europe	popular in us	world	united states	popular in russia	popular in canada	popular in uk
+675	popular in europe	popular in north america	popular in asia	growing popularity in north america	growing in north america	southeast asia	north america	commonwealth countries	less popular in north america	european dominance	south america
+676	gaining popularity globally	growing	increasing globally	growing popularity in us	competitive worldwide	growing popularity	growing popularity globally	popular among athletes	increasing	growing globally	growing popularity in asia	growing in popularity globally	growing global recognition	growing in asia	growing in popularity	growing sport	growing in popularity worldwide	increasingly popular
+677	scandinavia	nordic	popular in scandinavian countries	scandinavian countries	northern europe	popular in scandinavia
+678	recreational activity	relaxing activity	hobby	recreational pursuit	recreational use	family activity	recreational
+679	tv broadcasts	tv broadcast	entertainment	reality tv
+680	worldwide	widely played	yes	online community	massive	global following	global participation
+681	small fan base	few participants	less popular	many participants
+682	competitive sport	popular sport	summer sport	college sport	high school sport	spectator sport	less popular than other sports	stadium	popular winter activity	professional sport	popular	college competition	professional league	popular hobby	basketball
+683	requires practice	requires skill and practice	challenging to master	requires technique	requires skill	requires dedication and practice	requires skill and experience
+684	worldwide	global	professional	regional	popular	international	europe
+685	eco-friendly	gym	home workout	fitness center
+686	popular among fans	popular among youth	popular in competitive sports	popular in some countries	many countries	popular in some regions	popular in many countries	popular globally
+687	portable	easy to carry	relatively easy to learn	handheld	compact
+688	held	frozen
+689	defender	batsman	defenseman	forward	midfielder	goalie	goalkeeper	player
+690	lying	lying down	standing	sitting
+691	backstroke	breaststroke	front crawl
+692	center	outside	back	horizontal	circular	front	side	middle	straight	vertical
+693	goalkeeper	wing	player	defense	goalie	forward	defender	fullback	receiving
+694	school	gym	pool	tournament	dojang	diving facility	physical fitness	competition	training session	rink	studio
+695	video analysis	game development
+696	practice	physical conditioning	instruction	rehearsal	long-term preparation	training	practice sessions	practicing
+697	using an opponent's energy	using opponent's energy
+698	gets prize	certificate	trophy	medal	prize	trophies
+699	cash award	money prize	cash reward	money award	sponsored trip	monetary reward	scholarship
+700	local charity event	media coverage	media recognition	certificate
+701	horse breeder	jockey	stable owner	horse trainer	trainer	horse rider	stable manager
+702	performer	athlete	sportswoman	competitive sport	player	sportsman	sports player	professional sport	professional	cricketer	competitive sportsperson	cricket player
+703	long-lasting	adored by fans	successful
+704	distinct	unique
+705	motor	compressed air	outboard motor	oars	sail	engine	wind	air	manual	electric	propulsion	pump
+706	spring-loaded with bait	spring-loaded	propels pellets	non-powdered	spring-powered	spring	spring release
+707	playing together	working together	work together
+708	competition	competitive	competing	competitions	for competition	sport competition	compete
+709	flexibility	information	launching	networking	research	socialization	exploration	define boundary	awareness	bonding	exploring	adventure	communication	exhibition	functional
+710	promote peace	mutual welfare and benefit	promote unity	promote peace and unity
+711	recreational	recreational use	playing a game	celebratory	recreational shooting	leisure	sporting	participate in games	home use	for fun	yes	no	pleasure cruising	recreational activity	recreation	commemorative
+712	academic	scientific research	scientific
+713	transportation	commuting	for commuting	daily commute
+714	play	support	project	challenge	event	to challenge	entrap	hurt	stage	challenging	supporting	obstacle	separate
+715	transmitting radio signals	transmit signals	receiving signals	amplify signals	transmit internet signals	receive signals	radio broadcasting	transmitter	transmitting signals
+716	strength and conditioning	developing strength	to increase endurance	building strength and flexibility	improving flexibility	involves strength and conditioning exercises	technique	upper body strength	building endurance	improve strength	building strength
+717	training	for training	building	racing	for learning	business	learning	therapy	transport	education	fundraising
+718	bring nations together	promote international friendship	to bring nations together
+719	achieving a goal	achieving goal	achieving common objective	to achieve a common goal	achieve common goal
+720	gymnastics meet	compete in diving	to compete in gymnastics	gymnastics competition	gymnastics routine	to practice gymnastics	gymnastics competitions	supporting gymnasts	gymnastics championships	sailing competition	developing gymnastics skills	gymnastics
+721	prevents data corruption	ensures data consistency	ensuring data integrity	preventing data corruption	improved data consistency	avoiding data loss	ensuring data consistency	ensures data integrity
+722	define boundaries	protective	keep secrets	protection	to protect	protecting self	protect	protecting from danger	escape	catch
+723	receive tv channels	tv broadcasting	receiving tv signal	tv signal	stream online content	receive tv signals	receiving tv signals	tv reception	receiving radio signals
+724	challenging self	achievement	for personal growth	personal challenge	personal fulfillment	personal achievement	personal growth
+725	promote athleticism	promote winter sports	to promote athletic achievement	encourage athletic achievement	improve athletic performance	encourage athletic achievements	challenge athletes
+726	exercise	for exercise	team building	physical health	physical fitness	physical exercise	sport	physical training	mental health	athleticism
+727	entertainment	aesthetic	entertaining	entertain	entertaining fans
+728	fulfilling	fulfilling desire	to improve	thrill-seeking	commemoration	for achievement	survival	fulfillment	obtaining	for recognition	betterment	to create obstacle	for a specific task	launching point	pleasure
+729	friendship	stay connected online	social gathering	socializing	for socializing	information sharing	social	community building	social bonding	social interaction
+730	for security	performance	security
+731	strengthening	demonstrating skill	demonstrating technique	for functionality	to improve speed	practicing skills	musicality	developing skills	public speaking	to improve skills	developing technique	enhancing technique	target practice	perfecting technique
+732	test agility	test of all-around athlete	to test balance	to test agility	to demonstrate strength	testing agility	to improve agility	test of agility	testing overall athleticism	to test strength	testing athletes' skills
+733	protecting property	protect from theft	protecting valuable items	protect assets	protect against theft	protect valuable items
+734	hiding treasures	hide treasure	treasure storage
+735	catching prey	catching something
+736	protecting territory	defending territory
+737	tour de france
+738	relay	sprints	team	sprint
+739	time trial	team pursuit	individual time trial	mountain bike	individual	road race	criterium	mass start
+740	head-to-head racing	involves high-speed crashes	head-to-head	team
+741	technical	high-risk	fast and aggressive	speed	aggressive
+742	zigzagging gates	gates and jumps	gates	jumps
+743	angled	incline	height
+744	high	rapid	fast
+745	public recognition	award	certificate	ceremony	prizes
+746	mike powell	galen rupp	usain bolt
+747	world record holders	female	male	world
+748	olympic record	olympic	olympic medal	olympic records	olympic cycle
+749	records	world records	world record
+750	subject to laws	subject to laws and regulations	regulated by government	regulated by authorities	regulated
+751	licensing required	licensing	noise restrictions	licensed	age restrictions
+752	backcountry skiing	snowshoeing	nordic skiing
+753	biodiversity	aquatic conservation	ecology	marine biology
+754	trail	horse riding lessons	horse	riding arena	riding school
+755	amusement park	playground
+756	complementarity	complementary	mutually dependent
+757	championship-winning	strong	inspiration	inspiration to others	being a role model	hero	role model	local hero	professional	local celebrity
+758	strength	endurance	lifts	speed	running speed
+759	shooting accuracy	footwork	balance	technique	speed	ball handling	speed control	body movement	marksmanship	body position
+760	fencing	trimming	water awareness	swimming	swimming lessons	horse riding	swimming technique	cycling skills	swimming skills
+761	agility	athleticism	strength	musicality	flexibility	versatility
+762	hard work	dedication	perseverance	discipline
+763	running shoes	swimming pool	swim cap	swim goggles	swim caps
+764	synchronized movement	combination of swimming and dance	rhythmic music	twirls	synchronized dance routine	synchronized movements	arms move in sync
+765	coordination	precise timing	division of labor	planning	strength	balance	control	communication	uniformity
+766	skill	strategic thinking	knowledge	skillset	technical skill	technical skills
+767	strong swimming skills	good physical fitness	upper body strength	long-distance running experience	good physical condition	physical conditioning
+768	strength	effort	requires strength	practice	endurance	speed	patience
+769	reliable	praise	different rules apply	parade	receives recognition	bragging rights	life circumstance	prize	recognition	experience	applause	prize money	medal	awareness	caution	patrol	achievement	fulfillment	award
+770	agility	speed-oriented	technical	adventurous	athletic	speed	aggressive
+771	professional	advanced	beginner	intermediate	freestyle	expert	experienced	amateur
+772	balance	speed	strength	agility	control	jumping	using hand signals	riding technique	courage
+773	rink	ice rink	indoor	outdoor	ice rinks	ice
+774	nitrogen narcosis	decompression sickness	shallow water blackout
+775	injury risk	jumping height	receiving sponsorships	high speed
+776	shark attack	marine life encounters	avalanches	concussions	fatalities	shark attacks
+777	performer	competitors	contestant	spectator	fan	competitor	entertainer	winner
+778	support	team member	assigned tasks	owner	team	speaker	member	student	player	attendee
+779	server	players	fans	champions	player
+780	team captain	coaches	motivational	coach	mentor
+781	manager	managers	leader	control	team leader	responsibilities
+782	choreographed	perform choreographed routine	displaying choreographed routines	choreographed performance	pre-determined
+783	creativity	music-driven	artistic	exercise routine	workout	routine	daily routine	exercise	lifting session
+784	takeoff	grabs	fivestage	approach run	taking off	flying
+785	combinations	habits	training	combos	sequences	program	style	technical	practice	free	multiple rails	forms	routines	optional
+786	quarter	scoring by points	style	scoring system	countout	points system	gameplay	game duration	game system	games	team competition	score	scoring	penalty for hitting own target
+787	perfect timing	three touches	three sets	three chances	three attempts
+788	height	height increment	spike	submission	distance measurement	distance
+789	60-minute game	seven players on each team	six players on each team	seven players	each player has 90 seconds to score	teams of seven players each
+790	opponent's back must be to the mat	to pin opponent's shoulders	opponent's back must be on the mat
+791	penalties	fouls and penalties apply	out of bounds	foul line	foul clearance	spiking	foul	fouls	fair play	scoring goals	offside	foul calls	penalty	penalty for collisions
+792	let	serve	block	unstructured	hit	unison	fault	blocking	structured	approach	set
+793	no holds are allowed	no pinning	no pushing	passing allowed	no holds barred	goalkeeper allowed	no holding	no striking	no kicking	no ball handling	no blocking	substitutions allowed	points only	no hitting	protect own target	no restrictions on holds	no touching underwater
+794	rally	timed runs	racing	rallying	rallies
+795	three jumps allowed	foul jump disallowed	each skier has a designated lane	score based on broken targets	players take turns shooting	three attempts per height	three attempts per thrower	three throws per athlete	each athlete has a unique start time	farthest throw wins	each game has a winner	bar height increases with each attempt	swimmers must stay together	best throw counts
+796	goalkeeper	referees	receiver	referee	goalie
+797	well-lit	crucial	important	necessary	following traffic rules	cautionary
+798	quiet	safety precautions	control	automatic	storage	steepness	multiple mechanisms	manual	visibility	busy
+799	bad weather	weather	equipment failure	warm-up	proper form	weather conditions	spotting	water hazards	cool-down
+800	anti-beartrap mechanism	safety mechanism	trigger lock	manual safety	safety trigger	safety catch	anti-beartrap	safety switch
+801	personal	local	team	private	global
+802	5 events	local	night events	summer season
+803	variable	recurring	sequential	timed	morning and afternoon sessions	fixed	scheduled
+804	held every 2 years	4 years	held every 4 years	every 4 years	every four years	2 years
+805	virtual	private	global	synchronized
+806	based on execution and difficulty	speed	program content	execution score	technical merit	execution	technical elements	judged on difficulty and execution	recorded by judges	judged on execution	based on technique	judged on overall performance	based on technical difficulty	judged on difficulty	scored out of 10	based on execution	points awarded for difficulty and execution
+807	team total	based on combined scores	average score	composite score	combined score	team score	time plus penalty seconds	individual scores	total score	individual scores added	overall winner
+808	sets	rallies
+809	scores	time	scoring	games	matches	match	point	set
+810	based on difficulty	speed	accuracy	placement	artistry	distance	difficulty score	difficulty	overall impression	score
+811	points system	rotation system	point system	points for near falls	points	10-point scale
+812	winter	indoor	summer
+813	cold weather	summer only	snowy weather	summer	winter	summer and winter	warm weather
+814	well-marked	safe	guarded	alarmed	locked	guards
+815	video surveillance	surveillance cameras	surveillance
+816	biometric	biometric scan	biometric scanners
+817	motion sensors	alarm system	guards	alarms	alarm systems	alarm
+818	locks	keys and locks
+819	jump	hop
+820	animal	human	natural process
+821	long and flat	long and curved	long and horizontal	long and narrow
+822	iridescent	winged	horse-like	horse-shaped
+823	straight	parallel	board	upright	flat	long	vertical	thin
+824	flat	curved	horizontal	rectangular	circular	square	oval	stepped	wide	round	angular
+825	receiving weak signals	receiving strong signals	interfering with signals
+826	strong	weak
+827	small	medium	large	standard	mini
+828	sturdy	moderate	lightweight	compact	portable	multiplayer	customizable
+829	varies	varies by level	varies in size	small to medium
+830	high	extra large	crowded	big	mixed	heavy	huge	beach	large
+831	typically 15-40 feet	typically 4-10 meters	typically 4-12 inches wide	typically 1-2 meters tall	typically 23-25 cm	typically 4-10 meters long	typically 2-10 meters	typically 1-4 km	typically over 5 meters	typically 140-160 cm	typically less than 30 feet	4-5 meters	typically 10-40 feet long	typically 130-160 cm
+832	variable	global	dynamic
+833	dependent on rider	depending on rider	varies by rider	dependent on terrain
+834	agile	fast	precise
+835	breathing	alternating sides	side breathing	breathing technique	breath control	breathing control	breath with face
+836	stroke technique	butterfly	stroke	stroke with arms	strokes
+837	riding skills	horse handling	horse training	horsemanship	horse care	horse riding technique
+838	experienced	elite	newbie	exceptional	olympian	professional	competitive	expert	skilled
+839	balance beam	balance beam routines	edge work
+840	jump	jumping	running	jumping ability	twisting	anchoring	throws	speed	spinning	trimming	jumps	flipping	swings	flying
+841	handstand	handstands	cartwheel	back handspring	cartwheels
+842	tumbling	tumbling passes	tumbling passes with twists
+843	good tackling	strong batting	good batsman	strong serving	strong fielder	accurate passing	catches
+844	tricks	holds	releases
+845	flexibility	patience	communication	cooperation	accuracy	to show flexibility	teamwork
+846	mountainous	downhill slope	flat	steep	steepness	grade	incline	slope
+847	has interactions	has culture	has relationships	has community
+848	recreational fun	two people	team sport	competition	competitive	individual	social	social gathering	social activity	social interaction	solo
+849	can communicate	expressing	can form relationships	can interact
+850	community	friends	family	romantic partnership	relationships	has colleagues	has friends	has family
+851	can be a friend	can be a teacher	can be a parent
+852	friend	parent	worker	spouse	coworker	leader
+853	up to 90 mph	up to 90 km/h
+854	low	moderately powered	high-speed	high-speed turns	relatively slow	medium	dependent on wind	high	high speed	high velocity
+855	competitive	fast	aggressive	quick	slow	fastest	furious	speedy
+856	outdoor	water sports	water sport	aquatic sport	competitive	water	water-based	underwater	outdoor sport	recreational
+857	downhill skiing	snowboarding	skiing	ski racing	alpine skiing	cycling	freestyle skiing
+858	extreme	extreme sport	military sport	adventure	speed sport	adventure sport
+859	individual	action	team-based	individual sport	team sport	women's sport	team	team sports	sports team	outdoor game	contact sport
+860	speed sport	summer sport	winter sport	competitive	winter	winter sports	fast-paced	snow sport	individual	summer	jumping	speed	winter game	popular winter sport
+861	speed	athletics	track and field	long jump	olympic sport	distance event	athletic event	track and field athletes
+862	outdoor activity	competitive sport	physical exercise	physical	competitive activity	competition	competitive	physical discipline	combination of	physical activity
+863	gymnastics	artistic gymnastics	women's gymnastics	olympic sport	gymnastics floor
+864	running	competitive swimming	swimming	aquatic
+865	tennis	football	cricket	hockey	basketball	soccer	ball	ice hockey	rugby	baseball
+866	decathlon	multisport	biathlon	part of decathlon	pentathlon	10-event track and field competition	shorter than pentathlon	triathlon
+867	figure skating discipline	form of figure skating	ice skating	figure skating	ice hockey	ballroom dancing	curling	sumo
+868	stance	back stance	horseback stance	front stance
+869	rolling start	simultaneous	simultaneous start
+870	randomized start order	random start	randomized
+871	riposte	parry	lunge	feint
+872	kept by governing body	appointed by coach	informal	with a captain	led by coach	with a coach
+873	fixed width	fixed	horizontal	flat
+874	hierarchical	formal	roles	organization	leader	hierarchy	department	structure
+875	perimeter	surface	waves	division	core event	circumference	track	locked	water	language	extreme	target ring	grade	distance	artificial pairs	support	managed	internet frequency	circuit	space
+876	strong	organized	unorganized	with a set of rules	building	secure	divided into positions	structured	unified	organization
+877	thick doors	heavy doors	strong doors	strong walls
+878	asymmetrical	matrix	curved	single rail	solid walls	ornate	with a flat surface	enclosed space	dish-shaped	aligned parallelly	built on a circular path	stepped	springy	raised surface	bar-like structure	supporting weight	flat surface
+879	public	members	synchronized routine	virtual	protected
+880	made of wood	rigged with bars	has a door	metal rods	built into walls	made of metal	sometimes made of metal	usually made of wood	metal
+881	ocean	wetland	lake	river
+882	road	classic	striking	playful	contemporary	traditional	modern
+883	freestyle	unrestricted
+884	military-inspired	hockey	athletic	touring	feminine	jogging	casual
+885	dramatic	aggressive	brisk	fast	technical	powerful	power
+886	strolling	leisurely
+887	mountain	creative	graceful	strenuous	professional	artistic	elegant	showy	daring	ballet	style	ornate	foil
+888	olympic lifting	crossfit	powerlifting	bodybuilding	explosive lifting	weightlifting
+889	limnology	physics	freshwater biology	biology	marine biology	chemistry	hydrology	aquatic ecology
+890	ice	water	clay	snow	grass
+891	mat	wooden	wood	hard	smooth	flat	metal
+892	pavement	made of asphalt or concrete	traffic signs	outdoor	ground	concrete	paved	asphalt	roads	gravel	pavement cracks	potholes	road
+893	technique	swimming stroke	style	style of swimming	swimming technique	front crawl	swimming	stroke	recreational swimming	effective
+894	competitive	competitive swimming	swimming on back	competitive stroke	recreational	smooth	efficient
+895	athletes	coaches	team members	team	team players	mix of men and women	players from different teams	athletic	compete individually	team of athletes	female athletes	team captains	individuals	players	athletes must be members of the national team
+896	composed of 4-8 gymnasts	3-10 divers	5-8 gymnasts	4-6 athletes	team	multiple	4-8 divers
+897	4	number of teams	2	singles	couples	pair	3-5 members	team	single
+898	11 players	13 players	12 players	7 players in water	eleven	seven players	goalkeeper	team	11	5 players
+899	expansion team	professional team	underdog team	dynasty team	championship team	volunteer team	national team
+900	flip	turning	twirling
+901	classic skiing	kick and glide	diagonal stride
+902	freestyle technique	freestyle	classic stride
+903	rotation	rotational	rotating	rotational motion	rotating motion
+904	distance	powerful	power	drive	strength	control	aim	step	effective	clearance	style	run	clear	approach	controlled movement	releasing	flight	release	speed control	classic technique	technique	land	classic	aiming	plant	stopping	efficient
+905	follow-through	pull-up	step-by-step process	striding	breakaway	run-off	catch-as-catch-can	run up	run-up	takeoff
+906	similar to the long jump	different from the high jump	similar to long jump
+907	pushing	swinging	fence	clearing	swing	overhead	positioning	spinning	planting	force	running approach	vault	rolling	pumping
+908	sculling	scuba diving	swimming down	snorkeling	waxing	training for diving	practice diving	breathing underwater	scuba	recreational diving
+909	carving	draw	drawing
+910	clearing the bar	bar clearance	clearing bar
+911	kicking	shooting	kick with legs	punches	kick	kicks	kicking with legs	striking	punching	punch	strike
+912	legs	leg movements	arm movements	speed control	arms	underwater movement	body position	body positions	arm movement
+913	throwing	throwing technique	throws	shooting	throwing motion	grip	overhead throw
+914	grappling	submission	grabs	submission holds	submissions	ground fighting
+915	block	classic	blocks	blocking	stopping	attack
+916	gliding	uphill	flying forward	flying	flying phase	flying style	landing	camel	trapping	transitional techniques	sliding	gait	grinds	flipping
+917	lifting with control	squats	bench press	deadlifts	lifting correctly	bicep curls	pull-ups
+918	downhill	freestyle skiing	swimming	downhill skiing	downhill skiing techniques	skiing technique	backcountry skiing	skiing	aggressive skiing	skiing fast	ski jumping	snorkeling
+919	spin	flips	traps	twists	spins	escapes	holds	spinning
+920	jibing	pinning	tackling	poling	tacking	heeling	mounting
+921	salchow	axel	dojang
+922	slalom	slalom skiing	slalom gates	giant slalom	precise turns	slaloming
+923	approach run
+924	braking	steering	propulsion	steering system	cornering	heeling	disarm	submitting	tracking	disengage	locking
+925	involves three jumps	jump technique	jumps	jump	dismounts	jumping	jumping technique
+926	footwork	pedaling	combos	speed	agility	drafting	parry	serve	forehand	shooting form	pace management
+927	ascending	descending
+928	buoyancy	buoyancy control
+929	client-server	shared leadership	distributed systems	real-time database	distributed
+930	cloud-based	wireless router	wi-fi	radio waves	networking	satellite communication	api integration	network communication	network-based
+931	snowy terrain	snow-covered slopes	snow-covered mountain	snowy mountain	snowy mountains	snow	snowy	snow-covered trails	snowy trails	snowy slopes	snow-covered mountains	mountainous terrain
+932	rails	large	track	halfpipes	inrun	jumps	landing hill	ramps	steep	pipes
+933	groomed trails	groomed trail	groomed tracks	groomed slopes	groomed track	groomed	groomed terrain
+934	powder	steep terrain	natural obstacles	forest	mountains	trail	hill	slope	variable terrain	slopes	forests	road	natural terrain	backcountry	parks	dirt	flat areas	mountain	hills	gully	plains
+935	off-road	hilly	flat	mountainous	rolling hills	rocky
+936	off-piste	pistes	piste
+937	crunchy	oat-like	fruity	sweet
+938	rotational	throwing	overhand	underhand	specific throwing style	overarm	underarm
+939	part-time	full-time	casual
+940	wimbledon	grand slam
+941	ice	track	long	snow	banked	long track
+942	steep	twisted track	curvy	smooth	curved	high speed
+943	banked turns	curved track	steep slopes	hills	with banked turns	tight turns	steep drops	curves	sharp turns
+944	no traffic	heavy	high	light	medium	low
+945	mental preparation	nutrition planning	mental	mental focus
+946	technique training	technique	conditioning	coach guidance	classes	coaching	proper form	streamlined	snow training	specific	breaking	proper technique	training session	experience	exercise	theory	intensive	drilling	exercising	certification
+947	physical	fitness	workout	certification courses	physical fitness	diet plan	diet	training
+948	flexibility	stretching	flexibility exercises	flexibility training
+949	practice	technical practice	with a schedule	regular exercise	daily training	regularly	shooting practice	with a set of exercises	daily practice
+950	strength training	agility	speed training	endurance	obstacle course	endurance training	strength	cardiovascular	long-distance running	cardio exercises	hill repeats	interval training	long runs	cardio	weightlifting	conditioning
+951	training facility	competition arena	training hall
+952	exercises	conditioning	drills	training for olympics	sparring	plyometrics	technique drills	dry land exercises	technical drills
+953	gymnastics arena	archery club	gymnastics club	gym	gymnastics training	gymnastics hall	home	gymnastics training facility
+954	extensive training	extensive	years	months	long-term	yes	specialized
+955	self-directed	structured	team-based	individualized
+956	triggered by weight	activated by weight	activated by motion	activated by pressure
+957	satellite signal	antennas	antenna	satellite dish	relay	tv antenna	coaxial	wires
+958	hunting	recreational	non-powdered	inflatable	automotive	leisure	recreational stroke	trampoline	recreational equipment	recreational swimming	recreational activity
+959	martial art	martial arts	japanese
+960	business meeting	training session	meeting	corporate event	business conference
+961	volleyball	field hockey	football	rugby
+962	man-made	physical barrier
+963	power	target	unique	event	ice	singular	goal	structural	routine	isolated	track	net	individual	obstacle	world	light	physical	stationary	decorative	challenge	performance	barrier	stage	permanent	group	fixed	natural	international	technique	safe	style	field	inline	activity	temporary
+964	outdoor	online	indoor
+965	personal watercraft	recreational vessel	recreational sailing	recreational boat	small vessel
+966	school	competitive	club	sports team	friends	team	car	volunteer	road	business	organized	work team	ambush	game	fundraiser	project team	floor
+967	sailing	boat	watercraft	sailing boat	small sailboat	small boat	sail	rowboat	road bike	rowing boat	lightweight boat	sailboat	inflatable boat
+968	outdoor activity	summer activity	outdoor recreation	outdoor	fitness activity
+969	winter sport	aquatic sport	competitive sport	field sports	physical activity	summer sport	combat sport	ice sport	outdoor game	extreme sport	outdoor	speed sport	individual sports	individual sport	action sport	contact sport	outdoor sport	artistic sport	military sport	endurance sport	indoor sport	team sport	team sports	mountain sport	water sport
+970	sport	entertainment	sports	national
+971	biathlon	speed skating	speed skiing	long track	ice skating	figure skating	roller skating	inline skating	aggressive skating	freestyle wrestling
+972	competitive event	athletic event	bicycle racing	multi-sport	athletic competition	jumping event	individual event	winter sport event	sport	long-distance running event	sporting event	sports competition	endurance event	multisport	sports event
+973	alpine	agility	multisport	sporting	endurance test	speed	horse	hybrid	endurance
+974	shooting device	bb gun	firearm	toy gun	handgun	pistol	gun	shooting
+975	style of wrestling	form of dance
+976	celebration	milestone celebration	social gathering	party	birthday party	special occasion	passion	concert	ceremonial	dance	birthday	wedding	holiday
+977	hiking	mountain bike	cycling	jogging	mountain biking	biking	bike path
+978	wireless	wireless internet	wireless network
+979	rhythmic	solo	jazz	single performer
+980	personal	emotional	social
+981	olympic games	paralympic	olympic festival	olympic torch relay	olympic winter	paralympics	paralympic games
+982	shoes	sneakers	socks
+983	skiing	downhill skiing	ski jumping	skiing feature	snowboarding	downhill	alpine skiing	cross-country skiing
+984	software	computer hardware	equipment	portable	operating system	training tool	digital	handheld	hardware
+985	summer	spring	winter
+986	skiing discipline	type of ski jump	snowboarding discipline	winter sport
+987	fish	amphibians	reptiles	mammals	brackish
+988	long-distance	long distance	long-distance running
+989	freshwater	aquatic plants	aquatic	saltwater	terrestrial
+990	clearing a bar	single occurrence	unique occurrence	in-person	one-time	unique to one person	impromptu	unscheduled	unique experience	harmonized	one-time occurrence	combined	isolated instance
+991	bmx
+992	mental	intellectual	physical	social
+993	olympic event	men's and women's	olympic sport	olympic	individual event
+994	power walk	strength training	exercise tool	resistance training	upper body
+995	racing	leisurely	fast	technical
+996	adjustable	rotating	single sail	fixed
+997	yacht	sailboat	dinghy	catamaran
+998	satellite aerials	satellite aerial	tv aerials	internet aerial	mobile phone aerials	tv aerial
+999	women's	men's
+1000	permanent	similar	random pairs	compatible	field	natural	developed	pit	opposite	compound	senior	matching	learned	alpine	corresponding
+1001	vault	safe deposit box	treasure chest	longbow	bank vault	security vault	treasure vault	secret vault
+1002	roller	glove and hand	rollers	saber
+1003	backcountry	backcountry skiing	backcountry areas
+1004	dream	portable	ball	satellite	cable	ice	passion	professional	fish	career	platform	coral	junior	monitor
+1005	recurve	ketch	monohull	catamaran
+1006	white	black
+1007	matching shorts	team colors	jersey	customized jersey
+1008	target shooting	target practice
+1009	racing	sailing	commuting	diving	competition	swimming	decoration	radio signal	training	exercise	jumping	competitive	supporting weight
+1010	indoor	fitness center	home	gym	home workout	bank	museum
+1011	watch tv	listen to radio	tv broadcasting	play	playing games
+1012	in a pair	as a pair	historical	everyday	natural pairs	in everyday life	in pairs	in language
+1013	in architecture	in design	in sports	in construction	entertainment	business use	personal	financial	business	industrial
+1014	competition	competitive	exhibition
+1015	hunting
+1016	pest control
+1017	document editing	data sharing	collaborative work	collaboration	gaming	real-time data sharing	document sharing	multithreading	real-time updates
+1018	military	law enforcement	soldier
+1019	family	professional	adults	children	humans	person	amateur	farmer	individual
+1020	insects	animals	animal
+1021	hunters	hunter
+1022	performers	professional athletes	athletes	sportsmen
+1023	pirate
+1024	for matching	identifying	pairing	comparing	matching
+1025	recreation	leisure	cruising	recreational	for recreation	tourism	recreational activities	communication	recreational purposes	recreational activity	used for touring	creating entertainment	having fun	playing games	recreational ride	entertainment	recreational use	rehabilitation
+1026	for decoration	decorative	garden decoration	decorative purpose	as a decoration	decorative element
+1027	racing events	practicing sports	sporting competition	for sports	entertainment events	athletic competition	competing	water polo	sports	competition	competitive	sports competition	competitive sport	for a specific event or competition	compete in	used for racing
+1028	obstacle course
+1029	exercise	training exercises	jumping	exercise routine	warm-up	swimming	swimming exercise	used for exercises	dancing	exercises	training exercise	practice	exercising	for solving puzzles
+1030	wireless internet	satellite internet	computer setup	mobile phone communication	providing internet	satellite communication	receiving internet signals	internet access	data transmission
+1031	touring	road cycling	racing	for racing	popular among cyclists	riding	cycling	hiking	skiing	leisure ride	motorcycle racing	skating	professional cycling	rowing	snowboarding	biking	amateur cycling	for cycling
+1032	riding down snow	riding on snow	winter landscapes	riding snow
+1033	fitness routine	fitness exercise	common in gyms	strength training	fitness	physical fitness	fitness training	fitness routines
+1034	hunting small game	hunting
+1035	target shooting	practicing shooting	shooting sports	target practice	target shooters	recreational shooting
+1036	performing music	displaying art	public speaking	performing arts	music performance	performing	playing
+1037	swimming pools	recreational boating	recreational sailing	recreational swimming	swimming recreation
+1038	cereal	snack	dips	making trail mix	property boundary	dessert	mountain	snow	breakfast
+1039	competitive sailing	sailing regatta	launching rockets	ocean racing	lake cruising	sailing competitions	cycling competitions	boat racing	diving competitions	sailing club	sailing	sailing competition
+1040	doing tricks	performing tricks
+1041	displaying data	speaking	landing	loading	partitioning space	balance	support	display	play	displaying	for creating games	identification	standing	performance	hosting	partition
+1042	freestyle skiing	freeride	freeriding	all-mountain	aggressive skating	freestyle skiers	freestyle	snowboarding
+1043	launching	transportation	space exploration	building	shipping	mode of transportation	shared with cars
+1044	dips	bar exercises	ring swings	upper body exercise	pull-ups
+1045	gymnastics coaches	gymnastics training	gymnastics exercises	training for vault	training for gymnastics competitions	gymnastics practice	gymnastics hall	used for gymnastics	gymnastics	practicing gymnastics
+1046	gymnastics competitions	gymnastics	gymnastics routines	gymnastics meets	gymnastics routine	gymnasts	gymnastics competition	gymnastics arena
+1047	military purposes	military training	dive training
+1048	swimming competition	swimming competitions	swimming lessons	athletic competitions	swimming laps	competitive swimming
+1049	track and field equipment	track and field	held at track and field competitions	ten track and field events	held at track and field events	track and field competition	track and field stadium	track and field events	track spikes
+1050	physical therapy	physical therapy sessions	water therapy	used for rehabilitation
+1051	military	civilian	law enforcement
+1052	self-defense
+1053	fishing	fashion	exercise
+1054	bike	bicycle	cycle
+1055	field	park	stadium	road	venue	course	office	court	fenced	ring	mat	gymnasium	pool	outdoor field
+1056	ski park	ski trail	beach	winter resort	ski resort	fishing trip	mountain	snow
+1057	outdoor stadium	snowy field	outdoor track	outdoor court	indoor arena	outdoor field	outdoor	athletic field	indoor	track and field complex	arena	indoor hall	outdoor venues
+1058	ice rink	badminton court	gymnasium	indoor rink	roller rink	indoor arena	collegiate stadium	water	ice	gym	rink
+1059	freshwater	saltwater
+1060	warm	cloudy	windy	humid	hot	wind	snowy	stormy	rainy	dry
+1061	cold	cold temperature	icy	frosty	hot
+1062	calm	sunny	sun	sunlight	warm	cloudy
+1063	ice	snow conditions	powder snow	snow	wind	snowy
+1064	dependent	independent
+1065	sunny	hot	warm
+1066	lane	multi-lane	single lane	multiple lanes
+1067	4 inches	varies	0.1 meters	6 inches
+1068	thin	thick	wide	narrow
+1069	upwind	beam	beam reach	downwind
+1070	physical exercise	requires skill and courage	exciting to watch	requires athleticism	requires skill	speed and technique	requires equipment	cold weather
+1071	well-known	common understanding	worldwide recognition	global popularity

@@ -1,0 +1,506 @@
+0	balanced	high	medium	low	refreshing	medium high	medium-high	acidity	high acidity	medium to high
+1	picnicking	fishing	boating	outdoor activities	popular for boating
+2	storing	distribution	storage	special storage	handling	shipping
+3	transshipping	unloading	cargo handling	loading
+4	appearance	taste	aroma	affects taste	affects smell	by taste
+5	lingering	aftertaste	unpleasant	pleasant
+6	young	mature	vintage	old
+7	can be aged for decades	can be aged for years	ages well	can be aged	aged for years
+8	complex flavor	complex flavor profile
+9	aged	prepared	aged for several years	mature	long-aged	strong
+10	improves with age	oaky	medium	dependent on climate	grass-cutting	improves with time	alone	drink young	fiasco	best consumed young
+11	develops complexity over time	develops complexity
+12	short	long	long-lived	medium	can be drunk young	can age for years
+13	best consumed within 2-5 years	can be aged for 5-10 years	2-12 eggs	5-7 years	can be aged for many years	can be aged for 10 to 20 years	can be aged for 10-20 years	can age for 5-10 years	can age for 5-7 years
+14	aging	long	aging process	complex	longer aging	long ageing process	long ageing	young	required to age
+15	fortified	14% abv	12%	13% abv	12% abv	15% abv
+16	high	medium	medium-high	low	strong	moderate	sweet
+17	typically 10-20%	13% to 15%	typically above 20%	12% - 14%	around 11%	10-12%	13-15%	12% to 16%	above 14%	13% to 14%	typically 11-13%	11-14%	lower than 12%	12% or less	around 8-12%	12% to 15%	12-16%	14% or more	15% to 16%	14% or higher	typically 12%	usually around 12%	12-14%	14% to 16%	12-15%	usually 12-15%	around 12%	14-16%	12% to 14%
+18	low	lower	usually low to moderate	high alcohol content	varies	low to medium	low to moderate
+19	strong	adults only	high	moderate	varies
+20	cloudy	colorless	odorless
+21	skin is green	pear-shaped	pear-like
+22	clarity	vigor	clear	murky
+23	decorated	appealing	appearance	layered	delightful	ornate	attractive	satisfying
+24	red	colorful	appearance	clear	color	in glass
+25	appellation d'origine contrôlée	protected designation of origin
+26	monastery buildings	medieval architecture	churches	medieval castle
+27	fruity	floral	flowery	medium	complex	stone fruit	citrusy	fruity notes
+28	grassy	earthly	earthy notes	caramel	vanilla	earthy	honey-like	nutty	oaky notes	earth	mineral	intense	weak	strong
+29	spicy	apple	citrus	vanilla	crisp	cherry	butterscotch	berry	green apple	fruit	pear	honey	lemon
+30	celebration	joy	indulgence	relaxation
+31	love	romance
+32	rosé with summer	rosé wine	white wine	summer	sparkling wine
+33	luxury
+34	fine dining	in fine dining	champagne
+35	ships	maritime	boats
+36	wine for special occasions	red wine	red wine with meat	weak with white wine	wine	strong with red wine	red wine with luxury
+37	wine appreciation	wine enthusiast	wine expert	wine criticism
+38	awarded medals	michelin star	gold medal	winning gold medal	winning medals	medal
+39	oscar	winning awards	winning	prize winner	win awards
+40	highly rated	highly acclaimed	critically praised	top rating	high ratings	is highly rated by critics
+41	wineries with awards	german wine awards	grand vin	wine awards	winemaking awards	best wine	texas wine awards	wine award	wine and spirits awards	international wine awards	award	wine enthusiast	wine spectator award	winery awards
+42	critic-acclaimed	critically acclaimed	critic acclaim	critic reviews	receiving high ratings from critics	critical acclaim	critic score
+43	best of show	best in show
+44	winemaking competitions	winning international competitions	wine competitions	wine competition prizes	wine competition	vintage releases	medal	prized wine
+45	awarded	prized	prize
+46	yes	award-winning	prize-winning	often	award winning
+47	wine spectator	wine critic's favorite	wine critic's choice	critic score	wine of the year	critic's choice	recognized by wine critics	best wine award
+48	international recognition	recognition	receiving national recognition	prized for quality	recognized	reputation for quality	has won numerous awards	winning recognition	receiving high ratings	local acclaim	receiving recognition	high reputation
+49	short	long
+50	scratching	scratches	aggressive	flying
+51	clucks	clumsy	lays eggs	clucking	flocking
+52	fresh	eating	young
+53	with dessert	young	desserts	with cheese	with food	with fruit	cheese	fruit	pasta	beer	at dinner	food
+54	cabernet franc	cabernet sauvignon	merlot
+55	clear	greenish tint	in bottle	green	magnum
+56	tylenol	advil	augmentin
+57	broods	brooding	egg-laying	incubation	laying eggs	lays eggs
+58	turkey	duck	quail	chicken
+59	edible	red	white
+60	red wine	fine wine	yearly release	expensive wine	luxury item	world-renowned wine
+61	alcoholic beverage	alcoholic drink	alcoholic	adult drink	vineyard product
+62	pain reliever	medication	antibiotic	medicine	supplement
+63	after-meal	after-dinner	after-meal food	after meal	after-meal course
+64	domesticated	farm animal	domestic animal	domesticated animal
+65	sweet	dessert	healthy snack	healthy	sweets	meat	sweet treat	treat	italian dish	ingredient	fruit	food	dish	tasty	snack	pastry	lunch	carbohydrate
+66	tint	color	blend	water	visual characteristic	hue
+67	vine	plant
+68	body	medium body
+69	acidity	medium sweetness	mildly acidic	high acidity	low acidity	high in acidity	light acidity	high sugar content	medium acidity
+70	abundant	rich	light	boring	healthy
+71	full-bodied	light bodied	smoky	light-bodied	decadent	good aging potential	well-aged
+72	versatile	flexible	unhealthy	consumable	age-worthy	approachable	simple	complex	well-balanced	easy to grow	balanced	food-friendly
+73	floral	floral notes	floral aromas	fruit	notes of citrus	honey notes	citrus notes
+74	low in tannins	drinkable soon after release	high tannins	high in acidity	medium acidity	produces wine with low tannins	medium tannins	low tannins	low in sulfites	rich in tannins	low-tannin wine	high in tannins
+75	wings	feathers	feathers for pillows	feathered	claws
+76	beaked	beak
+77	easy to drink	earthy	vegetal	smooth	honeyed	mellow	delicious	sweet	light body	buttery	bitter	crisp	delicate	small
+78	acidic	alcoholic	gas	has high acidity	liquid
+79	ruby red	vibrant red	sparkling	burgundy	rich red	rosy	dark purple	dark crimson	dark red	deep purple	deep red
+80	red	white	dark	clear	sticky	medium	bold	light	green	black	thick	ruby	blue
+81	honey	wine color	wine-like	wine
+82	pale yellow	purple	light brown	amber	pinkish	light yellow	pale gold	orange	green	brown	golden	yellow	white	colorless	pink
+83	pie	cake	ice cream	tart
+84	cake	pudding	pie	ice cream	cookies	stew	burger
+85	strawberries	bananas	grapes	raspberries	blueberries	blueberries and yogurt	strawberries and cream
+86	dried fruits	fresh fruits	flour	herbs	lemon	fruit
+87	whipped cream	chocolate	cream	syrup	ice cream
+88	pudding	tart	cake	pie
+89	macaroni	fettuccine	spaghetti
+90	gift	wedding dress	special occasion	injectable	treat	give as gift	paint
+91	wine bottle	wine glass	wine
+92	as a snack	cooking	as an ingredient	in fine dining	cosmetics	as a medicine
+93	hotel	restaurant	buffet	restaurants
+94	with rice	salad	rice	bread
+95	fresh fruit	fresh fruit salad	fruit salad	fruit platter	in a fruit salad
+96	granola	fruit salad	yogurt	fruit tart	cake	pudding	dessert	ice cream	candy	side dish	appetizer	main course	food	fruit smoothie
+97	sugar	flour	pie	eggs	nuts	company	fruits	multiple fruits	fruit	cream	food	water	tableware	fresh fruit	various fruits	honey	ph level	drink	cheese
+98	tannin	contains tannins	acids	tannins	polyphenols	sulfites	sugars
+99	inhalation	injecting
+100	canteen	restaurant	party	home
+101	bottle	glass	plastic	metal
+102	dishes	ingredients	drink	main dish	side dish	dessert	food	main	food items
+103	grilling	boiled	frying	steaming	boiling	baking
+104	braising	frying	grilling	roasting	boiling	baking
+105	expensive	reduced	budget-friendly	affordable	delayed
+106	last	final
+107	appetizer followed by main course followed by dessert	appetizer-side dish-main course-dessert	appetizer-main course-dessert	appetizer first	dessert last	appetizer	dessert
+108	grain	barley	vegetable	fruit	wheat	corn	pomegranate
+109	american	british	french	mediterranean	european	japanese	italian cuisine	cuisine	truffles
+110	meat	asian cuisine	salad	goat cheese	asparagus	cheese	rosé with cheese	desert	grilled meats	charcuterie	italian cuisine	fruit	no pairing	red meat	game	american	french	pizza	wine and cheese	pasta dishes	food	italian
+111	requires specific climate and soil	challenging to grow	requiring specific climate
+112	manual harvesting	harvesting	food preservation	pruned	pruned regularly	terroir	pruning	pesticide use	irrigation	climate
+113	vineyard	irrigated	grapes	grown in greenhouses	old vines	wine production	grows on vineyards	grape growing	dry	pesticide-free	tree	vine cultivation	wine region	growing	farming	orchards	vineyard crop	orchard	growing on trees	trellis	grapevine
+114	varies by culture	symbol of abundance	representation of love	important in many cultures	inspiration for artists	inspiration for art	symbol of hospitality
+115	wining and dining	connection to french history	symbol of french culture	medieval castles	foie gras	in mediterranean cuisine	japanese cuisine	barbecue	french cuisine	important for french history	french	in sushi	italian tradition	gastronomy	romanticism	italian cuisine	sunday roast
+116	holiday dinner	holiday meal	christmas tradition	in seafood buffet	celebratory meal
+117	historic sites	historic landmarks	historic significance	historical landmarks
+118	important part of meal	traditional dish	traditional food	special occasion dish
+119	japanese tradition	italian	american	middle eastern tradition	western tradition	asian tradition
+120	vibrant	pink	pale gold	crimson	crimson color	deep crimson
+121	national park	sightseeing	popular tourist destination	museum	landmark	destination	country	city	cruise	mountain	historical site
+122	insects	plants	insect
+123	grains	seed	seeds	grain	grain-based	healthy
+124	carnivorous	nocturnal	herbivorous	omnivorous	insectivorous
+125	lasagna	fettuccine	spaghetti	fettuccine alfredo	linguine	macaroni and cheese	italian dishes	spaghetti bolognese
+126	long	short	medium	quick
+127	short-term	short term	long-term	multi-day	occasional	long term	lasting few minutes
+128	daily	week-long	day	lasting	week	all day	long	fixed	month
+129	tax generator	popular tourist destination	job creator	import	trade	export	economic driver
+130	antioxidant-rich	high in antioxidants	antioxidant	may improve heart health	anti-inflammatory	oxidative
+131	bad	poor	average
+132	aroma	appearance	smell	taste	overall impression	flavor	mouthfeel	balance
+133	festival	holiday	anniversary	special occasion	celebration	social gathering
+134	halloween	harvest moon	thanksgiving	harvest festival	grain harvest
+135	turkey	chicken
+136	family	colleagues	friends
+137	loading equipment	forklifts	crane	cranes	conveyors	docks
+138	chenonceau	châteaux	chambord	famous for châteaux	historic châteaux	amboise
+139	wine tours	wine châteaux	famous for wine production	vineyards	wine production	red wine
+140	unesco world heritage site	roman architecture	unesco world heritage
+141	opus one	chateau margaux	château margaux	chateau latour	chateau lafite rothschild	château cheval blanc	chateau mouton rothschild	chateau lafite	domaine de la romanée-conti	pierre morey	château ausone	penfolds
+142	organic farming	sustainable	modern	traditional
+143	delayed picking	extended ripening	reaping crops after they are fully ripe	ripening on the tree	grown on trees	ripening on tree
+144	cobbled streets	narrow streets
+145	entry fees	guides	local guides	guide	activities
+146	scenic	scenic views
+147	waterfalls	meals	canyons	bridges	cranes	warehouses	canals	vineyards	mineral
+148	optional meals	accommodation	cultural experiences	transportation	accommodations	sightseeing
+149	docking	buoy	lighthouse	dock	locks	quay	docks	gorges
+150	long	complex	extended	short	finish
+151	oaky	oaky wine	oaky flavors	oily
+152	honeyed	jammy	honey-like	earthly	mellow	decadent	apricot	honey	nutty	delicate
+153	complex flavor profile	complex flavor	complex finish	smooth finish	flavorful	rich	smooth	balanced	complex
+154	crisp
+155	spicy
+156	sweet	fruity	nutty	light	tart	refreshing	vanilla	delicate	bitter	sweetness	notes of honey	chocolate
+157	peaches	green apple	apple	lemon	honey	apricots	pears	plum	pear
+158	aromatic	herbaceous	floral	citrusy	grassy	earthy	herb	orange blossom	herbal	butterscotch
+159	fine wine	herb	wine style	sweet wine	flavors of honey	dessert wine	red wine	white wine	sparkling wine	spice
+160	red fruit	pinot grigio	flavors of citrus
+161	fruit	side dish	protein source	pastry	carbohydrate-rich food	sweet	dessert	main course
+162	chocolate	dark chocolate	red wine and chocolate
+163	fish	aquatic food	seafood	fish dish
+164	sweet treat	dessert	culinary dish	sweet	rich	sugary	delicacy	side dish	pastry
+165	casual	formal	informal
+166	walking	cycling	driving	online
+167	airplane	boat	plane	private	rich	group
+168	treating fever	relieving headaches	relieves pain	curing infections	reduces inflammation	treats infection
+169	loading	transportation	to evaluate	distribution	storage	commerce	trade	shipping
+170	receiving	importing	export	import	exporting
+171	harbor	river	waterfront	coastal
+172	thick-skinned	acidic	thin-skinned
+173	pinot grigio	muscadine	gewürztraminer	zinfandel	drought-tolerant	zinfandel grape	zinfandel grapes	prosecco	chianti	pinot blanc grape	red grape
+174	sauvignon blanc	sauvignon	cabernet sauvignon grapes	cabernet franc	cabernet sauvignon	sauvignon blanc grapes	made from cabernet sauvignon
+175	merlot	barolo	gamay	canaiolo	sangiovese	chianti	grenache	malbec	syrah
+176	riesling	gewürztraminer	riesling region	riesling grapes	muller-thurgau	müller-thurgau	gewurztraminer	sylvaner
+177	gamay grape	sauternes grapes	gamay grapes	semillon grapes	semillon	white wine grapes	texas star	moscato	chardonnay grapes	chenin blanc	prosecco	muscat	trebbiano	muscadelle	melon de bougès	sémillon	chenin blanc grapes	muscadet grapes
+178	pinot noir	tempranillo	syrah	pinot grigio	barbaresco	pinot noir grapes	chardonnay	pinot gris	shiraz
+179	grapes	red grapes	muscadine	thin-skinned grapes	white grape	red grape	black spanish	grapes and cheese	table grapes
+180	warm climate	dry climate	warm	well-watered	sunlight	sunny	subtropical	tropical	full sun	temperate	warm weather	sufficient water	tropical climate
+181	professional	self-guided	audio
+182	enthusiastic	knowledgeable	expert	informal	professional
+183	farm	yard	wild	wild forest	forest	backyard garden	backyard
+184	middle ages	monastic history	medieval	medieval history	historical
+185	romanesque church	influenced by napoleon	romanesque architecture	roman settlement	monastery
+186	part of the hundred years' war	wine production since 12th century	founded in 11th century	wine trade	12th century
+187	light pink	hue	purple	pale yellow	amber	red	pink	deep red	green	bright red	light red	golden	white	rosé
+188	necessary for hygiene	essential for life
+189	quality	special	necessary
+190	wine industry	food production	wine	wine production	beer brewing	food processing	agriculture	winemaking	beer	brewing
+191	warehouse	warehouses	equipment	docks	waterways	roads
+192	sugar	cream	milk	flour	alcohol	ingredients list	water	eggs	yeast
+193	malbec	cabernet franc	sangiovese grapes	merlot	sulfites	pinot grigio	oak	petit verdot	sangiovese	prosecco
+194	grapes	honey	fruit	fresh fruit	nuts	spices	fruits	acid	organic	processed	natural	dairy	herbs	vegetables	fish	seafood	chocolate	recipe
+195	light	mild	complex	faded	intense	subtle	dull
+196	mild	bright	medium	strong	light	dark	deep
+197	rare
+198	expensive
+199	high quality	high-quality
+200	merlot	malbec	syrah	luxury packaging
+201	traditional	sugary	fruity	floral	black rooster	dry	modern	semi-sweet
+202	label design	organic	aoc certified	vegan
+203	approximately 1,000 km	approx. 1,000 km
+204	medium	low	high
+205	medium	optional	extreme	aoc	moderate	general	exhilarating	demanding	easy	challenging	specific
+206	italian restaurant	butcher	restaurant	supermarket	near city
+207	kitchen	pantry	table
+208	restaurant	at restaurant	museum	theme park	party venue	store
+209	national park	beach	cruise	near sea	sea	ocean	coast	coastal area
+210	home	party
+211	lake	right bank	near river	picnic	lake shore	river	riverbank	harbor	waterfront	outdoor
+212	merlot	made from merlot	chardonnay	syrah	sauvignon	merlot dominant	grenache	cabernet franc	merlot grapes
+213	red grapes	blend of grapes	sangiovese grapes	grapes	other grapes	derived from grape juice	specific grape varieties	made from melon grapes	white grapes	red wine	white wine
+214	fruit	semolina	grain	wheat flour	protein	vegetable
+215	on its own	canalized	smooth	coffee	aoc	filtered	distilled	reductive	specialized technique	picking
+216	government	agency	authority	private company
+217	regulatory	private company	authority	public	company	government	social	private
+218	dough	eggs	egg	water	wheat
+219	main course	part of a meal	course	entree
+220	afternoon tea
+221	appetizer	starter
+222	dessert	last course	sweet course
+223	brunch
+224	formal	special meal	holiday	special occasion	everyday	special event
+225	dinner	lunch	small	evening
+226	appetizer	savory	starter	first course
+227	breakfast	snack	lunch	afternoon
+228	delayed picking	postponing	delayed	delaying	waiting
+229	driving	cycling	walking
+230	plane	train	boating	walking	car	foot	bus	driving	flying
+231	smooth finish	crisp	oily	smooth	dry
+232	dinner	lunch	breakfast
+233	chocolate	fruity	earthy	caramel	honeyed	honeyed notes
+234	hints of vanilla	notes of oak	hints of oak	hint of oak	oak notes	hints of berries
+235	oaky	nutty
+236	four	five	three
+237	4	three	five	four	side	multi	multiple	one	dessert	2	1	single	3	main	5
+238	one	many	multiple	single
+239	low sugar content	higher sugar content	low in calories	high in calories	low in fat	high in cholesterol	rich in fat	high in fat
+240	high in fiber	heart healthy	rich in iron	rich in protein	rich in fiber	nutrient-rich	rich in vitamins	high in protein	high in antioxidants
+241	dinner party	summer gathering	casual gatherings	holiday meal	at party	casual dinner	casual gathering	dinner	informal gathering	wine tasting	dinner parties	social gathering	formal dinner	holiday gathering	special dinner	holiday gatherings
+242	special occasion	birthday	special event	special occasions	party	anniversary	holiday	relaxation	celebration	gift	special	special events	special treat	celebratory	banquet
+243	romantic evening	romantic	romantic dinner	summer evening	fine dining
+244	after meal	after dinner
+245	everyday	daily	daily routine
+246	everyday drink	everyday drinking
+247	wedding	birthday	weddings	wedding reception
+248	breakfast	lunch	social occasion	dinner party	dinner	parties	formal event
+249	holiday	special occasion	party	everyday	anniversary	anniversaries	special events	special occasions	holidays
+250	weather uncertainty	weather conditions	regulated	weather dependent	24/7
+251	government	operator	company	individual
+252	first harvest	early harvest	gathering crops after optimal time	premature harvest	spring harvest
+253	nuts	syrup	seeds	cream
+254	tour operator	friend	non-profit organization	travel agency	local guide	family
+255	specific regions	state	region	city	specific region	country
+256	france	italy	europe	european	united states	asia	new zealand	north america	european union	germany	spain	american	old world	australia	eastern	western	new world
+257	champagne	lamb	beef	butcher
+258	mount loire	rheinland	chile	massif central	austria	alsace	europa	french	portugal	marlborough	alsace region	brittany	allemagne
+259	german	french	italian
+260	fine dining	garden	river	pork	farm	chicken	wine	cattle	climate	sparkling	market	tap	sheep	pig	deer	pond	lake	ranch	bottle region	venison
+261	usa	alaska	alabama	west coast	new york	oregon	australian	washington state	made in texas	california	canada	lone star state	texas
+262	subtropical	temperate	tropical	aquatic
+263	synthetic	manufactured	processed	natural	bottled
+264	japanese cuisine	mexican	asian cuisine	seafood restaurant	mediterranean region	european cuisine	european wine	french cuisine
+265	animal	ocean	lab	plant	wild	soil	white	sea
+266	chianti region	veneto	tuscany	tuscany region
+267	rhône valley	rhone valley	piedmont	syrah	beaujolais region
+268	refreshing	sophisticated	light	complex
+269	desert	occasion	game
+270	seafood	french cuisine	white meat	light meals	mushrooms	salads	pairing with seafood	mussels	oysters	sparkling water	charcuterie	barbecue	with appetizer	goes well with fish	foie gras	appetizers	white with fish	fine dining	asian cuisine	fish	appetizer	salmon	with seafood	white wine with fish
+271	cheese	with beer	with cheese	chocolate	with wine	salad	beer	wine	nuts	with chocolate	pizza
+272	spicy food	with tex-mex cuisine	spicy dishes
+273	poultry farm	lamb	chicken	poultry	roasted chicken	pâté	pork	with poultry	asparagus
+274	with food	food	pair with food	meal	pairing with food	for special occasions	with meals	with dinner	with fine dining
+275	desserts	dessert	as a standalone drink	sweet dishes	caramel	pair with dessert	with dessert
+276	pasta	pairing with pasta	special occasions	red sauce	with salmon	sparkling with celebration	with bbq	with cereal	with fish	with pasta	main course	fine dining	with meat
+277	hard cheese	strong cheeses	goes well with cheese	mature cheese	soft cheese	soft cheeses	strong cheese	red wine and cheese	with salad	goat cheese
+278	red meat	with red meat	grilled meats	meat	with steak	french cuisine	pairing with red meat	sweet dishes	rich sauces	pairing with pizza	serving with red meat	red with red meat	game meat	chicken
+279	fruit	salad	with yogurt	nuts	with cream	spices	with sugar
+280	family	single	individual	group
+281	objective	subjective	through eyes
+282	sauvignon blanc	chardonnay	tawny port	sauvignon	pinot grigio	moscato	rioja	sauternes	tuscan wine
+283	lasagna	chocolate	apple pie	chocolate cake	cheesecake	mousse
+284	wine and cheese night	wine and cheese	wine bars
+285	usa	canada	germany
+286	popular	exclusive	classic
+287	growing trend	growing
+288	baking	mixed	cooking	dressing	mixing	simple arrangement	heating
+289	roasted	cooked	baked	baking	grilled	steamed	smoked
+290	cooking	fried	processed	chilling	mixed	frying	raw	poached
+291	baker	chef	home cook
+292	seasoning	water	oil
+293	doctor's orders	pharmacist's advice
+294	arranged on plate	in a parfait	in a fruit bowl	arranged on a plate	arranged on a platter
+295	sealed	stored	corked
+296	affordable	reasonable	budget	$15-$30	mid-range	budget-friendly
+297	expensive	luxury product	luxury	luxury wine	luxurious	premium
+298	france	italy	california
+299	wineries	small wineries	large wine companies	wine maker	vineyards	wine festival
+300	vintage	old world	limited edition
+301	delicate	delicate processing	high maintenance	careful handling	limited quantity	sweet	fragrant
+302	small-scale	small scale	small production	small-scale production	small-batch	produced in small quantities	artisanal
+303	aged in oak	aged in oak barrels	aged in cellar	aged in barrels	aged for several months	aging in oak	aged for several years
+304	fermented	fermentation	cold-fermented	aged	fermented drink	cold fermentation	full fermentation	natural fermentation	fermented with sugar	specialized fermentation	distillation	oxidative	pasteurized
+305	wine making process	making red wine	red wine production	white wine	still wine	white wine without skin	grape harvesting	ice wine	white wine production	still	red wine
+306	bottling	brewing	bottled	filtered	pressing
+307	handcrafted	carefully blended	small batch	handmade	carefully crafted	family-owned
+308	fortified with spirits	fermented in oak	fermented in oak barrels	oak barrels	drink within a year	barrel fermentation
+309	made from pinot noir grapes	made from chardonnay grapes	made from sangiovese grapes	made from ripe grapes	made from chenin blanc grapes	made from grapes	chardonnay grape	made from sauvignon blanc grapes
+310	dry method	sweet	traditional	organic	blend of methods	modern method	dry-ice method	off-dry	traditional method	dry	direct pressing	modern
+311	grapes harvested by hand	hand-picked grapes
+312	minimal oak aging	oak barrel ageing	aged in oak	oak-aged	oak aged	blend of grapes	short aging	no oak ageing	oaked	no oak aging	oak aging
+313	late harvesting	dry farming	late harvest
+314	made from botrytized grapes	botrytized grapes	botrytized
+315	fermented in stainless steel	unfiltered	aged in stainless steel	fermented in steel	whole-grape fermentation	fermented in stainless steel tanks
+316	minimum intervention	biodynamic	minimal intervention
+317	sparkling wine	sparkling	making sparkling wine	champagne method	used in sparkling wine
+318	grapes	winemaking process	winery	delicate	oenological	fermented	winemaking	wine making	high-quality winemaking	modern winemaking	traditional winemaking	used in still wine	winemaking technique	vineyard	vinification
+319	aged in oak	aging in oak barrels	red wine with grape skin	oak barrels	fermented in oak barrels	wine aged in oak barrels	aged for a long time	red wine with aging potential	aging in oak	rosé with brief skin contact	wine barrel	aged in barrel
+320	grapes	frozen grapes
+321	fermented	fermentation	short fermentation period	filtration	drying	delicate fermentation	distillation
+322	aging	dry	aging process	aged	oaked	best consumed after aging	fortified	developed
+323	blending	blended	blend
+324	refreshing	hydrating	calming	purifying	temperature
+325	local guide	online platform	individual guide	government	travel agency	tour operator	individual	non-profit
+326	farming practices	food production	meat production	egg production	to extend growing season
+327	adventure	travel	adventure seeking
+328	refreshment	to describe	recreation	satisfaction	recreational	leisure	practical	vacation	to be drunk
+329	quenching thirst	pleasing palate	hydration
+330	cultural	social gathering	cultural exchange
+331	social	education	transportation	nutrition	entertaining	tourism	commerce	business	educational	energy	entertainment	economy
+332	satisfying sweet tooth	to satisfy sweet tooth
+333	to impress guests	to celebrate	bring people together	celebration	to celebrate occasion	to socialize
+334	to end meal	ending meal	to complete meal
+335	relaxing	relaxation
+336	add flavor	to add variety	adding flavor	adds flavor	enhance flavor	create unique taste	meal accompaniment
+337	provide nutrition	to provide healthy option	satisfies hunger	to be eaten	satisfy hunger	provide energy	satisfying hunger	provides energy	to satisfy hunger
+338	rare	pure
+339	good	fine	average	bad	excellent
+340	high-quality	premium	high-end	black label	contaminated
+341	loire valley	pays de la loire	moselle	loire valley wine	centre-val de loire region	languedoc	loire-atlantique department	champagne	aquitaine region	produced in loire valley
+342	veneto	tuscany	italy	piemonte	italian	france	lombardy	portugal	spain
+343	europe	worldwide	australian	usa	new zealand	american	european	america	australia	frankfurt
+344	rhein	rheingau	mosel	pfalz	rhine	black forest
+345	napa valley	willamette valley	california wine country	paso robles	california	piedmont
+346	california	central coast	sonoma county	texas hill country	oregon
+347	new world	new york
+348	known for beauty	high plains	valley	hill country
+349	california	old world	italy	oregon	france	portugal	europe:france	australia	spain
+350	baden
+351	fredericksburg	marlborough
+352	france	new world	wine regions	spain	italy	europe	california	french wine regions
+353	wine production	grape harvest	beer brewing	wine making	oenology	winemaking process
+354	farming	culture	food	agriculture	rural
+355	winemaking process	grape variety	influenced by grape variety	specific grape varieties	dependent on region and winemaker
+356	higher quality	smaller size	better quality	higher sugar content	lower yield	higher yield	increased yield	delayed planting	to get more yield
+357	better flavor	different taste	unique flavor	more flavorful
+358	pests	pest and disease risks	pest control	drought	frost
+359	longest river in france	longest river	flows through paris	longest in france	france
+360	flows into atlantic ocean	atlantic ocean	tributary of atlantic ocean
+361	safe to drink	not safe to drink
+362	high cholesterol	trichinosis	mad cow disease	need for proper cooking	e. coli	risk of food poisoning	heart disease risk
+363	rolling hills	vineyards
+364	autumn	winter	fall	spring	summer
+365	after main harvest	when crops are ripe	harvested in autumn	ripened in summer
+366	worldwide	available year-round	widely available	online purchase	available year round
+367	spring	seasonal	summer	winter	in season	frozen conditions	season	fall	tropical
+368	fruity	acidic	pungent	floral	earthy	balanced	pleasant
+369	tannic	tannins	smooth	dry	tart
+370	aroma	appearance	smell	aromatic	bouquet	acidity	texture
+371	taste	flavor	flavors
+372	sweetness	sweet	flavorful	sugary	earthy	sweet and sticky
+373	bitter	unbalanced	tart	dry	unpleasant	acidic	bitterness	sour	acidity
+374	dinner	parties	table	party	special gathering
+375	chocolate sauce	lemon	sugar	coffee	cream	honey	olive oil	whipped cream	yogurt	bread	ice cream	sauce	meatballs	wine	whiskey	served with whipped cream	garlic	syrup	tea	fruit
+376	hot	with food	glass	cold
+377	in cup	served as a treat	served with a fork	served in a bowl	in a bowl	bowl	served hot	in bowl	on plate
+378	buffet	alone	large	formal	shared	takeaway
+379	raw	with sauce	with chocolate	with rice	with yogurt	with sugar	with oil	cooked	whole	with cream	with salad	cold with sauce	with cheese
+380	chilled	dried	red wine glass	poached	cold	hot	served cold	glass	room temperature	sliced	served warm	warm	served chilled	fresh
+381	served individually	individual plates	individual serving	platter	individual portions	plated	individual
+382	cooled	chilled	warm	cool	around 55°f	drinking	room temperature	cooled down
+383	fruit bowl	glass	cup	wine opener	jug	plate
+384	restaurant	party	canteen
+385	intense	white	bright	golden	deep	dark	light	rich
+386	champagne	deep red	light red	burgundy	claret	honey-colored	red	medium	pale yellow	amber	pink	golden brown
+387	small	straight	short	oval	round	elliptical	flat	long	curved	transparent	heavy
+388	perishable	fresh	long-lasting	shelf-stable	non-perishable
+389	dizziness	serious	none	nausea	allergic reaction	minor
+390	medium to large	varies
+391	full	large	idle	busy	thin	thick	tablet	small	medium
+392	thin	smooth
+393	floral	aromatic	strong scent	citrusy	herbal	clean	fresh	citrus	pungent	sweet
+394	clay	sand	limestone	mineral content
+395	natural	fuel	solid	filtered	plant	packaged	distilled	mineral	tap	well	bottled	drinkable	red	raw	water	bottle
+396	vosges mountains	french alps	french central region	massif central	mont lozère	pyrenees
+397	ruby	struts	bottle	rails	spring
+398	farm	supermarket	butcher	locally sourced	restaurant	wine shop
+399	other species	quail	chicken	bird	duck
+400	vitis vinifera
+401	dark place	cool temperature	dark	temperature controlled	colder temperatures	refrigerated	room temperature	frozen	cool	chilled	aging time	cool and dark place
+402	fridge	refrigerator	freezer	pantry	cupboard	cool and dark place	room temperature	cooler
+403	wine rack	wine cellar	wine box	cabinet	cellar
+404	transshipment	buoy	wharf	quay	complex	capsule	berry	wharfs	harbor	hangover	inland port	seaport
+405	poetic	dry	refreshing	luscious	crisp	sparkling	technical	rich	bold
+406	oak-kissed	burgundy	champagne	golden	crimson	claret
+407	off-dry	dry
+408	medium	very sweet	high	sweet	low	medium sweet	none
+409	romance	love	passion
+410	sophistication	luxury	finesse
+411	absent	low	medium to high	medium	present	strong	mild	high
+412	business travelers	children	couples	adults	history buffs	families	seniors	adventurers	general public
+413	chocolatey	buttery	creamy	nutty	butterscotch	chocolaty
+414	fruity	floral	citrusy	refreshing	berry	ripe	not sweet	fruity notes	juicy
+415	full-bodied	light-bodied	light bodied
+416	tannic	tannins	rich in tannins	astringent	soft tannins	high tannins
+417	sweet	acidic	fresh	tart	savory	neutral	tangy	bitter	light	sour	mild
+418	flavors of berries	black fruit	flavors of blackcurrant	flavors of plum	blackberry	flavors of blackberry	flavors of cherry	black cherry	flavors of black currant
+419	flavors of dark fruit	dark fruit flavors	stone fruit flavors	flavors of blackberry	dark fruit	flavors of oak	flavors of blackberry and black cherry	flavors of vanilla	flavors of oak and berries
+420	rich taste	flavored	strong	decadent	gamey	full	delicate	rich texture	complex	rich	clean	bold	smooth	flavorful	strong flavor	fresh
+421	hints of spice	smoky notes	hints of pepper	hints of chocolate	hints of vanilla	hints of earth	hint of spice
+422	salty	freshwater	saltwater	salt
+423	nutty	dry	fruity	spicy	sweet	bitter	sour	floral	apple-like	viscosity	earth	color
+424	dry	mineral	light body	medium body	smooth
+425	crisp acidity	white wine with crispness	acidity	sweet and crisp	refreshing
+426	room temperature	warm	hot	cold
+427	still	cool	tough	thick	dry	lean	thin	texture	twisted	hard	cooling	rich	silky
+428	velvety	slightly fizzy	viscous	bubbles	fizzy	thick, syrupy texture	murky	sparkling	bubbly	crystalline
+429	smooth	light	solid	texture	clear
+430	buttery	crisp	powder	sweet	crispy	tender	juicy	fluffy	fleshy	crunchy	fuzzy	crumbly	liquid	al dente	creamy	soft	flaky	refreshing	silky	chewy	fibrous	smooth texture
+431	midnight	morning	october	autumn	winter	evening	september	afternoon
+432	after dinner	morning	afternoon	breakfast	evening	lunch	dinner	after lunch
+433	sweet	neutral	warm	cool
+434	vineyard visits	tours	wine tourism	wine tastings	gastronomic tourism	popular among wine enthusiasts	cultural tourism	medieval town	food and wine
+435	vienne	orléans	loire river estuary	sauldre	yonne	seine	angers
+436	package
+437	wine variety	red grape	grape variety	wine grape	white wine grape	wine grape variety	red wine grape
+438	rosé	pink wine
+439	airport	man-made	river port	sea port	land port	harbor	shipping	waterfront	sea	city	waterway	docking facility	village	commune
+440	dry	still	bitter	light	bouquet	earthy	shade	white	artificial	mix	floral	blend
+441	fruit	ice cream	pudding	tart	cake	brownie	cookie
+442	bordeaux wine	bordeaux	bordeaux-style	claret	burgundy wine	bordeaux-style wine
+443	drink	beverage	liquid	food	sparkling	tea	milk	fortified	snack	juice	water	coffee
+444	wine	red wine	still wine	table wine	wine attribute	fortified wine	wine blend	sparkling wine	oak-aged wine
+445	adventure tour	outdoor	cultural tour	guided tour	self-guided tour	guided
+446	grapes	beef	venison	date	peach	mango	ripe	lamb	mousse	pear	pie	banana	pineapple	grape	pork
+447	main course	side dish	dinner	lunch
+448	local	ruby	natural	bulk	cargo	container	artificial
+449	fish soup	fish salad	grilled fish
+450	grilled fish	steak	grilled	fish salad	roast	fish tacos	grilled salmon	fish	roasted	sausages	bbq	seafood
+451	seasonings	vegetables	christmas	clothing	dessert	side dish	bread	main dish	sweet	appetizer
+452	cake	ice cream	sorbet
+453	with cheese	with sweet dishes	dessert	serving with food	eating fresh	after dinner	serve as dessert	with dessert	drink on its own
+454	cleaning	dry wine	cooking	washing	drinking
+455	used in blends	blended with other wines	blending with other grapes	wine blends
+456	making juice	making smoothie	juice
+457	irrigation	tourism	fishing
+458	special occasions	celebration	social gathering	at special occasions	celebrating special occasions	on special occasions	celebrations	serving at special occasions	romantic occasions	special occasion
+459	drinking alone	enjoying on its own	sipping alone
+460	drinking on its own	drinking	everyday drinking	drinking water	eating
+461	pairing with food	wine and food pairing	wine pairing	dessert pairing
+462	cooking	grilling	pest control	baking	roasting	cleaning
+463	making wine	wine production	winemaking	beer brewing	brewing	wining	making medicine	wine making	raisins
+464	dining	snacking	dinner	roses	dessert	flavor	roast	healthy snack	dressing	main courses	snack	fruit	special treat	table consumption	cheese	desserts	stew	treat yourself	meat	on its own	side dish
+465	blending wine	making wine blends	careful blending	completing a wine collection	making wine blend	wine blending
+466	making white wine	red wine production	red wine	making dessert wine	making still wine	making red wine
+467	drinking on special occasions	wining and dining	enjoying with friends	drinking with friends	casual drinking	enjoying as a drink	social drinking	entertaining	entertaining guests	wine drinking
+468	gift	gift-giving	gifting	gift giving
+469	making cocktails	making sangria	making wine sauce	cocktails	making wine and cheese platter	making wine cocktails	cocktail recipe	making wine spritzer	wine mix	cocktail	making wine cocktail
+470	burgers	steak	making burgers	burger	making steaks
+471	trade	shipping	energy	commerce	tourism	transportation	reward	fishing	aging	treat
+472	blending	drying	blended	paint
+473	serving as an apéritif	as an apéritif	drinking as an aperitif	as aperitif	as an aperitif	apéritif	enjoying as a standalone wine
+474	nutritious	pleasure	nourishment	medicinal purposes	used for hygiene	sustenance	sustaining life	hydration
+475	pairing with dessert	pairing with cheese	pairing with food	pairing with meat	pairing with strong cheeses	dessert wine	dessert pairing	pairing with sweet dishes	pairing with desserts
+476	boosting energy	giving energy	improving health	gaining energy
+477	salads	making desserts	bread making	making dishes	making main courses	making juice	making jams	baking cakes	making drinks	making dessert	making stir-fry	making sauce	making smoothie	making meals	making cakes	making sausages	making jam	making salads	making salad	cooking	making trifle	eating fresh	adding to salads
+478	soups	making soup	making soups	making sauces	making stews
+479	wine tasting	wine description
+480	eggs	pet	meat
+481	type of pear	anjou pear
+482	burgundy	burgundy region	alsace wine producers	côte de nuits	willamette valley	marlborough	chablis	côte d'or	beaune	burgundy wine	bourgogne	alsace	sancerre	leroy
+483	well-drained soil	limestone and clay soil	well-structured	clay-limestone soils
+484	cool climate	sunny climate	cooler climate	limestone soils	marginal climate
+485	biscay bay	small medieval town	forms border	dock	harbor
+486	warm and sunny	dry	cool and rainy	mild	frosty	cool
+487	red wine	expensive	white wine	fine wine	red	white	wine glass
+488	short	medium	very long	long
+489	young wine	dry	body	rich	honey	high acidity	light bodied	nutty	finish
+490	grand cru	premier cru	village wine	premier grand cru classé
+491	blended	blend of grapes	blending	fortified	blending of different wines	vintner's selection	american wine	blend	mixing different wines	fermented	merlot dominant
+492	bordeaux region	right bank	bordeaux	bordeaux wine region	gironde	cultivated in bordeaux	premier grand cru classé	medoc	bordelais	gironde department
+493	wine producing region	wine region	winemaking region
+494	red wine	wine region	france	new world	european	merlot wine	merlot dominant	spain	specific region
+495	australia	europe:italy	australian wine	hunter valley
+496	versatile	oaked	structured	bold	complexity	complex	unoaked
+497	white wine	dry wine	dry	sparkling	red	fine wine	red wine	white	dry white wine
+498	chardonnay	merlot	merlot wine	burgundy	syrah	fumé	pinot noir
+499	wine	french wine	popular wine	italian wine	expensive wine	french	wine village	dry wine
+500	light-bodied	full-bodied wine	wine with tannins	light-bodied wine	full-bodied
+501	dessert	sweet wine	dessert wine	sweet	making dessert wine	dessert-style wine	dessert wine with sweetness level	dessert wine style	ice wine	late harvest wine	dessert sherry	after-dinner wine
+502	crisp wine	crisp	refreshing	aromatic	light wine
+503	aged in cellar	young wine	aging process	aging	oak aging	oak barrel ageing	aged for several years	finesse	cellar ageing	crush	delicate pressing	wine age	bottling	aging in oak
+504	long fermentation	cold fermentation	fermentation	cool fermentation	minimal oak	cold soak	stainless steel	carbonic maceration	malolactic fermentation	cabernet franc	whole grape fermentation	minimal oak aging	ainless aging	minimal intervention
+505	buttery	crisp	oaky	fruity	fruit-forward wine

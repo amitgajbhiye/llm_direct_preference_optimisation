@@ -1,0 +1,1218 @@
+0	german mark	italian lira	french franc
+1	afghan afghani	tajik somoni	japanese yen
+2	afghan afghani	euro dollar	japanese yen	british pound	tajik somoni	currency
+3	senepol cattle	forage crop	sugar cane	tropical fruit
+4	hoofed mammal
+5	hoofed mammal
+6	economic attribute
+7	vegetable oil	cotton fiber	jute fiber	textile product	hemp fiber
+8	financial transaction
+9	capital good	economic attribute
+10	reproductive body
+11	water buffalo	senepol cattle	animal skin
+12	hoofed mammal	water buffalo
+13	handicraft product	cut flower
+14	copper ore	cardamom	jute fiber	chicken meat	sisal fiber	rye grain	shea nut	barley grain	nickel ore	cashew nut	date fruit	wheat grain	almond nut	millet grain	cereal grain	sorghum grain	maize grain	passion fruit	wool fiber	palm kernel	kentia palm seed	cow pea	okoume	iron ore	tea leaf	zinc ore	pecan nut	paddy rice	taro tuber	cocoa bean	oat grain
+15	pepper	nickel ore	zinc ore	almond nut	iron ore	tea leaf	wheat grain	black pepper	cow pea	rye grain	copper ore	sorghum grain	wool fiber	lead ore	lead product	passion fruit	taro tuber	cashew nut	chicken meat	palm kernel	senepol cattle	mulberry leaf	cardamom	cereal grass	textile product	khat	millet grain	paddy rice	cotton fiber	alumina	cereal grain
+16	cereal grass	oat grain	taro tuber	fish roe	pepper	barley grain	millet grain	mulberry leaf	ornamental fish	sugar cane	cow pea	date fruit	palm kernel	shea nut	black pepper	cardamom	kentia palm seed	cocoa bean	cereal grain	tea leaf
+17	flowering plant	ornamental fish	tropical fruit	animal skin	fruit or vegetable
+18	taro tuber	grocery produce	anatomical structure	kentia palm seed	mining product	date fruit	cereal grass	khat	wool fiber	metal product	balsa wood	tea leaf
+19	okoume	iron ore	copper ore	cardamom	lead ore	aluminum	mulberry leaf	taro tuber	rye grain	barley grain	zinc ore	nickel ore	oat grain
+20	precious gemstone	cut flower	metal product	flowering plant	product package	passion fruit
+21	fish roe	animal skin	wood product	fruit or vegetable	grocery produce	wheat grain	barley grain	textile product	balsa wood	mulberry leaf	chemical product	zinc product	mining product	tropical fruit	ornamental fish	flowering plant	cut flower	semiprecious gemstone	precious gemstone
+22	taro tuber	black pepper	millet grain
+23	taro tuber	fish roe	anatomical structure	aluminum	citrus fruit	semiprecious gemstone	fruit or vegetable	wood product	metal product	dairy product	balsa wood	tea leaf	cotton fiber	wool fiber	ornamental fish	animal skin	textile product
+24	paddy rice	millet grain	barley grain
+25	khat	ylang ylang	sugar cane	ornamental fish	cereal grass
+26	wood product	flowering plant	okoume	tea leaf	sugar cane	black pepper	rice grain	khat
+27	root vegetable	mining product	root starch	alumina	zinc ore	zinc product	mulberry leaf	ylang ylang	pepper	iron ore	soya	chemical product
+28	khat	okoume	tropical fruit	root vegetable	sugar cane
+29	cardamom
+30	kentia palm seed	passion fruit	cocoa bean	wheat grain	pecan nut	taro tuber	mulberry leaf
+31	lead ore	lead product	lead	nickel ore	zinc ore	barley grain	wheat grain	ornamental fish	balsa wood	semiprecious gemstone	precious gemstone	passion fruit	rye grain	cotton fiber	cereal grain	animal skin	maize grain	guernsey cattle	oat grain	paddy rice	metal product
+32	petroleum product	vegetable oil	phosphoric acid	zinc product	mining product	ylang ylang	chemical product
+33	petroleum lubricant	motor oil
+34	manufactured product	petroleum lubricant	metal product	zinc product	chemical product
+35	balsa wood	wood product	lead product	alumina	italian lira	economic development level	pharmaceutical product	wool fiber	sisal fiber	metal product	water buffalo	economic attribute	okoume	hemp fiber
+36	hemp fiber	phosphoric acid	petroleum lubricant	copper ore	natural rubber	alumina	zinc product	aluminum	petroleum product	balsa wood
+37	alumina	flax fiber	zinc ore	okoume	iron ore	compound substance	mining product	aluminum	metal product	forest product	sisal fiber	economic development level	petroleum product	hemp fiber	economic attribute	wood product	balsa wood	root starch	petroleum lubricant
+38	sisal fiber	aluminum	food product	alumina	forest product	wood product	hemp fiber
+39	petroleum lubricant	metal product	alumina	petroleum product	balsa wood	aluminum	flax fiber	sisal fiber
+40	aluminum	metal product	petroleum lubricant	zinc ore	motor oil	alumina	sisal fiber	flax fiber	balsa wood	petroleum product
+41	compound substance	flax fiber	root starch	phosphoric acid	zinc ore	chemical product	alumina	petroleum product	natural rubber	lead product	zinc product
+42	alumina	phosphoric acid
+43	pharmaceutical product
+44	change of possession
+45	semiprecious gemstone
+46	tropical fruit	fish roe
+47	animal skin
+48	euro dollar
+49	afghan afghani	japanese yen
+50	industry	turkey	water buffalo	economic attribute	ornamental fish	organic object
+51	water buffalo	turkey	economic attribute	economic sector	hoofed mammal	ornamental fish
+52	ornamental fish
+53	manufactured product	durable good	major appliance	jute fiber	hemp fiber	aluminum
+54	motor oil
+55	petroleum lubricant	capital good
+56	hemp fiber	flax fiber	petroleum lubricant
+57	black pepper	zinc product	mulberry leaf	cardamom
+58	mulberry leaf	ylang ylang	zinc product	black pepper	petroleum lubricant	citrus fruit	tea leaf	pepper
+59	forest product	hemp fiber	flax fiber	wood product	sisal fiber	crop production
+60	zinc product
+61	zinc product	petroleum lubricant	forest product	vegetable oil
+62	reproductive body	power generation
+63	reproductive body	anatomical structure	wearable item	corn
+64	hoofed mammal	animal skin
+65	beverage product	perfume essence
+66	pharmaceutical product	durable good	beverage product	food product	lead product
+67	cooking range	major appliance
+68	beverage product	food product	lamb meat	chemical product	grocery produce
+69	motor oil	perfume essence
+70	vegetable oil
+71	water buffalo	guernsey cattle	senepol cattle
+72	guernsey cattle	senepol cattle
+73	ornamental fish	senepol cattle
+74	senepol cattle	ornamental fish
+75	industry	economic sector	agricultural product	industrial supply
+76	shea nut
+77	maize grain	palm kernel
+78	sugar cane	mining product	maize grain
+79	economic attribute
+80	cut flower
+81	wearable item	crop production	cut flower	kentia palm seed	ornamental fish
+82	cut flower
+83	ornamental fish	phosphoric acid
+84	ornamental fish	cut flower
+85	ornamental fish
+86	economic development level	fruit or vegetable
+87	passion fruit	grocery produce	green pepper	tropical fruit	citrus fruit	date fruit	palm kernel	edible nut	sweet pepper
+88	manufactured product	lead product	durable good	major appliance
+89	root vegetable	wheat grain	sugar cane	lead	ylang ylang	khat	flowering plant	turkey	kentia palm seed	cereal grass	tea leaf	rye grain	cow pea	forage crop	mulberry leaf	oilseed	perfume essence	cut flower	cereal grain
+90	green pepper	yam tuber	edible tuber	potato tuber	taro tuber	grocery produce	sweet pepper	potato	corn	root vegetable	sugar cane	cow pea
+91	alumina	jute fiber	aluminum	metal product	wood product	lead	oilseed
+92	ylang ylang	perfume essence	mulberry leaf	cardamom	black pepper	khat	grocery produce	tea leaf	pepper
+93	root starch	root vegetable	rice grain	food fish	potato tuber	taro tuber	potato	yam tuber
+94	oilseed	potato	cocoa bean	agricultural product	sisal fiber	forage crop	iron ore	copper ore	okoume	cereal grass
+95	wheat grain	maize grain	palm kernel	barley grain	cereal grass
+96	palm kernel	cashew nut	edible nut	grocery produce	shea nut	pecan nut	macadamia nut	almond nut
+97	pepper	green pepper	cardamom	grocery produce	food product	shea nut	black pepper	sweet pepper	fruit	dairy product	fruit or vegetable	cocoa bean	food egg	edible nut	cashew nut	rye grain	vegetable oil
+98	chemical product	metal product	durable good	aluminum	manufactured product	beverage product	food product	pharmaceutical product
+99	oilseed	turkey meat	fish	fish product	chicken meat	soya	food fish	lamb meat	cereal grass	food egg	forage crop	fruit or vegetable	sugar cane
+100	lead product	wearable item	metal product	wood product	forest product	semiprecious gemstone
+101	vegetable oil	hemp fiber	natural rubber	root starch	perfume essence	jute fiber	cotton fiber	edible nut	soya	oilseed	cocoa bean	fruit or vegetable	root vegetable	cereal grain	fruit	millet grain
+102	semiprecious gemstone	zinc ore	iron ore	lead ore	nickel ore	copper ore	mining product	alumina
+103	manufactured product	controlled substance	lead product	industrial supply	petroleum product
+104	ylang ylang	perfume essence
+105	tropical fruit	passion fruit	citrus fruit	ornamental fish	turkey	handicraft product
+106	diesel fuel	petroleum lubricant	petroleum product
+107	forage crop	soya	cashew nut	fruit or vegetable	barley grain	sorghum grain	cereal grass	food egg	macadamia nut	cereal grain	sugar cane	food fish	black pepper	millet grain	lamb meat	paddy rice	fish product	chicken meat	fish roe	root vegetable	wheat grain	taro tuber	dairy product	fish	grocery produce	potato	rye grain	potato tuber	almond nut	beverage product	cocoa bean	corn	rice grain	pecan nut	mulberry leaf	tea leaf	vegetable oil	turkey	maize grain	palm kernel	oat grain	yam tuber	turkey meat	citrus fruit	food product	tropical fruit	date fruit	green pepper	edible tuber	edible nut	agricultural product	shea nut	sweet pepper	cow pea
+108	dairy product	cocoa bean	food product	beverage product	food egg	grocery produce	oat grain	rye grain	millet grain	paddy rice	sorghum grain	barley grain	maize grain	wheat grain	corn
+109	pharmaceutical product	chemical product	controlled substance	khat
+110	fish product	grocery produce	date fruit
+111	economic sector	chemical product	industrial supply	manufactured product	zinc product	industry
+112	hoofed mammal	water buffalo
+113	cooking range	major appliance
+114	zinc product	shea nut
+115	durable good	economic attribute	sorghum grain	agricultural product	cereal grass	maize grain	oilseed	sugar cane	okoume	forest product	industrial supply	wheat grain	cut flower	pharmaceutical product	lead product	nickel ore	economic development level	wearable item	food product	wood product	product package	cooking range
+116	industrial supply	financial transaction	economic attribute	durable good	capital good	agricultural product
+117	turkey
+118	turkey
+119	motor oil	petroleum lubricant
+120	industrial supply	agricultural product	economic sector	pharmaceutical product
+121	motor oil	industrial supply	petroleum lubricant
+122	petroleum lubricant	motor oil
+123	economic development level	crop production
+124	organic object	motor oil	balsa wood	animal skin	hemp fiber	natural rubber	mining product	wool fiber	cotton fiber	flax fiber	lead ore
+125	okoume	balsa wood
+126	flax fiber	petroleum lubricant	organic object	hemp fiber	forest product	agricultural product	ylang ylang	kentia palm seed	jute fiber	wool fiber	sisal fiber	motor oil	wood product	root starch
+127	hemp fiber	jute fiber	textile product	flax fiber	animal skin	natural rubber	cotton fiber	mining product	motor oil	sisal fiber	wood product	kentia palm seed	wearable item	compound substance	wool fiber	durable good	capital good	manufactured product	handicraft product	semiprecious gemstone
+128	senepol cattle
+129	kentia palm seed	senepol cattle	ylang ylang	forage crop	agricultural product
+130	animal skin	capital good	organic object	jute fiber	natural rubber	agricultural product	vegetable oil	sisal fiber	industrial supply	lead product	handicraft product	compound substance	industry	perfume essence	motor oil	petroleum lubricant	relational attribute	economic sector	flax fiber	balsa wood	sugar cane
+131	petroleum product	balsa wood	forage crop	natural rubber	precious gemstone	vegetable oil	organic object	semiprecious gemstone	motor oil	animal skin	grocery produce	sugar cane
+132	relational attribute	organic object	economic sector	economic attribute
+133	relational attribute	vegetable oil	organic object
+134	natural rubber	wool fiber
+135	economic sector	lead product	capital good
+136	lead product	senepol cattle	tropical fruit	kentia palm seed	perfume essence	capital good	durable good	industry	forage crop	hemp fiber
+137	motor oil	hemp fiber	chemical product	capital good	sisal fiber	flax fiber	compound substance	organic object	root starch	cotton fiber	natural rubber	agricultural product	vegetable oil	petroleum lubricant	aluminum	alumina
+138	ylang ylang	tropical fruit	flowering plant	compound substance	perfume essence	diesel fuel
+139	handicraft product	capital good	industry	economic development level
+140	precious gemstone	economic development level	capital good	lead product	balsa wood
+141	economic sector	economic development level	industry
+142	flowering plant	tropical fruit	organic object	okoume
+143	rye grain	sisal fiber	jute fiber	hemp fiber	wool fiber	compound substance
+144	tropical fruit	passion fruit	grocery produce	citrus fruit	hemp fiber	agricultural product	sugar cane	precious gemstone
+145	tropical fruit	sugar cane	precious gemstone	agricultural product	wood product	textile product	perfume essence
+146	flax fiber	balsa wood
+147	industrial supply	wood product	agricultural product	forest product	industry	relational attribute	food product	economic sector
+148	date fruit	root starch	oilseed	forage crop	tropical fruit	agricultural product	economic development level
+149	manufactured product	mining product	balsa wood	perfume essence	vegetable oil	flax fiber	sugar cane	cotton fiber	turkey	industrial supply	kentia palm seed	compound substance	hemp fiber	precious gemstone	forest product	jute fiber	okoume	senepol cattle	grocery produce	wood product	petroleum lubricant	animal skin	tropical fruit
+150	compound substance	okoume	balsa wood
+151	capital good	relational attribute	compound substance	organic object	power generation
+152	lead ore	copper ore	lead	nickel ore	zinc ore	semiprecious gemstone
+153	cocoa bean	mulberry leaf	ylang ylang	sorghum grain
+154	cocoa bean	khat	tea leaf	black pepper
+155	zinc product	iron ore	zinc ore	lead ore	copper ore
+156	iron ore	semiprecious gemstone	lead ore
+157	wheat grain	sugar cane	root starch	forage crop	paddy rice
+158	copper ore	nickel ore	lead ore
+159	aluminum	zinc ore	phosphoric acid	compound substance	lead
+160	chemical product	phosphoric acid
+161	chemical product	metal product	petroleum product	lead product	lead ore	lead	phosphoric acid	aluminum
+162	aluminum
+163	natural rubber	lead	chemical product	alumina	aluminum	metal product	zinc ore
+164	phosphoric acid	compound substance	alumina
+165	chemical product
+166	phosphoric acid
+167	german mark
+168	currency	german mark	italian lira	currency measure	japanese yen
+169	currency measure	italian lira	currency	controlled substance
+170	italian lira
+171	economic sector	industry
+172	economic development level
+173	controlled substance
+174	capital good
+175	product package
+176	guernsey cattle	senepol cattle	water buffalo
+177	british pound	german mark
+178	british pound
+179	maize grain	fruit	cut flower	black pepper	nickel ore	diesel fuel	semiprecious gemstone	rye grain	date fruit	paddy rice	kentia palm seed	animal skin	tea leaf	beverage product	pepper	rice grain	fish roe	green pepper	almond nut	cow pea	precious gemstone	motor oil	potato tuber	fruit or vegetable	root vegetable	sweet pepper	tropical fruit	food egg	citrus fruit	corn	passion fruit	mulberry leaf	wheat grain	balsa wood	pecan nut	yam tuber	potato	jute fiber	edible tuber	okoume	cotton fiber	iron ore
+180	precious gemstone	cut flower	textile product	ornamental fish	tropical fruit	sisal fiber	animal skin	cotton fiber	flowering plant
+181	green pepper	mulberry leaf	motor oil	okoume	balsa wood
+182	textile product	ornamental fish	green pepper	jute fiber	pecan nut	kentia palm seed	cotton fiber	sisal fiber	beverage product	flowering plant
+183	zinc product
+184	taro tuber
+185	food egg	chicken meat	food fish
+186	controlled substance
+187	edible nut
+188	fish product	food fish
+189	citrus fruit	tropical fruit
+190	dairy product	soya
+191	pepper	black pepper
+192	vegetable oil	edible tuber	cashew nut
+193	root starch
+194	zinc product	mulberry leaf
+195	cow pea	sorghum grain	hoofed mammal	tajik somoni
+196	edible nut	pepper	black pepper
+197	industrial supply	change of possession
+198	electric device	product package
+199	crop production	product package	paddy rice	anatomical structure	agricultural product	manufactured product
+200	compound substance	chemical product
+201	cocoa bean	tea leaf	agricultural product	wheat grain	paddy rice	forage crop	alumina
+202	electric device	manufactured product	industrial supply
+203	pharmaceutical product	anatomical structure	organic object	chicken meat	wheat grain	forage crop	paddy rice	chemical product	tajik somoni
+204	chemical product	perfume essence	organic object	petroleum lubricant	compound substance	pharmaceutical product
+205	lead ore	zinc ore	nickel ore	copper ore	mining product
+206	chemical product	anatomical structure	semiprecious gemstone	petroleum lubricant	controlled substance	perfume essence	precious gemstone	motor oil
+207	petroleum lubricant	petroleum product	phosphoric acid	diesel fuel	chemical product	organic object
+208	nickel ore	pharmaceutical product	perfume essence	petroleum lubricant	mulberry leaf	tea leaf	zinc product
+209	perfume essence	black pepper
+210	diesel fuel	petroleum lubricant	petroleum product	motor oil	organic object
+211	copper ore	lead ore	organic object	mining product	semiprecious gemstone	palm kernel
+212	perfume essence	ylang ylang	rice grain
+213	alumina	copper ore	iron ore
+214	anatomical structure
+215	anatomical structure	organic object	reproductive body
+216	anatomical structure	okoume
+217	organic object	compound substance	chemical product	anatomical structure	semiprecious gemstone	lead ore
+218	perfume essence	phosphoric acid	power generation
+219	phosphoric acid	okoume
+220	anatomical structure
+221	electric device
+222	controlled substance
+223	change of possession
+224	change of possession
+225	change of possession	forest product	economic sector	power generation	controlled substance
+226	change of possession
+227	water buffalo
+228	anatomical structure	reproductive body
+229	durable good
+230	dairy product	tropical fruit
+231	khat	beverage product
+232	beverage product
+233	product package	organic object	relational attribute
+234	product package
+235	change of possession	economic attribute
+236	relational attribute
+237	food fish	lamb meat	fish product	chicken meat	turkey meat	food egg	vegetable oil	root starch	fish	rice grain
+238	root starch	soya	food egg	food fish	lamb meat	turkey meat	fish	chicken meat	fish product	millet grain	cow pea	taro tuber	edible tuber	rice grain
+239	food product	grocery produce	semiprecious gemstone	major appliance	precious gemstone	durable good	power generation	industrial supply	handicraft product
+240	durable good
+241	industrial supply	durable good	power generation	agricultural product	fish roe	semiprecious gemstone	precious gemstone	food product	grocery produce	handicraft product	major appliance
+242	currency measure
+243	euro
+244	italian lira	british pound	french franc	tajik somoni	currency
+245	guernsey cattle	euro dollar	afghan afghani
+246	mining product	handicraft product
+247	handicraft product	textile product
+248	handicraft product
+249	economic development level
+250	crop production
+251	fish roe	cardamom	palm kernel	lamb meat	date fruit
+252	root starch	soya
+253	taro tuber	pepper	soya
+254	fruit or vegetable	turkey	fish roe	lamb meat	turkey meat	chicken meat	edible tuber	taro tuber	soya	cow pea	millet grain
+255	fish roe	fruit or vegetable	turkey	cardamom	citrus fruit	tropical fruit
+256	almond nut	fruit or vegetable	cardamom	fish roe	root starch	dairy product
+257	food fish	corn	maize grain	tea leaf	oilseed	cereal grass	agricultural product	forage crop
+258	rice grain	paddy rice
+259	rye grain	ylang ylang	soya	rice grain	cow pea
+260	green pepper	corn	potato tuber	kentia palm seed	mulberry leaf	potato	edible tuber	flowering plant	sweet pepper
+261	sugar cane	cotton fiber	paddy rice	macadamia nut	date fruit	oat grain	tea leaf	handicraft product	black pepper	jute fiber
+262	rice grain	yam tuber	maize grain	cereal grass	shea nut	corn	cereal grain	cow pea	oilseed	rye grain	barley grain	cashew nut	mulberry leaf	khat	almond nut	wheat grain	sugar cane	oat grain	soya	black pepper	okoume	ylang ylang
+263	oilseed	rye grain	hemp fiber	taro tuber	cereal grass	barley grain	sugar cane	soya	capital good	cereal grain	oat grain	jute fiber	forage crop	corn	maize grain
+264	maize grain	rice grain	sugar cane	cereal grass	paddy rice	wheat grain	barley grain	millet grain	soya	agricultural product	potato tuber	corn
+265	semiprecious gemstone	barley grain	rye grain	potato tuber	green pepper	oilseed	tea leaf	soya	sweet pepper	sorghum grain	hemp fiber
+266	tropical fruit	almond nut	pecan nut	date fruit
+267	forage crop	flowering plant	pepper	black pepper	almond nut	cashew nut	paddy rice	cereal grain	tea leaf	corn	maize grain	barley grain	cereal grass	rye grain	sugar cane	sweet pepper	wheat grain	german mark
+268	barley grain	sorghum grain	date fruit	rye grain	wheat grain	millet grain	cow pea	shea nut	cereal grass	taro tuber	rice grain	maize grain	cocoa bean	ylang ylang	passion fruit
+269	almond nut	pecan nut	black pepper
+270	hemp fiber	crop production	cereal grain	palm kernel	agricultural product	chemical product	forage crop	soya
+271	water buffalo	turkey	shea nut	soya	controlled substance	cereal grain
+272	agricultural product	cow pea	cardamom	sugar cane	shea nut	taro tuber	oilseed	yam tuber	wheat grain	ylang ylang	soya	cocoa bean	barley grain
+273	shea nut	millet grain	forest product	black pepper	taro tuber	passion fruit	okoume	animal skin	soya	senepol cattle	crop production	rye grain	agricultural product	cocoa bean	paddy rice
+274	millet grain	shea nut	cow pea	crop production	sorghum grain	black pepper	rye grain
+275	green pepper	soya	sugar cane	oat grain	tea leaf	maize grain	oilseed	okoume	cereal grain	wheat grain	barley grain	corn	tropical fruit
+276	sorghum grain	taro tuber	shea nut	cow pea	jute fiber	sweet pepper	sugar cane	okoume	passion fruit	ylang ylang	cardamom
+277	crop production	forage crop	paddy rice	maize grain	cereal grain	sugar cane	cow pea
+278	sorghum grain	khat	cocoa bean	okoume
+279	forage crop	senepol cattle	rye grain	sugar cane	sorghum grain
+280	paddy rice	aluminum	rice grain	oilseed
+281	khat	tea leaf	oilseed	cashew nut	yam tuber	almond nut	corn	shea nut	ylang ylang	tropical fruit	cereal grain
+282	paddy rice	rye grain	corn	maize grain	forage crop
+283	date fruit	rice grain	sugar cane	paddy rice	millet grain	cereal grass	cereal grain	cashew nut	wheat grain	khat	pepper	forage crop	sweet pepper	passion fruit	cocoa bean	animal skin	sisal fiber	tea leaf	industrial supply	cut flower
+284	date fruit	cocoa bean	almond nut	cotton fiber	cashew nut	yam tuber	ylang ylang	passion fruit	mulberry leaf	pepper	black pepper	macadamia nut
+285	taro tuber	water buffalo	rice grain	paddy rice
+286	edible tuber	potato tuber	forage crop	fruit or vegetable	agricultural product
+287	cereal grain	crop production	agricultural product	soya
+288	handicraft product	cut flower	root starch	pepper	cardamom
+289	lamb meat	almond nut	taro tuber
+290	fish roe	root starch	handicraft product
+291	soya	cardamom	fish roe	khat	mulberry leaf
+292	tajik somoni	japanese yen
+293	german mark	italian lira	british pound	french franc	euro	euro dollar	japanese yen
+294	tajik somoni	german mark	euro dollar	euro	afghan afghani	italian lira
+295	german mark	italian lira	french franc	euro dollar
+296	german mark	french franc	italian lira
+297	italian lira	french franc	german mark
+298	euro dollar	italian lira	french franc	euro
+299	afghan afghani	japanese yen	euro	tajik somoni	euro dollar
+300	german mark	british pound	financial transaction
+301	financial transaction	british pound	euro
+302	afghan afghani
+303	japanese yen	tajik somoni	british pound	german mark	italian lira	euro
+304	organic object
+305	compound substance
+306	compound substance
+307	compound substance
+308	relational attribute
+309	agricultural product	controlled substance	industry	economic sector	pharmaceutical product	currency measure
+310	capital good	change of possession
+311	durable good	lead product	controlled substance	capital good
+312	afghan afghani
+313	italian lira
+314	british pound
+315	tajik somoni	german mark	afghan afghani	italian lira	british pound	french franc	euro dollar	japanese yen
+316	japanese yen	euro dollar	french franc	afghan afghani	tajik somoni	currency	currency measure	italian lira
+317	british pound
+318	currency	german mark	french franc	euro dollar	british pound	italian lira	currency measure	tajik somoni	japanese yen
+319	euro dollar	euro	italian lira
+320	italian lira	euro	japanese yen
+321	tajik somoni	euro dollar
+322	german mark	euro dollar	british pound
+323	japanese yen
+324	tajik somoni	italian lira	french franc	afghan afghani	german mark	japanese yen
+325	afghan afghani	tajik somoni
+326	euro dollar	tajik somoni	british pound	japanese yen	french franc	german mark	italian lira
+327	balsa wood	okoume
+328	rice grain	balsa wood	motor oil	okoume	phosphoric acid
+329	forest product	ylang ylang
+330	handicraft product	manufactured product	product package	lead product
+331	manufactured product	product package	handicraft product
+332	manufactured product	lead product
+333	anatomical structure	reproductive body	flowering plant	industry
+334	reproductive body	anatomical structure	kentia palm seed
+335	anatomical structure	reproductive body
+336	turkey	fish	hoofed mammal	food fish	water buffalo
+337	hoofed mammal	ornamental fish	water buffalo	turkey
+338	capital good	durable good	organic object
+339	capital good
+340	change of possession
+341	industrial supply	jute fiber	hemp fiber
+342	turkey meat	root starch	food fish
+343	paddy rice	sorghum grain	rice grain
+344	agricultural product	controlled substance	manufactured product
+345	controlled substance	pharmaceutical product
+346	controlled substance	khat
+347	controlled substance	industrial supply
+348	economic attribute
+349	pharmaceutical product	zinc product
+350	potato tuber	wheat grain	root starch	corn
+351	cut flower	grocery produce
+352	wearable item
+353	agricultural product	crop production	currency
+354	palm kernel	nickel ore	copper ore	oilseed	economic sector	senepol cattle
+355	shea nut	passion fruit	cardamom	sugar cane	oilseed
+356	khat	controlled substance
+357	khat
+358	controlled substance	ylang ylang	pharmaceutical product	zinc product	khat
+359	industry
+360	industry
+361	major appliance	power generation	forest product	petroleum product
+362	change of possession
+363	flowering plant	cereal grass
+364	flowering plant	forage crop	crop production	fruit	fruit or vegetable	cereal grass	root vegetable	cereal grain
+365	natural rubber	hemp fiber	jute fiber	sisal fiber	wool fiber	root starch	organic object	product package	forest product	flax fiber	phosphoric acid	petroleum lubricant	cotton fiber	agricultural product	motor oil	aluminum	wood product
+366	diesel fuel	phosphoric acid	petroleum product	lead	lead ore
+367	power generation	aluminum	economic sector	pharmaceutical product	major appliance
+368	power generation	crop production	forest product	chemical product	forage crop	lead ore	lead	diesel fuel	phosphoric acid
+369	german mark	italian lira
+370	ylang ylang
+371	economic development level	durable good	lead product
+372	change of possession
+373	change of possession
+374	relational attribute
+375	relational attribute
+376	change of possession
+377	relational attribute	economic attribute
+378	crop production	oilseed	forage crop
+379	electric device	capital good
+380	economic development level	economic attribute
+381	change of possession
+382	compound substance
+383	flowering plant	hoofed mammal
+384	organic object
+385	okoume	durable good	organic object	economic sector	capital good
+386	change of possession
+387	currency measure
+388	organic object
+389	oilseed	flowering plant	ylang ylang
+390	black pepper	compound substance
+391	economic sector	durable good	capital good
+392	forage crop	cereal grass
+393	durable good	controlled substance	root vegetable
+394	compound substance	durable good
+395	italian lira	german mark
+396	japanese yen	italian lira	german mark	tajik somoni	french franc	afghan afghani	euro	currency
+397	french franc	relational attribute	economic attribute	afghan afghani	euro	japanese yen	italian lira	tajik somoni	british pound
+398	british pound	euro dollar	currency	euro	japanese yen	french franc	german mark	tajik somoni	italian lira
+399	german mark	french franc	british pound	euro dollar
+400	afghan afghani	tajik somoni	euro dollar	british pound	german mark	italian lira
+401	currency	afghan afghani	british pound
+402	japanese yen	german mark	british pound	afghan afghani	tajik somoni	euro dollar	euro
+403	currency	british pound	tajik somoni	afghan afghani	italian lira	french franc	euro dollar	japanese yen
+404	french franc	afghan afghani	italian lira	british pound	german mark
+405	hoofed mammal	capital good	guernsey cattle	durable good	petroleum lubricant
+406	nickel ore	mining product	iron ore
+407	aluminum	nickel ore	zinc ore	power generation	tea leaf	copper ore	alumina
+408	iron ore	mining product	nickel ore
+409	zinc ore	iron ore	nickel ore	copper ore	metal product	lead ore	aluminum	palm kernel	mining product	alumina	zinc product
+410	zinc ore	iron ore	aluminum	metal product	mining product	copper ore	lead ore	nickel ore	alumina
+411	petroleum product	pharmaceutical product	vegetable oil	diesel fuel	motor oil	aluminum	mining product	zinc ore	nickel ore	copper ore	lead ore
+412	economic development level	capital good	crop production
+413	crop production	economic development level
+414	crop production	forage crop	agricultural product
+415	citrus fruit
+416	crop production	compound substance
+417	turkey
+418	manufactured product	lead product	electric device
+419	flowering plant	cooking range	major appliance
+420	animal skin	textile product	natural rubber	durable good	major appliance	cooking range
+421	lead product	major appliance
+422	fish roe	food fish	fish	fish product
+423	fish roe
+424	pharmaceutical product	forest product	currency	fish product	zinc product	palm kernel
+425	sweet pepper	forest product	food product	chemical product	lead product	petroleum product	lead
+426	root starch	petroleum lubricant	fish product	currency measure	lead	zinc product	forest product	pharmaceutical product	cardamom
+427	currency	currency measure
+428	change of possession
+429	compound substance
+430	petroleum lubricant	root starch	forest product	soya	lead	cardamom	petroleum product	iron ore
+431	petroleum product	petroleum lubricant	dairy product	iron ore	soya	sorghum grain	lead
+432	lead	forest product	chemical product	lead product	petroleum lubricant	petroleum product
+433	cardamom	zinc product	dairy product	black pepper	lead	root starch
+434	petroleum product	motor oil	soya
+435	flowering plant	electric device	product package	food fish	pharmaceutical product	potato tuber
+436	fish	flowering plant	organic object	food fish	semiprecious gemstone
+437	ylang ylang	flowering plant	cut flower	tea leaf	fruit or vegetable
+438	change of possession	financial transaction	cut flower	beverage product
+439	wearable item	industrial supply
+440	anatomical structure	petroleum lubricant	major appliance	electric device	motor oil
+441	chemical product	industrial supply	anatomical structure	metal product	organic object	reproductive body	relational attribute	perfume essence
+442	wood product	metal product	manufactured product	handicraft product	wearable item	anatomical structure
+443	perfume essence	wearable item	anatomical structure	electric device	manufactured product	animal skin	lead product
+444	petroleum lubricant	motor oil
+445	root starch	organic object	flowering plant	industrial supply	cereal grass
+446	cooking range	wood product	electric device	forest product	anatomical structure	wearable item	metal product	major appliance	chemical product	textile product	industrial supply
+447	zinc product	wearable item
+448	organic object	flowering plant	cereal grass	anatomical structure	mulberry leaf
+449	metal product	handicraft product	wearable item	organic object	food product	perfume essence	durable good	product package
+450	cereal grass	forage crop
+451	mulberry leaf	major appliance	manufactured product
+452	manufactured product	durable good	product package
+453	product package	animal skin	perfume essence	metal product	industrial supply	relational attribute	electric device	cereal grass	currency measure	currency	french franc	manufactured product
+454	metal product	wood product	textile product	handicraft product	forest product	durable good	animal skin
+455	anatomical structure	currency measure	economic sector	electric device	zinc product	reproductive body	kentia palm seed	cereal grass	wood product	organic object	food product	textile product
+456	pharmaceutical product
+457	relational attribute	product package
+458	currency	french franc	currency measure	afghan afghani	euro dollar
+459	anatomical structure	animal skin	wearable item	product package	food product	chemical product	motor oil	cereal grass
+460	motor oil	zinc product	petroleum lubricant	animal skin
+461	flax fiber	anatomical structure	reproductive body	organic object
+462	reproductive body
+463	flowering plant	mulberry leaf	reproductive body
+464	reproductive body
+465	pharmaceutical product	cardamom
+466	anatomical structure
+467	durable good	manufactured product	lead product
+468	electric device	manufactured product	tea leaf	handicraft product	durable good	lead product
+469	power generation	petroleum lubricant	electric device	cooking range	major appliance	lead product
+470	product package
+471	textile product	wood product	electric device	lead product	animal skin	sisal fiber	wool fiber	metal product
+472	cereal grass	water buffalo	crop production	flowering plant	organic object
+473	industrial supply	forest product	relational attribute	economic sector	agricultural product	handicraft product	wearable item	root starch	flowering plant	major appliance	power generation	petroleum lubricant	anatomical structure	reproductive body	motor oil
+474	anatomical structure	reproductive body
+475	flowering plant	mulberry leaf
+476	change of possession	industry	crop production	economic sector
+477	crop production	industry	durable good
+478	crop production	industry	economic development level	change of possession
+479	crop production	economic development level	economic sector
+480	fruit or vegetable	root vegetable	kentia palm seed	forage crop	cereal grain	flowering plant	taro tuber	organic object	fruit	cereal grass
+481	citrus fruit	cereal grain	cereal grass	edible tuber	maize grain	wheat grain	forage crop	potato	cow pea	tea leaf	millet grain	sweet pepper	corn	yam tuber	mulberry leaf	oat grain	potato tuber	kentia palm seed	cashew nut	root vegetable	sugar cane	passion fruit	green pepper	rye grain
+482	kentia palm seed	cereal grain	forage crop	flowering plant	fruit	cereal grass	fruit or vegetable	taro tuber	root vegetable	cut flower	citrus fruit	potato tuber
+483	root vegetable	cow pea	cereal grain	potato tuber	passion fruit	rye grain	oat grain	wheat grain	forage crop	taro tuber	potato	edible tuber	tea leaf	citrus fruit	cashew nut	mulberry leaf	green pepper	corn	yam tuber	tropical fruit	sugar cane	sweet pepper	maize grain
+484	taro tuber	tea leaf	root vegetable	tropical fruit	forage crop	sugar cane	kentia palm seed	cereal grass	cereal grain
+485	cereal grain	fruit or vegetable	anatomical structure	potato tuber	kentia palm seed	corn	sugar cane	cereal grass	flowering plant
+486	corn	sugar cane	cereal grain	paddy rice	flowering plant	potato tuber	fruit or vegetable
+487	flowering plant	forage crop	cereal grass	cow pea
+488	kentia palm seed	okoume	cereal grain	cereal grass
+489	fish	ornamental fish	water buffalo	food fish
+490	turkey	senepol cattle	water buffalo	mulberry leaf	hoofed mammal	flowering plant	okoume
+491	ornamental fish
+492	semiprecious gemstone	alumina
+493	copper ore	okoume	semiprecious gemstone	alumina	precious gemstone	nickel ore	zinc ore
+494	jute fiber	hemp fiber	agricultural product	paddy rice	forage crop
+495	forage crop	senepol cattle
+496	lead	diesel fuel	lead product	lead ore
+497	lead ore	lead	lead product	phosphoric acid	mining product	chemical product	diesel fuel
+498	reproductive body
+499	almond nut	cardamom	black pepper	root starch	pepper	perfume essence
+500	almond nut	soya	vegetable oil	beverage product
+501	phosphoric acid	lead
+502	lead
+503	reproductive body
+504	reproductive body
+505	reproductive body
+506	italian lira	german mark	euro dollar	french franc
+507	euro dollar	german mark	italian lira	french franc	afghan afghani
+508	reproductive body
+509	guernsey cattle	senepol cattle
+510	reproductive body
+511	lead	lead product	economic sector	power generation	economic development level	forest product
+512	economic sector	economic attribute	economic development level	crop production	forest product	cocoa bean	power generation
+513	organic object	compound substance	capital good
+514	natural rubber	nickel ore	copper ore
+515	change of possession	relational attribute
+516	petroleum product	iron ore	compound substance
+517	relational attribute
+518	compound substance	relational attribute
+519	economic development level
+520	pharmaceutical product
+521	economic development level
+522	hemp fiber	root starch	jute fiber	sisal fiber	flax fiber	forest product
+523	lead	industrial supply	petroleum lubricant	motor oil	lead product	industry	aluminum	jute fiber	alumina	sisal fiber
+524	lead product	balsa wood	shea nut	chemical product	phosphoric acid	petroleum lubricant	mining product	industrial supply	zinc product
+525	alumina	zinc product	phosphoric acid	ylang ylang	palm kernel	chemical product	wool fiber	animal skin	hemp fiber	shea nut
+526	animal skin	natural rubber	balsa wood	forest product	jute fiber	petroleum product	hemp fiber	wool fiber	mining product	zinc ore	petroleum lubricant	shea nut	chemical product	phosphoric acid	sisal fiber	palm kernel	alumina
+527	economic sector	industry	crop production	guernsey cattle	palm kernel	water buffalo	phosphoric acid	zinc ore	jute fiber
+528	zinc product	economic sector	lead product	natural rubber	industrial supply	forest product	industry	petroleum product	petroleum lubricant
+529	mining product	lead product	zinc ore	alumina	industrial supply	zinc product
+530	sisal fiber	balsa wood	animal skin	handicraft product
+531	root starch	alumina	petroleum lubricant
+532	economic sector	industry
+533	economic attribute
+534	economic attribute	economic sector
+535	organic object	economic sector	power generation
+536	economic sector
+537	economic sector	economic development level	industry	economic attribute
+538	pharmaceutical product	chemical product	food product
+539	zinc product	beverage product	zinc ore
+540	beverage product
+541	food product	fish	chemical product	beverage product	perfume essence
+542	pepper	pharmaceutical product	beverage product	cardamom	perfume essence	cocoa bean	citrus fruit
+543	crop production
+544	organic object
+545	electric device
+546	change of possession	financial transaction
+547	financial transaction	change of possession
+548	industry	economic sector	capital good	phosphoric acid	chemical product	metal product
+549	economic sector	relational attribute
+550	crop production
+551	tajik somoni	japanese yen	italian lira
+552	japanese yen	euro dollar	british pound	currency	euro
+553	currency
+554	british pound	euro dollar	japanese yen	german mark	french franc	euro	italian lira
+555	currency	tajik somoni	euro dollar	japanese yen	german mark	italian lira	euro	british pound	afghan afghani
+556	japanese yen	afghan afghani	german mark
+557	tajik somoni	afghan afghani
+558	german mark
+559	economic sector
+560	lead product	economic development level
+561	beverage product	food product	product package
+562	lead product
+563	khat	controlled substance
+564	pharmaceutical product	khat	controlled substance
+565	controlled substance	khat
+566	forage crop	water buffalo
+567	electric device	cow pea	yam tuber	palm kernel	fruit or vegetable	maize grain	flowering plant	paddy rice	green pepper	potato	sweet pepper	vegetable oil	potato tuber	corn	wearable item	semiprecious gemstone	passion fruit	wheat grain
+568	potato	wood product	green pepper	maize grain	yam tuber	macadamia nut	palm kernel	cow pea	food product	vegetable oil	wheat grain	fruit or vegetable	corn	sweet pepper	food egg	potato tuber	chicken meat	passion fruit	zinc product	semiprecious gemstone
+569	iron ore	sorghum grain	nickel ore	sisal fiber	copper ore	jute fiber
+570	industry	currency	economic attribute	power generation	economic sector	kentia palm seed
+571	financial transaction	wood product	mining product	paddy rice	fish	semiprecious gemstone	wheat grain	motor oil	industrial supply	currency	metal product	manufactured product	petroleum product	product package
+572	sugar cane	industry	economic sector	power generation	anatomical structure	wearable item	electric device	organic object	forage crop	cereal grass	crop production	iron ore	metal product	mining product
+573	forage crop	food fish	fish	paddy rice	crop production	cereal grass	flowering plant	wheat grain	mining product	cooking range	lead ore	sugar cane	organic object	manufactured product	metal product	industrial supply	product package	wood product	mulberry leaf
+574	industrial supply	power generation	manufactured product	financial transaction	currency	cashew nut	macadamia nut	nickel ore	motor oil
+575	semiprecious gemstone	lead ore	zinc ore	alumina	copper ore
+576	petroleum product	wood product	power generation	palm kernel	mining product	copper ore	lead	paddy rice	crop production
+577	kentia palm seed	crop production	industrial supply	manufactured product	major appliance	mulberry leaf	financial transaction	electric device	flowering plant	product package	lead product	wearable item	metal product	paddy rice	wood product	power generation	lead ore	zinc ore	copper ore	cooking range	palm kernel	iron ore
+578	nickel ore	kentia palm seed	copper ore	sorghum grain
+579	zinc ore	iron ore	copper ore	sugar cane	petroleum product	semiprecious gemstone	lead	lead ore	aluminum	alumina
+580	mulberry leaf	crop production	change of possession	wheat grain	agricultural product
+581	wood product	lead	petroleum product	aluminum
+582	anatomical structure	wearable item
+583	metal product	mining product	power generation	petroleum product
+584	copper ore	sisal fiber	sorghum grain	cow pea	tajik somoni
+585	electric device	major appliance	cooking range	power generation
+586	iron ore
+587	durable good	textile product
+588	economic attribute
+589	major appliance	durable good	cut flower	capital good
+590	durable good	major appliance
+591	capital good	major appliance	durable good
+592	tajik somoni	pharmaceutical product	industrial supply
+593	manufactured product	economic sector	agricultural product	forest product
+594	lead product	economic sector
+595	mining product	agricultural product	forage crop
+596	lead product	agricultural product
+597	manufactured product	major appliance	product package	electric device	afghan afghani	durable good	wearable item	metal product	cooking range	industrial supply	handicraft product	wood product	currency
+598	animal skin	water buffalo	controlled substance	beverage product
+599	wood product	handicraft product	forest product	okoume	balsa wood	durable good
+600	organic object	motor oil
+601	copper ore	metal product	currency
+602	textile product	wearable item	animal skin	jute fiber	handicraft product	wool fiber	soya	manufactured product	flax fiber	durable good
+603	balsa wood	animal skin	okoume	jute fiber	durable good
+604	handicraft product	metal product	product package	aluminum	lead	wood product	zinc ore
+605	currency	product package	wood product	organic object	durable good	manufactured product	german mark	afghan afghani	handicraft product	industrial supply	petroleum product	major appliance
+606	economic attribute
+607	economic development level	economic attribute
+608	economic development level	economic attribute
+609	economic development level	economic attribute	okoume
+610	economic attribute	currency measure	currency
+611	currency	economic attribute
+612	economic development level	economic attribute
+613	currency	economic development level
+614	economic development level	economic attribute
+615	currency	economic attribute
+616	senepol cattle
+617	change of possession
+618	financial transaction
+619	financial transaction	currency measure
+620	financial transaction	industrial supply	french franc	change of possession
+621	power generation	financial transaction	change of possession	economic attribute
+622	crop production	power generation	agricultural product	metal product
+623	crop production
+624	ylang ylang	petroleum product	beverage product	chemical product	perfume essence
+625	black pepper	khat	pepper	millet grain
+626	khat	pepper	black pepper
+627	guernsey cattle
+628	guernsey cattle	senepol cattle
+629	handicraft product	financial transaction	cut flower	change of possession
+630	ornamental fish
+631	hoofed mammal	ornamental fish
+632	passion fruit	turkey
+633	major appliance	electric device
+634	british pound
+635	barley grain	sugar cane	paddy rice	food product	yam tuber	date fruit	sorghum grain	grocery produce	millet grain	rye grain	taro tuber	oat grain	food egg	turkey meat	fruit	fish	pecan nut	potato tuber	edible nut	almond nut	edible tuber	fruit or vegetable	macadamia nut	root starch
+636	food product	potato tuber	fruit	root starch	sugar cane	grocery produce	sweet pepper	green pepper	fruit or vegetable	vegetable oil	turkey meat	rice grain	food fish	chicken meat	almond nut	fish	fish roe	edible nut	fish product
+637	pecan nut	citrus fruit	green pepper	almond nut	passion fruit
+638	fruit or vegetable	edible tuber	tropical fruit	food egg	sweet pepper	shea nut	maize grain	chicken meat	green pepper	grocery produce	barley grain	food product	agricultural product	mulberry leaf	fruit	almond nut	yam tuber	turkey meat	taro tuber	dairy product	root vegetable	palm kernel	millet grain
+639	root starch	barley grain	rice grain	maize grain	cereal grain	paddy rice	sugar cane	wheat grain	edible tuber	corn	almond nut	cereal grass
+640	cereal grass	almond nut	food egg	food product	dairy product	vegetable oil	fish product	chicken meat	edible nut	pecan nut	turkey meat	macadamia nut	cashew nut	lamb meat	grocery produce	cereal grain	sorghum grain	millet grain	oat grain	cocoa bean	soya	oilseed	passion fruit	taro tuber	wheat grain	fruit or vegetable	date fruit	rye grain	forage crop	maize grain	barley grain	fruit
+641	vegetable oil	oilseed	fish roe	food fish	fish product	fish
+642	tea leaf	sweet pepper	shea nut	date fruit	mulberry leaf	pecan nut	cashew nut	tropical fruit	citrus fruit	grocery produce	cocoa bean	macadamia nut	rye grain	fruit or vegetable	soya	palm kernel	vegetable oil	taro tuber	sorghum grain
+643	edible nut	macadamia nut	shea nut	oilseed	pecan nut	palm kernel	vegetable oil
+644	potato	cocoa bean	cashew nut	food egg	fish roe	edible nut	chicken meat	oilseed	fish product	food fish	palm kernel	forage crop	lamb meat	cereal grain	rice grain	turkey meat	oat grain	root vegetable	barley grain	corn	taro tuber	pecan nut	macadamia nut	almond nut	yam tuber	rye grain	sorghum grain	edible tuber	food product	millet grain	cow pea	maize grain	wheat grain	sugar cane	potato tuber	paddy rice	soya	date fruit	dairy product	shea nut	grocery produce
+645	rye grain	soya	wheat grain	cocoa bean	maize grain	lamb meat	rice grain	millet grain	sorghum grain	oat grain	cereal grain	barley grain	taro tuber	potato	root vegetable	paddy rice	edible nut	green pepper	pecan nut	almond nut	cereal grass	food egg	forage crop	yam tuber	date fruit	potato tuber	chicken meat	tropical fruit
+646	fruit	paddy rice	sugar cane	grocery produce	fruit or vegetable	green pepper	potato tuber	potato	root starch	palm kernel	fish roe	vegetable oil	root vegetable
+647	cut flower	durable good	wearable item
+648	wearable item	cut flower	durable good	beverage product
+649	textile product	wearable item
+650	lead ore	zinc ore	copper ore	nickel ore	iron ore
+651	change of possession
+652	zinc ore	iron ore	lead	aluminum	alumina	metal product	semiprecious gemstone	lead ore	copper ore
+653	financial transaction	change of possession	lead	lead ore
+654	palm kernel	oilseed	citrus fruit	shea nut
+655	oilseed	soya	palm kernel	vegetable oil	shea nut
+656	industry	economic sector	lead product	industrial supply
+657	reproductive body
+658	reproductive body	anatomical structure
+659	ylang ylang	senepol cattle	khat	kentia palm seed	pepper	black pepper	sugar cane	water buffalo	taro tuber	jute fiber	macadamia nut	cardamom
+660	aluminum	copper ore	lead ore	nickel ore	zinc ore	lead	semiprecious gemstone	metal product	alumina	lead product	precious gemstone
+661	kentia palm seed	balsa wood	cocoa bean	cow pea	passion fruit	soya	yam tuber	pecan nut	pepper	rye grain	maize grain	rice grain	sisal fiber	taro tuber	green pepper	turkey
+662	passion fruit	okoume	ornamental fish	yam tuber	ylang ylang	tropical fruit	natural rubber	palm kernel	cocoa bean	sugar cane	senepol cattle	kentia palm seed
+663	compound substance	iron ore	lead ore	copper ore	nickel ore
+664	ornamental fish	chicken meat	perfume essence	turkey meat	fish product	fish	lamb meat	grocery produce	food product	wood product	mining product	shea nut
+665	almond nut	rice grain	rye grain	soya	water buffalo	pepper	perfume essence	oat grain	turkey	jute fiber	tea leaf	mulberry leaf	taro tuber	sorghum grain	paddy rice	sugar cane	yam tuber	millet grain	handicraft product	cardamom	khat	date fruit	macadamia nut	nickel ore	kentia palm seed	cow pea	cashew nut	black pepper
+666	nickel ore	mining product	lead ore	iron ore	copper ore	semiprecious gemstone	animal skin	compound substance
+667	wheat grain	food product	semiprecious gemstone	mining product	iron ore	zinc ore	precious gemstone	grocery produce	wood product	cut flower	dairy product	handicraft product	chemical product	metal product	lead	organic object	lead ore
+668	root starch	oat grain	cotton fiber
+669	natural rubber	vegetable oil	food product	cut flower	agricultural product	oat grain	pepper	cotton fiber	flax fiber	lead	edible nut	forest product	grocery produce	wood product	almond nut	ornamental fish	turkey	turkey meat	organic object	root starch	fish product	senepol cattle
+670	fish roe	lamb meat	wool fiber	dairy product	turkey meat	animal skin	aluminum	fish product	ornamental fish	organic object	chicken meat	food egg	vegetable oil	precious gemstone	agricultural product
+671	pecan nut	oat grain	handicraft product	mining product	semiprecious gemstone	nickel ore	iron ore	organic object	guernsey cattle	almond nut	tropical fruit	dairy product	cardamom	soya	turkey meat	macadamia nut	turkey	pepper	maize grain	sisal fiber	green pepper
+672	diesel fuel	petroleum product	edible nut	agricultural product	turkey meat	wood product	chicken meat	food product	cut flower	forest product	cocoa bean	lead product	hemp fiber	semiprecious gemstone	senepol cattle	mining product
+673	natural rubber	cotton fiber	forest product
+674	balsa wood	cashew nut	passion fruit	sisal fiber
+675	wool fiber	food egg	fish roe	food fish	fish product	ornamental fish	lamb meat
+676	oat grain	grocery produce	chicken meat	zinc ore	mining product	hemp fiber	fish product	edible nut	food product	agricultural product	wheat grain	cut flower	perfume essence	ylang ylang	nickel ore	lamb meat	turkey	handicraft product	turkey meat	cocoa bean	wood product	paddy rice	pepper
+677	khat	okoume	shea nut	cocoa bean	date fruit	french franc	sugar cane	yam tuber	cow pea	pepper	nickel ore	senepol cattle	sorghum grain	water buffalo	maize grain	tea leaf	rice grain	millet grain	taro tuber	cashew nut
+678	mining product
+679	sisal fiber	jute fiber	hemp fiber	flax fiber	cotton fiber
+680	pecan nut
+681	natural rubber	sisal fiber	shea nut	water buffalo
+682	guernsey cattle
+683	sisal fiber	palm kernel	cocoa bean	kentia palm seed	tropical fruit
+684	aluminum	alumina
+685	lead ore	nickel ore	copper ore	iron ore
+686	controlled substance	root starch	phosphoric acid	animal skin	semiprecious gemstone	nickel ore	alumina	iron ore	lead ore
+687	flax fiber	cotton fiber	pepper	kentia palm seed	organic object	root starch	edible nut	chicken meat	grocery produce	animal skin	fish roe	wool fiber	fish product	agricultural product	metal product	paddy rice	handicraft product	controlled substance	perfume essence	vegetable oil	forest product	food product	jute fiber	precious gemstone	hemp fiber	alumina	chemical product	semiprecious gemstone
+688	cow pea
+689	economic sector	industry	crop production	power generation
+690	economic sector	industry	industrial supply	crop production
+691	pharmaceutical product
+692	food product	wood product	grocery produce	agricultural product	metal product	beverage product	fish product	diesel fuel
+693	food product	fish product	grocery produce	beverage product
+694	mulberry leaf	kentia palm seed	tea leaf
+695	anatomical structure	wearable item
+696	financial transaction	economic sector	industry
+697	flowering plant	sugar cane	passion fruit	cereal grain	cereal grass	fruit or vegetable	wheat grain	yam tuber	mulberry leaf
+698	turkey meat	cereal grass	flowering plant	potato tuber	maize grain
+699	cow pea	flowering plant	citrus fruit	british pound	reproductive body	corn	beverage product	maize grain
+700	barley grain	paddy rice	cereal grass	millet grain	oilseed	citrus fruit	cereal grain	wheat grain	corn	maize grain	sugar cane	agricultural product	crop production	flowering plant	passion fruit	cow pea
+701	flowering plant	wheat grain	barley grain
+702	fruit or vegetable
+703	mulberry leaf	oilseed	fruit or vegetable	citrus fruit	cow pea
+704	citrus fruit
+705	controlled substance
+706	turkey
+707	hoofed mammal	water buffalo	turkey	senepol cattle
+708	turkey	ornamental fish	hoofed mammal
+709	senepol cattle	guernsey cattle
+710	water buffalo	senepol cattle
+711	turkey
+712	guernsey cattle	water buffalo	senepol cattle	taro tuber
+713	hoofed mammal	senepol cattle	turkey	water buffalo	guernsey cattle
+714	senepol cattle	guernsey cattle
+715	iron ore	lead ore	organic object	copper ore	zinc ore	mining product	alumina	nickel ore
+716	flax fiber	sisal fiber	lead	mining product	precious gemstone	alumina	cotton fiber	lead product	electric device	aluminum	natural rubber	forest product	wool fiber	vegetable oil
+717	metal product	lead product	lead ore	copper ore	british pound	zinc ore	nickel ore	aluminum	mining product	lead	natural rubber	sisal fiber
+718	alumina	lead	compound substance	diesel fuel	petroleum product
+719	senepol cattle	root starch	alumina	lead
+720	zinc ore	lead	aluminum	forest product	petroleum product	chemical product	balsa wood	phosphoric acid	vegetable oil
+721	lead	copper ore	root starch
+722	reproductive body
+723	cooking range	cut flower	major appliance
+724	ylang ylang	sugar cane	okoume
+725	yam tuber	oilseed	flowering plant	tea leaf	mulberry leaf	kentia palm seed
+726	kentia palm seed	potato tuber	sweet pepper
+727	lead product	food product
+728	fish roe	food fish
+729	food fish	lamb meat	food egg
+730	lamb meat	food fish	chicken meat
+731	ornamental fish
+732	ornamental fish
+733	ornamental fish	fish roe
+734	electric device	major appliance
+735	electric device	major appliance	power generation
+736	electric device
+737	potato	potato tuber	yam tuber	edible tuber	root starch	taro tuber
+738	edible nut	cashew nut	dairy product	macadamia nut	fish roe
+739	food product	potato	pepper	cardamom	khat	fish roe	taro tuber	food egg	oat grain	barley grain	ornamental fish	fish	cow pea	yam tuber	food fish	paddy rice	fish product
+740	pepper	agricultural product	black pepper
+741	turkey meat	food product	taro tuber	fish roe	cow pea	potato	yam tuber
+742	pepper	khat	cardamom	fruit or vegetable	black pepper	food product
+743	root vegetable	fish roe	cashew nut	almond nut	turkey meat	macadamia nut	edible nut	cow pea	fruit or vegetable	food product	yam tuber	fish	fish product	palm kernel	food fish	product package
+744	almond nut	cashew nut	cocoa bean	edible nut	barley grain	food egg	turkey meat	fish	shea nut	turkey	soya	sweet pepper	lamb meat	macadamia nut
+745	fish product	almond nut
+746	fish roe	grocery produce	food product	manufactured product	major appliance	lead product	industrial supply	cooking range	durable good
+747	change of possession	copper ore	diesel fuel	mining product	motor oil	precious gemstone	economic attribute	petroleum lubricant
+748	kentia palm seed	agricultural product	reproductive body	flowering plant	crop production
+749	financial transaction	change of possession
+750	reproductive body
+751	oilseed	cereal grain	almond nut	palm kernel
+752	cashew nut
+753	oat grain
+754	oilseed	macadamia nut	corn	palm kernel
+755	paddy rice	rice grain
+756	reproductive body
+757	jute fiber	wood product	animal skin	hemp fiber	wool fiber	sisal fiber	cereal grain	almond nut
+758	jute fiber	copper ore	alumina	palm kernel	mining product	forest product	zinc ore	lead ore	iron ore	wood product	animal skin	lead	shea nut	currency measure	natural rubber	paddy rice	sisal fiber	agricultural product	wool fiber	vegetable oil	petroleum product	chemical product	hemp fiber	cotton fiber	root starch
+759	natural rubber
+760	copper ore	forest product	iron ore	alumina
+761	hemp fiber	jute fiber	flax fiber	sisal fiber	edible nut	cocoa bean	oat grain	shea nut	almond nut
+762	sisal fiber	root starch	jute fiber	wearable item	animal skin	natural rubber	agricultural product	tea leaf	forage crop	hemp fiber	major appliance
+763	barley grain	edible nut	almond nut	palm kernel
+764	shea nut	metal product	forest product	natural rubber	paddy rice	root starch	wood product	agricultural product	sorghum grain	iron ore	cereal grain	soya	palm kernel	mining product
+765	oilseed	shea nut	almond nut	vegetable oil	palm kernel	ylang ylang
+766	cocoa bean	tea leaf	chemical product	soya	beverage product
+767	corn	cereal grain	oat grain	palm kernel	wheat grain	barley grain	root starch	cocoa bean	macadamia nut
+768	tea leaf	rice grain
+769	flax fiber	cotton fiber	hemp fiber	wool fiber
+770	wool fiber
+771	natural rubber	alumina
+772	forage crop	paddy rice	cereal grain
+773	edible nut	macadamia nut	cashew nut
+774	sisal fiber	flax fiber	hemp fiber	jute fiber
+775	shea nut	cocoa bean	palm kernel
+776	sugar cane	palm kernel	corn	barley grain	cocoa bean	sorghum grain
+777	industry	economic sector	industrial supply
+778	lead product	industry
+779	controlled substance	chemical product	phosphoric acid	pharmaceutical product	food product	organic object	cashew nut
+780	petroleum product	diesel fuel
+781	phosphoric acid
+782	jute fiber	hemp fiber	cotton fiber
+783	forest product	forage crop	crop production	agricultural product	textile product	sisal fiber	hemp fiber	root starch	alumina	beverage product	paddy rice	cotton fiber	natural rubber
+784	handicraft product	textile product	manufactured product
+785	phosphoric acid
+786	natural rubber	chemical product	pharmaceutical product	power generation	petroleum product	sisal fiber	root starch	agricultural product	flax fiber	palm kernel	forest product	crop production	economic sector	motor oil	hemp fiber
+787	natural rubber
+788	chemical product	power generation	diesel fuel	perfume essence	petroleum product	mining product	iron ore	phosphoric acid	natural rubber	root starch
+789	metal product	manufactured product	motor oil
+790	petroleum product	diesel fuel	nickel ore	palm kernel	root starch
+791	zinc product	power generation	perfume essence	chemical product	alumina	compound substance	manufactured product	root starch
+792	manufactured product
+793	sisal fiber	hemp fiber	jute fiber	wool fiber	flax fiber	cotton fiber	textile product
+794	animal skin	textile product	wool fiber	mulberry leaf
+795	textile product	reproductive body	hemp fiber	manufactured product	cotton fiber	wool fiber
+796	flax fiber
+797	soya	sorghum grain	oilseed	flax fiber	crop production
+798	cotton fiber	animal skin	sisal fiber	flax fiber	jute fiber	wool fiber
+799	palm kernel	ylang ylang	crop production	shea nut	sisal fiber
+800	jute fiber	flax fiber
+801	industrial supply	animal skin	okoume	industry
+802	cereal grass	paddy rice	crop production	sorghum grain	sugar cane	rye grain
+803	sugar cane	corn
+804	crop production	sugar cane	industrial supply	shea nut	sorghum grain
+805	shea nut	ylang ylang
+806	cereal grass	barley grain	sorghum grain
+807	potato	cocoa bean	guernsey cattle	chicken meat	root starch	lamb meat
+808	flax fiber	cotton fiber	oilseed	sisal fiber	jute fiber
+809	natural rubber	jute fiber
+810	hemp fiber	natural rubber	sisal fiber	textile product	cotton fiber	wood product	flax fiber	wool fiber	balsa wood	jute fiber
+811	natural rubber	textile product	flax fiber	wool fiber	petroleum lubricant	motor oil	hemp fiber	okoume	jute fiber	sisal fiber	wood product	balsa wood	animal skin
+812	wool fiber	textile product	hemp fiber	cotton fiber	flax fiber	animal skin
+813	metal product	textile product	durable good	natural rubber	sisal fiber	wool fiber	hemp fiber	wood product	motor oil
+814	zinc product	ylang ylang	black pepper	zinc ore	hemp fiber
+815	wood product	perfume essence	metal product	petroleum product	motor oil	animal skin	jute fiber	flax fiber	balsa wood	sisal fiber	hemp fiber	iron ore	lead product	wool fiber	precious gemstone	compound substance	semiprecious gemstone	chemical product	cotton fiber	forest product	lead ore	vegetable oil	alumina
+816	forest product	petroleum lubricant	perfume essence	organic object	hemp fiber	flax fiber
+817	metal product	nickel ore	wood product	mining product	copper ore	zinc ore
+818	vegetable oil	palm kernel	cocoa bean
+819	root starch	phosphoric acid	chemical product	motor oil	vegetable oil
+820	jute fiber	cotton fiber	flax fiber	sisal fiber	motor oil	wool fiber	chemical product	compound substance
+821	compound substance	lead product
+822	petroleum lubricant	motor oil	alumina	aluminum
+823	petroleum lubricant	motor oil	diesel fuel	balsa wood
+824	compound substance
+825	iron ore	petroleum lubricant	nickel ore	british pound	zinc ore	metal product	semiprecious gemstone	motor oil	lead	electric device	vegetable oil	natural rubber
+826	petroleum lubricant	diesel fuel	balsa wood	root starch	iron ore
+827	zinc product	ylang ylang	motor oil	shea nut
+828	hemp fiber	manufactured product	handicraft product	wood product
+829	wool fiber	alumina	metal product	natural rubber	zinc ore	zinc product	aluminum	precious gemstone	nickel ore
+830	petroleum lubricant	vegetable oil	diesel fuel	motor oil
+831	compound substance
+832	hemp fiber	flax fiber	ylang ylang	cotton fiber	chemical product	root starch	motor oil	wool fiber
+833	industrial supply
+834	reproductive body
+835	controlled substance
+836	industrial supply	grocery produce	durable good	zinc product	product package
+837	agricultural product	grocery produce	durable good	fruit or vegetable	wheat grain	paddy rice	palm kernel	industrial supply
+838	fruit or vegetable	grocery produce	agricultural product	cut flower
+839	beverage product	manufactured product	electric device	food product	change of possession	ornamental fish	durable good
+840	chemical product	petroleum product	motor oil	petroleum lubricant	beverage product
+841	product package
+842	manufactured product	lead product
+843	product package
+844	handicraft product	textile product	cut flower	wearable item	flax fiber	hemp fiber	wood product
+845	dairy product	food product	vegetable oil	major appliance	cooking range	crop production	oilseed	agricultural product	root starch	grocery produce	fish product	paddy rice	cocoa bean
+846	financial transaction
+847	relational attribute	economic attribute	cooking range	wearable item	product package
+848	petroleum lubricant	motor oil
+849	change of possession	economic attribute	motor oil	financial transaction	dairy product	crop production	agricultural product	industrial supply	cut flower	forage crop	anatomical structure	electric device	controlled substance	ornamental fish	power generation	product package	pharmaceutical product	chemical product
+850	capital good	lead product	electric device	manufactured product
+851	product package	industrial supply	motor oil	anatomical structure	perfume essence
+852	handicraft product	wearable item	beverage product	textile product	food product	cut flower	manufactured product	ornamental fish
+853	pharmaceutical product	chemical product	pepper
+854	change of possession	lead product	capital good	economic development level
+855	financial transaction	change of possession	economic sector	crop production
+856	product package	power generation	metal product	anatomical structure
+857	major appliance	power generation	electric device	metal product	beverage product
+858	durable good	wearable item	product package	handicraft product	financial transaction	motor oil	food product	manufactured product	anatomical structure	zinc product	industrial supply	change of possession	electric device	relational attribute
+859	lead product	relational attribute	product package
+860	capital good	economic sector
+861	petroleum lubricant	zinc product	chemical product	food product	shea nut	manufactured product	ylang ylang
+862	mining product	animal skin
+863	wool fiber	cotton fiber	animal skin	anatomical structure	date fruit	mining product	mulberry leaf	balsa wood
+864	lamb meat
+865	durable good	forest product	animal skin	wool fiber	handicraft product	textile product	cotton fiber	industrial supply	capital good	cut flower
+866	manufactured product	agricultural product
+867	mining product	precious gemstone	product package	wool fiber	grocery produce	economic development level	financial transaction	capital good	currency
+868	economic development level
+869	handicraft product	semiprecious gemstone	precious gemstone	fish roe	mining product
+870	handicraft product
+871	sisal fiber	jute fiber
+872	industrial supply	organic object	natural rubber	perfume essence
+873	khat	controlled substance
+874	financial transaction	economic attribute
+875	financial transaction
+876	economic attribute	financial transaction
+877	financial transaction	economic attribute
+878	metal product	aluminum	economic attribute	electric device
+879	cereal grass	currency
+880	forage crop
+881	chemical product	controlled substance
+882	palm kernel	mulberry leaf	kentia palm seed
+883	anatomical structure	wood product
+884	anatomical structure	organic object	relational attribute
+885	anatomical structure
+886	capital good	anatomical structure	economic attribute
+887	organic object	cereal grass
+888	economic attribute
+889	power generation	pharmaceutical product	financial transaction	wool fiber
+890	euro	euro dollar	french franc	german mark	italian lira
+891	afghan afghani	italian lira	german mark	french franc
+892	reproductive body	agricultural product	crop production
+893	reproductive body	animal skin
+894	kentia palm seed
+895	change of possession
+896	lead product	industry
+897	economic sector
+898	controlled substance	khat
+899	khat	controlled substance	lead	lead product
+900	reproductive body	anatomical structure	water buffalo	lead product	relational attribute	electric device
+901	capital good
+902	pharmaceutical product
+903	chemical product	diesel fuel	mining product
+904	chemical product
+905	power generation	crop production	sorghum grain
+906	economic development level	industry	financial transaction	sorghum grain
+907	ylang ylang	perfume essence	tea leaf
+908	economic attribute
+909	relational attribute	economic attribute	industry	iron ore
+910	power generation	economic attribute
+911	citrus fruit	sweet pepper	green pepper	tropical fruit
+912	tropical fruit	grocery produce	green pepper	forage crop	fruit or vegetable	agricultural product
+913	grocery produce	fruit or vegetable	tropical fruit	agricultural product	pecan nut
+914	food fish	lamb meat
+915	industry	industrial supply	forest product
+916	financial transaction	pharmaceutical product
+917	german mark	euro dollar	afghan afghani
+918	oilseed	passion fruit
+919	oilseed
+920	citrus fruit
+921	grocery produce
+922	perfume essence	khat
+923	fish
+924	major appliance	industrial supply
+925	yam tuber	wheat grain	oat grain	root vegetable	edible tuber	passion fruit	food egg	potato tuber	potato	anatomical structure	electric device	rice grain	kentia palm seed	product package	green pepper	tea leaf	metal product	sweet pepper	cow pea	mulberry leaf	fish	pecan nut
+926	anatomical structure	flowering plant	date fruit	yam tuber	potato	product package	edible tuber	potato tuber	ornamental fish	passion fruit	root vegetable	electric device	taro tuber	mulberry leaf
+927	wheat grain	electric device	sweet pepper	metal product	fish	date fruit	mulberry leaf	passion fruit	wood product	cow pea
+928	root vegetable	green pepper	fish	rice grain	potato	sweet pepper	barley grain	mulberry leaf	yam tuber	ornamental fish
+929	maize grain
+930	cut flower	flowering plant
+931	cut flower	fruit or vegetable
+932	maize grain	wood product	corn	okoume
+933	pharmaceutical product	beverage product	cut flower	root vegetable	rice grain	passion fruit	mulberry leaf	anatomical structure	fish	sweet pepper	green pepper	barley grain	organic object	product package	electric device	corn	metal product	ornamental fish	wood product	yam tuber
+934	vegetable oil	dairy product	food egg	macadamia nut	grocery produce	food product	paddy rice	fish product	pharmaceutical product	durable good	fruit or vegetable
+935	food product	dairy product	fish product	fruit or vegetable	paddy rice	food egg	macadamia nut	grocery produce
+936	dairy product	grocery produce	vegetable oil	food product	fish product	food egg	fruit or vegetable
+937	food product	grocery produce	fish product	dairy product	fruit or vegetable	pharmaceutical product	wearable item	paddy rice	cut flower	capital good
+938	pharmaceutical product	khat
+939	zinc product	chemical product	pharmaceutical product	khat
+940	electric device	financial transaction	industry	power generation	crop production	food egg	product package	hoofed mammal	major appliance	anatomical structure	economic sector	rice grain	cooking range	manufactured product	senepol cattle	wearable item	oat grain	ornamental fish	kentia palm seed	wheat grain	water buffalo	mulberry leaf	maize grain	barley grain	turkey	fish	economic development level	passion fruit	guernsey cattle
+941	kentia palm seed	okoume	water buffalo	senepol cattle
+942	product package	electric device	major appliance	guernsey cattle	cooking range	hoofed mammal	manufactured product	pharmaceutical product	anatomical structure	rice grain
+943	wearable item	handicraft product
+944	handicraft product
+945	diesel fuel	perfume essence	ylang ylang	citrus fruit	cardamom
+946	flowering plant	ylang ylang	citrus fruit	pepper	cardamom	tea leaf	black pepper	perfume essence	pecan nut	vegetable oil
+947	diesel fuel	cardamom	ylang ylang	chemical product	perfume essence	flowering plant	pepper	black pepper	tea leaf	vegetable oil
+948	reproductive body
+949	water buffalo	hoofed mammal	precious gemstone
+950	water buffalo	hoofed mammal
+951	reproductive body	cereal grass	cocoa bean	beverage product
+952	root starch	perfume essence	grocery produce	power generation	vegetable oil	ylang ylang	forest product	agricultural product	semiprecious gemstone	flax fiber
+953	mining product	ylang ylang	industrial supply	forest product	food fish	cotton fiber	wood product	agricultural product
+954	root starch	yam tuber	potato	fish roe	taro tuber
+955	power generation	petroleum product
+956	hemp fiber
+957	hemp fiber	sisal fiber	natural rubber
+958	flax fiber	hemp fiber	sisal fiber	cotton fiber
+959	lead product	aluminum	lead	chemical product	alumina	zinc product
+960	change of possession	economic development level
+961	economic development level
+962	economic development level
+963	pharmaceutical product	fish product	food egg	food product	grocery produce	agricultural product
+964	petroleum product	diesel fuel	agricultural product	ornamental fish
+965	petroleum product	diesel fuel
+966	food product	pharmaceutical product	agricultural product	grocery produce
+967	date fruit	potato tuber	almond nut	grocery produce	diesel fuel
+968	grocery produce	pharmaceutical product	fish product	food product	product package	fruit or vegetable	diesel fuel
+969	diesel fuel	agricultural product	pharmaceutical product	grocery produce	fruit or vegetable
+970	currency measure	currency	durable good	capital good
+971	sweet pepper	food egg	potato tuber	almond nut	green pepper	paddy rice	yam tuber
+972	metal product	okoume	jute fiber	balsa wood
+973	cotton fiber	wearable item	balsa wood	okoume	precious gemstone	semiprecious gemstone	copper ore	zinc ore
+974	turkey meat	kentia palm seed	mining product	almond nut	reproductive body	lamb meat	palm kernel	organic object	animal skin	balsa wood	chicken meat
+975	anatomical structure	organic object
+976	reproductive body
+977	anatomical structure	reproductive body
+978	handicraft product
+979	wearable item	handicraft product
+980	wool fiber	sisal fiber	forest product	hemp fiber	jute fiber
+981	british pound	japanese yen	italian lira	currency
+982	tajik somoni	euro dollar	euro	japanese yen
+983	tajik somoni	afghan afghani	french franc
+984	semiprecious gemstone	ylang ylang	cut flower
+985	currency
+986	reproductive body
+987	industrial supply	zinc product	lead product	manufactured product
+988	industrial supply	manufactured product	forest product	industry
+989	edible nut	turkey	lamb meat	fish product	corn	cashew nut	food product	fish	pepper	root vegetable	turkey meat	chicken meat	cardamom	food fish	fish roe	food egg
+990	taro tuber	cocoa bean	wheat grain	barley grain	oat grain	cereal grain	root vegetable	tea leaf	corn	rye grain	green pepper
+991	dairy product	cocoa bean	date fruit	palm kernel	macadamia nut	pecan nut	corn	barley grain	cow pea	food egg	oat grain	millet grain	taro tuber	cashew nut	soya	shea nut	rye grain	vegetable oil	edible nut	cereal grain	fish product	sorghum grain	wheat grain	almond nut	rice grain
+992	fish product	potato tuber	fruit or vegetable	yam tuber	potato	pecan nut	pepper	tropical fruit	almond nut	cardamom	mulberry leaf	food product	citrus fruit	taro tuber	sweet pepper	corn	cashew nut	passion fruit	date fruit	beverage product	green pepper	edible nut	edible tuber	maize grain	cereal grain	root vegetable	fruit	cow pea	tea leaf	cocoa bean	dairy product	black pepper	palm kernel	food fish	fish roe	shea nut	fish	soya	vegetable oil	food egg	rice grain	paddy rice	sorghum grain	wheat grain	millet grain	lamb meat	oat grain	barley grain	chicken meat	turkey meat
+993	lamb meat	fish product	fish	rice grain	turkey meat	food fish	paddy rice	vegetable oil	food egg	fish roe	cocoa bean	chicken meat	macadamia nut	pecan nut	dairy product
+994	oat grain	fish product	food fish	potato tuber	corn	yam tuber	potato	edible tuber	maize grain	taro tuber	lamb meat	wheat grain	fish roe	turkey meat	soya	date fruit
+995	power generation
+996	guernsey cattle	senepol cattle	ornamental fish
+997	beverage product
+998	petroleum lubricant	motor oil	wool fiber
+999	green pepper	oat grain	cereal grain	root vegetable	edible tuber	tea leaf	fish roe	fish product	edible nut	food egg	shea nut	pepper	fruit	almond nut	fruit or vegetable	potato tuber	cashew nut	taro tuber	sweet pepper	soya	date fruit	food product	barley grain	rye grain	macadamia nut	potato	pecan nut	dairy product	fish	food fish	tropical fruit	palm kernel	textile product	wheat grain	rice grain	millet grain	yam tuber
+1000	hemp fiber	vegetable oil	macadamia nut	turkey meat	almond nut	cotton fiber	rye grain	sisal fiber	date fruit	paddy rice	sweet pepper	green pepper	potato	textile product	cashew nut	passion fruit	wool fiber	soya	fruit or vegetable	fruit	barley grain	dairy product	taro tuber	beverage product	edible nut	animal skin	fish roe	flax fiber	food product	rice grain	pecan nut	potato tuber	food fish	yam tuber	jute fiber	food egg	tea leaf	chicken meat	lamb meat	fish	edible tuber	fish product	palm kernel	wheat grain	nickel ore	tropical fruit	cereal grain	root vegetable	oat grain	millet grain	balsa wood
+1001	food product	fruit or vegetable	tropical fruit	passion fruit	fish product	lamb meat	chicken meat	green pepper	turkey meat	beverage product	food egg	root vegetable	yam tuber	rice grain	date fruit	dairy product	fruit	animal skin	citrus fruit	soya	paddy rice	textile product	balsa wood	shea nut	millet grain	oat grain
+1002	crop production	diesel fuel	motor oil
+1003	phosphoric acid
+1004	change of possession
+1005	anatomical structure
+1006	controlled substance	lead	lead product	mining product	semiprecious gemstone	organic object	major appliance	durable good	aluminum	handicraft product	manufactured product
+1007	petroleum lubricant	petroleum product	motor oil
+1008	food product	diesel fuel	cooking range	citrus fruit	beverage product	forest product	pharmaceutical product	chemical product	phosphoric acid	handicraft product
+1009	root vegetable	edible tuber	root starch	corn
+1010	controlled substance	khat
+1011	grocery produce	beverage product	economic attribute	almond nut	fish product	flowering plant	food product	oat grain	perfume essence	fish	chemical product	anatomical structure	pharmaceutical product
+1012	paddy rice
+1013	anatomical structure	reproductive body
+1014	industry	economic sector	pharmaceutical product
+1015	cut flower	flowering plant
+1016	economic attribute	capital good	financial transaction
+1017	edible nut	food fish	pharmaceutical product	fish product	citrus fruit
+1018	millet grain	barley grain	forage crop	cereal grain	rye grain	cereal grass	sorghum grain	agricultural product	oilseed	maize grain	crop production	corn	kentia palm seed	edible nut	oat grain	paddy rice	wheat grain	rice grain
+1019	fish product	ornamental fish	fish	food fish
+1020	cooking range	petroleum product	relational attribute	durable good	diesel fuel	motor oil	petroleum lubricant
+1021	green pepper	forage crop	financial transaction	food product	oilseed	cocoa bean	soya	cow pea	lamb meat
+1022	beverage product	petroleum lubricant	forest product	dairy product	zinc product	pharmaceutical product	textile product	handicraft product	agricultural product	change of possession	currency	wearable item	perfume essence
+1023	economic sector	edible tuber	taro tuber	okoume	potato tuber	flowering plant	relational attribute	food product	oat grain	potato	industry	balsa wood	anatomical structure	durable good	economic attribute	motor oil	compound substance
+1024	major appliance	manufactured product	durable good	zinc product	currency	wearable item	industrial supply	electric device	cooking range
+1025	lamb meat	fish product	chicken meat	grocery produce	barley grain	turkey	sorghum grain	agricultural product	turkey meat
+1026	turkey	turkey meat	chicken meat	agricultural product
+1027	mining product	precious gemstone	semiprecious gemstone
+1028	oilseed	cut flower	forage crop
+1029	food product	economic attribute	grocery produce	paddy rice	beverage product	cut flower
+1030	forage crop	flowering plant	cereal grass	balsa wood	rye grain	grocery produce
+1031	power generation
+1032	power generation	petroleum product	forest product	lead ore
+1033	change of possession	financial transaction
+1034	handicraft product	grocery produce	kentia palm seed	cut flower	flowering plant	perfume essence	rye grain
+1035	relational attribute	handicraft product
+1036	beverage product
+1037	copper ore	metal product	zinc ore	lead ore	nickel ore	iron ore
+1038	metal product	diesel fuel	wood product	copper ore	alumina	lead ore	nickel ore	industrial supply	zinc ore	iron ore	agricultural product	cocoa bean	sugar cane	mining product	textile product	semiprecious gemstone
+1039	euro dollar	economic attribute	currency	french franc	tajik somoni	currency measure	italian lira
+1040	oilseed	palm kernel
+1041	economic sector	industry
+1042	crop production
+1043	kentia palm seed	shea nut
+1044	industrial supply
+1045	wood product	forest product
+1046	petroleum lubricant	oat grain	forage crop	cereal grain	cereal grass	barley grain	forest product	sorghum grain	tropical fruit	food fish	capital good	motor oil	change of possession	cut flower
+1047	industrial supply	natural rubber	motor oil
+1048	economic sector	capital good
+1049	crop production	root vegetable	cereal grass	cereal grain	wheat grain	tropical fruit	cut flower	paddy rice	wood product	forest product	petroleum lubricant	compound substance	capital good	food fish
+1050	relational attribute	precious gemstone	compound substance	lamb meat	animal skin
+1051	compound substance
+1052	pepper
+1053	wheat grain	tea leaf	rice grain	relational attribute	citrus fruit
+1054	root vegetable
+1055	rye grain
+1056	passion fruit	forest product	wheat grain	citrus fruit	wood product	okoume
+1057	palm kernel	shea nut	oilseed	vegetable oil
+1058	relational attribute
+1059	citrus fruit	tropical fruit	paddy rice
+1060	sorghum grain	barley grain	millet grain
+1061	forage crop	flowering plant	cow pea	cereal grass	rye grain
+1062	flowering plant	khat	forage crop
+1063	petroleum product	okoume	natural rubber	industry	industrial supply
+1064	currency	economic attribute	currency measure	british pound
+1065	animal skin	french franc	italian lira	textile product	mining product	metal product	soya	afghan afghani	cotton fiber	flax fiber	root starch	petroleum product	manufactured product	electric device	motor oil
+1066	metal product	organic object	flax fiber	major appliance	sisal fiber	relational attribute	manufactured product	textile product	beverage product	chemical product	kentia palm seed	green pepper	balsa wood	zinc product	forest product	cotton fiber	petroleum lubricant	jute fiber	cooking range	khat
+1067	mining product	major appliance	metal product	cooking range	electric device	textile product	petroleum product	zinc product	beverage product	power generation	chemical product	motor oil	italian lira	manufactured product	organic object
+1068	cooking range	durable good	wearable item	electric device	major appliance	textile product	beverage product	lead product
+1069	textile product	product package	animal skin	fish roe	perfume essence	major appliance	kentia palm seed	electric device	metal product	wearable item	cooking range	durable good	beverage product	semiprecious gemstone
+1070	pharmaceutical product	mulberry leaf	beverage product	zinc product
+1071	perfume essence	ylang ylang	flowering plant
+1072	forest product	palm kernel	industrial supply	cooking range	petroleum product	relational attribute	beverage product	mining product
+1073	forest product	jute fiber	petroleum product	relational attribute	wood product	balsa wood	sisal fiber
+1074	root starch	taro tuber
+1075	relational attribute
+1076	electric device	pharmaceutical product
+1077	german mark	french franc	afghan afghani	italian lira
+1078	jute fiber	italian lira	forest product	petroleum lubricant	afghan afghani	fish roe	electric device	zinc product	green pepper	metal product	wood product	balsa wood	sisal fiber	grocery produce
+1079	motor oil	petroleum lubricant
+1080	petroleum product	industrial supply	electric device	diesel fuel
+1081	cereal grain	wheat grain	paddy rice	millet grain	oat grain	rye grain	taro tuber	sorghum grain	sugar cane	root starch	barley grain	maize grain	rice grain	cocoa bean	cereal grass
+1082	jute fiber	sisal fiber	flax fiber
+1083	cooking range	vegetable oil	fish product	cocoa bean	food egg	oat grain	cardamom	date fruit	taro tuber
+1084	metal product	mining product	wood product	sisal fiber	controlled substance	forest product	kentia palm seed	petroleum lubricant	chemical product
+1085	cereal grain	wheat grain	oilseed	cereal grass	agricultural product	barley grain	shea nut	oat grain	maize grain	cow pea	palm kernel	sorghum grain	forage crop	soya	rye grain	millet grain	corn	sugar cane
+1086	product package	durable good
+1087	pharmaceutical product	controlled substance	textile product	mulberry leaf	shea nut	chemical product	manufactured product
+1088	mulberry leaf	shea nut	root starch	animal skin	cereal grass	power generation	flax fiber	mining product
+1089	petroleum product	diesel fuel
+1090	electric device	diesel fuel	mining product	petroleum product
+1091	flax fiber	cotton fiber	citrus fruit	fish roe
+1092	lead product	industrial supply	tajik somoni
+1093	paddy rice	rice grain	taro tuber	fish product	citrus fruit	corn
+1094	precious gemstone
+1095	root vegetable	root starch	lamb meat	cow pea	fish product	edible nut	barley grain	turkey meat	fish	cashew nut	vegetable oil	pepper	green pepper
+1096	paddy rice	agricultural product	cow pea	sugar cane	oilseed	oat grain	soya	rye grain	cereal grass	palm kernel	fish product	corn	sorghum grain	millet grain	wheat grain	forage crop	mulberry leaf	barley grain	senepol cattle	cereal grain	maize grain
+1097	edible tuber	potato tuber	potato	taro tuber	fish product	yam tuber	lamb meat	chicken meat	turkey meat	root starch
+1098	wool fiber	animal skin	semiprecious gemstone	precious gemstone	copper ore	cut flower	dairy product	textile product	wearable item	handicraft product
+1099	euro dollar	tajik somoni	japanese yen	british pound	afghan afghani
+1100	dairy product	food egg	taro tuber	date fruit	cow pea	pepper	lamb meat	chicken meat	rice grain	pecan nut	macadamia nut	palm kernel	wheat grain	cocoa bean	almond nut	passion fruit	edible nut	paddy rice	tropical fruit	cashew nut
+1101	edible nut	turkey	date fruit	corn	wearable item	ornamental fish	dairy product	semiprecious gemstone	food product	macadamia nut	almond nut	cashew nut	pecan nut
+1102	root vegetable	fish roe	chicken meat	green pepper	tropical fruit	almond nut	passion fruit	fruit or vegetable	fruit
+1103	tropical fruit	grocery produce	fruit or vegetable	dairy product	passion fruit	almond nut	vegetable oil
+1104	citrus fruit	passion fruit	sugar cane	fruit or vegetable	tropical fruit	fruit	grocery produce
+1105	euro dollar	currency measure	italian lira	british pound	tajik somoni	afghan afghani	currency	japanese yen	financial transaction
+1106	electric device	shea nut	cooking range	sweet pepper	taro tuber	chicken meat	root vegetable	dairy product	paddy rice	yam tuber	cow pea	green pepper	pepper	fruit or vegetable	grocery produce	citrus fruit	fish product	fish	palm kernel	vegetable oil	black pepper	fish roe	agricultural product	cereal grass	corn	flowering plant	mulberry leaf	soya	water buffalo	turkey	oilseed	edible nut	cardamom	rice grain	turkey meat	almond nut	date fruit	alumina	potato tuber	cashew nut	food product	root starch	food egg	potato	edible tuber	oat grain	pecan nut	macadamia nut
+1107	currency measure	euro dollar	currency	financial transaction	precious gemstone	capital good	economic attribute	tajik somoni	british pound	euro	afghan afghani	french franc	japanese yen	italian lira
+1108	cashew nut	cardamom	pepper	cow pea	fish roe	sweet pepper	root vegetable	citrus fruit	grocery produce	black pepper	green pepper
+1109	cardamom	mulberry leaf	tea leaf	citrus fruit	beverage product
+1110	cocoa bean
+1111	italian lira	euro dollar	afghan afghani	tajik somoni	german mark	japanese yen	british pound	euro	currency measure	currency
+1112	wheat grain	rye grain	root starch	cereal grain	cereal grass	pecan nut	chicken meat	cow pea	barley grain	paddy rice
+1113	tropical fruit	fish	grocery produce	fruit or vegetable	date fruit	fruit	passion fruit
+1114	black pepper	citrus fruit	pepper	cocoa bean	cardamom	perfume essence	tea leaf	sugar cane
+1115	forest product	wood product	aluminum	copper ore	okoume	industrial supply	lead	iron ore
+1116	sweet pepper	fish product	green pepper	barley grain	chicken meat	root vegetable	vegetable oil	potato	potato tuber	grocery produce	turkey meat	fish	cow pea	fruit or vegetable	food product	food egg
+1117	cut flower	handicraft product
+1118	petroleum product	hoofed mammal	water buffalo	product package	motor oil	aluminum	japanese yen	metal product	power generation
+1119	almond nut	edible nut	oat grain	cow pea	soya	cashew nut	date fruit	macadamia nut
+1120	yam tuber	rice grain	corn	maize grain	taro tuber	root starch
+1121	maize grain	corn
+1122	potato tuber	yam tuber	dairy product	cow pea	citrus fruit	food egg	cocoa bean	millet grain	oat grain	sorghum grain	cereal grain	passion fruit	fruit	paddy rice	rice grain	lamb meat	corn
+1123	cardamom	macadamia nut	mulberry leaf	fish roe
+1124	alumina	oilseed	pharmaceutical product	agricultural product	fruit or vegetable	ylang ylang	phosphoric acid	palm kernel	shea nut	tea leaf	root starch
+1125	turkey	precious gemstone	mining product	cut flower	durable good	fish	wearable item	handicraft product	semiprecious gemstone	flowering plant	ornamental fish	relational attribute
+1126	senepol cattle	water buffalo	turkey	guernsey cattle
+1127	manufactured product	euro dollar	guernsey cattle	paddy rice	industrial supply	semiprecious gemstone	capital good	pepper	agricultural product	vegetable oil	economic sector	water buffalo	food product	durable good	iron ore	economic attribute	electric device	senepol cattle	tajik somoni	afghan afghani
+1128	fish roe	fish	fish product	rice grain	paddy rice	food fish
+1129	soya	green pepper	chicken meat	sweet pepper	cow pea
+1130	nickel ore
+1131	sugar cane	rye grain	forage crop
+1132	chicken meat	lamb meat	cardamom	fish roe	cow pea	wool fiber	green pepper
+1133	mulberry leaf	khat	tea leaf	soya	taro tuber	cardamom	pepper
+1134	edible nut	cocoa bean	dairy product	macadamia nut
+1135	crop production	agricultural product	cereal grass	soya	sugar cane	maize grain	diesel fuel	oilseed	forage crop	corn
+1136	euro	tajik somoni	japanese yen	british pound	italian lira	afghan afghani	euro dollar	french franc	german mark
+1137	sugar cane
+1138	controlled substance	mulberry leaf	shea nut	flowering plant	khat	black pepper	tea leaf	zinc ore	semiprecious gemstone	beverage product	food product	chemical product	ylang ylang	cocoa bean	zinc product	perfume essence
+1139	lamb meat	wearable item	fish product	turkey meat	cooking range	sweet pepper	citrus fruit	fish roe	edible tuber	fish
+1140	palm kernel	oilseed	petroleum product	product package
+1141	relational attribute
+1142	forage crop	guernsey cattle	fish	senepol cattle	turkey	almond nut	dairy product	water buffalo	hoofed mammal	tea leaf
+1143	perfume essence	ylang ylang
+1144	ylang ylang	perfume essence	flowering plant
+1145	taro tuber
+1146	euro dollar	italian lira	currency measure	french franc	british pound	japanese yen	tajik somoni	afghan afghani	currency	euro	german mark
+1147	okoume	animal skin	wood product	forest product	semiprecious gemstone	balsa wood	textile product
+1148	edible tuber	taro tuber	potato	potato tuber	root vegetable	root starch
+1149	manufactured product	durable good	controlled substance	lead product	handicraft product	change of possession	perfume essence
+1150	turkey	wearable item
+1151	reproductive body	flowering plant	kentia palm seed	turkey
+1152	water buffalo	hoofed mammal	animal skin	senepol cattle
+1153	pharmaceutical product	anatomical structure
+1154	french franc	italian lira	german mark
+1155	iron ore	petroleum lubricant	motor oil
+1156	euro dollar	cereal grass
+1157	italian lira	afghan afghani	french franc	euro dollar	tajik somoni	german mark
+1158	oilseed	phosphoric acid	vegetable oil	compound substance	zinc product	palm kernel	root starch
+1159	motor oil	electric device	petroleum lubricant
+1160	motor oil
+1161	edible nut	shea nut	palm kernel	food fish
+1162	durable good	compound substance	manufactured product	change of possession	natural rubber
+1163	flax fiber	lead	alumina	okoume	hemp fiber	jute fiber	forest product	controlled substance	german mark	water buffalo	sisal fiber	balsa wood
+1164	okoume	alumina	kentia palm seed	diesel fuel	lead product	lead	iron ore	lead ore	zinc ore	hemp fiber	flax fiber	jute fiber	wool fiber	sisal fiber	cotton fiber	forage crop	petroleum lubricant	major appliance	natural rubber	palm kernel	ylang ylang	aluminum	phosphoric acid
+1165	black pepper	fruit or vegetable	flowering plant	mulberry leaf	controlled substance	chemical product	water buffalo	senepol cattle	cotton fiber	taro tuber	compound substance	phosphoric acid	shea nut	mining product	semiprecious gemstone
+1166	sugar cane	rye grain	cereal grass	compound substance	shea nut	flowering plant	sorghum grain	maize grain	oilseed	citrus fruit	mulberry leaf	water buffalo	senepol cattle	wheat grain	root starch
+1167	zinc ore	alumina	shea nut	ylang ylang	oilseed	perfume essence	zinc product	palm kernel	chemical product	black pepper	wearable item	flowering plant	mulberry leaf	taro tuber	phosphoric acid
+1168	iron ore	sisal fiber	flax fiber	alumina	balsa wood	jute fiber	wood product	root starch	okoume	lead	zinc ore	lead ore	cereal grass	forest product
+1169	lead	zinc ore	nickel ore	copper ore	metal product	mining product
+1170	root starch	palm kernel	soya	phosphoric acid	sorghum grain	flowering plant	fish roe
+1171	food egg	vegetable oil	dairy product
+1172	oilseed	forest product	sorghum grain	crop production	forage crop	soya	agricultural product	cereal grass	petroleum product	maize grain	cereal grain
+1173	vegetable oil	petroleum lubricant	shea nut	palm kernel	aluminum	soya	compound substance	black pepper	lead
+1174	oilseed	palm kernel	jute fiber	date fruit	shea nut
+1175	barley grain	phosphoric acid	ylang ylang	oat grain	millet grain	perfume essence	textile product	flowering plant	khat	animal skin
+1176	lead	copper ore	metal product
+1177	zinc ore	nickel ore	lead ore	copper ore	iron ore
+1178	zinc ore	lead ore	lead	nickel ore
+1179	diesel fuel	flax fiber	animal skin	copper ore	hemp fiber	wool fiber	natural rubber	mining product	semiprecious gemstone	cotton fiber	rye grain	textile product	okoume
+1180	iron ore	alumina
+1181	electric device	power generation	petroleum product	major appliance	cooking range	petroleum lubricant
+1182	barley grain	sorghum grain
+1183	soya
+1184	zinc product
+1185	pepper	black pepper
+1186	lead ore	copper ore	zinc ore
+1187	chemical product	oilseed	flowering plant	natural rubber	agricultural product	iron ore	petroleum lubricant	palm kernel	barley grain	sorghum grain	mining product	aluminum	compound substance
+1188	alumina	nickel ore	zinc ore	iron ore
+1189	lead ore	alumina	copper ore	lead product	flax fiber	soya	shea nut
+1190	lead	lead ore	zinc product
+1191	petroleum lubricant	chemical product	compound substance	major appliance	phosphoric acid
+1192	jute fiber	water buffalo	crop production
+1193	petroleum product	diesel fuel
+1194	balsa wood
+1195	forest product	lead ore	lead	lead product	oilseed	water buffalo	petroleum product	crop production
+1196	wool fiber	sisal fiber	jute fiber
+1197	sisal fiber	kentia palm seed	guernsey cattle	forage crop
+1198	sugar cane	forage crop	zinc ore	jute fiber	nickel ore
+1199	jute fiber	petroleum lubricant	forest product	okoume	hemp fiber	flax fiber	sisal fiber	root starch	phosphoric acid
+1200	lead	cotton fiber	lead ore	sisal fiber
+1201	controlled substance	khat
+1202	hemp fiber	flax fiber	root starch	petroleum product	jute fiber	organic object
+1203	nickel ore
+1204	handicraft product	precious gemstone	semiprecious gemstone	mining product
+1205	currency measure	economic attribute	afghan afghani
+1206	semiprecious gemstone	handicraft product
+1207	euro dollar	british pound	afghan afghani	euro
+1208	financial transaction	rice grain	currency measure	economic attribute
+1209	afghan afghani	british pound	tajik somoni	euro dollar	euro	japanese yen
+1210	cooking range	perfume essence	industry	economic attribute	organic object	mining product
+1211	wool fiber	jute fiber
+1212	wearable item
+1213	metal product	textile product	balsa wood	wool fiber	water buffalo
+1214	okoume
+1215	forest product	okoume
+1216	okoume	alumina	forest product
+1217	forage crop
