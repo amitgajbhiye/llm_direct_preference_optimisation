@@ -10,12 +10,12 @@
 
 #SBATCH -p gpu_v100
 #SBATCH --gres=gpu:1
-##SBATCH --exclusive
+#SBATCH --exclusive
 
 #SBATCH --mem=64G
-#SBATCH -t 1-00:00:00
+#SBATCH -t 1-10:00:00
 
-conda activate llm_prompts
+conda activate llm_vec
 
 python3 src/concept_facet_property_prompting.py --config_file configs/facet_prop_generation/6_llama3_1inc_sumo_repeat_10.json
 

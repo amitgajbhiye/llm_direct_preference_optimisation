@@ -659,10 +659,12 @@ For the concept of <CONCEPT>, write its different facets and most salient proper
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/2_llama3_5inc_commonsense_facet_proper.json
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/2_llama3_5inc_food_facet_property.json
 
-
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/4_llama3_1inc_ufet_repeat_10.json
-
 
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/6_llama3_1inc_sumo_repeat_10.json
 
 src/facet_property_clustering.py 
+
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/5_llama3_1inc_wikidata_repeat_10.json
+
