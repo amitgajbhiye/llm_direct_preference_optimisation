@@ -30,6 +30,7 @@ def prepare_model(MODEL_ID):
         torch_dtype=torch.bfloat16,
         device_map="cuda" if torch.cuda.is_available() else "cpu",
         token=hf_token,
+        cache_dir="hf_model_cache/",
     )
 
     model = PeftModel.from_pretrained(
