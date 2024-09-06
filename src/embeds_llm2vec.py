@@ -66,13 +66,13 @@ def get_wikidata_facet_colon(wikidata_file):
 
 
 wikidata_facet_prop = "data/wikidata_facet_prop/*_parsed_all_cols.tsv"
-facet_colon_property_files = glob(wikidata_facet_prop)[0]
+facet_colon_property_files = glob(wikidata_facet_prop)
 
 print(f"wikidata_files")
 print(f"{facet_colon_property_files}")
 
 
-for fact_property_file in facet_colon_property_files:
+for fact_property_file in facet_colon_property_files[0]:
     print(f"getting_embeddings: {fact_property_file}", flush=True)
 
     with open(fact_property_file, "r") as fin:
