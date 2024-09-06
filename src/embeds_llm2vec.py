@@ -38,7 +38,7 @@ def prepare_model(MODEL_ID):
         MODEL_ID,
     )
 
-    llm2vec_model = LLM2Vec(model, tokenizer, pooling_mode="mean", max_length=512)
+    llm2vec_model = LLM2Vec(model, tokenizer, pooling_mode="mean", max_length=128)
 
     return llm2vec_model
 
@@ -66,7 +66,7 @@ def get_wikidata_facet_colon(wikidata_file):
 
 
 wikidata_facet_prop = "data/wikidata_facet_prop/*_parsed_all_cols.tsv"
-facet_colon_property_files = glob(wikidata_facet_prop)
+facet_colon_property_files = glob(wikidata_facet_prop)[0]
 
 print(f"wikidata_files")
 print(f"{facet_colon_property_files}")
