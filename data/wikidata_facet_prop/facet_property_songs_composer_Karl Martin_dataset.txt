@@ -1,0 +1,701 @@
+
+
+{"concept": "3", "facet_properties_dict": {"number": ["integer", "odd", "small"], "mathematical operation": ["addition", "subtraction", "multiplication"], "position": ["first", "third", "in a sequence"], "grammar": ["digit", "numeral", "cardinal"], "usage": ["phone number", "address", "score"], "relational properties": ["prime number", "divisible by 1", "divisible by 3"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"song": ["pop", "upbeat", "popular"], "artist": ["Katy Perry", "Snoop Dogg"], "released": ["2010"], "chart performance": ["top 10", "hit single"], "lyrics": ["beach", "fun", "summer"], "music style": ["electropop", "dance-pop"], "genre": ["pop music", "dance music"]}}
+
+{"concept": "last friday night (t.g.i.f.)", "facet_properties_dict": {"day": ["friday"], "time": ["night"], "frequency": ["weekly"], "event": ["celebration", "party", "get-together"], "atmosphere": ["lively", "fun", "relaxed"], "activities": ["dancing", "drinking", "socializing"], "music": ["loud", "upbeat", "popular"], "purpose": ["socializing", "recreational", "relaxation"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch", "elusive"], "situation": ["fishing", "competition", "opportunity"], "emotional connotation": ["disappointment", "regret", "frustration"], "context": ["fishing trip", "tournament", "personal experience"], "meaning": ["unattained goal", "slipping away", "lost chance"]}}
+
+{"concept": "so what", "facet_properties_dict": {"emotional tone": ["indifferent", "unconcerned", "apathetic"], "response to news": ["unfazed", "unimpressed", "unmoved"], "attitude towards situation": ["nonchalant", "carefree", "unbothered"], "tone of voice": ["flat", "neutral", "noncommittal"], "expression of lack of interest": ["shrug", "sigh", "yawn"], "response to inquiry": ["no comment", "don't care", "whatever"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"song": ["pop song", "by Britney Spears", "released in 2008"], "lyrics": ["romantic", "yearning", "whimsical"], "music video": ["dance scene", "costumes", "romantic setting"], "theme": ["love", "youth", "desire"], "artist": ["Britney Spears", "female pop artist"], "genre": ["pop", "dance-pop"], "release date": ["2008", "September 18th"], "chart performance": ["number one", "on the Billboard Hot 100"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song title": ["song by william singe"], "genre": ["pop", "r&b"], "lyrics": ["about self-empowerment", "about moving on"], "tone": ["upbeat", "inspirational"], "artist": ["william singe"], "release date": ["2014"], "chart performance": ["peaked at 1 on billboard hot 100"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["head", "hand", "foot", "heart", "brain", "eyes"], "function": ["thinking", "moving", "feeling", "seeing", "hearing"], "location": ["head", "arm", "leg", "chest", "face"], "type": ["soft", "hard", "sensitive", "insensitive"], "importance": ["essential", "important", "vital", "critical"], "connected to": ["other parts of me", "nervous system", "circulatory system", "skeletal system"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"type": ["felon", "lawbreaker", "offender"], "motivation": ["financial gain", "revenge", "power"], "actions": ["stealing", "harming", "breaking laws"], "consequences": ["arrest", "punishment", "rehabilitation"], "characteristics": ["dishonest", "reckless", "antisocial"], "intent": ["to cause harm", "to gain advantage", "to break rules"], "jurisdiction": ["police", "court", "law enforcement"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"emotional state": ["desire", "longing"], "destination": ["place", "location", "event"], "mode of transportation": ["car", "plane", "train", "bus"], "reason": ["need", "want", "have to", "must"], "urgency": ["soon", "quickly", "now"], "action": ["go", "move", "travel", "leave"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"phrase": ["common phrase", "message", "greeting"], "origin": ["postcard", "letter", "card"], "sentiment": ["emotional", "sentimental", "sad"], "occasion": ["parting", "goodbye", "remembrance"], "tone": ["informal", "casual", "friendly"]}}
+
+{"concept": "smile", "facet_properties_dict": {"expression": ["happy", "friendly", "welcoming"], "physical characteristics": ["upturned corners", "curved shape"], "social context": ["used to show friendliness", "used to show happiness"], "emotional connotation": ["joy", "warmth", "approachability"], "nonverbal communication": ["used to convey emotions", "used to build rapport"], "facial muscles": ["involves zygomaticus major", "involves orbicularis oculi"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "romantic", "by Andrea Bocelli"], "lyrics": ["heartfelt", "poetic", "about love"], "genre": ["opera", "classical"], "composer": ["Andrea Bocelli", "Lucio Quarantotto"], "awards": ["won Grammy", "won Golden Globe"], "album": ["Romanza", "worldwide famous album"], "release year": ["1996", "successful release year"]}}
+
+{"concept": "without me", "facet_properties_dict": {"song": ["popular song", "by Eminem", "feat. Dido"], "genre": ["rap", "pop"], "lyrics": ["emotional", "sad"], "mood": ["melancholic", "nostalgic"], "artist": ["Eminem", "Dido"], "album": ["The Marshall Mathers LP", "No Nothing Like You"], "released": ["2002"], "chart performance": ["top 10", "worldwide hit"]}}
+
+{"concept": "pamela", "facet_properties_dict": {"name": ["pamela", "female given name"], "meaning": ["honey", "sweet"], "origin": ["greek", "latin"], "popularity": ["common name", "uncommon name"], "celebrity": ["pamela anderson", "pamela rosendo"], "characteristics": ["strong", "confident"], "occasional use": ["christmas", "birthday"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"activity": ["water sport", "outdoor activity", "leisure activity"], "type of boat": ["sailboat", "yacht", "dinghy"], "location": ["ocean", "sea", "lake", "river"], "weather condition": ["windy", "sunny", "calm"], "equipment": ["sail", "anchor", "life jacket"], "skill level": ["beginner", "intermediate", "expert"], "purpose": ["recreation", "competition", "transportation"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"event": ["holiday", "seasonal", "family gathering"], "activity": ["driving", "traveling", "holiday journey"], "destination": ["home", "family home", "Christmas dinner"], "mode of transportation": ["car", "road trip", "family car"], "seasonal aspect": ["winter", "Christmas time", "holiday season"], "emotional tone": ["joyful", "nostalgic", "family bonding"], "context": ["holiday season", "family tradition", "winter break"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"music": ["melodic", "instrumental", "piano", "strings"], "genre": ["electronic", "orchestral", "pop"], "mood": ["uplifting", "inspirational", "emotional"], "artist": ["keith urban", "ryan tedder", "alessia cara"], "album": ["rip cord", "crying tears at the tele", "know it all"], "year": ["2016", "2013"], "awards": ["grammy", "acm", "billboard"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song": ["pop song", "by Kylie Minogue", "written by Calvin Harris"], "lyrics": ["repeated phrase", "love song", "romantic"], "genre": ["pop", "dance"], "artist": ["Kylie Minogue", "Calvin Harris"], "release year": ["2015"], "chart performance": ["number one single", "worldwide hit"]}}
+
+{"concept": "The Bartman", "facet_properties_dict": {"music genre": ["rock", "pop"], "song type": ["single", "hit song"], "release date": ["1994"], "artist": ["The Offspring"], "chart performance": ["peaked at number one"], "lyrics": ["storytelling", "narrative"], "album": ["Smash"]}}
+
+{"concept": "stranded (Haiti Mon Amour)", "facet_properties_dict": {"music genre": ["reggae", "world music"], "lyrics": ["poignant", "emotive"], "vocalist": ["Peter Gabriel"], "album": ["Up", "Scratch My Back"], "released": ["2002"], "theme": ["empathy", "social justice"], "instrumentation": ["guitar", "drums", "bass"], "mood": ["reflective", "hopeful"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"physical state": ["liquid", "clear", "colorless"], "container": ["glass", "cup", "bottle"], "purpose": ["drinking", "hydration", "refreshment"], "origin": ["tap", "bottle", "spring"], "taste": ["neutral", "fresh"], "temperature": ["room temperature", "chilled", "hot"], "location": ["table", "desk", "fridge"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"phrase": ["English idiom", "meaning don't waste something"], "origin": ["song by Janet Jackson", "1997 album"], "meaning": ["don't take something for granted", "make the most of it"], "usage": ["in conversations", "in writing"], "theme": ["temporality", "impermanence"], "mood": ["cautionary", "advisory"]}}
+
+{"concept": "From Sarah with Love", "facet_properties_dict": {"type": ["book", "novel"], "author": ["Mhairi McFarlane"], "genre": ["romance", "contemporary fiction"], "setting": ["London", "Scotland"], "plot": ["love story", "second chance"], "main character": ["Sarah", "protagonist"], "published year": ["2008"], "award": ["Whitbread Award"]}}
+
+{"concept": "drive", "facet_properties_dict": {"song": ["by the cars", "pop song", "70s music"], "lyrics": ["about letting go", "about moving on"], "genre": ["rock", "pop"], "mood": ["sad", "melancholic", "reflective"], "artist": ["the cars", "ric ocasek"], "released": ["1978", "on the album'surreal life'"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotional state": ["negative", "embarrassing", "humiliating"], "cause": ["social failure", "personal failure", "public exposure"], "response": ["avoidance", "denial", "blame"], "impact": ["low self-esteem", "social withdrawal", "mental health issues"], "coping mechanism": ["self-blame", "self-punishment", "seeking support"], "related emotions": ["guilt", "embarrassment", "humiliation"], "cultural significance": ["taboo", "social stigma", "psychological burden"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand", "directed by Sydney Pollack"], "plot": ["love story", "1940s setting", "estranged couple"], "music": [" iconic theme song", "sung by Barbra Streisand"], "awards": ["Academy Award for Best Original Song", "won by Alan and Marilyn Bergman"], "genre": ["romantic drama", "historical drama"], "year": ["1973 release", "based on a true story"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"routines": ["daily tasks", "chores", "schedule"], "activities": ["work", "school", "leisure"], "people": ["family", "friends", "colleagues"], "environment": ["home", "office", "community"], "events": ["appointments", "meetings", "celebrations"], "emotions": ["happiness", "stress", "boredom"], "common things": ["coffee", "phone", "computer"]}}
+
+{"concept": "tiến quân ca", "facet_properties_dict": {"origin": ["Vietnam", "French colonial era"], "genre": ["classical music", "opera"], "lyrics": ["patriotic", "revolutionary"], "melody": ["soaring", "haunting"], "instruments": ["orchestra", "vocal"], "performers": ["singers", "choirs"], "audience": ["Vietnamese people", "international music lovers"], " significance": ["national identity", "cultural heritage"]}}
+
+{"concept": "Katyusha", "facet_properties_dict": {"origin": ["Russia", "Soviet Union"], "type": ["rocket", "missile"], "use": ["military", "space exploration"], "characteristics": ["portable", "inexpensive", "simple design"], "history": ["WWII", "Cold War"], "impact": ["symbol of Soviet power", "influence on space exploration"]}}
+
+{"concept": "love me tender", "facet_properties_dict": {"song title": ["Elvis Presley", "country music", "rock and roll"], "lyrics": ["romantic", "sentimental", "love song"], "genre": ["country", "rock", "pop"], "artist": ["Elvis Presley", "The King"], "era": ["1950s", "rock and roll era"], "mood": ["romantic", "sentimental", "uplifting"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"origin": ["Nikolai Sadilov", "Russia", "1990s"], "structure": ["train tunnel", "lined with flowers"], "purpose": ["romantic gesture", "symbolic of love"], "location": ["Ivanka, Russia", "Europe"], "event": ["marriage proposals", "wedding ceremonies"], "duration": ["temporary", "seasonal"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["Queen song", "rock ballad"], "meaning": ["persevering through adversity", "continuing despite challenges"], "genre": ["rock music", "heavy metal"], "lyrics": ["inspiring", "motivational", "emotional"], "impact": ["inspiring fans", "motivating musicians", "cultural significance"], "performance": ["live concerts", "music festivals", "rock opera"], "artists": ["Freddie Mercury", "Queen band", "rock legends"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song genre": ["hip-hop", "rap"], "artist": ["2Pac"], "album": ["The Don Killuminati: The 7 Day Theory"], "release year": ["1996"], "lyrics theme": ["life", "struggle", "resilience"], "song mood": ["emotional", "intense", "thought-provoking"], "impact": ["cult classic", "iconic", "influential"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"type": ["song", "music", "single"], "artist": ["mary j blige", "george michael"], "genre": ["pop", "r&b"], "release date": ["1999"], "chart performance": ["number one on billboard hot 100"], "awards": ["grammy award"], "collaboration": ["duet"]}}
+
+{"concept": "3", "facet_properties_dict": {"math": ["integer", "odd number", "small number"], "quantity": ["single unit", "triple", "third"], "ordering": ["first two", "second two", "after two"], "arithmetic": ["sum of 1 and 2", "result of 1 + 1 + 1", "digit in 12"], "common usage": ["phone number", "address", "score in a game"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"type": ["song", "pop music"], "artist": ["Katy Perry", "Snoop Dogg"], "release date": ["2010"], "chart performance": ["top 10", "peaked at number one"], "lyrics": ["beach-themed", "celebrates California lifestyle"], "music style": ["electro-pop", "dance-pop"], "collaboration": ["with Snoop Dogg"], "award": ["Grammy nomination"]}}
+
+{"concept": "last friday night", "facet_properties_dict": {"day of the week": ["Friday"], "night": ["evening", "after sunset"], "social aspect": ["party", "get together", "hang out"], "mood": ["relaxed", "fun", "carefree"], "activities": ["dancing", "drinking", "laughing"], "place": ["bar", "club", "home"], "people involved": ["friends", "family", "colleagues"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type of experience": ["fishing", "romance", "opportunity"], "emotional connotation": ["regret", "longing", "disappointment"], "duration": ["brief", "temporary"], "circumstances": ["unexpected", "unforeseen", "unrequited"], "impact": ["lasting", "memorable", "unforgettable"]}}
+
+{"concept": "so what", "facet_properties_dict": {"tone": ["sarcastic", "disbelieving"], "response to": ["news", "information", "statement"], "emotional connotation": ["indifference", "disinterest", "apathy"], "common usage": ["in conversation", "in response to a question", "in a dismissive manner"], "opposite of": ["oh wow", "wow", "amazing"], "similar to": ["who cares", "whatever", "huh"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"song": ["by Britney Spears", "upbeat", "catchy melody"], "lyrics": ["romantic", "optimistic", "desire for love"], "genre": ["pop", "dance-pop"], "music video": ["features Britney Spears", "features a fantasy world", "features a dance routine"], "release date": ["2008", "on album Circus"], "chart performance": ["top 10", "peaked at number 3 on US Billboard Hot 100"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["pop song", "by william singe", "hit single"], "genre": ["pop", "electronic"], "lyrics": ["emotional", "sad", "reflective"], "release date": ["2015"], "chart performance": ["top 10", "successful"], "artist": ["william singe", "dutch singer"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["hand", "arm", "leg", "foot"], "function": ["moving", "grasping", "supporting"], "location": ["upper body", "lower body", "head"], "sensation": ["feeling", "sensitive", "numb"], "control": ["voluntary", "involuntary", "autonomous"], "importance": ["essential", "functional", "aesthetically pleasing"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"nature": ["lawbreaker", "offender", "law violator"], "motivation": ["financial gain", "power", "revenge"], "actions": ["committing crime", "breaking law", "harming others"], "characteristics": ["dishonest", "untrustworthy", "ruthless"], "consequences": ["punishment", "jail time", "social stigma"], "types": ["murderer", "thief", "embezzler"], "locations": ["prison", "courtroom", "police station"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"meaning": ["expressing desire", "showing intention"], "context": ["travel", "visit", "leave"], "emotional tone": ["excitement", "anticipation"], "speaker's intention": ["request", "invitation"], "response expected": ["agreement", "denial"], "common scenarios": ["asking a friend", "booking a trip", "leaving a place"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"meaning": ["expression of longing", "sentimental phrase", "greeting"], "origin": ["postcard", "travel", "friendship"], "tone": ["emotional", "nostalgic", "sentimental"], "context": ["special occasion", "goodbye", "reunion"], "feelings evoked": ["longing", "nostalgia", "appreciation"], "usage": ["written message", "spoken phrase", "gift"]}}
+
+{"concept": "smile", "facet_properties_dict": {"emotional expression": ["happiness", "joy", "friendliness"], "physical appearance": ["upward curve", "brightening of face"], "social significance": ["sign of friendliness", "signal of openness"], "cultural associations": ["universal symbol of happiness", "used in various cultures"], "facial muscles": ["involves zygomaticus major", "involves orbicularis oculi"], "nonverbal communication": ["conveys positive emotions", "can be used to defuse tension"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "ballad", "love song"], "artist": ["Andrea Bocelli", "pop opera"], "release date": ["1995"], "genre": ["classical", "pop"], "lyrics": ["romantic", "poetic"], "awards": ["won Grammy", "won MTV Europe Music Award"], "popularity": ["worldwide hit", "iconic song"]}}
+
+{"concept": "without me", "facet_properties_dict": {"phrase": ["idiomatic expression", "English phrase"], "meaning": ["absence of someone", "being alone"], "usage": ["in a sentence", "in a song title"], "emotional connotation": ["lonely", "sad", "melancholic"], "example sentences": ["I'm nothing without you", "She was lost without him"], "common associations": ["heartbreak", "longing", "desperation"]}}
+
+{"concept": "Pamela", "facet_properties_dict": {"name": ["Pamela Anderson", "Baywatch actress", "Playboy model"], "profession": ["actress", "model", "activist"], "born in": ["Canada", "Ontario"], "notable for": ["Baywatch", "Playboy magazine", "breast implant controversy"], "current occupation": ["activist", "entrepreneur", "author"], "awards": ["Golden Globe", "People's Choice Award"], "year of birth": ["1967"], "nationality": ["Canadian", "American"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"type": ["recreational", "competitive", "transportation"], "vessel": ["sailboat", "yacht", "dinghy"], "propulsion": ["wind", "engine"], "sail": ["main sail", "jib sail", "mizzen sail"], "racing": ["regatta", "solo", "team"], "skills": ["navigation", "tacking", "jibing"], "environment": ["ocean", "lake", "river"], "equipment": ["anchor", "ropes", "compass"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"event": ["holiday", "seasonal", "family gathering"], "mode of transportation": ["car", "driving"], "destination": ["home", "family home"], "time of year": ["Christmas", "winter", "holiday season"], "emotional connotation": ["warmth", "joy", "nostalgia"], "frequency": ["annual", "traditional"], "purpose": ["spending time with family", "celebrating holiday", "reunited with loved ones"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"music genre": ["pop", "rock"], "origin": ["Taylor Swift", " Brendon Urie"], "release date": ["2019"], "chart performance": ["top 10 on Billboard Hot 100", "multi-platinum"], "lyrics theme": ["love", "self-empowerment"], "collaboration type": ["duet"], "award wins": ["MTV Video Music Award", "American Music Award"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song title": ["song by the Kaiser Chiefs"], "lyrics": ["about obsession", "about love"], "genre": ["rock", "pop"], "artist": ["the Kaiser Chiefs"], "release year": ["2004"], "popularity": ["very popular"], "meaning": ["about being obsessed with someone"], "mood": ["upbeat", "energetic"]}}
+
+{"concept": "Do the Bartman", "facet_properties_dict": {"song": ["single", "music", "catchy"], "artist": ["The Simpsons", "Ned Flanders"], "release year": ["1991"], "genre": ["pop", "rock"], "lyrics": ["funny", "playful"], "chart performance": ["hit", "successful"], "associated with": ["The Simpsons", "Halloween", "music video"]}}
+
+{"concept": "stranded (Haiti Mon Amour)", "facet_properties_dict": {"song": ["rock", "1973", "from album 'The Doors'"], "lyrics": ["despair", "longing", "love"], "genre": ["rock", "blues"], "mood": ["melancholic", "sentimental"], "meaning": ["yearning for a lost love", "longing for a distant place"], "artist": ["The Doors", "Jim Morrison"], "album": ["The Doors", "1973"], "duration": ["approximately 2 minutes"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"physical properties": ["clear", "colorless", "transparent", "liquid"], "composition": ["water", "H2O"], "usage": ["drinking", "washing", "cooking"], "container": ["glass", "bottle", "cup"], "temperature": ["cold", "room temperature", "warm"], "edibility": ["safe to drink", "not edible"], "location": ["kitchen", "table", "refrigerator"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"phrase": ["English idiom", "meaning don't waste it"], "meaning": ["don't waste what you have", "make the most of it"], "usage": ["common phrase", "often used in conversation"], "origin": ["phrase originated from a song", "song by Janet Jackson"], "tone": ["advisory", "cautionary"], "connotation": ["positive", "encouraging"]}}
+
+{"concept": "Sarah with Love", "facet_properties_dict": {"genre": ["romantic comedy", "TV show"], "main character": ["Sarah"], "plot": ["love story", "self-discovery"], "tone": ["light-hearted", "heartwarming"], "setting": ["New York City", "Paris"], "release date": ["2016"], "platform": ["Netflix"]}}
+
+{"concept": "drive", "facet_properties_dict": {"song": ["by the cars", "1978", "rock music"], "lyrics": ["about a journey", "about freedom", "about escape"], "genre": ["rock", "classic rock"], "artist": ["the cars", "ric ocasek"], "album": ["singly released", "panorama", "the cars"], "mood": ["uplifting", "inspiring", "carefree"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotion": ["negative", "intense", "embarrassing"], "cause": ["social mistake", "failure", "public exposure"], "experience": ["humiliation", "embarrassment", "guilt"], "effects": ["low self-esteem", "anxiety", "social withdrawal"], "coping mechanism": ["denial", "avoidance", "self-blame"], "related concepts": ["guilt", "embarrassment", "humiliation"], "cultural significance": ["taboo", "stigma", "social norm"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "musical", "1963 release"], "plot": ["star-crossed lovers", "1940s setting", "memories of past"], "characters": ["Katharine Hepburn", "Harrison Ford", "memories of past"], "music": ["Frank Sinatra", "My Kind of Town", "theme song"], "genre": ["romantic drama", "musical", "biographical"], "awards": ["Academy Award for Best Original Song", "Academy Award for Best Original Score"], "director": ["Sidney Pollack", "classic Hollywood film"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"routine": ["repetitive tasks", "daily habits", "morning routine"], "things": ["objects", "possessions", "furniture"], "experiences": ["boring", "mundane", "familiar"], "people": ["family members", "coworkers", "neighbors"], "time": ["daily schedule", "weekly routine", "monthly planner"], "places": ["home", "work", "school"], "events": ["holidays", "birthdays", "anniversaries"]}}
+
+{"concept": "tiên quân ca", "facet_properties_dict": {"origin": ["Vietnamese", "traditional"], "genre": ["classical music", "vocal music"], "instrument": ["soprano", "piano"], "lyrics": ["poetic", "lyrical"], "performer": ["singer", "orchestra"], "event": ["wedding", "ceremony"], "feeling": ["emotional", "nostalgic"]}}
+
+{"concept": "everyday katyusha", "facet_properties_dict": {"music": ["rock", "russian rock", "popular"], "lyrics": ["romantic", "poetic", "storytelling"], "style": ["folk", "classic", "melancholic"], "era": ["1960s", "soviet era"], "artist": ["vladimir vysockij"], "genre": ["ballad", "romantic song"], "theme": ["love", "heartbreak", "nostalgia"]}}
+
+{"concept": "Love Me Tender", "facet_properties_dict": {"song": ["rock and roll", "Elvis Presley", "1950s"], "lyrics": ["romantic", "melancholic", "yearning"], "genre": ["rock and roll", "country"], "artist": ["Elvis Presley", "The King"], "era": ["1950s", "rock and roll era"], "popularity": ["iconic", "classic", "beloved"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"origin": ["Odessa", "Ukraine"], "structure": ["metal", "railway"], "function": ["transportation", "romantic getaway"], "notoriety": ["famous", "unique", "attracting tourists"], "features": ["lights", "flowers", "statues"], "used for": ["romantic dates", "proposals", "wedding photos"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"song": ["Queen", "rock ballad", " Freddie Mercury"], "album": ["Innuendo", "Queen's discography", "final album"], "release date": ["1991", "Queen's music"], "meaning": ["persevering through adversity", "continuing despite challenges"], "genre": ["rock", "classic rock"], "artist": ["Queen", "Freddie Mercury", "Brian May"], "popularity": ["iconic", "popular", "well-known"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["R&B", "hip-hop", "single", "hit song"], "artist": ["2Pac", "Tupac Shakur", "rapper"], "album": ["The Don Killuminati: The 7 Day Theory"], "release year": ["1996"], "lyrics": ["emotional", "inspirational", "motivational"], "genre": ["Gangsta rap", "West Coast rap"], "impact": ["iconic", "legendary", "cultural phenomenon"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"song": ["pop", "romantic", "by Madonna"], "lyrics": ["sentimental", "love", "heartbreak"], "genre": ["pop", "R&B", "dance"], "chart performance": ["top 10", "hit single", "best-selling album"], "era": ["1990s", "iconic", "MTV"], "artist": ["Madonna", "collaboration", "Wanya Morris"], "mood": ["emotional", "melancholic", "uplifting"]}}
+
+{"concept": "3", "facet_properties_dict": {"math": ["integer", "odd number", "small number"], "quantity": ["three", "third", "limited"], "position": ["middle", "third in a sequence"], "numerical operations": ["addition", "subtraction", "multiplication"], "everyday usage": ["three strikes", "three wishes", "third time lucky"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"musical genre": ["pop", "electronic", "dance"], "artist": ["Katy Perry", "Snoop Dogg"], "song title": ["California Gurls"], "release date": ["2010"], "chart performance": ["number one single", "multi-platinum"], "lyrical theme": ["summer fun", "beach party", "freedom"], "collaboration": ["feat. Snoop Dogg"], "album": ["Teenage Dream"]}}
+
+{"concept": "last friday night", "facet_properties_dict": {"event": ["party", "celebration", "social gathering"], "time": ["evening", "night"], "day of the week": ["friday"], "frequency": ["occasional"], "atmosphere": ["lively", "fun"], "social aspect": ["with friends", "with family"], "activities": ["dancing", "drinking", "eating"], "location": ["home", "bar", "club"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type of fish": ["catch", "escape", "larger than expected"], "catching method": ["fishing", "reel", "line"], "angler's emotions": ["frustration", "disappointment", "regret"], "storytelling context": ["fishing tale", "legend", "myth"], "fishing location": ["river", "ocean", "lake"], "fish size": ["large", "monster", "record-breaking"]}}
+
+{"concept": "so what", "facet_properties_dict": {"emotional tone": ["indifferent", "apathetic", "unconcerned"], "response to question": ["lack of interest", "disinterest", "unfazed"], "common use": ["in casual conversations", "when unimpressed", "to show disinterest"], "opposite meaning": ["oh wow", "wow", "amazing"], "related emotions": ["shrug", "sigh", "disdain"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"song": ["pop song", "by Britney Spears", "1999 release"], "lyrics": ["romantic", "yearning", "longing"], "mood": ["sensual", "erotic", "intimate"], "audience": ["teens", "young adults"], "genre": ["pop", "dance", "electronic"], "composer": ["Britney Spears", "Max Martin", "Rami Yacoub"], "awards": ["Grammy nomination", "MTV Video Music Award"], "cultural impact": ["iconic", "influential", "cultural phenomenon"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song title": ["by ss501", "k-pop song", "pop music"], "artist": ["ss501", "korean boy band", "idol group"], "genre": ["pop", "k-pop", "music"], "lyrics": ["romantic", "emotional", "heartfelt"], "released year": ["2005", "early 2000s"], "music video": ["features dance scenes", "features band members", "features romantic scenes"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["head", "heart", "brain", "hand"], "function": ["thinking", "feeling", "moving", "sensing"], "location": ["on top", "in the center", "on the side", "at the end"], "connection": ["with other parts", "with the environment", "with emotions", "with thoughts"], "importance": ["essential", "vital", "crucial", "unique"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"type": ["violent", "white-collar", "organized"], "motivation": ["financial gain", "power", "vengeance"], "behavior": ["lawless", "dishonest", "ruthless"], "actions": ["stealing", "harming", "cheating"], "punishment": ["jail", "fine", "rehabilitation"], "location": ["prison", "court", "police station"], "characteristics": ["dishonest", "reckless", "unscrupulous"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"intention": ["desire to travel", "wish to visit"], "destination": ["vacation spot", "holiday place", "travel destination"], "mode of transport": ["plane", "train", "car", "bus"], "purpose": ["vacation", "business trip", "visit friends"], "emotional state": ["excitement", "anxiety", "curiosity"], "planning stage": ["booking", "packing", "researching"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"phrase": ["common phrase", "greeting", "expression of sentiment"], "origin": ["postcard", "travel", "absence"], "tone": ["sentimental", "emotional", "bittersweet"], "context": ["written message", "verbal expression", "social media post"], "meaning": ["expression of longing", "expression of nostalgia", "expression of love"], "use": ["communication", "emotional release", "social interaction"]}}
+
+{"concept": "smile", "facet_properties_dict": {"expression": ["happy", "joyful", "pleased"], "physical characteristic": ["upturned corners", "curved shape"], "social significance": ["social bonding", "nonverbal communication"], "cultural context": ["universal symbol", "cultural variation"], "emotional connection": ["happiness", "relaxation"], "displayed by": ["people", "animals"], "occasion": ["everyday", "special occasion"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song title": ["Italian", "romantic", "love song"], "artist": ["Andrea Bocelli", "classical music", "opera"], "lyrics": ["poetic", "emotional", "heartfelt"], "genre": ["opera pop", "classical crossover"], "release date": ["1995", "album Romanza"], "awards": ["Grammy nomination", "international recognition"], "meaning": ["goodbye", "farewell", "love"]}}
+
+{"concept": "without me", "facet_properties_dict": {"meaning": ["absence", "not present"], "phrase usage": ["in song title", "in conversation", "in poem"], "emotional connotation": ["sadness", "longing", "nostalgia"], "context": ["romantic relationship", "friendship", "family"], "usage": ["to express separation", "to express grief", "to express yearning"], "song title": ["popular song", "emotional ballad", "love song"]}}
+
+{"concept": "pamela", "facet_properties_dict": {"person": ["woman", "actress"], "nationality": ["american"], "famous for": ["role in Baywatch", "modeling career"], "physical appearance": ["blonde hair", "blue eyes"], "awards": ["golden globe award"], "born in": ["hawaii", "usa"], "active in": ["tv", "movies", "fashion industry"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"activity": ["recreational", "competitive", "leisure"], "water": ["ocean", "lake", "sea", "river"], "vessel": ["sailboat", "yacht", "dinghy"], "sail": ["material", "design", "size"], "weather": ["wind", "tides", "currents"], "technique": ["tacking", "jibing", "heeling"], "equipment": ["anchors", "ropes", "masts"], "objective": ["racing", "cruising", "exploring"], "skill level": ["beginner", "intermediate", "expert"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"event": ["holiday", "family gathering", "seasonal celebration"], "mode of transportation": ["car", "driving"], "destination": ["home", "family home", "native place"], "season": ["winter", "Christmas season"], "occasion": ["holiday season", "family reunion"], "emotional connotation": ["nostalgic", "warm", "joyful"], "common activity": ["road trip", "holiday travel", "family gathering"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"genre": ["rock", "pop"], "origin": ["USA", "Europe"], "characteristics": ["catchy melody", "uplifting lyrics"], "performers": ["Taylor Swift", "OneRepublic", "P!nk"], "used in": ["soundtrack", "music festival", "radio"], "mood": ["inspiring", "motivational", "empowering"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song title": ["lyric"], "genre": ["pop", "rock"], "artist": ["placebo"], "release date": ["2003"], "lyrics": ["catchy", "memorable"], "chart performance": ["hit single", "number one"], "album": ["black market music"]}}
+
+{"concept": "Do the Bartman", "facet_properties_dict": {"song": ["pop song", "The Simpsons theme song"], "artist": ["Björk", "Neneh Cherry"], "genre": ["electronic", "pop"], "release year": ["1994"], "chart performance": ["number one single"], "music video": ["animated", "features Bart Simpson"]}}
+
+{"concept": "stranded (Haiti Mon Amour)", "facet_properties_dict": {"musical genre": ["reggae", "world music"], "lyrics": ["poignant", "emotive", "storytelling"], "tone": ["melancholic", "reflective", "contemplative"], "instrumentation": ["guitar", "bass", "drums", "piano"], "mood": ["sad", "bittersweet", "nostalgic"], "theme": ["love", "loss", "memory", "longing"], "artist": ["max Romeo", "toots and the maytals"], "album": ["suffering is easy", "haiti mon amour"], "release year": ["2004"], "genre influence": ["jamaican music", "american music", "world music"], "song structure": ["verse-chorus", "buildup-crescendo", "simple melody"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"physical properties": ["clear", "colorless", "transparent", "cooling"], "container": ["glass", "cup", "bottle"], "content": ["water", "liquid", "potable"], "usage": ["drinking", "hydration", "washing"], "location": ["kitchen", "bathroom", "table", "desk"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"phrase": ["common saying", "expression", "idiom"], "meaning": ["enjoy things while they last", "don't waste opportunities"], "origin": ["African American Vernacular English", "slang"], "usage": ["encouragement", "warning", "motivational"], "context": ["everyday conversation", "inspiration", "advice"], "tone": ["cautious", "positive", "emotive"]}}
+
+{"concept": "Sarah With Love", "facet_properties_dict": {"genre": ["romantic comedy", "drama", "music"], "main character": ["Sarah", "female lead"], "storyline": ["romantic relationships", "self-discovery", "music industry"], "release date": ["2009", "movie"], "music genre": ["pop", "R&B", "rock"], "based on": ["true story", "inspired by real events"], "award": ["won", "nominated"]}}
+
+{"concept": "drive", "facet_properties_dict": {"song": ["rock", "popular", "1960s"], "artist": ["the cars", "americana", "new wave"], "lyrics": ["about freedom", "about movement"], "genre": ["rock", "pop", "classic"], "duration": ["long", "over 3 minutes"], "mood": ["uplifting", "energetic"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotion": ["negative", "self-conscious"], "cause": ["mistake", "failure", "embarrassing situation"], "effect": ["anxiety", "depression", "low self-esteem"], "expression": ["blushing", "avoiding eye contact", "feeling embarrassed"], "relevance": ["social", "cultural", "personal"], "coping mechanisms": ["denial", "blame", "self-compassion"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand", "directed by Sydney Pollack"], "plot": ["love story", "historical fiction", "set in 1930s"], "music": [" iconic soundtrack", "written by Alan and Marilyn Bergman"], "awards": ["Academy Award winner", "Oscar for Best Original Song"], "genre": ["romantic drama", "historical drama", "musical drama"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"routine": ["repetitive tasks", "daily chores", "morning routine"], "common objects": ["phone", "computer", "chair", "table"], "activities": ["work", "study", "relaxation", "entertainment"], "emotions": ["happiness", "stress", "boredom", "excitement"], "places": ["home", "work", "school", "community"], "time": ["morning", "afternoon", "evening", "night"]}}
+
+{"concept": "tiến quân ca", "facet_properties_dict": {"music genre": ["vocal music", "traditional music", "Vietnamese music"], "instruments": ["singing", "guitar", "violin"], "origin": ["Vietnam", "Southeast Asia"], "style": ["simple", "emotional", "traditional"], "lyrics": ["poetic", "storytelling", "emotional"], "purpose": ["entertainment", "expression", "culture preservation"]}}
+
+{"concept": "everyday katyusha", "facet_properties_dict": {"type": ["rocket", "missile"], "origin": ["USSR", "Russia"], "use": ["military", "space exploration"], "design": ["liquid-fueled", "rocket propulsion"], "launch": ["1957", "first successful launch"], "range": ["short-range", "medium-range"], "speed": ["high-speed", "Mach 6"]}}
+
+{"concept": "love me tender", "facet_properties_dict": {"song": ["Elvis Presley", "rock and roll", "1950s"], "genre": ["rock and roll", "pop"], "lyrics": ["romantic", "sensual", "flirtatious"], "tone": ["sensual", "intimate", "playful"], "artist": ["Elvis Presley"], "released": ["1953"], "popular": ["yes"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"location": ["Niemannstadt, Germany", "Istanbul, Turkey"], "structure": ["metal bridge", "railway bridge"], "purpose": ["romantic gesture", "symbolic gesture", "love declaration"], "features": ["locks and love notes", "engraved messages", "couples' names"], "popularity": ["popular tourist attraction", "iconic landmark"], "history": ["built in 2007", "inspired by a 1970s German song"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"song": ["rock ballad", "written by Brian May", "released by Queen"], "lyrics": ["about perseverance", "about overcoming adversity"], "artist": ["Queen", "Freddie Mercury"], "album": ["Innuendo", "Greatest Hits"], "genre": ["rock", "classic rock"], "duration": ["less than 4 minutes"], "released year": ["1991"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["hip-hop", "R&B", "Nas", "The Firm", "1997"], "genre": ["hip-hop", "rap"], "artist": ["Nas", "The Firm", "Nasir Jones"], "album": ["It Was Written", "The Miseducation of Lauryn Hill"], "theme": ["social commentary", "street life", "poverty", "black experience"], "release year": ["1997"], "impact": ["critical acclaim", "commercial success", "cultural significance"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"song": ["pop song", "duet", "1997 release"], "artists": ["mary j blige", "george michael"], "genre": ["r&b", "pop"], "chart performance": ["hit single", "peaked at number one"], "lyrics": ["love song", "apologetic tone"], "awards": ["grammy award", "brit award"], "impact": ["cultural phenomenon", "iconic duet"]}}
+
+{"concept": "3", "facet_properties_dict": {"math": ["natural number", "odd number", "small integer"], "quantity": ["single unit", "three items"], "place value": ["ones place"], "digit": ["first digit in a three-digit number"], "sequence": ["third item in a sequence"], "numerical operations": ["addition", "multiplication", "subtraction"], "everyday use": ["three strikes and you're out", "three wishes", "three blind mice"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"song": ["pop", "feminine", "upbeat"], "artist": ["Katy Perry", "Snoop Dogg"], "release date": ["2010", "summer"], "chart performance": ["number one single", "longest-running number one single"], "lyrics": ["beach party", "summer vibes", "fun in the sun"], "music video": ["beach setting", "dancing", "fashionable outfits"]}}
+
+{"concept": "last friday night", "facet_properties_dict": {"day of the week": ["Friday"], "time of day": ["night"], "social gathering": ["party", "get-together"], "atmosphere": ["lively", "relaxed"], "common activities": ["dancing", "drinking", "socializing"], "music": ["loud", "upbeat"], "people involved": ["friends", "family", "colleagues"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "opportunity", "person"], "context": ["fishing", "job interview", "relationship"], "feeling": ["regret", "disappointment", "longing"], "circumstances": ["bad luck", "unforeseen events", "mistakes"], "impact": ["emotional", "financial", "psychological"], "memory": ["vivid", "painful", "bittersweet"], "lesson learned": ["perseverance", "adaptability", "self-reflection"]}}
+
+{"concept": "so what", "facet_properties_dict": {"tone": ["indifferent", "nonchalant", "apathetic"], "response to": ["news", "event", "question", "situation"], "emotional connotation": ["neutral", "bored", "unimpressed"], "often used to": ["express lack of interest", "dismiss", "show indifference"], "alternative phrases": ["oh well", "whatever", "who cares"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"song": ["pop song", "by Britney Spears", "released in 2008"], "lyrics": ["about teenage love", "about high school", "about nostalgia"], "genre": ["pop", "dance", "electronic"], "mood": ["upbeat", "energetic", "romantic"], "audience": ["teenagers", "young adults", "fans of Britney Spears"], "impact": ["chart-topping single", "iconic music video", "cultural phenomenon"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["pop song", "by willie williams", "2002 release"], "genre": ["pop", "rock"], "lyrics": ["emotional", "heartfelt", "love song"], "chart performance": ["peaked at 1", "longest-running number one single"], "awards": ["won multiple awards", "grammy award winner"], "artist": ["willie williams", "american singer", "songwriter"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["head", "arm", "leg", "hand", "foot", "eye", "ear", "mouth", "nose"], "function": ["sensing", "moving", "thinking", "communicating"], "location": ["upper body", "lower body", "face", "neck", "torso"], "structure": ["bone", "muscle", "tissue", "nerve", "blood vessel"], "role": ["supporting", "regulating", "sensing", "moving", "thinking", "communicating"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"type": ["murderer", "thief", "burglar", "fraudster"], "motivation": ["financial gain", "revenge", "power", "thrill"], "behavior": ["dishonest", "deceptive", "violent", "reckless"], "consequences": ["arrest", "imprisonment", "fine", "rehabilitation"], "background": ["poor upbringing", "trauma", "mental health issues", "addiction"], "goals": ["financial security", "social status", "revenge on victims", "self-preservation"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"emotional state": ["desire", "longing"], "destination": ["place", "location", "event"], "reason": ["need", "want", "must"], "urgency": ["immediately", "soon"], "person involved": ["self", "others"], "mode of transportation": ["car", "plane", "foot", "bike"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"phrase": ["sentimental", "emotional", "inspirational"], "meaning": ["expression of longing", "acknowledgement of absence"], "origin": ["postcard", "greeting card", "social media"], "usage": ["condolence", "celebration", "farewell"], "tone": ["sorrowful", "joyful", "nostalgic"], "sentiment": ["love", "missing", "remembering"]}}
+
+{"concept": "smile", "facet_properties_dict": {"emotion": ["happiness", "joy", "friendliness"], "physical appearance": ["upward curve", "straight line"], "expression": ["relaxed", "confident", "welcoming"], "social significance": ["social signal", "nonverbal communication", "social bonding"], "causes": ["happiness", "relief", "satisfaction"], "effects": ["boosts mood", "reduces stress", "increases empathy"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "romantic", "popular"], "artist": ["Andrea Bocelli", "operatic pop"], "lyrics": ["sad", "longing", "love"], "genre": ["opera", "pop"], "release year": ["1995"], "awards": ["won Sanremo Music Festival"], "meaning": ["leave with me", "farewell"]}}
+
+{"concept": "without me", "facet_properties_dict": {"phrase": ["idiomatic expression", "English phrase", "popular song"], "meaning": ["when someone is absent", "when something is done without me"], "origin": ["from the song 'Without Me' by Eminem"], "usage": ["in everyday conversation", "in a song title"], "emotional connotation": ["sadness", "longing"], "context": ["romantic relationships", "friendship", "daily life"]}}
+
+{"concept": "pamela", "facet_properties_dict": {"person": ["celebrity", "actress"], "movie": ["Baywatch", "Barb Wire"], "award": ["Golden Raspberry Award", "Razzie Award"], "physical appearance": ["blonde hair", "blue eyes"], "profession": ["actress", "model"], "notable for": ["playing C.J. Parker", "being a sex symbol"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"activity": ["water sport", "outdoor activity", "recreational activity"], "equipment": ["sailboat", "yacht", "catamaran"], "skill level": ["beginner", "expert"], "environment": ["ocean", "lake", "sea"], "physical aspect": ["requires strength", "requires endurance"], "mental aspect": ["requires focus", "requires strategy"], "social aspect": ["can be solo", "can be with friends", "can be competitive"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"occasion": ["Christmas", "holiday season"], "activity": ["driving", "traveling"], "destination": ["home", "family", "friends"], "mode of transportation": ["car", "vehicle", "road trip"], "emotions": ["excitement", "anticipation", "happiness"], "relevance": ["family gathering", "seasonal tradition", "holiday cheer"], "experience": ["joyful", "stressful", "relaxing"], "seasonal aspect": ["winter", "holiday season", "Christmas time"]}}
+
+{"concept": "Never Too Far/Hero Medley", "facet_properties_dict": {"genre": ["rock music", "hard rock", "classical music"], "instrumentation": ["guitar", "drums", "strings"], "mood": ["inspiring", "motivational", "emotional"], "composer": ["John Williams", "Hans Zimmer", "Michael Giacchino"], "origin": ["Star Wars", "Harry Potter", "Pirates of the Caribbean"], "duration": ["short", "long", "varies"], "used for": ["movie soundtrack", "inspiration", "background music"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song title": ["song by Kylie Minogue"], "lyrics theme": ["obsessive love"], "genre": ["dance", "pop"], "artist": ["Kylie Minogue"], "released year": ["2001"], "chart performance": ["number one hit"], "music video": ["features Kylie Minogue"]}}
+
+{"concept": "The Bartman", "facet_properties_dict": {"type": ["song", "music"], "artist": ["The Simpsons", "Weird Al Yankovic"], "genre": ["parody", "pop"], "release date": ["1993"], "lyrics": ["humorous", "playful"], "connection": ["The Simpsons", "TV show"], "style": ["quirky", "funny"]}}
+
+{"concept": "stranded (Haiti Mon Amour)", "facet_properties_dict": {"music genre": ["reggae", "rock"], "lyrics theme": ["love", "longing", "heartbreak"], "mood": ["melancholic", "wistful"], "instrumentation": ["guitar", "bass", "drums"], "vocalist": ["Warren Zevon"], "album": ["Warren Zevon", "Haiti"], "year released": ["1980"], "award": ["Grammy nomination"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"category": ["beverage", "drink", "liquid"], "composition": ["water", "no additives"], "temperature": ["cold", "room temperature", "warm", "hot"], "container": ["glass", "bottle", "cup"], "consumption": ["refreshment", "hydration", "daily routine"], "location": ["kitchen", "table", "desk", "beach"], "purpose": ["quenching thirst", "cleaning", "washing"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"phrase": ["idiom", "expression", "saying"], "meaning": ["to enjoy something while it lasts", "to make the most of a situation"], "origin": ["song title", "1997 single by Janet Jackson"], "genre": ["pop", "R&B"], "mood": ["carefree", "playful", "upbeat"], "association": ["fun", "party", "celebration"]}}
+
+{"concept": "Sarah with Love", "facet_properties_dict": {"genre": ["romantic comedy", "movie"], "storyline": ["woman's love story", "romantic relationship"], "main character": ["Sarah"], "tone": ["light-hearted", "humorous"], "release date": ["2022"], "director": ["name of director"], "actors": ["list of actors"], "awards": ["won award", "nominated for award"]}}
+
+{"concept": "Drive", "facet_properties_dict": {"song": ["by The Cars", "1979 album", "Ricky Bell song"], "genre": ["rock", "new wave"], "lyrics": ["about freedom", "about escaping"], "mood": ["upbeat", "energetic"], "instrumentation": [" synthesizer", "guitar"], "chart performance": ["peaked at 26 on Billboard Hot 100"], "artist": ["The Cars", "Ricky Bell"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotion": ["negative", "embarrassing", "humiliating"], "cause": ["social mistake", "failure", "public exposure"], "effect": ["low self-esteem", "anxiety", "depression"], "related to": ["guilt", "embarrassment", "humiliation"], "coping mechanisms": ["denial", "avoidance", "apology"], "overcoming": ["acceptance", "forgiveness", "self-compassion"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie title": ["romantic drama", "period drama"], "release year": ["1973"], "genre": ["romantic drama", "drama"], "director": ["Sidney Pollack"], "starring": ["Barbra Streisand", "Robert Redford"], "plot": ["romantic relationship", "World War II", "nostalgia"], "awards": ["Academy Award for Best Original Song", "Golden Globe Award for Best Actress"], "theme": ["love", "nostalgia", "loss"], "setting": ["New York City", "World War II era"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"routine": ["repetitive", "predictable", "mundane"], "activities": ["work", "school", "chores", "leisure"], "duration": ["long", "short", "variable"], "influence": ["human", "social", "cultural"], "characteristics": ["commonplace", "unremarkable", "ordinary"], "scope": ["personal", "social", "global"], "frequency": ["daily", "occasional", "infrequent"]}}
+
+{"concept": "tiến quân ca", "facet_properties_dict": {"type": ["Vietnamese music", "revolutionary song"], "origin": ["Vietnam", "French colonial era"], "content": ["anti-imperialist", "national liberation"], "style": ["traditional", "folk"], "influence": ["Vietnamese culture", "national identity"], "characteristic": ["patriotic", "inspirational"], "performers": ["Vietnamese singers", "revolutionary groups"]}}
+
+{"concept": "Katyusha", "facet_properties_dict": {"origin": ["Russia", "Soviet Union"], "type": ["rocket", "missile"], "use": ["military", "civilian"], "characteristics": ["portable", "simple", "relatively inexpensive"], "effect": ["destruction", "destruction of cities", "terror"], "history": ["WWII", "Cold War"], "impact": ["fear", "terror", "warfare"]}}
+
+{"concept": "love me tender", "facet_properties_dict": {"song": ["Elvis Presley", "rock and roll", "romantic", "1960"], "lyrics": ["sweet", "tender", "love", "forever"], "genre": ["rock and roll", "pop"], "artist": ["Elvis Presley", "The King"], "era": ["1960s", "rock and roll era"], "mood": ["romantic", "sentimental"], "style": ["swaying", "slow", "soulful"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"location": ["Nikitskiy Botanical Garden", "Moscow", "Russia"], "origin": ["built in 1995", "as a romantic gesture", "by the garden's director"], "structure": ["made of metal arches", "over 500 meters long"], "usage": ["for couples to walk hand in hand", "as a symbol of love"], "popularity": ["became a popular tourist destination", "after being featured in media"], "features": ["has benches and a romantic atmosphere"], "events": ["weddings and proposals are common"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"song": ["rock ballad", "written by Brian May", "Queen song"], "album": ["Innuendo", "final album of Queen"], "lyrics": ["emotional", "reflective", "about the death of Freddie Mercury"], "theme": ["perseverance", "resilience", "overcoming adversity"], "style": ["classic rock", "symphonic rock"], "meaning": ["encouragement to continue", "desire to keep going despite challenges"], "performance": ["live performances by Queen", "tribute performances by other artists"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"music genre": ["hip-hop", "rap", "R&B"], "artist": ["2Pac", "The Notorious B.I.G.", "Nas"], "song characteristics": ["emotional", "storytelling", "conscious rap"], "lyrical themes": ["social issues", "struggle", "black experience"], "release date": ["1996", "1997"], "impact": ["critically acclaimed", "commercially successful", "cultural significance"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"song": ["pop", "duet", "2002"], "artist": ["robin thicke", "jennifer hudson"], "genre": ["r&b", "pop", "soul"], "mood": ["romantic", "sentimental", "emotional"], "lyrics": ["love song", "ballad", "slow"], "chart performance": ["hit single", "top 10", "billboard hot 100"], "award": ["grammy nomination", "music award", "critical acclaim"]}}
+
+{"concept": "3", "facet_properties_dict": {"mathematical value": ["integer", "odd number"], "natural phenomena": ["number of dimensions in space", "number of sides in a triangle"], "linguistic usage": ["cardinal number", "third item in a list"], "numerical significance": ["prime number", "sum of 1 and 1"], "usage in counting": ["third item counted", "first three items counted"], "usage in time": ["third hour", "third day of the week"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"genre": ["pop music", "electronic dance music"], "song by": ["Katy Perry", "Snoop Dogg"], "release date": ["2010"], "chart performance": ["top 10 hit", "number one single"], "lyrics": ["summer vibes", "beach party"], "collaboration": ["featuring Snoop Dogg"], "music video": ["features Katy Perry", "features Snoop Dogg", "has over 100 million views"]}}
+
+{"concept": "last friday night", "facet_properties_dict": {"event type": ["party", "get-together"], "time": ["evening", "night"], "duration": ["several hours"], "location": ["home", "bar", "club"], "atmosphere": ["lively", "relaxed"], "activities": ["socializing", "dancing", "drinking"], "participants": ["friends", "family", "colleagues"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch", "elusive"], "situation": ["fishing", "angling", "recreational"], "emotional response": ["disappointment", "frustration", "regret"], "memory": ["vivid", "persistent", "long-lasting"], "context": ["fishing trip", "competition", "personal experience"]}}
+
+{"concept": "so what", "facet_properties_dict": {"tone": ["sarcastic", "disbelieving", "uninterested"], "response to": ["question", "statement", "situation"], "implying": ["lack of concern", "disregard", "apathy"], "often used in": ["everyday conversation", "argument", "debate"], "opposite of": ["oh wow", "wow that's amazing", "that's great"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"definition": ["a popular song", "a metaphor for a perfect relationship"], "genre": ["pop", "rock", "music"], "artist": ["Britney Spears", "Justin Timberlake"], "release date": ["2007", "2009"], "chart performance": ["peaked at number one", "multi-platinum"], "lyrics": ["romantic", "sentimental", "yearning"], "music video": ["features Britney and Justin", "has a memorable dance routine"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["pop song", "by william hung"], "release year": ["2004"], "genre": ["pop", "dance"], "lyrics": ["simple", "catchy"], "chart performance": ["number one", "worldwide hit"], "artist": ["william hung", "singer"], "music style": ["electronic", "dance-pop"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["head", "heart", "brain", "eyes", "hands", "feet"], "function": ["thinking", "feeling", "moving", "seeing", "hearing", "tasting"], "location": ["head", "chest", "belly", "legs", "arms", "face"], "role": ["control", "emotion", "movement", "sensation", "perception", "expression"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"type": ["violent", "white collar", "organized"], "motivation": ["financial gain", "revenge", "power"], "behavior": ["dishonest", "lawless", "violent"], "consequences": ["jail time", "fines", "social stigma"], "methods": ["theft", "fraud", "assault"], "targets": ["people", "property", "society"], "actions": ["committing crime", "hiding evidence", "avoiding detection"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"emotion": ["desire", "urge"], "destination": ["vacation", "trip", "adventure"], "reason": ["leisure", "relaxation", "exploration"], "mode": ["flight", "train", "car", "bus"], "frequency": ["rarely", "occasionally", "frequently"], "planner": ["individual", "group", "family"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"origin": ["postcard", "greeting card"], "meaning": ["expression of longing", "sentimental farewell"], "tone": ["sad", "bittersweet"], "usage": ["written message", "phrase in a card"], "emotional connotation": ["nostalgia", "longing", "sentimentality"], "common in": ["cards", "letters", "farewells"]}}
+
+{"concept": "smile", "facet_properties_dict": {"expression": ["happy", "friendly", "confident"], "physical characteristics": ["upturned corners", "bright eyes", "relaxed face"], "social significance": ["social cue", "nonverbal communication", "emotional expression"], "eliciting emotions": ["joy", "trust", "relaxation"], "cultures": ["universal symbol", "cultural variation", "social norms"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "ballad", "love song"], "artist": ["andrea bocelli"], "genre": ["opera", "classical"], "lyrics": ["romantic", "poetic"], "origin": ["Italy", "1995"], "awards": ["won sanremo music festival", "won grammy award"], "impact": ["iconic", "worldwide popularity"]}}
+
+{"concept": "without me", "facet_properties_dict": {"meaning": ["independent", "self-sufficient", "without someone's help"], "context": ["song title", "phrase", "idiom"], "usage": ["in a sentence", "in a song", "in a poem"], "connotation": ["positive", "negative", "neutral"], "example": ["'I can do it without me'", "'The world will go on without me'"], "antonym": ["with me", "with someone", "together"]}}
+
+{"concept": "pamela", "facet_properties_dict": {"category": ["person", "name", "female"], "characteristics": ["attractive", "intelligent", "kind"], "profession": ["actress", "model"], "achievements": ["won awards", "appeared in movies"], "location": ["Hollywood", "New York City"], "famous for": ["movie roles", "fashion shows"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"activity": ["water sport", "recreational activity", "competitive sport"], "type": ["wind-powered", "powered by engine"], "vessel": ["sailboat", "yacht", "catamaran"], "location": ["ocean", "sea", "lake", "river"], "weather": ["windy", "sunny", "calm"], "skill level": ["beginner", "expert", "professional"], "equipment": ["sail", "rigging", "anchor"], "purpose": ["recreation", "competition", "transportation"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"holiday": ["Christmas"], "mode of transportation": ["driving"], "destination": ["home"], "season": ["winter"], "family": ["spending time with family"], "feeling": ["nostalgic", "cozy"], "tradition": ["annual tradition"], "weather": ["snowy", "cold"], "occasion": ["special occasion"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"genre": ["rock", "pop", "musical theatre"], "origin": ["musical", "soundtrack", "movie"], "composer": ["Andrew Lloyd Webber"], "main theme": ["heroism", "love", "adventure"], "musical style": ["opera rock", "pop opera"], "main characters": ["Christine", "Pharaoh", "Poppa"], "storyline": ["ancient Egypt", "Paris", "musical competition"], "emotional tone": ["inspiring", "uplifting", "romantic"]}}
+
+{"concept": "Can't Get You Out of My Head", "facet_properties_dict": {"song": ["by Kylie Minogue", "pop song", "dance music"], "title": ["Can't Get You Out of My Head"], "lyrics": ["about obsession", "about love"], "genre": ["pop", "dance", "electronic"], "released": ["2001", "on album Fever"], "music style": ["synthpop", "electronic pop"], "chart performance": ["number one single", "worldwide hit"], "awards": ["won several music awards", "Grammy nomination"]}}
+
+{"concept": "The Bartman", "facet_properties_dict": {"song": ["popular", "1994"], "artist": ["The Rembrandts", "American rock band"], "album": ["The Simpsons Sing the Blues", "soundtrack"], "lyrics": ["catchy", "fun"], "genre": ["rock", "pop"], "impact": ["iconic", "cult classic"], "association": ["The Simpsons", "TV show"], "year": ["1994", "release year"]}}
+
+{"concept": "stranded (haiti mon amour)", "facet_properties_dict": {"music genre": ["reggae", "world music", "jazz"], "mood": ["peaceful", "romantic"], "instruments": ["guitar", "piano", "drums"], "lyrics": ["poetic", "storytelling", "philosophical"], "tone": ["mellow", "calming", "soulful"], "artist": ["Matisse", "Wyclef Jean", "Lauryn Hill"], "album": ["Haiti Mon Amour", "The Ecleftic: 2nd Cut", "The Miseducation of Lauryn Hill"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"composition": ["water", "glass"], "temperature": ["room temperature", "cold", "hot"], "usage": ["drinking", "washing", "cooking"], "properties": ["clear", "colorless", "transparent"], "container": ["glass", "bottle", "cup"], "location": ["table", "fridge", "kitchen"], "function": ["hydration", "cleansing", "cooking"]}}
+
+{"concept": "get it while it's hot", "facet_properties_dict": {"phrase meaning": ["take advantage of an opportunity", "do something before it's too late"], "origin": ["song lyrics", "proverb"], "connotation": ["urgency", "impermanence"], "usage": ["in a hurry", "before it's gone forever"], "related concepts": ["seize the day", "carpe diem"], "cultural significance": ["popular culture", "everyday life"]}}
+
+{"concept": "From Sarah with Love", "facet_properties_dict": {"type": ["novel", "romance novel", "book"], "author": ["Morgan Matson"], "plot": ["romantic", "heartwarming", "teenage love"], "main characters": ["Sarah", "Henry"], "setting": ["small town", "summer"], "genre": ["young adult", "romance", "contemporary"], "published in": ["2012"], "awards": ["Goodreads Choice Award"]}}
+
+{"concept": "Drive", "facet_properties_dict": {"song by": ["The Cars", "Ric Ocasek"], "genre": ["new wave", "rock"], "released": ["1984"], "lyrics": ["about freedom", "about movement"], "popularity": ["hit single", "iconic song"], "album": ["Heartbeat City"], "style": ["synth-heavy", "catchy melody"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotional state": ["negative", "unpleasant"], "cause": ["failure", "rejection", "mistake"], "effect": ["self-consciousness", "low self-esteem", "withdrawal"], "characteristics": ["embarrassment", "humiliation", "guilt"], "coping mechanisms": ["denial", "avoidance", "self-blame"], "related emotions": ["embarrassment", "humiliation", "grief"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "American", "1973"], "plot": ["love story", "historical setting", "World War II"], "characters": ["Katie Morosky", "Hubbell Gardner"], "actors": ["Barbra Streisand", "Robert Redford"], "director": ["Sidney Pollack"], "music": ["theme song", "popular", "Maureen McGovern"], "awards": ["Oscar nominations", "Golden Globe wins"], "genre": ["romance", "drama", "historical drama"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"time": ["morning", "afternoon", "evening"], "location": ["home", "work", "school"], "activity": ["work", "study", "relaxation", "leisure"], "routines": ["breakfast", "lunch", "dinner", "sleep"], "objects": ["phone", "computer", "chair", "table"], "people": ["family", "friends", "colleagues"], "events": ["meetings", "appointments", "holidays", "birthdays"]}}
+
+{"concept": "tiến quân ca", "facet_properties_dict": {"genre": ["vietnamese music", "traditional music"], "instrument": ["dan tranh", "pho", "trong"], "origin": ["north", "vietnam"], "style": ["classical", "folk"], "characteristics": ["slow tempo", "complex melodies"], "purpose": ["ceremonial", "entertainment"], "related to": ["festival", "wedding", "funeral"]}}
+
+{"concept": "everyday Katyusha", "facet_properties_dict": {"rocket": ["Soviet", "intercontinental", "ballistic"], "launch": ["1957", "first successful", "Sputnik"], "payload": ["satellite", "Sputnik 1", "space exploration"], "impact": ["space age", "Cold War", "scientific breakthrough"], "characteristics": ["liquid fuel", "three stages", "high altitude"], "history": ["Cold War era", "Soviet Union", "space exploration"]}}
+
+{"concept": "love me tender", "facet_properties_dict": {"song": ["Elvis Presley", "rock and roll", "romantic"], "lyrics": ["sweet and gentle", "whispers sweet nothings"], "genre": ["rock", "pop"], "mood": ["romantic", "sentimental"], "artist": ["Elvis Presley", "legendary musician"], "era": ["1950s", "classic"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"location": ["Serbia", "Europe"], "purpose": ["romantic getaway", "symbol of love"], "structure": ["tunnel", "made of steel"], "length": ["3 km"], "history": ["built in 2000", "inspired by the Danube River"], "used for": ["wedding proposals", "romantic dates", "hiking"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["Queen song", "rock ballad"], "meaning": ["persevering through adversity", "continuing despite obstacles"], "genre": ["rock music", "heavy metal"], "lyrics": ["inspirational", "motivational"], "theme": ["resilience", "determination"], "popularity": ["iconic", "classic"], "connection": ["Freddie Mercury", "Queen band"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song type": ["anthem", "rock ballad"], "origin": ["England", "British rock music"], "artist": ["Three Days Grace", "band", "Canadian rock band"], "lyrics theme": ["emotional struggle", "overcoming pain", "hope"], "genre": ["hard rock", "post-grunge"], "mood": ["intense", "emotional", "uplifting"], "length": ["approximately 4 minutes"], "album": ["One-X", "album", "2006 release"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"type": ["song", "music", "ballad"], "artist": ["madonna"], "genre": ["pop", "dance", "electronic"], "release year": ["2000"], "chart performance": ["peaked at number 1"], "lyrics": ["romantic", "emotional", "heartfelt"], "awards": ["won grammy award"], "critic reviews": ["generally positive", "praised vocals"], "popularity": ["iconic", "classic", "iconic"]}}
+
+{"concept": "3", "facet_properties_dict": {"number": ["integer", "small", "odd"], "math operation": ["addition", "subtraction", "multiplication"], "position": ["first", "second", "third"], "notation": ["Roman numerals", "Arabic numerals", "written"], "common uses": ["phone number", "score", "address"], "relational properties": ["greater than 2", "less than 4", "even"], "place in sequence": ["middle", "first", "last"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"song": ["by Katy Perry", "feat. Snoop Dogg", "released in 2010"], "genre": ["pop", "dance-pop", "electronic"], "lyrics": ["about summer", "about beach", "about party"], "chart performance": ["peaked at #1 on US Billboard Hot 100", "certified multi-platinum"], "music video": ["features Katy Perry and Snoop Dogg", "features beach party scene"], "artist": ["Katy Perry", "Snoop Dogg"]}}
+
+{"concept": "last friday night (t.g.i.f.)", "facet_properties_dict": {"event": ["party", "get-together", "social gathering"], "day": ["friday", "last friday"], "night": ["late evening", "evening", "nightlife"], "celebration": ["thank goodness it's friday", "TGIF"], "atmosphere": ["relaxed", "fun", "social"], "activities": ["dancing", "drinking", "socializing"], "common occurrence": ["weekly", "monthly"], "social media": ["hashtagged", "instagrammed", "facebooked"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch"], "circumstances": ["fishing trip", "near miss", "regret"], "emotional impact": ["disappointment", "frustration", "longing"], "memory": ["vivid", "painful", "haunting"], "person": ["angler", "fisherman", "recreational fisher"], "situation": ["freshwater", "saltwater", "tournament"], "feeling": ["sorrow", "bitterness", "what if"]}}
+
+{"concept": "so what", "facet_properties_dict": {"response": ["shrugging off", "unimpressed", "indifferent"], "tone": ["sarcastic", "disinterested", "nonchalant"], "context": ["in a conversation", "when someone shares news", "when someone asks a question"], "emotional connotation": ["boredom", "apathy", "skepticism"], "social implication": ["lack of enthusiasm", "ignoring", "disregarding"], "common usage": ["in everyday conversation", "in informal settings", "in casual interactions"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"music": ["pop", "song", "Britney Spears"], "meaning": ["unattainable goal", "idyllic fantasy"], "lyrics": ["focus on youth", "emphasis on beauty"], "audience": ["teenagers", "young adults"], "tone": ["optimistic", "romantic"], "style": ["upbeat", "catchy"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["by SS501", "K-pop", "male group"], "lyrics": ["about love", "about heartbreak"], "genre": ["pop", "ballad"], "mood": ["sad", "melancholic"], "used for": ["romantic playlist", "K-pop dance cover"], "released in": ["2005", "South Korea"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["arm", "leg", "hand", "foot", "head", "face", "eyes", "nose", "mouth", "ear", "hair", "skin"], "function": ["movement", "sensation", "expression", "breathing", "seeing", "hearing", "smelling", "tasting", "touching"], "location": ["upper body", "lower body", "head", "face", "neck", "torso", "abdomen", "back", "chest", "shoulders", "waist"], "sensitivity": ["sensitive", "insensitive", "painful", "numb", "tingling", "itchy"], "maintenance": ["washing", "grooming", "exercising", "stretching", "massaging", "protecting", "covering", "sunscreening"], "health": ["healthy", "unhealthy", "injured", "painful", "sore", "tired", "weak", "strong", "flexible", "fragile"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"definition": ["person who breaks law", "offender", "lawbreaker"], "actions": ["steals", "hurt people", "breaks rules"], "motivations": ["financial gain", "thrill seeking", "vengeance"], "types": ["murderer", "thief", "terrorist"], "consequences": ["punishment", "imprisonment", "fine"], "characteristics": ["dishonest", "reckless", "selfish"], "location": ["prison", "court", "police station"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"meaning": ["desire", "intention", "wish"], "target": ["destination", "place", "location"], "mode": ["travel", "transportation", "means"], "frequency": ["one time", "repeatedly", "often"], "urgency": ["immediately", "soon", "later"], "context": ["vacation", "business trip", "leisure", "emergency"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"origin": ["phrase", "postcard", "greeting card"], "meaning": ["expression of longing", "sentimental message"], "tone": ["sad", "nostalgic", "bittersweet"], "usage": ["in postcards", "in cards for special occasions", "in everyday conversation"], "emotional connotation": ["sentimental", "melancholic", "longing"], " cultural significance": ["common phrase", "widely recognized", "iconic expression"]}}
+
+{"concept": "smile", "facet_properties_dict": {"expression": ["happy", "friendly", "welcoming"], "physical appearance": ["upturned corners", "curved lips"], "social context": ["social interaction", "emotional expression"], "emotional connotation": ["joy", "relaxation", "trust"], "types": ["smiling face", "smiling eyes", "smiling mouth"], "functions": ["communication", "social bonding", "emotional release"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "ballad", "popular"], "title": ["con te partirò"], "artist": ["Andrea Bocelli", "pop singer"], "genre": ["opera", "pop", "classical"], "lyrics": ["romantic", "emotional", "heartfelt"], "released": ["1995", "CD single"], "award": ["Grammy", "Academy Award"]}}
+
+{"concept": "without me", "facet_properties_dict": {"phrase": ["idiomatic expression", "English phrase"], "meaning": ["to exclude someone", "to leave someone out"], "usage": ["in formal writing", "in informal conversation"], "example sentences": ["She was left without me at the party.", "He felt like he was without me when we broke up."], "origin": [" ancient Greek phrase", " Old English phrase"], "connotation": ["sadness", "exclusion"]}}
+
+{"concept": "Pamela", "facet_properties_dict": {"category": ["person", "female", "celebrity"], "profession": ["actress", "model", "singer"], "notable works": ["Baywatch", "Baywatch movie", "TV show"], "awards": ["Golden Globe", "Emmy Award"], "born in": ["USA", "California", "Los Angeles"], "active years": ["1990s", "2000s", "2010s"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"type": ["recreational", "competitive", "commercial"], "vessel": ["sailboat", "yacht", "ship"], "propulsion": ["wind", "engine"], "location": ["ocean", "lake", "sea"], "weather": ["windy", "calm", "stormy"], "skill level": ["beginner", "advanced", "expert"], "purpose": ["leisure", "transport", "racing"], "equipment": ["sails", "anchor", "life jacket"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"holiday": ["Christmas"], "mode of transportation": ["driving"], "destination": ["home"], "season": ["winter"], "weather": ["snowy", "cold"], "feeling": ["nostalgic", "excited"], "tradition": ["family gathering", "holiday meal"], "associated with": ["family", "friends", "memories"], "event": ["holiday", "seasonal", "special occasion"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"music genre": ["pop", "rock", "musical"], "origin": ["Disney", "movie"], "main characters": ["Simba", "Nala", "Pumbaa"], "storyline": ["African savannah", "pride lands", "Hakuna Matata"], "songs": ["Hakuna Matata", "Can You Feel the Love Tonight", "I Just Can't Wait to Be King"], "main plot": ["Simba's journey", "becoming king", "overcoming fears"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song title": ["song", "lyrics", "Eurythmics"], "lyrics theme": ["longing", "obsession", "love"], "musical style": ["pop", "synthpop", "80s"], "duration": ["long", "playful"], "artist": ["Eurythmics", "Annie Lennox", "Dave Stewart"], "genre": ["pop", "rock", "new wave"], "released year": ["1983"], "chart performance": ["hit", "successful", "iconic"]}}
+
+{"concept": "Do the Bartman", "facet_properties_dict": {"type": ["song", "music", "pop song"], "artist": ["The Simpsons", "Nancy Sinatra", "Bartman"], "genre": ["pop", "rock", "electronic"], "release date": ["1990", "1991"], "chart performance": ["top 10", "hit single"], "music video": ["animated", "features Bart Simpson"], "album": ["The Simpsons Sing the Blues", "Greatest Hits"], "theme": ["The Simpsons", "Bart Simpson", "Halloween"], "mood": ["fun", "upbeat", "playful"]}}
+
+{"concept": "stranded", "facet_properties_dict": {"meaning": ["left alone", "abandoned"], "context": ["natural disaster", "war", "travel"], "emotion": ["fear", "helplessness", "desperation"], "consequences": ["physical harm", "mental trauma", "loss of livelihood"], "relevance": ["humanitarian crisis", "international aid", "community support"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"category": ["beverage", "liquid"], "color": ["clear", "blue"], "temperature": ["cold", "room temperature", "warm"], "taste": ["neutral", "fresh"], "texture": ["smooth", "slippery"], "used for": ["drinking", "washing", "cooking"], "located at": ["kitchen", "bathroom", "table"], "contents": ["water", "ice", "flavorings"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"song": ["popular", "upbeat", "by Janet Jackson"], "lyrics": ["about appreciating the moment", "about not taking things for granted"], "genre": ["pop", "R&B", "dance"], "released": ["1997", "on the album The Velvet Rope"], "chart performance": ["top 10 on the US Billboard Hot 100"], "impact": ["iconic", "cult classic", "influence on pop music"]}}
+
+{"concept": "From Sarah with Love", "facet_properties_dict": {"type": ["TV series", "romantic comedy", "British drama"], "genre": ["drama", "romance", "comedy"], "setting": ["London", "UK"], "main character": ["Sarah", "woman", "romantic lead"], "plot": ["romantic relationships", "personal growth", "self-discovery"], "award": ["BAFTA TV Award", "nominated"], "network": ["ITV", "UK television"]}}
+
+{"concept": "drive", "facet_properties_dict": {"song": ["rock", "classic", "The Cars", "1979"], "lyrics": ["speed", "fast", "freedom", "open road"], "genre": ["rock", "new wave"], "artist": ["The Cars", "Ric Ocasek"], "album": ["The Cars", "Surreal Life"], "mood": ["energetic", "upbeat", "inspiring"], "theme": ["freedom", "adventure", "joy"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotion": ["negative", "embarrassing"], "cause": ["mistake", "failure", "exposure"], "effects": ["low self-esteem", "social withdrawal", "anxiety"], "coping mechanisms": ["denial", "avoidance", "self-blame"], "related concepts": ["guilt", "embarrassment", "humiliation"], "cultural significance": ["taboo", "social stigma", "repressed"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand", "directed by Sydney Pollack"], "plot": ["story of love and loss", "based on a novel", "takes place during the 1930s"], "music": ["features a iconic soundtrack", "includes songs like 'The Way We Were'"], "awards": ["won an Academy Award for Best Original Song", "nominated for several other awards"], "release": ["released in 1973", "became a commercial success"], "genre": ["romance", "drama", "musical"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"routine": ["daily tasks", "chores", "responsibilities"], "common things": ["clothing", "food", "shelter"], "experiences": ["work", "school", "leisure time"], "emotions": ["stress", "boredom", "happiness"], "routines": ["morning routine", "evening routine", "sleep schedule"], "repetitive": ["daily habits", "regular activities"], "universal": ["needs", "desires", "fears"]}}
+
+{"concept": "tiến quân ca", "facet_properties_dict": {"type": ["martial music", "military music"], "origin": ["Vietnam", "Asian"], "purpose": ["military ceremonies", "parades", "inspiring soldiers"], "characteristics": ["loud", "patriotic"], "association": ["Vietnamese culture", "national pride"], "performance": ["orchestra", "band"], "emotional impact": ["proud", "energetic"]}}
+
+{"concept": "everyday katyusha", "facet_properties_dict": {"origin": ["Soviet Union", "Russia"], "type": ["rock", "pop", "ballad"], "language": ["Russian"], "era": ["1950s", "1960s"], "genre": ["folk", "traditional"], "features": ["acoustic guitar", "simple melody"], "influence": ["Russian culture", "Soviet Union's cultural heritage"]}}
+
+{"concept": "love me tender", "facet_properties_dict": {"song title": ["Elvis Presley"], "genre": ["rock and roll", "pop"], "lyrics": ["romantic", "melancholic"], "tone": ["sad", "longing"], "origin": ["written by Elvis Presley", "released in 1953"], "popularity": ["iconic", "classic"], "associated with": ["Elvis Presley", "romantic love"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"location": ["Nikolsko, Ukraine", "Kiev", "Ukraine"], "structure": ["metal tunnel", "rotating Ferris wheel", "lovers' paradise"], "purpose": ["romantic getaway", "couples' retreat", "unique date spot"], "features": ["lights", "music", "flowers"], "experience": ["intimate", "sentimental", "adventurous"], "popularity": ["popular tourist attraction", "iconic landmark", "Instagram-worthy spot"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["Queen song", "rock music"], "meaning": ["persevering through difficulties", "continuing despite challenges"], "usage": ["inspirational phrase", "motivational quote", "encouragement"], "context": ["concert", "performance", "competition"], "emotional tone": ["determined", "resilient", "confident"], "relation to": ["adversity", "hardship", "obstacles"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song genre": ["rock", "hard rock", "heavy metal"], "artist": ["Three Days Grace", "Canadian rock band"], "album": ["One-X", "2006 album"], "lyrics theme": ["pain", "suffering", "emotional struggle"], "musical style": ["heavy guitar riffs", "powerful vocals"], "chart performance": ["successful single", "peaked at number 1"], "awards and recognition": ["MTV Video Music Award", "Canadian Music Award"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"song": ["pop", "duet", "love song"], "artist": ["madonna", "prince"], "genre": ["rhythm and blues", "pop music"], "release date": ["2000"], "chart performance": ["peaked at number one"], "award": ["won grammy award"], "lyrics": ["romantic", "soulful"], "collaboration": ["with prince"], "album": ["album 'one night stand'"]}}
+
+{"concept": "3", "facet_properties_dict": {"mathematical concept": ["natural number", "integer", "odd number"], "position": ["first", "second", "third"], "quantity": ["three items", "three units"], "sequence": ["first three numbers", "first three letters of the alphabet"], "usage": ["phone number", "three-letter word", "score in a game"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"musical genre": ["pop", "dance-pop"], "song title": ["California Gurls"], "artist": ["Katy Perry", "Snoop Dogg"], "release date": ["2010"], "chart performance": ["top 10 on US Billboard Hot 100"], "lyrics theme": ["summer vibes", "fun", "beach party"]}}
+
+{"concept": "last friday night (t.g.i.f.)", "facet_properties_dict": {"event": ["party", "celebration", "get-together"], "day of the week": ["friday"], "time": ["night", "evening"], "social occasion": ["casual gathering", "informal party"], "atmosphere": ["relaxed", "fun", "lively"], "activities": ["dancing", "music", "drinking", "socializing"], "people involved": ["friends", "colleagues", "family"], "location": ["home", "bar", "club", "outdoor"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch", "elusive prey"], "situation": ["fishing", "sport", "adventure"], "feeling": ["disappointment", "frustration", "regret"], "importance": ["symbolic", "emotional", "meaningful"], "context": ["fishing trip", "competition", "personal experience"], "reaction": ["disappointment", "anger", "relief"]}}
+
+{"concept": "so what", "facet_properties_dict": {"tone": ["nonchalant", "indifferent", "disinterested"], "response to": ["news", "event", "situation"], "emotional connotation": ["neutral", "calm", "unfazed"], "common usage": ["in everyday conversation", "in casual dialogue"], "opposite of": ["oh wow", "wow", "amazing"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"theme": ["youth", "adolescence", "romance"], "music": ["pop", "rock", "song"], "artist": ["Britney Spears", "song title"], "emotional tone": ["dreamy", "wistful", "longing"], "lyrics": ["focus on love", "focus on relationships"], "popularity": ["hit single", "iconic song"], "genre": ["pop music", "rock music", "teen pop"]}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["pop song", "by william singe"], "genre": ["pop", "electronic"], "lyrics": ["emotional", "romantic", "heartbreak"], "released": ["2015"], "artist": ["william singe"], "popularity": ["chart-topping", "viral"], "mood": ["sad", "melancholic", "relatable"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["arm", "leg", "hand", "foot"], "function": ["moving", "supporting", "sensing", "communicating"], "structure": ["muscles", "bones", "skin", "nerves"], "location": ["upper body", "lower body", "head", "torso"], "control": ["brain", "spinal cord", "nervous system"], "importance": ["necessary for daily activities", "affects overall health", "plays a role in self-expression"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"behavior": ["lawbreaking", "dishonest", "harmful"], "motivation": ["financial gain", "power", "revenge"], "actions": ["stealing", "harming", "deceiving"], "consequences": ["arrest", "punishment", "rehabilitation"], "types": ["murderer", "thief", "terrorist"], "personality": ["antisocial", "manipulative", "reckless"], "society": ["public danger", "law enforcement", "justice system"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"meaning": ["desire to leave", "wish to depart"], "emotion": ["longing", "yearning"], "context": ["travel", "visit", "move"], "intention": ["leave somewhere", "go somewhere"], "action": ["plan to go", "decide to go"], "reason": ["escape", "relax", "explore"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"phrase": ["common expression", "greeting", "sympathy"], "meaning": ["expression of longing", "emotional connection", "absence"], "occasion": ["funeral", "wedding", "goodbye", "reunion"], "tone": ["sentimental", "emotional", "bittersweet"], "usage": ["written note", "spoken phrase", "card", "message"], "emotional connotation": ["sadness", "nostalgia", "longing"]}}
+
+{"concept": "smile", "facet_properties_dict": {"emotion": ["happiness", "joy", "friendliness"], "physical appearance": ["upturned corners", "straight line", "curved shape"], "expression": ["relaxed", "open", "genuine"], "social significance": ["nonverbal communication", "social cue", "confidence booster"], "cultural associations": ["friendliness", "welcoming", "approachability"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "romantic", "love song"], "artist": ["Andrea Bocelli", "pop opera"], "language": ["Italian", "Latin"], "genre": ["opera", "pop"], "duration": ["long", "ballad"], "released": ["1995", "CD single"], "award": ["Grammy", "best male pop vocal performance"]}}
+
+{"concept": "without me", "facet_properties_dict": {"meaning": ["absence", "nonexistence", "not present"], "phrase usage": ["in song titles", "in poetry", "in everyday conversation"], "emotional connotation": ["sadness", "longing", "nostalgia"], "contextual use": ["romantic relationships", "friendships", "family dynamics"], "song reference": ["Eddie Rabbitt song", "song by Fantasia", "song by Taylor Swift"]}}
+
+{"concept": "pamela", "facet_properties_dict": {"category": ["name", "person"], "first name": ["Pamela"], "last name": [" Anderson", "Lee", "Anderson Lee"], "occupation": ["actress", "model", "businesswoman"], "notable for": ["Baywatch", "Baywatch actress", "TV show"], "awards": ["Golden Globe", "Emmy Award"], "born in": ["USA", "United States"], "active years": ["1980s", "1990s", "2000s"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"activity type": ["water sport", "recreational activity", "competitive sport"], "vessel": ["sailboat", "yacht", "dinghy"], "wind": ["dependent on", "uses", "influences"], "skill level": [" beginner", "advanced", "professional"], "equipment": ["sail", "rigger", "tiller"], "location": ["ocean", "lake", "river", "coastal area"], "objective": ["reaching destination", "racing", "pleasure cruise"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"event": ["holiday", "seasonal", "family gathering"], "mode of transportation": ["driving", "car", "road trip"], "destination": ["home", "family home", "Christmas dinner"], "occasion": ["Christmas", "holiday season", "family reunion"], "involved people": ["family members", "relatives", "loved ones"], "type of journey": ["long distance", "road trip", "holiday travel"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"genre": ["rock music", "pop music", "musical medley"], "origin": ["Taylor Swift", "1989 album"], "length": ["short song", "approx. 3 minutes"], "lyrics": ["inspirational", "empowering", "celebrating self-love"], "mood": ["uplifting", "energetic", "confident"], "tone": ["positive", "motivational", "celebratory"], "style": ["pop-rock", "catchy", "radio-friendly"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song title": ["lyrics"], "artist": ["Ella Fitzgerald", "Elvis Costello", "Madonna", "Pink Floyd"], "genre": ["pop", "rock", "jazz"], "released": ["1959", "1996", "2005"], "lyrics theme": ["love", "heartbreak", "longing"], "mood": ["sad", "melancholic", "romantic"]}}
+
+{"concept": "Do the Bartman", "facet_properties_dict": {"type": ["song", "single"], "artist": ["The Simpsons", "Nancy Sinatra", "Bart Simpson"], "genre": ["pop", "rock"], "release date": ["1991", "1990s"], "chart performance": ["top 10", "successful"], "connection to the simpsons": ["themed song", "Bart Simpson's song"], "music video": ["features Bart Simpson", "animated music video"], "album": ["The Simpsons Sing the Blues", "Nancy Sinatra album"]}}
+
+{"concept": "Stranded (Haiti Mon Amour)", "facet_properties_dict": {"type": ["song", "single", "music"], "artist": ["Christina Aguilera"], "genre": ["pop", "R&B", "world music"], "language": ["English", "French"], "lyrics": ["heartfelt", "emotional", "storytelling"], "release": ["2007", "album Back to Basics"], "collaboration": ["Bryce Wilson", "Raúl Midón"], "award": ["Grammy nomination"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"category": ["beverage", "liquid", "refreshment"], "composition": ["water", "no added flavor"], "temperature": ["cold", "room temperature", "warm"], "container": ["glass", "bottle", "cup"], "purpose": ["drinking", "wetting", "cleaning"], "origin": ["tap", "bottle", "spring", "well"], "appearance": ["clear", "colorless", "transparent"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"meaning": ["phrase", "idiom", "expression"], "usage": ["used to describe something that is temporary", "used to describe something that is limited"], "origin": ["song title", "song by Janet Jackson"], "connotation": ["positive", "encouraging", "motivational"], "context": ["daily life", "music", "pop culture"], "tone": ["inspirational", "uplifting", "motivational"]}}
+
+{"concept": "From Sarah with Love", "facet_properties_dict": {"genre": ["romantic comedy", "film"], "plot": ["woman falls in love with a man", "overcoming personal struggles"], "main character": ["Sarah", "woman"], "release date": ["2008", "movie release"], "actors": ["Helen Mirren", "Jim Broadbent"], "awards": ["BAFTA nomination", "film award"], "director": ["Enda Walsh", "film director"]}}
+
+{"concept": "drive", "facet_properties_dict": {"song": ["by the cars", "1970s", "classic rock"], "lyrics": ["relatable", "poetic", "romantic"], "tone": ["mellow", "melancholic", "wistful"], "genre": ["rock", "pop", "soft rock"], "duration": ["short", "around 3 minutes"], "album": ["singles", "best of", "moving in stereo"], "artist": ["the cars", "singers", "music band"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotion": ["negative", "embarrassing"], "causes": ["public failure", "private secret", "social rejection"], "effects": ["low self-esteem", "social withdrawal", "anxiety"], "coping mechanisms": ["denial", "blame", "self-blame"], "related emotions": ["guilt", "embarrassment", "humiliation"], "social context": ["social norms", "cultural expectations", "peer pressure"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "musical", "1963 film"], "plot": ["love story", "historical context", "American Jewish family"], "characters": ["Katie Morosky", "Hubbell Gardner"], "actors": ["Barbra Streisand", "Robert Redford"], "genre": ["drama", "romance", "musical"], "music": ["iconic soundtrack", "A Love Like Ours"], "awards": ["Academy Award nomination", "Golden Globe nomination"], "director": ["Sidney Pollack"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"nature": ["routine", "common", "normal"], "duration": ["long-term", "short-term"], "activities": ["work", "study", "leisure", "sleep"], "emotions": ["boredom", "excitement", "stress", "relaxation"], "environment": ["home", "workplace", "outdoors"], "characteristics": ["predictable", "unpredictable", "structured", "unstructured"]}}
+
+{"concept": "tiến quân ca", "facet_properties_dict": {"type": ["martial music", "military song"], "origin": ["Vietnam", "Vietnamese"], "purpose": ["inspiring troops", "boosting morale"], "style": ["traditional", "orchestral"], "features": ["patriotic lyrics", "rhythmic drumming"], "association": ["Vietnamese culture", "military tradition"], "characteristics": ["loud", "proud", "energetic"]}}
+
+{"concept": "everyday Katyusha", "facet_properties_dict": {"type": ["rocket", "missile"], "origin": ["Soviet Union", "Russia"], "use": ["military", "space exploration"], "design": ["liquid-fueled", "single-stage"], "launch": ["ground-based", "mobile"], "range": ["up to 6,000 km"], "speed": ["up to 6,000 m/s"]}}
+
+{"concept": "love me tender", "facet_properties_dict": {"song": ["Elvis Presley", "rock and roll", "romantic ballad"], "lyrics": ["whisper words of wisdom", "let it be", "let it be soon"], "genre": ["rock", "pop", "ballad"], "mood": ["romantic", "sentimental", "emotional"], "origin": ["written by Elvis Presley", "released in 1959"], "popularity": ["iconic", "classic", "beloved"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"origin": ["Prague", "Czech Republic"], "structure": ["iron lattice", "railway bridge"], "purpose": ["romantic gesture", "symbolic act"], "duration": ["short term", "ephemeral"], "notable for": ["unique concept", "public art"], "associated with": ["love", "romance", "passion"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["song", "Queen", "Freddie Mercury"], "meaning": ["continue despite adversity", "persevere"], "context": ["rock music", "concert", "live performance"], "tone": ["inspirational", "motivational"], "popularity": ["iconic", "popular"], "use": ["anthem", "motivational speech", "inspirational quote"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song": ["rock music", "lyrics", "power ballad"], "artist": ["Three Days Grace", "Canadian rock band"], "album": ["One-X", "2006 release"], "genre": ["hard rock", "heavy metal"], "lyrics meaning": ["overcoming struggles", "perseverance", "emotional release"], "mood": ["intense", "emotional", "inspirational"], "length": ["approximately 3 minutes"], "chart performance": ["peaked at #1 on US Active Rock chart"]}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"type": ["song", "music"], "artist": ["mary j blige", "george michael"], "genre": ["r&b", "pop"], "release year": ["1999"], "chart performance": ["peaked at number one"], "lyrics": ["romantic", "heartfelt"], "collaboration": ["duet"], "award": ["grammy award"]}}
+
+{"concept": "3", "facet_properties_dict": {"mathematical concept": ["integer", "whole number", "odd number"], "numerical value": ["three", "third"], "ordering": ["first two", "second two", "after two"], "in sequence": ["2", "4"], "in pattern": ["one two three", "one two three four"], "used in": ["phone number", "address", "score"], "in context": ["three strikes", "three wishes", "three Blind Mice"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"music genre": ["pop", "electronic"], "song title": ["California Gurls"], "artist": ["Katy Perry"], "release year": ["2010"], "lyrics theme": ["summer", "beach", "party"], "chart performance": ["top 10", "hit single"], "music video features": ["Russell Brand", "sizzling beach bodies"]}}
+
+{"concept": "last friday night", "facet_properties_dict": {"day of the week": ["Friday"], "time of day": ["night"], "social occasion": ["party", "celebration"], "music genre": ["rock", "pop", "dance"], "atmosphere": ["lively", "exciting", "fun"], "activities": ["dancing", "drinking", "socializing"], "memories": ["unforgettable", "joyful", "relaxing"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"context": ["fishing", "romance", "opportunity"], "meaning": ["something that slipped away", "unrealized chance"], "feeling": ["regret", "disappointment", "longing"], "cause": ["bad luck", "poor timing", "lack of effort"], "impact": ["lasting memory", "unresolved emotions", "what if"]}}
+
+{"concept": "so what", "facet_properties_dict": {"tone": ["nonchalant", "indifferent", "unimpressed"], "response to news": ["lacking surprise", "showing no interest", "unconcerned"], "attitude": ["apathetic", "unenthusiastic", "uninvolved"], "expression": ["shrugging", "skeptical", "unfazed"], "context": ["conversational", "emotional", "philosophical"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"meaning": ["idyllic youthful experience", "carefree joy"], "origin": ["song by Katy Perry", "pop culture phenomenon"], "theme": ["youthful innocence", "idealized romance"], "emotional connotation": ["nostalgia", "longing"], "association": ["adolescence", "music", "pop culture"], "connotation": ["positive", "whimsical"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["song by william singe", "popular song", "2015 hit"], "genre": ["pop", "electronic", "dance"], "artist": ["william singe", "singer", "musician"], "lyrics": ["relates to self-empowerment", "encourages self-confidence", "motivational"], "chart performance": ["peaked at number one", "top 10 hit", "successful single"], "album": ["song is part of album", "album name", "music album"]}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["head", "neck", "shoulder", "arm", "hand", "finger", "toe"], "function": ["movement", "sensation", "balance", "vision"], "structure": ["bone", "muscle", "nerve", "skin", "tendon", "ligament"], "location": ["upper body", "lower body", "torso"], "importance": ["necessary for survival", "important for daily activities", "affects overall health"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"category": ["lawbreaker", "offender", "felon"], "motivation": ["financial gain", "revenge", "thrill seeking"], "behavior": ["dishonest", "violent", "deceptive"], "actions": ["stealing", "harming", "breaking laws"], "characteristics": ["dishonorable", "untrustworthy", "lawless"], "consequences": ["punishment", "imprisonment", "rehabilitation"], "types": ["white collar", "street", "organized"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"emotional state": ["desire", "longing", "yearning"], "destination": ["place", "location", "landmark"], "mode of transport": ["walking", "driving", "flying", "taking a bus"], "urgency": ["soon", "now", "later"], "context": ["vacation", "business trip", "daily routine"], "reason": ["leisure", "work", "school", "social event"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"origin": ["phrase", "postcard", "greeting card"], "meaning": ["expression of longing", "sentimental message", "emotional farewell"], "context": ["farewell", "parting", "absence"], "tone": ["sentimental", "emotional", "bittersweet"], "usage": ["written message", "spoken phrase", "ceremonial occasion"]}}
+
+{"concept": "smile", "facet_properties_dict": {"emotion": ["happiness", "joy", "friendliness"], "physical appearance": ["upward curve", "brightening of face", "relaxation of facial muscles"], "expression": ["open-mouthed", "widespread", "genuine"], "social significance": ["social bonding", "trust-building", "attractiveness"], "cultural associations": ["warmth", "welcoming", "optimism"], "facial features": ["raised cheeks", "relaxed jaw", "sparkling eyes"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "ballad", "love song", "by Andrea Bocelli"], "lyrics": ["romantic", "emotional", "poetic"], "genre": ["classical", "pop", "operatic pop"], "artist": ["Andrea Bocelli", "Italian singer"], "album": ["Romanza", "best-selling album"], "awards": ["Grammy nomination", "best-selling single"], "meaning": ["farewell", "love", "longing"], "impact": ["iconic", "iconic duet", "cultural phenomenon"]}}
+
+{"concept": "without me", "facet_properties_dict": {"song": ["by Eminem", "rap song", "chart-topping"], "lyrics": ["emotional", "autobiographical", "critically acclaimed"], "album": ["The Eminem Show", "2002", "Grammy-winning"], "genre": ["hip-hop", "rap", "popular music"], "theme": ["estrangement", "separation", "emotional pain"], "music video": ["controversial", "criticized", "banned on MTV"]}}
+
+{"concept": "pamela", "facet_properties_dict": {"person": ["celebrity", "actress", "model"], "nationality": ["american"], "notable roles": ["Baywatch", "V.I.P."], "award": ["Golden Globe Award"], "medium": ["television", "film"], "birth date": ["September 10, 1967"], "death date": ["April 15, 2022"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"activity": ["water sport", "recreational", "competitive"], "type": ["yachting", "dinghy", "cruising"], "equipment": ["sail", "boat", "helm"], "environment": ["ocean", "lake", "sea"], "skills": ["steering", "trimming", "tacking"], "events": ["regatta", "marathon", "cruise"], "physical demands": ["strength", "endurance", "balance"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"holiday": ["Christmas"], "action": ["driving"], "destination": ["home"], "mode of transportation": ["car"], "occasion": ["holiday season"], "purpose": ["spending time with family", "celebrating holiday"], "associated emotions": ["excitement", "joy", "stress"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"genre": ["rock", "pop", "classical"], "instrumentation": ["guitar", "piano", "strings"], "emotional tone": ["inspiring", "uplifting", "nostalgic"], " tempo": ["fast", "medium", "slow"], "lyrics": ["motivational", "storytelling", "romantic"], "artist": ["Taylor Swift", "Ed Sheeran", "Adele"], "album": ["1989", "÷", "25"], "awards": ["Grammy", "MTV", "Billboard"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song": ["by Kylie Minogue", "pop song", "dance music"], "lyrics": ["about obsession", "about love", "about heartbreak"], "genre": ["pop", "dance", "electronic"], "artist": ["Kylie Minogue", "Australian singer"], "released year": ["2001"], "chart performance": ["hit single", "top 10", "worldwide success"]}}
+
+{"concept": "Do the Bartman", "facet_properties_dict": {"song": ["by The Simpsons", "by Bart Simpson", "1990"], "genre": ["pop", "rock", "music"], "artist": ["The Simpsons", "Bart Simpson", "Ned Flanders"], "album": ["The Simpsons Sing the Blues"], "release year": ["1990"], "chart performance": ["peaked at 51 on US Billboard Hot 100"], "music video": ["features Bart Simpson", "features Krusty the Clown"]}}
+
+{"concept": "stranded", "facet_properties_dict": {"music": ["reggae", "haitian music", "wyclef jean"], "album": ["haiti mon amour", "2007 release"], "genre": ["reggae fusion", "world music"], "awards": ["grammy nomination"], "critical reception": ["positive reviews", "critical acclaim"], "impact": ["raised awareness about haiti", "helped to promote haitian culture"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"category": ["beverage", "drink"], "temperature": ["cold", "room temperature", "hot"], "color": ["clear", "colorless"], "texture": ["smooth", "refreshing"], "taste": ["neutral", "refreshing"], "usage": ["quenching thirst", "washed hands", "cleansing"], "found in": ["kitchen", "refrigerator", "water fountain"], "properties": ["hydrating", "calming"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"song title": ["pop song", "by Janet Jackson"], "lyrics": ["about fleeting moments", "about lost love"], "genre": ["pop", "R&B"], "artist": ["Janet Jackson", "musician"], "era": ["1990s", "music"], "chart performance": ["hit single", "number one song"]}}
+
+{"concept": "From Sarah with Love", "facet_properties_dict": {"genre": ["romantic comedy", "film"], "release year": ["2016"], "director": ["Elizabeth Allen Rosenbaum"], "main characters": ["Sarah", "Kevin"], "plot": ["love story", "self-discovery", "overcoming past"], "setting": ["London", "New York"], "tone": ["heartwarming", "uplifting", "inspirational"]}}
+
+{"concept": "drive", "facet_properties_dict": {"song": ["by The Cars", "1984 album", "Heartbeat City"], "genre": ["rock", "new wave"], "lyrics": ["about a car", "about a feeling", "about freedom"], "mood": ["upbeat", "energetic", "carefree"], "artist": ["The Cars", "Ric Ocasek"], "album": ["Heartbeat City", "The Cars"], "release date": ["1984", "March 8th"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotion": ["negative", "embarrassing", "humiliating"], "cause": ["social mistake", "failure", "rejection"], "effect": ["self-consciousness", "low self-esteem", "avoidance"], "types": ["public", "private", "self-inflicted"], "cultural significance": ["taboo", "social stigma", "social pressure"], "coping mechanisms": ["denial", "avoidance", "confession"], "related concepts": ["guilt", "embarrassment", "humiliation"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "American", "starring Barbra Streisand", "released in 1973"], "plot": ["love story", "historical setting", "WWII", "lost love"], "music": [" iconic soundtrack", "sung by Barbra Streisand"], "awards": ["won Academy Award", "won Golden Globe"], "genre": ["romantic drama", "historical drama"], "theme": ["lost love", "nostalgia", "memory"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"scope": ["personal", "social", "public"], "nature": ["routine", "habitual", "unremarkable"], "importance": ["mundane", "familiar", "taken for granted"], "aspects": ["work", "leisure", "family", "friends"], "characteristics": ["predictable", "repetitive", "unexciting"], "experience": ["familiarity", "comfort", "boredom"]}}
+
+{"concept": "tiến quân ca", "facet_properties_dict": {"type": ["Vietnamese music", "folk music", "traditional music"], "origin": ["Vietnam", "North Vietnam", "Hanoi"], "instrument": ["dulcimer", "guitar", "violin"], "lyrics": ["poetic", "storytelling", "historical"], "performance": ["singing", "playing instruments", "dance"], "cultural significance": ["Vietnamese cultural heritage", "national identity", "family gatherings"]}}
+
+{"concept": "everyday katyusha", "facet_properties_dict": {"origin": ["Soviet Union", "Russia"], "type": ["rocket", "missile"], "function": ["military", "space exploration"], "launch site": ["Baikonur Cosmodrome", "Plesetsk Cosmodrome"], "range": ["intercontinental", "suborbital"], "speed": ["up to 8,000 km/h"], "history": ["developed in 1950s", "retired in 1960s"]}}
+
+{"concept": "Love Me Tender", "facet_properties_dict": {"song": ["pop song", "Elvis Presley", "1956 release"], "title": ["Love Me Tender"], "genre": ["rock and roll", "pop"], "lyrics": ["romantic", "sentimental"], "musical style": ["ballad", "orchestral"], "chart performance": ["number one hit", "best-selling single"], "artist": ["Elvis Presley", "The King of Rock and Roll"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"location": ["Nikitskaya Street, Moscow", "Russia"], "origin": ["built in 1997", "for romantic couples"], "structure": ["made of metal", "covered in flowers and lights"], "purpose": ["to help couples strengthen their relationship"], "features": ["lock and key system", "scenic views of the Moskva River"], "popularity": ["became a popular tourist attraction", "inspired by the famous song by the group Soft Machine"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["Queen song", "rock ballad"], "meaning": ["persevering through adversity", "continuing despite obstacles"], "popularity": ["iconic song", "favorite among fans"], "genre": ["rock music", "heavy metal"], "lyrics": ["inspirational", "motivational"], "performance": ["live concerts", "music festivals"], "cultural impact": ["inspiring fans", "symbolizing resilience"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song": ["rock ballad", "power ballad"], "artist": ["Three Days Grace", "band"], "genre": ["hard rock", "heavy metal", "rock music"], "lyrics": ["emotional", "inspirational", "motivational"], "tone": ["uplifting", "intense", "passionate"], "popularity": ["popular", "well-known", "iconic"], "released": ["2006", "album", "One-X"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"song": ["pop", "ballad", "love song"], "artist": ["madonna"], "release date": ["2003"], "chart performance": ["top 10"], "genre": ["adult contemporary"], "lyrics": ["romantic", "heartfelt"], "album": ["evidence"]}}
+
+{"concept": "3", "facet_properties_dict": {"math": ["integer", "odd number", "small number"], "position": ["third", "middle"], "quantity": ["three items", "three units"], "type": ["digit", "number", "integer value"], "use": ["counting", "measuring", "ordering"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"music genre": ["pop", "electronic", "dance"], "song type": ["upbeat", "catchy", "summer anthem"], "artist": ["Katy Perry", "Snoop Dogg"], "release date": ["2010"], "chart performance": ["top 10", "peaked at number one"], "lyrics": ["fun", "party", "summer vibes"], "music video": ["colorful", "dancing", "beach setting"]}}
+
+{"concept": "last friday night (t.g.i.f.)", "facet_properties_dict": {"occasion": ["weekend", "party", "social gathering"], "atmosphere": ["relaxed", "fun", "lively"], "music": ["loud", "upbeat", "pop"], "food and drink": ["snacks", "alcoholic drinks", "finger foods"], "social interaction": ["socializing", "dancing", "laughing"], "activities": ["dancing", "playing games", "watching performances"], "emotions": ["excitement", "happiness", "relaxation"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"situation": ["fishing", "romance"], "emotional response": ["disappointment", "regret", "longing"], "circumstances": ["lost opportunity", "unrequited love", "mistaken choice"], "duration": ["brief", "lasting"], "memory": ["bittersweet", "painful", "haunting"], "reflection": ["what could have been", "what should have been", "what might have been"]}}
+
+{"concept": "so what", "facet_properties_dict": {"emotional tone": ["indifferent", "unconcerned"], "response to news": ["lack of interest", "apathy"], "phrase meaning": ["no significance", "no importance"], "expression of": ["disinterest", "unimportance"], "contextual usage": ["in response to bad news", "in response to good news"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"type": ["song", "music genre"], "artist": ["britney spears"], "release date": ["2009"], "lyrics": ["romantic", "sensual"], "chart performance": ["top 10", "best selling"], "music genre": ["pop", "dance"], "awards": ["mtv video music award", "billboard music award"], "impact": ["cultural phenomenon", "iconic song"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["pop song", "by william singe", "released in 2012"], "genre": ["pop", "dance"], "lyrics": ["about self-empowerment", "about confidence"], "chart performance": ["top 10 in many countries", "number one in some countries"], "music video": ["features william singing", "features dancers"], "artist": ["william singe", "british singer"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["hand", "arm", "leg", "foot", "head"], "function": ["moving", "sensing", "thinking", "breathing"], "structure": ["soft", "hard", "muscular", "bony"], "location": ["upper", "lower", "middle"], "sensitivity": ["sensitive", "insensitive"], "ability": ["movable", "immovable"], "connection": ["connected", "disconnected"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"behavior": ["lawbreaking", "dishonest", "unlawful"], "actions": ["stealing", "harming", "cheating"], "motivation": ["financial gain", "revenge", "power"], "characteristics": ["dishonest", "untrustworthy", "ruthless"], "consequences": ["punishment", "imprisonment", "rehabilitation"], "types": ["murderer", "thief", "embezzler"], "role": ["offender", "perpetrator", "lawbreaker"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"meaning": ["desire", "wish", "intention"], "direction": ["to a place", "away from something"], "purpose": ["for a reason", "for a goal"], "context": ["in a sentence", "in a conversation", "in a thought"], "emotional tone": ["positive", "negative", "neutral"], "speaker's intention": ["to share", "to persuade", "to inform"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"phrase": ["common farewell", "expression of longing"], "origin": ["postcard", "telegram", "letter"], "emotional connotation": ["sentimental", "nostalgic", "bittersweet"], "usage": ["in farewell letters", "in postcards", "in romantic gestures"], "meaning": ["expression of longing", "expression of sadness", "expression of love"]}}
+
+{"concept": "smile", "facet_properties_dict": {"expression": ["facial", "positive", "friendly"], "cause": ["happiness", "joy", "relief"], "effect": ["attracting attention", "boosting mood", "relaxation"], "physical characteristics": ["upturned corners", "straightened lips", "brightened eyes"], "social significance": ["social bonding", "confidence booster", "emotional expression"], "cultural associations": ["warmth", "welcoming", "friendliness"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "slow", "romantic", "popular"], "artist": ["Andrea Bocelli", "opera singer"], "genre": ["opera", "classical", "pop"], "lyrics": ["romantic", "poetic", "emotional"], "music style": ["aria", "ballad", "orchestral"], "release date": ["1995", "CD single"], "awards": ["Grammy Award", "best-selling album"]}}
+
+{"concept": "without me", "facet_properties_dict": {"song": ["popular song", "by Eminem", "feat. Dido"], "lyrics": ["song's theme", "about a toxic relationship"], "genre": ["rap", "pop"], "artist": ["Eminem", "Dido"], "release": ["2002", "single from album"], "impact": ["critical acclaim", "commercial success"]}}
+
+{"concept": "Pamela", "facet_properties_dict": {"person": ["woman", "actress", "model"], "profession": ["actress", "model", "TV host"], "nationality": ["American"], "born": ["April 10, 1949"], "died": ["April 15, 2020"], "known for": ["Baywatch", "Playboy magazine"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"type": ["recreational", "competitive", "commercial"], "water": ["ocean", "lake", "river", "sea"], "vessel": ["sailboat", "yacht", "dinghy"], "propulsion": ["wind", "engine"], "skill level": ["beginner", "expert"], "equipment": ["sail", "anchor", "life jacket"], "purpose": ["recreation", "transportation", "racing"], "location": ["coast", "harbor", "open sea"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"event": ["holiday", "seasonal", "family gathering"], "activity": ["driving", "traveling", "visiting"], "mode of transportation": ["car", "road trip", "holiday journey"], "destination": ["home", "family", "loved ones"], "atmosphere": ["festive", "joyful", "warm"], "purpose": ["spending time with family", "celebrating holiday", "reuniting with loved ones"]}}
+
+{"concept": "never too far/hero medley", "facet_properties_dict": {"genre": ["electronic", "dance", "pop"], "composer": ["Hans Zimmer"], "origin": ["soundtrack", "movie"], "tone": ["uplifting", "inspiring"], "length": ["short", "approximately 4 minutes"], "features": ["piano", "strings", "orchestral"], "effect": ["emotional", "iconic", "movie trailer"], "album": ["Inception", "The Thin Red Line"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song": ["pop song", "Eurythmics", "famous hit"], "lyrics": ["repetitive phrase", "catchy melody"], "genre": ["new wave", "synthpop"], "artist": ["Eurythmics", "Annie Lennox", "Dave Stewart"], "release date": ["1983"], "chart performance": ["number one single", "successful album"], "lasting impact": ["iconic song", "classic hit", "enduring popularity"]}}
+
+{"concept": "Do the Bartman", "facet_properties_dict": {"music genre": ["pop", "rock", "new wave"], "song type": ["single", "chart-topping"], "artist": ["The Simpsons", "Nancy Sinatra", "Bart Simpson"], "release date": ["1990s", "1993"], "lyrics theme": ["youth culture", "pop culture", "teenage rebellion"], "chart performance": ["number one", "top 10"], "album": ["The Simpsons Sing the Blues", "The Yellow Album"]}}
+
+{"concept": "stranded (Haiti Mon Amour)", "facet_properties_dict": {"music genre": ["reggae", "rock"], "lyrics": ["poignant", "emotive", "storytelling"], "mood": ["sad", "reflective", "contemplative"], "instrumentation": ["guitar", "drums", "bass"], "vocalist": ["Bob Marley", "Peter Tosh"], "song theme": ["love", "heartbreak", "social commentary"], "album": ["Catch a Fire", "Burnin'"], "year released": ["1973"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"composition": ["water", "glass material"], "appearance": ["clear", "transparent", "reflective"], "function": ["drinking", "hydration", "cleaning"], "container": ["glass", "material", "shape"], "temperature": ["cold", "room temperature", "hot"], "location": ["kitchen", "table", "desk"], "usage": ["daily", "recreational", "medicinal"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"phrase": ["English idiom", "expression", "saying"], "meaning": ["to enjoy something while it lasts", "to make the most of a situation"], "origin": ["African American Vernacular English", "slang"], "usage": ["informal", "casual"], "connotation": ["positive", "encouraging"]}}
+
+{"concept": "From Sarah with Love", "facet_properties_dict": {"movie title": ["romantic comedy", "2008 film"], "director": ["Gillian Armstrong"], "genre": ["romance", "comedy"], "plot": ["story of a young woman", "finding love in Australia"], "release year": ["2008"], "award winner": ["won several awards", "Australian film industry"], "critic reviews": ["generally positive", "good reviews"], "actors involved": ["Yvonne Strahovski", "Joel McInerney", "Harrison Gilbertson"]}}
+
+{"concept": "drive", "facet_properties_dict": {"song": ["by The Cars", "1984 album", "Heartbeat City"], "genre": ["rock", "new wave"], "lyrics": ["about a long drive", "about a person's life"], "mood": ["upbeat", "energetic"], "instrumentation": [" synthesizers", "guitars", "drums"], "popularity": ["hit single", "iconic song"], "artist": ["The Cars", "Ric Ocasek"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotional state": ["negative", "uncomfortable", "embarrassing"], "cause": ["social rejection", "failure", "mistake"], "effect": ["self-blame", "anxiety", "low self-esteem"], "expression": ["blushing", "apologetic behavior", "avoidance"], "cultural significance": ["taboo", "stigma", "social pressure"], "relief": ["forgiveness", "self-acceptance", "apology"], "coping mechanisms": ["denial", "avoidance", "seeking support"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "musical", "1963 release"], "plot": ["love story", "historical setting", "WWII era"], "main characters": ["Katie Morosky", "Hubbell Gardner"], "music": ["iconic score", "Leonard Bernstein"], "awards": ["Academy Award for Best Original Song"], "director": ["Sidney Pollack"], "genre": ["romantic drama", "musical drama"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"routine": ["daily habits", "repetitive tasks", "mundane activities"], "common": ["shared by most people", "universal experiences", "ordinary events"], "ordinary": ["unremarkable", "not extraordinary", "normal circumstances"], "familiar": ["well-known", "recognizable", "understood"], "mundane": ["unexciting", "not thrilling", " routine tasks"], "practical": ["useful", "pragmatic", "functional"]}}
+
+{"concept": "tiền quân ca", "facet_properties_dict": {"type": ["music", "vocal music", "traditional music"], "origin": ["Vietnamese", "Vietnam"], "instrument": ["traditional instruments", "danh", "đàn nguyệt"], "characteristics": ["melodic", "harmonious", "soulful"], "performers": ["traditional musicians", "professional musicians"], "purpose": ["entertainment", "cultural preservation", "spiritual ritual"]}}
+
+{"concept": "everyday katyusha", "facet_properties_dict": {"origin": ["Russian", "Ukrainian"], "genre": ["folk song", "popular music"], "instrumentation": ["accordion", "guitar", "vocals"], "lyrics": ["storytelling", "romantic", "nationalistic"], "cultural significance": ["symbol of Russian culture", "popular during Soviet era"], "duration": ["short", "upbeat"], "audience": ["children", "adults", "Russian-speaking communities"]}}
+
+{"concept": "love me tender", "facet_properties_dict": {"song": ["title", "Elvis Presley", "rock and roll"], "lyrics": ["romantic", "sentimental", "sweet"], "genre": ["rock and roll", "pop music"], "artist": ["Elvis Presley", "the King"], "released": ["1953", "first single"], "popularity": ["iconic", "classic", "beloved"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"location": ["Moldova", "Rumania"], "structure": [" concrete", " metal", "water"], "function": ["symbolic", "romantic", "attractive"], "features": ["lighted", " decorated", "waterfall"], "origin": ["built in 1970", "by Gheorghe Moroşan", "as a symbol of love"], "popularity": ["tourist attraction", "romantic spot", "unique landmark"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"origin": ["Queen song", "1986 album"], "meaning": ["persevering despite adversity", "continuing despite challenges"], "usage": ["inspirational phrase", "motivational quote"], "theme": ["resilience", "determination"], "context": ["rock music", "Queen's discography"], "message": ["overcoming obstacles", "staying committed"], "impact": ["inspiring others", "motivating people"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["hip hop", "R&B", "popular song"], "artist": ["2Pac", "Tupac Shakur"], "album": ["The Don Killuminati: The 7 Day Theory"], "year released": ["1996"], "genre": ["gangsta rap", "West Coast hip hop"], "lyrics": ["emotional", "storytelling", "social commentary"], "impact": ["cultural", "commercial", "critical"], "awards": ["Grammy nomination", "Billboard Hot 100 chart"]}}
+
+{"concept": "Nothing Compares 2 U", "facet_properties_dict": {"song": ["ballad", "love song", "popular hit"], "artist": ["Sinéad O'Connor", "Prince and the Revolution"], "genre": ["pop", "rock", "adult contemporary"], "released": ["1985", "1990"], "lyrics": ["emotional", "sad", "romantic"], "chart performance": ["top 10", "number one single"], "critic reception": ["positive", "acclaimed"]}}
+
+{"concept": "3", "facet_properties_dict": {"number": ["integer", "small", "odd"], "mathematics": ["prime", "divisible by 1 and itself"], "everyday use": ["phone number", "room number", "score in a game"], "grammar": ["cardinal number", "used in counting"], "sequence": ["first odd prime number", "first number in a series"]}}
+
+{"concept": "California Gurls", "facet_properties_dict": {"musical genre": ["pop", "dance-pop"], "artist": ["Katy Perry", "Snoop Dogg"], "song title": ["California Gurls"], "release year": ["2010"], "chart performance": ["number one on US Billboard Hot 100"], "lyrics theme": ["summer", "beach", "party"], "music video features": ["beach party", "Katy Perry's dancing"], "album": ["Teenage Dream"]}}
+
+{"concept": "last friday night", "facet_properties_dict": {"day of the week": ["friday"], "time of day": ["night"], "social event": ["party", "gathering"], "atmosphere": ["lively", "fun"], "activity": ["dancing", "drinking", "singing"], "music": ["loud", "upbeat"], "people involved": ["friends", "family", "colleagues"], "purpose": ["relaxation", "socializing", "celebration"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type of catch": ["fish", "opportunity", "chance"], "circumstances": ["lost due to bad luck", "escaped due to skill", "missed due to timing"], "emotional impact": ["disappointment", "regret", "bitterness"], "commonly experienced in": ["fishing", "life", "business"], "related emotions": ["frustration", "despair", "relief"], "common phrases": ["'the one that got away'", "'should have caught'", "'what if'"]}}
+
+{"concept": "so what", "facet_properties_dict": {"response": ["shrugging", "expressing indifference", "lacking enthusiasm"], "emotional tone": ["nonchalant", "apathetic", "uninterested"], "context": ["in a conversation", "in a situation", "in a decision"], "speaker's intention": ["to show lack of concern", "to express boredom", "to convey neutrality"], "possible follow-ups": ["nothing more to say", "asking for more information", "changing the subject"]}}
+
+{"concept": "teenage dream", "facet_properties_dict": {"theme": ["youth", "adolescence", "romance"], "associated with": ["Beyoncé", "pop music", "love"], "emotional tone": ["excitement", "longing", "joy"], "characteristics": ["dreamy", "romantic", "idyllic"], "origin": ["song", "music video", "album"], "impact": ["cultural phenomenon", "iconic song", "best-selling album"]}}
+
+{"concept": "it's gonna be me", "facet_properties_dict": {"song": ["by william singe", "pop song", "2013 hit"], "artist": ["william singe", "singer", "musician"], "genre": ["pop", "electronic", "dance"], "lyrics": ["about self-empowerment", "inspirational", "motivational"], "chart performance": ["top 10 hit", "peaked at number 3"], "release date": ["2013", "june 2013"]}}
+
+{"concept": "part of me", "facet_properties_dict": {"body part": ["hand", "arm", "leg", "head", "face"], "function": ["to touch", "to move", "to feel", "to see", "to think"], "location": ["on the body", "near the heart", "near the brain", "near the eyes", "near the mouth"], "sensation": ["warmth", "coolness", "pain", "tingling", "numbness"], "control": ["by the brain", "by the nerves", "by muscles", "by tendons", "by ligaments"]}}
+
+{"concept": "criminal", "facet_properties_dict": {"characteristic": ["lawbreaker", "wrongdoer", "offender"], "behavior": ["committing crime", "breaking law", "harming others"], "motivation": ["financial gain", "power", "revenge"], "consequences": ["punishment", "imprisonment", "fine"], "types": ["murderer", "thief", "terrorist"], "location": ["prison", "police station", "court"], "role": ["perpetrator", "victim", "witness"]}}
+
+{"concept": "i wanna go", "facet_properties_dict": {"desire": ["emotional", "immediate", "intense"], "destination": ["place", "location", "address"], "mode of transport": ["car", "plane", "train", "bus", "foot", "bike"], "purpose": ["vacation", "visit", "work", "school", "business"], "urgency": ["now", "soon", "later", "someday"], "emotional state": ["excitement", "anxiety", "relief", "satisfaction"], "social aspect": ["alone", "with others", "family", "friends", "colleagues"]}}
+
+{"concept": "wish you were here", "facet_properties_dict": {"origin": ["phrase", "postcard", "greeting card"], "meaning": ["expression of longing", "sentimental message", "emotional farewell"], "occasion": ["parting", "goodbye", "farewell"], "tone": ["sentimental", "emotional", "nostalgic"], "usage": ["written communication", "verbal expression", "ceremonial phrase"]}}
+
+{"concept": "smile", "facet_properties_dict": {"expression": ["happy", "friendly", "welcoming"], "physical characteristic": ["upturned corners of the mouth", "curved lips"], "emotional state": ["joy", "happiness", "relaxation"], "social significance": ["sign of friendliness", "way to build rapport", "indicator of good mood"], "displayed in": ["public", "private", "social media"], "functions": ["communication", "social bonding", "stress relief"]}}
+
+{"concept": "con te partirò", "facet_properties_dict": {"song": ["Italian", "ballad", "love song"], "artist": ["Andrea Bocelli", "pop singer"], "genre": ["classical crossover", "opera"], "lyrics": ["romantic", "emotional"], "language": ["Italian", "English"], "awards": ["Grammy", "Academy Award"], "released": ["1995", "1996"], "chart performance": ["hit single", "number one"]}}
+
+{"concept": "without me", "facet_properties_dict": {"song": ["popular song", "by Eminem", "with a strong beat"], "lyrics": ["emotional", "sad", "about a breakup"], "genre": ["rap", "hip-hop", "pop"], "tone": ["angry", "emotional", "vulnerable"], "message": ["about a lost love", "about feeling empty", "about the pain of a breakup"]}}
+
+{"concept": "pamela", "facet_properties_dict": {"category": ["name", "person", "celebrity"], "type": ["actress", "model", "singer"], "origin": ["america", "australia"], "notable work": ["baywatch", "hogan's heroes", "movies"], "awards": ["emmy award", "golden globe award"], "physical appearance": ["blonde hair", "blue eyes", "curvy figure"], "personal life": ["married", "divorced", "children"]}}
+
+{"concept": "sailing", "facet_properties_dict": {"activity type": ["water sport", "recreational activity", "competitive sport"], "equipment": ["sailboat", "yacht", "catamaran"], "location": ["ocean", "lake", "river", "sea"], "weather conditions": ["wind", "sun", "rain"], "physical requirements": ["balance", "strength", "endurance"], "types of sailing": ["racing", "cruising", "recreational"], "skills required": ["navigation", "steering", "tacking"], "popular destinations": ["Bahamas", "Hawaii", "Mediterranean", "Caribbean"]}}
+
+{"concept": "driving home for Christmas", "facet_properties_dict": {"holiday": ["Christmas", "winter holiday"], "activity": ["driving", "traveling"], "destination": ["home", "family", "relatives"], "mode of transportation": ["car", "vehicle", "driving"], "seasonal": ["winter", "cold weather"], "occasion": ["Christmas celebration", "family gathering"], "duration": ["long distance", "road trip"], "purpose": ["spending time with family", "celebrating Christmas"]}}
+
+{"concept": "Never Too Far/Hero Medley", "facet_properties_dict": {"genre": ["electronic", "trance", "dance"], "origin": ["Europe", "Germany", "ATB"], "characteristics": ["uplifting", "energetic", "catchy"], "features": ["piano riff", "vocal sample", " synthesizer lead"], "impact": ["popular", "iconic", "iconic in electronic music"], "era": ["1990s", "early electronic music", "golden age of trance"]}}
+
+{"concept": "can't get you out of my head", "facet_properties_dict": {"song": ["song title", "by ELO", "pop song"], "lyrics": ["about love", "about obsession", "about longing"], "melody": ["catchy", "upbeat"], "genre": ["pop", "rock"], "album": ["Face the Music", "Electric Light Orchestra"], "artist": ["Electric Light Orchestra", "Jeff Lynne"], "released": ["1975", "September 1975"]}}
+
+{"concept": "The Bartman", "facet_properties_dict": {"media": ["song", "single"], "artist": ["The Simpsons", "Green Day"], "genre": ["rock", "punk"], "release year": ["1992"], "chart performance": ["top 10", "hit single"], "lyrics": ["reference to Bart Simpson", "playful lyrics"], "music video": ["animated", "features Bart Simpson"], "album": ["The Simpsons Sing the Blues"]}}
+
+{"concept": "stranded", "facet_properties_dict": {"album": ["Haiti Mon Amour", "by Gotan Project"], "genre": ["electronic", "world music", "tango"], "year of release": ["2001"], "mood": ["atmospheric", "mysterious", "sensual"], "instruments used": ["piano", "double bass", "accordions"], "lyrics about": ["Haiti", "love", "longing"], "reception": ["critical acclaim", "commercial success"], "style": ["tango-inspired", "electronic-infused"]}}
+
+{"concept": "glass of water", "facet_properties_dict": {"category": ["beverage", "drink"], "temperature": ["cold", "room temperature", "hot"], "texture": ["clear", "translucent"], "taste": ["neutral"], "origin": ["tap", "bottled", "filtered"], "used for": ["quenching thirst", "washing", "cooking"], "appearance": ["transparent", "colorless"]}}
+
+{"concept": "got 'til it's gone", "facet_properties_dict": {"phrase": ["English idiom", "saying", "expression"], "meaning": ["to enjoy something while it lasts", "to make the most of an opportunity"], "origin": ["African American Vernacular English", "1980s", "hip-hop"], "usage": ["in conversation", "in song lyrics"], "popularization": ["Janet Jackson", "song title", "1997 album"], "cultural significance": ["iconic phrase", "cultural phenomenon", "representation of a generation"]}}
+
+{"concept": "From Sarah with Love", "facet_properties_dict": {"genre": ["romantic comedy", "film", "movie"], "plot": ["love story", "self-discovery", "family drama"], "setting": ["small town", "New Zealand", "broadway"], "characters": ["Sarah", "Sam", "mother"], "tone": ["heartwarming", "humorous", "emotional"], "awards": ["winning film", "best screenplay", "best actress"], "year released": ["2008", "2009"]}}
+
+{"concept": "Drive", "facet_properties_dict": {"song title": ["Drive"], "artist": ["Incubus"], "genre": ["alternative rock", "post-grunge"], "album": ["Make Yourself"], "release year": ["1999"], "lyrics": ["inspirational", "motivational"], "tone": ["uplifting", "energetic"], "popularity": ["popular", "iconic"], "musical style": ["heavy guitar riffs", "catchy melody"]}}
+
+{"concept": "shame", "facet_properties_dict": {"emotional state": ["negative feeling", "self-conscious"], "causes": ["social rejection", "failure", "mistake"], "effects": ["low self-esteem", "anxiety", "depression"], "related emotions": ["guilt", "embarrassment", "humiliation"], "coping mechanisms": ["denial", "blame", "avoidance"], "social significance": ["social stigma", "taboo", "societal pressure"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "musical", "1963 film"], "plot": ["love story", "romance", "World War II era"], "characters": ["Katharine Hepburn", "Harrison Ford", "musical performances"], "genre": ["romantic drama", "musical", "historical drama"], "awards": ["Academy Award winner", "Golden Globe winner"], "music": ["songs by Alan and Marilyn Bergman", "iconic musical numbers"], "director": ["Sidney Pollack", "classic Hollywood director"]}}
+
+{"concept": "everyday", "facet_properties_dict": {"routine": ["repetitive tasks", "daily habits", "unremarkable events"], "familiar": ["known places", "recognizable people", "common experiences"], "mundane": ["unexciting", "unremarkable", "ordinary"], "universal": ["shared by most people", "common to all", "human experience"], "normal": ["average", "typical", "usual"]}}
+
+{"concept": "tiền quân ca", "facet_properties_dict": {"genre": ["Vietnamese music", "traditional music"], "instruments": ["danh", "trong", "ranh"], "origin": ["northern Vietnam", "Vietnamese culture"], "characteristics": ["melodic", "rhythmic", "lyrical"], "lyrics": ["poetic", "storytelling"], "performed at": ["weddings", "festivals", "ceremonies"], "historical significance": ["preserved cultural heritage", "national identity"]}}
+
+{"concept": "everyday, Katyusha", "facet_properties_dict": {"artist": ["Bulgakova", "Russian singer"], "song title": ["Katyusha"], "genre": ["Russian folk music", "pop music"], "release date": ["1950s", "1956"], "lyrics": ["narrative song", "storytelling"], "origin": ["Soviet Union", "Russia"], "impact": ["popular worldwide", "iconic song"], "awards": ["Golden Gramophone", "Russian music award"]}}
+
+{"concept": "Love Me Tender", "facet_properties_dict": {"title": ["song", "Elvis Presley", "rock and roll"], "genre": ["rock and roll", "pop"], "lyrics": ["romantic", "whispered", "sweet"], "tone": ["mellow", "sensual"], "origin": ["written by", "Elvis Presley", "Vera Matson", "Ken Lane"], "released": ["1956", "single", "Elvis Presley's album"], "impact": ["iconic", "classic", "legendary"]}}
+
+{"concept": "tunnel of love", "facet_properties_dict": {"location": ["Moldova", "Romania"], "structure": ["tunnel", "bridge"], "origin": ["Romanian", "Soviet"], "usage": ["romantic getaway", "lovers' spot"], "features": ["scenic views", "water flowing through"], "atmosphere": ["peaceful", "idyllic"], "activities": ["picnicking", "kissing", "proposing"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"song": ["rock ballad", "Queen's song", "vocal performance"], "album": ["Innuendo", "Queen's album"], "lyrics": ["theme of perseverance", "inspiration from Freddie Mercury's illness"], "genre": ["rock", "classic rock"], "mood": ["emotional", "inspirational", "uplifting"], "artist": ["Queen", "Freddie Mercury"], "year": ["1991", "Queen's final album release"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"type": ["song", "rock song", "anthem"], "artist": ["Three Days Grace", "Canadian rock band"], "genre": ["hard rock", "heavy metal"], "lyrics": ["inspirational", "motivational", "emotional"], "release date": ["2006", "album 'One-X'"], "chart performance": ["peaked at #3 on US Alternative Songs chart"], "theme": ["perseverance", "hope", "resilience"]}}
+
+{"concept": "nothing compares 2 u", "facet_properties_dict": {"song": ["pop song", "by Madonna"], "lyrics": ["emotional", "romantic"], "genre": ["pop", "R&B"], "release date": ["2002"], "chart performance": ["top 10 hit", "peaked at number one"], "collaborator": ["Max Martin", "Rami Yacoub"], "award winner": ["Grammy Award", "Billboard Music Award"]}}

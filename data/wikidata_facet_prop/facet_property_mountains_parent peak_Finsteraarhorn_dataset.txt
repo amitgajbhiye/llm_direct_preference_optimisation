@@ -1,0 +1,901 @@
+
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Bavaria", "Germany", "Alps"], "height": ["2,962 meters", "highest peak in Germany"], "type": ["mountain", "peak"], "access": ["cable car", "hiking", "skiing"], "features": [" glaciers", "snow", "scenic views"], "activities": ["hiking", "climbing", "skiing", "snowboarding"], "notable for": ["popular tourist destination", "highest peak in Germany", "scenic views"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "Eiger, Mönch, and Jungfrau"], "height": ["4,158 meters"], "location": ["Switzerland", "Bernese Alps"], "climbing difficulty": ["challenging", "experienced climbers"], "scenic views": ["panoramic views", "Eiger, Mönch, and Jungfrau"], "tourist attraction": ["popular destination", "UNESCO World Heritage Site"], "accessibility": ["train station", "hiking trails"]}}
+
+{"concept": "mönnch", "facet_properties_dict": {"origin": ["Germany", "Switzerland"], "definition": ["a type of pastry", "a type of bread"], "ingredients": ["flour", "yeast", "water", "salt"], "texture": ["soft", "flaky"], "taste": ["sweet", "sour"], "usage": ["breakfast", "snack", "dessert"], "appearance": ["golden brown", "crusty"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["insect", "bee", "wildlife"], "size": ["small"], "habitat": ["forest", "meadow", "garden"], "diet": ["nectar", "pollen"], "behavior": ["social", "communicates through dance"], "reproduction": ["lays eggs", "colonial"], "threats": ["declining population", "habitat loss", "pesticides"]}}
+
+{"concept": "schreckhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger mountain range", "highest peak"], "elevation": ["13,964 feet", "4,214 meters"], "location": ["Switzerland", "Bernese Alps"], "difficulty": ["challenging climb", "experienced hikers only"], "route": ["climbing route", "via ferrata"], "mountaineering": ["popular destination", "exposed climb", "technical climb"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Bernese Alps"], "height": ["4,000 meters", "above sea level"], "location": ["Swiss Alps", "border of Bernese Oberland"], "mountain type": ["dormant volcano", "granite"], "climbing difficulty": ["challenging", "technical climb"], "first ascent": ["1859", "by Swiss mountaineer"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"location": ["Switzerland", "mountain", "Alps"], "elevation": ["2744 meters", "mountain peak"], "difficulty": ["challenging climb", "steep terrain"], "route": ["via ferrata", "hiking trail"], "views": ["panoramic views", "mountain scenery"], "weather": ["alpine weather", "snowy conditions"], "hiking": ["multi-day hike", "experienced hikers only"]}}
+
+{"concept": "Bietschhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps", "mountain"], "elevation": ["3,934 meters"], "mountain type": ["dormant volcano"], "first ascent": ["1865", "by Swiss mountaineers"], "difficulty level": ["challenging", "experienced climbers"], "notable features": [" glaciers", "rocky terrain"]}}
+
+{"concept": "dalmatian", "facet_properties_dict": {"breed": ["dog", "canine"], "coat": ["white", "black spots"], "size": ["medium", "large"], "origin": ["Croatia", "Europe"], "temperament": ["friendly", "outgoing", "energetic"], "uses": ["companion", "guardian"], "physical characteristics": ["short legs", "long body"], "lifespan": ["10-13 years"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Alps"], "height": ["meters", "3799"], "peak": ["highest", "in Uri"], "type": ["mountain", "rocky", "summit"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Europe"], "peak": ["highest peak", "4,000 meters"], "location": ["Switzerland", "Europe"], "climbing difficulty": ["challenging", "experienced climbers"], "summit views": ["panoramic views", "Aletsch Glacier"], "hiking trails": ["long hikes", "scenic routes"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"mountain": ["Alps", "Switzerland", "mountain peak"], "elevation": ["4,049 meters"], "location": ["Switzerland", "Canton of Grisons"], "difficulty level": ["difficult climb", "experienced mountaineer"], "route types": ["normal route", "alpine route"], "notable features": ["glaciers", "rocky terrain"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Swiss Alps"], "height": ["13,131 feet", "4,010 meters"], "named after": ["Louis Agassiz", "naturalist"], "climbing difficulty": ["technical climb", "experienced climber required"], "popular among": ["alpinists", "adventure seekers"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of horned beetle", "a type of insect"], "physical characteristics": ["large horn", "black and yellow coloration"], "habitat": ["forests", "grasslands"], "diet": ["plant-based", "sap-sucking"], "reproduction": ["laying eggs", "mating season"]}}
+
+{"concept": "l'argentine", "facet_properties_dict": {"nationality": ["Argentine", "South American", "Latin American"], "language": ["Spanish", "Portuguese"], "cuisine": ["asado", "empanadas", "alfajores"], "culture": ["gauchos", "tango", "fútbol"], "geography": ["Patagonia", "Andes", "Rio de la Plata"], "history": ["Independence", "Spanish colonial", "Peronism"], "famous people": ["Che Guevara", "Eva Perón", "Maradona"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Mauna Kea summit"], "geography": ["volcano", "mountain", " dormant"], "astronomy": ["observatory", "telescope", "star-gazing"], "climate": ["cold", "dry", "night-time"], "cultural significance": ["sacred", "Native American", "Hawaiian"], "recreational activities": ["hiking", "stargazing", "snowboarding"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus fruit", "acidic"], "color": ["yellow", "green"], "shape": ["oval"], "taste": ["sour", "acidic"], "aroma": ["strong", " citrusy"], "used for": ["cooking", "making lemonade", "adding flavor"], "located at": ["lemon tree", "supermarket", "fridge", "kitchen"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {"not a valid concept": ["does not exist", "not a recognized term"]}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"category": ["plant", "tree", "botanical"], "family": ["Bignoniaceae", "flowering plant"], "origin": ["Madagascar", "tropical region"], "characteristics": ["thorny stem", "large flowers", "fragrant scent"], "uses": ["ornamental", "medicinal", "wildlife habitat"], "habitats": ["tropical forests", "savannas", "gardens"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"location": ["Hundwil", "Switzerland", "Appenzell Ausserrhoden"], "mountain range": ["Appenzell Alps", "Swiss Alps"], "elevation": ["1,394 meters"], "notable features": ["hiking trails", "scenic views", "wildlife"], "recreational activities": ["hiking", "mountain biking", "sightseeing"]}}
+
+{"concept": "Černá hora", "facet_properties_dict": {"location": ["Czech Republic", "Bohemia", "Europe"], "mountain": ["peak", "summit", "elevation"], "height": ["1,722 meters"], "type": ["mountain", "hill"], "features": ["ski resort", "hiking trails"], "recreational use": ["skiing", "hiking", "sightseeing"], "geological composition": ["granite", "sandstone"]}}
+
+{"concept": "Grosser Schärhorn", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps"], "location": ["Switzerland", "Bernese Alps"], "height": ["13,042 ft"], "difficulty level": ["challenging climb"], "scenic views": ["panoramic views of the Alps"], "hiking trails": ["well-marked trails"], "weather conditions": ["harsh weather", "snow and ice"]}}
+
+{"concept": "breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "Piz Bernina"], "location": ["Switzerland", "Italy"], "elevation": ["4,049 meters", "above sea level"], "type": ["mountain peak", "four-thousander"], "difficulty": ["climbing", "technical climb"], "views": ["panoramic views", "Aosta Valley"], "climbing routes": ["Via Ferrata", "normal route"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"definition": ["type of sailboat", "small, lightweight boat"], "design": ["long and narrow", "typically with a single mast"], "usage": ["recreational sailing", "racing"], "size": ["small", "typically under 20 feet"], "materials": ["wood", "fiberglass", "carbon fiber"], "features": ["lightweight", "maneuverable", "easy to handle"]}}
+
+{"concept": "Medvědí Vrch", "facet_properties_dict": {"location": ["Czech Republic", "Bohemia", "Křivoklát"], "type": ["hill", "mountain", "landmark"], "height": ["560 meters", "above sea level"], "features": ["rocky terrain", "hiking trails", "scenic views"], "access": ["hiking", "cycling", "public transportation"], "importance": ["tourist attraction", "natural landmark", "cultural significance"]}}
+
+{"concept": "bruschetta", "facet_properties_dict": {"dish type": ["Italian", "appetizer", "snack"], "main ingredient": ["bread", "tomato", "basil"], "taste": ["savory", "herbaceous"], "origin": ["Italy", "Mediterranean"], "common preparation": ["toasted bread", "fresh tomatoes", "garlic"], "serving style": ["as a side dish", "as a topping", "as a snack"], "popular pairing": ["wine", "cheese", "olives"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain", "alps"], "location": ["france", "italy", "switzerland"], "elevation": ["high altitude", "above 3000 meters"], "type": ["peak", "summit"], "difficulty level": ["challenging climb", "technical ascent"], "best season": ["summer", "winter"], "view from top": ["panoramic view", "scenic panorama"]}}
+
+{"concept": "Blinnenhorn", "facet_properties_dict": {"mountain": ["German mountain", "peak"], "location": ["Germany", "Bavaria"], "elevation": ["2500 meters"], "difficulty": ["challenging climb"], "views": ["panoramic views of the Alps"], "hiking": ["popular hiking destination", "well-marked trails"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"definition": ["a type of mountain in Austria", "a mountain peak in the Ötztal Alps"], "location": ["Ötztal Alps", "Tyrol, Austria"], "height": ["3497 meters"], "difficulty level": ["challenging climb", "technical climb"], "features": ["snow-capped peak", "steep ascent"], "popular among": ["alpine climbers", "mountain enthusiasts"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["Alps", "Europe", "Italy", "Slovenia"], "height": ["2,584 meters"], "location": ["border of Italy and Slovenia"], "type": ["mountain peak", "summit"], "difficulty": ["challenging climb", "experienced hikers"], "views": ["panoramic views", "surrounding mountains"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps", "Eiger mountain range"], "mountain type": ["peak", "summit", "mountain"], "elevation": ["4290 meters"], "difficulty": ["challenging climb", "experienced hikers"], "views": ["panoramic views", "Eiger, Mönch, and Jungfrau mountains"], "hiking trail": ["Lauteraarhörner trail", "Eiger trail"], "climbing route": ["rocky terrain", "exposed climb"]}}
+
+{"concept": "Aoraki / Mount Cook", "facet_properties_dict": {"geography": ["mountain", "New Zealand", "South Island", "highest peak"], "height": ["3724 meters"], "features": ["glaciers", "snowfields", "rocky peaks"], "climate": ["alpine", "cold", "windy"], "usage": ["hiking", "climbing", "scenic views"], "location": ["Southern Alps", "national park"], "cultural significance": ["Māori myth", "Maori name", "New Zealand's most iconic mountain"]}}
+
+{"concept": "Ben Lawers", "facet_properties_dict": {"location": ["Scotland", "Highlands"], "mountain range": ["Schiehallion", "Glen Lyon"], "elevation": ["1,214 meters"], "peak": ["Ben Lawers"], "features": ["scenic views", "wildlife habitat"], "accessibility": ["hiking trails", "mountain paths"], "wildlife": ["red deer", "golden eagles"]}}
+
+{"concept": "pointe shoes", "facet_properties_dict": {"type": ["ballet", "dance"], "material": ["leather", "canvas"], "purpose": ["to support the foot", "to provide a smooth surface"], "features": ["toe box", "ribcage", "box spring"], "characteristics": ["flexible", "lightweight", "breathable"], "used for": ["ballet performance", "ballet practice", "ballet class"], "location": ["ballet studio", "dance school", "ballet company"]}}
+
+{"concept": "Brünndenstein", "facet_properties_dict": {"category": ["mountain", "landmark", "natural feature"], "location": ["Austria", "Salzkammergut", "Lake District"], "height": ["1,395 meters", "above sea level"], "notable for": ["unique shape", "popular hiking destination", "scenic views"], "features": ["rocky summit", "steep cliffs", "hiking trails"], "access": ["by foot", "by cable car", "by hiking trails"]}}
+
+{"concept": "schilt", "facet_properties_dict": {}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"location": ["Switzerland", "Graubünden"], "mountain range": ["Silvretta Mountains"], "elevation": ["2506 meters"], "difficulty level": ["difficult climb"], "known for": ["scenic views", "challenging hike"], "mountain type": ["peak", "summit"]}}
+
+{"concept": "Altmann", "facet_properties_dict": {"type": ["chemist", "scientist", "researcher"], "field of work": ["biochemistry", "molecular biology"], "achievement": ["discovered the structure of DNA"], "personality trait": ["pioneering", "curious", "persistent"], "location": ["Czechoslovakia", "United States"], "era": ["20th century"], "influence": ["impact on DNA research", "inspired future scientists"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Swiss Alps"], "height": ["3456 meters"], "difficulty level": ["challenging climb"], "route": ["various climbing routes"], "first ascent": ["1919", "by Swiss climbers"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["fruit", "banana"], "shape": ["curved"], "size": ["long", "thick"], "color": ["yellow", "green"], "taste": ["sweet"], "texture": ["soft", "fleshy"], "used for": ["eating", "cooking", "making smoothie"], "origin": ["tropical", "Central America"], "nutrition": ["rich in potassium", "good source of vitamins", "high in sugar"]}}
+
+{"concept": "strahlhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "mountain range"], "elevation": ["3,541 meters"], "mountain type": ["peak", "mountain", "summit"], "difficulty level": ["challenging", "steep climb"], "used for": ["climbing", "hiking", "scenic views"], "known for": ["distinctive shape", "popular destination", "beautiful views"]}}
+
+{"concept": "männlichen", "facet_properties_dict": {"meaning": ["male", "masculine", "manly"], "antonym": ["weiblichen", "female", "feminine"], "used in": ["German", "language", "grammar"], "example": ["Männlichen Menschen", "male person"], "opposite of": ["weiblichen Menschen", "female person"]}}
+
+{"concept": "pizza", "facet_properties_dict": {"category": ["food", "Italian cuisine", "fast food"], "crust": ["thick", "thin", "crispy"], "toppings": ["cheese", "pepperoni", "vegetables", "meat"], "sauce": ["tomato", "pesto", "alfredo"], "size": ["small", "large", "extra large"], "used for": ["dinner", "party food", "snack"], "served at": ["restaurant", "home", "party", "beach"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"category": ["dish", "breakfast", "food"], "origin": ["Swiss", "Italian", "German"], "ingredients": ["rice", "milk", "eggs", "sugar", "cinnamon"], "texture": ["creamy", "soft"], "flavor": ["sweet", "spicy"], "served with": ["coffee", "tea", "fresh fruit"], "occasion": ["breakfast", "brunch", "special occasion"]}}
+
+{"concept": "ober gabelhorn", "facet_properties_dict": {"mountain": ["swiss alps", "mountain peak", "elevation 4,362m"], "location": ["switzerland", "valais"], "hiking": ["difficult climb", "scenic views"], "skiing": ["popular ski resort", "challenging slopes"], "name origin": ["german name", "derived from gabel", "means 'fork' in german"], "notable for": ["highest peak in switzerland", "popular among mountaineers"], "related to": ["swiss mountain range", "mountain climbing", "outdoor adventure"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Germany", "Austria", "Alps", "mountain range"], "elevation": ["2,962 meters", "highest peak"], "access": ["cable car", "hiking", "skiing"], "features": ["snow capped", "glacier", "scenic views"], "activities": ["hiking", "skiing", "snowshoeing"], "recreational use": ["tourism", "outdoor activities", "winter sports"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "iconic"], "location": ["Switzerland", "Bernese Alps"], "height": ["4,158 meters", "above sea level"], "climate": ["alpine", "cold", "snowy"], "access": ["cable car", "hiking", "scenic views"], "tourism": ["popular destination", "UNESCO World Heritage Site"], "geography": ["pyramidal shape", "glaciers", "rocky terrain"]}}
+
+{"concept": "mönch", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Swiss Alps", "Switzerland"], "height": ["4,107 meters"], "name origin": ["named after Swiss monk", "German word"], "notable for": ["distinctive shape", "popular hiking destination"], "mountain range": ["Bernese Alps"], "climbing difficulty": ["challenging", "technical climb"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["bird", "migratory bird", "endangered species"], "habitat": ["forests", "grasslands"], "size": ["small", "medium"], "diet": ["insects", "seeds", "fruits"], "habitat loss": ["main threat", "causing decline"], "conservation status": ["endangered", "protected species"], "range": ["Europe", "Asia", "Africa"]}}
+
+{"concept": "schreckhorn", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "Eiger", "Fiescherwand"], "location": ["Switzerland", "Bernese Alps", "Oberland region"], "elevation": ["4,078 meters"], "difficulty": ["challenging climb", "exposed terrain"], "summit": ["panoramic views", "glaciers"], "climbing": ["via ferrata", "rock climbing", "mountaineering"], "hiking": ["trail", "scenic route", "mountain hike"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Swiss Alps"], "elevation": ["4,000 meters", "above tree line"], "type": ["dormant volcano"], "location": ["Bernese Alps", "Swiss canton of Bern"], "notable feature": ["longest glacier in the Alps"], "climbing difficulty": ["challenging climb", "technical ascent required"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"location": ["Switzerland", "mountain", "Alps"], "height": ["13,692 ft"], "difficulty": ["challenging climb"], "route": ["various routes available"], "summit": ["panoramic views", "snow-covered peak"], "mountain type": ["dormant volcano"], "climbing": ["technical climb", "experienced climbers only"], "access": ["hiking", "cable car"]}}
+
+{"concept": "Bietschhorn", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "mountain range"], "location": ["Switzerland", "Bernese Alps"], "height": ["3,934 meters"], "difficulty level": ["challenging climb", "experienced climber"], "views": ["panoramic views", "Eiger, Mönch, and Jungfrau"], "climbing route": ["traditional climbing", "via ferrata"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"category": ["animal", "mammal", "domesticated"], "breed": ["Dam", "German Shepherd"], "size": ["medium to large"], "coat": ["thick", "double"], "temperament": ["intelligent", "loyal"], "uses": ["herding", "guarding", "assistance"], "origin": ["Germany", "Europe"], "characteristics": ["strong herding instinct", "highly intelligent", "protective"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"category": ["mountain", "landform"], "location": ["Switzerland", "Europe"], "height": ["4,022 meters", "above sea level"], "peak": ["in the Bernese Alps"], "hiking difficulty": ["challenging", "steep terrain"], "scenic views": ["of the Eiger, Mönch, and Jungfrau mountains"], "climbing route": ["via the north face", "via the south face"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak", "landform"], "location": ["Switzerland", "Alps"], "height": ["meters"], "difficulty": ["steep", "rocky", "challenging"], "climbing route": ["via ferrata", "scrambling", "climbing"], "weather": ["snowy", "windy", "foggy"], "attractiveness": ["popular", "beautiful", "scenic"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "elevation 4,049m", "snow-capped"], "location": ["Switzerland", "Canton of Bern", "Canton of Valais"], "climbing difficulty": ["challenging", "experienced climber"], "route types": ["scrambling", "rock climbing", "glacier climbing"], "season": ["summer", "winter"], "first ascent": ["1885", "Albert M. Cochonat"], "popular among": ["alpinists", "hikers", "adventure seekers"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps"], "type": ["mountain", "peak"], "height": ["13,450 feet"], "named after": ["Louis Agassiz", "naturalist"], "difficulty to climb": ["challenging", "technical"], "route": ["rocky", "glacial"], "views from top": ["panoramic", "breathtaking"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of horn", "a type of antler"], "origin": ["German", "European"], "shape": ["curved", "branching"], "used for": ["decorative purposes", "ornamentation"], "associated with": ["antlers", "horns", "animals"], "rarity": ["rare", "exotic"]}}
+
+{"concept": "Argentine", "facet_properties_dict": {"nationality": ["South American", "Latin American", "Spanish-speaking"], "country": ["Argentina", "South America", "LA"], "culture": ["gastronomy", "tango", "football"], "language": ["Spanish", "Portuguese"], "cuisine": ["asado", "empanadas", "alfajores"], "famous people": ["Maradona", "Gaucho", "Che Guevara"], "capital city": ["Buenos Aires", "Argentina"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"geography": ["volcano", "Hawaii", "Big Island", "summit"], "height": ["13,796 feet", "elevation"], "features": ["observatories", "snow", "solar", "astronomical"], "climate": ["cold", "alpine", "snowy"], "cultural significance": ["sacred", "Hawaiian", "Native American"], "used for": ["astronomical research", "stargazing", "hiking", "snowboarding"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus fruit", "vegetable"], "color": ["yellow", "green"], "shape": ["round", "oval"], "taste": ["sour", "acidic"], "aroma": ["strong", "pungent"], "used for": ["cooking", "making lemonade", "adding flavor"], "located at": ["lemon tree", "supermarket", "kitchen", "pantry"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"definition": ["small, rounded, French cheese"], "origin": ["France", "Normandy"], "taste": ["mild", "buttery"], "texture": ["soft", "creamy"], "usage": ["appetizer", "dessert", "cheese platter"], "production": ["cow's milk", "fermented", "aged"], "pairing": ["wine", "champagne", "fruit"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Canton of Thurgau"], "elevation": ["1,013 meters", "peak"], "location": ["Swiss Plateau", "near Frauenfeld"], "features": ["wooded", "hiking trails"], "recreational activities": ["hiking", "biking", "snowshoeing"], "notable for": ["scenic views", "wildlife", "natural reserve"]}}
+
+{"concept": "Černá hora", "facet_properties_dict": {"mountain": ["Czech Republic", "highest peak", "location in Giant Mountains"], "location": ["Giant Mountains", "Czech Republic", "border with Germany"], "elevation": ["1,722 meters", "highest peak in Giant Mountains"], "skiing": ["popular ski resort", "various slopes"], "views": ["panoramic views", "Austria and Germany"]}}
+
+{"concept": "Grosser Schärhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "Bernese Alps"], "height": ["4,049 meters"], "mountain range": ["Bernese Alps"], "notable for": ["highest peak", "scenic views"], "difficulty level": ["challenging climb", "experienced mountaineer"], "accessed by": ["hiking", "cable car"]}}
+
+{"concept": "breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Italy", "Switzerland", "highest peak"], "height": ["4,164 meters", "above sea level"], "location": ["Pomagalski", "Vallese", "Italy"], "climbing difficulty": ["difficult", "experienced climber"], "first ascended": ["1953", "Italian climber"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"type": ["mountain pass", "mountain range"], "location": ["Switzerland", "Europe"], "height": ["above 2,500 meters"], "difficulty": ["challenging climb", "steep terrain"], "popular for": ["hiking", "mountain biking", "scenic views"], "named after": ["Bernhard", "Bernese Alps"]}}
+
+{"concept": "medvedi vrch", "facet_properties_dict": {"location": ["mountain", "czech republic", "bohemia"], "height": ["1,063 meters"], "type": ["mountain", "peak"], "notable for": ["location in the karlovy vary district"], "geography": ["part of the krušné hory mountains"], "accessibility": ["popular hiking destination"]}}
+
+{"concept": "bruschetta", "facet_properties_dict": {"dish type": ["Italian", "appetizer", "snack"], "main ingredient": ["bread", "tomato", "basil"], "taste": ["savory", "herbaceous"], "origin": ["Italy", "Mediterranean region"], "preparation method": ["toasting", "topping", "dressing"], "used for": ["party appetizer", "dinner accompaniment", "picnic food"], "associated with": ["summer", "outdoor gatherings", "wine pairing"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain", "peak", "France"], "height": ["2,500 meters"], "location": ["Vosges Mountains"], "type": ["mountain peak"], "difficulty": ["climbing", "hiking"], "features": ["scenic views", "wildlife habitat"]}}
+
+{"concept": "billygoat", "facet_properties_dict": {"category": ["mammal", "wild animal", "herbivore"], "habitat": ["mountains", "fields", "forests"], "diet": ["plants", "leaves", "grass"], "physical characteristics": ["goat-like appearance", "long beard", "curly horns"], "behaviour": ["climbing", "jumping", "agile"], "size": ["medium", "large"], "lifespan": ["average", "up to 10 years"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"type": ["mountain range", "peak"], "location": ["Austria", "Europe"], "height": ["3497 meters"], "difficulty": ["challenging climb", "steep terrain"], "popular for": ["hiking", "climbing", "scenic views"], "features": ["rocky terrain", "glaciers", "alpine lakes"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["peak", "Alps", "Austria", "highest point"], "location": ["Ötztal Alps", "Tyrol", "Austria"], "height": ["3,564 meters", "above sea level"], "difficulty": ["climbing", "challenging"], "notable for": ["location", "scenic views", "mountain climbing"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps"], "height": ["4299 meters"], "type": ["mountain", "summit"], "difficulty": ["challenging climb", "steep terrain"], "notable for": ["highest peak in the Bernese Alps", "scenic views"], "access": ["hiking trail", "mountain climbing"], "featured in": ["postcards", "travel brochures"], "associated with": ["Swiss Alps", "mountain climbing culture"]}}
+
+{"concept": "aoraki / mount cook", "facet_properties_dict": {"location": ["new zealand", "south island", "canterbury"], "height": ["3724 meters"], "mountain range": ["southern alps"], "features": ["glaciers", "snowfields", "hiking trails"], "climbing difficulty": ["challenging"], "tourist attraction": ["popular destination", "hiking", "scenic views"], "maori significance": ["sacred mountain", "important cultural site"]}}
+
+{"concept": "Ben Nevis", "facet_properties_dict": {"location": ["Scotland", "UK", "Grampian Mountains"], "height": ["1,345 meters", "highest mountain"], "difficulty": ["challenging climb", "steep terrain"], "weather": ["changeable", "wet and windy"], "access": ["trail", "parking area"], "views": ["panoramic views", "Glen Nevis valley"], "importance": ["popular hiking destination", " iconic Scottish landmark"]}}
+
+{"concept": "pointe shoe", "facet_properties_dict": {"category": ["dance", "ballet"], "function": ["to support the foot", "to provide cushioning"], "material": ["leather", "canvas", "synthetic"], "design": ["to fit the foot", "to provide support for the toe"], "features": ["boxy toe", "soft padding", "adjustable straps"], "used for": ["ballet dance", "performance", "practice"], "characteristics": ["delicate", "fragile", "highly specialized"]}}
+
+{"concept": "Brunelstock", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Europe"], "height": ["4,022 meters"], "difficulty level": ["challenging", "steep"], "climbing route": ["various routes", "rocky terrain"], "views from top": ["panoramic views", "surrounding mountains"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"meaning": ["German word for shield", "coat of arms"], "symbolism": ["protection", "defence"], "history": ["used in medieval times", "symbol of nobility"], "modern usage": ["used as a surname", "used in heraldry"], "associated with": ["knight", "warrior", "armor"]}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"location": ["Switzerland", "Davos", "mountain range"], "height": ["2,491 meters"], "type": ["mountain", "peak"], "difficulty to climb": ["challenging", "experienced climbers"], "views from top": ["panoramic views", "surrounding mountains"], "climbing routes": ["various routes", "steep terrain"]}}
+
+{"concept": "almanac", "facet_properties_dict": {"type": ["reference book", "calendar"], "format": ["printed", "digital"], "content": ["weather forecasts", "astronomical data", "historical events"], "use": ["planning", "research", "reference"], "published by": ["government", "publisher", "organization"], "frequency": ["annual", "monthly", "daily"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"location": ["Switzerland", "mountain"], "height": ["4,474 meters"], "difficulty": ["challenging climb", "steep slope"], "peak": ["second-highest mountain", "Eiger mountain range"], "mountain range": ["Bernese Alps", "Swiss Alps"], "features": ["glaciers", "snowfields", "rocky terrain"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "strahlhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "mountain range"], "height": ["3,312 meters", "above sea level"], "mountain type": ["fourth-highest", "needle-shaped", "mountain peak"], "climbing difficulty": ["difficult climb", "experienced climber required"], "notable features": ["snow-capped", "glaciers", "scenic views"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "piz fess", "facet_properties_dict": {"category": ["mountain", "ski resort", "winter sport"], "location": ["Austria", "Europe", "Alps"], "elevation": ["high altitude", "over 2,000 meters"], "skiing": ["downhill", "cross-country", "off-piste"], "facilities": ["chairlifts", "gondolas", "cafes"], "recreational activities": ["hiking", "snowshoeing", "paragliding"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"category": ["dish", "food"], "origin": ["Ladin", "Italy"], "ingredients": ["pasta", "three languages", "linguine"], "taste": ["flavorful"], "used for": ["meal", "special occasion"], "preparation method": ["boiling", "cooking"], "cultural significance": ["traditional", "Ladin cuisine"], "appearance": ["yellow", "green", "red"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "mountain range"], "location": ["Switzerland", "Valais", "mountain range"], "elevation": ["4,294 meters", "above sea level"], "difficulty": ["challenging climb", "steep terrain"], "summit": ["panoramic views", "scenic landscape"], "hiking": ["popular trail", "long hike"], "climbing": ["experienced climber", "technical climb"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Alps", "Germany", "Austria"], "height": ["2,962 meters", "highest peak in Germany"], "type": ["mountain", "peak"], "accessibility": ["hiking", "cable car"], "scenic views": ["Austria", "Germany", "Italian Alps"], "recreational activities": ["hiking", "climbing", "sightseeing"], "weather": ["snowy", "cold"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "Eiger, Mönch, and Jungfrau"], "location": ["Switzerland", "Bernese Oberland"], "height": ["4,158 meters"], "glacier": ["Aletsch Glacier"], "tourism": ["popular hiking destination", "scenic views"], "cultural significance": ["symbol of Switzerland", "national monument"]}}
+
+{"concept": "mönch", "facet_properties_dict": {"category": ["mountain", "climbing", "hiking"], "location": ["Swiss Alps", "Europe"], "height": ["4,107 meters", "above the treeline"], "difficulty": ["challenging climb", "steep terrain"], "route": ["South Route", "North Route"], "summit": ["panoramic views", "crowded"], "mountaineering": ["technical climb", "experienced guide required"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["insect", "beetle"], "size": ["small", "medium"], "habitat": ["forest", "grassland"], "diet": ["plant-based", "herbivore"], "reproduction": ["lay eggs", "oviparous"], "behavior": ["nocturnal", "solitary"], "identification": ["distinctive markings", "antennae shape"]}}
+
+{"concept": "Schreckhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger", "Jungfrau"], "elevation": ["13,069 feet", "3991 meters"], "location": ["Switzerland", "Bernese Alps"], "peak difficulty": ["climbing", "rock climbing"], "named by": ["Friedrich Teufel", "1812"], "notable feature": ["distinctive shape", "pyramidal peak"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "high peak", " glacier"], "location": ["Switzerland", "Bernese Alps"], "elevation": ["4,000 meters", "above sea level"], "summit": ["accessible by cable car", "popular hiking destination"], "geology": ["rocky peak", "glacier-carved"], "climbing difficulty": ["technical climb", "experienced mountaineers only"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"mountain": ["Swiss Alps", "Ursprung", "peak"], "location": ["Switzerland", "Canton of Bern", "Canton of Uri"], "height": ["13,692 feet", "4,209 meters"], "difficulty level": ["challenging climb", "scrambling"], "best time to climb": ["summer", "early morning"], "views": ["panoramic views", "Eiger", "Mönch", "Jungfrau"]}}
+
+{"concept": "Bietschhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", " Uri", " Cantons"], "elevation": ["3,934 meters"], "location": ["Switzerland", "Central Switzerland"], "first ascent": ["1865", "by F. Andersson"], "difficulty level": ["easy", " beginner"], "popular activities": ["hiking", "climbing", "scenic views"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"category": ["animal", "mammal", "cattle"], "breed": ["Longhorn", "Brahman", "Simmental"], "origin": ["Africa", "Europe"], "size": ["large", "medium", "small"], "coat": ["coarse", "fine", "black", "white"], "used for": ["meat", "milk", "draft"], "habitat": ["grassland", "forest", "desert"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Swiss Alps"], "elevation": ["9,908 ft"], "difficulty level": ["challenging climb"], "route": ["scrambling", "rock climbing"], "weather": ["snowy", "windy"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Swiss Alps", "Switzerland", "Europe"], "elevation": ["up to 4,000 meters"], "difficulty level": ["challenging climb", "steep terrain"], "summit views": ["panoramic views", "snow-capped mountains"], "popular among": ["hikers", "mountain climbers", "adventurers"], "weather conditions": ["harsh weather", "snowstorms", "avalanches"]}}
+
+{"concept": "gross fiescherhorn", "facet_properties_dict": {"mountain": ["swiss alps", "elevation 4049m", "summit"], "location": ["switzerland", "berner obwald"], "difficulty level": ["challenging", "experienced climbers"], "route": ["mountaineering", "climbing", "hiking"], "view": ["panoramic", "aletsch glacier"], "weather": ["snowy", "rocky terrain"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"geography": ["Switzerland", "Alps", "mountain"], "height": ["4,014 meters", "mountain peak"], "named after": ["Louis Agassiz", "naturalist"], "difficulty to climb": ["challenging", "experienced climber"], "first ascent": ["1869", "Swiss climber"], "location in the Alps": ["Bernese Alps", "Switzerland"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of mountain", "a mountain in the Swiss Alps"], "location": ["Switzerland", "Swiss Alps", "Bernese Alps"], "height": ["4,545 meters", "above the tree line"], "geology": ["granite", "rocky terrain"], "mountain climbing": ["popular destination", "challenging climb", "scenic views"]}}
+
+{"concept": "l'argentine", "facet_properties_dict": {"country": ["South America", "Argentina"], "capital": ["Buenos Aires"], "language": ["Spanish", "Italian"], "cuisine": ["asado", "empanadas", "wines"], "culture": ["tango", "football", "gauchos"], "mountains": ["Andes"], "rivers": ["Rio de la Plata"], "famous for": ["beef", "wines", "football"], "located at": ["South America", "Southern Cone"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Maui"], "geography": ["volcano", "mountain", "summit"], "height": ["13,796 feet", "4,207 meters"], "climate": ["cold", "dry", "clear night sky"], "astronomy": ["observing site", "telescope", "star gazing"], "cultural significance": ["sacred", "spiritual", "Hawaiian culture"], "activities": ["hiking", "stargazing", "astronomy research"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus", "juice"], "color": ["yellow", "green"], "shape": ["oval", "curved"], "taste": ["sour", "acidic"], "aroma": ["strong", "citrusy"], "used for": ["cooking", "making lemonade", "adding flavor"], "nutritional content": ["rich in vitamin C", "high in antioxidants"]}}
+
+{"concept": "picnic", "facet_properties_dict": {"event": ["outdoor", "informal", "social"], "location": ["park", "beach", "mountain", "backyard"], "food": ["sandwiches", "fruit", "cheese", "chips"], "drinks": ["water", "juice", "wine", "beer"], "atmosphere": ["relaxed", "casual", "scenic"], "duration": ["afternoon", "day", "hour"], "participants": ["family", "friends", "coworkers", "strangers"]}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"category": ["geographical feature", "mountain"], "location": ["Alps", "France", "Italy"], "height": ["3,045 meters", "summit"], "type": ["mountain peak", "summit"], "difficulty to climb": ["challenging", "technical climb"], "views from top": ["panoramic", "spectacular"], "climate": ["alpine", "cold", "snowy"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Canton of Thurgau"], "elevation": ["630 meters above sea level"], "location": ["near the town of Weinfelden"], "features": ["hiking trails", "panoramic views"], "name origin": ["named after a local noble family", "Hundwil and Höhi"]}}
+
+{"concept": "Černá Hora", "facet_properties_dict": {"location": ["Bohemia", "Czech Republic", "mountain range"], "elevation": ["1,722 meters"], "mountain range": ["Krkonoše"], "hiking": ["popular destination", "various trails"], "scenic views": ["panoramic views", "beautiful landscapes"], "snow sports": ["skiing", "snowboarding"], "summer activities": ["hiking", "cycling", "swimming"]}}
+
+{"concept": "Grosser Schärhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps", "Eiger, Mönch, and Jungfrau mountain range"], "elevation": ["4,049 meters", "mountain peak"], "difficulty to climb": ["challenging", "experienced mountaineers"], "views": ["panoramic views", "Eiger, Mönch, and Jungfrau"], "mountain range": ["Bernese Alps", "Swiss Alps"], "summit": ["rocky", "exposed"], "climbing route": ["via ferrata", "rock climbing", "ice climbing"]}}
+
+{"concept": "Breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Italy", "Switzerland", "highest peak"], "height": ["4,164 meters"], "location": ["Swiss-Italian border"], "difficulty level": ["challenging climb", "technical ascent"], "mountaineering route": ["via ferrata", "rock climbing", "ice climbing"], "first ascent": ["1871", "Swiss mountaineer"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Europe"], "height": ["approximately 3,400 meters"], "difficulty": ["challenging climb", "experienced hikers"], "scenic views": ["panoramic views", "Lake Geneva"], "hiking trails": ["well-marked trails", "popular hiking destination"]}}
+
+{"concept": "medvědí vrch", "facet_properties_dict": {"location": ["Czech Republic", "Bohemia", "Křivoklát"], "type": ["hill", "mountain", "landmark"], "height": ["450 meters"], "features": ["medieval castle", "ruins", "archaeological site"], "importance": ["historical significance", "tourist attraction", "natural landmark"]}}
+
+{"concept": "bruschghorn", "facet_properties_dict": {"category": ["instrument", "music", "horn"], "sound": ["brassy", "loud"], "usage": ["orchestral", "concert", "performance"], "size": ["medium to large"], "material": ["brass", "metal"], "played by": ["musician", "orchestra"], "origin": ["Europe", "Germany"], "similar to": ["trumpet", "trombone"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain range", "alps", "austria"], "peak": ["highest peak", "2,934 meters"], "location": ["austria", "italy", "germany"], "hiking": ["popular hiking destination", "challenging climb"], "scenic views": ["panoramic views", "snow-capped peaks"], "mountain range": ["alps", "central alps", "austrian alps"]}}
+
+{"concept": "blinnenhorn", "facet_properties_dict": {"category": ["type of plant", "ornamental plant", "flowering plant"], "appearance": ["small", "delicate", "white or pink flowers"], "growth habit": ["climbing", "vine-like"], "uses": ["ornamental", "wildlife habitat"], "habitat": ["gardens", "wild", "rocky areas"], "family": ["orchid family"], "native to": ["Europe", "Asia", "North America"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"geography": ["mountain", "Austria"], "height": ["2500 meters"], "difficulty": ["challenging", "steep"], "location": ["Ötztal Alps", "Tyrol"], "peak": ["highest peak", "main summit"], "climbing": ["popular climbing route", "technical climb"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["peak", "Austrian Alps", "Tyrolean Alps"], "elevation": ["2,962 meters"], "location": ["Tyrol", "Austria"], "hiking difficulty": ["moderate", "challenging"], "scenic views": ["panoramic views", "mountain lakes"], "mountain range": ["Central Eastern Alps", "Western Alps"], "summit date": ["1901"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps"], "mountain type": ["peak", "summit"], "height": ["4290 meters"], "difficulty to climb": ["challenging", "experienced hikers"], "route": ["via ferrata", "climbing route"], "notable for": ["scenic views", "challenging climb"], "related to": ["Eiger", "Mönch", "Jungfrau"]}}
+
+{"concept": "aoraki / mount cook", "facet_properties_dict": {"location": ["new zealand", "south island", "canterbury"], "type": ["mountain", "volcano", "national park"], "height": ["3724 meters"], "features": ["glaciers", "hiking trails", "scenic views"], "climate": ["alpine", "cold", "windy"], "protected area": ["national park", "world heritage site"], "activities": ["hiking", "climbing", "sightseeing"], "importance": ["tourist attraction", "ecological significance", "cultural significance"]}}
+
+{"concept": "Ben Lawers", "facet_properties_dict": {"location": ["Scotland", "UK", "mountain range"], "height": ["1,214 meters"], "type": ["mountain", "peak"], "features": ["scenic views", "wildlife", "wildflowers"], "access": ["hiking", "walking", "public transport"], "difficulty": ["moderate", "challenging"], "best time to visit": ["summer", "autumn"]}}
+
+{"concept": "pointe shoes", "facet_properties_dict": {"category": ["dance", "ballet", "footwear"], "purpose": ["for ballet dancing", "for pointe work"], "material": ["leather", "canvas", "ribbons"], "design": ["toe box", "box toe", "wrap around"], "features": ["hardened toe box", "stiffened shank", " elasticized sides"], "used for": ["ballet performances", "ballet classes", "practice"], "location": ["ballet studio", "dance school", "ballet store"]}}
+
+{"concept": "Brunelstock", "facet_properties_dict": {"existence": ["non-existent", "fictional"], "description": ["a fictional mountain"], "location": ["none", "no real location"], "height": ["no known height", "unknown"], "features": ["none", "no real features"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"definition": ["a type of medieval helmet", "a type of medieval armor"], "material": ["steel", "leather"], "origin": ["Europe", "Middle Ages"], "characteristics": ["protective", "decorative"], "worn by": ["knight", "warrior"], "associated with": ["chivalry", "medieval warfare"]}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "mountain peak", "elevation 3,056 meters"], "location": ["Switzerland", "Canton of Graubünden", "Maloja Pass"], "climbing difficulty": ["challenging climb", "exposed ridges", "scrambling required"], "route types": ["via ferrata", "rock climbing", "hiking"], "summit views": ["panoramic views", "Lake Sils", "Swiss mountains"], "climbing season": ["summer", "spring", "autumn"]}}
+
+{"concept": "altmann", "facet_properties_dict": {"category": ["type of bread"], "ingredients": ["rye flour", "caraway seeds", "salt", "yeast", "water"], "taste": ["sour", "bitter"], "texture": ["dense", "crusty"], "origin": ["german", "austrian"], "usage": ["sandwich", "toasting", "bread basket"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"mountain": ["Switzerland", "Bernese Alps", "Eiger mountain range"], "height": ["4206 meters"], "difficulty level": ["challenging climb", "steep slope"], "location": ["Swiss Alps", "Bernese Oberland"], "features": ["glacier", "scenic views"], "climbing route": ["difficult via ferrata", "exposed climbing"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["fruit", "banana variety"], "color": ["yellow", "green"], "shape": ["curved", "long"], "taste": ["sweet", "mild"], "origin": ["South America", "Central America"], "used for": ["eating fresh", "making smoothies", "baking"], "attributes": ["non-climacteric", "poor storage life"]}}
+
+{"concept": "Strahlhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Piz Bernina", "Dreischaben"], "location": ["Switzerland", "Graubünden"], "height": ["3,139 meters"], "difficulty level": ["challenging climb", "experienced hiker"], "notable feature": ["triple summit", "exposed ridge"], "best time to climb": ["summer", "early morning"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "pizza", "facet_properties_dict": {"category": ["food", "italian cuisine"], "crust": ["thick", "thin"], "toppings": ["cheese", "tomato", "pepperoni", "vegetables"], "sauce": ["tomato sauce"], "shape": ["round"], "size": ["small", "large"], "used for": ["dinner", "party food"], "served with": ["salad", "bread"], "originated from": ["italy"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"meaning": ["three-language pizza", "multilingual pizza"], "ingredients": ["pizza dough", "tomato sauce", "cheese", "toppings"], "cuisine": ["Italian", "fusion"], "purpose": ["unique dining experience", "cultural fusion"], "origin": ["Switzerland", "Italy"], "description": ["three layers", "different languages", "unique flavor combination"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"location": ["Switzerland", "European Alps", "Mont Blanc massif"], "mountain type": ["peak", "summit", "mountain"], "height": ["4,059 meters"], "difficulty level": ["challenging climb", "experienced hikers"], "route type": ["via ferrata", "scrambling", "climbing"], "notable features": ["glaciers", "scenic views", "mountain hut"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Germany", "Austria", "Alps"], "height": ["2,962 meters", "highest peak"], "mountain type": ["granite", "rocky"], "access": ["by cable car", "by hiking"], "view": ["panoramic", "beautiful"], "weather": ["snowy", "cold"], "popular activity": ["hiking", "sightseeing"], "nearby city": ["Garmisch-Partenkirchen", "Innsbruck"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "mountain range"], "location": ["Switzerland", "European Alps", " Bernese Oberland"], "height": ["4,158 meters", "above the tree line"], "climate": ["alpine climate", "cold and snowy"], "popular for": ["hiking", "mountain climbing", "scenic views"], "infrastructure": ["train station", "mountain hut", "hiking trails"]}}
+
+{"concept": "mönch", "facet_properties_dict": {"definition": ["German for'monk'", "Catholic monk"], "origin": ["German language", "Catholic Church"], "meaning": ["devout person", "member of a monastery"], "associated with": ["religion", "monastery", "abbey"], "similar to": ["nun", "cleric"], "noted for": ["devotion", "asceticism", "piety"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["insect", "beetle", "animal"], "size": ["small", "medium"], "diet": ["omnivorous", "carnivorous"], "habitat": ["forest", "grassland", "garden"], "behavior": ["nocturnal", "solitary"], "physical features": ["antennae", "wings", "shell"], "lifespan": ["short", "medium"]}}
+
+{"concept": "Schreckhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger mountain range", "tallest peak"], "location": ["Switzerland", "Bernese Alps"], "height": ["4,078 meters"], "climbing difficulty": ["difficult", "technical"], "first ascent": ["1869", "by Edward Whymper"], "notable feature": ["distinctive pyramidal shape"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"mountain": ["swiss", "alpine", "elevation 4,049 meters"], "location": ["switzerland", "swiss alps", "berner oberland"], "type": ["dormant volcano", "granite mountain"], "first ascent": ["1845", "edward whymper"], "difficulty": ["challenging climb", "experienced mountaineer required"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps", "mountain range"], "height": ["13,638 ft", "4,020 m"], "difficulty level": ["challenging climb", "mountaineering"], "route": ["via ferrata", "scrambling", "rock climbing"], "type": ["mountain", "peak"], "weather": ["alpine weather", "snowy conditions", "avalanche risk"]}}
+
+{"concept": "Bietshorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps"], "mountain": ["peak", "summit"], "height": ["3,086 meters"], "difficulty": ["easy", "moderate"], "trail": ["well-marked", "popular"], "views": ["panoramic", "spectacular"], "features": ["rocky terrain", "glaciers"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"type": ["antelope", "wild goat", "mountain goat"], "habitat": ["mountainous regions", "alpine meadows"], "size": ["medium to large"], "antlers": ["males have antlers", "antlers are branched"], "diet": ["herbivore", "grasses", "shrubs", "leaves"], "behavior": ["solitary", "diurnal", "climbs steep terrain"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"geography": ["Switzerland", "mountain"], "elevation": ["3,535 meters"], "peak": ["mountain peak", "Alps"], "location": ["Central Switzerland"], "mountain range": ["Urner Alps"], "difficulty level": ["challenging climb"], "hiking trail": ["long and steep"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak", "summit"], "location": ["Switzerland", "European Alps"], "height": ["up to 4,000 meters"], "difficulty": ["challenging climb", "steep terrain"], "route": ["via ferrata", "scrambling", "rock climbing"], "hiking": ["popular trail", "scenic views"], "mountaineering": ["technical climb", "experienced guides"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "mountain peak", "elevation 4,049 meters"], "location": ["Switzerland", "Canton of Bern", "Canton of Valais"], "type": ["mountain peak", "four-thousander"], "climbing difficulty": ["challenging", "experienced climbers only"], "views": ["panoramic views of surrounding mountains", "views of glaciers"], "access": ["hiking", "via ferrata"], "summit": ["rocky summit", "exposed climbing"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"category": ["mountain", "peak", "Swiss Alps"], "location": ["Switzerland", "Bernese Alps"], "height": ["4527 meters"], "named after": ["Louis Agassiz", "naturalist"], "first ascent": ["1842", "by Bernhard Vulliemin"], "difficulty level": ["easy to moderate"], "popular among": ["hikers", "mountaineers", "scenic tourists"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"type": ["mountain", "peak", "summit"], "location": ["Switzerland", "Alps"], "elevation": ["3451 meters", "above 3000 meters"], "difficulty": ["challenging", "steep climb"], "route": ["various paths", "recommended routes"], "views": ["panoramic views", "scenic vistas"]}}
+
+{"concept": "l'argentine", "facet_properties_dict": {"nationality": ["Argentine", "South American", "Latin American"], "language": ["Spanish", "Portuguese"], "cuisine": ["asado", "empanadas", "tortas"], "culture": ["passionate about football", "romantic", "melancholic"], "famous people": ["Maradona", "Evita", "Gaucho"], "location": ["Argentina", "South America", "Rio de la Plata"], "traditions": ["Independence Day", "Fiesta de la Vendimia", "Feria de Abril"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Pacific Ocean"], "geography": ["volcano", "mountain", "active"], "height": ["13,796 feet", "4,207 meters"], "climate": ["cold", "dry", "nighttime"], "astronomy": ["observing site", "telescopes", "dark skies"], "cultural significance": ["sacred", "beloved", "Native Hawaiian"], "activities": ["hiking", "stargazing", "snowboarding"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus", "acidic"], "color": ["yellow", "green"], "shape": ["oval"], "taste": ["sour", "acidic"], "smell": ["strong", "citrusy"], "used for": ["cooking", "making lemonade", "adding flavor"], "properties": ["high in vitamin C", "antiseptic properties"], "located at": ["lemon tree", "supermarket", "kitchen", "pantry"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {"does not exist": ["unknown", "non-existent", "does not exist as a concept"]}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"definition": ["French phrase", "meaning 'tip of the thumb'"], "usage": ["idiomatic expression", "used in French language"], "meaning": ["small or insignificant", "used to describe something unimportant"], "origin": ["French phrase", "used in everyday conversation"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"location": ["Hundwil", "Switzerland", "Appenzell Ausserrhoden"], "mountain": ["peak", "elevation 831 meters"], "landscape": ["Alpine", "scenic", "hiking"], "recreational activities": ["hiking", "cycling", "snowshoeing"], "features": ["summit cross", "panoramic views"], "difficulty level": ["moderate", "challenging"]}}
+
+{"concept": "Černá Hora", "facet_properties_dict": {"location": ["mountain", "Czech Republic", "Bohemia"], "height": ["1,722 meters"], "geography": ["peak", "mountain range"], "recreation": ["hiking", "skiing", "winter sports"], "notable for": ["highest peak in Czech Republic", "scenic views"], "part of": ["Krkonoše mountain range", "Czech wilderness"]}}
+
+{"concept": "Grosser Schwarzhorn", "facet_properties_dict": {"mountain": ["peak", "Austrian Alps", "mountain range"], "elevation": ["2,047 meters"], "location": ["Salzkammergut", "Austria"], "hiking trail": ["popular hiking destination", "scenic views"], "difficulty level": ["challenging climb", "steep terrain"], "summit": ["panoramic views", "exposure to wind"]}}
+
+{"concept": "breithorn", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "4,164 meters"], "location": ["Switzerland", "Pennine Alps"], "type": ["fourteener", "mountain peak"], "climbing difficulty": ["challenging", "experienced climbers"], "first ascent": ["1915", "Albert M. H. H. de Rothschild"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"definition": ["type of mountain", "peak in the Swiss Alps"], "location": ["Switzerland", "Europe"], "height": ["4,052 meters"], "climbing difficulty": ["challenging", "requires mountaineering skills"], "popular among": ["alpinists", "adventure seekers"], "features": ["glaciers", "scenic views"], "accessed by": ["hiking", "cable car"]}}
+
+{"concept": "Medvědí Vrch", "facet_properties_dict": {"location": ["Czech Republic", "Bohemia", "mountain"], "elevation": ["1,363 meters", "peak"], "mountain range": ["Krkonoše", "Czech mountains"], "hiking": ["popular destination", "trail"], "view": ["panoramic", "beautiful"], "climate": ["temperate", "mountainous"]}}
+
+{"concept": "bruschghorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Swiss Alps", "Switzerland"], "height": ["4,674 meters"], "difficulty to climb": ["challenging", "experienced climbers"], "view from top": ["panoramic", "breathtaking"], "popular among": ["hikers", "mountain climbers", "adventurers"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain", "alps", "france"], "elevation": ["high", "above 2,500 meters"], "name origin": ["named after", "savigny", "historical figure"], "mountain range": ["alps", "central alps"], "difficulty level": ["challenging", "steep climb"], "location": ["france", "hautes-pyrénées"], "hiking trail": ["long", "multi-day hike"]}}
+
+{"concept": "blinnenhorn", "facet_properties_dict": {"definition": ["type of horn", "used by reindeer", "made of keratin"], "appearance": ["long", "curved", "antler-like"], "function": ["used for defense", "used for attracting mates"], "origin": ["found in northern Europe", "found in Asia"], "habitat": ["reindeer's habitat", "arctic tundra"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"definition": ["a type of mountain pass", "a mountain pass in Austria"], "location": ["Austria", "Tyrolean Alps"], "elevation": ["high mountain pass", "over 2,000 meters"], "difficulty": ["challenging climb", "steep and rocky terrain"], "used for": ["hiking", "mountain biking", "skiing"], "features": ["scenic views", "wildflowers", "glaciers"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"location": ["Austria", "Italian Alps", "mountain peak"], "height": ["2,965 meters"], "mountain range": ["Ötztal Alps"], "difficulty level": ["challenging climb", "experienced hikers recommended"], "features": ["steep rock faces", "snowy terrain"], "popular activities": ["hiking", "climbing", "scenic views"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"location": ["Switzerland", "Alps", "mountain range"], "height": ["3053 meters"], "mountain type": ["Dent du Midi", "peaked mountain"], "difficulty to climb": ["challenging", "experienced climber"], "route to climb": ["via ferrata", "rock climbing"], "view from top": ["panoramic view", "surrounding mountains"], "popular among": ["mountain enthusiasts", "hikers", "climbers"]}}
+
+{"concept": "aoraki / mount cook", "facet_properties_dict": {"location": ["new zealand", "south island", "canterbury"], "height": ["3724 meters"], "mountain range": ["southern alps"], "climate": ["alpine", "cold", "windy"], "geological formation": ["volcanic", "erosion"], "features": ["glaciers", "peaks", "valleys"], "popularity": ["hiking", "climbing", "scenic views"], "protected area": ["national park", "conservation"]}}
+
+{"concept": "Ben Lui", "facet_properties_dict": {"location": ["Scotland", "West Highland", "Glencoe"], "type": ["mountain", "peak", "hill"], "height": ["1220 meters"], "features": ["steep slopes", "scenic views", "wildlife habitat"], "difficulty level": ["hard climb", "experienced hikers"], "route": ["various trails", "popular with climbers"], "weather": ["changeable", "windy", "rainy"]}}
+
+{"concept": "pointe shoe", "facet_properties_dict": {"category": ["dance", "ballet", "footwear"], "material": ["leather", "canvas", "satin"], "purpose": ["supporting foot", "enhancing movement", "artistic expression"], "features": ["boxy toe", "stiffened sole", "binding ribbon"], "used for": ["ballet dancing", "performing"], "characteristics": ["delicate", "dainty", "fragile"]}}
+
+{"concept": "brünnelistock", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Alps"], "height": ["4,025 meters"], "difficulty level": ["challenging climb"], "location": ["Swiss Alps"], "mountaineering": ["popular destination", "technical climb required"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"definition": ["German word for shield"], "origin": ["Old High German"], "meaning": ["protection", "defensive"], "usage": ["coat of arms", "family crest"], "related concepts": ["coat of arms", "family crest", "heraldry"], "language": ["German", "English"]}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"geography": ["mountain", "Alps", "Switzerland", "Italy"], "elevation": ["4,018 meters", "above sea level"], "location": ["border of Switzerland and Italy"], "difficulty to climb": ["challenging", "experienced climbers"], "views from top": ["panoramic", "Austrian and Swiss Alps"], "mountain range": ["Ortler Alps", "Central Eastern Alps"]}}
+
+{"concept": "Altman", "facet_properties_dict": {"field": ["baseball", "sports"], "person": ["Jimmy", "player", "coach"], "achievement": ["World Series", "championship"], "era": ["1960s", "1970s"], "team": ["New York Mets", "Los Angeles Dodgers"], "position": ["outfielder", "manager"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "Eiger mountain range"], "elevation": ["4,050 meters"], "location": ["Switzerland", "Bernese Alps"], "difficulty": ["challenging climb", "experienced climbers"], "views": ["panoramic views", "Eiger, Mönch, and Jungfrau"], "summit": ["rocky peak", "exposure to weather"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["fruit", "berry", "food"], "color": ["red", "purple", "black"], "shape": ["curved", "oval"], "taste": ["sweet", "tart"], "nutritional content": ["rich in antioxidants", "high in fiber"], "used for": ["making jams", "making smoothies", "eating fresh"], "located at": ["garden", "market", "supermarket", "fruit stand"]}}
+
+{"concept": "Strahlhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps"], "mountain range": ["Silvretta Mountains"], "elevation": ["3,139 meters"], "difficulty level": ["difficult climb", "experienced climber"], "summit": ["accessible via cable car", "panoramic views"], "features": [" glaciers", "rocky terrain"], "recreational activities": ["hiking", "climbing", "skiing"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "pizza", "facet_properties_dict": {"category": ["food", "italian dish", "snack"], "crust": ["thick", "thin", "crispy"], "toppings": ["cheese", "meat", "vegetables", "fruits"], "sauce": ["tomato", "alfredo", "pesto"], "shape": ["round", "square", "rectangle"], "serving method": ["hot", "cold", "frozen"], "occasion": ["party", "dinner", "snack time"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"category": ["cuisine", "dish", "food"], "origin": ["Ladin", "Italy"], "ingredients": ["pasta", "three languages"], "shape": ["flat", "round"], "taste": ["salty", "spicy", "savory"], "used for": ["breakfast", "dinner", "snack"], "prepared by": ["Ladin chef", "Italian cook", "home cook"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"location": ["Switzerland", "Europe", "Alps"], "mountain range": ["Pennine Alps"], "elevation": ["4,059 meters"], "difficulty level": ["challenging climb", "steep terrain"], "summit view": ["panoramic view of the Alps"], "route types": ["via ferrata", "rock climbing"], "seasonality": ["summer climbing", "winter climbing"], "related peaks": ["Dent Blanche", "Weisshorn"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Bavaria", "Germany", "Alps"], "elevation": ["2,962 meters"], "type": ["mountain", "peak"], "notable features": ["highest peak in Germany", "popular hiking destination"], "access": ["train station", "hiking trails"], "scenic views": ["of the German and Austrian Alps"], "recreational activities": ["hiking", "skiing", "snowboarding"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "mountain range"], "location": ["Switzerland", "Europe"], "elevation": ["4,063 meters"], "popular for": ["hiking", "scenic views", "tourism"], "features": ["ice and snow", "glaciers", "rocky terrain"], "accessed by": ["train", "cable car", "hiking trails"], "reputation": ["iconic", "beautiful", "challenging climb"]}}
+
+{"concept": "möbius strip", "facet_properties_dict": {"mathematical concept": ["topological", "geometric", "one-sided"], "physical appearance": ["loop", "twisted", "connected"], "properties": ["non-orientable", "has no beginning or end"], "uses": ["mathematics", "physics", "engineering"], "named after": ["August Ferdinand Möbius"], "related concepts": ["knot theory", "topology", "geometry"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["bird", "migratory bird", "wildlife"], "size": ["small", "medium"], "habitat": ["forest", "wetland", "grassland"], "diet": ["insects", "worms", "seeds"], "behavior": ["social", "nomadic", "migratory"], "conservation status": ["endangered", "vulnerable", "protected"]}}
+
+{"concept": "Schreckhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger mountain range"], "height": ["4,078 meters"], "location": ["Switzerland", "Bernese Alps"], "difficulty level": ["difficult climb", "experienced climber"], "notable feature": ["distinctive shape", "steep north face"], "climbing route": ["traditional climb", "via ferrata"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "Bernese Alps"], "mountain range": ["Bernese Alps"], "height": ["4,049 meters"], "difficulty level": ["challenging climb"], "notable for": ["largest glacier in the Alps", "glacier retreat"], "part of": ["UNESCO World Heritage Site"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"location": ["Switzerland", "Alps", "mountain range"], "height": ["13,103 ft", "4000 meters"], "mountain type": ["peak", "summit"], "climbing difficulty": ["challenging", "steep"], "route type": ["via ferrata", "rock climbing"], "access": ["hiking", "cable car", "mountain guide"], "notable feature": ["scenic views", "glaciers", "alpine plants"]}}
+
+{"concept": "Biett Horn", "facet_properties_dict": {"mountain": ["Alps", "Italy", "Switzerland"], "elevation": ["4,017 meters"], "location": ["Italian-Swiss border"], "difficulty level": ["challenging climb"], "view from top": ["panoramic view of the Alps"], "notable features": ["rocky terrain", "steep slopes"], "climbing routes": ["via ferrata", "rock climbing"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"animal": ["antelope", "mammal", "hoofed"], "habitat": ["savannah", "grassland", "mountain"], "size": ["large", "medium", "small"], "diet": ["herbivore", "grass", "leaf"], "behavior": ["social", "herd", "migratory"], "conservation status": ["endangered", "vulnerable", "protected"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Europe", "snowy"], "elevation": ["meters above sea level", "3,535"], "location": ["Switzerland", "Europe"], "difficulty level": ["challenging climb", "steep terrain"], "popular for": ["hiking", "mountaineering", "scenic views"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Alps"], "height": ["4,000 meters", "above sea level"], "difficulty to climb": ["challenging", "experienced climber"], "notable features": ["snowy terrain", "steep slopes"], "views from top": ["panoramic views", "surrounding mountains"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"mountain range": ["Swiss Alps", "Eiger", "Fiescherwand"], "location": ["Switzerland", "Canton of Bern", "Oberland"], "elevation": ["4,049 meters"], "difficulty level": ["challenging climb", "experienced climber"], "route types": ["scrambling", "rock climbing"], "views": ["Eiger", "Mönch", "Jungfrau"], "summit date": ["1857", "first ascent"], "named after": ["Fiescher", "Fiescherwand"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"category": ["mountain", "peak", "landform"], "location": ["Switzerland", "Swiss Alps"], "height": ["13,131 feet", "4,002 meters"], "difficulty": ["challenging climb", "steep terrain"], "notable feature": ["unique rock formations", "glaciers"], "used for": ["climbing", "trekking", "scenic views"], "named after": ["Louis Agassiz", "naturalist", "geologist"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of horn", "a type of antler"], "origin": ["Germany", "Europe"], "material": ["animal bone", "antler"], "used for": ["ornament", "decoration", "musical instrument"], "characteristics": ["unique shape", "antler-like", "ornate"], "rarity": ["rare", "exotic"], "cultural significance": ["symbolic", "historical", "traditional"]}}
+
+{"concept": "Argentine", "facet_properties_dict": {"nationality": ["Argentine", "South American", "Latin American"], "language": ["Spanish", "Portuguese"], "culture": ["gastronomy", "tango", "football"], "location": ["Argentina", "South America", "Rio de la Plata"], "cuisine": ["asado", "empanadas", "mate"], "famous people": ["Maradona", "Gaucho", "Evita"], "capital": ["Buenos Aires", "La Plata"], "flag": ["tricolor", "white and blue", "sun"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Mauna Kea Observatory"], "geography": ["volcano", "mountain", "tallest mountain"], "climate": ["cold", "dry", "night sky"], "astronomy": ["telescopes", "observatory", "stargazing"], "conservation": ["protected area", "national park", "wildlife habitat"], "cultural significance": ["sacred", "important", "Native Hawaiian"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus fruit", "juice"], "color": ["yellow"], "shape": ["oval"], "taste": ["sour"], "aroma": ["strong"], "used for": ["cooking", "making lemonade", "adding flavor to water"], "located at": ["tree", "supermarket", "kitchen", "fruit bowl"]}}
+
+{"concept": "picnic", "facet_properties_dict": {"occasion": ["outdoor gathering", "family event"], "location": ["park", "beach", "mountain", "backyard"], "food": ["sandwiches", "fruit", "cheese", "chips"], "drink": ["water", "juice", "tea", "coffee"], "furniture": ["blanket", "basket", "tablecloth", "picnic basket"], "atmosphere": ["relaxed", "casual", "outdoor", "social"]}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"category": ["French cheese"], "origin": ["France"], "texture": ["soft", "crumbly"], "taste": ["buttery", "mild"], "used in": ["salads", "sandwiches", "cheese plates"], "production process": ["pasteurized", "aged"], "regions where available": ["France", "Europe", "North America"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"geographical location": ["Switzerland", "Appenzell", "mountain range"], "elevation": ["1,250 meters"], "popular for": ["hiking", "biking", "panoramic views"], "features": ["alpine meadows", "forests", "rock formations"], "accessed via": ["train", "bus", "hiking trails"], "notable points": ["Hundwiler Höhi summit", "Höchstamm mountain"]}}
+
+{"concept": "černá hora", "facet_properties_dict": {"mountain": ["czech republic", "highest peak", "elevation 1,479m"], "location": ["bohemian Switzerland", "border with germany"], "features": ["unique rock formations", "hiking trails", "scenic views"], "popular activities": ["hiking", "rock climbing", "paragliding"], "known for": ["natural beauty", "unique landscape", "tourist attraction"]}}
+
+{"concept": "Grosser Schwärzberg", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps", "mountain range"], "elevation": ["not a mountain", "not a peak", "not a notable height"], "type": ["not a mountain", "not a peak", "not a notable height"], "notable for": ["not a notable feature", "not a popular destination", "not a notable landmark"]}}
+
+{"concept": "Breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Italian Alps", "highest peak", " glaciers"], "location": ["Switzerland", "Italy", "border"], "height": ["4,164 meters"], "difficulty": ["easy climb", "rocky terrain", "exposed ridges"], "features": ["summit", "ridge", "glacier"], "climbing routes": ["standard route", "north face", "east ridge"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"definition": ["type of sail", "used for sailing"], "characteristics": ["triangular", "made of fabric", "attached to mast"], "functions": ["propels boat", "steers boat"], "used for": ["sailing", "racing"], "associated with": ["sailboat", "yachting", "marine"], "materials": ["fabric", "string", "wood"]}}
+
+{"concept": "Medvědí vrch", "facet_properties_dict": {"location": ["Czech Republic", "Bohemian Switzerland"], "elevation": ["meters", "mountain"], "natural feature": ["rocky outcrop", "scenic view"], "hiking": ["popular trail", "difficult climb"], "view from top": ["panoramic view", "breathtaking scenery"], "nearby attractions": ["Pravčická brána", "Děčínský Sněžník"]}}
+
+{"concept": "bruschetta", "facet_properties_dict": {"type": ["Italian dish", "antipasto", "appetizer"], "main ingredient": ["bread", "tomato", "basil"], "preparation": ["toasted", "topped with ingredients"], "origin": ["Italy", "Mediterranean region"], "texture": ["crunchy", "soft"], "taste": ["savory", "herbaceous"], "occasion": ["party", "dinner party", "casual gathering"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain", "alps", "france"], "name origin": ["named after", "savigny", "geologist"], "elevation": ["high", "over 2,500 meters"], "location": ["europe", "alps range", "france"], "mountain range": ["alps", "massif central"], "peak": ["dent de savigny", "highest point"]}}
+
+{"concept": "blinnenhorn", "facet_properties_dict": {"category": ["musical instrument", "brass instrument"], "type": ["French horn", "natural horn", "valveless horn"], "sound": ["rich", "mellow", "brassy"], "use": ["orchestral music", "classical music", "jazz"], "physical characteristics": ["long", "curved", "valves"], "origin": ["Germany", "France", "Italy"], "player": ["musician", "orchestra member", "horn player"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"geography": ["mountain range", "Austria"], "elevation": ["above 2,000 meters"], "location": ["Stubai Alps"], "features": ["steep slopes", "rocky terrain"], "popular for": ["hiking", "climbing", "scenic views"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["peak", "Austrian Alps", "mountain range"], "location": ["Tyrolean Alps", "Italy", "Austria"], "elevation": ["2,356 meters"], "difficulty level": ["easy climb", "popular hiking destination"], "scenic views": ["panoramic views", "mountain vistas"], "hiking trails": ["well-marked trails", "scenic routes"], "features": ["summit cross", "mountain refuge"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"location": ["Switzerland", "Alps", "Bernese Alps"], "height": ["4299 meters"], "type": ["mountain", "peak"], "difficulty to climb": ["challenging", "experienced climber"], "first ascent": ["1858", "by Christian Almer"], "notable feature": ["unique rock formation", "exposed summit"]}}
+
+{"concept": "aoraki / mount cook", "facet_properties_dict": {"location": ["new zealand", "south island", "canterbury"], "height": ["3724 meters"], "type": ["mountain", "volcano", "national park"], "features": ["glaciers", "alpine lakes", "hiking trails"], "climate": ["alpine", "cold", "windy"], "importance": ["maori cultural significance", "national park", "tourist attraction"]}}
+
+{"concept": "Ben Lui", "facet_properties_dict": {"location": ["Scotland", "Highlands", "Glencoe"], "mountain type": [" Munro", "Schiehallion", "Ben Lui"], "height": ["", "1122m", "above 1000m"], "difficulty level": ["easy", "moderate", "challenging"], "popular activities": ["hiking", "climbing", "scenic views"], "terrain": ["mountainous", "steep", "rocky"]}}
+
+{"concept": "pointe shoes", "facet_properties_dict": {"type": ["dance", "ballet"], "material": ["leather", "canvas", "satin"], "use": ["dancing", "performing"], "design": ["box toe", "pointed toe"], "features": ["ribbons", "elastics", "padding"], "characteristics": ["delicate", "fragile", "customizable"], "requirements": ["proper fitting", "careful handling"], "care": ["cleaning", "storing", "avoiding damage"]}}
+
+{"concept": "brünnelistock", "facet_properties_dict": {"mountain": ["located in Switzerland", "part of the Swiss Alps"], "height": ["4,025 meters"], "difficulty level": ["challenging climb", "requires mountaineering skills"], "summit views": ["panoramic views of the Swiss Alps", "views of the surrounding mountains"], "climbing routes": ["various routes available", "requires technical climbing skills"], "location": ["Swiss Alps", "near the town of Saas-Fee"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"category": ["sports equipment", "hockey", "outdoor game"], "material": ["wood", "metal", "plastic"], "shape": ["long and curved"], "used for": ["playing field hockey", "hitting balls"], "dimensions": ["varies in size"], "surface": ["smooth", "textured"]}}
+
+{"concept": "Schaichorn", "facet_properties_dict": {"location": ["Switzerland", "Davos", "mountain"], "height": ["2,964 meters", "above sea level"], "type": ["mountain peak", "summit"], "difficulty": ["climbing", "technical climb"], "weather": ["alpine weather", "snowy", "windy"], "route": ["rocky", "glaciated", "exposed"]}}
+
+{"concept": "altmann", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["alps", "austria"], "height": ["meters", "above sea level"], "difficulty level": ["climbing", "technical"], "views": ["panoramic", "scenic"], "weather": ["snowy", "cold"], "hiking trails": ["well-marked", "challenging"], "best time to visit": ["summer", "winter"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "Eiger mountain range"], "location": ["Switzerland", "Bernese Alps"], "elevation": ["4210 meters", "above the treeline"], "difficulty level": ["challenging climb", "experienced hikers"], "views": ["panoramic views", "Eiger, Mönch, and Jungfrau"], "summit": ["crowded", "popular hiking destination"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["geographic feature", "mountain", "landform"], "shape": ["curved", "bent", "winding"], "location": ["Italy", "Europe", "Tuscany"], "height": ["tall", "steep"], "known for": ["scenic views", "hiking", "biking"], "formed by": ["erosion", "weathering", "geological processes"]}}
+
+{"concept": "strahlhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Piz Bernina group", "tallest peak"], "location": ["Switzerland", "Graubünden"], "height": ["3,312 meters", "above sea level"], "difficulty": ["challenging climb", "experienced mountaineer"], "route": ["normal route", "south face"], "summit": ["panoramic views", "snow and ice"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "piz fess", "facet_properties_dict": {"location": ["Italy", "Dolomites", "mountain"], "type": ["ski resort", "winter sports"], "elevation": ["high altitude", "over 2,000 meters"], "activities": ["skiing", "snowboarding", "hiking"], "facilities": ["lifts", "cafes", "accommodations"], "reputation": ["popular", "challenging", "beautiful views"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"meaning": ["Swiss national dish", "dish with three languages", "cultural representation"], "ingredients": ["rösti", "tartar sauce", "french fries", "italian ham", "german cheese"], "dish type": ["breakfast", "lunch", "dinner"], "origin": ["Switzerland", "Italian-speaking region", "German-speaking region", "French-speaking region"], "symbolism": ["unity", "diversity", "cultural identity"], "associated with": ["Swiss culture", "multilingualism", "European identity"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"mountain": ["located in Switzerland", "highest peak in the Pennine Alps", "elevation 4,059 meters"], "location": ["Switzerland", "Pennine Alps", "Valais"], "climbing difficulty": ["challenging", "experienced climbers only"], "notable features": ["summit cross", "scenic views"], "access": ["hiking", "mountain climbing"], "peak season": ["summer", "autumn"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Germany", "Austria", "Alps"], "elevation": ["2,962 meters"], "mountain type": ["peak", "summit"], "popular activity": ["hiking", "skiing", "cable car"], "views": ["Austrian and German Alps", "valleys"], "notable feature": ["border between Germany and Austria"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "snow-capped"], "location": ["Switzerland", "Bernese Alps"], "elevation": ["4,063 meters"], "difficulty level": ["challenging climb", "technical climbing"], "views": ["panoramic views", "Eiger and Mönch"], "accessed by": ["cable car", "hiking trails"], "popular for": ["scenic views", "mountain climbing", "trekking"]}}
+
+{"concept": "mönch", "facet_properties_dict": {"definition": ["a type of pastry", "a type of bread"], "origin": ["Swiss", "German"], "ingredients": ["flour", "water", "yeast", "salt"], "taste": ["sweet", "sour"], "texture": ["crispy", "soft"], "used for": ["breakfast", "snack", "dessert"], "appearance": ["golden brown", "flaky"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["bird", "migratory bird", "wildlife"], "habitat": ["forest", "woodland"], "size": ["small", "medium"], "beak shape": ["short", "pointy"], "diet": ["insects", "seeds", "fruits"], "migration pattern": ["long-distance", "seasonal"], "conservation status": ["endangered", "vulnerable"]}}
+
+{"concept": "Schreckhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger mountain range"], "height": ["4,078 meters"], "location": ["Switzerland", "Bernese Alps"], "difficulty": ["challenging climb", "steep terrain"], "features": ["glacier", "rocky peak"], "popular for": ["mountaineering", "hiking", "scenic views"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "elevation 4,049m"], "location": ["Switzerland", "Bernese Alps", "near Jungfraujoch"], "notable features": ["glacier", "snow and ice", "scenic views"], "climbing difficulty": ["challenging", "experienced climbers"], "first ascent": ["1855", "by Swiss climber"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps", "mountain"], "elevation": ["2744 meters", "mountain peak"], "difficulty": ["challenging", "steep climb"], "route": ["hiking", "scrambling"], "season": ["summer", "winter"], "features": ["glacier", "rocky terrain"]}}
+
+{"concept": "Bietschhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Ursli's Mountain", "elevation 3,398 meters"], "location": ["Switzerland", "Canton of Bern", "Bernese Alps"], "difficulty level": ["easy to moderate climb", "popular hiking destination"], "views": ["Eiger", "Mönch", "Jungfrau"], "named after": ["Urs Schnyter", "local guide", "legendary climber"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"definition": ["type of tree", "Ficus elastica"], "appearance": ["large", "evergreen", "leaves are oval"], "origin": ["native to", "India and Southeast Asia"], "cultivation": ["ornamental", "houseplant", "palm-like"], "uses": ["shade", "decorative", "air purification"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Alps"], "height": ["elevation", "meters"], "difficulty": ["easy", "moderate", "challenging"], "climbing route": ["trail", "path", "rock face"], "summit view": ["panoramic", "scenic", "spectacular"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak", "landform"], "location": ["Switzerland", "European Alps"], "height": ["4,000 meters", "above treeline"], "difficulty": ["challenging climb", "steep terrain"], "access": ["hiking", "mountaineering"], "features": ["snowy", "rocky", "exposed"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"mountain": ["Alps", "Switzerland", "mountain peak"], "elevation": ["4,049 meters"], "location": ["Swiss Alps", "Switzerland", "Fiesch", "Aletsch region"], "first ascent": ["1842", "by Franz Joseph I"], "difficulty": ["easy to moderate climb"], "scenic views": ["Aletsch Glacier", "Fieschersee", "Swiss mountains"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps"], "type": ["mountain", "peak"], "height": ["13,131 feet", "4000 meters"], "difficulty to climb": ["challenging", "technical"], "popular among": ["mountaineers", "adventurers"], "named after": ["Louis Agassiz", "Swiss naturalist"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of horn", "a curved horn"], "origin": ["Germany", "Europe"], "material": ["metal", "wood"], "use": ["ornamentation", "symbolism"], "associated with": ["Germany", "culture", "tradition"]}}
+
+{"concept": "Argentine", "facet_properties_dict": {"nationality": ["South American", "Spanish-speaking", "Catholic"], "location": ["Argentina", "Buenos Aires", "Rio de la Plata"], "culture": ["gauchos", "tango", "asado"], "language": ["Spanish", "Portuguese"], "cuisine": ["beef", "empanadas", "mate"], "famous for": ["football", "cheese", "wine"], "people": ["Juan Perón", "Che Guevara", "Eva Perón"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Pacific Ocean"], "geography": ["volcano", "mountain", "summit"], "height": ["13,796 feet", "4200 meters"], "weather": ["cold", "dry", "dark"], "astronomy": ["telescope", "observatory", "stargazing"], "cultural significance": ["sacred", "important", "Hawaiian culture"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus", "bitter"], "color": ["yellow", "green"], "shape": ["oval"], "taste": ["sour"], "smell": ["strong", "citrusy"], "used for": ["cooking", "making lemonade", "adding flavor"], "located at": ["lemon tree", "supermarket", "kitchen", "pantry"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {"not found": ["no information", "unknown concept"]}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"definition": ["a type of African drum"], "material": ["wood", "animal skin"], "sound": ["deep", "resonant"], "usage": ["traditional music", "ritual ceremonies"], "origin": ["West Africa", "Central Africa"], "features": ["ornate carvings", "intricate patterns"], "cultural significance": ["symbolic", "spiritual"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"geography": ["mountain range", "Switzerland", "Canton of Thurgau"], "height": ["1,022 meters"], "location": ["Hundwil", "Switzerland"], "type": ["hill", "mountain"], "features": ["scenic views", "hiking trails"], "cultivation": ["pasture", "agriculture"]}}
+
+{"concept": "Černá Hora", "facet_properties_dict": {"location": ["Czech Republic", "Bohemian Switzerland"], "mountain": ["peak", "summit", "mountain range"], "height": ["1,479 meters"], "features": ["rocky terrain", "forest", "hiking trails"], "access": ["by car", "by bus", "by hiking"], "activities": ["hiking", "rock climbing", "camping"]}}
+
+{"concept": "Grosser Schärhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "Bernese Alps"], "height": ["4,048 meters"], "mountain range": ["Bernese Alps", "Swiss Alps"], "difficulty level": ["challenging", "steep climb"], "route types": ["via ferrata", "rock climbing"], "summit views": ["panoramic views", "Aletsch Glacier"], "mountain type": ["peak", "summit"]}}
+
+{"concept": "breithorn", "facet_properties_dict": {"mountain": ["located in switzerland", "highest peak in switzerland"], "elevation": ["4,164 meters"], "location": ["swiss alps", "valais canton"], "difficulty to climb": ["challenging", "technical climb"], "popular among": ["mountain climbers", "hikers"], "features": ["glaciers", "scenic views"], "named after": ["german word for broad mountain"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"category": ["military", "naval", "ship"], "type": ["warship", "patrol boat", "frigate"], "size": ["large", "medium"], "speed": ["fast", "medium"], "armament": ["cannons", "torpedoes", "missiles"], "function": ["patrol", "attack", "defend"], "origin": ["Switzerland", "France", "Italy"]}}
+
+{"concept": "medvědí vrch", "facet_properties_dict": {"location": ["Czech Republic", "Bohemia", "Central Europe"], "type": ["mountain", "peak"], "elevation": ["1,363 meters", "above sea level"], "popular for": ["hiking", "trekking", "scenic views"], "named after": ["bear", "medvěd"], "difficulty level": ["moderate", "challenging"]}}
+
+{"concept": "bruschetta", "facet_properties_dict": {"dish type": ["appetizer", "antipasto"], "main ingredient": ["bread", "tomatoes", "basil"], "origin": ["Italian", "Mediterranean"], "texture": ["crunchy", "soft"], "taste": ["savory", "herbaceous"], "common accompaniments": ["olive oil", "garlic", "mozzarella"], "occasion": ["party", "dinner party", "outdoor gathering"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain", "alps", "france"], "elevation": ["high altitude", "peak"], "name origin": ["named after", "savigny"], "climbing difficulty": ["challenging", "technical climb"], "popular among": ["alpinists", "adventurers"], "features": ["steep slopes", "rocky terrain", "scenic views"]}}
+
+{"concept": "blinnenhorn", "facet_properties_dict": {"category": ["musical instrument", "woodwind instrument"], "appearance": ["long", "curved"], "sound": ["mellow", "soft"], "use": ["playing", "music"], "history": ["originated in Europe", "popular in classical music"], "similar to": ["oboe", "cor anglais"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"geography": ["Austria", "mountain range", "Alps"], "elevation": ["above 2,000 meters"], "location": ["in the Austrian Alps", "border of Austria and Italy"], "peak": ["highest point in Austria", "Weissseeberghorn"], "climate": ["alpine climate", "snowy"], "mountain type": ["granite", "rocky"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["located in Italy", "part of the Italian Alps", "highest peak in the Dolomites"], "elevation": ["2,965 meters"], "location": ["South Tyrol", "Italian Alps"], "hiking difficulty": ["challenging", "experienced climbers recommended"], "scenic views": ["panoramic views of the Dolomites", "breath-taking vistas"], "popular activities": ["hiking", "climbing", "scenic photography"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Bernese Alps"], "height": ["4020 meters", "elevation"], "difficulty to climb": ["challenging", "experienced climber"], "location": ["Swiss Alps", "mountain range"], "notable features": ["rocky terrain", "steep ascent"], "mountaineering": ["popular climb", "guided tours available"], "type": ["mountain peak", "summit"]}}
+
+{"concept": "Aoraki / Mount Cook", "facet_properties_dict": {"location": ["New Zealand", "South Island", "Southern Alps"], "height": ["3,724 meters", "highest peak"], "mountain type": ["glacier-covered", "active volcano"], "climbing difficulty": ["challenging", "technical climb"], "accessibility": ["hiking trail", "helicopter access"], "features": ["glaciers", "snowfields", "rocky peaks"], "environmental significance": ["protected area", "national park"]}}
+
+{"concept": "Beinn Luibhean", "facet_properties_dict": {"location": ["Scotland", "Isle of Mull", "mountain range"], "height": ["2,064 feet"], "peak": ["mountain", "summit"], "features": ["scenic views", "wildlife habitat"], "difficulty": ["challenging climb", "steep terrain"], "recreational use": ["hiking", "wild camping", "photography"]}}
+
+{"concept": "pointe shoe", "facet_properties_dict": {"category": ["dance", "shoe", "ballet"], "design": ["delicate", "leather", "toe box"], "function": ["support", "protection", "style"], "used for": ["ballet", "ballet performance", "practice"], "parts": ["vamp", "toe box", "box spring", "ribbing"], "characteristics": ["stiff", "lightweight", "flexible", "adjustable"]}}
+
+{"concept": "Brünnelstock", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Bernese Alps"], "height": ["4,025 meters"], "difficulty level": ["challenging", "experienced climbers"], "summit views": ["panoramic views", "Eiger, Mönch, and Jungfrau"], "climbing routes": ["classic routes", "via ferrata"], "season": ["summer", "early autumn"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"definition": ["a type of Dutch windmill", "a rotating structure"], "function": ["used for grinding grain", "used for pumping water"], "location": ["in the Netherlands", "in Europe"], "construction": ["made of wood", "has a distinctive shape"], "history": ["dates back to the 16th century", "has cultural significance"]}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"location": ["Switzerland", "Alps", "mountain range"], "height": ["2500 meters", "peak"], "difficulty": ["climbing difficulty", "experienced climber"], "route": ["multiple routes", "popular climb"], "features": ["snowy peak", "scenic views"], "mountain range": ["Silvretta Mountains", "Eastern Alps"]}}
+
+{"concept": "allman", "facet_properties_dict": {"musician": ["American", "drummer", "songwriter", "lead vocalist"], "band": ["Allman Brothers Band", "Southern rock", "blues rock"], "genre": ["rock", "blues", "southern rock"], "influences": ["blues", "rock", "folk"], "awards": ["Grammy", "Inducted into the Rock and Roll Hall of Fame"], "notable songs": ["Ramblin' Man", "Midnight Rider", "Whipping Post"], "founding member": ["Duane Allman", "Gregg Allman"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "elevation 3453m", "part of the Bernese Alps"], "location": ["Switzerland", "Canton of Bern", "near Grindelwald"], "hiking": ["popular destination", "challenging climb", "scenic views"], "geology": ["granite", "rocky terrain"], "climate": ["alpine climate", "snowy winters", "cool summers"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["fruit", "type of banana"], "curvature": ["more curved than a normal banana"], "taste": ["similar to a normal banana"], "texture": ["softer than a normal banana"], "origin": ["hybrid of banana and plantain"], "cultivation": ["grows in tropical regions"], "nutrition": ["similar nutritional content to a normal banana"]}}
+
+{"concept": "strahlhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Switzerland", "mountain peak"], "elevation": ["4,018 meters", "above sea level"], "location": ["Swiss canton of Grisons", "border with Austria"], "mountain range": ["Silvretta Mountains", "Eastern Alps"], "climbing difficulty": ["challenging climb", "experienced climbers"], "summit": ["popular hiking destination", "panoramic views"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "piz fess", "facet_properties_dict": {"location": ["Austria", "Tyrolean Alps"], "type": ["mountain", "peak"], "height": ["3,025 meters"], "difficulty": ["easy climb", "popular hiking destination"], "features": ["scenic views", "glaciers"], "activities": ["hiking", "climbing", "sightseeing"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"type": ["catalan pastry", "dessert"], "origin": ["catalonia", "spain"], "ingredients": ["flour", "sugar", "eggs", "cream"], "taste": ["sweet", "rich"], "shape": ["triangle"], "served with": ["coffee", "tea", "wine"], "occasion": ["special event", "celebration", "party"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"location": ["Switzerland", "European Alps", "Valais"], "elevation": ["4,294 meters", "mountain peak"], "mountain range": ["Pennine Alps"], "difficulty level": ["challenging climb", "technical ascent"], "route types": ["via ferrata", "rock climb"], "views": [" panoramic views", "Eiger, Mönch, and Jungfrau"], "mountaineering": ["popular destination", "experienced climbers"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Germany", "Austria", "Alps"], "elevation": ["2,962 meters"], "mountain range": ["Bavarian Alps"], "most visited": ["German side", "Austrian side"], "access": ["cable car", "hiking", "skiing"], "features": ["glacier", "summit", "view"], "recreational activities": ["hiking", "climbing", "skiing", "snowboarding"], "unique feature": ["highest peak in Germany"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "mountain range"], "location": ["Switzerland", "Europe"], "elevation": ["4,158 meters", "above tree line"], "mountaineering": ["popular climb", "challenging route"], "scenic views": [" panoramic views", "Aletsch Glacier"], "protected area": ["Jungfrau UNESCO Biosphere Reserve", "national park"]}}
+
+{"concept": "mönch", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Swiss Alps"], "height": ["4,107 meters"], "climbing difficulty": ["difficult", "technical"], "popular among": ["alpinists", "adventurers"], "known for": ["steep rock faces", "exposure to weather"], "first ascent": ["Julius Klinger", "1928"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["insect", "bee", "wildlife"], "physical characteristic": ["small", "black and yellow"], "habitat": ["garden", "meadow", "forest"], "diet": ["nectar", "pollen"], "behavior": ["social", "communicates with dance"], "importance": ["pollination", "ecological role"]}}
+
+{"concept": "Schreckhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger mountain range", "elevation 4,078m"], "name origin": ["German for 'fright horn'"], "location": ["Switzerland", "Bernese Oberland"], "features": ["distinctive horn-shaped summit", "steep climbing routes"], "difficulty level": ["challenging climb", "experienced mountaineers required"], "first ascent": ["1842 by Johann Coaz"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Dufourspitze", " highest peak"], "location": ["Switzerland", "Bernese Alps"], "height": ["4,049 meters"], "difficulty level": ["climbing", " challenging"], "first ascent": ["1855", "Swiss climber"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"mountain": ["Swiss Alps", "located in Switzerland", "elevation 3529m"], "difficulty level": ["difficult climb", "technical climb", "experienced mountaineer required"], "route": ["via ferrata", "scrambling", "rock climbing"], "views": ["panoramic views", "mountain vistas", "Lake Lucerne"], "location": ["Swiss Alps", "Switzerland", " Uri"], "features": ["rocky terrain", "alpine meadow", "glacier"]}}
+
+{"concept": "Biettishorn", "facet_properties_dict": {"mountain": ["Alps", "Switzerland", "highest peak", "snow-capped"], "location": ["Switzerland", "Bernese Alps"], "height": ["3,692 meters"], "difficulty level": ["challenging climb", "experienced hikers"], "views": ["panoramic views", "Eiger", "Mönch"], "hiking trails": ["long hike", "multi-day trek"]}}
+
+{"concept": "damsel-in-distress", "facet_properties_dict": {"origin": ["literary trope", "medieval literature", "fairy tale"], "characteristics": ["helpless", "vulnerable", "dependent on male hero"], "story context": ["kidnapping", "rescue", "romance"], "cultural significance": ["archetypal female role", "patriarchal society"], "critique": ["overused trope", "limiting female agency"], "modern interpretations": ["subverted in feminist literature", "parodied in popular culture"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Europe"], "height": ["9,249 meters"], "mountain range": ["Pennine Alps"], "difficulty to climb": ["challenging", "experienced climbers"], "popular among": ["alpinists", "adventurers"], "notable features": ["glaciers", "rocky terrain"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Europe"], "height": ["4,000 meters", "above tree line"], "difficulty": ["challenging climb", "steep terrain"], "route": ["via ferrata", "rock climbing"], "view": ["panoramic view", "Alpine scenery"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "mountain range"], "height": ["4,049 meters"], "type": ["mountain", "peak", "summit"], "difficulty": ["challenging climb", "technical climb"], "route": ["climbing route", "via ferrata"], "weather": ["harsh weather conditions", "snow and ice"], "views": ["panoramic views", "sweeping views"], "climbing season": ["summer", "summer months"]}}
+
+{"concept": "Agassizhorn", "facet_properties_dict": {"mountain": ["peak", "Swiss Alps", "highest point"], "location": ["Switzerland", "Swiss canton of Bern"], "height": ["13,131 feet", "4,000 meters"], "difficulty": ["easy to climb", "popular hiking destination"], "name origin": ["named after Louis Agassiz", "Swiss geologist"], "features": ["glaciers", "scenic views"], "climbing routes": ["well-marked trails", "easy access"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of mountain in Germany", "a mountain range in the Black Forest"], "location": ["Black Forest", "Germany", "Europe"], "height": ["up to 1,014 meters"], "geology": ["made of sandstone", "granite", "gneiss"], "hiking": ["popular hiking destination", "many trails available"], "scenic views": ["offers views of the Black Forest", "panoramic views of the surrounding mountains"]}}
+
+{"concept": "Argentine", "facet_properties_dict": {"nationality": ["South American", "Spanish-speaking", "Latin American"], "language": ["Spanish", "Portuguese"], "cuisine": ["asado", "empanadas", "alfajores"], "culture": ["tango", "football", "gauchos"], "location": ["Argentina", "South America", "Buenos Aires"], "people": ["Juan", "Evita", "Che Guevara"], "tradition": ["Independence Day", "Carnival", "Fiesta Gaucha"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Pacific Ocean"], "mountain": ["tallest mountain", "active volcano", "snow-capped"], "astronomy": ["observatory", "research site", "telescope"], "natural feature": ["volcanic mountain", "snowy peak", "glacier"], "culture": ["sacred place", "Cultural significance", "Native Hawaiian"], "environment": ["alpine ecosystem", "native plants", "endangered species"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus", "juice"], "color": ["yellow"], "shape": ["sphere"], "taste": ["sour"], "smell": ["strong", "aromatic"], "used for": ["cooking", "baking", "making lemonade", "adding flavor"], "located at": ["lemon tree", "supermarket", "kitchen", "pantry"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {"none": []}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"definition": ["small peninsula", "piece of land", "coastal feature"], "location": ["France", "Brittany", "Côte d'Armor"], "geographical feature": ["rocky", "cliffy", "windy"], "usage": ["tourist destination", "natural reserve", "hiking spot"], "notable for": ["unique landscape", "wildlife habitat", "historic significance"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Appenzell", "Alps"], "elevation": ["1,044 meters", "peak"], "location": ["Appenzell district", "Switzerland"], "hiking": ["popular hiking destination", "trail"], "scenic view": ["beautiful panorama", "Lake Constance", "Swiss Alps"]}}
+
+{"concept": "černá hora", "facet_properties_dict": {"location": ["Czech Republic", "Europe", "mountain range"], "peak": ["1,722 meters", "highest peak", "mountain peak"], "national park": ["protected area", "nature reserve", "wildlife habitat"], "hiking": ["popular hiking trail", "scenic views", "outdoor adventure"], "climate": ["temperate", "forest climate", "cold winters"], "geology": ["granite", "rocky terrain", "mountainous landscape"]}}
+
+{"concept": "Grosser Schärhorn", "facet_properties_dict": {"location": ["Switzerland", "Alps", "mountain range"], "height": ["3,140 meters"], "peak": ["mountain peak"], "region": ["Swiss Alps", "Bernese Alps"], "difficulty to climb": ["challenging", "experienced climber"], "views": ["panoramic views", "Eiger", "Monch"], "type": ["mountain", "peak"], "part of": ["Bernese Alps mountain range"]}}
+
+{"concept": "Breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Italian Alps", "highest peak"], "location": ["Switzerland", "Italy", "border"], "height": ["4,164 meters"], "difficulty level": ["easy to climb", "popular among mountaineers"], "first ascent": ["1865", "by Swiss guides"], "type": ["Dufourspitze", "fourth highest peak"], "features": [" glaciers", "rocky terrain"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"definition": ["type of sailboat", "small to medium-sized"], "design": ["sturdy", "stable"], "purpose": ["sailing", "recreational"], "characteristics": ["narrow hull", "single mast"], "origin": ["Switzerland", "Europe"], "used for": ["racing", "cruising", "sailing trips"]}}
+
+{"concept": "medvědí vrch", "facet_properties_dict": {"geography": ["mountain", "Czech Republic", "Bohemia"], "elevation": ["1,244 meters"], "location": ["Central Europe", "near Karlovy Vary"], "type": ["volcanic", " extinct"], "features": ["rocky outcrops", "hiking trails"], "significance": ["popular tourist destination", "historic site"]}}
+
+{"concept": "bruschetta", "facet_properties_dict": {"dish type": ["Italian", "appetizer", "snack"], "main ingredient": ["bread", "tomato", "basil"], "taste": ["savory", "herbaceous"], "origin": ["Italy"], "commonly served with": ["wine", "olive oil", "cheese"], "texture": ["crunchy", "soft"], "occasional use": ["at parties", "at dinner gatherings"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain", "peak", "Europe", "France", "Alps"], "elevation": ["2,538 meters", "high mountain"], "location": ["French Alps", "Haute-Savoie"], "named after": ["French geographer", "Savigny"], "difficulty": ["challenging climb", "technical climb"], "views": ["panoramic views", "spectacular views"]}}
+
+{"concept": "Blinnernhorn", "facet_properties_dict": {"category": ["mountain", "Alps"], "location": ["Germany", "Bavaria", "Allgäu"], "height": ["2,310 meters"], "peak": ["mountain peak"], "notable for": ["being a popular hiking destination", "offering scenic views"], "mountain range": ["Allgäu Alps"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"definition": ["a type of mountain", "a mountain peak"], "location": ["Austria", "Tyrolean Alps"], "height": ["3500 meters"], "difficulty": ["challenging climb", "technical difficulty"], "attracts": ["alpinists", "adventure seekers"], "features": ["steep rock face", "ice walls", "snowy terrain"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["peak", "Alps", "Austria"], "location": ["Tyrolean Alps", "Osttirol", "Italy"], "elevation": ["2,962 meters"], "difficulty level": ["challenging", "experienced climbers"], "climbing routes": ["various routes", "via ferrata", "rock climbing"], "view from top": ["breathtaking", "panoramic", "mountain range"], "hiking trails": ["well-marked", "steep", "scenic"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "mountain peak", "elevation 3224m"], "location": ["Switzerland", "Bernese Alps", "Grosser Aletschgletscher"], "difficulty": ["challenging climb", "exposed terrain", "technical climb"], "route": ["via ferrata", "rock climbing", "ice climbing"], "summit": ["panoramic views", "snowy terrain", "exposure to weather"]}}
+
+{"concept": "aoraki / mount cook", "facet_properties_dict": {"location": ["new zealand", "south island", "canterbury"], "geography": ["mountain", "volcanic", "highest peak"], "climate": ["alpine", "cold", "snowy"], "features": ["glaciers", "peaks", "valleys"], "culture": ["māori significance", "tourist destination", "national park"], "activities": ["hiking", "climbing", "skiing"], "importance": ["natural wonder", "iconic landmark", "environmental protection"]}}
+
+{"concept": "Beinn Luibhean", "facet_properties_dict": {"location": ["Scotland", "Isle of Mull", "mountain range"], "height": ["1,063 meters"], "peak": ["mountain peak", "popular hiking destination"], "features": ["scenic views", "wildlife habitats"], "access": ["hiking trails", "public transportation"], "wildlife": ["seals", "birds", "wildflowers"]}}
+
+{"concept": "pointe shoe", "facet_properties_dict": {"type": ["dance", "ballet"], "part of": ["ballet outfit", "dance costume"], "used for": ["ballet dancing", "ballet performance"], "characteristics": ["hard sole", "delicate materials"], "purpose": ["supporting the foot", "enhancing movement"], "features": ["toe box", "ribbons", "elastics"], "location": ["ballet studio", "dance school", "theater"]}}
+
+{"concept": "brünnelistock", "facet_properties_dict": {"geography": ["mountain", "Austria"], "elevation": ["3,356 meters"], "location": ["Salzkammergut region"], "type": ["peak", "mountain peak"], "difficulty level": ["challenging climb"], "popular activities": ["hiking", "climbing", "scenic views"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"definition": ["type of medieval helmet", "armor"], "material": ["metal", "steel"], "usage": ["for knights", "for battle"], "characteristics": ["protective", "decorative"], "origin": ["Europe", "Middle Ages"], "similar to": ["knight's helmet", "armor"]}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"location": ["Switzerland", "Alps", "mountain range"], "elevation": ["2502 meters", "peak", "mountain height"], "type": ["mountain", "peak"], "difficulty": ["challenging climb", "technical climb"], "notable for": ["unique shape", "popular climbing destination", "mountain in the Silvretta mountain range"]}}
+
+{"concept": "altmann", "facet_properties_dict": {"definition": ["German word for 'other man'"], "meaning": ["different person", "not the speaker"], "usage": ["used in everyday language", "in formal writing"], "origin": ["German language", "Old High German"], "related concepts": ["self", "other person", "identity"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"mountain": ["elevation", "peak"], "location": ["Switzerland", "Bernese Alps"], "name origin": ["German", "Silver Horn"], "height": ["4139 meters"], "difficulty level": ["challenging climb", "steep terrain"], "view from top": ["panoramic view", "mountain ranges"], "mountain type": ["mountain peak", "summit"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["fruit", "yellow", "small"], "shape": ["curved", "oval"], "taste": ["sweet", "tart"], "origin": ["South America", "Central America"], "used for": ["eating fresh", "making juice", "making desserts"], "seasonal availability": ["summer", "fall"]}}
+
+{"concept": "Strahlhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Pizzo", "most prominent peak"], "location": ["Switzerland", "Graubünden", "Pomatt"], "elevation": ["3,144 meters", "above sea level"], "difficulty": ["easy climb", "popular hike"], "route": ["via ferrata", "rock climbing"], "views": ["panoramic views", "surrounding mountains"]}}
+
+{"concept": "männlichen", "facet_properties_dict": {"type": ["mountain range", "natural feature"], "location": ["Germany", "Europe", "Harz Mountains"], "height": ["highest peak is Brocken", "average height is 400-700m"], "geological composition": ["sandstone", "granite", "limestone"], "ecological significance": ["habitat for various species", "important for water supply"], "recreational activities": ["hiking", "cycling", "skiing"]}}
+
+{"concept": "piz fess", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Europe"], "elevation": ["elevated", "high"], "difficulty level": ["challenging", "steep"], "climbing route": ["rocky", "snowy"], "popular among": ["adventurers", "mountaineers", "skiers"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"language": ["Romansh", "Italian", "German"], "meaning": ["three languages pizza"], "dish type": ["pizza"], "origin": ["Switzerland", "Graubünden"], "ingredients": ["dough", "tomato sauce", "cheese", "ham", "onions"], "cultural significance": ["representing the linguistic diversity of Switzerland", "popular in the region"], "served with": ["side dishes", "salad", "dessert"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"location": ["Switzerland", "European Alps"], "mountain": ["peak", "summit"], "height": ["4,354 meters"], "difficulty": ["challenging climb", "technical ascent"], "route": ["via ferrata", "rock climbing"], "scenic views": ["panoramic views", "mountain panorama"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Bavaria", "Germany", "Alps"], "elevation": ["2,962 meters"], "mountain type": ["highest peak", "granite", "mountain range"], "climbing": ["popular hiking destination", "scenic views", "challenging climb"], "infrastructure": ["cable car", "ski resort", "mountain hut"], "recreation": ["skiing", "snowboarding", "hiking", "paragliding"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "Eiger, Mönch, and Jungfrau"], "location": ["Switzerland", "Bernese Oberland"], "height": ["4158 meters"], "difficulty": ["challenging climb"], "view": ["panoramic views", "Eiger, Mönch, and Schreckhorn"], "type": ["Dormant volcano", "granite peak"], "access": ["hiking", "cable car", "train"]}}
+
+{"concept": "mönch", "facet_properties_dict": {"definition": ["cleric", "non-combatant", "warrior-priest"], "origin": ["Middle Ages", "European folklore"], "characteristics": ["wears armor", "uses magic", "fights for good"], "role": ["support", "healer", "tank"], "powers": ["healing", "shielding", "smite"], "popularity": ["Dungeons & Dragons", "Warhammer", "fantasy fiction"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["insect", "beetle"], "size": ["small"], "color": ["black", "red", "yellow"], "habitat": ["forest", "meadow", "garden"], "diet": ["plant-based", "herbivore"], "lifespan": ["short"], "behavior": ["nocturnal", "crawling"], "found in": ["Europe", "North America", "Asia"]}}
+
+{"concept": "Schreckhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps"], "elevation": ["4,214 meters"], "mountain type": ["Doppler peak", "mountain", "summit"], "difficulty level": ["challenging climb", "technical climb"], "route": ["via ferrata", "climbing route"], "scenic views": ["panoramic views", "alpine scenery"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "Valais"], "mountain range": ["Swiss Alps"], "height": ["4,049 meters"], "peak": ["mountain peak"], "notable for": ["location of the longest glacier in the Alps", "scenic views"], "climbing difficulty": ["difficult climb"], "year climbed first": ["1859"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps", "mountain range"], "height": ["13,104 ft", "4,002 m"], "difficulty": ["difficult climb", "steep terrain"], "popular activities": ["hiking", "mountain climbing", "scrambling"], "views": ["panoramic views", "Aletsch Glacier"], "mountain type": ["peak", "mountain summit"], "region": ["Swiss Alps", "Bernese Oberland"]}}
+
+{"concept": "Biettschhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps"], "mountain type": ["peak", "summit"], "height": ["3,465 meters"], "difficulty level": ["challenging climb"], "routes": ["climbing routes", "hiking trails"], "features": ["scenic views", "glaciers"], "climate": ["alpine", "cold"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"category": ["animal", "domesticated", "livestock"], "breed": ["Damascus", "stocky", "strong"], "origin": ["Middle East", "Syria", "Damascus"], "characteristics": ["strong build", "good milk production"], "uses": ["milk", "meat", "dairy products"], "diet": ["grass", "hay", "grain"], "lifespan": ["10-15 years"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"geography": ["mountain", "Switzerland"], "elevation": ["4,022 meters"], "type": ["mountain peak", "summit"], "location": ["Swiss Alps"], "difficulty": ["challenging climb", "technical climb"], "features": ["rocky terrain", "exposed ridges"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Alps"], "elevation": ["over 3,000 meters"], "difficulty": ["challenging climb"], "route": ["via ferrata", "rock climbing"], "view": ["panoramic", "breathtaking"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"mountain": ["Alps", "Switzerland", "Austria", "snow-capped"], "height": ["4,049 meters"], "location": ["Swiss Alps", "border with Austria"], "difficulty level": ["climbing", "challenging"], "popular for": ["hiking", "mountain climbing", "scenic views"], "features": ["glacier", "rocky summit"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Swiss Alps"], "height": ["4526 meters", "above 4500 meters"], "difficulty": ["challenging climb", "technical climb"], "mountain range": ["Swiss Alps", "Bernese Alps"], "named after": ["Louis Agassiz", "Swiss naturalist"], "popular among": ["hikers", "climbers", "mountain enthusiasts"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of German horn", "a brass instrument"], "origin": ["Germany", "Europe"], "sound": ["brassy", "loud"], "used for": ["playing classical music", "orchestra", "concert"], "construction": ["made of brass", "has valves"], "history": ["popular in 18th century", "used in classical music"]}}
+
+{"concept": "Argentine", "facet_properties_dict": {"nationality": ["South American", "Latin American"], "country": ["Argentina"], "language": ["Spanish"], "culture": ["gastronomy", "tango", "soccer"], "people": ["European descent", "mixed ancestry"], "famous for": ["beef", "wine", "football"], "located in": ["South America", "Rio de la Plata region"], "capital": ["Buenos Aires"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Pacific Ocean"], "geography": ["volcano", "mountain", "active"], "height": ["13,796 feet", "4,205 meters", "tallest mountain"], "climate": ["cool", "dry", "clear skies"], "used for": ["astronomy", "research", "stargazing"], "features": ["summit", "caldera", "snow-covered"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus", "juice"], "color": ["yellow", "green"], "shape": ["oval"], "taste": ["sour", "acidic"], "scent": ["strong", "refreshing"], "used for": ["cooking", "baking", "making tea", "making lemonade"], "located at": ["tree", "supermarket", "kitchen", "pantry"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"definition": ["a type of cheese", "a French cheese"], "origin": ["France", "Normandy"], "taste": ["strong", "pungent"], "texture": ["crumbly", "dry"], "used in": ["cheese platter", "sandwich", "salad"], "production": ["made from cow's milk", "aged for several months"], "culinary use": ["appetizer", "dessert", "main course"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"location": ["Hundwil", "Switzerland", "Appenzell Ausserrhoden"], "type": ["mountain", "hill"], "height": ["1,372 meters"], "landmark": ["popular hiking destination", "scenic views"], "features": ["alpine meadow", "waterfall", "hiking trails"], "climate": ["temperate", "continental"], "accessibility": ["by car", "by public transportation", "hiking"]}}
+
+{"concept": "Černá Hora", "facet_properties_dict": {"location": ["mountain", "Czech Republic", "Bohemia"], "height": ["1,722 meters"], "geology": ["granite", "volcanic"], "recreation": ["hiking", "skiing", "winter sports"], "views": ["panoramic views of Bohemia", "views of the Elbe River"], "climate": ["temperate", "cold winters"], "access": ["hiking trails", "ski lifts"]}}
+
+{"concept": "Grosser Schärhorn", "facet_properties_dict": {"location": ["Switzerland", "Alps", "mountain range"], "height": ["13,042 feet", "3,970 meters"], "difficulty": ["difficult climb", "technical route"], "type": ["mountain peak", "summit"], "notable for": ["steep climb", "exposed ridge"], "best season for climb": ["summer", "autumn"], "climbing route": ["via ferrata", "rock climbing", "ice climbing"]}}
+
+{"concept": "Breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Italian Alps", "highest peak"], "location": ["Switzerland", "Italy", "border"], "elevation": ["4,164 meters", "above the treeline"], "climbing difficulty": ["challenging", "technical climb"], "mountain type": ["dormant volcano", "granite mountain"], "notable features": [" glaciers", "snowfields", "scenic views"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"category": ["mountain", "peak", "landform"], "location": ["Switzerland", "Europe"], "height": ["elevation", "summit"], "difficulty": ["challenging climb", "steep terrain"], "popular for": ["hiking", "scenic views", "adventure"], "related to": ["Bernese Alps", "mountain range", "geography"]}}
+
+{"concept": "Medvědí Vrch", "facet_properties_dict": {"location": ["Bohemia", "Czech Republic", "mountain", "peak"], "height": ["1,363 meters"], "mountain range": ["Krkonoše"], "hiking": ["popular", "challenging"], "views": ["panoramic", "beautiful"], "named after": ["bear", "medvěd"], "features": ["summit cross", "hiking trails"]}}
+
+{"concept": "bruschetta", "facet_properties_dict": {"dish type": ["Italian", "appetizer", "snack"], "base": ["bread", "toasted bread"], "topping": ["tomatoes", "basil", "garlic", "olive oil"], "origin": ["Italy"], "commonly served with": ["wine", "beer", "champagne"], "event": ["dinner party", "wine tasting", "outdoor picnic"]}}
+
+{"concept": "dent de savigny", "facet_properties_dict": {"geography": ["mountain", "peak", "France"], "location": ["Vosges Mountains", "Alsace region"], "elevation": ["1,348 meters"], "notable for": ["scenic views", "hiking trails", "historic significance"]}}
+
+{"concept": "blinnenhorn", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Europe"], "height": ["meters above sea level", "elevation"], "difficulty": ["challenging climb", "experienced hikers"], "popular for": ["scenic views", "hiking", "rock climbing"], "features": ["snowy peaks", "alpine lakes", "wildflowers"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Austria", "Tyrol"], "height": ["not specified", "over 3,000 meters"], "difficulty level": ["challenging", "experienced climber"], "route": ["rocky", "snowy"], "weather condition": ["variable", "bad weather"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["highest peak", "Austria"], "location": ["Hohe Tauern", "Carinthia"], "height": ["2,356 meters"], "difficulty level": ["easy to moderate", "hiking"], "scenic views": ["beautiful", "panoramic"], "climate": ["alpine", "cold"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"mountain": ["peak", "Swiss Alps"], "location": ["Switzerland", "Bernese Alps"], "height": ["4295 meters", "above sea level"], "difficulty level": ["challenging climb", "requiring mountaineering skills"], "route": ["multiple paths", "via ferrata"], "scenic views": ["panoramic views", "of surrounding mountains"]}}
+
+{"concept": "Aoraki / Mount Cook", "facet_properties_dict": {"geography": ["mountain", "New Zealand", "South Island", "national park"], "height": ["3,724 meters"], "landmark": ["iconic", "popular hiking destination"], "features": ["glaciers", "alpine lakes", "rocky peaks"], "climate": ["alpine", "cold", "snowy"], "recreational activities": ["hiking", "climbing", "skiing", "snowshoeing"]}}
+
+{"concept": "Ben Nevis", "facet_properties_dict": {"location": ["Scotland", "British Isles", "UK"], "mountain range": ["Grampian Mountains"], "height": ["1345 meters"], "difficulty level": ["challenging", "steep"], "popular activities": ["hiking", "climbing", "scrambling"], "weather conditions": ["rainy", "windy", "foggy"], "view from top": ["panoramic", "breathtaking", "scenic"]}}
+
+{"concept": "pointe shoes", "facet_properties_dict": {"category": ["dance shoes", "ballet equipment", "footwear"], "material": ["leather", "canvas", "satin"], "design": ["toe box", "box toe", "V-shaped"], "function": ["support", "stability", "aesthetics"], "usage": ["ballet", "ballet performance", "ballet practice"], "care": ["dry", "brush", "store"], "location": ["dance studio", "ballet school", "theatre"]}}
+
+{"concept": "brünnelistock", "facet_properties_dict": {"location": ["Austria", "mountain"], "elevation": ["3,611 meters"], "mountain range": ["Stubai Alps"], "difficulty level": ["challenging climb"], "popular for": ["rock climbing", "hiking"], "views from top": ["panoramic views of surrounding mountains"]}}
+
+{"concept": "schilt", "facet_properties_dict": {}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"geography": ["mountain", "Swiss Alps", "Italy", "Austria"], "elevation": ["3,025 meters"], "mountain range": ["Eastern Alps"], "location": ["border of Italy and Austria"], "difficulty level": ["challenging climb"], "popular among": ["hikers", "climbers"]}}
+
+{"concept": "altmann", "facet_properties_dict": {"definition": ["Jewish surname", "German surname"], "origin": ["Ashkenazi Jewish", "German"], "meaning": ["handsome", "strong"], "language": ["German", "Yiddish"], "religion": ["Jewish", "Christian"], "culture": ["German", "Jewish"], "famous people": ["Rabbi Abraham Altman", "Jewish historian"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Bernese Alps"], "elevation": ["4210 meters"], "difficulty": ["challenging climb", "steep terrain"], "popular for": ["hiking", "scenic views", "mountain climbing"], "features": ["rocky terrain", " glaciers", "snowy peaks"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "strahlhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps"], "mountain type": ["peak", "summit", "mountain"], "height": ["4,018 meters", "above sea level"], "difficulty level": ["challenging", "technical climb"], "climbing route": ["via ferrata", "rock climbing"], "view from top": ["panoramic view", "Alps landscape"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "piz fess", "facet_properties_dict": {"location": ["Austria", "Tyrolean Alps", "mountain"], "type": ["mountain", "peak"], "height": ["3,014 meters"], "climbing difficulty": ["challenging", "experienced climbers"], "views": ["panoramic views", "scenic landscape"], "hiking trails": ["long hike", "steep ascent"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"type": ["pizza"], "linguas": ["three languages", "Italian", "English", "Spanish"], "ingredients": ["cheese", "tomato sauce", "toppings"], "origin": ["Italy", "Europe"], "served with": ["garlic bread", "salad", "chips"], "occasion": ["party", "dinner", "social gathering"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"location": ["Switzerland", "Europe", "Alps"], "mountain type": ["peak", "summit"], "elevation": ["4,354 meters"], "difficulty level": ["challenging climb", "technical climb"], "route types": ["via ferrata", "rock climb", "ice climb"], "weather condition": ["snowy", "icy", "windy"], "popular activities": ["climbing", "hiking", "skiing"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Germany", "Austria", "Alps", "mountain range"], "height": ["2,962 meters"], "type": ["mountain", "peak"], "features": ["snow capped", "glacier", "summit"], "access": ["cable car", "hiking", "skiing"], "notable for": ["highest peak in Germany", "popular tourist destination", "scenic views"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "mountain range"], "location": ["Switzerland", "Bernese Alps"], "height": ["4,158 meters", "above treeline"], "difficulty": ["challenging climb", "technical climb"], "view": ["panoramic views", "Aletsch Glacier"], "popular with": ["mountain climbers", "trekking enthusiasts", "tourists"]}}
+
+{"concept": "mönch", "facet_properties_dict": {"category": ["mountain", "climbing", "hiking"], "location": ["Switzerland", "Swiss Alps", "Europe"], "height": ["4,107 meters"], "difficulty level": ["challenging", "technical climb"], "popular among": ["climbers", "adventurers", "nature lovers"], "views from top": ["panoramic views", "Aletsch Glacier", "Eiger, Mönch, and Jungfrau mountains"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["bird", "small bird", "migratory bird"], "size": ["small", "tiny"], "habitat": ["forest", "woodland", "Europe"], "diet": ["insects", "worms", "seeds"], "behavior": ["social", "flocking", "migratory"], "conservation status": ["endangered", "vulnerable"], "features": ["striking plumage", "distinctive song", "small size"]}}
+
+{"concept": "schreckhorn", "facet_properties_dict": {"location": ["Switzerland", "Swiss Alps", "mountain range"], "height": ["4,078 meters", "elevation"], "type": ["mountain", "peak", "summit"], "climbing difficulty": ["challenging", "steep", "rocky"], "route": ["multiple routes", "exposed ridges", "snowy terrain"], "notable feature": ["sharp summit", "exposed ridge", "steep cliffs"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"geography": ["mountain", "Switzerland", "Bernese Alps", "highest peak"], "elevation": ["4,494 meters"], "first ascent": ["1855", "Edward Whymper"], "location": ["Swiss Alps", "Bernese Alps range"], "difficulty level": ["extreme climbing", "experienced climber required"], "notable features": ["glaciers", "rocky terrain"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"location": ["Switzerland", "mountain", "Bernese Alps"], "height": ["13,595 feet", "4,002 meters"], "type": ["mountain peak", "summit"], "difficulty": ["difficult climb", "steep terrain"], "view": ["panoramic view", "spectacular scenery"], "mountain range": ["Bernese Alps", "Swiss Alps"], "features": [" glaciers", "rocky terrain", "wildflowers"]}}
+
+{"concept": "Bietschhorn", "facet_properties_dict": {"location": ["Switzerland", "Alps"], "mountain type": ["peak", "summit"], "elevation": ["3,934 meters"], "difficulty": ["challenging climb", "technical climb"], "notable features": ["glaciers", "rocky terrain"], "mountaineering": ["popular climb", " requires experience"], "name origin": ["named after Swiss climber", "dedicated to mountain climber"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"animal": ["type of cattle", "livestock"], "origin": ["Europe", "Switzerland"], "breed": ["distinct breed", "known for milk production"], "characteristics": ["large size", "black and white coat"], "uses": ["milk production", "beef"], "habitat": ["pastures", "farms"], "domestication": ["historical", "ancient"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"category": ["mountain", "peak", "landmark"], "location": ["Switzerland", "Alps"], "height": ["9,902 feet"], "difficulty to climb": ["challenging"], "notable for": ["scenic views", " glaciers"], "mountain range": ["Pennine Alps"], "climbing route": ["via ferrata"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Europe", "snowy"], "peak": ["4,000 meters", "elevation"], "location": ["Switzerland", "Bernese Alps"], "type": ["mountain", "summit", "climbing"], "difficulty": ["challenging", "steep climb"], "popular for": ["hiking", "climbing", "scenic views"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"location": ["Switzerland", "Alps", "mountain range"], "height": ["4,049 meters", "above sea level"], "peak type": ["mountain peak", "summit"], "climbing difficulty": ["challenging", "technical climb"], "route types": ["via ferrata", "rock climbing", "glacier climbing"], "notable features": ["glaciers", "rocky terrain", "steep cliffs"]}}
+
+{"concept": "agassizhorn", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Swiss Alps"], "height": ["13,131 feet"], "name origin": ["named after Louis Agassiz"], "difficulty to climb": ["challenging", "technical"], "best time to climb": ["summer", "early morning"], "view from top": ["panoramic view", "beautiful scenery"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"type": ["mountain", "peak"], "location": ["Switzerland", "Swiss Alps"], "elevation": ["4,545 meters"], "difficulty": ["challenging climb", "steep terrain"], "route": ["scrambling", "rock climbing"], "attracts": ["adventurers", "mountain enthusiasts"], "view": ["panoramic", "breathtaking"]}}
+
+{"concept": "l'argentine", "facet_properties_dict": {"language": [" Romance language", "official language of Argentina"], "script": ["Latin alphabet"], "dialects": [" Rioplatense Spanish", "Andean Spanish"], "spoken in": ["Argentina", "Uruguay", "Southern Brazil"], "grammar": ["verb conjugation", "use of pronouns"], "vocabulary": ["borrowed words from indigenous languages", "influence of Italian and other immigrant languages"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Maui"], "type": ["volcano", "mountain"], "height": ["13,796 feet", "4,207 meters"], "features": ["summit observatories", "snow-capped peak", "caldera"], "climate": ["temperate", "alpine"], "activities": ["stargazing", "hiking", "astronomy research"]}}
+
+{"concept": "le linoleum", "facet_properties_dict": {"material": ["synthetic", "rubber", "plastic"], "usage": ["floor covering", "kitchen floor", "bathroom floor"], "appearance": ["colorful", "patterned", "smooth"], "advantages": ["easy to clean", "durable", "water-resistant"], "disadvantages": ["cold", " slippery", "not eco-friendly"], "origin": ["invented in Germany", "developed in the 1800s"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {"does not exist": ["unknown", "non-existent", "does not exist as a concept"]}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"definition": ["small peninsula", "coastal feature"], "location": ["French Riviera", "Mediterranean coast"], "geography": ["rocky", "scenic"], "tourist attraction": ["popular destination", "beach", "hiking"], "nearby cities": ["Nice", "Marseille"], "notable for": ["beauty", "history", "architecture"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"location": ["Hundwil", "Switzerland", "Appenzell Ausserrhoden"], "mountain range": ["Alps", "Swiss Alps"], "elevation": ["1,425 meters", "1,425 meters above sea level"], "features": ["hiking trails", "scenic views", "wildflowers"], "part of": ["Appenzell Ausserrhoden", "Switzerland"], "recreational activities": ["hiking", "mountain biking", "picnicking"]}}
+
+{"concept": "Černá Hora", "facet_properties_dict": {"location": ["Czech Republic", "Bohemian Switzerland", "mountain range"], "elevation": ["highest peak 1,722 meters"], "features": ["scenic views", "hiking trails", "waterfalls"], "geology": ["granite", "sandstone"], "protected area": ["national park", "UNESCO Biosphere Reserve"], "recreational activities": ["hiking", "cycling", "rock climbing"]}}
+
+{"concept": "Grosser Scharfenberg", "facet_properties_dict": {"mountain": ["highest peak", "Swiss Alps", "Eiger, Mönch, and Jungfrau"], "location": ["Switzerland", "Bernese Alps", "near Grindelwald"], "height": ["13,843 ft", "4,212 m"], "difficulty": ["challenging climb", "experienced hikers"], "views": ["panoramic views", "Eiger, Mönch, and Jungfrau"], "named after": ["Grosser Scharfenberg", "local mountain guide"]}}
+
+{"concept": "Breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "Urschnergrat"], "elevation": ["4,164 meters"], "location": ["Switzerland", "Cervin mountain range"], "mountaineering": ["climbing route", "difficult climb", "popular destination"], "geology": ["granite", "ice fields"], "access": ["hiking", "cable car", "trail"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"category": ["mountain", "peak"], "location": ["Switzerland", "Europe"], "height": ["elevation", "summit"], "difficulty": ["climbing", "hiking"], "scenic view": ["panoramic", "breathtaking"], "climate": ["alpine", "snowy"]}}
+
+{"concept": "medvědí vrch", "facet_properties_dict": {"location": ["Czech Republic", "Bohemia", "Central Europe"], "height": ["1,244 meters"], "mountain range": ["Křivoklát Mountains"], "features": ["summit", "hiking trails", "scenic views"], "geology": ["granite", "sandstone"], "climate": ["temperate", "continental"], "access": ["hiking", "public transportation"]}}
+
+{"concept": "bruschghorn", "facet_properties_dict": {"category": ["instrument", "musical instrument", "brass instrument"], "shape": ["long", "curved"], "material": ["brass", "metal"], "used for": ["playing music", "making sound"], "sounded like": ["mournful", "haunting"], "played by": ["musician", "brass player"], "originated from": ["Europe", "Germany"], "popular in": ["orchestra", "classical music", "concert"]}}
+
+{"concept": "Dent de Savigny", "facet_properties_dict": {"geography": ["mountain", "France", "Pyrenees"], "elevation": ["2,351 meters"], "location": ["border of France and Spain"], "difficulty": ["challenging climb", "exposed terrain"], "views": ["panoramic views of Pyrenees"], "popular for": ["hiking", "mountaineering"], "named after": ["French geographer", "Antoine Savigny"]}}
+
+{"concept": "blinnenhorn", "facet_properties_dict": {"category": ["musical instrument", "horn", "brass instrument"], "sound": ["brassy", "loud"], "appearance": ["long", "curved"], "used for": ["playing music", "orchestra", "concert"], "parts": ["bell", "valves", "mouthpiece"], "skill level": ["advanced", "requires practice"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"geography": ["mountain range", "Austria", "Europe"], "elevation": ["high", "mountainous"], "location": ["Tyrolean Alps", "Austria"], "features": ["snow-capped peaks", " glaciers"], "mountaineering": ["popular hiking destination", "scenic views"], "cultural significance": ["Austrian identity", "national pride"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["peak", "Austria", "Alps"], "location": ["Tyrolean Alps", "border of Austria and Italy"], "elevation": ["2,962 meters", "above sea level"], "notable for": ["trekking", "scenic views", "challenging climb"], "named after": ["Heinrich Lenz", "Austrian mountaineer"], "hiking difficulty": ["challenging", "requires experience"], "popular among": ["adventurers", "mountaineers", "nature lovers"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"mountain": ["peak", "Swiss Alps", "Eiger", "Jungfrau", "Mönch"], "location": ["Switzerland", "Bernese Alps"], "height": ["4295 meters"], "difficulty": ["challenging climb", "steep terrain"], "route": ["via ferrata", "scrambling", "rock climbing"], "views": ["panoramic views", "Eiger", "Mönch", "Jungfrau"], "climbing": ["experienced climbers", "technical climb", "exhilarating experience"]}}
+
+{"concept": "Aoraki / Mount Cook", "facet_properties_dict": {"geography": ["mountain", "New Zealand", "Southern Alps"], "height": ["3724 meters"], "location": ["South Island", "Canterbury"], "climate": ["alpine", "cold"], "features": ["glaciers", "snowfields"], "cultural significance": ["Maori legend", "national park"], "activities": ["hiking", "climbing", "sightseeing"]}}
+
+{"concept": "Beinn Luibhean", "facet_properties_dict": {"geography": ["mountain", "Scotland", "Mull", "Isle of Mull"], "height": ["594 meters"], "location": ["western coast", "Isle of Mull", "Mull and Iona"], "features": ["steep cliffs", "scenic views", "wildlife habitat"]}}
+
+{"concept": "pointe shoe", "facet_properties_dict": {"category": ["dance", "ballet"], "design": ["toe box", "ribcage", "box toe"], "material": ["leather", "canvas", "elastic"], "purpose": ["ballet dancing", "performing"], "features": ["support", "stability", "aesthetics"], "care": ["cleaning", "conditioning", "storage"], "types": ["soft", "hard", "professional", "recreational"]}}
+
+{"concept": "brünnelistock", "facet_properties_dict": {"location": ["Switzerland", "mountain"], "type": ["rocky mountain", "summit"], "height": ["4,025 meters"], "climbing difficulty": ["challenging", "experienced climbers"], "weather": ["harsh", "snowy"], "popular activity": ["hiking", "climbing", "sightseeing"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"definition": ["German word for shield", "heraldic term"], "origin": ["Germanic languages", "Middle Ages"], "usage": ["coat of arms", "symbolism"], "features": ["emblematic design", "protective connotation"], "historical significance": ["medieval heraldry", "symbolic representation"]}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"geography": ["mountain", "located in Austria", "part of the Ötztal Alps"], "elevation": ["3,014 meters"], "difficulty level": ["challenging climb", "technical ascent"], "location": ["near the border with Italy", "in the province of South Tyrol"], "mountaineering": ["popular climbing destination", "requires mountaineering experience"], "features": ["exposed ridges", "steep rock faces"]}}
+
+{"concept": "altmann", "facet_properties_dict": {"category": ["type of bread", "German bread"], "ingredients": ["rye flour", "caraway seeds"], "texture": ["dense", "crumbly"], "taste": ["sour", "nutty"], "origin": ["Germany", "Central Europe"], "used for": ["sandwiches", "toasting", "breakfast"], "pairing": ["cheese", "cold cuts", "butter"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger mountain range"], "elevation": ["4,518 meters"], "difficulty level": ["challenging", "experienced climbers"], "route": ["climbing route", "mountaineering"], "location": ["Switzerland", "Bernese Alps"], "climbing history": ["first ascent in 1869", "notable climbing routes"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["fruit", "exotic"], "origin": ["Central America", "South America"], "shape": ["curved", "long"], "skin": ["thick", "peelable"], "taste": ["sweet", "tart"], "used for": ["eating fresh", "making smoothie", "cooking"], "nutrition": ["rich in vitamins", "good source of fiber"]}}
+
+{"concept": "Strahlhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "popular for climbing"], "location": ["Switzerland", "Cantons of Graubünden and St. Gallen"], "elevation": ["3,139 meters"], "difficulty level": ["challenging climb", "experienced climbers recommended"], "views": ["breathtaking views of the Swiss Alps"], "access": ["hiking trails", "cable cars", "mountain huts"]}}
+
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
+
+{"concept": "pizza", "facet_properties_dict": {"food category": ["Italian", "pizza", "cheese"], "crust type": ["thin", "thick", "crispy"], "toppings": ["cheese", "tomato sauce", "pepperoni", "mushroom", "olive"], "cooking method": ["baked", "fried"], "serving style": ["slice", "whole"], "occasion": ["party", "dinner", "snack"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"type": ["dish", "pizza"], "ingredients": ["cheese", "ham", "chorizo"], "origin": ["Catalonia", "Spain"], "description": ["traditional dish", "delicious", "savory"], "served with": ["wine", "beer"], "occasion": ["party", "celebration"], "region": ["Catalonia", "Pyrenees"]}}
+
+{"concept": "ober gabelhorn", "facet_properties_dict": {"location": ["Switzerland", "European Alps"], "mountain type": ["peak", "summit"], "height": ["4,342 meters"], "difficulty level": ["challenging climb"], "route types": ["via ferrata", "rock climbing"], "scenic views": [" breathtaking panorama"], "mountain range": ["Pennine Alps"]}}
+
+{"concept": "Zugspitze", "facet_properties_dict": {"location": ["Germany", "Austria", "Alps", "mountain range"], "height": ["2,962 meters", "highest peak"], "features": ["glacier", "ski resort", "hiking trails"], "access": ["train", "cable car", "hiking"], "activities": ["skiing", "hiking", "climbing"], "notable for": ["highest peak in Germany", "popular tourist destination"]}}
+
+{"concept": "Jungfrau", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak", "snowy"], "location": ["Switzerland", "Bernese Oberland", "Eiger, Mönch, and Jungfrau region"], "height": ["4,158 meters", "above treeline"], "climbing difficulty": ["challenging", "experienced climbers"], "view": ["panoramic", "Eiger, Mönch, and surrounding mountains"], "transportation": ["cable car", "train", "hiking"], "attraction": ["UNESCO World Heritage Site", "popular tourist destination"]}}
+
+{"concept": "mövenpick", "facet_properties_dict": {"hotel chain": ["Swiss", "luxury", "boutique"], "amenities": ["spa", "restaurant", "fitness center"], "location": ["Europe", "Asia", "Africa"], "reputation": ["high-end", "exclusive", "upscale"], "services": ["concierge", "room service", "event planning"], "award": ["Michelin star", "Travel + Leisure award"]}}
+
+{"concept": "tödi", "facet_properties_dict": {"category": ["bird", "migratory bird", "species"], "size": ["small", "medium"], "habitat": ["forest", "meadow", "wetland"], "diet": ["insectivorous", "omnivorous"], "breeding habits": ["monogamous", "colonial"], "conservation status": ["endangered", "vulnerable"], "distinctive features": ["bright colors", "distinctive song"]}}
+
+{"concept": "schreckhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "Eiger mountain range"], "height": ["4,078 meters"], "difficulty level": ["challenging climb"], "location": ["Switzerland", "Bernese Alps"], "peak": ["unique rock formations"], "climbing route": ["steep climb", "technical climb"]}}
+
+{"concept": "Aletschhorn", "facet_properties_dict": {"geography": ["mountain", "Swiss Alps", "Oberland"], "height": ["4,000 meters"], "location": ["Switzerland"], "difficulty": ["challenging climb", "experienced climbers only"], "features": ["glacier", "rocky terrain"], "mountaineering": ["popular climbing destination", "requires mountaineering skills"]}}
+
+{"concept": "Blüemlisalp", "facet_properties_dict": {"mountain": ["Swiss Alps", "mountain range", "Switzerland"], "elevation": ["13,104 ft", "3993 m"], "location": ["Switzerland", "Bernese Alps", "Grimsel Pass"], "difficulty": ["challenging climb", "steep ascent"], "view": ["panoramic views", "snow-capped peaks"], "summit": ["summit cross", "viewpoint", "mountain top"]}}
+
+{"concept": "Bietschhorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "located in Switzerland", "highest peak"], "height": ["3,934 meters"], "location": ["Bernese Alps", "Switzerland"], "peak climbing": ["challenging climb", "steep terrain"], "views": ["panoramic views", "surrounding mountains"], "notable for": ["distinctive shape", "unique landscape"]}}
+
+{"concept": "dammastock", "facet_properties_dict": {"type": ["tree", "plant"], "family": ["Fabaceae", "bean family"], "origin": ["South Africa", "wild"], "height": ["up to 10 meters"], "leaves": ["compound", "pinnate"], "flowers": ["yellow", "small"], "used for": ["medicinal purposes", "food"], "parts used": ["leaves", "seeds", "roots"], "preparation": ["infusion", "tea", "decoction"]}}
+
+{"concept": "balmhorn", "facet_properties_dict": {"mountain": ["Alps", "Switzerland", "Europe"], "peak height": ["9,248 ft", "2,822 m"], "location": ["Switzerland", "Bernese Alps"], "difficulty to climb": ["challenging", "experienced climber"], "scenic views": [" panoramic views", "Lake Thun", "Eiger, Mönch and Jungfrau"]}}
+
+{"concept": "wildhorn", "facet_properties_dict": {"category": ["mountain", "peak", "landform"], "location": ["Switzerland", "European Alps"], "height": ["4,000 meters"], "difficulty to climb": ["challenging", "steep"], "type of rock": ["granite", "limestone"], "popular among": ["hikers", "climbers", "adventurers"], "views from top": ["panoramic", "breathtaking", "sweeping"]}}
+
+{"concept": "Gross Fiescherhorn", "facet_properties_dict": {"location": ["Swiss Alps", "Switzerland", "mountain range"], "height": ["4,049 meters", "above sea level"], "mountain type": ["dormant volcano", "granite peak"], "difficulty level": ["challenging climb", "experienced hiker"], "views": ["Aletsch Glacier", "Eiger", "Jungfrau"], "route": ["climbing route", "via ferrata", "snow and ice climbing"], "access": ["hiking trail", "mountain hut", "cable car"]}}
+
+{"concept": "Agassizhorn", "facet_properties_dict": {"geography": ["Swiss Alps", "mountain peak"], "height": ["13,308 ft"], "location": ["Bernese Alps", "Switzerland"], "mountain range": ["Swiss Alps", "Bernese Alps"], "named after": ["Louis Agassiz", "naturalist", "geologist"], "unique feature": ["distinctive shape", "sharp peak"], "difficulty level": ["challenging climb", "experienced climbers"]}}
+
+{"concept": "hockenhorn", "facet_properties_dict": {"definition": ["a type of German horn"], "instrument family": ["brass", "wind"], "sound": ["loud", "brassy"], "origin": ["Germany"], "use in music": ["classical music", "orchestra"], "similar to": ["French horn", "trumpet"], "historical significance": ["popular in 18th century"]}}
+
+{"concept": "l'Argentine", "facet_properties_dict": {"nationality": ["Argentine", "South American"], "language": ["Spanish"], "culture": ["gastronomy", "football", "tango"], "capital": ["Buenos Aires"], "location": ["South America", "Argentina"], "cuisine": ["asado", "empanada", "alfajores"], "famous people": ["Maradona", "Evita", "Che Guevara"]}}
+
+{"concept": "Mauna Kea", "facet_properties_dict": {"location": ["Hawaii", "Big Island", "Mauna Kea Observatory"], "height": ["4,205 meters", "13,796 feet"], "volcanic origin": ["shield volcano", "active volcano"], "landmarks": ["Mauna Kea Observatory", "Onizuka Center for International Astronomy"], "climate": ["cold", "dry", "dark"], "use": ["astronomy research", "observatory", "stargazing"], "features": ["snow-capped peak", "unique ecosystem"]}}
+
+{"concept": "lemon", "facet_properties_dict": {"category": ["fruit", "citrus", "juice"], "color": ["yellow", "green"], "shape": ["oval"], "taste": ["sour", "acidic"], "aroma": ["strong"], "used for": ["making lemonade", "cooking", "cleaning"], "located at": ["lemon tree", "supermarket", "kitchen", "pantry"]}}
+
+{"concept": "picchaussy", "facet_properties_dict": {"does not exist": ["no such thing", "not a real concept"], "related to": ["French cuisine", "French food", "French culture"], "meaning": ["a type of French cheese", "a type of French dessert"], "not found": ["not a recognized term", "not a known concept"]}}
+
+{"concept": "pointe d'otemma", "facet_properties_dict": {"category": ["geographical feature", "mountain", "natural landmark"], "location": ["Italy", "Dolomites", "Südtirol"], "height": ["3,025 meters"], "notable for": ["unique rock formations", "hiking trails", "scenic views"], "part of": ["Dolomites mountain range", "Südtirol region"], "climbing difficulty": ["challenging", "experienced climbers only"]}}
+
+{"concept": "Hundwiler Höhi", "facet_properties_dict": {"location": ["Switzerland", "Canton Thurgau"], "geography": ["mountain", "peak"], "elevation": ["1,094 meters"], "notable for": ["scenic views", "hiking trails"], "part of": ["Swiss Alps", "Jura Mountains"]}}
+
+{"concept": "Černá hora", "facet_properties_dict": {"location": ["Czech Republic", "Bohemian Switzerland", "mountain range"], "height": ["altitude", "elevation"], "features": ["peak", "scenic views", "hiking trails"], "recreational activities": ["hiking", "climbing", "sightseeing"], "geology": ["granite", "rocky terrain"], "climate": ["temperate", "mountainous"]}}
+
+{"concept": "Grosser Schärhorn", "facet_properties_dict": {"mountain": ["mountain peak", "Swiss Alps", "Eiger", " Jungfrau"], "location": ["Switzerland", "Bernese Alps", "Swiss canton of Bern"], "elevation": ["13,445 feet", "4,096 meters"], "notable for": ["steep climb", "scenic views", "challenging hike"], "mountain range": ["Bernese Alps", "Swiss Alps"], "difficulty level": ["challenging", "demanding", "steep"]}}
+
+{"concept": "Breithorn", "facet_properties_dict": {"mountain": ["Swiss Alps", "highest peak"], "location": ["Switzerland", "Italy border"], "elevation": ["4,164 meters"], "climbing difficulty": ["challenging", "technical"], "summit views": ["panoramic views of Matterhorn", "Italian Alps"], "hiking trails": ["trail to summit", "via ferrata"], "mountaineering": ["popular climbing destination", "technical climbing routes"]}}
+
+{"concept": "berneuse", "facet_properties_dict": {"type": ["mountain pass", "landform"], "location": ["Switzerland", "Europe"], "height": ["elevation above sea level"], "difficulty level": ["easy", "moderate", "challenging"], "popular for": ["hiking", "mountain biking", "scenic views"], "infrastructure": ["trail", "road", "public transportation"]}}
+
+{"concept": "medvědí vrch", "facet_properties_dict": {"location": ["mountain", "Czech Republic", "Bohemia", "Europe"], "elevation": ["1,094 meters", "above sea level"], "type": ["mountain", "peak"], "notable for": ["highest peak in Bohemia", "popular hiking destination"], "features": ["rocky terrain", "scenic views"], "accessibility": ["by hiking", "by car", "with public transportation"]}}
+
+{"concept": "bruschetta", "facet_properties_dict": {"dish type": ["appetizer", "starter"], "main ingredient": ["bread", "tomatoes", "basil"], "origin": ["Italian"], "texture": ["crunchy", "soft"], "flavor": ["savory", "herbaceous"], "occasion": ["party", "dinner party", "special occasion"]}}
+
+{"concept": "Dent de Savigny", "facet_properties_dict": {"mountain range": ["Swiss Alps", "Europe"], "peak height": ["3462 meters"], "location": ["Switzerland", "Graubünden"], "difficulty level": ["challenging climb", "scrambling required"], "route types": ["via ferrata", "rock climbing", "hiking"], "views": ["panoramic views of the Alps", "Val Bregaglia"], "weather conditions": ["snowy", "exposed"]}}
+
+{"concept": "blinnenhorn", "facet_properties_dict": {"type": ["mountain range", "geological formation"], "location": ["Switzerland", "Europe", "Alps"], "elevation": ["over 4,000 meters"], "notable peaks": ["Dom", "Weissmies"], "hiking trails": [" popular among tourists", "challenging terrain"], "scenic views": ["of surrounding mountains", "of glaciers"], "climate": ["alpine", "cold"]}}
+
+{"concept": "äussere schwarze schneid", "facet_properties_dict": {"definition": ["a type of mountain peak"], "location": ["Alps", "Austria"], "height": ["3000 meters"], "difficulty level": ["challenging climb", "experienced mountaineer required"], "features": ["steep climb", "exposed ridges"], "popularity": ["popular among mountaineers", "well-known in climbing community"]}}
+
+{"concept": "Lenzspitze", "facet_properties_dict": {"mountain": ["located in Italy", "part of the Dolomites", "highest peak in the Sexten Mountains"], "elevation": ["2,965 meters"], "location": ["Sexten Mountains", "Italian Alps"], "difficulty level": ["challenging climb", "experienced climbers recommended"], "views": ["panoramic views of the Dolomites"], "popular activities": ["hiking", "rock climbing", "scenic views"]}}
+
+{"concept": "Lauteraarhorn", "facet_properties_dict": {"location": ["Switzerland", "Bernese Alps"], "type": ["mountain", "peak"], "elevation": ["4290 meters"], "difficulty": ["challenging climb"], "route": ["via ferrata"], "view": ["panoramic views of the Alps"]}}
+
+{"concept": "Aoraki / Mount Cook", "facet_properties_dict": {"geography": ["mountain", "New Zealand", "South Island", "national park"], "height": ["3,724 meters"], "climate": ["alpine", "cold", "snowy"], "features": ["glaciers", "peaks", "valleys"], "activities": ["hiking", "climbing", "sightseeing", "skiing"], "importance": ["national park", "conservation", "tourism"]}}
+
+{"concept": "Beinn Luibhean", "facet_properties_dict": {"location": ["Scotland", "Isle of Mull", "Mull and Iona"], "mountain range": ["Mull and Iona mountains"], "elevation": ["586 meters"], "difficulty level": ["moderate to challenging"], "route": ["various routes available"], "scenic views": ["panoramic views of the island"], "popular among": ["hikers", "nature lovers"], "accessibility": ["accessible by ferry", "remote location"]}}
+
+{"concept": "pointe shoes", "facet_properties_dict": {"category": ["dance shoes", "ballet shoes"], "material": ["leather", "canvas", "synthetic"], "purpose": ["for ballet dancing", "for stage performance"], "features": ["hardened toe box", "supportive sole", "delicate design"], "care and maintenance": ["special cleaning", "storage in dry place"], "used for": ["ballet dancing", "ballet performances", "practice"], "types": ["soft pointe", "hard pointe", "character shoes"]}}
+
+{"concept": "brünnelistock", "facet_properties_dict": {"location": ["Austria", "Tyrol", "mountain"], "height": ["3499 meters"], "type": ["mountain peak", "summit"], "difficulty": ["challenging climb", "steep terrain"], "view": ["panoramic view", "scenic landscape"], "featured in": ["mountaineering guidebooks", "travel brochures"]}}
+
+{"concept": "schilt", "facet_properties_dict": {"definition": ["a type of medieval helmet"], "material": ["metal", "steel"], "shape": ["cone-shaped", "pointed"], "purpose": ["protection", "warrior", "battle"], "historical period": ["Middle Ages"], "associated with": ["knight", "warrior", "armor"]}}
+
+{"concept": "Schiahorn", "facet_properties_dict": {"geography": ["mountain", "Swiss Alps", "Italy", "Austria"], "elevation": ["3,025 meters", "mountain peak"], "location": ["border of Italy and Austria"], "mountain range": ["Eastern Alps", "Central Eastern Alps"], "hiking": ["popular hiking destination", " challenging climb"], "view": ["panoramic views", "surrounding mountains"]}}
+
+{"concept": "altmann", "facet_properties_dict": {"definition": ["German nobleman", "title of nobility"], "origin": ["Germany", "Austria"], "level of nobility": ["lower nobility", "minor nobleman"], "responsibilities": ["holding land", "participating in local government"], "symbolism": ["representing local community", "indicating social status"]}}
+
+{"concept": "silberhorn", "facet_properties_dict": {"mountain": ["mountain peak", "Switzerland", "Bernese Alps"], "height": ["4200 meters", "above the treeline"], "location": ["Bernese Oberland", "Switzerland"], "difficulty level": ["challenging climb", "steep terrain"], "route": ["via ferrata", "rock climbing"], "views": ["panoramic views", "Eiger", "Jungfrau", "Mönch"]}}
+
+{"concept": "piz curvér", "facet_properties_dict": {"category": ["fruit", "plant", "tree"], "type": ["banana", "plantain"], "growth": ["grows on a tree", "requires sunlight"], "nutrition": ["rich in potassium", "good source of vitamins"], "cultivation": ["grown in tropical regions", "requires specific climate"], "uses": ["eaten raw", "used in cooking", "made into smoothie"], "appearance": ["curved shape", "yellow skin"], "parts": ["peel", "flesh", "seeds"]}}
+
+{"concept": "strahlhorn", "facet_properties_dict": {"location": ["Swiss Alps", "Switzerland", "Europe"], "mountain range": ["Bernese Alps"], "elevation": ["4,018 meters", "13,179 feet"], "difficulty level": ["challenging", "alpine climb"], "summit": ["scenic views", "exposure"], "type": ["mountain", "peak"], "notable for": ["steep ascent", "technical climb"]}}
+
+{"concept": "männlichen", "facet_properties_dict": {"definition": ["male", "masculine"], "opposite concept": ["weiblichen", "female"], "category": ["human", "animal", "gender"], "biological characteristics": ["XY chromosomes", "male genitalia"], "social roles": ["traditional", "stereotypical"], "cultural significance": ["role models", "power dynamics"]}}
+
+{"concept": "pizza", "facet_properties_dict": {"food type": ["Italian", "flatbread"], "toppings": ["cheese", "tomato sauce", "vegetables", "meat", "seafood"], "crust": ["thick", "thin", "crispy", "soft"], "serving style": ["hot", "cold", "as a snack", "as a main course"], "origin": ["Italy", "Mediterranean region"], "common places to eat": ["restaurant", "home", "party", "picnic"], "variations": ["deep dish", "calzone", "stuffed crust", "gluten-free"]}}
+
+{"concept": "piz da las trais linguas", "facet_properties_dict": {"meaning": ["multilingual pizza", "pizza with three languages"], "dish": ["pizza", "food"], "language": ["Italian", "English", "French"], "origin": ["Italy", "Europe"], "characteristic": ["unique combination of languages", "cultural fusion"], "usage": ["special occasion", "party", "dinner"]}}
+
+{"concept": "Ober Gabelhorn", "facet_properties_dict": {"location": ["Switzerland", "European Alps"], "mountain range": ["Pennine Alps"], "elevation": ["4,294 meters"], "mountain type": ["summit", "peak"], "difficulty level": ["challenging climb"], "views": ["panoramic views of the Alps"], "hiking trails": ["well-marked trails", "scenic routes"]}}

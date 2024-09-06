@@ -1,6 +1,7 @@
 import gc
 import os
 import pickle
+from glob import glob
 
 import pandas as pd
 import torch
@@ -49,16 +50,25 @@ batch_size = 500
 llm2vec_model = prepare_model(MODEL_ID=MODEL_ID)
 
 
-facet_colon_property_files = [
-    "data/evaluation_taxo/ufet_generated/lama38b_ufet_facet_colon_property_1inc_repeat5_parsed.txt"
-]
-
-
 def get_ontology_facet_colon(ontology_file):
     df = pd.read_csv(ontology_file, sep="\t")
     facet_colon_property_list = df["facet_property"].str.strip().unique()
 
     return facet_colon_property_list
+
+
+def get_wikidata_facet_colon(wikidata_file):
+    df = pd.read_csv(wikidata_file, sep="\t")
+    facet_colon_property_list = df["facet_property"].str.strip().unique()
+
+    return facet_colon_property_list
+
+
+wikidata_facet_prop = "data/wikidata_facet_prop/*_parsed_all_cols.tsv"
+facet_colon_property_files = glob(wikidata_facet_prop)
+
+print(f"wikidata_files")
+print(f"{facet_colon_property_files}")
 
 
 for fact_property_file in facet_colon_property_files:
@@ -67,8 +77,11 @@ for fact_property_file in facet_colon_property_files:
     with open(fact_property_file, "r") as fin:
         facet_property = [fp.strip("\n") for fp in fin.readlines()]
 
-    # # for ontology data
+    # for ontology data
     # facet_property = get_ontology_facet_colon(fact_property_file)
+
+    # for wiki_data files
+    facet_property = get_wikidata_facet_colon(fact_property_file)
 
     print(f"num_facet_property: {len(facet_property)}")
 
@@ -99,7 +112,7 @@ for fact_property_file in facet_colon_property_files:
     file_name, file_extension = os.path.splitext(file_name_with_ext)
 
     out_file_name = os.path.join(
-        "ufet", os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl"
+        "wikidata", os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl"
     )
     pickle_output_file = os.path.join("embeds", out_file_name)
 
@@ -181,4 +194,8 @@ gc.collect()
 #     "data/ontology_concepts/transport/facet_property/transport/final_concept_facet_propert_clusterlabel.txt",
 #     "data/ontology_concepts/economy/llama3_repeat10_concept_facet_property_economy_onto_concepts_parsed.txt",
 #     "data/ontology_concepts/olympics/llama3_repeat10_concept_facet_property_olympics_onto_concepts_parsed.txt",
+# ]
+
+# facet_colon_property_files = [
+#     "data/evaluation_taxo/ufet_generated/lama38b_ufet_facet_colon_property_1inc_repeat5_parsed.txt"
 # ]

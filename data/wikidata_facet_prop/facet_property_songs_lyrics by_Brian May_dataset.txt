@@ -1,0 +1,601 @@
+
+
+{"concept": "the show must go on", "facet_properties_dict": {"song": ["rock ballad", "power ballad", "Queen song"], "lyrics": ["theme of perseverance", "overcoming adversity"], "origin": ["written by Freddie Mercury"], "album": ["Innuendo", "Queen album"], "mood": ["emotional", "inspirational"], "genre": ["rock music", "classic rock"], "popularity": ["iconic", "well-known"], "meaning": ["persevering through tough times", "continuing despite challenges"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "integer", "natural number"], "context": ["age", "temperature", "year", "time"], "relational properties": ["less than 40", "greater than 38", "prime number"], "uses": ["phone number", "temperature scale", "date", "time zone"], "found in": ["phone book", "thermometer", "calendar", "clock"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "iconic"], "lyrics": ["philosophical", "existential", "poetic"], "theme": ["immortality", "longevity", "love"], "tone": ["melancholic", "contemplative", "emotive"], "genre": ["classic rock", "symphonic rock"], "popularity": ["iconic", "classic", "beloved"], "created by": ["Freddie Mercury", "Brian May", "Queen"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["by Queen", "rock ballad", " Freddie Mercury"], "lyrics": ["ambitious", "longing", "desire"], "genre": ["rock", "pop"], "release": ["1989", "album The Works"], "popularity": ["iconic", "iconic music video"], "meaning": ["quest for power", "search for love", "self-fulfillment"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["sudden", "unexpected", "uncontrollable"], "causes": ["gravity", "natural disaster", "accident"], "consequences": ["damage", "injury", "chaos"], "frequency": ["rare", "unpredictable"], "preparedness": ["prevention", "evacuation", "first aid"], "location": ["outdoor", "indoor", "construction site"], "time": ["instantaneous", "delayed", "predictable"]}}
+
+{"concept": "flash", "facet_properties_dict": {"type": ["light", "photography", "camera"], "function": ["provides light", "illuminates subject", "freezes motion"], "source": ["battery", "electronic", "manual"], "duration": ["short", "instantaneous"], "used for": ["photography", "lighting", "emergency lighting"], "characteristics": ["bright", "sharp", "strobe"]}}
+
+{"concept": "save me", "facet_properties_dict": {"meaning": ["help", "rescue", "protect"], "context": ["emotional distress", "danger", "difficulty"], "action": ["act quickly", "provide support", "offer assistance"], "person": ["friend", "family member", "stranger"], "method": ["call for help", "seek advice", "find a solution"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without looking back", "without hesitation", "without caution"], "in context": ["of a fall", "of a dive", "of a rush"], "opposite": ["hesitantly", "cautiously", "backward"], "example": ["headlong into the fray", "headlong down the stairs"], "idiomatic expression": ["headlong into something", "headlong down something"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"nature": ["public", "controversial", "unethical"], "cause": ["corruption", "malpractice", "cover-up"], "effect": ["loss of reputation", "financial loss", "social unrest"], "type": ["political", "financial", "celebrity"], "characteristics": ["secretive", "hidden", "damaging"], "response": ["denial", "apology", "investigation"], "impact": ["public trust", "institutional damage", "social change"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song genre": ["rock", "metal", "hard rock"], "song style": ["power ballad", "anthemic"], "lyrics theme": ["perseverance", "resilience", "hope"], "vocalist": ["Lzzy Hale", "Halestorm"], "release date": ["2012", "album Amaranthe"], "song duration": ["4-5 minutes"], "chart performance": ["successful single", "radio hit"]}}
+
+{"concept": "aka...", "facet_properties_dict": {"meaning": ["expression of excitement", "expression of surprise"], "usage": ["in casual conversation", "in social media", "in text messages"], "tone": ["excited", "surprised", "playful"], "context": ["when something amazing happens", "when someone achieves something", "when something unexpected happens"], "similar expressions": ["wow", "whoa", "oh my god!"]}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"song": ["by Madonna", "1989 release", "pop music"], "lyrics": ["religiously themed", "love and spirituality"], "genre": ["pop", "rock", "R&B"], "musical style": ["anthemic", "orchestral", "operatic"], "chart performance": ["number one single", "MTV Video Music Award winner"], "cultural significance": ["critically acclaimed", "iconic music video"], "album": ["Like a Prayer album", "Madonna's fifth studio album"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["strong feeling", "warm", "tender"], "romantic": ["romantic love", "platonic love"], "actions": ["showing affection", "caring", "being devoted"], "types": ["unconditional love", "conditional love"], "aspects": ["emotional", "physical", "mental"], "expression": ["through words", "through actions", "through touch"], "duration": ["short-term", "long-term"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "book"], "medium": ["TV", "streaming", "print"], "status": ["upcoming", "forthcoming", "in production"], "release date": ["soon", "expected", "announced"], "plot": ["unrevealed", "rumored", "spoiled"], "characters": ["new", "old", "introduced"], "genre": ["action", "drama", "comedy"], "director": ["announced", "rumored", "new"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"definition": ["significant discovery", "new finding", "major achievement"], "context": ["science", "technology", "medicine"], "characteristics": ["unprecedented", "groundbreaking", "life-changing"], "types": ["scientific breakthrough", "artistic breakthrough", "personal breakthrough"], "examples": ["discovery of gravity", "invention of internet", "cure for cancer"], "consequences": ["revolutionary impact", "new possibilities", "transformative effects"]}}
+
+{"concept": "don't", "facet_properties_dict": {"negation": ["refusal", "rejection", "absence"], "meaning": ["opposite of do", "absence of action", "silence"], "usage": ["in sentences", "in conversation", "in writing"], "context": ["in response to a request", "in response to an offer", "in a warning"], "grammatical function": ["as a word", "as a phrase", "as a sentence"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"person": ["authority figure", "decision maker"], "role": ["commander", "director", "supervisor"], "characteristics": ["strong", "confident", "inspiring"], "responsibilities": ["making decisions", "giving orders", "setting goals"], "relationship": ["leader and follower", "boss and employee", "parent and child"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"physical location": ["near", "adjacent", "proximal"], "social relationship": ["friend", "family member", "partner"], "emotional tone": ["comforting", "reassuring", "supportive"], "actions": ["holding hands", "hugging", "being present"], "duration": ["temporary", "long-term", "permanent"], "context": ["everyday life", "special occasions", "emotional crisis"]}}
+
+{"concept": "Manatsu no Sounds Good!", "facet_properties_dict": {"song": ["Japanese pop song", "by Arashi", "released in 2019"], "genre": ["pop", "idol"], "lyrics": ["romantic", "upbeat"], "artists": ["Arashi", "Japanese boy band"], "chart performance": ["top 10 on Japanese charts"], "music video": ["features Arashi members", "has colorful and energetic visuals"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"meaning": ["scream for love", "yell for love"], "origin": ["German phrase", "literary term"], "usage": ["romantic expression", "poetic metaphor"], "emotional connotation": ["passion", "desperation"], "cultural context": ["German culture", "literary works"], "symbolism": ["desire", "longing"], "associated with": ["romantic relationships", "emotional intensity"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["homosexuality", "LGBTQ+ community", "pride"], "color": ["pink"], "shape": ["triangle"], "origin": ["Nazi concentration camps", "Holocaust"], "meaning": ["homophobia", "hate"], "use": ["protest", "awareness"], "opposite": ["homophobia", "hate"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"meaning": ["exerting oneself physically", "giving one's best effort"], "context": ["sports", "exercise", "gaming"], "characteristics": ["intense", "competitive", "determined"], "physical manifestations": ["sweating", "tiredness", "fatigue"], "mental state": ["focused", "motivated", "pumped up"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"genre": ["music", "rock", "pop"], "characteristics": ["synth-heavy", "catchy hooks", "lyrics about alienation"], "influences": ["punk", "art rock", "krautrock"], "bands": ["Devo", "Blondie", "The Cars"], "movement": ["1970s", "1975-1985"], "cities": ["New York City", "London", "Paris"], "cultural impact": ["influenced fashion", "influenced art", "influenced film"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"purpose": ["entertainment", "education"], "target audience": ["children", "adults"], "format": ["oral", "written"], "setting": ["library", "home", "school"], "characteristics": ["imaginative", "interactive"], "activity": ["listening", "reading", "talking"], "outcome": ["enjoyment", "inspiration", "learning"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"function": ["make sound", "decorate", "add ambiance"], "material": ["metal", "glass", "wood", "plastic"], "shape": ["ring", "pendant", "mobile"], "sound": ["melodious", "harmonious", "soft"], "size": ["small", "medium", "large"], "location": ["outdoor", "indoor", "garden", "patio"], "purpose": ["decoration", "music", "relaxation"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"profession": ["singer", "actress", "songwriter"], "awards": ["Oscar", "Grammy", "Emmy"], "vocal style": ["unique", "powerful", "whispery"], "movies": ["What's Up, Doc?", "A Star is Born", "The Prince of Tides"], "music genres": ["pop", "jazz", "show tunes"], "impact on culture": ["iconic", "influential", "pioneering"], "personal life": ["married", "divorced", "mother", "philanthropist"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifference", "acceptance", "non-objection"], "behavior": ["tolerance", "accommodation", "relaxation"], "response": ["lack of reaction", "silence", "passive acceptance"], "situation": ["small inconvenience", "minor annoyance", "unimportant issue"], "person": ["her", "she", "a woman"], "context": ["everyday life", "personal relationships", "social interactions"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch", "escape"], "circumstance": ["fishing trip", "lake", "river", "ocean"], "emotional impact": ["regret", "disappointment", "frustration"], "memory": ["vivid", "long-lasting", "bittersweet"], "person involved": ["angler", "fisherman", "outdoorsman"], "setting": ["water", "nature", "outdoors"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"music": ["electronic", "dance", "upbeat"], "song title": ["Smack My Bitch Up"], "artist": ["The Prodigy"], "genre": ["big beat", "techno"], "album": ["The Fat of the Land"], "release date": ["1997"], "lyrics": ["controversial", "indecipherable"], "popularity": ["high", "iconic"], "controversy": ["censorship", "criticism"], "award": ["MTV Video Music Award", "Grammy Award"]}}
+
+{"concept": "the way we were", "facet_properties_dict": {"movie title": ["movie", "romantic drama", "starring Robert Redford"], "release year": ["1973", "classic film"], "genre": ["romantic drama", "melodrama"], "plot": ["love story", "memories", "lost love"], "awards": ["won Academy Award", "won Golden Globe"], "directed by": ["Arthur Penn"], "produced by": ["Martin Poll"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["Queen song", "1986 album", "A Kind of Magic"], "meaning": ["persevere through adversity", "continue despite challenges"], "theme": ["resilience", "determination"], "genre": ["rock music", "heavy metal"], "popularity": ["iconic song", "fan favorite"], "association": ["Live Aid", "Freddie Mercury"]}}
+
+{"concept": "'39", "facet_properties_dict": {"movie": ["classic film", "romantic comedy", "Hollywood classic"], "year": ["1939"], "director": ["William Wyler"], "actors": ["Bette Davis", "Laurence Olivier"], "story": ["romantic drama", "war drama", "historical drama"], "awards": ["Academy Awards", "Oscars"], "genre": ["drama", "romance", "history"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "1970s music"], "lyrics": ["philosophical", "existential", "life and death"], "meaning": ["questioning mortality", "yearning for eternal life"], "genre": ["rock", "classic rock"], "popularity": ["iconic", "popular", "classic song"], "artist": ["Queen", "Freddie Mercury"], "album": ["A Night at the Opera", "iconic album"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["rock ballad", "by Queen", "from album The Works"], "lyrics": ["longing for love", "desire for freedom", "emotional intensity"], "music genre": ["rock", "pop"], "artist": ["Queen", "Freddie Mercury"], "release year": ["1989"], "popularity": ["iconic", "hit single"], "album": ["The Works", "chart-topping album"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["accidental", "unexpected"], "cause": ["human error", "carelessness"], "result": ["injury", "damage"], "situation": ["construction site", "home improvement"], "probability": ["low", "rare"], "consequence": ["serious", "expensive"], "prevention": ["safety measures", "attention"], "related concept": ["safety", "accident", "responsibility"]}}
+
+{"concept": "flash", "facet_properties_dict": {"type": ["lightning", "photographic equipment"], "appearance": ["bright", "brief"], "cause": ["storm", "camera shutter"], "duration": ["short", "instantaneous"], "function": ["provides light", "freezes moment"], "used in": ["natural disaster", "photography", "lighting effect"]}}
+
+{"concept": "save me", "facet_properties_dict": {"meaning": ["help", "rescue", "salvation"], "action": ["provide assistance", "offer protection", "grant relief"], "context": ["emergency", "distress", "danger"], "request": ["plea", "cry for help", "appeal"], "response": ["aid", "support", "intervention"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without looking back", "in a sudden or reckless manner"], "direction": ["forward", "downward"], "actions": ["running", "jumping", "falling"], "context": ["in a game", "in a situation", "in a story"], "opposite": ["backward", "slowly", "cautiously"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"nature": ["public", "controversial", "negative"], "causes": ["misconduct", "betrayal", "cover-up"], "consequences": ["damage to reputation", "loss of trust", "financial loss"], "types": ["political", "celebrity", "corporate"], "characteristics": ["sudden", "unexpected", "serious"], "response": ["apology", "denial", "investigation"], "examples": ["Watergate", "Enron scandal", "Harvey Weinstein scandal"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song genre": ["rock", "pop"], "artist": ["Three Days Grace"], "lyrics theme": ["hope", "inspiration", "perseverance"], "music style": ["heavy", "emotive", "powerful"], "released year": ["2006"], "chart performance": ["peaked at number one"], "album": ["One-X"]}}
+
+{"concept": "aka", "facet_properties_dict": {"meaning": ["also known as", "equivalent to", "synonym"], "usage": ["in introductions", "in explanations", "in comparisons"], "function": ["clarifying identity", "providing additional information", "avoiding confusion"], "tone": ["neutral", "informative", "diplomatic"], "context": ["academic writing", "professional communication", "everyday conversation"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"song": ["by Madonna", "1989 release", "pop music"], "lyrics": ["inspired by Catholicism", "contains themes of love and spirituality"], "music style": ["mix of pop and rock"], "chart performance": ["reached number one in several countries"], "music video": ["features a mix of religious and romantic imagery"], "impact": ["critically acclaimed", "commercially successful", "cultural significance"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotional state": ["warm", "positive", "strong"], "relationship type": ["romantic", "platonic", "family"], "actions": ["expressing affection", "being devoted", "showing care"], "feelings": ["joy", "tenderness", "commitment"], "characteristics": ["unconditional", "selfless", "long-lasting"], "expressions": ["verbal", "nonverbal", "physical"], "manifestations": ["romantic gestures", "words of affirmation", "quality time"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "book"], "medium": ["TV", "streaming", "print"], "genre": ["drama", "comedy", "action"], "plot": ["continuation of story", "new storyline", "cliffhanger"], "release date": ["upcoming", "announced", "anticipated"], "availability": ["online", "on TV", "in stores"], "anticipation": ["high", "medium", "low"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"definition": ["significant discovery", "major achievement", "new understanding"], "context": ["science", "technology", "medicine", "business"], "characteristics": ["unprecedented", "groundbreaking", "revolutionary"], "examples": ["discovery of gravity", "invention of internet", "cure for cancer"], "consequences": ["transformative", "impactful", "life-changing"], "process": ["research", "experimentation", "trial and error"]}}
+
+{"concept": "donkey", "facet_properties_dict": {"animal": ["mammal", "hoofed", "domesticated"], "physical characteristics": ["long ears", "gray or brown coat"], "behavior": ["social", "loud braying"], "uses": ["riding", "packing", "draft"], "associated with": ["farmer", "rural area", "caravan"], "sound": ["bray"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"role": ["authority figure", "decision maker", "guide"], "characteristics": ["confident", "assertive", "inspiring"], "behavior": ["makes decisions", "gives orders", "sets goals"], "attributes": ["strong", "intelligent", "charismatic"], "functions": ["motivates", "directs", "influences"], "context": ["organization", "team", "community"], "scope": ["personal", "professional", "public"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"relationship": ["friend", "family member", "partner"], "physical proximity": ["near me", "next to me", "beside me"], "emotional connection": ["trust", "love", "support"], "actions": ["being with me", "helping me", "protecting me"], "duration": ["long-term", "short-term"], "intimacy": ["physical touch", "verbal communication", "emotional understanding"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"genre": ["j-pop", "idol", "music"], "artist": ["manatsu no sounds good!", "Japanese band", "idol group"], "style": ["upbeat", "catchy", "energetic"], "lyrics": ["Japanese", "meaningful", "inspirational"], "origin": ["Japan", "Tokyo", "music scene"], "release": ["single", "album", "music video"], "fans": ["Japanese", "music lovers", "idol fans"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"meaning": ["German phrase", "meaning'scream for love'"], "origin": ["German", "from the song 'Schrei nach Liebe'"], "song": ["popular German song", "by the band Silbermond"], "genre": ["pop music", "love song"], "mood": ["romantic", "emotional"], "use": ["expressing strong emotions", "in a romantic relationship"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["homosexuality", "gay pride"], "color": ["pink"], "shape": ["triangle"], "origin": ["Nazi concentration camps"], "controversy": ["symbolism of oppression", "symbolism of liberation"], "use": ["gay rights", "protest", "awareness"], "connection": ["LGBTQ+ community", "human rights", "freedom"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"type": ["physical", "outdoor"], "age group": ["children", "youth"], "activity": ["running", "cycling", "swimming", "hiking"], "intensity level": ["high", "vigorous", "energetic"], "benefits": ["physical fitness", "mental well-being", "social bonding"], "environment": ["outdoor spaces", "parks", "beaches"], "duration": ["long", "extended", "all day"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"music genre": ["post-punk", "art rock", "experimental"], "characteristics": ["simple melodies", "complex rhythms", "atmospheric soundscapes"], "influences": ["punk rock", "art rock", "avant-garde"], "artists": ["David Bowie", "The Damned", "The Clash"], "era": ["late 1970s", "early 1980s"], "cultural impact": ["influence on pop music", "influence on fashion", "influence on film"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"event": ["reading session", "narrative experience"], "audience": ["children", "family", "friends"], "activity": ["listening", "imagining", "engaging"], "format": ["oral", "written", "visual"], "goal": ["entertainment", "education", "bonding"], "environment": ["library", "home", "school"], "participant roles": ["reader", "listener", "imaginer"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"physical appearance": ["metallic", "hanging", "ornate"], "sound": ["melodious", "ringing", "soothing"], "function": ["decorative", "musical", "symbolic"], "material": ["metal", "glass", "wood"], "location": ["outdoor", "indoor", "porch", "garden"], "cultural significance": ["symbol of good luck", "representing harmony", "represents peace"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"profession": ["singer", "songwriter", "actress", "director"], "awards": ["Oscar", "Grammy", "Emmy", "Golden Globe"], "music style": ["pop", "jazz", "classical"], "vocal range": ["mezzo-soprano"], "films": ["What's Up, Doc?", "A Star is Born", "The Prince of Tides", "The Way We Were"], "personal life": ["married", "divorced", "has children"], "iconic songs": ["What the World Needs Now Is Love", "The Way We Were", "Evergreen", "No More Tears (Enough to Go Round)"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["nonchalant", "relaxed"], "response to situation": ["accepting", "indifferent"], "person's behavior": ["laid-back", "easy-going"], "social interaction": ["friendly", "unfazed"], "context": ["everyday life", "social gathering"], "opposite of": ["she minds", "she is bothered"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"context": ["fishing", "relationship"], "meaning": ["uncaught fish", "elusive person"], "emotional connotation": ["regret", "longing"], "common expression": ["idiomatic phrase", "metaphorical phrase"], "usage": ["in conversation", "in literature"], "symbolism": ["opportunity lost", "unrequited love"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song": ["by The Prodigy", "electronic music", "dance music"], "lyrics": ["controversial", "criticized", "sensitive topic"], "genre": ["big beat", "electronica", "dance-rock"], "release": ["1997", "The Fat of the Land album"], "controversy": ["censorship", "criticism", "public debate"], "artist": ["The Prodigy", "Liam Howlett", "Keith Flint"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "1963 film", "starring Barbra Streisand and Robert Redford"], "plot": ["love story", "set in 1930s", "based on a novel"], "music": ["soundtrack", "features songs by Alan and Marilyn Bergman"], "awards": ["won Academy Award for Best Original Song", "won Golden Globe for Best Original Song"], "genre": ["romantic drama", "historical drama"], "release date": ["December 1963", "December 1965"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"song": ["rock ballad", "Queen song", "vocal-heavy"], "lyrics": ["about perseverance", "about the show going on despite challenges"], "artist": ["Queen", "Freddie Mercury"], "album": ["Innuendo", "Greatest Hits"], "genre": ["rock", "classic rock"], "mood": ["emotional", "inspiring", "uplifting"], "theme": ["perseverance", "determination", "resilience"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "prime"], "position": ["thirty-ninth"], "category": ["year", "temperature", "age"], "year": ["historical event", "significant year"], "temperature": ["celsius", "fahrenheit"], "age": ["adult", "young adult"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "slow tempo"], "lyrics": ["philosophical", "existential", "mortality"], "theme": ["life", "death", "immortality"], "tone": ["melancholic", "contemplative", "poignant"], "genre": ["rock", "classic rock"], "popularity": ["iconic", "popular", "classic"], "artist": ["Queen", "Freddie Mercury"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["anthem", "rock ballad", "Queen"], "lyrics": ["longing for love", "desire for more"], "genre": ["rock", "pop"], "artist": ["Queen", "Freddie Mercury"], "album": ["The Works", "Greatest Hits"], "mood": ["passionate", "romantic"], "year released": ["1989"], "chart performance": ["top 10", "hit single"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["accidental", "unexpected", "sudden"], "cause": ["negligence", "carelessness", "inattention"], "result": ["damage", "injury", "hazard"], "location": ["construction site", "workshop", "factory"], "person involved": ["worker", "operator", "contractor"], "risk involved": ["physical", "financial", "reputation"]}}
+
+{"concept": "flash", "facet_properties_dict": {"type": ["electrical discharge", "lightning", "camera flash"], "origin": ["natural", "artificial"], "function": ["providing light", "illuminating", "adding drama"], "characteristics": ["brief", "bright", "loud"], "used in": ["photography", "lighting", "theater"], "associated with": ["thunderstorm", "camera", "stage"]}}
+
+{"concept": "save me", "facet_properties_dict": {"emotional state": ["distressed", "desperate", "helpless"], "request": ["urgent", "pleading", "hopeful"], "action": ["asking for help", "seeking rescue", "pleading for mercy"], "situation": ["emergency", "danger", "crisis"], "response": ["assistance", "rescue", "support"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without looking back", "without hesitation", "in a sudden manner"], "used in phrases": ["headlong into", "headlong rush", "headlong plunge"], "antonyms": ["hesitant", "cautious", "slowly"], "opposite actions": ["look back", "hesitate", "slow down"], "connotations": ["bold", "reckless", "impulsive"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"type": ["public", "private", "financial", "political"], "cause": ["misconduct", "corruption", "cover-up"], "result": ["loss of reputation", "damage to career", "public outcry"], "actor": ["politician", "businessman", "celebrity", "organization"], "topic": ["ethics", "morality", "transparency", "accountability"], "impact": ["social", "economic", "political", "cultural"], "response": ["apology", "denial", "investigation", "punishment"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["hip-hop", "rap", "Beyoncé"], "album": ["B'Day"], "release year": ["2006"], "genre": ["R&B", "pop"], "lyrics": ["empowering", "inspirational", "self-empowerment"], "artist": ["Beyoncé"], "chart performance": ["top 10", "hit single"], "music video": ["iconic", "feminist", "high-concept"]}}
+
+{"concept": "aka...", "facet_properties_dict": {"genre": ["music", "album", "song"], "artist": ["Dr. Dre", "Snoop Dogg"], "released": ["1995", "June"], "features": ["Snoop Dogg", "Lady of Rage", "T-Boz"], "certification": ["platinum", "gold"], "impact": ["influence on hip-hop", "commercial success"], "criticisms": ["lyrics", "production"], "success": ["best-selling album", "Grammy Awards"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"music genre": ["pop", "rock", "Christian music"], "song type": ["ballad", "anthem"], "lyrics theme": ["love", "faith", "social issues"], "melody style": ["operatic", " soaring"], "artist": ["Madonna"], "album": ["Like a Prayer"], "release year": ["1989"], "chart performance": ["top 10 single", "critical acclaim"], "music video": ["dramatic", "cinematic"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["warm", "strong", "deep"], "relationship": ["romantic", "platonic", "family"], "expression": ["words", "actions", "gestures"], "feelings": ["happiness", "security", "acceptance"], "actions": ["caring", "supporting", "cherishing"], "characteristics": ["selfless", "patient", "forgiving"], "types": ["unconditional", "conditional", "self-love"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "book"], "status": ["upcoming", "forthcoming", "anticipated"], "medium": ["TV", "film", "literature"], "genre": ["drama", "comedy", "thriller"], "characters": ["protagonists", "antagonists", "supporting characters"], "plot": ["continuing story", "new development", "climax"], "release date": ["soon", "scheduled", "announced"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"definition": ["significant discovery", "new finding", "major achievement"], "field": ["science", "medicine", "technology", "business"], "characteristics": ["revolutionary", "groundbreaking", "innovative"], "example": ["discovery of gravity", "invention of internet", "development of vaccine"], "process": ["research", "experimentation", "trial and error"], "impact": ["changes society", "solves problem", "opens new opportunities"]}}
+
+{"concept": "don't", "facet_properties_dict": {"meaning": ["negation", "absence", "refusal"], "usage": ["in sentences", "in questions", "in exclamations"], "tone": ["strong", "weak", "sarcastic"], "context": ["everyday conversation", "written text", "speech"], "function": ["to indicate opposite", "to ask for something", "to express surprise"], "grammar": ["as a word", "as a phrase", "as a sentence"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"role": ["authority figure", "decision maker", "commander"], "characteristics": ["confident", "assertive", "authoritative"], "behaviors": ["giving orders", "making decisions", "inspiring"], "expectations": ["respect", "obedience", "followership"], "relationship": ["leader-follower", "mentor-apprentice", "parent-child"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"meaning": ["close companion", "constant presence", "supportive friend"], "type of relationship": ["romantic partner", "family member", "close friend"], "emotional connotation": ["comforting", "reassuring", "reliable"], "physical proximity": ["nearby", "adjacent", "adjacent to one's side"], "social context": ["everyday life", "special occasions", "emotional crisis"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"song": ["Japanese song", "by AKB48", "released in 2013"], "genre": ["J-pop", "idol song"], "lyrics": ["upbeat", "inspirational"], "melody": ["catchy", "memorable"], "music video": ["features AKB48 members", "has a beach theme"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"definition": ["German phrase", "meaning'scream for love'"], "origin": ["Germany", "German language"], "usage": ["romantic", "emotional"], "connotation": ["passionate", "intense"], "culture": ["German culture", "romanticism"], "relation": ["love", "passion", "desire"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["lesbian", "gay", "LGBTQ+"], "color": ["pink"], "shape": ["triangle"], "origin": ["German gay rights movement"], "meaning": ["homosexuality", "lesbian identity", "LGBTQ+ pride"], "usage": ["symbol", "flag", "badge"], "associated with": ["LGBTQ+ community", "gay rights movement", "lesbian identity"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"type": ["physical", "intense", "competitive"], "activity": ["sports", "gaming", "adventure"], "goal": ["winning", "surviving", "thrilling"], "physical aspect": ["exertion", "endurance", "strength"], "mental aspect": ["concentration", "focus", "determination"], "environment": ["outdoors", "stadium", "arena"], "characteristics": ["challenging", "exciting", "rewarding"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"musical genre": ["post-punk", "synth-heavy", "angular"], "characteristics": ["minimalist", "experimental", "dramatic"], "emergence": ["late 1970s", "early 1980s"], "influences": ["David Bowie", "Roxy Music", "Kraftwerk"], "notable bands": ["The Cars", "The Police", "Devo", "The Human League"], "cultural impact": ["influence on punk", "influence on pop", "fashion influence"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"activity": ["reading", "listening"], "target audience": ["children", "adults"], "format": ["verbal", "written"], "purpose": ["entertainment", "education"], "setting": ["library", "home", "school"], "duration": ["short", "long"], "participant roles": ["reader", "listener", "teller"], "story type": ["fiction", "non-fiction", "true story"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"material": ["metal", "glass", "wood"], "sound": ["tinkling", "ringing", "melodic"], "appearance": ["ornate", "simple", "colorful"], "function": ["decorative", "musical", "noise-reducing"], "size": ["small", "medium", "large"], "used for": ["home decor", "garden decoration", "sound therapy"], "located at": ["home", "garden", "outdoor", "indoors"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"category": ["entertainer", "singer", "actress"], "profession": ["singer", "songwriter", "actress", "film director"], "awards": ["Academy Award", "Golden Globe Award", "Grammy Award"], "music style": ["pop", "show tunes", "jazz"], "film roles": ["What's Up, Doc?", "The Way We Were", "A Star is Born"], "voice": ["powerful", "unique", "emotive"], "personal life": ["married", "divorced", "has children"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifferent", "nonchalant", "unfazed"], "response to situation": ["accepting", "tolerant", "unbothered"], "emotional state": ["calm", "relaxed", "unconcerned"], "behavior": ["laid-back", "easy-going", "unperturbed"], "personality trait": ["flexible", "accommodating", "easy to get along with"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch", "escape"], "situation": ["fishing", "angler", "water"], "emotion": ["disappointment", "regret", "frustration"], "context": ["fishing trip", "competition", "memory"], "characteristics": ["elusive", "slippery", "large"], "storytelling": ["tall tale", "legend", "myth"], "importance": ["symbolic", "emotional", "humorous"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song": ["electronic", "upbeat", "by The Prodigy"], "lyrics": ["controversial", "provocative", "criticized"], "release date": ["1997"], "genre": ["big beat", "electronica"], "artist": ["The Prodigy"], "controversy": ["censored", "banned", "criticized for lyrics"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand", "directed by Sydney Pollack"], "plot": ["love story", "set during the 1930s", "based on a true story"], "music": ["soundtrack", "featuring memorable songs"], "awards": ["Academy Award winner", "won Best Original Song"], "genre": ["romantic drama", "historical drama", "musical drama"], "release date": ["1973"], "critic reviews": ["generally positive", "praised performances", "commended direction"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["Queen song", "rock music", "1986"], "meaning": ["persevere through difficulties", "keep going despite challenges"], "context": ["perseverance", "resilience", "adversity"], "popularity": ["iconic song", "live performance", "music video"], "mood": ["inspiring", "motivational", "empowering"], "associated with": ["Queen", "Freddie Mercury", "rock music legacy"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "prime"], "category": ["year", "temperature", "speed", "age"], "context": ["year 1939", "temperature 39°C", "speed 39 mph", "age 39 years"], "notation": ["numeric", "roman numeral"], "uses": ["birth year", "speed limit", "weather temperature"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["rock ballad", "Queen's song", "iconic"], "title": ["Who Wants to Live Forever"], "genre": ["rock", "classical"], "lyrics": ["philosophical", "emotional", "poetic"], "music video": ["iconic", "memorable", "dramatic"], "album": ["A Night at the Opera"], "release date": ["1986"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["rock ballad", "by Queen"], "lyrics": ["asking for everything", "all or nothing"], "genre": ["rock", "classic rock"], "artist": ["Queen", "Freddie Mercury"], "release date": ["1989"], "popularity": ["iconic", "hit single"], "music video": ["features Queen", "features Freddie Mercury"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["natural phenomenon", "weather", "precipitation"], "type of fall": ["rain", "hail", "snow"], "cause": ["atmospheric pressure", "temperature change", "wind pattern"], "location": ["outdoors", "sky", "atmosphere"], "frequency": ["rare", "common", "seasonal"], "duration": ["short", "long", "persistent"]}}
+
+{"concept": "flash", "facet_properties_dict": {"type": ["lightning", "photographic equipment"], "cause": ["thunderstorm", "camera", "shutter speed"], "duration": ["brief", "instantaneous"], "appearance": ["bright", "electric"], "use": ["natural phenomenon", "photography", "strobe light"], "location": ["sky", "studio", "outdoor"]}}
+
+{"concept": "save me", "facet_properties_dict": {"meaning": ["request for help", "cry for rescue"], "emotional tone": ["desperate", "urgent"], "context": ["emergency", "danger", "life-threatening situation"], "words used": ["help", "rescue", "save"], "voice tone": ["loud", "panicked"], "body language": ["distressed", "frantic"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"definition": ["without hesitation", "impulsively", "without thinking"], "example": ["running into a situation", "making a decision", "acting on instinct"], "opposite": ["cautiously", "carefully", "thoughtfully"], "usage": ["in a phrase", "in a sentence", "in a context"], "meaning": ["without looking back", "without considering", "without reflecting"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"type": ["public", "private", "financial", "personal"], "cause": ["misconduct", "corruption", "cover-up", "negligence"], "consequence": ["loss of reputation", "job loss", "criminal charges", "financial losses"], "source": ["media", "whistleblower", "investigation", "accusation"], "example": ["Watergate", "Enron scandal", "Harvey Weinstein scandal", "Pandora Papers"], "outcome": ["apology", "resignation", "lawsuit", "criminal prosecution"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["R&B", "hip-hop", "popular", "by 50 cent"], "lyrics": ["inspirational", "motivational", "encouraging"], "genre": ["rap", "hip-hop", "R&B"], "mood": ["uplifting", "inspiring", "motivating"], "artist": ["50 cent"], "released": ["2003"], "album": ["Get Rich or Die Tryin'"]}}
+
+{"concept": "aka", "facet_properties_dict": {"meaning": ["also known as", "synonym", "alternative name"], "usage": ["informal", "colloquial"], "grammar": ["preposition", "phrase"], "tone": ["casual", "friendly"], "common in": ["spoken language", "written language", "internet slang"], "example": ["John is also known as Jack.", "The company is also known as XYZ Inc."], "different from": ["different from", "distinct from", "not the same as"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"song": ["single", "1989", "Madonna"], "genre": ["pop", "rock", "soul"], "lyrics": ["religiously themed", "love and spirituality"], "musical style": ["synth-heavy", "orchestral"], "chart performance": ["top 10 hit", "Billboard Hot 100"], "music video": ["features a homeless woman", "features Madonna and a priest"], "album": ["Like a Prayer", "The Immaculate Collection"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["positive", "intense", "deep"], "type": ["romantic", "platonic", "unconditional"], "expression": ["verbal", "nonverbal", "physical"], "aspects": ["trust", "commitment", "intimacy"], "actions": ["giving", "sharing", "caring"], "feelings": ["warmth", "security", "joy"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "anime", "web series"], "genre": ["action", "comedy", "drama", "sci-fi"], "plot": ["continues previous story", "introduces new characters", "has cliffhanger ending"], "release date": ["soon", "upcoming", "delayed"], "platform": ["TV", "streaming service", "DVD", "online"], "new information": ["revealed", "rumored", "confirmed"], "fans' anticipation": ["high", "low", "mixed"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"type": ["scientific", "medical", "technological"], "result": ["new discovery", "innovative solution", "game-changer"], "field": ["physics", "biology", "computer science"], "impact": ["revolutionary", "life-changing", "groundbreaking"], "characteristics": ["unexpected", "unprecedented", "pioneering"], "example": ["penicillin discovery", "internet invention", "GPS development"]}}
+
+{"concept": "don't", "facet_properties_dict": {"meaning": ["negation", "refusal", "absence"], "usage": ["in sentences", "in commands", "in phrases"], "connotation": ["strongly negative", "strongly positive"], "grammar": ["prefix", "suffix", "infix"], "examples": ["don't do that", "don't forget", "don't know"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"person": ["politician", "CEO", "manager"], "role": ["in charge", "responsible", "authority"], "characteristics": ["strong leader", "decisive", "confident"], "abilities": ["communication", "problem-solving", "decision-making"], "responsibilities": ["making decisions", "setting goals", "inspiring others"], "behaviors": ["motivating", "directing", "guiding"], "domain": ["business", "politics", "community"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"relationship": ["friend", "family member", "partner"], "physical proximity": ["near", "close", "adjacent"], "emotional connection": ["trust", "love", "support"], "actions": ["holding hands", "being together", "supporting each other"], "feelings": ["comfort", "security", "happiness"], "duration": ["long-term", "short-term", "temporary"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"music genre": ["j-pop", "idol", "bubblegum pop"], "artist": ["Morning Musume", "Manatsu no Sounds Good!"], "release date": ["2021"], "album": ["14th single", "14th album"], "lyrics": ["fun", "upbeat", "catchy"], "music style": ["energetic", "danceable", "pop-rock"], "chart performance": ["top 10", "successful", "popular"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"meaning": ["German phrase", "meaning'scream of love'", "expression of intense passion"], "origin": ["German language", "literary term"], "context": ["romantic relationships", "literary works", "emotional expression"], "emotional connotation": ["intense passion", "desire", "love"], "cultural significance": ["German culture", "literary significance", "emotional expression"], "similar concepts": ["love", "passion", "desire"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["lesbian", "homosexual", "LGBTQ+"], "color": ["pink"], "shape": ["triangle"], "origin": ["Germany", "1930s"], "controversy": ["homophobic", "offensive"], "current use": ["symbol of pride", "human rights"], "related to": ["LGBTQ+ community", "homophobia", "discrimination"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"type of play": ["physical", "aggressive", "competitive"], "environment": ["outdoor", "field", "court"], "characteristics": ["rough", "tough", "energetic"], "motivation": ["fun", "excitement", "winning"], "physical aspects": ["speed", "strength", "agility"], "mental aspects": ["focus", "determination", "passion"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"genre": ["rock music", "punk rock", "post-punk"], "era": ["late 1970s", "early 1980s"], "characteristics": ["synthesizers", "angular guitar riffs", "dark lyrics"], "influences": ["David Bowie", "The Velvet Underground", "Kraftwerk"], "associated with": ["CBGB", "Punk rock movement", "Post-punk movement"], "bands": ["The Clash", "The Police", "Devo", "Talking Heads"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"activity": ["reading", "telling", "listening"], "audience": ["children", "family", "friends"], "format": ["book", "oral", "digital"], "environment": ["library", "home", "school"], "purpose": ["entertainment", "education", "social bonding"], "duration": ["short", "long", "variable"], "tone": ["serious", "fun", "relaxed"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"function": ["make sound", "decorate space", "relax"], "material": ["metal", "glass", "wood"], "shape": ["long", "curved", "hanging"], "size": ["small", "medium", "large"], "sound": ["melodious", "harsh", "soft"], "purpose": ["decoration", "music", "relaxation"], "location": ["outdoor", "indoor", "garden", "porch"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"occupation": ["singer", "actress", "songwriter", "director"], "awards": ["Academy Award", "Grammy Award", "Golden Globe Award"], "voice type": ["mezzo-soprano"], "movies": ["What's Up, Doc?", "A Star is Born", "The Prince of Tides"], "music genres": ["pop", "show tunes", "jazz"], "notable songs": ["What the World Needs Now Is Love", "People", "The Way We Were"], "birthplace": ["Brooklyn", "New York City"], "active years": ["1950s", "1960s", "1970s", "1980s", "1990s", "2000s", "2010s"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifferent", "unbothered", "nonchalant"], "behavior": ["accepting", "accommodating", "forgiving"], "response to situation": ["not upset", "not annoyed", "not bothered"], "emotional state": ["calm", "serene", "unfazed"], "social interaction": ["easy to get along with", "pleasant to be around", "easy to converse with"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type of experience": ["romantic", "fishing", "opportunity"], "emotional tone": ["regret", "longing", "bitterness"], "duration": ["brief", "short-lived"], "context": ["fishing trip", "relationship", "chance encounter"], "cause": ["bad timing", "miscommunication", "unrealized opportunity"], "impact": ["lasting memory", "emotional scar", "what if scenario"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song": ["electronic", "dance", "popular"], "artist": ["The Prodigy"], "genre": ["big beat", "dance music"], "released year": ["1997"], "chart performance": ["top 10"], "music style": ["energetic", "aggressive"], "lyrics": ["controversial", "censored"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand and Robert Redford"], "genre": ["musical", "historical"], "plot": ["love story", "based on real-life events"], "setting": ["1940s", "New York City"], "awards": ["Academy Award winner", "Golden Globe winner"], "release date": ["1973"], "director": ["Sidney Pollack"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["Queen song", "rock music", "1986"], "meaning": ["persevering through difficulties", "overcoming obstacles"], "context": ["rock concert", "live performance", "music festival"], "impact": ["inspiring perseverance", "motivating people"], "example": ["band continuing to play despite a broken leg", "overcoming technical issues during a show"], "popularity": ["iconic song", "classic rock", "popular music"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "small"], "place": ["position", "rank", "order"], "event": ["year", "decade", "century"], "math": ["prime", "factorable"], "culture": ["lucky", "unlucky"], "date": ["specific date", "birthday", "anniversary"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "power ballad"], "title": ["Who Wants to Live Forever"], "lyrics": ["philosophical", "emotional", "poetic"], "genre": ["rock", "classical", "operatic"], "album": ["A Night at the Opera"], "release date": ["1986"], "popularity": ["iconic", "classic", "legendary"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["rock song", "by Queen", "written by Brian May"], "lyrics": ["about desire", "asking for everything"], "genre": ["rock", "pop"], "artist": ["Queen", "Freddie Mercury"], "album": ["The Works", "1984 release"], "chart performance": ["top 1 in UK", "top 4 in US"], "award": ["won Ivor Novello Award", "won MTV Video Music Award"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["natural disaster", "calamity"], "location": ["mountain", "cliff", "hill"], "cause": ["earthquake", "landslide", "heavy rain"], "consequences": ["destruction", "injury", "loss of life"], "probability": ["unlikely", "rare"], "related to": ["geology", "weather", "natural hazards"]}}
+
+{"concept": "flash", "facet_properties_dict": {"type": ["lightning", "electrical discharge", "photographic equipment"], "duration": ["short", "instantaneous"], "origin": ["atmospheric", "natural", "man-made"], "use": ["lighting storm", "photography", "communication"], "characteristics": ["bright", "brief", "powerful"], "appearance": ["bright light", "electric arc"], "purpose": ["illumination", "communication", "capturing moment"]}}
+
+{"concept": "save me", "facet_properties_dict": {"emotional state": ["distress", "desperation"], "request type": ["urgent", "pleading"], "possible actions": ["help", "rescue", "assistance"], "context": ["emergency", "danger", "trouble"], "response type": ["aid", "support", "relief"], "related emotions": ["anxiety", "fear", "despair"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without looking back", "without hesitation", "in a reckless manner"], "example of": ["running away", "leaping into action"], "opposite of": ["backward", "hesitantly"], "usage": ["in phrases", "in idioms"], "emotion": ["boldness", "recklessness", "courage"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"nature": ["public", "secret", "hidden"], "cause": ["misconduct", "corruption", "cover-up"], "impact": ["damage to reputation", "loss of trust", "financial loss"], "characteristics": ["sudden", "unexpected", "shocking"], "response": ["denial", "apology", "investigation"], "type": ["political", "financial", "personal"], "duration": ["short-term", "long-term", "permanent"], "consequences": ["loss of job", "loss of reputation", "criminal charges"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["R&B", "hip-hop", "popular", "by 50 Cent"], "genre": ["rap", "hip-hop"], "lyrics": ["inspirational", "motivational", "about overcoming struggles"], "artist": ["50 Cent", "Eminem"], "album": ["Get Rich or Die Tryin'", "The Massacre"], "release year": ["2003"], "awards": ["Grammy nomination", "Billboard Hot 100 chart"]}}
+
+{"concept": "aka... what a life!", "facet_properties_dict": {"genre": ["TV series", "comedy", "drama"], "setting": ["New Jersey", "USA"], "main characters": ["Charlie", "Alessandro", "Jen"], "tone": ["humorous", "satirical", "emotional"], "plot": ["follows the life of a dysfunctional family", "explores themes of family, love, and identity"], "award": ["won Emmy Award", "nominated for Golden Globe Award"], "airing": ["on HBO", "from 2014 to 2019"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"song": ["pop", "rock", "prayer-like lyrics"], "artist": ["Madonna"], "genre": ["pop rock", "dance"], "release date": ["1990"], "chart performance": ["number one single", "best-selling single"], "music video": ["features a homeless man", "features a priest"], "lyrics": ["mix of prayer and love", "features themes of spirituality"], "album": ["Like a Prayer", "features a mix of styles"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["strong feeling", "warm", "tender"], "type": ["romantic", "platonic", "self-love"], "expression": ["verbally", "non-verbally", "through actions"], "feelings": ["happiness", "warmth", "security"], "actions": ["kindness", "generosity", "sacrifices"], "duration": ["long-term", "short-term", "instantaneous"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "book"], "medium": ["TV", "online", "print"], "genre": ["drama", "comedy", "thriller"], "plot": ["exciting storyline", "cliffhanger ending"], "characters": ["new characters", "old characters", "character development"], "release date": ["soon", "delayed", "already released"], " anticipation": ["high", "low", "mixed"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"type": ["scientific", "medical", "technological", "artistic"], "nature": ["significant discovery", "new understanding", "innovative solution"], "impact": ["revolutionary", "groundbreaking", "life-changing"], "field": ["physics", "biology", "medicine", "engineering"], "characteristics": ["unexpected", "surprising", "game-changing"], "example": ["discovery of gravity", "invention of internet", "development of vaccine"]}}
+
+{"concept": "don't", "facet_properties_dict": {"grammar": ["negation", "verb negation", "sentence negation"], "meaning": ["opposite of do", "absence of action", "reversal of intention"], "usage": ["in sentences", "in conversations", "in writing"], "function": ["to deny", "to refuse", "to contradict"], "examples": ["I don't like it", "She doesn't want to go", "He didn't do it"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"title": ["position", "title", "authority"], "characteristics": ["confident", "decisive", "inspirational"], "responsibilities": ["making decisions", "guiding others", "setting goals"], "skills": ["communication", "problem-solving", "strategic thinking"], "behaviors": ["motivating", "directing", "empowering"], "requirements": ["trust", "respect", "loyalty"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"relation": ["family", "friend", "partner"], "physical location": ["near", "adjacent", "proximal"], "emotional tone": ["warm", "supportive", "reassuring"], "duration": ["long-term", "short-term"], "intention": ["care", "comfort", "protection"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"meaning": ["Japanese phrase", "expression of approval", "positive sentiment"], "origin": ["Japanese language", "cultural reference"], "usage": ["casual conversation", "formal speech"], "tone": ["polite", "respectful", "friendly"], "context": ["everyday life", "social interactions", "business settings"]}}
+
+{"concept": "Schrei nach Liebe", "facet_properties_dict": {"type": ["German phrase", "expression", "idiom"], "meaning": ["scream for love", "cry out for love", "desperate for love"], "origin": ["German language", "folkloric", "literary"], "usage": ["emotional expression", "romantic declaration", "poetic metaphor"], "cultural significance": ["symbolic of intense longing", "representing vulnerability", "expressing deep emotional pain"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["lesbian", "gay", "homosexuality"], "color": ["pink"], "shape": ["triangle"], "origin": ["homosexual rights", "LGBTQ+ community"], "meaning": ["pride", "identity", "acceptance"], "used for": ["symbol", "icon", "flag"], "culture": ["LGBTQ+ culture", "pride parade", "gay rights movement"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"type": ["physical activity", "outdoor activity", "team sport"], "intensity": ["high energy", "exhausting"], "physical demands": ["strength", "endurance", "agility"], "mental aspect": ["concentration", "focus", "determination"], "environment": ["outdoor", "stadium", "field"], "participants": ["children", "adults", "athletes"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"musical genre": ["synth-heavy", "artistic", "experimental"], "characteristics": ["atmospheric", "moody", "dramatic"], "influences": ["krautrock", "post-punk", "art rock"], "bands": ["Depeche Mode", "The Cure", "Blondie"], "era": ["late 1970s", "early 1980s"], "associated with": ["punk", "art school", "experimental music"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"activity": ["reading", "listening"], "target audience": ["children", "adults", "family"], "environment": ["library", "school", "home"], "purpose": ["entertainment", "education", "relaxation"], "format": ["written", "oral", "visual"], "duration": ["short", "long"], "participant role": ["reader", "listener", "teller"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"category": ["decorative item", "musical instrument", "outdoor decoration"], "material": ["metal", "glass", "wood"], "sound": ["ringing", "melodic"], "purpose": ["to create music", "to decorate", "to relax"], "location": ["outdoor", "indoor", "porch", "garden"], "function": ["to scare away birds", "to attract good luck", "to bring harmony"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"profession": ["singer", "songwriter", "actress", "director"], "genre": ["pop", "musical theater", "rock", "folk"], "awards": ["Oscars", "Grammys", "Emmy", "Golden Globes"], "music style": ["soft rock", "ballads", "show tunes"], "filmography": ["What's Up, Doc?", "The Way We Were", "A Star is Born", "Yentl"], "personal life": ["married to Elliott Gould", "married to James Brolin"], "iconic songs": ["What the World Needs Now Is Love", "People", "Evergreen", "No More Tears (Enough to Go Round)"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifferent", "unbothered", "nonchalant"], "situation": ["small issue", "minor problem", "annoying situation"], "person": ["her", "someone", "a person"], "response": ["no reaction", "no complaint", "no fuss"], "context": ["everyday life", "personal relationship", "social interaction"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"event": ["fishing", "catch and release"], "emotion": ["disappointment", "regret"], "memory": ["vivid", "long-lasting"], "person": ["fisherman", "angler"], "location": ["river", "lake", "ocean"], "circumstance": ["bad luck", "equipment failure"], "result": ["lost", "escaped"], "impact": ["emotional", "psychological"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song title": ["controversial", "by The Prodigy"], "genre": ["electronic", "dance music"], "release date": ["1997"], "lyrics": ["dark", "violent"], "controversy": ["racism", "misogyny", "censorship"], "impact": ["cultural", "musical"], "artist": ["The Prodigy", "Liam Howlett"], "album": ["The Fat of the Land"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "1973 film", "Streisand's debut"], "plot": ["romantic relationship", "WWII era", "lost love"], "characters": ["Katie Morosky", "Hubbell Gardiner"], "actors": ["Barbra Streisand", "Robert Redford"], "genre": ["romantic drama", "musical"], "awards": ["Academy Award for Best Original Song", "Golden Globe Award"], "director": ["Sydney Pollack"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"origin": ["song", "Queen"], "meaning": ["persevere despite difficulties", "continue despite obstacles"], "genre": ["rock", "music"], "emotional connotation": ["determination", "resilience", "courage"], "usage": ["inspirational quote", "motivational phrase", "anthem"], "context": ["live performance", "recorded song", "everyday life"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "prime", "single digit"], " significance": ["not a perfect square", "not a perfect cube"], "used in": ["dates", "phone numbers", "temperatures"], "related to": ["40", "38", "Celsius scale"], "mathematical properties": ["divisible by 3", "divisible by 13"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "slow tempo"], "lyrics": ["philosophical", "poetic", "mournful"], "theme": ["immortality", "love", "loss"], "genre": ["rock", "classic rock", "symphonic rock"], "released": ["1981", "on album A Kind of Magic"], "chart performance": ["hit single", "reached top 10"], "music video": ["features Queen", "features a castle", "features a forest"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["rock ballad", "Queen", "Freddie Mercury"], "lyrics": ["longing for complete control", "desire for all", "passion"], "genre": ["rock", "pop"], "artist": ["Queen", "Freddie Mercury"], "album": ["The Works", "1984"], "mood": ["romantic", "passionate", "dramatic"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["natural disaster", "accident", "unfortunate event"], "cause": ["gravity", "weather", "natural phenomenon"], "effect": ["damage", "destruction", "casualty"], "location": ["outside", "outdoors", "open space"], "time": ["sudden", "unexpected", "unpredictable"], "consequence": ["chaos", "disruption", "loss"], "related to": ["construction", "building", "engineering"]}}
+
+{"concept": "flash", "facet_properties_dict": {"device": ["light source", "electronic", "portable"], "function": ["providing light", "illuminating", "photography"], "type": ["strobe", "LED", "chemical"], "usage": ["outdoor photography", "strobe photography", "emergency lighting"], "characteristics": ["bright", "portable", "rechargeable"], "purpose": ["capturing images", "providing light", "emergency lighting"]}}
+
+{"concept": "save me", "facet_properties_dict": {"meaning": ["ask for help", "distress signal", "pleading"], "context": ["emotional", "physical", "situational"], "methods": ["asking for help", "seeking assistance", "getting aid"], "response": ["providing help", "offering support", "offering assistance"], "importance": ["emotional", "physical", "psychological"], "consequences": ["relief", "safety", "well-being"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without looking back", "without hesitation", "in a hurry"], "used in context": ["to describe a movement", "to describe an action", "to describe a decision"], "opposite of": ["carefully", "slowly", "thoughtfully"], "in a phrase": ["headlong into", "headlong without", "headlong through"], "connotation": ["reckless", "impulsive", "daring"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"type": ["public", "private", "media"], "cause": ["misconduct", "corruption", "cover-up"], "impact": ["loss of reputation", "financial damage", "public outrage"], "characteristics": ["sudden", "unexpected", "controversial"], "response": ["apology", "denial", "investigation"], "consequences": ["punishment", "reform", "rebuilding of trust"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song": ["rock ballad", "by Three Days Grace"], "lyrics": ["emotional", "heartfelt", "inspirational"], "genre": ["hard rock", "alternative"], "tone": ["passionate", "intense", "uplifting"], "artists": ["Three Days Grace"], "released": ["2005"], "album": ["Three Days Grace"]}}
+
+{"concept": "aka...", "facet_properties_dict": {"type": ["TV show", "drama", "comedy"], "genre": ["action", "romance", "thriller"], "duration": ["hour-long", "multi-season"], "main characters": ["complex", "relatable", "lovable"], "storyline": ["engaging", "emotional", "thought-provoking"], "impact": ["critically acclaimed", "cult following", "socially relevant"], "creator": ["skilled", "visionary", "influential"], "awards": ["emmy", "golden globe", "peabody"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"song": ["single", "released in 1989", "by Madonna"], "genre": ["pop", "rock", "dance"], "lyrics": ["spiritual", "poetic", "love"], "music style": ["orchestral", "piano", "gospel"], "chart performance": ["peaked at number one", "on the US Billboard Hot 100"], "album": ["Erotica", "Madonna's fifth studio album"], "awards and recognition": ["won a Grammy Award", "for Best Music Video"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["strong feeling", "warmth", "tenderness"], "type": ["romantic", "platonic", "unconditional"], "expression": ["words", "actions", "gifts"], "behaviors": ["care", "compassion", "sacrifice"], "roles": ["giver", "receiver"], "cultural significance": ["symbolic", "universal", "unconditional"], "duration": ["long-term", "short-term", "eternal"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "book"], "status": ["upcoming", "forthcoming", "new"], "format": ["season", "chapter", "installment"], "medium": ["TV", "movie", "book"], "release date": ["announced", "planned", "scheduled"], "storyline": ["continues previous story", "starts new story", "has cliffhanger"], "anticipation": ["high", "low", "mixed"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"definition": ["significant discovery", "new finding", "unexpected outcome"], "field of study": ["science", "technology", "medicine", "mathematics"], "characteristics": ["surprising", "groundbreaking", "innovative"], "examples": ["discovery of gravity", "invention of internet", "cure for cancer"], "consequences": ["revolutionary impact", "new possibilities", "changed perspective"], "process": ["research", "experimentation", "trial and error"]}}
+
+{"concept": "don't", "facet_properties_dict": {"grammar": ["negation", "verb", "sentence"], "meaning": ["absence", "opposite", "absence of action"], "usage": ["in sentence", "in conversation", "in writing"], "tone": ["informal", "formal", "sarcastic"], "context": ["everyday life", "written text", "spoken language"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"person": ["politician", "CEO", "manager"], "role": ["leader", "authority", "figurehead"], "characteristics": ["confident", "decisive", "inspiring"], "responsibilities": ["making decisions", "giving orders", "representing"], "behavior": ["authoritative", "assertive", "motivational"], "expectations": ["respect", "obedience", "trust"], "scope": ["organization", "team", "country"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"relationship": ["companion", "partner", "friend"], "physical proximity": ["near", "adjacent", "beside"], "emotional connection": ["trust", "loyalty", "love"], "actions": ["support", "encouragement", "protection"], "duration": ["long-term", "short-term"], "quality": ["warm", "reassuring", "reliable"]}}
+
+{"concept": "Manatsu no Sounds Good!", "facet_properties_dict": {"song": ["Japanese song", "summer-themed", "upbeat"], "artist": ["Arashi", "Japanese boy band"], "genre": ["J-pop", "pop music"], "release date": ["2013"], "chart performance": ["top 10 single", "best-selling album"], "lyrics": ["summer vibes", "happy mood"], "music video": ["colorful", "fun", "summer-themed"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"meaning": ["German phrase", "literally means'scream for love'", "expression of intense longing"], "origin": ["German language", "romanticism", "19th century"], "usage": ["poetic", "literary", "emotional"], "connotation": ["passionate", "intense", "overwhelming"], "cultural significance": ["symbol of romantic love", "expression of deep emotional pain"], "associated with": ["German literature", "romantic poetry", "emotional intensity"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["homosexuality", "lesbianism", "gay pride"], "color": ["pink", "bright"], "shape": ["triangle"], "origin": ["Swiss artist", "Hans Erni", "1947"], "used for": ["gay rights", "LGBTQ+ movement", "symbolism"], "appearance": ["bright color", "distinct shape"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"type": ["physical", "competitive"], "characteristics": ["intense", "aggressive", "determined"], "involves": ["effort", "energy", "dedication"], "opposite": ["play soft", "play gently"], "context": ["game", "competition", "recreational activity"], "result": ["win", "lose", "improve skills"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"music genre": ["synth-heavy", "angular"], "era": ["late 1970s", "early 1980s"], "characteristics": ["minimalist", "experimental", "artistic"], "influences": ["David Bowie", "The Velvet Underground", "Kraftwerk"], "notable bands": ["The Cars", "The Police", "Devo"], "cultural impact": ["influenced punk", "influenced pop music"], "associated with": ["post-punk", "art rock", "indie music"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"purpose": ["entertainment", "education", "social bonding"], "activity": ["reading", "telling", "sharing"], "setting": ["library", "home", "school", "campfire"], "audience": ["children", "adults", "family"], "duration": ["short", "long"], "format": ["oral", "written", "visual"], "outcome": ["enjoyment", "inspiration", "empathy"], "participant": ["storyteller", "listener", "reader"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"purpose": ["decorate", "make sound", "relax"], "material": ["metal", "glass", "wood", "plastic"], "shape": ["long", "short", "curved", "straight"], "sound": ["melodious", "harmonious", "soothing"], "location": ["outdoor", "indoor", "porch", "garden"], "functionality": ["make noise", "attract birds", "keep away insects"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"occupation": ["singer", "actress", "songwriter", "film director"], "awards": ["Academy Award", "Golden Globe", "Grammy Award"], "genres": ["pop", "jazz", "musical theater"], "instruments": ["vocal", "piano"], "notable works": ["A Star is Born", "What's Up", "The Way We Were"], "personal life": ["married", "divorced", "has children"], "career milestones": ["first solo album", "first film role", "first concert tour"], "impact": ["trailblazer for women in music", "pioneer of popular music", "iconic entertainer"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifference", "acceptance", "tolerance"], "situation": ["small issue", "minor problem", "personal matter"], "response": ["non-reaction", "lack of concern", "no complaint"], "person": ["she", "her", "a woman"], "context": ["everyday life", "social situation", "personal relationship"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "person"], "circumstance": ["fishing trip", "romantic encounter"], "emotion": ["disappointment", "longing", "regret"], "duration": ["short", "long"], "memory": ["lasting", "painful"], "regret": ["deep", "profound"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song": ["electronic", "dance", "The Prodigy"], "genre": ["big beat", "electronic rock"], "release": ["1997", "single"], "lyrics": ["non-literal", "symbolic"], "music video": ["controversial", "infamous"], "chart performance": ["successful", "top 10"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand and Robert Redford", "directed by Sydney Pollack"], "plot": ["set during the 1930s", "about a romance between two people from different social classes"], "music": ["features the song 'The Way We Were'"], "awards": ["won the Academy Award for Best Original Song"], "genre": ["romantic drama", "historical drama"], "release year": ["1973"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"song": ["rock ballad", "Queen song", " Freddie Mercury song"], "lyrics": ["inspirational", "emotional", "about perseverance"], "genre": ["rock", "classic rock"], "release": ["1991", "Queen's album Innuendo"], "theme": ["determination", "resilience", "overcoming adversity"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "prime", "small"], "category": ["year", "temperature", "age"], "used for": ["birth year", "weather", "measurement"], "location": ["date", "time", "score"], "meaning": ["maturity", "ripeness", "completion"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "iconic"], "lyrics": ["philosophical", "existential", "poignant"], "theme": ["immortality", "love", "loss"], "genre": ["rock", "classic"], "release date": ["1986", "album A Kind of Magic"], "popularity": ["iconic", "beloved"], "artist": ["Queen", "Freddie Mercury", "Brian May"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["anthem", "rock ballad", "Queen song"], "lyrics": ["aspiration", "desire", "asking for everything"], "genre": ["rock", "pop"], "artist": ["Queen", "Freddie Mercury"], "album": ["The Works"], "released year": ["1984"], "theme": ["ambition", "self-empowerment", "confident"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["accidental", "unintentional", "sudden"], "cause": ["negligence", "carelessness", "inattention"], "consequence": ["injury", "damage", "disturbance"], "context": ["construction site", "industrial setting", "home"], "responsibility": ["employer", "contractor", "property owner"], "prevention": ["safety measures", "warning signs", "regular inspections"]}}
+
+{"concept": "flash", "facet_properties_dict": {"category": ["light source", "photography equipment", "accessory"], "type": ["strobe", "electronic", "manual"], "function": ["provides light", "freezes motion", "illuminates subject"], "used for": ["photography", "videography", "lighting"], "located at": ["camera", "studio", "event"], "characteristics": ["bright", "fast", "portable"]}}
+
+{"concept": "save me", "facet_properties_dict": {"meaning": ["plea for help", "emergency signal"], "method": ["shouting", "texting", "calling"], "situation": ["life-threatening", "urgent need", "danger"], "response": ["rescue", "assistance", "support"], "context": ["personal", "public", "emergency services"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without looking back", "without hesitation"], "action": ["running", "jumping", "diving"], "context": ["in a game", "in a sport", "in a dare"], "example": ["headlong into the pool", "headlong into the fray"], "opposite": ["hesitant", "reluctant"], "synonyms": ["recklessly", "impetuously", "unhesitatingly"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"type": ["public", "private", "financial", "political"], "cause": ["corruption", "negligence", "cover-up", "betrayal"], "effect": ["damage to reputation", "loss of trust", "financial loss", "social unrest"], "involved parties": ["individual", "organization", "government", "celebrity"], "reason for exposure": ["investigation", "leak", "whistleblower", "accidental discovery"], "consequences": ["punishment", "apology", "reform", "public outcry"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song genre": ["rock", "hard rock", "heavy metal"], "song title": ["Let Me Live"], "artist": ["Three Doors Down"], "lyrics": ["inspirational", "motivational", "empowering"], "album": ["The Better Life"], "release year": ["2000"], "music style": ["alternative rock", "post-grunge"], "chart performance": ["top 10 single", "hit single"]}}
+
+{"concept": "aka...", "facet_properties_dict": {"meaning": ["unknown", "hidden", "secret"], "format": ["three dots", "ellipsis"], "usage": ["in writing", "in speech", "in texting"], "tone": ["mysterious", "curious", "inquisitive"], "function": ["to indicate pause", "to show uncertainty", "to hint at more"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"music": ["song", "single", "album"], "genre": ["pop", "rock", "R&B"], "artist": ["Madonna"], "release year": ["1989"], "lyrics": ["inspirational", "religiously themed", "storytelling"], "chart performance": ["top 1", "Billboard Hot 100"], "awards": ["Grammy nomination", "MTV Video Music Award"], "album": ["Like a Prayer", "The Immaculate Collection"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["positive", "intense", "warm"], "type": ["romantic", "platonic", "unconditional"], "expression": ["verbal", "nonverbal", "physical"], "feelings": ["happiness", "tenderness", "commitment"], "actions": ["giving", "supporting", "caring"], "duration": ["long-term", "short-term", "eternal"], "roles": ["receiver", "giver", "partner"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "book"], "status": ["upcoming", "forthcoming", "unreleased"], "medium": ["TV", "streaming", "print"], "genre": ["action", "comedy", "drama"], "storyline": ["continuation", "sequel", "new story"], "release date": ["soon", "anticipated", "scheduled"], "availability": ["online", "in stores", "on demand"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"meaning": ["sudden discovery", "major achievement"], "context": ["science", "technology", "medicine", "history"], "characteristics": ["surprising", "groundbreaking", "revolutionary"], "example of": ["penicillin discovery", "moon landing", "cure for disease"], "result of": ["hard work", "dedication", "perseverance"], "impact of": ["changed the world", "improved lives", "advanced knowledge"]}}
+
+{"concept": "don't", "facet_properties_dict": {"negation": ["indicating absence", "opposite of do"], "function": ["used in sentences", "used to reject"], "meaning": ["absence of action", "refusal"], "usage": ["in informal language", "in formal language"], "grammar": ["used with verbs", "used in phrases"], "impact": ["changes sentence meaning", "affects tone"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"position": ["boss", "manager", "chief"], "role": ["decision maker", "guide", "authority"], "characteristics": ["strong", "assertive", "inspiring"], "responsibilities": ["making decisions", "setting goals", "motivating"], "communication": ["clear", "direct", "encouraging"], "expectations": ["respect", "obedience", "trust"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"location": ["near", "adjacent", "close"], "relationship": ["with me", "next to", "beside"], "physical proximity": ["immediate", "adjacent", "close distance"], "emotional connection": ["intimate", "trustworthy", "reliable"], "action": ["being", "standing", "sitting"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"song": ["Japanese song", "summer song", "upbeat"], "artist": ["Manatsu no Sounds Good!", "Japanese band", "female band"], "genre": ["J-pop", "pop music", "summer music"], "mood": ["uplifting", "energetic", "fun"], "lyrics": ["summer theme", "carefree", "inspirational"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"meaning": ["a German phrase", "meaning'scream for love'"], "origin": ["German phrase", "from the song 'Schrei nach Liebe'"], "song": ["by the band Silbermond", "released in 2004"], "genre": ["pop music", "rock music"], "lyrics": ["emotional", "romantic", "heartfelt"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["homosexuality", "lesbianism", "gay pride"], "color": ["pink"], "shape": ["triangle"], "origin": ["Nazi concentration camps", "LGBTQ+ movement"], "meaning": ["hate", "fear", "tolerance"], "association": ["LGBTQ+ community", "homophobia", "human rights"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"activity": ["sports", "gaming", "exercise"], "intensity": ["high", "extreme", "rough"], "duration": ["long", "extended"], "physical aspect": ["requires energy", "involves movement"], "mental aspect": ["requires focus", "involves strategy"], "motivation": ["fun", "challenge", "competition"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"genre": ["music", "rock", "post-punk"], "era": ["late 1970s", "early 1980s"], "characteristics": ["use of synthesizers", "simple chord progressions", "emotional lyrics"], "influenced by": ["art rock", "punk rock", "David Bowie"], "notable bands": ["The Cars", "The Police", "Devo", "Talking Heads"], "associated with": ["CBGB", "Punk movement", "New York City"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"context": ["library", "school", "home"], "purpose": ["entertainment", "education"], "audience": ["children", "family"], "characteristics": ["imaginary", "narrative", "interactive"], "format": ["oral", "written", "visual"], "duration": ["short", "long"], "participants": ["storyteller", "listener", "reader"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"material": ["metal", "glass", "wood", "plastic"], "sound": ["melodious", "harsh", "soothing"], "shape": ["spherical", "cylindrical", "ornate"], "function": ["decorative", "musical", "noise-reducing"], "size": ["small", "medium", "large"], "placement": ["outdoors", "indoors", "porch", "garden"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"profession": ["singer", "actress", "songwriter", "film director"], "genre": ["pop", "jazz", "classical", "musical theatre"], "awards": ["Oscar", "Grammy", "Tony", "Emmy"], "voice type": ["mezzo-soprano"], "influence": ["popular music", "theatre", "film"], "known for": ["The Way We Were", "What's Up", "A Star is Born", "Yentl"], "personal life": ["married", "divorced", "adopted children"], "career milestones": ["first album", "first film", "first Broadway show"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifferent", "nonchalant", "unbothered"], "behavior": ["accepting", "tolerant", "forgiving"], "situation": ["small issue", "minor problem", "daily annoyance"], "person": ["her", "she", "someone"], "context": ["personal", "social", "everyday life"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch", "escape"], "situation": ["fishing", "angry", "disappointment"], "emotion": ["sadness", "frustration", "regret"], "memory": ["vivid", "lasting", "unforgettable"], "story": ["tall tale", "legend", "legendary"], "importance": ["symbolic", "metaphorical", "emotional significance"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"type": ["song", "single", "music"], "artist": ["The Prodigy", "Liam Howlett", "Kepler"], "release date": ["1997", "album: The Fat of the Land"], "genre": ["electronic", "big beat", "rock"], "lyrics": ["provocative", "controversial", "censored"], "music style": ["energetic", "danceable", "experimental"], "reception": ["critically acclaimed", "commercial success", "censored in some countries"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand", "directed by Sydney Pollack"], "plot": ["love story", "historical context", "World War II"], "music": [" iconic soundtrack", "sung by Barbra Streisand", "won Academy Award"], "genre": ["musical", "romantic comedy"], "release year": ["1973"], "awards": ["Academy Award for Best Original Song", "Golden Globe Award for Best Actress"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"song": ["rock ballad", "power ballad", "Queen song"], "lyrics": ["persevering through adversity", "keeping going despite obstacles"], "meaning": ["overcoming challenges", "continuing despite setbacks"], "genre": ["rock", "heavy metal"], "origin": ["Queen", "Freddie Mercury"], "album": ["Innuendo", "Greatest Hits"], "duration": ["4 minutes", "7 minutes"], "mood": ["emotional", "inspiring"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "prime", "natural"], "mathematical property": ["divisible by 3", "divisible by 13"], "category": ["decade", "year", "temperature"], "temperature": ["Celsius", "Fahrenheit"], "decade": ["1930s", "1990s"], "year": ["year of birth", "year of death"], "culture": ["age", "generation"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["rock ballad", "Queen song", " iconic"], "title": ["Who Wants to Live Forever"], "lyrics": ["philosophical", "poetic", "emotional"], "genre": ["rock", "classical"], "popularity": ["very popular", "iconic"], "released": ["1986"], "artist": ["Queen"], "album": ["A Kind of Magic"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["anthem", "rock ballad", "Queen song"], "lyrics": ["powerful vocals", "emotive lyrics", "asking for everything"], "genre": ["rock", "classic rock", "Queen's style"], "music video": ["iconic", "memorable", "Freddie Mercury's performance"], "album": ["The Miracle", "Queen's album", "1989 release"], "popularity": ["popular", "iconic", "rock anthem"], "meaning": ["asking for everything", "desire for all", "emotional intensity"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["accidental", "sudden", "unexpected"], "cause": ["carelessness", "negligence", "lack of attention"], "consequence": ["damage", "injury", "disruption"], "location": ["workplace", "home", "outdoor"], "person involved": ["worker", "homeowner", "builder"], "frequency": ["rare", "uncommon", "occasional"]}}
+
+{"concept": "flash", "facet_properties_dict": {"definition": ["brief moment of light", "short-lived illumination"], "origin": ["lightning", "photographic equipment"], "function": ["providing light", "illuminating a scene"], "types": ["natural", "artificial", "camera flash"], "associated with": ["stormy weather", "photography", "emergency lighting"], "duration": ["instantaneous", "short-lived"], "characteristics": ["bright", "brief", " sudden"]}}
+
+{"concept": "save me", "facet_properties_dict": {"request": ["urgent", "emotional"], "context": ["distress", "danger", "help"], "response": ["rescue", "assistance", "support"], "source": ["phone call", "text message", "social media"], "urgency level": ["high", "immediate"], "help provider": ["emergency services", "friend", "family member"], "location": ["physical", "emotional"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without hesitation", "without looking back", "in a reckless manner"], "example sentences": ["She ran headlong into the fire", "He leapt headlong into the pool"], "usage": ["in idiomatic expressions", "in figurative language"], "opposite": ["hesitantly", "cautiously"], "related concepts": ["reckless", "impulsive", "bold"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"nature": ["public", "private", "media"], "cause": ["misconduct", "mismanagement", "betrayal"], "effect": ["damage to reputation", "loss of trust", "public outcry"], "type": ["political", "business", "personal"], "characteristics": ["sudden", "unexpected", "embarrassing"], "response": ["apology", "denial", "investigation"], "outcome": ["reform", "punishment", "damage control"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["hip-hop", "R&B", "popular music", "song by 2Pac"], "lyrics": ["emotional", "inspirational", "motivational"], "tone": ["uplifting", "emotive"], "artist": ["2Pac", "Tupac Shakur"], "genre": ["gangsta rap", "rap"], "release year": ["1996"], "album": ["The Don Killuminati: The 7 Day Theory"]}}
+
+{"concept": "aka...", "facet_properties_dict": {"origin": ["Japanese", "Chinese"], "meaning": ["greeting", "goodbye", "thank you"], "usage": ["in formal situations", "in informal settings", "in business"], "response": ["bōchō", "arigatou"], "cultural significance": ["respect", "politeness", "etiquette"], "formalities": ["bowing", "gift giving"], "influence": ["Western culture", "globalization"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"music": ["song", "single", "CD single"], "artist": ["Madonna"], "genre": ["pop", "rock", "dance"], "release date": ["1990"], "chart performance": ["number one single", "best-selling single"], "lyrics": ["spiritual", "romantic", "inspirational"], "music video": ["iconic", "memorable", "influential"], "production": ["produced by Patrick Leonard", "features a saxophone solo"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["positive", "strong", "intense"], "relationship": ["romantic", "platonic", "family"], "characteristics": ["warm", "kind", "selfless"], "expression": ["verbal", "non-verbal", "physical"], "actions": ["giving", "caring", "sharing"], "feelings": ["warmth", "happiness", "safety"], "duration": ["long-term", "short-term", "instantaneous"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "book"], "medium": ["TV", "streaming", "print"], "genre": ["action", "comedy", "drama"], "plot": ["continues story", "new characters", "cliffhanger"], "release date": ["upcoming", "scheduled", "delayed"], "available at": ["TV schedule", "streaming platform", "bookstore"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"definition": ["sudden and significant discovery", "major advance"], "field": ["science", "technology", "medicine", "business"], "characteristics": ["unexpected", "groundbreaking", "revolutionary"], "impact": ["transforms industry", "solves long-standing problem", "opens new possibilities"], "examples": ["discovery of penicillin", "invention of internet", "development of vaccine"], "consequences": ["changes society", "drives innovation", "generates new opportunities"]}}
+
+{"concept": "don't", "facet_properties_dict": {"meaning": ["negation", "refusal", "rejection"], "usage": ["in sentences", "in conversation", "in writing"], "function": ["to express opposition", "to indicate absence", "to convey refusal"], "tone": ["formal", "informal", "sarcastic"], "context": ["in everyday life", "in formal speech", "in poetry"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"position": ["in charge", "supreme"], "characteristics": ["authoritative", "confident", "inspiring"], "role": ["decision maker", "guide", "mentor"], "personality traits": ["strong", "assertive", "visionary"], "behaviors": ["leading by example", "making tough decisions", "communicating effectively"], "expectations": ["respect", "obedience", "trust"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"physical location": ["next to", "adjacent to", "near"], "emotional connotation": ["comforting", "reassuring", "trustworthy"], "social relationship": ["friend", "family member", "spouse"], "physical presence": ["visible", "touchable", "perceptible"], "emotional connection": ["close", "intimate", "affectionate"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"type": ["Japanese phrase", "expression", "phrase"], "meaning": ["midsummer", "hot weather", "summer"], "origin": ["Japanese language", "idiomatic expression"], "usage": ["informal", "casual", "everyday"], "associated with": ["summer season", "warm weather", "Japanese culture"]}}
+
+{"concept": "Schrei nach Liebe", "facet_properties_dict": {"movie title": ["German film", "romantic comedy"], "genre": ["romantic comedy", "drama"], "plot": ["story of two people falling in love", "exploration of love and relationships"], "release year": ["1990", "1990s film"], "director": ["Sylvere Clavel"], "main characters": ["Hans Matheson", "Juliane Köhler"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["lesbian", "gay", "homophobia"], "origin": ["German resistance", "homosexual identity"], "design": ["triangle", "pink color"], "meaning": ["symbol of gay pride", "symbol of homophobia"], "culture": ["LGBTQ+", "gay rights movement"], "controversy": ["homophobic connotations", "offensive to some"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"activity": ["exercise", "physical activity", "outdoor game"], "intensity": ["intense", "energetic", "vigorous"], "duration": ["long", "extended", "prolonged"], "physical demand": ["requires strength", "requires endurance", "requires agility"], "mental demand": ["requires focus", "requires concentration", "requires strategy"], "objective": ["win", "achieve goal", "improve performance"], "environment": ["outdoor", "indoor", "field", "court"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"genre": ["music", "rock", "post-punk"], "characteristics": ["angular rhythms", "dissonant harmonies", "minimalist lyrics"], "influences": ["punk", "art rock", "avant-garde"], "emergence": ["late 1970s", "early 1980s"], "notable bands": ["The Police", "The Clash", "Devo"], "cultural significance": ["influence on 1980s pop", "reaction against mainstream rock", "emergence of alternative music"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"event": ["reading", "narration"], "target audience": ["children", "family", "friends"], "setting": ["library", "school", "home"], "activity": ["listening", "participating", "asking questions"], "purpose": ["entertainment", "education", "bonding"], "characteristics": ["interactive", "immersive", "relaxing"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"function": ["make sound", "decorate"], "material": ["metal", "glass", "wood"], "sound": ["ringing", "tinkling"], "shape": ["spherical", "cylindrical"], "size": ["small", "medium", "large"], "placement": ["outdoor", "indoor", "window"], "purpose": ["aesthetics", "relaxation", "good luck"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"category": ["entertainer", "singer", "actress", "songwriter"], "awards": ["Academy Award", "Grammy Award", "Emmy Award"], "music style": ["pop", "jazz", "classical"], "vocal range": ["mezzo-soprano"], "movies": ["What's Up, Doc?", "A Star is Born", "The Prince of Tides"], "personal life": ["married", "divorced", "has children"], "philanthropy": ["supports environmental causes", "supports women's rights"], "professional career": ["active since 1960s", "over 60 albums released"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifferent", "tolerant", "nonchalant"], "situation": ["small inconvenience", "unpleasant event", "minor annoyance"], "response": ["acceptance", "resignation", "apathy"], "person": ["female", "she"], "context": ["everyday life", "personal relationships", "professional settings"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type of catch": ["fish", "fisherman", "angling"], "emotional connotation": ["disappointment", "regret"], "story context": ["fishing trip", "personal experience", "legend"], "motivation": ["perseverance", "remorse"], "common phrase": ["idiomatic expression", "saying", "proverb"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song": ["electronic music", "dance music", "The Prodigy"], "title": ["Smack My Bitch Up"], "genre": ["big beat", "electronic rock"], "release date": ["2001"], "artist": ["The Prodigy"], "lyrics": ["influential", "controversial"], "impact": ["iconic", "groundbreaking"], "criticisms": ["offensive", "racist"], "awards": ["nominated for Grammy"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie": ["romantic drama", "starring Barbra Streisand", "directed by Sydney Pollack"], "plot": ["story of a romance", "set during the 1930s", "about a couple's love affair"], "music": ["features memorable songs", "written by Alan and Marilyn Bergman"], "awards": ["won Academy Award for Best Original Song", "won Academy Award for Best Original Score"], "release year": ["1973"], "genre": ["romantic drama", "historical drama"]}}
+
+{"concept": "The Show Must Go On", "facet_properties_dict": {"song title": ["rock ballad", "Queen's song"], "lyrics": ["about perseverance", "about keeping going"], "release date": ["1991", "from album Innuendo"], "genre": ["rock", "classic rock"], "artist": ["Queen", "Freddie Mercury"], "meaning": ["about the music industry", "about overcoming adversity"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "small", "three digits"], "meaning": ["year", "temperature", "speed limit"], "category": ["year", "temperature", "speed limit", "math"], "origin": ["calendar", "thermometer", "traffic sign"], "usage": ["birthday", "weather forecast", "driving"], "other numbers": ["38", "40", "40s"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "iconic"], "lyrics": ["philosophical", "poetic", "melancholic"], "theme": ["immortality", "longevity", "love"], "genre": ["rock", "classic rock"], "duration": ["4 minutes", "45 seconds"], "album": ["A Night at the Opera"], "released": ["1986"], "chart performance": ["hit single", "top 10"], "awards": ["Grammy nomination"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["rock ballad", "by Queen"], "lyrics": ["asking for everything", "total devotion"], "genre": ["rock", "pop"], "artist": ["Queen"], "album": ["The Works"], "release year": ["1984"], "popularity": ["iconic", "classic"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"phrase": ["idiomatic expression", "metaphorical phrase"], "meaning": ["something going wrong", "unexpected event"], "context": ["business", "life", " politics"], "cause": ["bad management", "poor decision", "unforeseen circumstances"], "effect": ["loss", "damage", "delay"], "example": ["company going bankrupt", "project being delayed", " politician being impeached"]}}
+
+{"concept": "flash", "facet_properties_dict": {"type": ["lightning", "electronic device"], "function": ["produces light", "recharges battery"], "form": ["natural", "portable", "built-in camera"], "use": ["wild weather", "photography", "emergency lighting"], "duration": ["instantaneous", "short-term"], "associated with": ["thunderstorms", "photography equipment", "emergency kit"]}}
+
+{"concept": "save me", "facet_properties_dict": {"meaning": ["request for help", "plea for rescue"], "context": ["emotional distress", "life-threatening situation"], "expression": ["phrase", "expression of desperation"], "actions": ["asking for aid", "seeking assistance"], "emotions": ["desperation", "anxiety", "fear"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["running or moving quickly without looking back", "without hesitation"], "context": ["action", "adverb", "phrase"], "synonyms": ["headfirst", "without pause"], "antonyms": ["hesitantly", "backwardly"], "usage": ["in phrases", "in idioms"], "related concepts": ["impulse", "recklessness", "urgency"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"type": ["public", "private", "politic", "financial"], "cause": ["betrayal", "corruption", "misuse of power", "cover-up"], "consequence": ["loss of reputation", "job loss", "criminal charges", "social unrest"], "characteristics": ["sudden", "unexpected", "shocking", "damaging"], "response": ["denial", "apology", "investigation", "punishment"], "related to": ["power", "money", "influence", "trust"]}}
+
+{"concept": "let me live", "facet_properties_dict": {"song": ["R&B", "hip-hop", "Beyoncé", "2011", "single"], "genre": ["R&B", "hip-hop"], "artist": ["Beyoncé", "Kanye West", "Erykah Badu"], "release date": ["2011", "February"], "chart performance": ["peaked at number one", "Billboard Hot 100"], "lyrics": ["emotional", "heartfelt", "empowering"]}}
+
+{"concept": "aka", "facet_properties_dict": {"definition": ["also known as", "synonym", "equivalent"], "usage": ["in writing", "in conversation", "in formal documents"], "grammar": ["preposition", "phrase", "idiomatic expression"], "example sentences": ["I know him as John.", "She's also known as Jane."]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"song": ["single", "1989", "Madonna"], "genre": ["pop", "rock", "soul"], "lyrics": ["spiritual", "romantic", "inspirational"], "music style": ["danceable", " orchestral", " gospel-influenced"], "chart performance": ["number one", "multi-platinum", "iconic"], "music video": ["iconic", "memorable", "dramatic"], "album": ["Like a Prayer", "commercially successful", "critically acclaimed"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["positive", "strong", "intense"], "nature": ["romantic", "platonic", "selfless"], "expression": ["words", "actions", "gestures"], "types": ["unrequited", "reciprocal", "unconditional"], "feelings": ["warmth", "tenderness", "devotion"], "actions": ["commitment", "sacrifice", "forgiveness"], "aspects": ["romantic love", "parental love", "friendly love"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "video game"], "format": ["new season", "new installment", "new chapter"], "release date": ["soon", "upcoming", "announced"], "plot": ["new storyline", "new characters", "new challenges"], "genre": ["action", "adventure", "drama"], "medium": ["streaming", "TV", "theater"], "anticipation": ["high", "low", "mixed"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"type": ["scientific", "medical", "technological"], "characteristics": ["significant", "groundbreaking", " revolutionary"], "examples": ["discovery of antibiotics", "landing on the moon", "invention of internet"], "process": ["research", "experimentation", "innovation"], "result": ["new knowledge", "new technology", "new treatment"], "importance": ["life-changing", "game-changing", "history-making"]}}
+
+{"concept": "don't", "facet_properties_dict": {"negation": ["opposite of", "contrary to"], "grammar": ["auxiliary verb", "sentence negation"], "meaning": ["absence", "lack of"], "usage": ["in sentence", "in conversation"], "function": ["to deny", "to refuse"], "related concepts": ["yes", "not", "no"]}}
+
+{"concept": "i am your leader", "facet_properties_dict": {"title": ["official", "authoritative", "respected"], "role": ["boss", "head", "chief"], "characteristics": ["confident", "decisive", "inspiring"], "behaviors": ["guiding", "directing", "motivating"], "relationship": ["follower", "subordinate", "colleague"], "responsibilities": ["making decisions", "setting goals", "assigning tasks"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"relationship": ["friendship", "partnership", "love"], "physical presence": ["near", "close", "adjacent"], "emotional connection": ["trust", "loyalty", "support"], "actions": ["supportive", "protective", "encouraging"], "duration": ["long-term", "short-term", "permanent"], "quality": ["strong", "weak", "fragile"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"genre": ["J-pop", "idol music"], "artist": ["Manatsu no Sounds Good!", "AKB48", "Kazumi"], "mood": ["upbeat", "energetic", "fun"], "lyrics": ["inspirational", "empowering", "motivational"], "release date": ["2020", "summer"], "music video": ["colorful", "vibrant", "dance-heavy"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"meaning": ["German phrase", "crying out for love"], "emotional connotation": ["passionate", "intense"], "expression": ["verbal", "non-verbal"], "context": ["romantic relationship", "intimate moment"], "intensity": ["high", "strong"], "connotation": ["positive", "negative"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["homosexuality", "lesbian", "gay rights"], "shape": ["triangle"], "color": ["pink"], "origin": ["HIV/AIDS awareness", "gay community"], "meaning": ["support", "solidarity"], "use": ["symbol", "icon", "badge"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"meaning": ["engage in intense physical activity", "exert oneself with effort"], "context": ["game", "sport", "recreation"], "characteristics": ["energetic", "competitive", "dedicated"], "requirements": ["physical ability", "mental toughness"], "opposite": ["play softly", "be lazy"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"genre": ["music", "rock", "post-punk"], "era": ["1970s", "1980s"], "characteristics": ["synth-heavy", "angular guitar riffs", "lyrics about alienation"], "influenced by": ["krautrock", "art rock", "punk"], "bands": ["The Cure", "Depeche Mode", "The Police"], "cities": ["London", "Paris", "Berlin"], "movement": ["musical", "artistic", "fashion"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"activity": ["reading", "telling"], "target audience": ["children", "adults"], "format": ["oral", "written"], "setting": ["library", "school", "home"], "duration": ["short", "long"], "purpose": ["entertainment", "education", "bonding"], "participants": ["reader", "listener", "storyteller"], "equipment": ["book", "audio equipment", "imagery"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"function": ["make sound", "decorate", "add ambiance"], "material": ["metal", "glass", "wood"], "shape": ["long", "curved", "complex"], "sound": ["tinkling", "ringing", "soothing"], "size": ["small", "medium", "large"], "used for": ["decorating", "making music", "relaxing"], "origin": ["Asian", "European", "American"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"occupation": ["singer", "songwriter", "actress", "film director"], "awards": ["Academy Award", "Golden Globe Award", "Grammy Award"], "voice type": ["mezzo-soprano"], "genre": ["pop", "jazz", "musical theatre"], "notable songs": ["What the World Needs Now Is Love", "The Way We Were", "You Don't Bring Me Flowers"], "filmography": ["What's Up, Doc?", "The Way We Were", "A Star is Born"], "personal life": ["married to Elliott Gould", "married to James Brolin"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifferent", "nonchalant", "unconcerned"], "behavior": ["tolerant", "accommodating", "flexible"], "response to situation": ["accepting", "unfazed", "unbothered"], "person's character": ["easy-going", "laid-back", "relaxed"], "situation": ["small issue", "minor problem", "minor inconvenience"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "opportunity"], "situation": ["fishing", "job interview"], "emotional response": ["disappointment", "regret"], "context": ["fishing trip", "career decision"], "consequences": ["lost catch", "unfulfilled potential"], "duration": ["short-lived", "lasting impact"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song title": ["Smack My Bitch Up", "controversial"], "artist": ["The Prodigy"], "genre": ["electronic", "dance"], "release year": ["1997"], "controversy": ["racist lyrics", "censorship"], "chart performance": ["top 10 in several countries"], "music video": ["features a train", "features a woman"], "album": ["The Fat of the Land"]}}
+
+{"concept": "The Way We Were", "facet_properties_dict": {"movie title": ["The Way We Were", "1963 film"], "genre": ["romantic drama", "biographical drama"], "storyline": ["based on real-life story", "American Jewish woman", "marriage and career"], "main characters": ["Katie Morosky", "Hubbell Gardiner"], "awards": ["won Academy Award", "won Golden Globe Award"], "release year": ["1963"], "director": ["Sydney Pollack"]}}
+
+{"concept": "the show must go on", "facet_properties_dict": {"song": ["rock ballad", "Queen song", "iconic song"], "lyrics": ["persevering through hardship", "continuing despite obstacles"], "meaning": ["overcoming adversity", "persisting in the face of difficulty"], "origin": ["written by Freddie Mercury", "inspired by Queen's tour", "first released in 1991"], "genre": ["rock music", "heavy metal"], "popularity": ["iconic song", "widely known", "often performed live"]}}
+
+{"concept": "39", "facet_properties_dict": {"number": ["odd", "whole"], "type": ["year", "temperature", "grade"], " significance": ["not a leap year", "not a perfect score", "not a special number"], "common associations": ["not a prime number", "not a round number", "not a memorable number"], "used in context": ["age", "score", "temperature reading"], "found in": ["dates", "scores", "thermometers"]}}
+
+{"concept": "Who Wants to Live Forever", "facet_properties_dict": {"song": ["by Queen", "rock ballad", "iconic"], "lyrics": ["philosophical", "poetic", "emotional"], "genre": ["rock", "classical"], "duration": ["4 minutes", "45 seconds"], "released": ["1981", "on album A Kind of Magic"], "popularity": ["hit single", "iconic", "classic"], "meaning": ["longing for eternal life", "questioning mortality", "philosophical"]}}
+
+{"concept": "I Want It All", "facet_properties_dict": {"song": ["by Queen", "rock ballad", " Freddie Mercury"], "lyrics": ["empowering", "confident", "love"], "music genre": ["rock", "classic rock"], "popularity": ["iconic", "anthem", "legendary"], "released": ["1989", "album The Miracle"], "meaning": ["assertive", "self-assertion", "feminist"], "artists": ["Queen", "Freddie Mercury"], "impact": ["cultural", "iconic", "legendary"]}}
+
+{"concept": "hammer to fall", "facet_properties_dict": {"event": ["natural disaster", "unexpected event", "calamity"], "cause": ["gravity", "natural forces", "unstable structure"], "effect": ["destruction", "damage", "chaos"], "location": ["mountain", "building", "tree"], "frequency": ["rare", "unpredictable"], "consequences": ["hazards", "risks", "losses"]}}
+
+{"concept": "flash", "facet_properties_dict": {"type": ["lightning", "photography equipment"], "duration": ["brief", "instantaneous"], "occurrence": ["rare", "natural"], "cause": ["thunderstorm", "camera"], "function": ["provides light", "captures moment"], "form": ["electric arc", "small device"], "used for": ["photography", "scaring away", "warning sign"]}}
+
+{"concept": "save me", "facet_properties_dict": {"meaning": ["rescue", "help", "salvation"], "context": ["emergency", "distress", "danger"], "methods": ["call for help", "send distress signal", "find shelter"], "emotions": ["fear", "desperation", "anxiety"], "actions": ["call emergency services", "seek assistance", "take precautions"]}}
+
+{"concept": "headlong", "facet_properties_dict": {"meaning": ["without looking back", "without hesitation", "without delay"], "direction": ["forward", "downward"], "actions": ["running", "falling", "jumping"], " situations": ["during a chase", "during a fall", "during a jump"], "verbs": ["to headlong", "to fall headlong", "to jump headlong"]}}
+
+{"concept": "scandal", "facet_properties_dict": {"type": ["public", "private", "media", "government"], "nature": ["cover-up", "corruption", "betrayal", "embezzlement"], "cause": ["misconduct", "negligence", "greed", "arrogance"], "effect": ["damage to reputation", "loss of trust", "financial loss", "social unrest"], "response": ["denial", "apology", "investigation", "punishment"], "related to": ["power", "influence", "money", "position"]}}
+
+{"concept": "Let Me Live", "facet_properties_dict": {"song type": ["anthem", "rock song"], "artist": ["Three Days Grace"], "lyrics theme": ["perseverance", "overcoming struggles"], "genre": ["hard rock", "post-grunge"], "popularity": ["well-known", "popular song"], "emotional tone": ["inspiring", "motivational"], "album": ["One-X"]}}
+
+{"concept": "aka...", "facet_properties_dict": {"meaning": ["also known as", "synonym", "alternative name"], "usage": ["in introductions", "in formal writing", "in technical writing"], "format": ["phrase", "expression", "abbreviation"], "function": ["to clarify", "to provide context", "to avoid ambiguity"], "examples": ["e.g. John, also known as Jack", "e.g. 'aka' in a technical paper"], "common usage": ["in formal situations", "in professional writing", "in academic writing"]}}
+
+{"concept": "Like a Prayer", "facet_properties_dict": {"song": ["by Madonna", "released in 1989", "music genre: pop"], "lyrics": ["inspirational", "spiritual", "emotional"], "music style": ["pop", "rock", "R&B"], "chart performance": ["top 10", "US Billboard Hot 100", "worldwide success"], "critical reception": ["positive", "acclaimed", "award-winning"], "music video": ["directed by Spike Lee", "features themes of faith and love"]}}
+
+{"concept": "love", "facet_properties_dict": {"emotion": ["positive", "intense", "warm"], "relationship": ["romantic", "platonic", "familial"], "characteristics": ["selfless", "unconditional", "enduring"], "expression": ["verbal", "nonverbal", "physical"], "types": ["erotic", "unrequited", "unconditional"], "impact": ["transformative", "healing", "painful"], "actions": ["expressed", "returned", "rejected"]}}
+
+{"concept": "next episode", "facet_properties_dict": {"type": ["TV show", "movie", "series"], "genre": ["drama", "comedy", "action"], "storyline": ["cliffhanger", "new plot twist", "character development"], "characters": ["main protagonist", "antagonist", "supporting character"], "release date": ["upcoming", "soon", "not yet announced"], "platform": ["TV", "streaming service", "online"], "expectations": ["excitement", "curiosity", "anticipation"]}}
+
+{"concept": "breakthrough", "facet_properties_dict": {"definition": ["significant discovery", "new development", "major finding"], "field": ["science", "technology", "medicine", "industry"], "characteristics": ["revolutionary", "innovative", "groundbreaking"], "impact": ["changes perspective", "solves problem", "opens new possibilities"], "examples": ["discovery of electricity", "invention of internet", "development of vaccine"], "process": ["research", "experimentation", "testing"], "result": ["new knowledge", "new technology", "new treatment"]}}
+
+{"concept": "don't", "facet_properties_dict": {"meaning": ["negation", "opposite of do"], "usage": ["in sentences", "in conversation", "in writing"], "tone": ["informal", "formal"], "context": ["everyday life", "written communication", "spoken language"], "function": ["to indicate absence", "to indicate refusal"], "examples": ["I don't like it", "Don't do that"]}}
+
+{"concept": "I am your leader", "facet_properties_dict": {"position": ["head", "top", "chief"], "characteristics": ["authoritative", "decisive", "commanding"], "role": ["guide", "director", "controller"], "behaviors": ["making decisions", "giving orders", "setting goals"], "personality": ["confident", "assertive", "persuasive"], "responsibilities": ["making choices", "setting direction", "leading team"]}}
+
+{"concept": "right by my side", "facet_properties_dict": {"relationship": ["friend", "family member", "lover"], "physical presence": ["near me", "next to me", "beside me"], "emotional connection": ["trust", "loyalty", "support"], "actions": ["protecting", "supporting", "caring"], "feelings": ["comfort", "security", "happiness"]}}
+
+{"concept": "manatsu no sounds good!", "facet_properties_dict": {"song": ["Japanese pop song", "upbeat tempo", "catchy melody"], "artist": ["Manatsu no Sounds Good! (MANA)", "Japanese idol group"], "release date": ["2018", "single release"], "genre": ["J-pop", "idol pop"], "lyrics": ["inspirational", "uplifting"], "music video": ["colorful", "dancing"]}}
+
+{"concept": "schrei nach liebe", "facet_properties_dict": {"meaning": ["German phrase", "meaning of love", "expression of love"], "emotional connotation": ["romantic", "passionate", "intimate"], "usage": ["in a song", "in a poem", "in a letter"], "origin": ["German language", "Austrian culture"], "similar concepts": ["love letter", "love poem", "romantic declaration"]}}
+
+{"concept": "pink triangle", "facet_properties_dict": {"symbolism": ["homosexual", "lesbian", "gay pride"], "color": ["pink"], "shape": ["triangle"], "origin": ["Auschwitz concentration camp", "Nazi Germany"], "controversy": ["homophobic", "anti-gay"], "meaning": ["homophobia", "hate"], "context": ["history", "politics", "social issue"]}}
+
+{"concept": "play hard", "facet_properties_dict": {"meaning": ["with intense effort", "with high energy"], "context": ["playing sports", "playing games", "playing rough"], "physical aspect": ["using strength", "using agility"], "mental aspect": ["being focused", "being determined"], "benefits": ["improving skills", "building endurance"], "opposite of": ["play soft", "play gentle"]}}
+
+{"concept": "new wave", "facet_properties_dict": {"genre": ["rock music", "post-punk", "new romantic"], "era": ["late 1970s", "early 1980s"], "characteristics": ["simple melodies", "dissonant harmonies", "syncopated rhythms"], "influences": ["art rock", "punk rock", "french pop"], "bands": ["The Cars", "The Police", "Blondie", "Devo"], "notable artists": ["David Byrne", "Joe Jackson", "Elvis Costello", "Gordon Gano"], "cultural impact": ["influenced mainstream music", "created alternative music scene", "inspired fashion trends"]}}
+
+{"concept": "storytime", "facet_properties_dict": {"type": ["reading session", "narrative"], "purpose": ["entertainment", "education", "social bonding"], "setting": ["library", "school", "home"], "characteristics": ["interactive", "imaginative", "engaging"], "participants": ["children", "parents", "caregivers"], "format": ["oral", "written", "visual"], "duration": ["short", "long", "variable"]}}
+
+{"concept": "wind chimes", "facet_properties_dict": {"material": ["metal", "glass", "wood"], "shape": ["long", "curved", "angular"], "sound": ["melodious", "harsh", "soft"], "function": ["decorative", "musical", "noise-reducing"], "used for": ["home decor", "music", "relaxation"], "attached to": ["tree", "door", "window", "ceiling"], "origin": ["Asian", "European", "American"]}}
+
+{"concept": "Barbra Streisand", "facet_properties_dict": {"occupation": ["singer", "actress", "songwriter", "film director"], "awards": ["Academy Award", "Grammy Award", "American Music Award"], "music style": ["pop", "jazz", "show tunes"], "voice type": ["mezzo-soprano"], "film career": ["successful actress", "directed and starred in films"], "personal life": ["married to Elliott Gould", "married to James Brolin"], "impact on popular culture": ["iconic voice", "influence on other artists"], "record sales": ["over 150 million records sold"]}}
+
+{"concept": "she doesn't mind", "facet_properties_dict": {"attitude": ["indifferent", "nonchalant", "unbothered"], "reaction": ["no reaction", "no fuss", "no complaint"], "person": ["woman", "girl", "lady"], "situation": ["small problem", "minor issue", "small annoyance"], "context": ["daily life", "personal relationship", "social situation"], "connotation": ["positive", "relaxed", "easy-going"]}}
+
+{"concept": "the one that got away", "facet_properties_dict": {"type": ["fish", "catch", "angler's tale"], "location": ["water", "ocean", "lake"], "characteristics": ["big", "strong", "elusive"], "feeling": ["sadness", "disappointment", "regret"], "storytelling": ["tall tale", "legend", "myth"], "importance": ["symbolic", "emotional", "meaningful"]}}
+
+{"concept": "Smack My Bitch Up", "facet_properties_dict": {"song": ["by The Prodigy", "electronic music", "popular song"], "title": ["Smack My Bitch Up"], "lyrics": ["controversial", "offensive"], "genre": ["electronic", "dance"], "release date": ["2001"], "artist": ["The Prodigy"], "controversy": ["censorship", "public backlash"]}}
+
+{"concept": "the way we were", "facet_properties_dict": {"movie": ["romantic drama", "starring Robert Redford", "starring Barbra Streisand"], "plot": ["about a couple's relationship", "about a lost love", "about a past romance"], "genre": ["romance", "drama", "melodrama"], "released": ["1973", "by Paramount Pictures"], "awards": ["won 2 Oscars", "won 1 Golden Globe"], "critic reviews": ["generally positive", "critically acclaimed"]}}

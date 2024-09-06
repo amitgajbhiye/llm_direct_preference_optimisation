@@ -668,3 +668,7 @@ src/facet_property_clustering.py
 
 python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/5_llama3_1inc_wikidata_repeat_10.json
 
++++++++++++++++++++++
+Wikifiles parsed upto date: 6th Sept 2024:
+['facet_property_songs_lyrics by_Brian May_dataset.txt', 'facet_property_songs_composer_Karl Martin_dataset.txt', 'facet_property_mountains_mountain range_Andes_dataset.txt', 'facet_property_politicians_award received_Grand Cross of the Legion of Honour_dataset.txt', 'facet_property_games_uses_isometric view_dataset.txt', 'facet_property_songs_has characteristic_debut single_dataset.txt', 'facet_property_mountains_continent_Asia_dataset.txt', 'facet_property_games_platform_Xbox 360_dataset.txt', 'facet_property_games_software engine_Unreal Engine 3_dataset.txt', 'facet_property_mountains_parent peak_Finsteraarhorn_dataset.txt', 'facet_property_humans_record label_Columbia Records_dataset.txt', 'facet_property_games_game mode_single-player video game_dataset.txt', 'facet_property_cathedrals_architectural style_Gothic architecture_dataset.txt', 'facet_property_humans_has works in the collection_Victoria and Albert Museum_dataset.txt']
++++++++++++++++++++++++++++
