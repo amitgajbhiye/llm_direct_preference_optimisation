@@ -66,7 +66,10 @@ def get_wikidata_facet_colon(wikidata_file):
 
 
 wikidata_facet_prop = "data/wikidata_facet_prop/*_parsed_all_cols.tsv"
-facet_colon_property_files = list(glob(wikidata_facet_prop))[0]
+# facet_colon_property_files = glob(wikidata_facet_prop)
+facet_colon_property_files = [
+    "data/wikidata_facet_prop/facet_property_cathedrals_architectural style_Gothic architecture_dataset_parsed_all_cols.tsv"
+]
 
 print(f"wikidata_files")
 print(f"{facet_colon_property_files}")
