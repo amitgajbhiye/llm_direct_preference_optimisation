@@ -18,6 +18,6 @@
 
 conda activate venv
 
-python3 src/facet_property_clustering.py --config_file configs/clustering/13_all_wikidata_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10.json
+python3 src/wikidata_facet_property_clustering.py --config_file configs/clustering/13_all_wikidata_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10.json
 
 echo 'Job Finished !!!'
