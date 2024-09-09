@@ -424,7 +424,9 @@ if __name__ == "__main__":
     for embed_file in embed_files:
 
         logger.info(f"clustering_embedding_file: {embed_file}")
-        config["embedding_file"] = embed_file
+
+        embed_file_path = os.path.join(wikidata_embedding_dir, embed_file)
+        config["embedding_file"] = embed_file_path
         config["clusters_output_file"] = embed_file.replace(".pkl", "")
 
         clustered_file = affinity_propagation_clustering(config=config)
