@@ -459,7 +459,7 @@ if __name__ == "__main__":
         abs_path_taxo_file = os.path.join(wikidata_gold_taxo_dir, taxo_file)
 
         output_dir = config["output_dir"]
-        output_file = os.path(output_dir, taxo_file)
+        output_file = os.path.join(output_dir, taxo_file.replace(".csv", ".txt"))
 
         logger.info(f"taxo_file: {taxo_file}")
         logger.info(f"abs_path_taxo_file: {abs_path_taxo_file}")
