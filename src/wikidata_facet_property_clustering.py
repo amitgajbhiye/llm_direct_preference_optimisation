@@ -65,12 +65,12 @@ def affinity_propagation_clustering(config):
 
     df.to_csv(f"{clustered_file_name}.txt", sep="\t", index=False, encoding="utf-8")
 
-    with open(f"{clustered_file_name}.pkl", "wb") as pkl_out:
-        pickle.dump(prop_cluster_list, pkl_out)
+    # with open(f"{clustered_file_name}.pkl", "wb") as pkl_out:
+    #     pickle.dump(prop_cluster_list, pkl_out)
 
     logger.info(f"clustering_done!!!")
     logger.info(f"text_clustered_file_saved at: {clustered_file_name}.txt")
-    logger.info(f"pkl_clustered_file_saved at: {clustered_file_name}.pkl")
+    # logger.info(f"pkl_clustered_file_saved at: {clustered_file_name}.pkl")
 
     return f"{clustered_file_name}.txt"
 
