@@ -18,7 +18,7 @@
 
 {"concept": "Lonquimay", "facet_properties_dict": {"location": ["Chile", "Arica y Parinacota Region", "Andes Mountains"], "mountain": ["active volcano", "snow-capped"], "elevation": ["5,500 meters"], "geography": ["mountain range", "ridge"], "culture": ["Indigenous people", "traditional practices"]}}
 
-{"concept": "domuyo", "facet_properties_dict": {"category": ["animal", "mammal", "insectivore"], "habitat": ["rainforest", "tropical forest"], "size": ["small", "medium"], "diet": ["insects", "fruits", "small vertebrates"], "behavior": ["nocturnal", "solitary", "climbing"], "conservation status": ["endangered", "vulnerable"], "location": ["Central and South America", "Mexico", "Costa Rica"]}
+{"concept": "domuyo", "facet_properties_dict": {"category": ["animal", "mammal", "insectivore"], "habitat": ["rainforest", "tropical forest"], "size": ["small", "medium"], "diet": ["insects", "fruits", "small vertebrates"], "behavior": ["nocturnal", "solitary", "climbing"], "conservation status": ["endangered", "vulnerable"], "location": ["Central and South America", "Mexico", "Costa Rica"]}}
 
 {"concept": "Antofalla", "facet_properties_dict": {"geography": ["mountain range", "andes", "argentina"], "height": ["6400 meters", "mountain peak"], "location": ["argentine-chilean border", "andes mountains"], "formation": ["volcanic", "igneous"], "distinctive feature": ["glaciers", "snowy peaks"]}}
 
@@ -218,7 +218,7 @@
 
 {"concept": "Antofalla", "facet_properties_dict": {"geography": ["mountain range", "Andes", "Argentina", "Chile"], "height": ["6,300 meters", "mountain peak"], "location": ["Andes mountain range", "border of Argentina and Chile"], "type": ["mountain range", "volcanic range"], "features": ["mountain peaks", "glaciers", "volcanic activity"]}}
 
-{"concept": "acamarachi", "facet_properties_dict": {"category": ["mythical creature", "legendary being"], "description": ["small, mischievous, winged"], "habitat": ["forests", "mountains"], "powers": ["can grant wishes", "can manipulate nature"], "origin": ["South American folklore"], "symbolism": ["good luck", "protection"], "popularity": ["rarely mentioned", "unknown outside of folklore"]}
+{"concept": "acamarachi", "facet_properties_dict": {"category": ["mythical creature", "legendary being"], "description": ["small, mischievous, winged"], "habitat": ["forests", "mountains"], "powers": ["can grant wishes", "can manipulate nature"], "origin": ["South American folklore"], "symbolism": ["good luck", "protection"], "popularity": ["rarely mentioned", "unknown outside of folklore"]}}
 
 {"concept": "acotango", "facet_properties_dict": {"definition": ["a type of dance", "a fusion of tango and acrobatics"], "origin": ["Argentina", "South America"], "characteristics": ["dynamic", "energetic", "aerial"], "performers": ["dancers", "acrobats"], "equipment": ["music", "costumes"], "popularity": ["growing", "increasingly popular"], "related to": ["tango", "acrobatics", "theater"]}}
 
@@ -350,7 +350,7 @@
 
 {"concept": "ras dashen", "facet_properties_dict": {"category": ["spice", "herb", "ingredient"], "origin": ["Ethiopia", "African"], "smell": ["pungent", "aromatic"], "taste": ["bitter", "spicy"], "used in": ["Ethiopian cuisine", "stews", "wats", "curries"], "appearance": ["dark brown", "crushed"], "function": ["flavor enhancer", "preservative"], "preparation": ["roasted", "ground"]}}
 
-{"concept": "Wissigstock", "facet_properties_dict": {"category": ["type of cheese", "German cheese"], "origin": ["Germany"], "taste": ["strong", "pungent", "sharp"], "texture": ["firm", "crumbly"], "used for": ["grating", "shredding", "making salads"], "production process": ["aged", "fermented", "pasteurized"], "nutrition": ["high in protein", "rich in calcium"]}
+{"concept": "Wissigstock", "facet_properties_dict": {"category": ["type of cheese", "German cheese"], "origin": ["Germany"], "taste": ["strong", "pungent", "sharp"], "texture": ["firm", "crumbly"], "used for": ["grating", "shredding", "making salads"], "production process": ["aged", "fermented", "pasteurized"], "nutrition": ["high in protein", "rich in calcium"]}}
 
 {"concept": "Ulrichsberg", "facet_properties_dict": {"location": ["Austria", "town", "mountainous region"], "elevation": ["1,637 meters", "mountain peak"], "population": ["few thousand people"], "known for": ["skiing", "hiking", "scenic views"], "features": ["mountain lake", "waterfalls", "hiking trails"]}}
 
@@ -702,7 +702,7 @@
 
 {"concept": "zuckerhütl", "facet_properties_dict": {"category": ["mountain", "peak", "landmark"], "location": ["Austria", "Tyrol"], "elevation": ["2,694 meters", "above sea level"], "difficulty": ["challenging climb", "experienced hikers"], "views": ["panoramic views", "surrounding mountains"], "popular for": ["hiking", "mountain climbing", "scenic views"]}}
 
-{"concept": "hockenhorn", "facet_properties_dict": {"type": ["musical instrument", "brass instrument"], "sound": ["brassy", "loud"], "usage": ["orchestra", "concert", "recital"], "appearance": ["long", "curved"], "player": ["musician", "orchestra member"], "origin": ["Germany", "Europe"], "similar to": ["trumpet", "French horn"]}
+{"concept": "hockenhorn", "facet_properties_dict": {"type": ["musical instrument", "brass instrument"], "sound": ["brassy", "loud"], "usage": ["orchestra", "concert", "recital"], "appearance": ["long", "curved"], "player": ["musician", "orchestra member"], "origin": ["Germany", "Europe"], "similar to": ["trumpet", "French horn"]}}
 
 {"concept": "Mount Constance", "facet_properties_dict": {"location": ["Rocky Mountains", "Colorado", "USA"], "elevation": ["14,000 feet"], "peak": ["summit"], "type": ["mountain"], "difficulty": ["climbing"], "route": ["rocky terrain"], "scenic views": ["panoramic views"], "hiking trail": ["trekking route"]}}
 
@@ -838,7 +838,7 @@
 
 {"concept": "jach'a waracha", "facet_properties_dict": {"type": ["pepper", "spicy food"], "origin": ["Bolivia", "South America"], "color": ["red", "orange"], "taste": ["spicy", "pungent"], "used for": ["adding flavor", "making dishes", "enhancing taste"], "cultural significance": ["important in Bolivian cuisine", "symbol of hospitality"], "preparation": ["roasting", "drying", "grinding"]}}
 
-{"concept": "Wayna Khunu Qullu", "facet_properties_dict": {"geography": ["mountain", "Andes", "Bolivia", "South America"], "elevation": ["5,991 meters"], "location": ["La Paz Department", "Bolivian Andes"], "notable for": ["peak climbing", "scenic views", "remote location"], "related to": ["Cotopaxi", "Illimani", "Bolivian geography"]}
+{"concept": "Wayna Khunu Qullu", "facet_properties_dict": {"geography": ["mountain", "Andes", "Bolivia", "South America"], "elevation": ["5,991 meters"], "location": ["La Paz Department", "Bolivian Andes"], "notable for": ["peak climbing", "scenic views", "remote location"], "related to": ["Cotopaxi", "Illimani", "Bolivian geography"]}}
 
 {"concept": "jachacunocollo", "facet_properties_dict": {"does not exist": ["no such thing", "not a real word", "not recognized"]}}
 
@@ -1672,7 +1672,7 @@
 
 {"concept": "dent de jaman", "facet_properties_dict": {"category": ["mountain", "peak", "landform"], "location": ["France", "French Alps", "Europe"], "height": ["elevation above sea level"], "difficulty": ["challenging climb", "technical climbing"], "views": ["scenic views", "panoramic views"], "weather": ["snowy", "windy", "cold"]}}
 
-{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}
+{"concept": "banana", "facet_properties_dict": {"category": ["fruit", "healthy snack", "food"], "color": ["yellow", "green"], "shape": ["curved"], "taste": ["sweet"], "nutritional content": ["rich in potassium", "high in sugar"], "used for": ["healthy snack", "making cakes", "making smoothie"], "located at": ["banana tree", "supermarket", "fridge", "fruit bowl"]}}
 
 {"concept": "zirbitzkogel", "facet_properties_dict": {"geography": ["mountain", "Austria", "Graubünden"], "height": ["2,396 meters"], "location": ["Central Eastern Alps"], "type": ["peak", "mountain peak"], "notable for": ["scenic views", "hiking trails", "snowshoeing"], "difficulty": ["challenging climb", "steep terrain"], "reached by": ["hiking", "cable car", "mountain lift"]}}
 

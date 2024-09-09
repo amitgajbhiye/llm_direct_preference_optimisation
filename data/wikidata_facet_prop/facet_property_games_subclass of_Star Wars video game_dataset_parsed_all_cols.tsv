@@ -1,0 +1,1666 @@
+concept	facet	property	facet_property
+star wars: the empire strikes back	actors	mark hamill	actors: mark hamill
+star wars: the empire strikes back	actors	harrison ford	actors: harrison ford
+star wars: the empire strikes back	actors	carrie fisher	actors: carrie fisher
+star wars: x-wing vs. tie fighter	aircraft	fighter	aircraft: fighter
+star wars: x-wing	aircraft	fighter	aircraft: fighter
+star wars: x-wing vs. tie fighter	aircraft	starfighter	aircraft: starfighter
+star wars: x-wing vs. tie fighter	aircraft	fighter jet	aircraft: fighter jet
+star wars: x-wing vs. tie fighter	aircraft	high-tech	aircraft: high-tech
+star wars: x-wing	aircraft	spacecraft	aircraft: spacecraft
+star wars: x-wing vs. tie fighter	aircraft	spacecraft	aircraft: spacecraft
+star wars: x-wing	aircraft	fast	aircraft: fast
+star wars: x-wing vs. tie fighter	appearance	x-wing: wing-shaped	appearance: x-wing: wing-shaped
+star wars: x-wing	appearance	silver	appearance: silver
+star wars: x-wing	appearance	red	appearance: red
+star wars: x-wing vs. tie fighter	appearance	shiny	appearance: shiny
+star wars: x-wing vs. tie fighter	appearance	scaly	appearance: scaly
+star wars: x-wing vs. tie fighter	appearance	tie fighter: no wings	appearance: tie fighter: no wings
+star wars: x-wing vs. tie fighter	appearance	tie fighter: spherical	appearance: tie fighter: spherical
+star wars: x-wing	appearances	tv shows	appearances: tv shows
+star wars: x-wing	appearances	star wars films	appearances: star wars films
+star wars: x-wing	appearances	video games	appearances: video games
+star wars: x-wing	armament	laser cannons	armament: laser cannons
+star wars: x-wing	armament	proton torpedoes	armament: proton torpedoes
+star wars: x-wing vs. tie fighter	armament	blasters	armament: blasters
+starfighter	armament	laser cannons	armament: laser cannons
+star wars: x-wing	armament	torpedoes	armament: torpedoes
+starfighter	armament	missiles	armament: missiles
+star wars: x-wing vs. tie fighter	armament	missiles	armament: missiles
+star wars: x-wing vs. tie fighter	armament	laser cannons	armament: laser cannons
+star wars: x-wing vs. tie fighter	armament	torpedoes	armament: torpedoes
+star wars: x-wing	armament	missiles	armament: missiles
+x-wing	armament	laser cannons	armament: laser cannons
+x-wing	armament	torpedoes	armament: torpedoes
+starfighter	armament	torpedoes	armament: torpedoes
+star wars: x-wing vs. tie fighter	armament	laser cannon	armament: laser cannon
+star wars trilogy arcade	available at	online	available at: online
+star wars trilogy arcade	available at	retail stores	available at: retail stores
+star wars trilogy arcade	available at	arcade centers	available at: arcade centers
+star wars: return of the jedi	award	academy award for best visual effects	award: academy award for best visual effects
+the empire strikes back	award	academy award nomination	award: academy award nomination
+star wars: rebel assault	award	best space combat game	award: best space combat game
+star wars: the empire strikes back	award	academy award nomination for best sound	award: academy award nomination for best sound
+super star wars: return of the jedi	award	academy award nomination	award: academy award nomination
+star wars: the empire strikes back	award	academy award nomination	award: academy award nomination
+star wars: the empire strikes back	awards	bafta award for best special visual effects	awards: bafta award for best special visual effects
+star wars: return of the jedi	awards	positive reviews	awards: positive reviews
+star wars: return of the jedi	awards	won academy award	awards: won academy award
+star wars: the empire strikes back	awards	academy award nomination for best sound	awards: academy award nomination for best sound
+star wars: return of the jedi	awards	bafta award nomination	awards: bafta award nomination
+star wars: return of the jedi	awards	bafta award for best special visual effects	awards: bafta award for best special visual effects
+star wars: racer	awards	best racing game	awards: best racing game
+star wars: x-wing alliance	awards	won several awards	awards: won several awards
+the empire strikes back	awards	critical acclaim	awards: critical acclaim
+star wars: return of the jedi	awards	academy award for best visual effects	awards: academy award for best visual effects
+the empire strikes back	awards	bafta award	awards: bafta award
+star wars: the empire strikes back	awards	bafta award nomination	awards: bafta award nomination
+star wars: x-wing alliance	awards	including game of the year	awards: including game of the year
+star wars: return of the jedi	awards	academy award nominations	awards: academy award nominations
+star wars: racer	awards	game of the year	awards: game of the year
+star wars: return of the jedi	awards	academy award nomination	awards: academy award nomination
+the empire strikes back	awards	academy award nomination	awards: academy award nomination
+star wars: the empire strikes back	awards	academy award nomination	awards: academy award nomination
+star wars: return of the jedi	awards	bafta award for best sound	awards: bafta award for best sound
+star wars: the empire strikes back	awards and recognition	high grossing	awards and recognition: high grossing
+star wars: the empire strikes back	awards and recognition	critical acclaim	awards and recognition: critical acclaim
+star wars: racer	based on	star wars	based on: star wars
+star wars: racer	based on	podracing	based on: podracing
+star wars: racer arcade	based on	star wars franchise	based on: star wars franchise
+star wars: x-wing vs. tie fighter	battle	space battle	battle: space battle
+star wars: x-wing vs. tie fighter	battle	rebel victory	battle: rebel victory
+star wars: x-wing vs. tie fighter	battle	empire defeat	battle: empire defeat
+star wars: x-wing vs. tie fighter	battle	dogfight	battle: dogfight
+star wars: return of the jedi	box office	highly successful	box office: highly successful
+star wars: return of the jedi	box office	biggest box office hit	box office: biggest box office hit
+star wars: return of the jedi	box office	highest grossing film in 1983	box office: highest grossing film in 1983
+star wars: return of the jedi	box office	highest-grossing film of 1983	box office: highest-grossing film of 1983
+star wars: return of the jedi	box office	commercial success	box office: commercial success
+super star wars: return of the jedi	box office	commercial success	box office: commercial success
+star wars: return of the jedi	box office performance	highly successful	box office performance: highly successful
+star wars: return of the jedi	box office performance	third highest-grossing film of 1983	box office performance: third highest-grossing film of 1983
+tamagotchi	care and maintenance	cleaning	care and maintenance: cleaning
+tamagotchi	care and maintenance	sleeping	care and maintenance: sleeping
+tamagotchi	care and maintenance	playing	care and maintenance: playing
+tamagotchi	care and maintenance	feeding	care and maintenance: feeding
+tamagotchi	care level	happy	care level: happy
+tamagotchi	care level	tired	care level: tired
+tamagotchi	care level	bored	care level: bored
+tamagotchi	care level	hungry	care level: hungry
+tamagotchi	care requirements	sleeping	care requirements: sleeping
+tamagotchi	care requirements	playing	care requirements: playing
+tamagotchi	care requirements	feeding	care requirements: feeding
+super star wars	category	retro game	category: retro game
+super star wars	category	arcade game	category: arcade game
+starfighter	category	military	category: military
+super star wars	category	racing game	category: racing game
+starfighter	category	military equipment	category: military equipment
+starfighter	category	fictional	category: fictional
+super star wars	category	video game	category: video game
+starfighter	category	military vehicle	category: military vehicle
+star wars: x-wing	category	spacecraft	category: spacecraft
+starfighter	category	vehicle	category: vehicle
+star wars: x-wing	category	starfighter	category: starfighter
+star wars: x-wing	category	fighter	category: fighter
+starfighter	category	spacecraft	category: spacecraft
+star wars: return of the jedi	character development	vader's redemption	character development: vader's redemption
+star wars: return of the jedi	character development	leia's leadership	character development: leia's leadership
+star wars: return of the jedi	character development	han's redemption	character development: han's redemption
+star wars: return of the jedi	character development	luke's journey to become a jedi	character development: luke's journey to become a jedi
+tamagotchi	characteristic	needs care	characteristic: needs care
+tamagotchi	characteristic	digital pet	characteristic: digital pet
+starfighter	characteristics	high-tech	characteristics: high-tech
+tamagotchi	characteristics	dependent on care	characteristics: dependent on care
+tamagotchi	characteristics	adorable	characteristics: adorable
+tamagotchi	characteristics	can get sick	characteristics: can get sick
+tamagotchi	characteristics	cute	characteristics: cute
+starfighter	characteristics	highly advanced	characteristics: highly advanced
+tamagotchi	characteristics	needs feeding	characteristics: needs feeding
+tamagotchi	characteristics	needs attention	characteristics: needs attention
+tamagotchi	characteristics	can die	characteristics: can die
+star wars: x-wing vs. tie fighter	characteristics	agile	characteristics: agile
+star wars: x-wing vs. tie fighter	characteristics	tie fighter: mass-produced	characteristics: tie fighter: mass-produced
+star wars: x-wing vs. tie fighter	characteristics	x-wing: unique design	characteristics: x-wing: unique design
+super star wars	characteristics	space-themed	characteristics: space-themed
+starfighter	characteristics	powerful	characteristics: powerful
+starfighter	characteristics	maneuverable	characteristics: maneuverable
+x-wing	characteristics	advanced technology	characteristics: advanced technology
+star wars: x-wing vs. tie fighter	characteristics	highly destructive	characteristics: highly destructive
+x-wing	characteristics	powerful	characteristics: powerful
+starfighter	characteristics	fast	characteristics: fast
+super star wars	characteristics	high score	characteristics: high score
+starfighter	characteristics	agile	characteristics: agile
+starfighter	characteristics	deadly	characteristics: deadly
+star wars: x-wing vs. tie fighter	characteristics	armored	characteristics: armored
+star wars: x-wing vs. tie fighter	characteristics	powerful	characteristics: powerful
+star wars: x-wing vs. tie fighter	characteristics	maneuverable	characteristics: maneuverable
+tamagotchi	characteristics	can be hungry	characteristics: can be hungry
+tamagotchi	characteristics	can be sad	characteristics: can be sad
+x-wing	characteristics	fast	characteristics: fast
+tamagotchi	characteristics	can be happy	characteristics: can be happy
+super star wars: return of the jedi	characters	princess leia	characters: princess leia
+super star wars: return of the jedi	characters	han solo	characters: han solo
+super star wars: return of the jedi	characters	luke skywalker	characters: luke skywalker
+star wars: racer	characters	characters from star wars	characters: characters from star wars
+star wars: racer	characters	pilots	characters: pilots
+the empire strikes back	characters	leia organa	characters: leia organa
+star wars: the empire strikes back	characters	han solo	characters: han solo
+star wars: the empire strikes back	characters	luke skywalker	characters: luke skywalker
+return of the jedi: death star battle	characters	imperial forces	characters: imperial forces
+super star wars: return of the jedi	characters	darth vader	characters: darth vader
+star wars: the empire strikes back	characters	leia organa	characters: leia organa
+return of the jedi: death star battle	characters	rebels	characters: rebels
+super star wars	characters	princess leia	characters: princess leia
+star wars: the empire strikes back	characters	yoda	characters: yoda
+star wars trilogy arcade	characters	luke skywalker	characters: luke skywalker
+star wars trilogy arcade	characters	han solo	characters: han solo
+star wars trilogy arcade	characters	darth vader	characters: darth vader
+star wars: return of the jedi	characters	han solo	characters: han solo
+star wars: return of the jedi	characters	princess leia	characters: princess leia
+star wars: return of the jedi	characters	lando calrissian	characters: lando calrissian
+star wars arcade	characters	darth vader	characters: darth vader
+the empire strikes back	characters	princess leia	characters: princess leia
+the empire strikes back	characters	yoda	characters: yoda
+star wars: return of the jedi	characters	luke skywalker	characters: luke skywalker
+star wars: return of the jedi	characters	darth vader	characters: darth vader
+star wars: return of the jedi	characters	yoda	characters: yoda
+star wars: return of the jedi	characters	emperor palpatine	characters: emperor palpatine
+star wars	characters	darth vader	characters: darth vader
+star wars	characters	leia organa	characters: leia organa
+star wars	characters	han solo	characters: han solo
+star wars	characters	luke skywalker	characters: luke skywalker
+return of the jedi: death star battle	characters	emperor palpatine	characters: emperor palpatine
+return of the jedi: death star battle	characters	r2-d2	characters: r2-d2
+return of the jedi: death star battle	characters	chewbacca	characters: chewbacca
+star wars: racer	characters	pole position	characters: pole position
+star wars: racer	characters	sebulba	characters: sebulba
+star wars: racer	characters	anakin skywalker	characters: anakin skywalker
+star wars: the empire strikes back	characters	darth vader	characters: darth vader
+star wars: return of the jedi	characters	leia organa	characters: leia organa
+return of the jedi: death star battle	characters	han solo	characters: han solo
+return of the jedi: death star battle	characters	princess leia	characters: princess leia
+return of the jedi: death star battle	characters	darth vader	characters: darth vader
+super star wars	characters	han solo	characters: han solo
+super star wars	characters	luke skywalker	characters: luke skywalker
+star wars	characters	jedi	characters: jedi
+return of the jedi: death star battle	characters	luke skywalker	characters: luke skywalker
+the empire strikes back	characters	han solo	characters: han solo
+return of the jedi: death star battle	characters	c-3po	characters: c-3po
+the empire strikes back	characters	luke skywalker	characters: luke skywalker
+star wars: racer	characters	spaceships	characters: spaceships
+star wars: racer	characters	rivals	characters: rivals
+return of the jedi: death star battle	characters	leia organa	characters: leia organa
+star wars: return of the jedi	characters	chewbacca	characters: chewbacca
+star wars arcade	characters	luke skywalker	characters: luke skywalker
+star wars arcade	characters	han solo	characters: han solo
+star wars arcade	characters	x-wing pilot	characters: x-wing pilot
+star wars: return of the jedi	characters	c-3po	characters: c-3po
+star wars arcade	characters	x-wing	characters: x-wing
+star wars: return of the jedi	characters	r2-d2	characters: r2-d2
+return of the jedi: death star battle	characters	princess padmé	characters: princess padmé
+star wars: racer	characters	star wars characters	characters: star wars characters
+the empire strikes back	characters	darth vader	characters: darth vader
+star wars: x-wing alliance	characters	luke skywalker	characters: luke skywalker
+star wars: x-wing alliance	characters	han solo	characters: han solo
+star wars: x-wing alliance	characters	pilots	characters: pilots
+star wars trilogy arcade	characters	x-wing pilot	characters: x-wing pilot
+the empire strikes back	characters	emperor palpatine	characters: emperor palpatine
+star wars: the empire strikes back	characters	princess leia	characters: princess leia
+star wars arcade	characters and enemies	darth vader	characters and enemies: darth vader
+star wars arcade	characters and enemies	x-wing	characters and enemies: x-wing
+star wars arcade	characters and enemies	luke skywalker	characters and enemies: luke skywalker
+star wars arcade	characters and enemies	tie fighters	characters and enemies: tie fighters
+star wars trilogy arcade	control method	joystick	control method: joystick
+star wars trilogy arcade	control method	button	control method: button
+star wars trilogy arcade	control method	pedal	control method: pedal
+star wars trilogy arcade	controls	joystick	controls: joystick
+star wars trilogy arcade	controls	buttons	controls: buttons
+star wars trilogy arcade	controls	paddle	controls: paddle
+star wars	creator	george lucas	creator: george lucas
+star wars	creator	lucasfilm	creator: lucasfilm
+star wars	creators	disney	creators: disney
+star wars	creators	lucasfilm	creators: lucasfilm
+star wars	creators	george lucas	creators: george lucas
+starfighter	design	sleek	design: sleek
+starfighter	design	angular	design: angular
+star wars: x-wing vs. tie fighter	design	streamlined	design: streamlined
+star wars: x-wing vs. tie fighter	design	canon	design: canon
+star wars: x-wing vs. tie fighter	design	curved wings	design: curved wings
+star wars: x-wing	design	agile	design: agile
+star wars: x-wing vs. tie fighter	design	long range	design: long range
+star wars: x-wing	design	wing-shaped	design: wing-shaped
+star wars: x-wing vs. tie fighter	design	laser cannons	design: laser cannons
+star wars: x-wing	design	multi-part	design: multi-part
+star wars: x-wing	design	shielded	design: shielded
+star wars: x-wing	design	triple laser cannons	design: triple laser cannons
+starfighter	design	agile	design: agile
+star wars: x-wing vs. tie fighter	design	aggressive design	design: aggressive design
+star wars: x-wing vs. tie fighter	design	cockpit	design: cockpit
+star wars: x-wing	design	double cockpit	design: double cockpit
+star wars: x-wing	design	angular	design: angular
+star wars: x-wing	design	maneuverable	design: maneuverable
+star wars: x-wing	design	highly customizable	design: highly customizable
+starfighter	design	maneuverable	design: maneuverable
+star wars: x-wing	design	aggressive	design: aggressive
+starfighter	design	bulky	design: bulky
+star wars: x-wing	design	aggressive appearance	design: aggressive appearance
+x-wing	design	triple-wing	design: triple-wing
+star wars: x-wing	design	angular design	design: angular design
+star wars: x-wing	design	unique shape	design: unique shape
+starfighter	design	streamlined	design: streamlined
+starfighter	design	aggressive	design: aggressive
+starfighter	design	defensive	design: defensive
+star wars: x-wing vs. tie fighter	design	agile	design: agile
+star wars: x-wing	design	swooping design	design: swooping design
+star wars: x-wing vs. tie fighter	design	armored	design: armored
+star wars: x-wing vs. tie fighter	design	sharp edges	design: sharp edges
+starfighter	design	aerodynamic	design: aerodynamic
+star wars: x-wing vs. tie fighter	design	angular	design: angular
+x-wing	design	highly maneuverable	design: highly maneuverable
+star wars: x-wing	design	curved wings	design: curved wings
+star wars: x-wing vs. tie fighter	design	sleek	design: sleek
+x-wing	design	wing-shaped	design: wing-shaped
+x-wing	design	agile	design: agile
+star wars: x-wing vs. tie fighter	design	curved	design: curved
+star wars: x-wing	design	high-tech	design: high-tech
+star wars: x-wing vs. tie fighter	design	x-shaped	design: x-shaped
+star wars: x-wing alliance	developed by	lucasarts	developed by: lucasarts
+star wars: x-wing alliance	developed by	kamikaze	developed by: kamikaze
+super star wars	developed by	leland	developed by: leland
+star wars: x-wing alliance	developed by	empire interactive	developed by: empire interactive
+super star wars	developed by	krust	developed by: krust
+super star wars	developed by	lucasarts	developed by: lucasarts
+star wars: rebel assault	developer	lucasarts	developer: lucasarts
+star wars: x-wing alliance	developer	kesmai productions	developer: kesmai productions
+star wars: rebel assault	developer	presto studios	developer: presto studios
+super star wars	developer	electronic arts	developer: electronic arts
+star wars: racer	developer	pitfall	developer: pitfall
+star wars: racer	developer	lucasarts	developer: lucasarts
+star wars: racer	developer	pandemic studios	developer: pandemic studios
+super star wars	developer	lucasarts	developer: lucasarts
+star wars: rebel assault	developer	pony inc.	developer: pony inc.
+star wars: racer	developer	realtime	developer: realtime
+star wars: x-wing alliance	developer	lucasarts	developer: lucasarts
+star wars: x-wing alliance	developer	kunio komamura	developer: kunio komamura
+star wars trilogy arcade	developer	parker brothers	developer: parker brothers
+super star wars	developer	lambert	developer: lambert
+star wars: x-wing alliance	developer	total animation	developer: total animation
+star wars: x-wing alliance	developer	totally games	developer: totally games
+star wars arcade	developer	lucasarts	developer: lucasarts
+star wars arcade	developer	parker brothers	developer: parker brothers
+star wars: x-wing alliance	developer	krome studios	developer: krome studios
+star wars: racer	developer	pixcel	developer: pixcel
+star wars: racer arcade	developer	lucasarts	developer: lucasarts
+star wars: racer arcade	developer	pandemic studios	developer: pandemic studios
+star wars arcade	developer	namco	developer: namco
+star wars trilogy arcade	developer	lucasarts	developer: lucasarts
+super star wars	developer	konami	developer: konami
+star wars: x-wing alliance	developers	lucasarts	developers: lucasarts
+star wars: x-wing alliance	developers	kamikaze	developers: kamikaze
+star wars: rebel assault	developers	saffire corporation	developers: saffire corporation
+star wars: rebel assault	developers	lucasarts	developers: lucasarts
+star wars trilogy arcade	developers	parker brothers	developers: parker brothers
+star wars trilogy arcade	developers	lucasarts	developers: lucasarts
+star wars arcade	difficulty	challenging	difficulty: challenging
+star wars arcade	difficulty	requiring skill	difficulty: requiring skill
+super star wars	difficulty level	challenging	difficulty level: challenging
+super star wars	difficulty level	medium to hard	difficulty level: medium to hard
+star wars arcade	difficulty level	addictive	difficulty level: addictive
+super star wars: return of the jedi	difficulty level	increasingly difficult as the game progresses	difficulty level: increasingly difficult as the game progresses
+star wars: rebel assault	difficulty level	challenging	difficulty level: challenging
+star wars: rebel assault	difficulty level	medium	difficulty level: medium
+super star wars: return of the jedi	difficulty level	challenging	difficulty level: challenging
+super star wars	difficulty level	addictive	difficulty level: addictive
+star wars trilogy arcade	difficulty level	hard	difficulty level: hard
+star wars trilogy arcade	difficulty level	challenging	difficulty level: challenging
+star wars trilogy arcade	difficulty level	medium	difficulty level: medium
+star wars trilogy arcade	difficulty level	easy	difficulty level: easy
+star wars arcade	difficulty level	requires skill	difficulty level: requires skill
+star wars arcade	difficulty level	challenging	difficulty level: challenging
+super star wars	difficulty level	fast-paced	difficulty level: fast-paced
+the empire strikes back	directed by	irvin kershner	directed by: irvin kershner
+star wars: the empire strikes back	directed by	irvin kershner	directed by: irvin kershner
+star wars: return of the jedi	directed by	richard marquand	directed by: richard marquand
+the empire strikes back	director	irvin kershner	director: irvin kershner
+the empire strikes back	director	george lucas	director: george lucas
+star wars: the empire strikes back	director	irvin kershner	director: irvin kershner
+star wars: return of the jedi	director	richard marquand	director: richard marquand
+super star wars: return of the jedi	director	richard marquand	director: richard marquand
+star wars: the empire strikes back	directors	irvin kershner	directors: irvin kershner
+star wars: return of the jedi	directors	richard marquand	directors: richard marquand
+tamagotchi	electronic device	handheld	electronic device: handheld
+tamagotchi	electronic device	digital	electronic device: digital
+tamagotchi	electronic device	portable	electronic device: portable
+tamagotchi	electronic device	battery operated	electronic device: battery operated
+star wars: x-wing vs. tie fighter	era	rebellion	era: rebellion
+star wars: x-wing vs. tie fighter	era	space battle	era: space battle
+star wars: x-wing vs. tie fighter	era	new trilogy	era: new trilogy
+star wars: x-wing vs. tie fighter	era	classic	era: classic
+starfighter	era	new republic	era: new republic
+star wars: x-wing vs. tie fighter	era	galactic civil war	era: galactic civil war
+tamagotchi	era	2000s	era: 2000s
+star wars: x-wing vs. tie fighter	era	original trilogy	era: original trilogy
+starfighter	era	galactic empire	era: galactic empire
+star wars: x-wing	era	rebel alliance	era: rebel alliance
+star wars: x-wing	era	galactic civil war	era: galactic civil war
+tamagotchi	era	90s	era: 90s
+starfighter	era	galactic republic	era: galactic republic
+star wars: x-wing	era	original trilogy	era: original trilogy
+star wars: x-wing	era	new republic era	era: new republic era
+return of the jedi: death star battle	event	climax of the trilogy	event: climax of the trilogy
+return of the jedi: death star battle	event	final confrontation	event: final confrontation
+return of the jedi: death star battle	event	final battle	event: final battle
+return of the jedi: death star battle	event	space battle	event: space battle
+return of the jedi: death star battle	event	imperial navy	event: imperial navy
+return of the jedi: death star battle	event	rebel alliance	event: rebel alliance
+tamagotchi	evolution	change appearance	evolution: change appearance
+tamagotchi	evolution	changing behavior	evolution: changing behavior
+tamagotchi	evolution	changing appearance	evolution: changing appearance
+tamagotchi	evolution	grow	evolution: grow
+tamagotchi	evolution	grows	evolution: grows
+tamagotchi	evolution	ages	evolution: ages
+tamagotchi	evolution	can be reborn	evolution: can be reborn
+tamagotchi	evolution	evolves with care	evolution: evolves with care
+tamagotchi	evolution	growing	evolution: growing
+tamagotchi	evolution	can be reset	evolution: can be reset
+tamagotchi	evolution	aging	evolution: aging
+tamagotchi	evolution	dying	evolution: dying
+x-wing	featured in	star wars: the force awakens	featured in: star wars: the force awakens
+x-wing	featured in	star wars: a new hope	featured in: star wars: a new hope
+super star wars	features	multiple planets	features: multiple planets
+star wars trilogy arcade	features	difficulty levels	features: difficulty levels
+star wars: x-wing alliance	features	3d graphics	features: 3d graphics
+super star wars	features	space exploration	features: space exploration
+star wars: x-wing alliance	features	real-time combat	features: real-time combat
+star wars: x-wing alliance	features	multiplayer	features: multiplayer
+star wars: racer arcade	features	space racing	features: space racing
+star wars trilogy arcade	features	character upgrades	features: character upgrades
+star wars: racer	features	high-speed racing	features: high-speed racing
+star wars trilogy arcade	features	space battles	features: space battles
+super star wars	features	racing	features: racing
+star wars trilogy arcade	features	character selection	features: character selection
+star wars trilogy arcade	features	boss fights	features: boss fights
+star wars: racer arcade	features	different characters	features: different characters
+star wars trilogy arcade	features	high score	features: high score
+super star wars	features	space battles	features: space battles
+star wars arcade	features	different spaceships	features: different spaceships
+star wars: racer	features	split-screen	features: split-screen
+star wars: racer arcade	features	different tracks	features: different tracks
+tamagotchi	features	feeding	features: feeding
+tamagotchi	features	playing	features: playing
+star wars: racer arcade	features	various characters	features: various characters
+tamagotchi	features	cleaning	features: cleaning
+super star wars	features	multiplayer	features: multiplayer
+super star wars	features	difficulty levels	features: difficulty levels
+super star wars	features	boss battles	features: boss battles
+starfighter	features	laser cannons	features: laser cannons
+star wars: racer	features	track editor	features: track editor
+starfighter	features	engines	features: engines
+starfighter	features	cockpit	features: cockpit
+star wars arcade	features	space combat	features: space combat
+star wars arcade	features	boss battles	features: boss battles
+star wars arcade	features	multiple levels	features: multiple levels
+star wars: racer	features	multiple characters	features: multiple characters
+star wars: racer	features	multiplayer	features: multiplayer
+tamagotchi	features	raising	features: raising
+star wars: x-wing	features	hyperdrive	features: hyperdrive
+star wars trilogy arcade	features	multiplayer	features: multiplayer
+star wars: x-wing alliance	features	multiple playable characters	features: multiple playable characters
+star wars: x-wing alliance	features	realistic space battles	features: realistic space battles
+star wars trilogy arcade	features	boss battles	features: boss battles
+star wars: x-wing	features	engines	features: engines
+star wars trilogy arcade	features	jedi and sith characters	features: jedi and sith characters
+star wars trilogy arcade	features	light saber duels	features: light saber duels
+star wars trilogy arcade	features	bonus levels	features: bonus levels
+star wars trilogy arcade	features	3d graphics	features: 3d graphics
+star wars: racer arcade	features	different planets	features: different planets
+star wars: racer arcade	features	high-speed racing	features: high-speed racing
+star wars: racer arcade	features	multiplayer	features: multiplayer
+star wars: racer	features	3d graphics	features: 3d graphics
+star wars: x-wing	features	pilot seats	features: pilot seats
+star wars: x-wing	features	cockpit	features: cockpit
+star wars arcade	features	space battles	features: space battles
+star wars: x-wing alliance	features	explore galaxy	features: explore galaxy
+star wars trilogy arcade	features	space combat	features: space combat
+super star wars	features	challenging levels	features: challenging levels
+starfighter	features	high speed	features: high speed
+star wars: rebel assault	features	force feedback	features: force feedback
+star wars: rebel assault	features	3d graphics	features: 3d graphics
+star wars: x-wing	features	missile launchers	features: missile launchers
+super star wars	features	multiple worlds	features: multiple worlds
+star wars: rebel assault	features	full-motion video	features: full-motion video
+star wars: rebel assault	features	multiple levels	features: multiple levels
+star wars: x-wing	features	armament	features: armament
+star wars: x-wing	features	shield	features: shield
+super star wars	features	unique characters	features: unique characters
+star wars arcade	features	x-wing fighters	features: x-wing fighters
+star wars arcade	features	jedi characters	features: jedi characters
+star wars: rebel assault	features	boss battles	features: boss battles
+star wars: x-wing	features	laser cannons	features: laser cannons
+starfighter	features	armament	features: armament
+starfighter	features	advanced technology	features: advanced technology
+star wars arcade	features	character recognition	features: character recognition
+star wars: x-wing	fictional universe	galactic battles	fictional universe: galactic battles
+star wars: x-wing	fictional universe	star wars	fictional universe: star wars
+star wars: x-wing vs. tie fighter	firepower	missiles	firepower: missiles
+star wars: x-wing vs. tie fighter	firepower	laser cannons	firepower: laser cannons
+star wars	franchise	movies	franchise: movies
+star wars	franchise	toys	franchise: toys
+star wars	franchise	video games	franchise: video games
+the empire strikes back	franchise	star wars franchise	franchise: star wars franchise
+star wars	franchise	tv shows	franchise: tv shows
+star wars	franchise	expanded universe	franchise: expanded universe
+star wars	franchise	sequel trilogy	franchise: sequel trilogy
+the empire strikes back	franchise	space opera	franchise: space opera
+star wars	franchise	original trilogy	franchise: original trilogy
+star wars	franchise	prequel trilogy	franchise: prequel trilogy
+starfighter	function	reconnaissance	function: reconnaissance
+tamagotchi	function	feed	function: feed
+starfighter	function	patrol	function: patrol
+starfighter	function	space combat	function: space combat
+starfighter	function	attack	function: attack
+star wars: x-wing	function	defend	function: defend
+starfighter	function	escorting	function: escorting
+starfighter	function	defend	function: defend
+tamagotchi	function	put to bed	function: put to bed
+star wars: x-wing vs. tie fighter	function	escort	function: escort
+tamagotchi	function	play	function: play
+star wars: x-wing	function	starfighter	function: starfighter
+starfighter	function	transport	function: transport
+star wars: x-wing	function	attack	function: attack
+star wars: x-wing vs. tie fighter	function	transport	function: transport
+star wars: x-wing	function	transport	function: transport
+star wars: x-wing	function	combat	function: combat
+star wars: x-wing vs. tie fighter	function	defend	function: defend
+star wars: x-wing vs. tie fighter	function	attack	function: attack
+tamagotchi	function	raise and care for a virtual pet	function: raise and care for a virtual pet
+tamagotchi	functionality	cleaning	functionality: cleaning
+tamagotchi	functionality	sleeping	functionality: sleeping
+tamagotchi	functionality	feeding	functionality: feeding
+tamagotchi	functionality	raising a digital pet	functionality: raising a digital pet
+tamagotchi	functionality	playing	functionality: playing
+tamagotchi	functionality	disciplining	functionality: disciplining
+tamagotchi	functions	input	functions: input
+tamagotchi	functions	light	functions: light
+tamagotchi	functions	display	functions: display
+tamagotchi	functions	sound	functions: sound
+star wars: x-wing vs. tie fighter	galaxy	star wars	galaxy: star wars
+star wars: x-wing vs. tie fighter	galaxy	fiction	galaxy: fiction
+star wars: x-wing vs. tie fighter	galaxy	space	galaxy: space
+super star wars	game	racing game	game: racing game
+tamagotchi	game	raising virtual pet	game: raising virtual pet
+super star wars	game	sci-fi	game: sci-fi
+tamagotchi	game	raising	game: raising
+tamagotchi	game	raises level	game: raises level
+tamagotchi	game	feeding	game: feeding
+tamagotchi	game	virtual pet	game: virtual pet
+super star wars	game	video game	game: video game
+tamagotchi	game	wins rewards	game: wins rewards
+tamagotchi	game	loses if neglected	game: loses if neglected
+tamagotchi	game	caring	game: caring
+tamagotchi	game	playing	game: playing
+super star wars: return of the jedi	game genre	platformer	game genre: platformer
+super star wars: return of the jedi	game genre	action	game genre: action
+star wars arcade	game genre	flight simulator	game genre: flight simulator
+star wars arcade	game genre	space combat	game genre: space combat
+star wars: rebel assault	game genre	flight simulator	game genre: flight simulator
+star wars: rebel assault	game genre	light gun shooter	game genre: light gun shooter
+star wars arcade	game genre	shooter	game genre: shooter
+star wars: rebel assault	game genre	space combat	game genre: space combat
+star wars: rebel assault	game genre	action	game genre: action
+star wars arcade	game genre	space exploration	game genre: space exploration
+star wars: racer	game genre	arcade	game genre: arcade
+star wars: racer	game genre	racing	game genre: racing
+star wars trilogy arcade	game genre	space combat	game genre: space combat
+star wars trilogy arcade	game genre	action	game genre: action
+star wars: rebel assault	game genre	shooter	game genre: shooter
+star wars arcade	game genre	action	game genre: action
+star wars: racer	game modes	single-player	game modes: single-player
+star wars: racer	game modes	multiplayer	game modes: multiplayer
+star wars: racer	game modes	time trials	game modes: time trials
+super star wars	game modes	multi-player	game modes: multi-player
+star wars: rebel assault	game modes	multiplayer	game modes: multiplayer
+star wars: rebel assault	game modes	single-player	game modes: single-player
+super star wars	game modes	single-player	game modes: single-player
+star wars trilogy arcade	game modes	multiplayer	game modes: multiplayer
+star wars trilogy arcade	game modes	single-player	game modes: single-player
+star wars trilogy arcade	game modes	high score competition	game modes: high score competition
+star wars: x-wing alliance	game modes	single-player	game modes: single-player
+star wars: x-wing alliance	game modes	multiplayer	game modes: multiplayer
+star wars: x-wing alliance	game modes	campaign	game modes: campaign
+star wars trilogy arcade	game type	shooter	game type: shooter
+star wars: x-wing alliance	game type	role-playing game	game type: role-playing game
+star wars: racer	game type	video game	game type: video game
+star wars: racer arcade	game type	arcade game	game type: arcade game
+star wars: rebel assault	game type	first-person shooter	game type: first-person shooter
+star wars: rebel assault	game type	flight combat	game type: flight combat
+star wars: rebel assault	game type	video game	game type: video game
+star wars: racer	game type	racing game	game type: racing game
+star wars: x-wing alliance	game type	flight combat	game type: flight combat
+star wars: racer arcade	game type	racing game	game type: racing game
+star wars: rebel assault	game type	space combat	game type: space combat
+star wars: rebel assault	game type	flight simulator	game type: flight simulator
+star wars: x-wing alliance	game type	first-person shooter	game type: first-person shooter
+star wars: x-wing alliance	game type	flight simulator	game type: flight simulator
+star wars trilogy arcade	game type	space combat	game type: space combat
+star wars trilogy arcade	game type	action	game type: action
+star wars trilogy arcade	game type	adventure	game type: adventure
+star wars: racer	game type	arcade game	game type: arcade game
+star wars trilogy arcade	game type	flight simulator	game type: flight simulator
+star wars: x-wing vs. tie fighter	game/series	x-wing	game/series: x-wing
+star wars: x-wing vs. tie fighter	game/series	tie fighter	game/series: tie fighter
+star wars: x-wing vs. tie fighter	game/series	star wars	game/series: star wars
+star wars: x-wing alliance	gameplay	flight simulation	gameplay: flight simulation
+star wars arcade	gameplay	shooting	gameplay: shooting
+star wars trilogy arcade	gameplay	boss battles	gameplay: boss battles
+star wars trilogy arcade	gameplay	space exploration	gameplay: space exploration
+tamagotchi	gameplay	raising	gameplay: raising
+star wars trilogy arcade	gameplay	flight combat	gameplay: flight combat
+star wars: x-wing alliance	gameplay	multiplayer	gameplay: multiplayer
+super star wars	gameplay	leveling up	gameplay: leveling up
+star wars: x-wing alliance	gameplay	pilot x-wing	gameplay: pilot x-wing
+star wars arcade	gameplay	space exploration	gameplay: space exploration
+star wars arcade	gameplay	pilot characters	gameplay: pilot characters
+super star wars	gameplay	platforming	gameplay: platforming
+star wars: x-wing alliance	gameplay	space combat	gameplay: space combat
+star wars: x-wing alliance	gameplay	team-based multiplayer	gameplay: team-based multiplayer
+tamagotchi	gameplay	caring	gameplay: caring
+tamagotchi	gameplay	nurturing	gameplay: nurturing
+star wars: racer arcade	gameplay	ships	gameplay: ships
+star wars: racer arcade	gameplay	space	gameplay: space
+star wars: rebel assault	gameplay	3d graphics	gameplay: 3d graphics
+star wars: rebel assault	gameplay	interactive space battles	gameplay: interactive space battles
+star wars: racer	gameplay	space	gameplay: space
+star wars arcade	gameplay	flying	gameplay: flying
+star wars arcade	gameplay	pilot control	gameplay: pilot control
+star wars arcade	gameplay	missions to complete	gameplay: missions to complete
+star wars: x-wing alliance	gameplay	exploration	gameplay: exploration
+star wars trilogy arcade	gameplay	flight simulator	gameplay: flight simulator
+star wars trilogy arcade	gameplay	pilotable vehicles	gameplay: pilotable vehicles
+star wars: racer	gameplay	agility	gameplay: agility
+super star wars	gameplay	level progression	gameplay: level progression
+star wars trilogy arcade	gameplay	mission-based	gameplay: mission-based
+star wars trilogy arcade	gameplay	space battles	gameplay: space battles
+star wars trilogy arcade	gameplay	space combat	gameplay: space combat
+star wars trilogy arcade	gameplay	pilot characters	gameplay: pilot characters
+super star wars	gameplay	boss battles	gameplay: boss battles
+star wars: x-wing alliance	gameplay	character development	gameplay: character development
+star wars: x-wing alliance	gameplay	missions	gameplay: missions
+star wars: racer	gameplay	jump	gameplay: jump
+star wars arcade	gameplay	pilot	gameplay: pilot
+star wars arcade	gameplay	flight	gameplay: flight
+star wars arcade	gameplay	fighter control	gameplay: fighter control
+star wars: racer	gameplay	boost	gameplay: boost
+star wars: x-wing alliance	gameplay	complete missions	gameplay: complete missions
+star wars: x-wing alliance	gameplay	engage in dogfights	gameplay: engage in dogfights
+star wars trilogy arcade	gameplay	light saber duels	gameplay: light saber duels
+star wars: racer	gameplay	speed	gameplay: speed
+star wars arcade	gameplay	exploring	gameplay: exploring
+super star wars	gameplay	platformer	gameplay: platformer
+star wars: racer	gameplay	lanes	gameplay: lanes
+star wars: x-wing alliance	gameplay	flight simulator	gameplay: flight simulator
+star wars trilogy arcade	gameplay	flight simulation	gameplay: flight simulation
+star wars trilogy arcade	gameplay	shooting	gameplay: shooting
+star wars trilogy arcade	gameplay	flight controls	gameplay: flight controls
+super star wars	gameplay	side-scrolling	gameplay: side-scrolling
+tamagotchi	gameplay	care and nurturing	gameplay: care and nurturing
+tamagotchi	gameplay	punishments for neglect	gameplay: punishments for neglect
+star wars arcade	gameplay	flight simulator	gameplay: flight simulator
+star wars: racer arcade	gameplay	spacecraft	gameplay: spacecraft
+star wars: racer arcade	gameplay	pilot	gameplay: pilot
+star wars: racer arcade	gameplay	racing	gameplay: racing
+star wars: racer	gameplay	boosting	gameplay: boosting
+star wars: rebel assault	gameplay	missions	gameplay: missions
+star wars: rebel assault	gameplay	flight controls	gameplay: flight controls
+star wars: rebel assault	gameplay	space battles	gameplay: space battles
+super star wars: return of the jedi	gameplay	side-scrolling	gameplay: side-scrolling
+super star wars: return of the jedi	gameplay	puzzle-solving	gameplay: puzzle-solving
+star wars: rebel assault	gameplay	3d space combat	gameplay: 3d space combat
+star wars: rebel assault	gameplay	on-rails shooter	gameplay: on-rails shooter
+star wars: racer	gameplay	racing	gameplay: racing
+star wars: racer	gameplay	pilot	gameplay: pilot
+star wars: racer	gameplay	piloting	gameplay: piloting
+star wars arcade	gameplay	shoot-em-up	gameplay: shoot-em-up
+star wars arcade	gameplay	pilot spaceships	gameplay: pilot spaceships
+super star wars	gameplay	space battles	gameplay: space battles
+super star wars	gameplay	exploration	gameplay: exploration
+star wars: rebel assault	gameplay	attack imperial forces	gameplay: attack imperial forces
+star wars: rebel assault	gameplay	pilot x-wing	gameplay: pilot x-wing
+star wars trilogy arcade	gameplay	difficulty levels	gameplay: difficulty levels
+star wars: rebel assault	gameplay	first-person shooter	gameplay: first-person shooter
+star wars: x-wing alliance	gameplay	space battles	gameplay: space battles
+star wars: x-wing alliance	gameplay	pilotable spacecraft	gameplay: pilotable spacecraft
+star wars: rebel assault	gameplay	3d space battles	gameplay: 3d space battles
+super star wars	gameplay	space combat	gameplay: space combat
+star wars: rebel assault	gameplay	ground-based combat	gameplay: ground-based combat
+star wars arcade	gameplay	missions	gameplay: missions
+star wars: rebel assault	gameplay	interactive cutscenes	gameplay: interactive cutscenes
+super star wars	gameplay	puzzle-solving	gameplay: puzzle-solving
+star wars: racer	gameplay	boosts	gameplay: boosts
+super star wars	gameplay	racing	gameplay: racing
+star wars arcade	gameplay	exploration	gameplay: exploration
+star wars: x-wing alliance	gameplay	flight combat	gameplay: flight combat
+star wars arcade	gameplay	space battles	gameplay: space battles
+star wars: rebel assault	gameplay features	3d graphics	gameplay features: 3d graphics
+star wars: rebel assault	gameplay features	pilotable vehicles	gameplay features: pilotable vehicles
+star wars: rebel assault	gameplay features	dogfighting	gameplay features: dogfighting
+star wars trilogy arcade	gameplay features	space exploration	gameplay features: space exploration
+star wars: rebel assault	gameplay features	space battles	gameplay features: space battles
+star wars trilogy arcade	gameplay features	boss battles	gameplay features: boss battles
+star wars: rebel assault	gameplay features	mission objectives	gameplay features: mission objectives
+star wars trilogy arcade	gameplay features	space battles	gameplay features: space battles
+star wars arcade	gameplay features	multiple ships	gameplay features: multiple ships
+star wars arcade	gameplay features	force powers	gameplay features: force powers
+star wars arcade	gameplay features	boss battles	gameplay features: boss battles
+star wars arcade	gameplay mechanics	exploration	gameplay mechanics: exploration
+star wars arcade	gameplay mechanics	pilot controls	gameplay mechanics: pilot controls
+star wars: rebel assault	gameplay mechanics	light gun shooting	gameplay mechanics: light gun shooting
+star wars: rebel assault	gameplay mechanics	space battles	gameplay mechanics: space battles
+star wars: x-wing alliance	gameplay mechanics	teamwork	gameplay mechanics: teamwork
+star wars: x-wing alliance	gameplay mechanics	pilot controls	gameplay mechanics: pilot controls
+star wars arcade	gameplay mechanics	shooting	gameplay mechanics: shooting
+star wars: x-wing alliance	gameplay mechanics	blaster combat	gameplay mechanics: blaster combat
+star wars: rebel assault	gameplay style	light saber combat	gameplay style: light saber combat
+star wars: rebel assault	gameplay style	3d graphics	gameplay style: 3d graphics
+star wars arcade	genre	action	genre: action
+super star wars: return of the jedi	genre	science fiction	genre: science fiction
+star wars: racer arcade	genre	arcade	genre: arcade
+super star wars	genre	shoot 'em up	genre: shoot 'em up
+star wars: racer	genre	video game	genre: video game
+star wars: racer arcade	genre	racing	genre: racing
+star wars: racer arcade	genre	space	genre: space
+star wars trilogy arcade	genre	space combat	genre: space combat
+star wars arcade	genre	space combat	genre: space combat
+the empire strikes back	genre	adventure	genre: adventure
+super star wars	genre	sci-fi	genre: sci-fi
+star wars: rebel assault	genre	adventure	genre: adventure
+star wars trilogy arcade	genre	action	genre: action
+super star wars	genre	racing	genre: racing
+star wars: rebel assault	genre	sci-fi	genre: sci-fi
+star wars arcade	genre	adventure	genre: adventure
+star wars: the empire strikes back	genre	science fiction	genre: science fiction
+star wars arcade	genre	shooter	genre: shooter
+star wars: return of the jedi	genre	sci-fi	genre: sci-fi
+star wars: the empire strikes back	genre	space opera	genre: space opera
+star wars: racer	genre	racing game	genre: racing game
+star wars: racer	genre	space racing	genre: space racing
+star wars: rebel assault	genre	action	genre: action
+super star wars: return of the jedi	genre	space opera	genre: space opera
+star wars: the empire strikes back	genre	action	genre: action
+star wars: return of the jedi	genre	space opera	genre: space opera
+star wars: return of the jedi	genre	science fiction	genre: science fiction
+star wars	genre	action	genre: action
+super star wars	genre	space shooter	genre: space shooter
+star wars: x-wing alliance	genre	video game	genre: video game
+star wars trilogy arcade	genre	sci-fi	genre: sci-fi
+star wars: return of the jedi	genre	action	genre: action
+star wars: x-wing alliance	genre	space combat	genre: space combat
+super star wars	genre	science fiction	genre: science fiction
+the empire strikes back	genre	space opera	genre: space opera
+star wars: the empire strikes back	genre	adventure	genre: adventure
+star wars: racer	genre	racing	genre: racing
+star wars	genre	science fiction	genre: science fiction
+super star wars	genre	space	genre: space
+star wars: rebel assault	genre	shooter	genre: shooter
+star wars: rebel assault	genre	space combat	genre: space combat
+super star wars	genre	action	genre: action
+star wars: x-wing alliance	genre	science fiction	genre: science fiction
+star wars: racer	genre	adventure	genre: adventure
+the empire strikes back	genre	drama	genre: drama
+star wars	genre	space opera	genre: space opera
+super star wars	genre	shooter	genre: shooter
+super star wars	genre	space combat	genre: space combat
+star wars: return of the jedi	genre	adventure	genre: adventure
+star wars arcade	genre	sci-fi	genre: sci-fi
+star wars: rebel assault	genre	video game	genre: video game
+super star wars	genre	video game	genre: video game
+star wars: rebel assault	genre	flight simulator	genre: flight simulator
+star wars trilogy arcade	genre	adventure	genre: adventure
+the empire strikes back	genre	action	genre: action
+star wars: racer	genre	sci-fi	genre: sci-fi
+star wars: the empire strikes back	genre	sci-fi	genre: sci-fi
+star wars: racer	genre	action	genre: action
+the empire strikes back	genre	epic	genre: epic
+the empire strikes back	genre	science fiction	genre: science fiction
+star wars: x-wing alliance	genre	sci-fi	genre: sci-fi
+star wars	genre	fantasy	genre: fantasy
+super star wars	genre	adventure	genre: adventure
+star wars: x-wing alliance	genre	space opera	genre: space opera
+tamagotchi	growth stages	infant	growth stages: infant
+tamagotchi	growth stages	adult	growth stages: adult
+tamagotchi	growth stages	egg	growth stages: egg
+star wars	iconic elements	spaceships	iconic elements: spaceships
+star wars	iconic elements	tie fighters	iconic elements: tie fighters
+star wars	iconic elements	blasters	iconic elements: blasters
+star wars	iconic elements	lightsabers	iconic elements: lightsabers
+star wars	iconic elements	the force	iconic elements: the force
+super star wars	iconic feature	unique controls	iconic feature: unique controls
+super star wars	iconic feature	space battle music	iconic feature: space battle music
+return of the jedi: death star battle	iconic moment	laser shot	iconic moment: laser shot
+return of the jedi: death star battle	iconic moment	force choke	iconic moment: force choke
+star wars: return of the jedi	iconic scenes	luke and vader's duel	iconic scenes: luke and vader's duel
+star wars: return of the jedi	iconic scenes	yoda's training	iconic scenes: yoda's training
+star wars: return of the jedi	iconic scenes	ewoks' celebration	iconic scenes: ewoks' celebration
+star wars: return of the jedi	iconic scenes	battle of the death star	iconic scenes: battle of the death star
+the empire strikes back	impact	changed the star wars saga	impact: changed the star wars saga
+the empire strikes back	impact	expanded the star wars universe	impact: expanded the star wars universe
+the empire strikes back	impact	developed the characters	impact: developed the characters
+star wars arcade	impact	popular arcade game	impact: popular arcade game
+star wars arcade	impact	influence on space combat games	impact: influence on space combat games
+star wars: the empire strikes back	impact	iconic moments and quotes	impact: iconic moments and quotes
+star wars trilogy arcade	impact	influence on video game industry	impact: influence on video game industry
+star wars trilogy arcade	impact	popularity in 1980s	impact: popularity in 1980s
+star wars trilogy arcade	impact	influenced other space combat games	impact: influenced other space combat games
+star wars: the empire strikes back	impact	increased popularity of the franchise	impact: increased popularity of the franchise
+the empire strikes back	impact	expanded universe	impact: expanded universe
+star wars trilogy arcade	impact	popularized the star wars franchise	impact: popularized the star wars franchise
+the empire strikes back	impact	changed star wars franchise	impact: changed star wars franchise
+super star wars	impact	cult classic	impact: cult classic
+the empire strikes back	impact	sets up the original trilogy	impact: sets up the original trilogy
+the empire strikes back	impact	introduces new characters	impact: introduces new characters
+star wars: the empire strikes back	impact	changed the genre	impact: changed the genre
+star wars: the empire strikes back	impact	increased popularity	impact: increased popularity
+the empire strikes back	impact	raises stakes for the heroes	impact: raises stakes for the heroes
+star wars	impact	cultural phenomenon	impact: cultural phenomenon
+star wars	impact	influence on pop culture	impact: influence on pop culture
+the empire strikes back	impact	introduced new characters	impact: introduced new characters
+star wars arcade	impact	iconic music	impact: iconic music
+star wars arcade	impact	cult classic	impact: cult classic
+star wars	impact	iconic characters	impact: iconic characters
+super star wars	impact	influence on gaming industry	impact: influence on gaming industry
+the empire strikes back	impact	character development	impact: character development
+star wars arcade	impact	influence on space combat genre	impact: influence on space combat genre
+the empire strikes back	impact	increased stakes	impact: increased stakes
+super star wars	impact	influence on space shooter genre	impact: influence on space shooter genre
+star wars arcade	impact	popularity in 1980s	impact: popularity in 1980s
+super star wars	impact	popularity in 1990s	impact: popularity in 1990s
+return of the jedi: death star battle	importance	turning point in galactic civil war	importance: turning point in galactic civil war
+return of the jedi: death star battle	importance	turning point in the galactic civil war	importance: turning point in the galactic civil war
+return of the jedi: death star battle	importance	key battle	importance: key battle
+tamagotchi	importance	iconic electronic device	importance: iconic electronic device
+tamagotchi	importance	popular 90s toy	importance: popular 90s toy
+return of the jedi: death star battle	importance	saving the galaxy	importance: saving the galaxy
+return of the jedi: death star battle	importance	turning point	importance: turning point
+star wars: racer arcade	influence	inspired by	influence: inspired by
+star wars arcade	influence	inspired many games	influence: inspired many games
+star wars arcade	influence	pioneered space combat genre	influence: pioneered space combat genre
+star wars: racer arcade	influence	similar to	influence: similar to
+star wars: racer arcade	influence	influenced by	influence: influenced by
+star wars arcade	influence on gaming	space exploration genre	influence on gaming: space exploration genre
+star wars arcade	influence on gaming	space combat genre	influence on gaming: space combat genre
+star wars arcade	influence on gaming industry	influential	influence on gaming industry: influential
+star wars arcade	influence on gaming industry	pioneering	influence on gaming industry: pioneering
+super star wars	influenced by	space opera	influenced by: space opera
+super star wars	influenced by	star wars franchise	influenced by: star wars franchise
+tamagotchi	interactions	playing	interactions: playing
+tamagotchi	interactions	feeding	interactions: feeding
+tamagotchi	interactions	disciplining	interactions: disciplining
+tamagotchi	interactive	punishing	interactive: punishing
+tamagotchi	interactive	playing	interactive: playing
+tamagotchi	interactive	feeding	interactive: feeding
+tamagotchi	interface	graphical	interface: graphical
+tamagotchi	interface	interactive	interface: interactive
+tamagotchi	interface	screen	interface: screen
+tamagotchi	interface	lcd screen	interface: lcd screen
+tamagotchi	interface	simple controls	interface: simple controls
+tamagotchi	interface	graphical user interface	interface: graphical user interface
+tamagotchi	interface	buttons	interface: buttons
+tamagotchi	interface	color screen	interface: color screen
+tamagotchi	interface	led lights	interface: led lights
+return of the jedi: death star battle	involved characters	luke skywalker	involved characters: luke skywalker
+return of the jedi: death star battle	involved characters	han solo	involved characters: han solo
+return of the jedi: death star battle	involved characters	leia organa	involved characters: leia organa
+return of the jedi: death star battle	involved characters	emperor palpatine	involved characters: emperor palpatine
+return of the jedi: death star battle	involved characters	darth vader	involved characters: darth vader
+star wars: return of the jedi	jedi and sith	lightsaber duels	jedi and sith: lightsaber duels
+star wars: return of the jedi	jedi and sith	force powers	jedi and sith: force powers
+star wars: return of the jedi	jedi and sith	jedi code	jedi and sith: jedi code
+star wars: return of the jedi	jedi and sith	sith code	jedi and sith: sith code
+tamagotchi	lifespan	dependent on care	lifespan: dependent on care
+tamagotchi	lifespan	short	lifespan: short
+return of the jedi: death star battle	location	above the forest moon of endor	location: above the forest moon of endor
+starfighter	location	battlefield	location: battlefield
+starfighter	location	hangar	location: hangar
+star wars: x-wing	location	space	location: space
+star wars: x-wing	location	battlefield	location: battlefield
+star wars: x-wing	location	rebel base	location: rebel base
+return of the jedi: death star battle	location	above forest moon of endor	location: above forest moon of endor
+return of the jedi: death star battle	location	near the forest moon of endor	location: near the forest moon of endor
+starfighter	location	space	location: space
+return of the jedi: death star battle	location	death star	location: death star
+return of the jedi: death star battle	location	above death star	location: above death star
+return of the jedi: death star battle	location	space	location: space
+return of the jedi: death star battle	location	outer space	location: outer space
+star wars: return of the jedi	main character	han solo	main character: han solo
+star wars: return of the jedi	main character	luke skywalker	main character: luke skywalker
+star wars: return of the jedi	main character	princess leia	main character: princess leia
+star wars: the empire strikes back	main character	luke skywalker	main character: luke skywalker
+star wars: return of the jedi	main characters	darth vader	main characters: darth vader
+star wars: return of the jedi	main characters	emperor palpatine	main characters: emperor palpatine
+star wars: return of the jedi	main characters	leia organa	main characters: leia organa
+star wars	main characters	rebel alliance	main characters: rebel alliance
+star wars	main characters	lucasfilm characters	main characters: lucasfilm characters
+star wars	main characters	princess leia	main characters: princess leia
+star wars	main characters	leia organa	main characters: leia organa
+star wars: the empire strikes back	main characters	han solo	main characters: han solo
+star wars: the empire strikes back	main characters	princess leia	main characters: princess leia
+star wars	main characters	darth vader	main characters: darth vader
+star wars: return of the jedi	main characters	yoda	main characters: yoda
+star wars: the empire strikes back	main characters	darth vader	main characters: darth vader
+star wars: the empire strikes back	main characters	luke skywalker	main characters: luke skywalker
+star wars	main characters	han solo	main characters: han solo
+star wars	main characters	luke skywalker	main characters: luke skywalker
+star wars	main characters	empire	main characters: empire
+star wars: return of the jedi	main characters	han solo	main characters: han solo
+star wars	main characters	rebellion	main characters: rebellion
+star wars: return of the jedi	main characters	princess leia	main characters: princess leia
+star wars	main characters	jedi	main characters: jedi
+star wars	main characters	sith	main characters: sith
+star wars: return of the jedi	main characters	luke skywalker	main characters: luke skywalker
+star wars	media	video game	media: video game
+star wars	media	book	media: book
+star wars	media	tv series	media: tv series
+star wars	media	video games	media: video games
+star wars	media	movie	media: movie
+star wars	media	tv show	media: tv show
+star wars	media	series	media: series
+star wars	media	movies	media: movies
+star wars	media	tv shows	media: tv shows
+star wars	media	film	media: film
+star wars	media	franchise	media: franchise
+star wars	media	books	media: books
+star wars	media type	tv show	media type: tv show
+star wars	media type	film	media type: film
+star wars	media type	book	media type: book
+super star wars	medium	arcade game	medium: arcade game
+super star wars	medium	video game	medium: video game
+super star wars	medium	console game	medium: console game
+super star wars	medium	console	medium: console
+super star wars	medium	arcade	medium: arcade
+return of the jedi: death star battle	method	force powers	method: force powers
+return of the jedi: death star battle	method	laser blasts	method: laser blasts
+return of the jedi: death star battle	method	starfighters	method: starfighters
+the empire strikes back	movie	sequel	movie: sequel
+star wars: return of the jedi	movie	sci-fi	movie: sci-fi
+star wars: return of the jedi	movie	space opera	movie: space opera
+the empire strikes back	movie	sci-fi	movie: sci-fi
+the empire strikes back	movie	space opera	movie: space opera
+star wars: return of the jedi	movie	action	movie: action
+the empire strikes back	movie	star wars sequel	movie: star wars sequel
+star wars: the empire strikes back	movie	second installment	movie: second installment
+the empire strikes back	movie	star wars	movie: star wars
+the empire strikes back	movie	film	movie: film
+star wars: the empire strikes back	movie	sequel	movie: sequel
+the empire strikes back	movie	1980	movie: 1980
+the empire strikes back	movie	science fiction	movie: science fiction
+star wars: x-wing	movie appearance	revenge of the sith	movie appearance: revenge of the sith
+star wars: x-wing	movie appearance	return of the jedi	movie appearance: return of the jedi
+star wars: x-wing	movie appearance	original trilogy	movie appearance: original trilogy
+star wars: the empire strikes back	movie genre	space opera	movie genre: space opera
+star wars: the empire strikes back	movie genre	science fiction	movie genre: science fiction
+star wars: the empire strikes back	movie series	sequel	movie series: sequel
+star wars: the empire strikes back	movie series	original trilogy	movie series: original trilogy
+star wars: the empire strikes back	movie series	sequel to a new hope	movie series: sequel to a new hope
+star wars: the empire strikes back	movie series	star wars	movie series: star wars
+star wars: return of the jedi	movie series	trilogy	movie series: trilogy
+star wars: return of the jedi	movie series	star wars	movie series: star wars
+the empire strikes back	movie title	space opera	movie title: space opera
+the empire strikes back	movie title	star wars sequel	movie title: star wars sequel
+the empire strikes back	movie title	sci-fi	movie title: sci-fi
+the empire strikes back	movie title	star wars	movie title: star wars
+super star wars: return of the jedi	movie title	return of the jedi	movie title: return of the jedi
+the empire strikes back	movie title	sequel	movie title: sequel
+star wars: the empire strikes back	movie title	episode v	movie title: episode v
+the empire strikes back	movie title	science fiction	movie title: science fiction
+star wars: the empire strikes back	movie title	the empire strikes back	movie title: the empire strikes back
+star wars: the empire strikes back	movie type	film	movie type: film
+star wars: the empire strikes back	movie type	sequel	movie type: sequel
+star wars	movies	original trilogy	movies: original trilogy
+star wars	movies	prequel trilogy	movies: prequel trilogy
+star wars	movies	sequel trilogy	movies: sequel trilogy
+the empire strikes back	music	iconic score	music: iconic score
+the empire strikes back	music	john williams	music: john williams
+star wars: the empire strikes back	music	iconic score	music: iconic score
+star wars: the empire strikes back	music	john williams	music: john williams
+star wars arcade	music and sound effects	dramatic	music and sound effects: dramatic
+star wars arcade	music and sound effects	iconic	music and sound effects: iconic
+star wars: x-wing	notable appearances	star wars: return of the jedi	notable appearances: star wars: return of the jedi
+x-wing	notable appearances	battle of endor	notable appearances: battle of endor
+x-wing	notable appearances	battle of hoth	notable appearances: battle of hoth
+x-wing	notable appearances	battle of yavin	notable appearances: battle of yavin
+star wars: x-wing	notable appearances	star wars: the force awakens	notable appearances: star wars: the force awakens
+star wars arcade	notable aspects	space combat gameplay	notable aspects: space combat gameplay
+star wars arcade	notable aspects	3d graphics	notable aspects: 3d graphics
+star wars: the empire strikes back	notable events	battle of hoth	notable events: battle of hoth
+star wars: the empire strikes back	notable events	lightsaber duel between luke and vader	notable events: lightsaber duel between luke and vader
+starfighter	notable examples	y-wing	notable examples: y-wing
+starfighter	notable examples	millennium falcon	notable examples: millennium falcon
+starfighter	notable examples	tie fighter	notable examples: tie fighter
+starfighter	notable examples	x-wing	notable examples: x-wing
+star wars: rebel assault	notable features	3d graphics	notable features: 3d graphics
+star wars: rebel assault	notable features	original soundtrack	notable features: original soundtrack
+star wars trilogy arcade	notable for	its impact on the gaming industry	notable for: its impact on the gaming industry
+star wars trilogy arcade	notable for	its popularity	notable for: its popularity
+star wars trilogy arcade	notable for	porting the trilogy to a video game	notable for: porting the trilogy to a video game
+x-wing	notable pilots	luke skywalker	notable pilots: luke skywalker
+star wars: x-wing	notable pilots	luke skywalker	notable pilots: luke skywalker
+star wars: x-wing	notable pilots	wedge antilles	notable pilots: wedge antilles
+x-wing	notable pilots	wedge antilles	notable pilots: wedge antilles
+star wars: x-wing	notable pilots	poe dameron	notable pilots: poe dameron
+x-wing	operated by	resistance	operated by: resistance
+x-wing	operated by	rebel alliance	operated by: rebel alliance
+star wars: x-wing	operational use	space battles	operational use: space battles
+star wars: x-wing	operational use	rebel alliance	operational use: rebel alliance
+star wars: x-wing	operational use	galactic empire	operational use: galactic empire
+tamagotchi	origin	1996 release	origin: 1996 release
+tamagotchi	origin	bandai	origin: bandai
+tamagotchi	origin	japanese	origin: japanese
+star wars: x-wing	origin	star wars universe	origin: star wars universe
+star wars: x-wing vs. tie fighter	origin	rebel alliance	origin: rebel alliance
+tamagotchi	origin	1996	origin: 1996
+tamagotchi	origin	japanese invention	origin: japanese invention
+star wars: x-wing vs. tie fighter	origin	galactic empire	origin: galactic empire
+tamagotchi	origin	japan	origin: japan
+star wars: x-wing	origin	star wars	origin: star wars
+star wars: x-wing	origin	rebel alliance	origin: rebel alliance
+star wars: x-wing	origin	new republic	origin: new republic
+star wars: x-wing	origin	galactic republic	origin: galactic republic
+star wars trilogy arcade	origin	lucasarts	origin: lucasarts
+star wars: x-wing	origin	galaxy far far away	origin: galaxy far far away
+star wars trilogy arcade	origin	japan	origin: japan
+star wars arcade	origin	lucasarts	origin: lucasarts
+star wars arcade	origin	electronic arts	origin: electronic arts
+star wars trilogy arcade	origin	star wars	origin: star wars
+return of the jedi: death star battle	outcome	rebels destroy death star	outcome: rebels destroy death star
+return of the jedi: death star battle	outcome	destruction of the death star	outcome: destruction of the death star
+return of the jedi: death star battle	outcome	rebels win	outcome: rebels win
+return of the jedi: death star battle	outcome	turning point of the war	outcome: turning point of the war
+return of the jedi: death star battle	outcome	death star destroyed	outcome: death star destroyed
+return of the jedi: death star battle	outcome	rebel victory	outcome: rebel victory
+return of the jedi: death star battle	outcome	galactic empire defeated	outcome: galactic empire defeated
+return of the jedi: death star battle	outcome	rebellion wins	outcome: rebellion wins
+return of the jedi: death star battle	outcome	luke skywalker uses force	outcome: luke skywalker uses force
+return of the jedi: death star battle	outcome	imperial forces defeated	outcome: imperial forces defeated
+star wars: return of the jedi	part of	original trilogy	part of: original trilogy
+star wars: return of the jedi	part of	star wars trilogy	part of: star wars trilogy
+star wars: the empire strikes back	part of series	star wars trilogy	part of series: star wars trilogy
+star wars: the empire strikes back	part of series	trilogy	part of series: trilogy
+star wars: the empire strikes back	part of series	star wars	part of series: star wars
+return of the jedi: death star battle	participants	r2-d2	participants: r2-d2
+return of the jedi: death star battle	participants	c-3po	participants: c-3po
+return of the jedi: death star battle	participants	empire	participants: empire
+return of the jedi: death star battle	participants	galactic empire	participants: galactic empire
+return of the jedi: death star battle	participants	rebels	participants: rebels
+return of the jedi: death star battle	participants	rebel alliance	participants: rebel alliance
+return of the jedi: death star battle	participants	han solo	participants: han solo
+return of the jedi: death star battle	participants	princess leia	participants: princess leia
+return of the jedi: death star battle	participants	luke skywalker	participants: luke skywalker
+return of the jedi: death star battle	participants	chewbacca	participants: chewbacca
+tamagotchi	pet	virtual	pet: virtual
+tamagotchi	pet	needs care	pet: needs care
+tamagotchi	pet	can be fed	pet: can be fed
+tamagotchi	pet simulation	grows up	pet simulation: grows up
+tamagotchi	pet simulation	can die	pet simulation: can die
+tamagotchi	pet simulation	requires care	pet simulation: requires care
+star wars: x-wing vs. tie fighter	pilot	imperial pilot	pilot: imperial pilot
+star wars: x-wing vs. tie fighter	pilot	rebel alliance	pilot: rebel alliance
+star wars: x-wing vs. tie fighter	pilot	imperial navy	pilot: imperial navy
+star wars: x-wing	pilot	rebel pilot	pilot: rebel pilot
+starfighter	pilot	experienced	pilot: experienced
+starfighter	pilot	trained	pilot: trained
+star wars: x-wing	pilot	rebel pilots	pilot: rebel pilots
+star wars: x-wing	pilot	starfighter pilot	pilot: starfighter pilot
+starfighter	pilot	rebellious	pilot: rebellious
+starfighter	pilot	skilled	pilot: skilled
+star wars: x-wing	pilot	rebel alliance	pilot: rebel alliance
+starfighter	pilot	robotic	pilot: robotic
+starfighter	pilot	alien	pilot: alien
+starfighter	pilot	human	pilot: human
+star wars: x-wing	pilot	luke skywalker	pilot: luke skywalker
+star wars: x-wing vs. tie fighter	pilot	rebel pilot	pilot: rebel pilot
+star wars: x-wing	pilot	other pilots	pilot: other pilots
+star wars: x-wing vs. tie fighter	pilot	galactic empire	pilot: galactic empire
+star wars: x-wing vs. tie fighter	pilot	skilled pilot	pilot: skilled pilot
+starfighter	piloting	easy to fly	piloting: easy to fly
+starfighter	piloting	requires skill	piloting: requires skill
+starfighter	piloting	requiring skilled pilot	piloting: requiring skilled pilot
+starfighter	piloting	requiring trained pilot	piloting: requiring trained pilot
+starfighter	piloting	requires training	piloting: requires training
+star wars: x-wing vs. tie fighter	pilots	luke skywalker	pilots: luke skywalker
+star wars: x-wing vs. tie fighter	pilots	darth vader	pilots: darth vader
+star wars: x-wing vs. tie fighter	pilots	rebel pilots	pilots: rebel pilots
+starfighter	pilots	experienced	pilots: experienced
+star wars: x-wing vs. tie fighter	pilots	empire pilots	pilots: empire pilots
+star wars: x-wing	pilots	rebel pilots	pilots: rebel pilots
+star wars: x-wing	pilots	allies	pilots: allies
+star wars: x-wing vs. tie fighter	pilots	aces	pilots: aces
+star wars: x-wing vs. tie fighter	pilots	imperial pilots	pilots: imperial pilots
+star wars: x-wing	pilots	luke skywalker	pilots: luke skywalker
+x-wing	pilots	rebel pilots	pilots: rebel pilots
+starfighter	pilots	skilled	pilots: skilled
+starfighter	pilots	trained	pilots: trained
+x-wing	pilots	allies	pilots: allies
+super star wars	platform	handheld	platform: handheld
+star wars: racer	platform	dreamcast	platform: dreamcast
+super star wars	platform	sega genesis	platform: sega genesis
+star wars: x-wing alliance	platform	video game	platform: video game
+star wars: racer	platform	nintendo 64	platform: nintendo 64
+star wars: x-wing alliance	platform	pc	platform: pc
+star wars: x-wing alliance	platform	pc game	platform: pc game
+star wars: racer	platform	playstation	platform: playstation
+star wars: racer	platform	arcade	platform: arcade
+super star wars	platform	console	platform: console
+star wars trilogy arcade	platform	video game	platform: video game
+star wars trilogy arcade	platform	electronic	platform: electronic
+star wars trilogy arcade	platform	home console	platform: home console
+super star wars	platform	nintendo entertainment system	platform: nintendo entertainment system
+super star wars	platform	atari 7800	platform: atari 7800
+star wars arcade	platform	handheld	platform: handheld
+star wars: rebel assault	platform	console	platform: console
+star wars trilogy arcade	platform	handheld console	platform: handheld console
+super star wars: return of the jedi	platform	sega genesis	platform: sega genesis
+super star wars: return of the jedi	platform	super nintendo entertainment system	platform: super nintendo entertainment system
+super star wars	platform	home console	platform: home console
+star wars trilogy arcade	platform	arcade machine	platform: arcade machine
+star wars: rebel assault	platform	playstation	platform: playstation
+super star wars	platform	super nintendo entertainment system	platform: super nintendo entertainment system
+super star wars	platform	atari 2600	platform: atari 2600
+star wars trilogy arcade	platform	home computer	platform: home computer
+star wars trilogy arcade	platform	console	platform: console
+star wars trilogy arcade	platform	arcade	platform: arcade
+star wars: rebel assault	platform	sega cd	platform: sega cd
+star wars: racer arcade	platform	arcade machine	platform: arcade machine
+star wars trilogy arcade	platform	coin-operated	platform: coin-operated
+star wars: rebel assault	platform	ps1	platform: ps1
+star wars: racer	platform	pc	platform: pc
+star wars trilogy arcade	platform	arcade cabinet	platform: arcade cabinet
+star wars: x-wing alliance	platform	microsoft windows	platform: microsoft windows
+star wars arcade	platform	arcade cabinet	platform: arcade cabinet
+star wars arcade	platform	pc	platform: pc
+star wars arcade	platform	console	platform: console
+star wars arcade	platform	arcade machine	platform: arcade machine
+star wars arcade	platform	machine	platform: machine
+star wars arcade	platform	arcade	platform: arcade
+star wars: racer arcade	platform	home console	platform: home console
+star wars: racer arcade	platform	handheld	platform: handheld
+star wars: racer	platform	arcade machine	platform: arcade machine
+star wars: x-wing alliance	platform	playstation	platform: playstation
+star wars: x-wing alliance	platform	macintosh	platform: macintosh
+star wars arcade	platform	home computer	platform: home computer
+super star wars	platform	arcade	platform: arcade
+star wars: rebel assault	platform	pc	platform: pc
+star wars trilogy arcade	platform	handheld	platform: handheld
+star wars: racer arcade	platform	arcade	platform: arcade
+star wars: x-wing alliance	platform	console	platform: console
+star wars: racer arcade	platform	console	platform: console
+star wars: racer	platform	console	platform: console
+star wars arcade	platform	home console	platform: home console
+super star wars	platform	nintendo	platform: nintendo
+super star wars	platform	super nintendo	platform: super nintendo
+star wars: racer arcade	platform	pc	platform: pc
+star wars: the empire strikes back	plot	luke trains with yoda	plot: luke trains with yoda
+star wars	plot	good vs evil	plot: good vs evil
+star wars: the empire strikes back	plot	darth vader's revelation	plot: darth vader's revelation
+star wars: return of the jedi	plot	princess leia	plot: princess leia
+star wars: return of the jedi	plot	jabba the hutt	plot: jabba the hutt
+super star wars: return of the jedi	plot	han solo	plot: han solo
+star wars: return of the jedi	plot	luke vs. vader	plot: luke vs. vader
+star wars: return of the jedi	plot	ewoks	plot: ewoks
+super star wars: return of the jedi	plot	jedi vs. sith	plot: jedi vs. sith
+super star wars: return of the jedi	plot	death star	plot: death star
+star wars: the empire strikes back	plot	han and leia's relationship	plot: han and leia's relationship
+star wars: the empire strikes back	plot	luke skywalker's training	plot: luke skywalker's training
+star wars: the empire strikes back	plot	battle between good and evil	plot: battle between good and evil
+super star wars: return of the jedi	plot	luke skywalker	plot: luke skywalker
+star wars	plot	jedi vs sith	plot: jedi vs sith
+star wars	plot	rebellion vs empire	plot: rebellion vs empire
+star wars	plot	quest for justice	plot: quest for justice
+the empire strikes back	plot	han and leia's relationship	plot: han and leia's relationship
+star wars: return of the jedi	plot	darth vader	plot: darth vader
+star wars: the empire strikes back	plot	battle between rebel alliance and galactic empire	plot: battle between rebel alliance and galactic empire
+star wars	plot	quest for power	plot: quest for power
+star wars	plot	battle between light and dark	plot: battle between light and dark
+return of the jedi: death star battle	plot	final confrontation with emperor palpatine	plot: final confrontation with emperor palpatine
+the empire strikes back	plot	luke trains with yoda	plot: luke trains with yoda
+the empire strikes back	plot	han and leia on the run	plot: han and leia on the run
+star wars: return of the jedi	plot	destruction of the death star	plot: destruction of the death star
+star wars: return of the jedi	plot	luke skywalker	plot: luke skywalker
+star wars: return of the jedi	plot	emperor palpatine	plot: emperor palpatine
+star wars: the empire strikes back	plot	han solo and leia organa escape from cloud city	plot: han solo and leia organa escape from cloud city
+the empire strikes back	plot	darth vader's revelation	plot: darth vader's revelation
+star wars: the empire strikes back	plot	han solo and leia organa on the run from empire	plot: han solo and leia organa on the run from empire
+star wars: return of the jedi	plot	death star	plot: death star
+star wars: return of the jedi	plot	han solo's redemption	plot: han solo's redemption
+star wars: return of the jedi	plot	luke skywalker vs. emperor palpatine	plot: luke skywalker vs. emperor palpatine
+star wars: the empire strikes back	plot	han and leia on the run	plot: han and leia on the run
+star wars: return of the jedi	plot	battle between rebels and empire	plot: battle between rebels and empire
+star wars: return of the jedi	plot	rescue of han solo	plot: rescue of han solo
+the empire strikes back	plot	luke skywalker's training	plot: luke skywalker's training
+star wars: return of the jedi	plot	destruction of death star	plot: destruction of death star
+star wars	plot	space battles	plot: space battles
+star wars	plot	hero's journey	plot: hero's journey
+star wars: return of the jedi	plot	redemption of anakin	plot: redemption of anakin
+star wars: return of the jedi	plot	jedi vs. empire	plot: jedi vs. empire
+star wars: x-wing alliance	plot	space battles	plot: space battles
+star wars: return of the jedi	plot	battle for the galaxy	plot: battle for the galaxy
+star wars: return of the jedi	plot	jedi master yoda's training	plot: jedi master yoda's training
+star wars: x-wing alliance	plot	rebel alliance vs. galactic empire	plot: rebel alliance vs. galactic empire
+the empire strikes back	plot	han solo's departure	plot: han solo's departure
+star wars: return of the jedi	plot	yoda	plot: yoda
+star wars: return of the jedi	plot	darth vader's redemption	plot: darth vader's redemption
+star wars: return of the jedi	plot	luke skywalker battles the empire	plot: luke skywalker battles the empire
+star wars: the empire strikes back	plot	han and leia evade empire	plot: han and leia evade empire
+star wars: return of the jedi	plot	han solo	plot: han solo
+star wars: return of the jedi	plot	obi-wan kenobi	plot: obi-wan kenobi
+the empire strikes back	plot	han solo and leia organa on the run	plot: han solo and leia organa on the run
+star wars: the empire strikes back	plot	han solo and leia organa on the run	plot: han solo and leia organa on the run
+star wars: return of the jedi	plot	sith	plot: sith
+star wars: the empire strikes back	plot	battle of hoth	plot: battle of hoth
+star wars: the empire strikes back	plot	han solo and leia organa flee from empire	plot: han solo and leia organa flee from empire
+the empire strikes back	plot	darth vader's true identity	plot: darth vader's true identity
+star wars: return of the jedi	plot	jedi	plot: jedi
+star wars: return of the jedi	plot	jedi vs. sith	plot: jedi vs. sith
+star wars: the empire strikes back	plot	luke skywalker trains with yoda	plot: luke skywalker trains with yoda
+star wars: return of the jedi	plot	battle of endor	plot: battle of endor
+star wars: return of the jedi	plot	redemption of anakin skywalker	plot: redemption of anakin skywalker
+the empire strikes back	plot	luke skywalker trains with yoda	plot: luke skywalker trains with yoda
+return of the jedi: death star battle	plot	rescue of han solo	plot: rescue of han solo
+the empire strikes back	plot	han solo and leia organa flee from empire	plot: han solo and leia organa flee from empire
+star wars: return of the jedi	plot	rebel alliance	plot: rebel alliance
+the empire strikes back	plot	darth vader reveals his true identity	plot: darth vader reveals his true identity
+star wars	plot device	death star	plot device: death star
+star wars	plot device	lightsaber	plot device: lightsaber
+star wars	plot device	force	plot device: force
+star wars	plot elements	lightsabers	plot elements: lightsabers
+star wars	plot elements	good vs evil	plot elements: good vs evil
+star wars	plot elements	jedi knights	plot elements: jedi knights
+return of the jedi: death star battle	plot relevance	redemption of anakin skywalker	plot relevance: redemption of anakin skywalker
+return of the jedi: death star battle	plot relevance	conclusion of the trilogy	plot relevance: conclusion of the trilogy
+star wars: the empire strikes back	plot setting	dagobah	plot setting: dagobah
+star wars: the empire strikes back	plot setting	cloud city	plot setting: cloud city
+star wars: the empire strikes back	plot setting	hoth	plot setting: hoth
+return of the jedi: death star battle	plot significance	key moment in the original trilogy	plot significance: key moment in the original trilogy
+return of the jedi: death star battle	plot significance	turning point in the rebellion	plot significance: turning point in the rebellion
+return of the jedi: death star battle	plot significance	turning point in the war	plot significance: turning point in the war
+return of the jedi: death star battle	plot significance	key to the rebel alliance's victory	plot significance: key to the rebel alliance's victory
+return of the jedi: death star battle	plot significance	key moment in the trilogy	plot significance: key moment in the trilogy
+star wars: the empire strikes back	plot twist	revealing darth vader's true identity	plot twist: revealing darth vader's true identity
+star wars: return of the jedi	plot twist	luke's discovery of his father's identity	plot twist: luke's discovery of his father's identity
+star wars: return of the jedi	plot twist	redemption of anakin skywalker	plot twist: redemption of anakin skywalker
+star wars	plots	quest	plots: quest
+star wars	plots	redemption	plots: redemption
+star wars	plots	rebellion against empire	plots: rebellion against empire
+star wars	plots	rebellion	plots: rebellion
+star wars	plots	good vs evil	plots: good vs evil
+star wars	plots	good vs. evil	plots: good vs. evil
+tamagotchi	popularity	children's favorite	popularity: children's favorite
+star wars arcade	popularity	iconic	popularity: iconic
+star wars: x-wing vs. tie fighter	popularity	popular	popularity: popular
+star wars trilogy arcade	popularity	low	popularity: low
+star wars trilogy arcade	popularity	medium	popularity: medium
+star wars: x-wing vs. tie fighter	popularity	iconic	popularity: iconic
+star wars arcade	popularity	classic	popularity: classic
+tamagotchi	popularity	worldwide	popularity: worldwide
+star wars: x-wing vs. tie fighter	popularity	cult classic	popularity: cult classic
+tamagotchi	popularity	adults	popularity: adults
+tamagotchi	popularity	iconic toy	popularity: iconic toy
+super star wars	popularity	high	popularity: high
+star wars: x-wing vs. tie fighter	popularity	famous	popularity: famous
+tamagotchi	popularity	1990s phenomenon	popularity: 1990s phenomenon
+tamagotchi	popularity	children	popularity: children
+star wars trilogy arcade	popularity	cult classic	popularity: cult classic
+tamagotchi	popularity	1990s	popularity: 1990s
+star wars: x-wing vs. tie fighter	popularity	tie fighter: menacing	popularity: tie fighter: menacing
+tamagotchi	popularity	global phenomenon	popularity: global phenomenon
+star wars: x-wing vs. tie fighter	popularity	x-wing: iconic	popularity: x-wing: iconic
+tamagotchi	popularity	global	popularity: global
+star wars trilogy arcade	popularity	high	popularity: high
+star wars trilogy arcade	popularity	iconic	popularity: iconic
+star wars trilogy arcade	popularity	classic	popularity: classic
+star wars trilogy arcade	popularity	retro gaming	popularity: retro gaming
+tamagotchi	popularity	children's toy	popularity: children's toy
+tamagotchi	portability	portable game	portability: portable game
+tamagotchi	portability	handheld device	portability: handheld device
+the empire strikes back	prequel	star wars: a new hope	prequel: star wars: a new hope
+star wars: return of the jedi	prequel	the phantom menace	prequel: the phantom menace
+star wars: return of the jedi	prequel	the empire strikes back	prequel: the empire strikes back
+star wars: the empire strikes back	prequel	a new hope	prequel: a new hope
+star wars: the empire strikes back	prequel to	return of the jedi	prequel to: return of the jedi
+star wars: return of the jedi	prequel to	the phantom menace	prequel to: the phantom menace
+starfighter	propulsion	sublight	propulsion: sublight
+starfighter	propulsion	engines	propulsion: engines
+starfighter	propulsion	sublight speed	propulsion: sublight speed
+starfighter	propulsion	hyperspace	propulsion: hyperspace
+starfighter	propulsion	hyperdrive	propulsion: hyperdrive
+starfighter	propulsion	hyperspace capable	propulsion: hyperspace capable
+starfighter	propulsion	high speed	propulsion: high speed
+super star wars	publisher	electronic arts	publisher: electronic arts
+star wars: x-wing vs. tie fighter	purpose	dogfighting	purpose: dogfighting
+star wars: x-wing	purpose	attack	purpose: attack
+star wars: x-wing	purpose	defend	purpose: defend
+tamagotchi	purpose	pet simulation	purpose: pet simulation
+tamagotchi	purpose	virtual pet	purpose: virtual pet
+star wars: x-wing vs. tie fighter	purpose	defense	purpose: defense
+star wars: x-wing	purpose	fighter	purpose: fighter
+tamagotchi	purpose	education	purpose: education
+starfighter	purpose	transport	purpose: transport
+starfighter	purpose	patrol	purpose: patrol
+starfighter	purpose	combat	purpose: combat
+starfighter	purpose	reconnaissance	purpose: reconnaissance
+star wars: x-wing vs. tie fighter	purpose	attack	purpose: attack
+x-wing	purpose	attack	purpose: attack
+x-wing	purpose	reconnaissance	purpose: reconnaissance
+star wars: x-wing vs. tie fighter	purpose	defend	purpose: defend
+tamagotchi	purpose	playing a game	purpose: playing a game
+x-wing	purpose	escort	purpose: escort
+tamagotchi	purpose	raising a virtual pet	purpose: raising a virtual pet
+tamagotchi	purpose	entertainment	purpose: entertainment
+starfighter	purpose	escorting	purpose: escorting
+star wars: return of the jedi	ranked	#13 on the american film institute's 100 years...100 movies	ranked: #13 on the american film institute's 100 years...100 movies
+star wars: rebel assault	reception	good graphics	reception: good graphics
+the empire strikes back	reception	mixed reviews	reception: mixed reviews
+star wars: rebel assault	reception	mixed reviews	reception: mixed reviews
+star wars: rebel assault	reception	positive reviews	reception: positive reviews
+star wars: racer	reception	successful game	reception: successful game
+star wars: racer	reception	positive reviews	reception: positive reviews
+star wars: rebel assault	reception	critical acclaim	reception: critical acclaim
+the empire strikes back	reception	critical acclaim	reception: critical acclaim
+the empire strikes back	reception	commercial success	reception: commercial success
+star wars: rebel assault	reception	cult classic	reception: cult classic
+star wars: racer arcade	reception	positive	reception: positive
+star wars: racer	reception	well-received	reception: well-received
+star wars: racer	reception	positive	reception: positive
+star wars: x-wing alliance	reception	well-received by critics	reception: well-received by critics
+super star wars	reception	positive	reception: positive
+super star wars	reception	cult classic	reception: cult classic
+star wars: rebel assault	reception	award-winning	reception: award-winning
+star wars: racer arcade	reception	well-received	reception: well-received
+star wars: rebel assault	reception	positive	reception: positive
+star wars: rebel assault	reception	good soundtracks	reception: good soundtracks
+star wars: x-wing alliance	reception	criticized for graphics	reception: criticized for graphics
+star wars: return of the jedi	reception	cult classic	reception: cult classic
+star wars: racer arcade	reception	success	reception: success
+star wars: rebel assault	reception	well-received	reception: well-received
+star wars: rebel assault	reception	criticized for controls	reception: criticized for controls
+star wars: the empire strikes back	reception	critically praised	reception: critically praised
+star wars: the empire strikes back	reception	highly acclaimed	reception: highly acclaimed
+star wars: the empire strikes back	reception	critical acclaim	reception: critical acclaim
+star wars: x-wing alliance	reception	generally positive	reception: generally positive
+the empire strikes back	reception	cult classic	reception: cult classic
+star wars: x-wing alliance	reception	criticized for technical issues	reception: criticized for technical issues
+super star wars	reception	positive reviews	reception: positive reviews
+star wars: x-wing alliance	reception	positive reviews	reception: positive reviews
+star wars: return of the jedi	reception	positive reviews	reception: positive reviews
+star wars: racer arcade	reception	positive reviews	reception: positive reviews
+star wars: the empire strikes back	reception	highly rated	reception: highly rated
+the empire strikes back	reception	positive reviews	reception: positive reviews
+super star wars	reception	critically acclaimed	reception: critically acclaimed
+star wars: the empire strikes back	release	second film in trilogy	release: second film in trilogy
+star wars: return of the jedi	release	1983	release: 1983
+star wars: the empire strikes back	release	1980	release: 1980
+star wars: return of the jedi	release	may 25th	release: may 25th
+the empire strikes back	release	1980	release: 1980
+the empire strikes back	release	directed by irvin kershner	release: directed by irvin kershner
+star wars trilogy arcade	release date	1983	release date: 1983
+super star wars	release date	1990	release date: 1990
+the empire strikes back	release date	1980	release date: 1980
+the empire strikes back	release date	may	release date: may
+star wars: racer	release date	1999	release date: 1999
+super star wars	release date	1989	release date: 1989
+star wars: racer	release date	may 21	release date: may 21
+star wars: racer	release date	north america	release date: north america
+star wars trilogy arcade	release date	1984	release date: 1984
+star wars arcade	release date	1983	release date: 1983
+star wars: the empire strikes back	release date	june 20th	release date: june 20th
+star wars: return of the jedi	release date	december 20	release date: december 20
+star wars: rebel assault	release date	1997	release date: 1997
+star wars: rebel assault	release date	pc	release date: pc
+star wars: x-wing alliance	release date	1998	release date: 1998
+star wars arcade	release date	1984	release date: 1984
+star wars: x-wing alliance	release date	pc game	release date: pc game
+star wars: rebel assault	release date	ps1	release date: ps1
+star wars arcade	release date	early 80s	release date: early 80s
+star wars: racer	release date	2000	release date: 2000
+star wars: return of the jedi	release date	summer blockbuster	release date: summer blockbuster
+star wars trilogy arcade	release date	1985	release date: 1985
+star wars: racer arcade	release date	1999	release date: 1999
+star wars: return of the jedi	release date	1983	release date: 1983
+the empire strikes back	release date	summer	release date: summer
+star wars: rebel assault	release date	may	release date: may
+star wars: the empire strikes back	release date	1980	release date: 1980
+star wars: the empire strikes back	release year	1980	release year: 1980
+star wars trilogy arcade	release year	1991	release year: 1991
+super star wars: return of the jedi	release year	1992	release year: 1992
+star wars trilogy arcade	release year	1992	release year: 1992
+star wars: racer	release year	1999	release year: 1999
+star wars trilogy arcade	release year	1993	release year: 1993
+star wars trilogy arcade	release year	1985	release year: 1985
+star wars: rebel assault	release year	1993	release year: 1993
+star wars trilogy arcade	release year	1983	release year: 1983
+super star wars: return of the jedi	release year	1983	release year: 1983
+star wars trilogy arcade	release year	1984	release year: 1984
+super star wars	release year	1992	release year: 1992
+super star wars	release year	1990s	release year: 1990s
+star wars: return of the jedi	release year	1983	release year: 1983
+star wars: rebel assault	release year	1997	release year: 1997
+star wars: x-wing alliance	release year	1998	release year: 1998
+super star wars	release year	1989	release year: 1989
+the empire strikes back	release year	1980	release year: 1980
+the empire strikes back	release year	may	release year: may
+super star wars	release year	1987	release year: 1987
+super star wars	release year	1985	release year: 1985
+star wars trilogy arcade	released	1984	released: 1984
+super star wars	released	1990s	released: 1990s
+star wars trilogy arcade	released	1983	released: 1983
+super star wars	released	1989	released: 1989
+star wars: x-wing alliance	released by	activision	released by: activision
+star wars: x-wing alliance	released by	lucasarts	released by: lucasarts
+star wars: the empire strikes back	released in	1980	released in: 1980
+star wars: return of the jedi	released year	1983	released year: 1983
+the empire strikes back	released year	1980	released year: 1980
+star wars trilogy arcade	releases	1983	releases: 1983
+star wars trilogy arcade	releases	1985	releases: 1985
+star wars trilogy arcade	releases	1984	releases: 1984
+tamagotchi	reproduction	hatching new pets	reproduction: hatching new pets
+tamagotchi	reproduction	laying eggs	reproduction: laying eggs
+x-wing	role	fighter	role: fighter
+x-wing	role	bomber	role: bomber
+x-wing	role	reconnaissance	role: reconnaissance
+star wars: x-wing	role	support	role: support
+star wars: x-wing	role	reconnaissance	role: reconnaissance
+star wars: x-wing	role	attack	role: attack
+star wars: the empire strikes back	screenplay	lawrence kasdan	screenplay: lawrence kasdan
+star wars: the empire strikes back	screenplay	leigh brackett	screenplay: leigh brackett
+star wars: the empire strikes back	screenplay	george lucas	screenplay: george lucas
+star wars: the empire strikes back	sequel	return of the jedi	sequel: return of the jedi
+star wars: return of the jedi	sequel	the phantom menace	sequel: the phantom menace
+star wars: return of the jedi	sequel	the empire strikes back	sequel: the empire strikes back
+star wars: the empire strikes back	sequel to	star wars	sequel to: star wars
+star wars: return of the jedi	sequel to	the empire strikes back	sequel to: the empire strikes back
+super star wars	sequels	super star wars ii	sequels: super star wars ii
+super star wars	sequels	super star wars: the empire strikes back	sequels: super star wars: the empire strikes back
+star wars: racer arcade	sequels	star wars: racer ii	sequels: star wars: racer ii
+star wars: racer arcade	series	star wars	series: star wars
+star wars: racer arcade	series	racer	series: racer
+star wars: racer	series	racing	series: racing
+star wars: rebel assault	series	rebel assault	series: rebel assault
+star wars: racer arcade	series	podracing	series: podracing
+star wars: racer	series	star wars	series: star wars
+star wars: rebel assault	series	star wars	series: star wars
+the empire strikes back	setting	space	setting: space
+star wars: return of the jedi	setting	coruscant	setting: coruscant
+star wars: return of the jedi	setting	death star	setting: death star
+star wars: return of the jedi	setting	galactic empire	setting: galactic empire
+star wars	setting	planets	setting: planets
+star wars	setting	space	setting: space
+star wars	setting	galaxy far far away	setting: galaxy far far away
+star wars: return of the jedi	setting	forest moon of endor	setting: forest moon of endor
+the empire strikes back	setting	planet hoth	setting: planet hoth
+star wars	setting	planet	setting: planet
+star wars: x-wing alliance	setting	star wars universe	setting: star wars universe
+star wars	setting	space battles	setting: space battles
+star wars	setting	galaxy far, far away	setting: galaxy far, far away
+star wars: racer	setting	star wars universe	setting: star wars universe
+star wars: racer	setting	space	setting: space
+star wars: racer	setting	galaxy	setting: galaxy
+star wars: return of the jedi	setting	cloud city	setting: cloud city
+star wars arcade	setting	space battles	setting: space battles
+star wars: return of the jedi	setting	galactic republic	setting: galactic republic
+star wars: return of the jedi	setting	tatooine	setting: tatooine
+star wars: return of the jedi	setting	endor	setting: endor
+star wars: return of the jedi	setting	dagobah	setting: dagobah
+star wars: the empire strikes back	setting	cloud city	setting: cloud city
+star wars: the empire strikes back	setting	hoth	setting: hoth
+star wars: x-wing alliance	setting	galactic civil war	setting: galactic civil war
+star wars: the empire strikes back	setting	dagobah	setting: dagobah
+star wars: the empire strikes back	setting	space	setting: space
+star wars arcade	setting	galactic war	setting: galactic war
+the empire strikes back	setting	cloud city	setting: cloud city
+star wars: return of the jedi	setting	moon of endor	setting: moon of endor
+star wars arcade	setting	galactic	setting: galactic
+star wars arcade	setting	star wars universe	setting: star wars universe
+return of the jedi: death star battle	setting	galactic empire	setting: galactic empire
+star wars	setting	outer space	setting: outer space
+the empire strikes back	setting	hoth	setting: hoth
+star wars arcade	setting	space	setting: space
+the empire strikes back	setting	dagobah	setting: dagobah
+star wars: return of the jedi	setting	star wars galaxy	setting: star wars galaxy
+return of the jedi: death star battle	setting	rebel alliance	setting: rebel alliance
+star wars	setting	multiple planets	setting: multiple planets
+star wars: racer	settings	tatooine	settings: tatooine
+star wars: racer	settings	coruscant	settings: coruscant
+star wars: racer	settings	geonosis	settings: geonosis
+starfighter	shape	angular	shape: angular
+starfighter	shape	futuristic	shape: futuristic
+starfighter	size	medium	size: medium
+star wars: x-wing vs. tie fighter	size	medium	size: medium
+star wars: x-wing vs. tie fighter	size	small	size: small
+starfighter	size	small	size: small
+star wars: x-wing vs. tie fighter	size	large	size: large
+starfighter	size	large	size: large
+star wars: return of the jedi	space battles	battle of endor	space battles: battle of endor
+star wars: return of the jedi	space battles	battle of the death star	space battles: battle of the death star
+star wars: x-wing vs. tie fighter	spacecraft	empire	spacecraft: empire
+star wars: x-wing vs. tie fighter	spacecraft	starship	spacecraft: starship
+star wars: x-wing vs. tie fighter	spacecraft	x-wing	spacecraft: x-wing
+star wars: x-wing vs. tie fighter	spacecraft	aircraft	spacecraft: aircraft
+star wars: x-wing vs. tie fighter	spacecraft	tie fighter	spacecraft: tie fighter
+star wars: x-wing vs. tie fighter	spacecraft	starfighter	spacecraft: starfighter
+star wars: x-wing vs. tie fighter	spacecraft	fighter	spacecraft: fighter
+star wars: x-wing vs. tie fighter	spacecraft	massive	spacecraft: massive
+star wars: x-wing vs. tie fighter	spacecraft	rebel alliance	spacecraft: rebel alliance
+star wars: x-wing	speed	high speed	speed: high speed
+starfighter	speed	high	speed: high
+star wars: x-wing vs. tie fighter	speed	high	speed: high
+starfighter	speed	fast	speed: fast
+star wars: x-wing	speed	high	speed: high
+star wars: x-wing vs. tie fighter	speed	agile	speed: agile
+star wars: x-wing vs. tie fighter	speed	x-wing: fast	speed: x-wing: fast
+star wars: x-wing	speed	fastest in the galaxy	speed: fastest in the galaxy
+star wars: x-wing vs. tie fighter	speed	fast	speed: fast
+star wars: x-wing vs. tie fighter	speed	high speed	speed: high speed
+starfighter	speed	agile	speed: agile
+star wars: x-wing	speed	fast	speed: fast
+x-wing	speed	fast	speed: fast
+starfighter	speed	high-speed	speed: high-speed
+star wars: x-wing	speed	hyperspace capable	speed: hyperspace capable
+x-wing	speed	highly agile	speed: highly agile
+starfighter	speed	hyperspace capable	speed: hyperspace capable
+starfighter	speed	sublight speed	speed: sublight speed
+star wars: x-wing vs. tie fighter	speed	swift	speed: swift
+star wars: x-wing vs. tie fighter	speed	tie fighter: agile	speed: tie fighter: agile
+star wars: x-wing alliance	story	set in the star wars universe	story: set in the star wars universe
+star wars: x-wing alliance	story	follows the rebel alliance	story: follows the rebel alliance
+star wars: x-wing alliance	story	features luke skywalker	story: features luke skywalker
+star wars	story setting	planets	story setting: planets
+star wars: return of the jedi	story setting	galactic empire	story setting: galactic empire
+star wars: return of the jedi	story setting	death star	story setting: death star
+star wars	story setting	galaxy far, far away	story setting: galaxy far, far away
+star wars	story setting	space battles	story setting: space battles
+star wars: return of the jedi	story setting	dagobah	story setting: dagobah
+star wars: return of the jedi	story setting	forest moon of endor	story setting: forest moon of endor
+star wars	story type	space battle	story type: space battle
+star wars	story type	good vs evil	story type: good vs evil
+star wars	story type	jedi vs sith	story type: jedi vs sith
+star wars	story type	quest	story type: quest
+star wars	story type	space adventure	story type: space adventure
+star wars: the empire strikes back	storyline	space battle	storyline: space battle
+star wars: return of the jedi	storyline	rescue of han solo	storyline: rescue of han solo
+star wars: return of the jedi	storyline	destruction of death star	storyline: destruction of death star
+star wars: x-wing alliance	storyline	imperial forces	storyline: imperial forces
+star wars: x-wing alliance	storyline	rebel alliance	storyline: rebel alliance
+star wars: x-wing alliance	storyline	star wars universe	storyline: star wars universe
+star wars: the empire strikes back	storyline	han and leia's relationship	storyline: han and leia's relationship
+star wars: x-wing alliance	storyline	empire	storyline: empire
+star wars: rebel assault	storyline	imperial forces	storyline: imperial forces
+star wars: rebel assault	storyline	star wars universe	storyline: star wars universe
+star wars: x-wing alliance	storyline	star wars	storyline: star wars
+star wars: x-wing alliance	storyline	x-wing pilots	storyline: x-wing pilots
+the empire strikes back	storyline	continues from a new hope	storyline: continues from a new hope
+star wars: the empire strikes back	storyline	jedi training	storyline: jedi training
+star wars: return of the jedi	storyline	battle between rebel alliance and galactic empire	storyline: battle between rebel alliance and galactic empire
+star wars	storyline	quest for peace	storyline: quest for peace
+star wars: rebel assault	storyline	rebel alliance vs. empire	storyline: rebel alliance vs. empire
+star wars: rebel assault	storyline	galactic empire	storyline: galactic empire
+star wars: the empire strikes back	storyline	han solo and leia organa on the run	storyline: han solo and leia organa on the run
+star wars: rebel assault	storyline	rebel alliance vs galactic empire	storyline: rebel alliance vs galactic empire
+star wars: the empire strikes back	storyline	luke skywalker trains with yoda	storyline: luke skywalker trains with yoda
+star wars: the empire strikes back	storyline	han solo and leia escape from cloud city	storyline: han solo and leia escape from cloud city
+star wars: return of the jedi	storyline	redemption of anakin skywalker	storyline: redemption of anakin skywalker
+star wars: return of the jedi	storyline	battle of endor	storyline: battle of endor
+star wars: return of the jedi	storyline	luke skywalker vs. emperor palpatine	storyline: luke skywalker vs. emperor palpatine
+star wars: x-wing alliance	storyline	features rebel alliance	storyline: features rebel alliance
+the empire strikes back	storyline	luke trains with yoda	storyline: luke trains with yoda
+star wars: x-wing alliance	storyline	features iconic characters	storyline: features iconic characters
+star wars: x-wing alliance	storyline	involves rebel alliance	storyline: involves rebel alliance
+star wars: the empire strikes back	storyline	darth vader's revelation	storyline: darth vader's revelation
+star wars: x-wing alliance	storyline	help destroy death star	storyline: help destroy death star
+star wars: return of the jedi	storyline	battle between good and evil	storyline: battle between good and evil
+star wars: return of the jedi	storyline	revenge of darth vader	storyline: revenge of darth vader
+star wars: rebel assault	storyline	star wars	storyline: star wars
+star wars: x-wing alliance	storyline	rebel alliance vs. galactic empire	storyline: rebel alliance vs. galactic empire
+star wars: x-wing alliance	storyline	join rebel alliance	storyline: join rebel alliance
+star wars: rebel assault	storyline	rebel alliance	storyline: rebel alliance
+star wars: x-wing alliance	storyline	space battles	storyline: space battles
+star wars: x-wing alliance	storyline	hero's journey	storyline: hero's journey
+super star wars: return of the jedi	storyline	based on the movie	storyline: based on the movie
+super star wars: return of the jedi	storyline	features iconic scenes	storyline: features iconic scenes
+star wars: rebel assault	storyline	battle of yavin	storyline: battle of yavin
+star wars: rebel assault	storyline	empire	storyline: empire
+star wars: x-wing alliance	storyline	fight against empire	storyline: fight against empire
+star wars trilogy arcade	storyline	original trilogy	storyline: original trilogy
+the empire strikes back	storyline	han and leia on the run	storyline: han and leia on the run
+star wars: the empire strikes back	storyline	luke trains with yoda	storyline: luke trains with yoda
+star wars: the empire strikes back	storyline	han and leia flee from empire	storyline: han and leia flee from empire
+star wars	storyline	good vs evil	storyline: good vs evil
+star wars: rebel assault	storyline	star wars franchise	storyline: star wars franchise
+star wars trilogy arcade	storyline	star wars	storyline: star wars
+star wars trilogy arcade	storyline	empire vs rebellion	storyline: empire vs rebellion
+star wars: return of the jedi	storyline	emperor	storyline: emperor
+star wars: return of the jedi	storyline	sith	storyline: sith
+star wars: return of the jedi	storyline	death star	storyline: death star
+star wars: return of the jedi	storyline	han solo	storyline: han solo
+star wars: return of the jedi	storyline	luke skywalker	storyline: luke skywalker
+star wars: x-wing alliance	storyline	set in the star wars universe	storyline: set in the star wars universe
+star wars	storyline	jedi vs sith	storyline: jedi vs sith
+star wars: return of the jedi	storyline	jedi	storyline: jedi
+super star wars	success	cult classic	success: cult classic
+super star wars	success	commercially successful	success: commercially successful
+return of the jedi: death star battle	technology	starfighters	technology: starfighters
+star wars	technology	lightsaber	technology: lightsaber
+star wars	technology	spaceship	technology: spaceship
+star wars	technology	blaster	technology: blaster
+return of the jedi: death star battle	technology	x-wings	technology: x-wings
+return of the jedi: death star battle	technology	star destroyers	technology: star destroyers
+return of the jedi: death star battle	technology	laser blasters	technology: laser blasters
+star wars	technology	hyperdrive	technology: hyperdrive
+return of the jedi: death star battle	technology	tie fighter	technology: tie fighter
+star wars	technology	droids	technology: droids
+return of the jedi: death star battle	technology	y-wing	technology: y-wing
+return of the jedi: death star battle	technology	force powers	technology: force powers
+return of the jedi: death star battle	technology	proton torpedoes	technology: proton torpedoes
+return of the jedi: death star battle	technology	laser cannons	technology: laser cannons
+star wars: x-wing vs. tie fighter	technology	experimental	technology: experimental
+return of the jedi: death star battle	technology	force lightning	technology: force lightning
+star wars	technology	lightsabers	technology: lightsabers
+star wars	technology	blasters	technology: blasters
+star wars	technology	starships	technology: starships
+star wars	technology	force	technology: force
+return of the jedi: death star battle	technology	blasters	technology: blasters
+star wars: x-wing vs. tie fighter	technology	high-tech	technology: high-tech
+return of the jedi: death star battle	technology	t-65 x-wing	technology: t-65 x-wing
+return of the jedi: death star battle	technology	laser blasts	technology: laser blasts
+return of the jedi: death star battle	technology	x-wing	technology: x-wing
+star wars: x-wing vs. tie fighter	technology	laser-powered	technology: laser-powered
+star wars: x-wing vs. tie fighter	technology	advanced	technology: advanced
+return of the jedi: death star battle	technology	lightsabers	technology: lightsabers
+star wars	theme	friendship	theme: friendship
+star wars	theme	redemption	theme: redemption
+star wars	theme	self-discovery	theme: self-discovery
+star wars	time period	historical	time period: historical
+star wars	time period	modern	time period: modern
+star wars	time period	ancient	time period: ancient
+the empire strikes back	title	sequel	title: sequel
+the empire strikes back	title	second installment	title: second installment
+the empire strikes back	tone	dark	tone: dark
+the empire strikes back	tone	emotional	tone: emotional
+the empire strikes back	tone	intense	tone: intense
+star wars	tone	dramatic	tone: dramatic
+star wars	tone	epic	tone: epic
+star wars	tone	adventurous	tone: adventurous
+star wars	tone	action-packed	tone: action-packed
+star wars	tone	humorous	tone: humorous
+tamagotchi	toy	electronic	toy: electronic
+tamagotchi	toy	handheld	toy: handheld
+star wars: racer	type	arcade game	type: arcade game
+star wars: racer	type	racing game	type: racing game
+tamagotchi	type	electronic pet	type: electronic pet
+starfighter	type	vehicle	type: vehicle
+x-wing	type	starfighter	type: starfighter
+super star wars	type	video game	type: video game
+starfighter	type	fighter jet	type: fighter jet
+starfighter	type	spacecraft	type: spacecraft
+super star wars	type	arcade game	type: arcade game
+starfighter	type	fighter	type: fighter
+star wars trilogy arcade	type	video game	type: video game
+star wars trilogy arcade	type	arcade game	type: arcade game
+tamagotchi	type	digital pet	type: digital pet
+star wars: x-wing	type	fighter	type: fighter
+star wars: x-wing	type	spacecraft	type: spacecraft
+x-wing	type	spacecraft	type: spacecraft
+star wars: x-wing	type	fighter jet	type: fighter jet
+star wars: x-wing	type	spaceship	type: spaceship
+star wars: x-wing	type	starfighter	type: starfighter
+tamagotchi	type	handheld game	type: handheld game
+starfighter	used by	space forces	used by: space forces
+starfighter	used by	galactic empire	used by: galactic empire
+starfighter	used by	rebel alliance	used by: rebel alliance
+starfighter	used by	pilots	used by: pilots
+star wars: x-wing vs. tie fighter	used by	galactic empire	used by: galactic empire
+starfighter	used by	private pilot	used by: private pilot
+starfighter	used by	privateer	used by: privateer
+starfighter	used by	empire	used by: empire
+starfighter	used by	rebels	used by: rebels
+starfighter	used by	individual pilot	used by: individual pilot
+star wars: x-wing vs. tie fighter	used by	rebel alliance	used by: rebel alliance
+star wars: x-wing	used for	battle	used for: battle
+star wars: x-wing vs. tie fighter	used for	dogfights	used for: dogfights
+star wars: x-wing vs. tie fighter	used for	space battles	used for: space battles
+star wars: x-wing	used for	patrol	used for: patrol
+starfighter	used for	dogfighting	used for: dogfighting
+starfighter	used for	space battles	used for: space battles
+star wars: x-wing vs. tie fighter	used for	x-wing: rebel alliance	used for: x-wing: rebel alliance
+star wars: x-wing vs. tie fighter	used for	tie fighter: galactic empire	used for: tie fighter: galactic empire
+starfighter	used for	reconnaissance	used for: reconnaissance
+starfighter	used for	patrol	used for: patrol
+starfighter	used for	battle	used for: battle
+star wars: x-wing	used for	rescue	used for: rescue
+tamagotchi	user interaction	disciplining	user interaction: disciplining
+tamagotchi	user interaction	caring	user interaction: caring
+tamagotchi	user interaction	feeding	user interaction: feeding
+tamagotchi	user interaction	playing	user interaction: playing
+tamagotchi	user interaction	punishing	user interaction: punishing
+return of the jedi: death star battle	vehicles	imperial star destroyers	vehicles: imperial star destroyers
+return of the jedi: death star battle	vehicles	tie fighters	vehicles: tie fighters
+return of the jedi: death star battle	vehicles	millennium falcon	vehicles: millennium falcon
+star wars: x-wing vs. tie fighter	vehicles	laser-equipped	vehicles: laser-equipped
+star wars: x-wing vs. tie fighter	vehicles	spacecraft	vehicles: spacecraft
+return of the jedi: death star battle	vehicles	star destroyer	vehicles: star destroyer
+return of the jedi: death star battle	vehicles	tie fighter	vehicles: tie fighter
+return of the jedi: death star battle	vehicles	x-wing	vehicles: x-wing
+return of the jedi: death star battle	vehicles	x-wings	vehicles: x-wings
+star wars: x-wing vs. tie fighter	vehicles	fighter	vehicles: fighter
+return of the jedi: death star battle	vessels	y-wing	vessels: y-wing
+return of the jedi: death star battle	vessels	millennium falcon	vessels: millennium falcon
+return of the jedi: death star battle	vessels	x-wing	vessels: x-wing
+return of the jedi: death star battle	vessels	tie fighter	vessels: tie fighter
+star wars: return of the jedi	villain	emperor palpatine	villain: emperor palpatine
+star wars: return of the jedi	villain	darth vader	villain: darth vader
+star wars: the empire strikes back	writers	leigh brackett	writers: leigh brackett
+star wars: the empire strikes back	writers	george lucas	writers: george lucas
+star wars: the empire strikes back	writers	lawrence kasdan	writers: lawrence kasdan
+super star wars	year of release	1995	year of release: 1995
+super star wars	year of release	1992	year of release: 1992
+star wars: return of the jedi	year released	1983	year released: 1983
+star wars arcade	year released	1983	year released: 1983
+star wars: racer arcade	year released	1999	year released: 1999

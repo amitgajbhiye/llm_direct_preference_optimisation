@@ -66,12 +66,13 @@ def get_wikidata_facet_colon(wikidata_file):
 
 
 wikidata_facet_prop = "data/wikidata_facet_prop/*_parsed_all_cols.tsv"
-# facet_colon_property_files = glob(wikidata_facet_prop)
-facet_colon_property_files = [
-    "data/wikidata_facet_prop/facet_property_cathedrals_architectural style_Gothic architecture_dataset_parsed_all_cols.tsv"
-]
+facet_colon_property_files = glob(wikidata_facet_prop)
 
-print(f"wikidata_files")
+# facet_colon_property_files = [
+#     "data/wikidata_facet_prop/facet_property_cathedrals_architectural style_Gothic architecture_dataset_parsed_all_cols.tsv"
+# ]
+
+print(f"wikidata_files_all")
 print(f"{facet_colon_property_files}")
 
 
@@ -116,7 +117,7 @@ for fact_property_file in facet_colon_property_files:
     file_name, file_extension = os.path.splitext(file_name_with_ext)
 
     out_file_name = os.path.join(
-        "wikidata", os.path.basename(MODEL_ID), f"{file_name}_embeds.pkl"
+        "wikidata", os.path.basename(MODEL_ID), f"{file_name.replace("parsed_all_cols", "parsed_all_cols")}_embeds.pkl"
     )
     pickle_output_file = os.path.join("embeds", out_file_name)
 
