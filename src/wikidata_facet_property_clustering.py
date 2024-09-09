@@ -423,6 +423,7 @@ if __name__ == "__main__":
     logger.info(f"embed_files:{embed_files}")
 
     for embed_file in embed_files:
+
         logger.info(f"clustering_embedding_file: {embed_file}")
         config["embedding_file"] = embed_file
         config["clusters_output_file"] = embed_file.replace(".pkl", "")
