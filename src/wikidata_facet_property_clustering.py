@@ -241,7 +241,8 @@ def max_jaccard_gold_and_predicted_clusters(
         columns={
             "entity_human_readable": "concept",
             "object_human_readable": "property",
-        }
+        },
+        inplace=True,
     )
 
     def lower_case(text):
@@ -249,6 +250,9 @@ def max_jaccard_gold_and_predicted_clusters(
         text = " ".join(text)
 
         return text
+
+    logger.info("taxo_gold_df")
+    logger.info(taxo_df)
 
     taxo_df["concept"] = taxo_df["concept"].apply(lower_case)
     taxo_df["property"] = taxo_df["property"].apply(lower_case)
