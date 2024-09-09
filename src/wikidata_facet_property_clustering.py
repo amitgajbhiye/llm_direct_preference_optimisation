@@ -409,7 +409,6 @@ if __name__ == "__main__":
     logger.info("The model is run with the following configuration")
     logger.info(f"\n {config} \n")
 
-    do_preference_exp = config["do_preference_exp"]
     facet_property_separator = config["facet_property_separator"]
 
     logger.info(f"Experiment WIKIDATA with default preference param.")
