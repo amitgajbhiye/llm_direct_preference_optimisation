@@ -1,0 +1,11 @@
+{
+    "experiment_name": "13_all_wikidata_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10",
+    "log_dir": "logs/wikidata",
+    "taxo_name": "wikidata",
+    "wikidata_gold_taxo_dir": "data/wikidata",
+    "wikidata_embedding_dir": "embeds/wikidata/LLM2Vec-Mistral-7B-Instruct-v2-mntp",
+    "all_parsed_data_file_dir": "data/wikidata_facet_prop",
+    "output_dir": "data/wikidata_jaccard_outputs",
+    "clusters_output_file": null,
+    "facet_property_separator": ":"
+}
