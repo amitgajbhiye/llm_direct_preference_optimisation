@@ -8,7 +8,6 @@ from argparse import ArgumentParser
 import numpy as np
 import pandas as pd
 from sklearn.cluster import AffinityPropagation
-from sklearn.metrics import euclidean_distances
 from sklearn.preprocessing import StandardScaler
 
 from utilities import create_directories, get_execution_time, read_config
