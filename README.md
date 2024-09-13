@@ -12,16 +12,19 @@ To execute the above steps use the following scripts.
 
 `git clone https://github.com/amitgajbhiye/llm_direct_preference_optimisation.git`
 
+2) Create the conda environment from file the `environment_prompting.yml` using the following command.
 
-2) To prompt the Llama3 model use the following command.
+`conda env create -f environment_prompting.yml`
+
+3) To prompt the Llama3 model use the following command.
 
 `python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/5_llama3_1inc_wikidata_repeat_10.json`
 
-3) Generate the embeddings using the following script by specifying the `facet_colon_property_file` in the script.
+4) Generate the embeddings using the following script by specifying the `facet_colon_property_file` in the script.
 
 `python src/embeds_llm2vec.py`
 
-4) Cluster the `facet: property` embeddings use the following script.
+5) Cluster the `facet: property` embeddings use the following script.
 
 `python3 src/wikidata_facet_property_clustering.py --config_file  configs/clustering/11_wine_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10.json`
 
