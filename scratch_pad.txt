@@ -1,0 +1,671 @@
+
+llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must be in valid JSON. Don't add explanation beyond the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Write the ten most salient properties of the following concept.
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+Concept: <CONCEPT> <|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+llama3_8B_inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "acorn".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "acorn", "properties": ["fruit", "located in trees", "part of oak", "have seeds"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "action figure".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "action figure", "properties": ["doll", "located in toy stores", "used for playing"]}
+Write the ten most salient properties of the concept "airplane".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "airplane", "properties": ["a large machine with wings", "have propellers", "used for traveling"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "acne medication".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "acne medication", "properties": ["used for getting rid of pimples", "located in drug stores", "medicine",]}
+Write the ten most salient properties of the concept "animals".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "animals", "properties": ["part of ecosystems", "located in pet stores", "have bodies", "used for food"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "shed".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "shed", "properties": ["located in backyard", "used for storage", "have tools"]}
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "<CONCEPT>".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+
+{"concept": "bike", "properties": ['used for riding', 'bicycles', 'capable of crashs', 'capable of skids', 'located in garages', 'located in streets', 'located in toy stores', 'used for commuting', 'used for transport', 'common in asia']}
+
+
+{"concept": "boat", "properties": ['located in bodies of water', 'made of fiber', 'means of transport', 'used for fishing', 'located in garages', 'used for recreation', 'used for rowing', 'used for travel', 'have motors', 'have sails']
+
+{"concept": "cake", "properties": ['deserts', 'used for weddings', 'used for special occasions', 'made of eggs', 'located in bakeries', 'located in birthday parties', 'made of flour', 'located in grocery stores', 'used for birthdays', 'baked in ovens']}
+
+
+
+/home/amitgajbhiye/cardiff_work/llm_direct_preference_optimisation/data/ontology_concepts/llama3_with_3inc_exp_generated_transport_concepts_properties.txt
+
+
+isa, hasPart, locatedAt, usedFor
+
+
+{"concept": "acorn", "properties": ["fruit", "located in trees", "part of oak", "have seeds"]}
+
+acorn	located in trees
+acorn	fruit
+acorns	part of oak
+acorns	have seeds
+
+
+{"concept": "action figure", "properties": ["doll", "located in toy stores", "used for playing"]}
+
+action figure	doll
+action figure	located in toy stores
+action figure	used for playing
+
+
+{"concept": "airplane", "properties": ["a large machine with wings", "have propellers", "used for traveling"]}
+
+airplane	aircrafts
+airplane	a large machine with wings
+airplane	used for traveling
+airplane 	have propellers
+
+{"concept": "acne medication", "properties": ["used for getting rid of pimples", "located in drug stores", "medicine",]}
+
+acne medication	used for getting rid of pimples
+acne medication	located in drug stores
+acne medication        medicine
+
+
+{"concept": "animals", "properties": ["part of ecosystems", "located in pet stores", "have bodies", "used for food"]}
+animals	part of ecosystems
+animals	located in pet stores
+animals	have bodies
+animals	used for food
+
+
+{"concept": "banana", "properties": ["edible fruit", "have potassium", "located in stores", "used for eating"]}
+
+bananas	herbs
+bananas	bunchs
+bananas	dessert
+bananas	edible fruit
+bananas	films
+bananas	food
+bananas	fruit
+bananas	hands
+bananas	located in pantries
+bananas	located in stomachs
+bananas	located in stores
+bananas	used for eating
+bananas	yellow
+bananas	have peels
+bananas	have potassium
+
+
+{"concept": "shed", "properties": ["located in backyard", "used for storage", "have tools"]}
+
+sheds	located in ranchs
+sheds	located in backyards
+sheds	used for storage
+sheds	have tools
+
+
+
+animals	located in cafes
+animals	located in fairgrounds
+animals	located in fairs
+animals	located in farms
+
+animals	have meat
+animals	located in pet shops
+animals	located in state parks
+animals	located in woodlands
+animals	located in zoos
+animals	mammals
+animals	organisms
+animals	part of animals
+animals	part of ecology
+animals	part of ecosystems
+animals	part of nature
+animals	singles
+animals	solid objects
+animals	used for companionship
+
+animals	used for fur
+animals	used for pets
+animals	used for petting
+animals	used for races
+animals	desire eats
+animals	have babies
+animals	have bodies
+animals	have bones
+animals	have ears
+animals	have emotion
+animals	have eyes
+animals	have feelings
+animals	have fur
+animals	located in laboratories
+animals	have muscles
+animals	have tails
+
+
+
+
+
+albums	located in book shelfs
+albums	books
+albums	albums
+albums	collections
+albums	located in closets
+albums	located in music stores
+albums	mediums
+albums	sound recordings
+albums	used for launchs
+albums	used for memory
+albums	used for music
+albums	used for play
+albums	used for sells
+albums	have songs
+
+accordions	located in bands
+accordions	located in music stores
+accordions	musical instruments
+accordions	used for fun
+accordions	used for music
+accordions	used for polka music
+accordions	have keyboards
+
+
+
+{"concept": "accelerator", "properties": ["located in vehicles", "part of airplanes", "used for speed"]}
+
+accelerator	located in vehicles
+accelerator	part of airplanes	
+accelerator	used for speed
+
+
+acne medication	located in bathrooms
+acne medication	located in cupboards
+
+acne medication	located in drugstores
+acne medication	located in pharmacies
+acne medication	located in tubes
+acne medication	medicine
+
+
+
+
+airplanes	aircrafts
+airplanes	capable of bombs
+airplanes	capable of stalls
+airplanes	capable of taxis
+airplanes	films
+airplanes	located in air
+airplanes	located in aircraft carriers
+airplanes	located in hangars
+airplanes	located in hangers
+airplanes	located in skies
+airplanes	located in war
+airplanes	used for air transportation
+airplanes	used for cargo
+airplanes	used for flies
+airplanes	used for flight
+airplanes	used for flying
+
+airplanes	used for transportation
+airplanes	used for travel
+airplanes	used for traveling
+airplanes	used for warfare
+airplanes	vehicles
+airplanes	have propellers
+airplanes	have wheels
+airplanes	have wings
+airplanes	capable of crashs
+airplanes	capable of near airports
+
+
+
+acorns	located in forests
+acorns	located in ground
+acorns	located in roofs
+acorns	nuts
+
+acorns	seeds
+
+
+acoustic guitars	acoustic instruments
+acoustic guitars	guitars
+acoustic guitars	located in bands
+acoustic guitars	located in closets
+acoustic guitars	located in houses
+acoustic guitars	located in rock bands
+acoustic guitars	located in studios
+acoustic guitars	used for folk music
+acoustic guitars	used for playing
+acoustic guitars	have string
+
+action figure	doll
+action figure	located in toy stores
+action figure	used for collecting
+action figures	used for fun
+action figures	used for play
+action figures	used for playing
+action figures	used for role playing
+
+
+
+accommodation	id
+accommodation	lteration
+accommodation	helpings
+accommodation	located in inns
+accommodation	located in motels
+accommodation	located in theaters
+accommodation	settlements
+accommodation	used for comfort
+accommodation	used for showers
+accommodation	used for sleep
+accommodation	used for sleeping
+accommodation	used for stays
+
+
+
+subway stations	located in cities
+paddle board	used on water
+scrambled eggs	types of egg dish
+
+
+
+airplanes	used for flying
+
+
+
+acorns	fruit, located in trees, have seeds
+
+acorns	located in forests
+acorns	located in ground
+acorns	located in roofs
+acorns	nuts
+acorns	part of oak
+acorns	seeds
+acorns	
+
+
+llama3_8B_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must be in valid JSON. Don't add explanation beyond the JSON.
+Please ensure that your responses are socially unbiased and positive in nature.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+Write the ten most salient properties of the following concept.
+Output must be in valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+Concept: <CONCEPT> <|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+
+I have an input file in which records are organised in concept and properties like the following:
+ 
+{
+"concept": "advertisement",
+"properties": [
+"Aims to persuade",
+"Uses various media",
+"Can be informative",
+"Measures response rates",
+"Often features testimonials",
+"May use emotional appeals",
+"Influences consumer choices",
+"Can be regulated",
+"Is a marketing tool",
+"Is a form of communication"
+]}
+
+however, some of the JSON blocks are not complete. There is a missing curly bracket "}" that ends the JSON block FOr example the following record:
+
+{
+"concept": "advertising",
+"properties": [
+"Promotes products or services",
+"Uses various media channels",
+"Targeted to specific audiences",
+"Measures effectiveness",
+"Can be persuasive",
+"Often uses visuals and text",
+"Has various forms (print, digital, etc.)",
+"Influences consumer behavior",
+"Has ethical considerations",
+"Is a multi-billion industry"
+]
+
+Sometimes the curly bracket "}" occurs in the next line after the square bracket "]" like the following record: 
+
+{
+"concept": "advice",
+"properties": [
+"Helpful guidance",
+"Opinion-based",
+"Personal or professional",
+"Given by an expert",
+"Can be explicit or implicit",
+"Intended to benefit",
+"May be sought or given",
+"Can be formal or informal",
+"Can be verbal or written",
+"May be followed or ignored"
+]
+}
+
+I will provide you with a sample file and your job is to extract all "concept" and "properties" pairs keeping in mind the above two types of incomplete records in the file. 
+
+Please find attached the sample file.
+
+
+
+commonsense_prompt = """\n
+[INST] From now on, you are a contestant in the general knowledge quiz contest and always answer all kinds of
+common sense questions accurately. I am the moderator of the game and the final is about to start. [/INST] \n
+That sounds like an exciting challenge! I'm ready to participate in the quiz contest as a contestant.
+Please go ahead and start the final round—I'm here to provide accurate answers to your common sense questions.
+[INST] Your answers must be a Python list.  [/INST]
+Ceratinly. I will always output a Python list.
+[INST] What are the most important five properties of <CONCEPT>? [/INST]
+"""
+
+
+<s>[INST] <<SYS>>
+From now on, you are a contestant in the general knowledge quiz contest and always answer all kinds of
+common sense questions accurately. I am the moderator of the game and the final is about to start.
+
+
+Your answers must be a Python list.
+ 
+<</SYS>>
+
+There's a llama in my garden 😱 What should I do? [/INST]
+
+
+
+p5 = """<s>[INST] <<SYS>>
+You are a researcher task in summarizing and writing concise brief of articles.  
+Please ensure that your responses are socially unbiased and positive in nature.
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write a concise TL;DR summary in numeric bullet-points for the following article, 
+don't repeat ideas in bullet points. Limit the number of bullet-point to 5. article: {BODY}
+[/INST]""".format(BODY=text)
+
+commonsense_propmt = """<s>[INST] <<SYS>>
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately.  
+Please ensure that your responses are socially unbiased and positive in nature.
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. 
+If you don't know the answer, please don't share false information.
+<</SYS>>
+Write the five most salient properties of the following concept. The propeties must be written in a Python list format. Limit the number of properties to 5. Concept: <CONCEPT>
+[/INST]"""
+
+
+You are a Python coder with 20 years of coding experience at Google. Answer my coding questions.
+
+
+I will provide you a text file which contains records of the form - {"concept": "railroad company", "properties": ["transport goods", "transport people", "have trains", "have tracks", "located in cities", "located in countryside", "have stations", "have schedules", "have routes", "make profits"]}. Some records do not have a closing curly "}" braces. One example of record missing closing curly braces "}" is {"concept": "crane ship", "properties": ["used for construction", "large size", "used for lifting", "located in ports", "used for offshore", "used for wind turbines", "used for oil rigs", "used for heavy lifting", "used for shipbuilding", "has cranes installed"]. You job is to parse the attached file and extract concepts and their properties. Your output must be in form concept"\t"list of properties.
+
+
+
+{"concept": "crane ship", "properties": ["used for construction", "large size", "used for lifting", "located in ports", "used for offshore", "used for wind turbines", "used for oil rigs", "used for heavy lifting", "used for shipbuilding", "has cranes installed"]}
+
+
+
+
+Hi Steven and Luis, please find attached the properties generated by Llama3 for the transport ontology concepts. One file is with incontext examples and another is without any. When we use incontext examples the properties are the likes of that we want such as "used for ...", "have ...", "located in ...", and "made of ...". 
+
+Looking at these properties, I think we will be able to steer the generation for the types of the proerties we want by giving only that type of properties in incontext examples. 
+
+I have used the following prompt with incontext example.
+
+llama3_8B_3inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "properties": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "bike".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "bike", "properties": ["used for riding", "bicycle", "capable of crashs", "capable of skids", "located in garages", "located in streets", "located in toy stores", "used for commuting", "used for transport", "common in asia"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "boat".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "boat", "properties": ["located in bodies of water", "made of fiber", "means of transport", "used for fishing", "located in garages", "used for recreation", "used for rowing", "used for travel", "have motors", "have sails"]}<|eot_id|>
+Write the ten most salient properties of the concept "cake".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "cake", "properties": ["deserts", "used for weddings", "used for special occasions", "made of eggs", "located in bakeries", "located in birthday parties", "made of flour", "located in grocery stores", "used for birthdays", "baked in ovens"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write the ten most salient properties of the concept "<CONCEPT>".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+Ofcourse we can provide many different incontext examples and experiemnt but for now I am moving to setting up LLM2Vec to get the embeddings. I will come back to property generation after this.
+
+
+/home/amitgajbhiye/miniconda3/envs/gvenv
+
+/home/amitgajbhiye/miniconda3/envs/gvenv/lib/
+
+
+export CUDA_HOME=/home/amitgajbhiye/miniconda3/envs/gvenv/lib
+export PATH=$CUDA_HOME/bin:$PATH
+export LD_LIBRARY_PATH=$CUDA_HOME/lib:$LD_LIBRARY_PATH
+
+pip install llm2vec
+pip install flash-attn --no-build-isolation
+
+
+-rw-rw-r-- 1 amit amit 4.1K May 28 12:39 eps0_7_minsam10_transport_con_cluster_llama38b_embeds.txt
+-rw-rw-r-- 1 amit amit 4.1K May 28 12:39 eps0_7_minsam9_transport_con_cluster_llama38b_embeds.txt
+eps0_7_minsam7_transport_con_cluster_llama38b_embeds
+
+eps0_7_minsam5_transport_con_cluster_llama38b_embeds
+eps0_7_minsam3_transport_con_cluster_llama38b_embeds.txt
+
+
+eps0_5_minsam3_transport_con_cluster_llama38b_embeds.txt
+
+
+
+Categorise the concepts: turbojet engine, turboprop airplane, propeller airplane.
+
+turbojet engine turboprop airplane propeller airplane	
+
+
+llama3_8B_3inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concepts": [list of concepts to categorise], "category": [in_less_than_ten_words]}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write a category for the following group of concepts bench, stool, chair, desk, bookshelf.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["bench", "stool", "chair", "desk", "bookshelf"], "category": ["furniture"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write a category for the following group of concepts chessboard, cards, tennis, football.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["chessboard", "cards", "tennis", "football"], "category": ["games"]}<|eot_id|>
+Write the ten most salient properties of the concept "cake".<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concepts": ["whisk", "mortar", "kitchen shears"], "category": ["tools"]}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+Write a category for the following group of concepts <CONCEPT_LIST>.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+
+
+
+
+bench, stool, chair, desk, bookshelf	furniture
+chessboard, cards, tennis, football	games
+
+whisk, mortar, kitchen shears	tools
+
+
+
+
+military watercraft	purpose	transport
+military watercraft	purpose	attack
+military watercraft	purpose	defend
+military watercraft	purpose	patrol
+
+
+In terms of the purpose, write the ten most salient properties of the concept "military watercraft".
+
+
+{"concept": "military watercraft", "properties": ["", ]}<|eot_id|>
+
+
+{"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "ownership": ["private", "government"], "services": ["passenger", "freight", "tourist"], "equipment": ["trains", "locomotives", "tracks"], "operations": ["scheduling", "maintenance", "safety"], "location": ["global", "local", "regional"], "revenue source": ["ticket sales", "cargo fees", "advertising"]}}
+
+{"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "business model": ["freight transport", "passenger transport", "tourism"], "infrastructure": ["tracks", "stations", "trains"], "operations": ["scheduling", "maintenance", "staffing"], "revenue streams": ["ticket sales", "freight charges", "advertising"], "regulation": ["government oversight", "safety standards", "environmental regulations"], "locations": ["across the country", "globally", "in a specific region"]}}
+
+{"concept": "railroad company", "facet_properties_dict": {"industry": ["transportation", "logistics"], "function": ["moving goods", "passenger service"], "structure": ["tracks", "trains", "stations"], "ownership": ["private", "public"], "revenue": ["ticket sales", "freight fees"], "operations": ["scheduling", "maintenance", "security"], "equipment": ["locomotives", "cars", "signaling systems"]}}
+
+
+
+
+python3 src/llama3_concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_environment_facet_proper.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_science_facet_proper.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_equipment_facet_proper.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_science_ev_facet_property.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_science_wn_facet_property.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/llama3_commonsense_facet_proper.json
+
+
+python3 src/facet_property_clustering.py --config_file configs/clustering/llama3b8_inst_mntp_embeds_equipment.json
+
+python3 src/facet_property_clustering.py --config_file configs/clustering/llama3b8_inst_mntp_embeds_commonsense.json
+
+
+***** hf_token = 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 *****
+
+
+python3 src/facet_property_clustering.py --config_file configs/clustering/5_bienc_commonsense_preferences.json
+
+
+
+
+For the concept of teacher, write its different facets and most salient properties under each facet.
+{"concept": "teacher", "facet_properties_dict": {"category": ["educator", "mentor", "professional"], "role": ["teaching", "guiding students", "assessing", "classroom management"], "workplace": ["school", "college", "university", "training centre"], "skill": ["creativity", "communication", "patience", "subject expertise", "organisation"], "tool": ["textbook", "whiteboard", "computer", "educational materials"], "impact": ["knowledge transfer", "skill development", "inspiration", "career guidance"], "types": ["primary school teacher", "high school teacher", "college professor", "special education teacher"]}}
+
+For the concept of bamboo, write its different facets and most salient properties under each facet.
+{"concept": "bamboo", "facet_properties_dict": {"category": ["plant", "grass family", "natural resource"], "growth": ["fast-growing", "tall", "woody stems"], "used for": ["construction", "furniture", "paper", "textiles", "food for pandas"], "location": ["Asia", "tropical regions", "forests", "gardens"], "appearance": ["green stem", "hollow", "jointed nodes"], "environmental impact": ["afforestation", "carbon sequestration", "erosion control", "renewable resource"], "types": ["clumping bamboo", "running bamboo"]}}
+
+For the concept of Bill Gates, write its different facets and most salient properties under each facet.
+{"concept": "Bill Gates", "facet_properties_dict": {"category": ["entrepreneur", "philanthropist", "author"], "founded": ["Microsoft", "Bill & Melinda Gates Foundation"], "known for": ["co-founding Microsoft", "Windows software", "philanthropy"], "born": ["October 28, 1955"], "philanthropy": ["global health", "education", "poverty alleviation", "climate change"], "publications": ["The Road Ahead", "Business @ the Speed of Thought", "How to Avoid a Climate Disaster", "How to Prevent the Next Pandemic"], "awards": ["Presidential Medal of Freedom", "Padma Bhushan", "Knight Commander of the Order of the British Empire"]}}
+
+For the concept of human, write its different facets and most salient properties under each facet.
+{"concept": "human", "facet_properties_dict": {"category": ["mammal", "primate", "homo sapiens"], "anatomy": ["brain", "heart", "lungs", "skin", "muscles", "bones"], "characteristics": ["bipedal", "intelligent", "social", "emotional", "tool users"], "life stages": ["infant", "child", "adolescent", "adult", "elderly"], "used for": ["social interaction", "cultural development", "technology creation", "reproduction"], "location": ["earth", "cities", "villages", "homes"], "needs": ["food", "water", "shelter", "community", "education"], "communication": ["language", "gestures", "writing", "art"]}}
+
+For the concept of book, write its different facets and most salient properties under each facet.
+{"concept": "book", "facet_properties_dict": {"types": ["fiction", "non-fiction", "textbook", "manual", "graphic novel"], "parts": ["cover", "pages", "spine", "chapters", "table of contents"], "used for": ["reading", "education", "entertainment", "reference"], "formats": ["physical", "ebook", "audiobook"], "materials": ["paper", "ink", "binding materials"], "location": ["library", "bookstore", "home", "school", "college"]}}
+
+
+
+llama3_8B_5inc_prompt = """<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+
+You are a contestant in the general knowledge quiz contest and always answer all kinds of common sense questions accurately. 
+All output must include only valid JSON like the following example {"concept": concept, "facet_properties_dict": {facet: [list of properties with each property less than ten words long]}}.
+Don't add any explanations before and after the JSON.
+If you don't know the answer, please don't share false information.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of teacher, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "teacher", "facet_properties_dict": {"role": ["teaching", "guiding students", "assessing", "classroom management"], "workplace": ["school", "college", "university", "training centre"], "skill": ["creativity", "communication", "patience", "subject expertise", "organisation"], "tool": ["textbook", "whiteboard", "computer", "educational materials"], "impact": ["knowledge transfer", "skill development", "inspiration", "career guidance"], "types": ["primary school teacher", "high school teacher", "college professor", "special education teacher"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of bamboo, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "bamboo", "facet_properties_dict": {"category": ["plant", "grass family", "natural resource"], "growth": ["fast-growing", "tall", "woody stems"], "used for": ["construction", "furniture", "paper", "textiles", "food for pandas"], "location": ["Asia", "tropical regions", "forests", "gardens"], "appearance": ["green stem", "hollow", "jointed nodes"], "environmental impact": ["afforestation", "carbon sequestration", "erosion control", "renewable resource"], "types": ["clumping bamboo", "running bamboo"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of Bill Gates, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "Bill Gates", "facet_properties_dict": {"profession": ["entrepreneur", "philanthropist", "author"], "founded": ["Microsoft", "Bill & Melinda Gates Foundation"], "known for": ["co-founding Microsoft", "Windows software", "philanthropy"], "born": ["October 28, 1955"], "philanthropy": ["global health", "education", "poverty alleviation", "climate change"], "publications": ["The Road Ahead", "Business @ the Speed of Thought", "How to Avoid a Climate Disaster", "How to Prevent the Next Pandemic"], "awards": ["Presidential Medal of Freedom", "Padma Bhushan", "Knight Commander of the Order of the British Empire"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of human, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "human", "facet_properties_dict": {"anatomy": ["brain", "heart", "lungs", "skin", "muscles", "bones"], "characteristics": ["bipedal", "intelligent", "social", "emotional", "tool users"], "life stages": ["infant", "child", "adolescent", "adult", "elderly"], "used for": ["social interaction", "cultural development", "technology creation", "reproduction"], "location": ["earth", "cities", "villages", "homes"], "needs": ["food", "water", "shelter", "community", "education"], "communication": ["language", "gestures", "writing", "art"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of book, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>
+
+{"concept": "book", "facet_properties_dict": {"types": ["fiction", "non-fiction", "textbook", "manual", "graphic novel"], "parts": ["cover", "pages", "spine", "chapters", "table of contents"], "used for": ["reading", "education", "entertainment", "reference"], "formats": ["physical", "ebook", "audiobook"], "materials": ["paper", "ink", "binding materials"], "location": ["library", "bookstore", "home", "school", "college"]}}<|eot_id|>
+<|start_header_id|>user<|end_header_id|>
+
+For the concept of <CONCEPT>, write its different facets and most salient properties under each facet.<|eot_id|>
+<|start_header_id|>assistant<|end_header_id|>"""
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/2_llama3_5inc_commonsense_facet_proper.json
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/2_llama3_5inc_food_facet_property.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/4_llama3_1inc_ufet_repeat_10.json
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/6_llama3_1inc_sumo_repeat_10.json
+
+src/facet_property_clustering.py 
+
+
+python3 src/concept_facet_property_prompting.py --config configs/facet_prop_generation/5_llama3_1inc_wikidata_repeat_10.json
+
++++++++++++++++++++++
+Wikifiles parsed upto date: 6th Sept 2024:
+['facet_property_songs_lyrics by_Brian May_dataset.txt', 'facet_property_songs_composer_Karl Martin_dataset.txt', 'facet_property_mountains_mountain range_Andes_dataset.txt', 'facet_property_politicians_award received_Grand Cross of the Legion of Honour_dataset.txt', 'facet_property_games_uses_isometric view_dataset.txt', 'facet_property_songs_has characteristic_debut single_dataset.txt', 'facet_property_mountains_continent_Asia_dataset.txt', 'facet_property_games_platform_Xbox 360_dataset.txt', 'facet_property_games_software engine_Unreal Engine 3_dataset.txt', 'facet_property_mountains_parent peak_Finsteraarhorn_dataset.txt', 'facet_property_humans_record label_Columbia Records_dataset.txt', 'facet_property_games_game mode_single-player video game_dataset.txt', 'facet_property_cathedrals_architectural style_Gothic architecture_dataset.txt', 'facet_property_humans_has works in the collection_Victoria and Albert Museum_dataset.txt']
++++++++++++++++++++++++++++
