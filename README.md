@@ -26,5 +26,7 @@ Concept Commonality is identifying a set of concepts which share some properties
 
 5) Cluster the `facet: property` embeddings use the following script.
 
-`python3 src/wikidata_facet_property_clustering.py --config_file  configs/clustering/11_wine_mistral7b_inst_mntp_facet_colon_property_embeds_1inc_repeat10.json`
+`python3 src/wikidata_facet_property_clustering.py --config_file  configs/clustering/10_mistral7b_inst_mntp_facet_colon_property_embeds_5inc_science.json`
 
+
+The final output file will be saved in the output directory specified by the `output_dir` field in the configuration file used to execute the `wikidata_facet_property_clustering.py` Python script. The file's name is determined by the `max_jaccard_gold_and_predicted_clusters_file` field in the same configuration file. 
